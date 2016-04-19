@@ -1,0 +1,76 @@
+{
+  "id": 202931063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.2828,38.963714,-95.2828,38.963714",
+    "geom:latitude":38.963714,
+    "geom:longitude":-95.2828,
+    "iso:country":"US",
+    "sg:address":"1120 Parkside Cir",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 856 1544",
+    "sg:postcode":"66049",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "container",
+        "broker",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945709,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HkHXmlSjsTU8xRSq2SWaO_38.963714_-95.282800@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d18bbbaafccb7a7910040a80e3bee0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085347,
+            "locality_id":85945709,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202931063
+        }
+    ],
+    "wof:id":202931063,
+    "wof:lastmodified":1449062419,
+    "wof:name":"E-Shipping Logistics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "container",
+        "broker",
+        "shipping"
+    ]
+},
+  "bbox": [-95.2828,38.963714,-95.2828,38.963714],
+  "geometry": {"coordinates":[-95.2828,38.963714],"type":"Point"}
+}

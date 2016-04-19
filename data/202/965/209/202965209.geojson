@@ -1,0 +1,71 @@
+{
+  "id": 202965209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.684308,39.00471,-95.684308,39.00471",
+    "geom:latitude":39.00471,
+    "geom:longitude":-95.684308,
+    "iso:country":"US",
+    "sg:address":"3400 SW Van Buren St Uppr",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 296 3195",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11UhEBgcNOvyquSMjtGtDF_39.004710_-95.684308@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7efa84dd47f7219133ab4b4815ae23f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":202965209
+        }
+    ],
+    "wof:id":202965209,
+    "wof:lastmodified":1449061867,
+    "wof:name":"Northern Parole Region Office",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-95.684308,39.00471,-95.684308,39.00471],
+  "geometry": {"coordinates":[-95.684308,39.00471],"type":"Point"}
+}

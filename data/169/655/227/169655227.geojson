@@ -1,0 +1,68 @@
+{
+  "id": 169655227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.793274,38.883602,-94.793274,38.883602",
+    "geom:latitude":38.883602,
+    "geom:longitude":-94.793274,
+    "iso:country":"US",
+    "sg:address":"1501 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 390 6666",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VShqQd0vZoPWwMH1QELmD_38.883602_-94.793274@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b8c11080a85705203f3a62ff5563d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":169655227
+        }
+    ],
+    "wof:id":169655227,
+    "wof:lastmodified":1449034586,
+    "wof:name":"Olathe Toyota Used Car Outlet",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-94.793274,38.883602,-94.793274,38.883602],
+  "geometry": {"coordinates":[-94.793274,38.883602],"type":"Point"}
+}

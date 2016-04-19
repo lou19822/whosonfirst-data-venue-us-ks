@@ -1,0 +1,66 @@
+{
+  "id": 202916543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.938454,39.13723,-94.938454,39.13723",
+    "geom:latitude":39.13723,
+    "geom:longitude":-94.938454,
+    "iso:country":"US",
+    "sg:address":"2620 N 155th St",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 3397",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ui8RFfTutLMk2Z1NtlxNG_39.137230_-94.938454@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f137457d3977031bc0c103ea60f6c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":202916543
+        }
+    ],
+    "wof:id":202916543,
+    "wof:lastmodified":1449061501,
+    "wof:name":"Basehor Police Department Non-Emergency",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-94.938454,39.13723,-94.938454,39.13723],
+  "geometry": {"coordinates":[-94.938454,39.13723],"type":"Point"}
+}

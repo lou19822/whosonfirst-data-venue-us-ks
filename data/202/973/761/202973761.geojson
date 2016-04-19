@@ -1,0 +1,72 @@
+{
+  "id": 202973761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705086,37.440352,-94.705086,37.440352",
+    "geom:latitude":37.440352,
+    "geom:longitude":-94.705086,
+    "iso:country":"US",
+    "sg:address":"132 S Highway 69",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4970",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mb2tuUCdxsCDyyuIrtDPw_37.440352_-94.705086@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad5f09865c5e46fc46e78f30618eae75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202973761
+        }
+    ],
+    "wof:id":202973761,
+    "wof:lastmodified":1449061643,
+    "wof:name":"Saia's Body Shop",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [-94.705086,37.440352,-94.705086,37.440352],
+  "geometry": {"coordinates":[-94.705086,37.440352],"type":"Point"}
+}

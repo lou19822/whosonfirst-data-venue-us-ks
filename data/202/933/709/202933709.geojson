@@ -1,0 +1,71 @@
+{
+  "id": 202933709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.832674,38.887303,-94.832674,38.887303",
+    "geom:latitude":38.887303,
+    "geom:longitude":-94.832674,
+    "iso:country":"US",
+    "sg:address":"1040 W Spruce St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 3897",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iCF8j9WT9NKbbjug28FXb_38.887303_-94.832674@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68694ed204ee4764015c908c706d941e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202933709
+        }
+    ],
+    "wof:id":202933709,
+    "wof:lastmodified":1449060629,
+    "wof:name":"Veterans Transportation Service",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [-94.832674,38.887303,-94.832674,38.887303],
+  "geometry": {"coordinates":[-94.832674,38.887303],"type":"Point"}
+}

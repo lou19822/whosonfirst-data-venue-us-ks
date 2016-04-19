@@ -1,0 +1,68 @@
+{
+  "id": 169634605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.345648,38.047599,-97.345648,38.047599",
+    "geom:latitude":38.047599,
+    "geom:longitude":-97.345648,
+    "iso:country":"US",
+    "sg:address":"128 W 5th St",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 282 1977",
+    "sg:postcode":"67114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946439,
+        102083457,
+        85846955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q2T9ht4QubIKYyoIebtCF_38.047599_-97.345648@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fec7a91909ba9733e445837b76bf318e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083457,
+            "locality_id":85946439,
+            "neighbourhood_id":85846955,
+            "region_id":85688555,
+            "venue_id":169634605
+        }
+    ],
+    "wof:id":169634605,
+    "wof:lastmodified":1449034255,
+    "wof:name":"Bob Stith Heating Cooling",
+    "wof:parent_id":85846955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-97.345648,38.047599,-97.345648,38.047599],
+  "geometry": {"coordinates":[-97.345648,38.047599],"type":"Point"}
+}

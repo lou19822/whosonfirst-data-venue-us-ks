@@ -1,0 +1,80 @@
+{
+  "id": 202962071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.643999,39.020886,-95.643999,39.020886",
+    "geom:latitude":39.020886,
+    "geom:longitude":-95.643999,
+    "iso:country":"US",
+    "sg:address":"2557 SE Golden Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 4166",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.colonialpark.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oCgjhmvFESWy3ndZO5dFJ_39.020886_-95.643999@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ead3bc14f214441efb3187a9686264d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":202962071
+        }
+    ],
+    "wof:id":202962071,
+    "wof:lastmodified":1449061607,
+    "wof:name":"Colonial Park Townehouses",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-95.643999,39.020886,-95.643999,39.020886],
+  "geometry": {"coordinates":[-95.643999,39.020886],"type":"Point"}
+}

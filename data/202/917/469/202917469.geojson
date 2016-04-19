@@ -1,0 +1,73 @@
+{
+  "id": 202917469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.718575,38.723798,-94.718575,38.723798",
+    "geom:latitude":38.723798,
+    "geom:longitude":-94.718575,
+    "iso:country":"US",
+    "sg:address":"112 4th Ave",
+    "sg:city":"Bucyrus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"66013",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946613,
+        102085273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KbYxkK1uOTwizYjX3J7qI_38.723798_-94.718575@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69c7f02b862c19940174e317c52d7781",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085273,
+            "locality_id":85946613,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202917469
+        }
+    ],
+    "wof:id":202917469,
+    "wof:lastmodified":1449062324,
+    "wof:name":"USPS - United States Post Office - Bucyrus Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-94.718575,38.723798,-94.718575,38.723798],
+  "geometry": {"coordinates":[-94.718575,38.723798],"type":"Point"}
+}

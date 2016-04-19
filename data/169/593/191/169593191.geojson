@@ -1,0 +1,68 @@
+{
+  "id": 169593191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.456806,37.623091,-97.456806,37.623091",
+    "geom:latitude":37.623091,
+    "geom:longitude":-97.456806,
+    "iso:country":"US",
+    "sg:address":"10008 W York St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 554 0001",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85852945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52fm8ApD7dDWrqCmJz3kYX_37.623091_-97.456806@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a08dd7b482c3c304141eac642227605",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85852945,
+            "region_id":85688555,
+            "venue_id":169593191
+        }
+    ],
+    "wof:id":169593191,
+    "wof:lastmodified":1449034878,
+    "wof:name":"Don Klausmeyer Construction Co",
+    "wof:parent_id":85852945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-97.456806,37.623091,-97.456806,37.623091],
+  "geometry": {"coordinates":[-97.456806,37.623091],"type":"Point"}
+}

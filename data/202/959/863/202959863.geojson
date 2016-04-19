@@ -1,0 +1,74 @@
+{
+  "id": 202959863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.675537,39.05389,-95.675537,39.05389",
+    "geom:latitude":39.05389,
+    "geom:longitude":-95.675537,
+    "iso:country":"US",
+    "sg:address":"500 S.W. Vanburen",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 296 2500",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "government-state",
+        "opportunity"
+    ],
+    "sg:website":"http://www.srs.ks.gov/Pages/Default.aspx",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03lvjq47zRm60MXH6qduNk_39.053890_-95.675537@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3675607cc3b83183e3f30afcf5add39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202959863
+        }
+    ],
+    "wof:id":202959863,
+    "wof:lastmodified":1449062392,
+    "wof:name":"Kansas Dept Of Social And Rehabilitation Services",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "opportunity"
+    ]
+},
+  "bbox": [-95.675537,39.05389,-95.675537,39.05389],
+  "geometry": {"coordinates":[-95.675537,39.05389],"type":"Point"}
+}

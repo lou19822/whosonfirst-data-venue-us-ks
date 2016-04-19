@@ -1,0 +1,65 @@
+{
+  "id": 169668797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.082014,38.7185,-95.082014,38.7185",
+    "geom:latitude":38.7185,
+    "geom:longitude":-95.082014,
+    "iso:country":"US",
+    "sg:address":"501 Main St",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 883 2222",
+    "sg:postcode":"66092",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945731,
+        102082121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tWH9PDfQkAO94JXfb0asd_38.718500_-95.082014@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a6d858104314e440f0a7f521b3ddf00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082121,
+            "locality_id":85945731,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169668797
+        }
+    ],
+    "wof:id":169668797,
+    "wof:lastmodified":1449034989,
+    "wof:name":"Wellsville Dental Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-95.082014,38.7185,-95.082014,38.7185],
+  "geometry": {"coordinates":[-95.082014,38.7185],"type":"Point"}
+}

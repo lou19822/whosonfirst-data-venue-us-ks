@@ -1,0 +1,67 @@
+{
+  "id": 169599145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.91903,38.8111,-94.91903,38.8111",
+    "geom:latitude":38.8111,
+    "geom:longitude":-94.91903,
+    "iso:country":"US",
+    "sg:address":"518 E Main St",
+    "sg:city":"Gardner",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 884 8802",
+    "sg:postcode":"66030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945791,
+        102082673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TcgX9wWoNUdeaWi7xzuEc_38.811100_-94.919030@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbc7827fe1172ecab4561a2f8c9623cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945791,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169599145
+        }
+    ],
+    "wof:id":169599145,
+    "wof:lastmodified":1449034206,
+    "wof:name":"E Z Carwash Coct",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-94.91903,38.8111,-94.91903,38.8111],
+  "geometry": {"coordinates":[-94.91903,38.8111],"type":"Point"}
+}

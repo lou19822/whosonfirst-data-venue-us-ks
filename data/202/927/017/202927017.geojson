@@ -1,0 +1,86 @@
+{
+  "id": 202927017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.924321,39.319569,-94.924321,39.319569",
+    "geom:latitude":39.319569,
+    "geom:longitude":-94.924321,
+    "iso:country":"US",
+    "sg:address":"823 Miami St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 6844",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "management",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "sg:website":"http://www.wesleyproperties.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LKeRMLsCM4oWOBw6pzT3W_39.319569_-94.924321@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc31a8899437888c4d9d2c2760fb22d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202927017
+        }
+    ],
+    "wof:id":202927017,
+    "wof:lastmodified":1449062379,
+    "wof:name":"Jerry Wesley Real Estate",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "management",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-94.924321,39.319569,-94.924321,39.319569],
+  "geometry": {"coordinates":[-94.924321,39.319569],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 202963639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.657738,39.050819,-95.657738,39.050819",
+    "geom:latitude":39.050819,
+    "geom:longitude":-95.657738,
+    "iso:country":"US",
+    "sg:address":"400 SE Lake St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 4175",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27rDWV01tAOphCggU9xJTd_39.050819_-95.657738@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9d5fa9c39ee9c6cbd505321345511bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202963639
+        }
+    ],
+    "wof:id":202963639,
+    "wof:lastmodified":1449060359,
+    "wof:name":"James Cameron Fish Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [-95.657738,39.050819,-95.657738,39.050819],
+  "geometry": {"coordinates":[-95.657738,39.050819],"type":"Point"}
+}

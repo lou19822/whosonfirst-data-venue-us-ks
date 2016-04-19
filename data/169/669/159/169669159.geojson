@@ -1,0 +1,66 @@
+{
+  "id": 169669159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.353162,37.689995,-97.353162,37.689995",
+    "geom:latitude":37.689995,
+    "geom:longitude":-97.353162,
+    "iso:country":"US",
+    "sg:address":"435 N Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 1239",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67UvqK5OSsChmKKxDyC3gt_37.689995_-97.353162@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f57b5b59c72dff1f377db88d5244f93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872809,
+            "region_id":85688555,
+            "venue_id":169669159
+        }
+    ],
+    "wof:id":169669159,
+    "wof:lastmodified":1449033056,
+    "wof:name":"Seneca Veterinary Clinic",
+    "wof:parent_id":85872809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-97.353162,37.689995,-97.353162,37.689995],
+  "geometry": {"coordinates":[-97.353162,37.689995],"type":"Point"}
+}

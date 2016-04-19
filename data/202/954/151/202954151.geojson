@@ -1,0 +1,81 @@
+{
+  "id": 202954151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.832848,39.001702,-94.832848,39.001702",
+    "geom:latitude":39.001702,
+    "geom:longitude":-94.832848,
+    "iso:country":"US",
+    "sg:address":"7011 Crest Dr",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 4100",
+    "sg:postcode":"66218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "control",
+        "system",
+        "controls",
+        "regulator",
+        "regulators-control",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945763,
+        102082673,
+        85835005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ekJa0ZQPN8LoCidlC5AsN_39.001702_-94.832848@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f64754316c95927d8b6da4f7a21962bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945763,
+            "neighbourhood_id":85835005,
+            "region_id":85688555,
+            "venue_id":202954151
+        }
+    ],
+    "wof:id":202954151,
+    "wof:lastmodified":1449062327,
+    "wof:name":"Mobery Inc",
+    "wof:parent_id":85835005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "system",
+        "controls",
+        "regulator",
+        "regulators-control",
+        "panel"
+    ]
+},
+  "bbox": [-94.832848,39.001702,-94.832848,39.001702],
+  "geometry": {"coordinates":[-94.832848,39.001702],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169634839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.695936,39.017732,-94.695936,39.017732",
+    "geom:latitude":39.017732,
+    "geom:longitude":-94.695936,
+    "iso:country":"US",
+    "sg:address":"6114 Merriam Ln",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 677 1818",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QSh9oYAp7B57QaWA6DbQe_39.017732_-94.695936@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8eb1621ab3c607c5a10add9ea899ae80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":169634839
+        }
+    ],
+    "wof:id":169634839,
+    "wof:lastmodified":1449034256,
+    "wof:name":"Rod's Auto Repair",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-94.695936,39.017732,-94.695936,39.017732],
+  "geometry": {"coordinates":[-94.695936,39.017732],"type":"Point"}
+}

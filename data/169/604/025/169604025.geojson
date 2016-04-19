@@ -1,0 +1,65 @@
+{
+  "id": 169604025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-101.799179,39.774122,-101.799179,39.774122",
+    "geom:latitude":39.774122,
+    "geom:longitude":-101.799179,
+    "iso:country":"US",
+    "sg:address":"212 Washington St",
+    "sg:city":"St Francis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 332 8880",
+    "sg:postcode":"67756",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946497,
+        102082697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xAWVnA3oGVqWoaZqQ7yeu_39.774122_-101.799179@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4af901dd3c23c648967e8de1cb00c0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082697,
+            "locality_id":85946497,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169604025
+        }
+    ],
+    "wof:id":169604025,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Cheyenne County Sheriff",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [-101.799179,39.774122,-101.799179,39.774122],
+  "geometry": {"coordinates":[-101.799179,39.774122],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169635589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.327638,37.664384,-97.327638,37.664384",
+    "geom:latitude":37.664384,
+    "geom:longitude":-97.327638,
+    "iso:country":"US",
+    "sg:address":"801 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 2801",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aUCc7lsLTLjMXj2V3ZzMf_37.664384_-97.327638@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbb0dcffdf6974063799d15ddba460e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":169635589
+        }
+    ],
+    "wof:id":169635589,
+    "wof:lastmodified":1449034099,
+    "wof:name":"Dean's Auto Ctr Inc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [-97.327638,37.664384,-97.327638,37.664384],
+  "geometry": {"coordinates":[-97.327638,37.664384],"type":"Point"}
+}

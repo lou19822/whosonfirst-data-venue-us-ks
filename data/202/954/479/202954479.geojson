@@ -1,0 +1,77 @@
+{
+  "id": 202954479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.822007,39.029042,-94.822007,39.029042",
+    "geom:latitude":39.029042,
+    "geom:longitude":-94.822007,
+    "iso:country":"US",
+    "sg:address":"20201 W 55th St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 452 4100",
+    "sg:postcode":"66218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945763,
+        102082673,
+        85859465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A6SAEmW2ReAG9EZxfh8et_39.029042_-94.822007@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"542b134faf0a6bbc78676f34eac066fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945763,
+            "neighbourhood_id":85859465,
+            "region_id":85688555,
+            "venue_id":202954479
+        }
+    ],
+    "wof:id":202954479,
+    "wof:lastmodified":1449062331,
+    "wof:name":"Bison Fence",
+    "wof:parent_id":85859465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-94.822007,39.029042,-94.822007,39.029042],
+  "geometry": {"coordinates":[-94.822007,39.029042],"type":"Point"}
+}

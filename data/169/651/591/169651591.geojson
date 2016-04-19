@@ -1,0 +1,67 @@
+{
+  "id": 169651591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.430078,37.920356,-97.430078,37.920356",
+    "geom:latitude":37.920356,
+    "geom:longitude":-97.430078,
+    "iso:country":"US",
+    "sg:address":"712 Monroe Ave N",
+    "sg:city":"Sedgwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 772 5185",
+    "sg:postcode":"67135",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945825,
+        102083457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vk5awhkmdDzjCYDKdyNL5_37.920356_-97.430078@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41fa7052a8e11a1e216b841522597f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083457,
+            "locality_id":85945825,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169651591
+        }
+    ],
+    "wof:id":169651591,
+    "wof:lastmodified":1449033346,
+    "wof:name":"Sedgwick Health Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-97.430078,37.920356,-97.430078,37.920356],
+  "geometry": {"coordinates":[-97.430078,37.920356],"type":"Point"}
+}

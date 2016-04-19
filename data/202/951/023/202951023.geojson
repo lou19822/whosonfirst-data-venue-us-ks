@@ -1,0 +1,87 @@
+{
+  "id": 202951023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.731354,38.981079,-94.731354,38.981079",
+    "geom:latitude":38.981079,
+    "geom:longitude":-94.731354,
+    "iso:country":"US",
+    "sg:address":"12629 W 82nd Ter",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 525 0414",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tire",
+        "automobile",
+        "brake",
+        "equipment-service",
+        "towing",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.lstotalautocare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ETv1qwO1X7hrvRsBksrjT_38.981079_-94.731354@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd3d7c805f972fc5bbcb2f4b9365513f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":202951023
+        }
+    ],
+    "wof:id":202951023,
+    "wof:lastmodified":1449060207,
+    "wof:name":"Lee's Summit Total Auto Care",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "automobile",
+        "brake",
+        "equipment-service",
+        "towing",
+        "air conditioning"
+    ]
+},
+  "bbox": [-94.731354,38.981079,-94.731354,38.981079],
+  "geometry": {"coordinates":[-94.731354,38.981079],"type":"Point"}
+}

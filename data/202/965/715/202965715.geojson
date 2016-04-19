@@ -1,0 +1,80 @@
+{
+  "id": 202965715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.682358,39.04921,-95.682358,39.04921",
+    "geom:latitude":39.04921,
+    "geom:longitude":-95.682358,
+    "iso:country":"US",
+    "sg:address":"901 SW Tyler St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 0751",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.hrm-topeka.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27X441oEeRhkNZYQet3I7v_39.049210_-95.682358@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2cdf491877d6e0e369958b94e7d7e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202965715
+        }
+    ],
+    "wof:id":202965715,
+    "wof:lastmodified":1449061867,
+    "wof:name":"Chartwell, The",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-95.682358,39.04921,-95.682358,39.04921],
+  "geometry": {"coordinates":[-95.682358,39.04921],"type":"Point"}
+}

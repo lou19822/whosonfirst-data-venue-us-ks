@@ -1,0 +1,68 @@
+{
+  "id": 169628821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.690927,38.995132,-94.690927,38.995132",
+    "geom:latitude":38.995132,
+    "geom:longitude":-94.690927,
+    "iso:country":"US",
+    "sg:address":"8901 W 74th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 677 4010",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w6uMQzEIXov2bwilGzHKf_38.995132_-94.690927@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3977840fcf51dabb3fc2de7415e0937d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879543,
+            "region_id":85688555,
+            "venue_id":169628821
+        }
+    ],
+    "wof:id":169628821,
+    "wof:lastmodified":1449035332,
+    "wof:name":"Colon & Rectal Surgeons Of KC",
+    "wof:parent_id":85879543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.690927,38.995132,-94.690927,38.995132],
+  "geometry": {"coordinates":[-94.690927,38.995132],"type":"Point"}
+}

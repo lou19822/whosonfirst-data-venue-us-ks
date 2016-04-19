@@ -1,0 +1,72 @@
+{
+  "id": 202913341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.115211,39.576469,-95.115211,39.576469",
+    "geom:latitude":39.576469,
+    "geom:longitude":-95.115211,
+    "iso:country":"US",
+    "sg:address":"1301 N 2nd St",
+    "sg:city":"Atchison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 360 5867",
+    "sg:postcode":"66002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medical",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945497,
+        102082665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6apS4OY66NAVxO2GTacNtd_39.576469_-95.115211@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1b5f14dc73deade315592c3f0da4bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082665,
+            "locality_id":85945497,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202913341
+        }
+    ],
+    "wof:id":202913341,
+    "wof:lastmodified":1449061097,
+    "wof:name":"Business Health Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "welfare"
+    ]
+},
+  "bbox": [-95.115211,39.576469,-95.115211,39.576469],
+  "geometry": {"coordinates":[-95.115211,39.576469],"type":"Point"}
+}

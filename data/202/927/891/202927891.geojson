@@ -1,0 +1,77 @@
+{
+  "id": 202927891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.912057,39.316601,-94.912057,39.316601",
+    "geom:latitude":39.316601,
+    "geom:longitude":-94.912057,
+    "iso:country":"US",
+    "sg:address":"315 Choctaw St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 3999",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "used",
+        "truck",
+        "new"
+    ],
+    "sg:website":"http://www.martenschevy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mYSTbncEBiz6tOvyivoJh_39.316601_-94.912057@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1b3b0bdd1a4145463772345c3857c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202927891
+        }
+    ],
+    "wof:id":202927891,
+    "wof:lastmodified":1449062380,
+    "wof:name":"Henry Marten's GM Super Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "truck",
+        "new"
+    ]
+},
+  "bbox": [-94.912057,39.316601,-94.912057,39.316601],
+  "geometry": {"coordinates":[-94.912057,39.316601],"type":"Point"}
+}

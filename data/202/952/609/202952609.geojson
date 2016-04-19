@@ -1,0 +1,67 @@
+{
+  "id": 202952609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.739909,38.949246,-94.739909,38.949246",
+    "geom:latitude":38.949246,
+    "geom:longitude":-94.739909,
+    "iso:country":"US",
+    "sg:address":"13301 W 99th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 894 1348",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "management"
+    ],
+    "sg:website":"http://www.williamsfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n9rghNWkQHQFvrYyN2LKf_38.949246_-94.739909@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"946c01f60d88dfddc24655fbd4f82401",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202952609
+        }
+    ],
+    "wof:id":202952609,
+    "wof:lastmodified":1449061926,
+    "wof:name":"Williams Food",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [-94.739909,38.949246,-94.739909,38.949246],
+  "geometry": {"coordinates":[-94.739909,38.949246],"type":"Point"}
+}

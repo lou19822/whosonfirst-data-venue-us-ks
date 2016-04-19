@@ -1,0 +1,67 @@
+{
+  "id": 202964083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.634855,39.04425,-95.634855,39.04425",
+    "geom:latitude":39.04425,
+    "geom:longitude":-95.634855,
+    "iso:country":"US",
+    "sg:address":"3164 SE 6th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 2800",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KCv3uHGtPHwST7BpFcIsj_39.044250_-95.634855@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22f39ba16a8a3e3f7bdcc45c9e71e3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202964083
+        }
+    ],
+    "wof:id":202964083,
+    "wof:lastmodified":1449062024,
+    "wof:name":"Marian Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [-95.634855,39.04425,-95.634855,39.04425],
+  "geometry": {"coordinates":[-95.634855,39.04425],"type":"Point"}
+}

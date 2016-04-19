@@ -1,0 +1,67 @@
+{
+  "id": 169654369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.82062,38.875972,-94.82062,38.875972",
+    "geom:latitude":38.875972,
+    "geom:longitude":-94.82062,
+    "iso:country":"US",
+    "sg:address":"426 S Kansas Ave",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 4800",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.payne-brockway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00MO750tPzCr63fGb0xPIN_38.875972_-94.820620@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d555ab3663c94d138247ac801aa79761",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":169654369
+        }
+    ],
+    "wof:id":169654369,
+    "wof:lastmodified":1449033793,
+    "wof:name":"Payne & Brockway",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [-94.82062,38.875972,-94.82062,38.875972],
+  "geometry": {"coordinates":[-94.82062,38.875972],"type":"Point"}
+}

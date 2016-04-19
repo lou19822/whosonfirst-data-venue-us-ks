@@ -1,0 +1,85 @@
+{
+  "id": 337285905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.828117,37.173729,-94.828117,37.173729",
+    "geom:latitude":37.173729,
+    "geom:longitude":-94.828117,
+    "iso:country":"US",
+    "sg:address":"1201 E Oak St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 429 2755",
+    "sg:postcode":"66725",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engine",
+        "rebuilding",
+        "lawn",
+        "exchange",
+        "mower",
+        "engines-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945137,
+        102082169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53zl43010riW1MG5pxutif_37.173729_-94.828117@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab34f71b0f13f77811302ddf1f728647",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945137,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":337285905
+        }
+    ],
+    "wof:id":337285905,
+    "wof:lastmodified":1449026956,
+    "wof:name":"Richardson's Small Engine Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "rebuilding",
+        "lawn",
+        "exchange",
+        "mower",
+        "engines-rebuild"
+    ]
+},
+  "bbox": [-94.828117,37.173729,-94.828117,37.173729],
+  "geometry": {"coordinates":[-94.828117,37.173729],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 202945403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.697541,38.994295,-94.697541,38.994295",
+    "geom:latitude":38.994295,
+    "geom:longitude":-94.697541,
+    "iso:country":"US",
+    "sg:address":"7302 Frontage Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 8008",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "brake",
+        "equipment-service",
+        "diagnostic",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.europeanmotorsportscentral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KmXNPdYNBln6kB7xdVqBR_38.994295_-94.697541@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bfcd6d4f58d01048e43961bd058911c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879543,
+            "region_id":85688555,
+            "venue_id":202945403
+        }
+    ],
+    "wof:id":202945403,
+    "wof:lastmodified":1449060332,
+    "wof:name":"European Motorsports Inc.",
+    "wof:parent_id":85879543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "brake",
+        "equipment-service",
+        "diagnostic",
+        "air conditioning"
+    ]
+},
+  "bbox": [-94.697541,38.994295,-94.697541,38.994295],
+  "geometry": {"coordinates":[-94.697541,38.994295],"type":"Point"}
+}

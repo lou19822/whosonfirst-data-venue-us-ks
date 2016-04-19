@@ -1,0 +1,67 @@
+{
+  "id": 202966159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761299,39.014599,-95.761299,39.014599",
+    "geom:latitude":39.014599,
+    "geom:longitude":-95.761299,
+    "iso:country":"US",
+    "sg:address":"5977 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 5099",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:website":"http://www.bp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LzPoKjn9GSa7vZkHbsAzX_39.014599_-95.761299@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3f3db5b2e16cd48ecf50c34070949f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":202966159
+        }
+    ],
+    "wof:id":202966159,
+    "wof:lastmodified":1449060126,
+    "wof:name":"Wanamaker Amoco",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.761299,39.014599,-95.761299,39.014599],
+  "geometry": {"coordinates":[-95.761299,39.014599],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169624383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.334224,37.62415,-97.334224,37.62415",
+    "geom:latitude":37.62415,
+    "geom:longitude":-97.334224,
+    "iso:country":"US",
+    "sg:address":"3805 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 7074",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mj7zbvQqt4D9IsDOiKFCC_37.624150_-97.334224@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48c063b490fa1d6816e2999f2ae88189",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834033,
+            "region_id":85688555,
+            "venue_id":169624383
+        }
+    ],
+    "wof:id":169624383,
+    "wof:lastmodified":1449034956,
+    "wof:name":"Heartland Service Dept",
+    "wof:parent_id":85834033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.334224,37.62415,-97.334224,37.62415],
+  "geometry": {"coordinates":[-97.334224,37.62415],"type":"Point"}
+}

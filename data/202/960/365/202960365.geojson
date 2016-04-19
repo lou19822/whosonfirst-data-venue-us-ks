@@ -1,0 +1,67 @@
+{
+  "id": 202960365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.695602,39.04417,-95.695602,39.04417",
+    "geom:latitude":39.04417,
+    "geom:longitude":-95.695602,
+    "iso:country":"US",
+    "sg:address":"1401 SW Huntoon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 0730",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:website":"http://www.bp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wvYupqCKNOC4mpzviQK2b_39.044170_-95.695602@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f5c560e22748fd8ff5915434a790600",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":202960365
+        }
+    ],
+    "wof:id":202960365,
+    "wof:lastmodified":1449061918,
+    "wof:name":"Plaza Amoco",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.695602,39.04417,-95.695602,39.04417],
+  "geometry": {"coordinates":[-95.695602,39.04417],"type":"Point"}
+}

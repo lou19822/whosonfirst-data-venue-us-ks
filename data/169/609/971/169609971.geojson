@@ -1,0 +1,68 @@
+{
+  "id": 169609971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.703933,39.043923,-94.703933,39.043923",
+    "geom:latitude":39.043923,
+    "geom:longitude":-94.703933,
+    "iso:country":"US",
+    "sg:address":"10201 W 47th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 9119",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2739IFktOQgf1NolCI6Cvj_39.043923_-94.703933@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f75517f1467d5e1878c35016791349c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":169609971
+        }
+    ],
+    "wof:id":169609971,
+    "wof:lastmodified":1449033921,
+    "wof:name":"Juan Miguel Inc",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [-94.703933,39.043923,-94.703933,39.043923],
+  "geometry": {"coordinates":[-94.703933,39.043923],"type":"Point"}
+}

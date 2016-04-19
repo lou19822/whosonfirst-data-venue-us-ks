@@ -1,0 +1,74 @@
+{
+  "id": 202963673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.6632,39.087629,-95.6632,39.087629",
+    "geom:latitude":39.087629,
+    "geom:longitude":-95.6632,
+    "iso:country":"US",
+    "sg:address":"220 NW Lyman Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oTr73AvYGXXQoCahQI90f_39.087629_-95.663200@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adeaa31e1169bc82ec427ef105b467f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":202963673
+        }
+    ],
+    "wof:id":202963673,
+    "wof:lastmodified":1449060357,
+    "wof:name":"USPS - United States Post Office - North Topeka Station",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-95.6632,39.087629,-95.6632,39.087629],
+  "geometry": {"coordinates":[-95.6632,39.087629],"type":"Point"}
+}

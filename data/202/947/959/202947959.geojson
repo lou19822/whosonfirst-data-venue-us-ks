@@ -1,0 +1,76 @@
+{
+  "id": 202947959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.615392,38.953592,-94.615392,38.953592",
+    "geom:latitude":38.953592,
+    "geom:longitude":-94.615392,
+    "iso:country":"US",
+    "sg:address":"9617 Lee Blvd",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 642 7700",
+    "sg:postcode":"66206",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945793,
+        102082673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fUlszWnYxddU4n9PAd15N_38.953592_-94.615392@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c216e171f4ccff72cafcd4286c8dd8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945793,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202947959
+        }
+    ],
+    "wof:id":202947959,
+    "wof:lastmodified":1449061942,
+    "wof:name":"Leawood Police Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [-94.615392,38.953592,-94.615392,38.953592],
+  "geometry": {"coordinates":[-94.615392,38.953592],"type":"Point"}
+}

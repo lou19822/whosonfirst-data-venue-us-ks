@@ -1,0 +1,67 @@
+{
+  "id": 169619803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.427245,38.383866,-97.427245,38.383866",
+    "geom:latitude":38.383866,
+    "geom:longitude":-97.427245,
+    "iso:country":"US",
+    "sg:address":"209 Main St",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 628 4459",
+    "sg:postcode":"67428",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945513,
+        102083415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ULEvQFHAIegXlfG2tLzvm_38.383866_-97.427245@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bcada695b14e524e80efb075a279aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083415,
+            "locality_id":85945513,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169619803
+        }
+    ],
+    "wof:id":169619803,
+    "wof:lastmodified":1449033283,
+    "wof:name":"Coop Elevator",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [-97.427245,38.383866,-97.427245,38.383866],
+  "geometry": {"coordinates":[-97.427245,38.383866],"type":"Point"}
+}

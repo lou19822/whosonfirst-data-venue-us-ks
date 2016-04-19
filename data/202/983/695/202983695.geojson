@@ -1,0 +1,83 @@
+{
+  "id": 202983695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.360329,37.612998,-97.360329,37.612998",
+    "geom:latitude":37.612998,
+    "geom:longitude":-97.360329,
+    "iso:country":"US",
+    "sg:address":"4519 S Charles Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 2300",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaner",
+        "repairer",
+        "contractor",
+        "sewer",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CgEX3c22I49BQ1iKjyaVw_37.612998_-97.360329@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3398615559b89e7986f24d7786b1cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202983695
+        }
+    ],
+    "wof:id":202983695,
+    "wof:lastmodified":1449062441,
+    "wof:name":"Done Right",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "repairer",
+        "contractor",
+        "sewer",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [-97.360329,37.612998,-97.360329,37.612998],
+  "geometry": {"coordinates":[-97.360329,37.612998],"type":"Point"}
+}

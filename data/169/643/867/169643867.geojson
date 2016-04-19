@@ -1,0 +1,69 @@
+{
+  "id": 169643867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.631769,38.940117,-94.631769,38.940117",
+    "geom:latitude":38.940117,
+    "geom:longitude":-94.631769,
+    "iso:country":"US",
+    "sg:address":"4036 W 104th Ter",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 381 1359",
+    "sg:postcode":"66207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.hazuka.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945793,
+        102082673,
+        85879563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53gXmdKnCQn15gPGJmvUvu_38.940117_-94.631769@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19c09e68a4e18e4cbc052ab243f7aa68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":169643867
+        }
+    ],
+    "wof:id":169643867,
+    "wof:lastmodified":1449035523,
+    "wof:name":"W Mo Radiological Group",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.631769,38.940117,-94.631769,38.940117],
+  "geometry": {"coordinates":[-94.631769,38.940117],"type":"Point"}
+}

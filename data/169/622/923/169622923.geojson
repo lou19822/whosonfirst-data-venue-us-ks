@@ -1,0 +1,67 @@
+{
+  "id": 169622923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.22584,38.950108,-95.22584,38.950108",
+    "geom:latitude":38.950108,
+    "geom:longitude":-95.22584,
+    "iso:country":"US",
+    "sg:address":"1725 Bullene Ave",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 843 3714",
+    "sg:postcode":"66044",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945709,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RwoCWvcLgs11WB7Zr8Wcx_38.950108_-95.225840@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5329c53d3b9f6026a794443d5b909b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085347,
+            "locality_id":85945709,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169622923
+        }
+    ],
+    "wof:id":169622923,
+    "wof:lastmodified":1449035369,
+    "wof:name":"Boyd Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-95.22584,38.950108,-95.22584,38.950108],
+  "geometry": {"coordinates":[-95.22584,38.950108],"type":"Point"}
+}

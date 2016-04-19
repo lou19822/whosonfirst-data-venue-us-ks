@@ -1,0 +1,73 @@
+{
+  "id": 169664623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.997046,37.237019,-96.997046,37.237019",
+    "geom:latitude":37.237019,
+    "geom:longitude":-96.997046,
+    "iso:country":"US",
+    "sg:address":"1222 Main St",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 229 9227",
+    "sg:postcode":"67156",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946351,
+        102082165
+    ],
+    "wof:brand_id":420573899,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QXrNHITmbGYdosGEgdvRX_37.237019_-96.997046@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba80e18eb91552bf1bc74824f6566c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082165,
+            "locality_id":85946351,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169664623
+        }
+    ],
+    "wof:id":169664623,
+    "wof:lastmodified":1457207842,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -96.997046,
+    37.237019,
+    -96.997046,
+    37.237019
+],
+  "geometry": {"coordinates":[-96.997046,37.237019],"type":"Point"}
+}

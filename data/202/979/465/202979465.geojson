@@ -1,0 +1,83 @@
+{
+  "id": 202979465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.338188,37.689758,-97.338188,37.689758",
+    "geom:latitude":37.689758,
+    "geom:longitude":-97.338188,
+    "iso:country":"US",
+    "sg:address":"301 N Main St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 425 7400",
+    "sg:postcode":"67202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "fixture",
+        "part",
+        "contractors-commercial",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bNNkjUv8FepAp7zYm3CBn_37.689758_-97.338188@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3fb8d35371fc191463317db181b7bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872811,
+            "region_id":85688555,
+            "venue_id":202979465
+        }
+    ],
+    "wof:id":202979465,
+    "wof:lastmodified":1449061893,
+    "wof:name":"Viega",
+    "wof:parent_id":85872811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "fixture",
+        "part",
+        "contractors-commercial",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [-97.338188,37.689758,-97.338188,37.689758],
+  "geometry": {"coordinates":[-97.338188,37.689758],"type":"Point"}
+}

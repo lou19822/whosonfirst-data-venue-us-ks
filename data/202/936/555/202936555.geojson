@@ -1,0 +1,74 @@
+{
+  "id": 202936555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.863777,38.565781,-94.863777,38.565781",
+    "geom:latitude":38.565781,
+    "geom:longitude":-94.863777,
+    "iso:country":"US",
+    "sg:address":"501 S Hospital Dr",
+    "sg:city":"Paola",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 294 3084",
+    "sg:postcode":"66071",
+    "sg:province":"KS",
+    "sg:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946431,
+        102085273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zdGvOkbrduEQVA21F3tPs_38.565781_-94.863777@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ea6e068c9298ff58d09413faa2ef02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085273,
+            "locality_id":85946431,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202936555
+        }
+    ],
+    "wof:id":202936555,
+    "wof:lastmodified":1449060957,
+    "wof:name":"Kansas Dept Corectn Parole Off",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ]
+},
+  "bbox": [-94.863777,38.565781,-94.863777,38.565781],
+  "geometry": {"coordinates":[-94.863777,38.565781],"type":"Point"}
+}

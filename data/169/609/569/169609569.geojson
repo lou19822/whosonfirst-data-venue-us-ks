@@ -1,0 +1,68 @@
+{
+  "id": 169609569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724914,39.036696,-95.724914,39.036696",
+    "geom:latitude":39.036696,
+    "geom:longitude":-95.724914,
+    "iso:country":"US",
+    "sg:address":"1801 SW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 228 2440",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xx6PjIykVaM0KbihLxWnz_39.036696_-95.724914@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd2e1519a134cc1e99ed9248d5ddf845",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":169609569
+        }
+    ],
+    "wof:id":169609569,
+    "wof:lastmodified":1449033922,
+    "wof:name":"Europa Garage",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-95.724914,39.036696,-95.724914,39.036696],
+  "geometry": {"coordinates":[-95.724914,39.036696],"type":"Point"}
+}

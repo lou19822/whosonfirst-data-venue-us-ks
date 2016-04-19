@@ -1,0 +1,67 @@
+{
+  "id": 169593577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82945,39.032984,-96.82945,39.032984",
+    "geom:latitude":39.032984,
+    "geom:longitude":-96.82945,
+    "iso:country":"US",
+    "sg:address":"1001 N Washington St",
+    "sg:city":"Junction City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 238 8133",
+    "sg:postcode":"66441",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945891,
+        102083459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wOvLI5dfA5KybhIHh42xW_39.032984_-96.829450@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2b3fa2461d31574c22bd07b7952cadf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083459,
+            "locality_id":85945891,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169593577
+        }
+    ],
+    "wof:id":169593577,
+    "wof:lastmodified":1449034878,
+    "wof:name":"J C Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-96.82945,39.032984,-96.82945,39.032984],
+  "geometry": {"coordinates":[-96.82945,39.032984],"type":"Point"}
+}

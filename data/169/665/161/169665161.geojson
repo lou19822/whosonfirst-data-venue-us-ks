@@ -1,0 +1,66 @@
+{
+  "id": 169665161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.400089,37.680142,-97.400089,37.680142",
+    "geom:latitude":37.680142,
+    "geom:longitude":-97.400089,
+    "iso:country":"US",
+    "sg:address":"4800 W Maple St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 9141",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48wUkVxpNtpiyya6MKnNB1_37.680142_-97.400089@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15e8f53b2d0ece62ab57cb956cf21b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":169665161
+        }
+    ],
+    "wof:id":169665161,
+    "wof:lastmodified":1449033695,
+    "wof:name":"Maple Nails",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [-97.400089,37.680142,-97.400089,37.680142],
+  "geometry": {"coordinates":[-97.400089,37.680142],"type":"Point"}
+}

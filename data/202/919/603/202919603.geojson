@@ -1,0 +1,67 @@
+{
+  "id": 202919603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.270939,39.85683,-95.270939,39.85683",
+    "geom:latitude":39.85683,
+    "geom:longitude":-95.270939,
+    "iso:country":"US",
+    "sg:address":"402 S Avenue St",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 442 3217",
+    "sg:postcode":"66035",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946245,
+        102082137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PBmxJWChMDooLjzPNZ7ix_39.856830_-95.270939@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfac3621a7d5cc247a2f373dea1ed655",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082137,
+            "locality_id":85946245,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202919603
+        }
+    ],
+    "wof:id":202919603,
+    "wof:lastmodified":1449062034,
+    "wof:name":"Highland Healthcare & Rehab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-95.270939,39.85683,-95.270939,39.85683],
+  "geometry": {"coordinates":[-95.270939,39.85683],"type":"Point"}
+}

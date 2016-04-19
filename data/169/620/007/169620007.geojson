@@ -1,0 +1,68 @@
+{
+  "id": 169620007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.695323,38.995889,-94.695323,38.995889",
+    "geom:latitude":38.995889,
+    "geom:longitude":-94.695323,
+    "iso:country":"US",
+    "sg:address":"7315 Frontage Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 677 2666",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WMTU3xYw4cdyDVfXNo2l7_38.995889_-94.695323@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c00596f8352164af7758d85b20cfc880",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879543,
+            "region_id":85688555,
+            "venue_id":169620007
+        }
+    ],
+    "wof:id":169620007,
+    "wof:lastmodified":1449035675,
+    "wof:name":"Kanza Multi-Specialty Group",
+    "wof:parent_id":85879543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.695323,38.995889,-94.695323,38.995889],
+  "geometry": {"coordinates":[-94.695323,38.995889],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169637207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.67524,39.016267,-94.67524,39.016267",
+    "geom:latitude":39.016267,
+    "geom:longitude":-94.67524,
+    "iso:country":"US",
+    "sg:address":"6231 Robinson St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 2436",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q7ZQLjEpTgBn41kpx5k7z_39.016267_-94.675240@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9fa1d0493701cfd94113c7ba8752981a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":169637207
+        }
+    ],
+    "wof:id":169637207,
+    "wof:lastmodified":1449032689,
+    "wof:name":"Classic Motors",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-94.67524,39.016267,-94.67524,39.016267],
+  "geometry": {"coordinates":[-94.67524,39.016267],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 202976191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.706666,37.417049,-94.706666,37.417049",
+    "geom:latitude":37.417049,
+    "geom:longitude":-94.706666,
+    "iso:country":"US",
+    "sg:address":"215 W 10th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 536 3670",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kKF0L8C3msDKpZlzxDxzg_37.417049_-94.706666@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8af89dd7ec9d33b2b608d3760f70ec1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202976191
+        }
+    ],
+    "wof:id":202976191,
+    "wof:lastmodified":1449061162,
+    "wof:name":"Satterlee Plumbing",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [-94.706666,37.417049,-94.706666,37.417049],
+  "geometry": {"coordinates":[-94.706666,37.417049],"type":"Point"}
+}

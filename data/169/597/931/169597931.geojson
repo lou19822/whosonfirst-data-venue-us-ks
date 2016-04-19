@@ -1,0 +1,68 @@
+{
+  "id": 169597931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.635161,39.057959,-94.635161,39.057959",
+    "geom:latitude":39.057959,
+    "geom:longitude":-94.635161,
+    "iso:country":"US",
+    "sg:address":"1740 Southwest Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 491 8658",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85866785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eTsUK67E4iieDgJtXkzk5_39.057959_-94.635161@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecb59e9a20413ae8add774ae013ea507",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":169597931
+        }
+    ],
+    "wof:id":169597931,
+    "wof:lastmodified":1449035925,
+    "wof:name":"Boulevard Electric Inc",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-94.635161,39.057959,-94.635161,39.057959],
+  "geometry": {"coordinates":[-94.635161,39.057959],"type":"Point"}
+}

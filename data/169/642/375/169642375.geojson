@@ -1,0 +1,67 @@
+{
+  "id": 169642375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.931779,38.056972,-97.931779,38.056972",
+    "geom:latitude":38.056972,
+    "geom:longitude":-97.931779,
+    "iso:country":"US",
+    "sg:address":"324 N Main St",
+    "sg:city":"Hutchinson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 662 4666",
+    "sg:postcode":"67501",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945379,
+        102082171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZgEejj8kZ9xsg4chXmX8a_38.056972_-97.931779@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd2fdf387c2a947a1f210aa8d772cca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082171,
+            "locality_id":85945379,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169642375
+        }
+    ],
+    "wof:id":169642375,
+    "wof:lastmodified":1449032877,
+    "wof:name":"Murray Motors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-97.931779,38.056972,-97.931779,38.056972],
+  "geometry": {"coordinates":[-97.931779,38.056972],"type":"Point"}
+}

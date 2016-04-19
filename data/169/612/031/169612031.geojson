@@ -1,0 +1,68 @@
+{
+  "id": 169612031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.244481,37.678764,-97.244481,37.678764",
+    "geom:latitude":37.678764,
+    "geom:longitude":-97.244481,
+    "iso:country":"US",
+    "sg:address":"7701 E Kellogg Dr S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 691 8788",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85806685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FCEG7oFBFxQgRxyMQKAGk_37.678764_-97.244481@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49e107d2bd0e2e55bd3e5fbb9f28f437",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85806685,
+            "region_id":85688555,
+            "venue_id":169612031
+        }
+    ],
+    "wof:id":169612031,
+    "wof:lastmodified":1449034131,
+    "wof:name":"Falcon Capital LLC",
+    "wof:parent_id":85806685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [-97.244481,37.678764,-97.244481,37.678764],
+  "geometry": {"coordinates":[-97.244481,37.678764],"type":"Point"}
+}

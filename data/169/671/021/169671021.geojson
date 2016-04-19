@@ -1,0 +1,67 @@
+{
+  "id": 169671021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.906875,38.452761,-99.906875,38.452761",
+    "geom:latitude":38.452761,
+    "geom:longitude":-99.906875,
+    "iso:country":"US",
+    "sg:address":"222 W Sycamore St",
+    "sg:city":"Ness City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 798 3300",
+    "sg:postcode":"67560",
+    "sg:province":"KS",
+    "sg:tags":[
+        "county",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946417,
+        102083417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BdHWspeTYnihYNRXpE9Cq_38.452761_-99.906875@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91c7be6d292bdd3a18dac86ec8a2e610",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083417,
+            "locality_id":85946417,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169671021
+        }
+    ],
+    "wof:id":169671021,
+    "wof:lastmodified":1449033454,
+    "wof:name":"Ness County Treasurer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "taxation"
+    ]
+},
+  "bbox": [-99.906875,38.452761,-99.906875,38.452761],
+  "geometry": {"coordinates":[-99.906875,38.452761],"type":"Point"}
+}

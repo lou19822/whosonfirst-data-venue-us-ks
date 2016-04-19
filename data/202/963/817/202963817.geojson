@@ -1,0 +1,66 @@
+{
+  "id": 202963817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.666542,39.082142,-95.666542,39.082142",
+    "geom:latitude":39.082142,
+    "geom:longitude":-95.666542,
+    "iso:country":"US",
+    "sg:address":"1900 NW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 5745",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C1DPb7ReXDUuON7kZE8BP_39.082142_-95.666542@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b55cfdf778dbd1f5f9cb433530e09d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":202963817
+        }
+    ],
+    "wof:id":202963817,
+    "wof:lastmodified":1449060358,
+    "wof:name":"Gas & Shop Convenience Store",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.666542,39.082142,-95.666542,39.082142],
+  "geometry": {"coordinates":[-95.666542,39.082142],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169625873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.662959,39.004584,-94.662959,39.004584",
+    "geom:latitude":39.004584,
+    "geom:longitude":-94.662959,
+    "iso:country":"US",
+    "sg:address":"6731 Glenwood St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 831 1000",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945747,
+        102082673,
+        85879597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pt0HDRV1UQvjo0Y70j4hq_39.004584_-94.662959@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6b701f3f48e344a486a2d28bc2eb362",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":169625873
+        }
+    ],
+    "wof:id":169625873,
+    "wof:lastmodified":1449036021,
+    "wof:name":"Tow All Inc",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-94.662959,39.004584,-94.662959,39.004584],
+  "geometry": {"coordinates":[-94.662959,39.004584],"type":"Point"}
+}

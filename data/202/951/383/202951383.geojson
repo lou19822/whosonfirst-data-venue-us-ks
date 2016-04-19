@@ -1,0 +1,82 @@
+{
+  "id": 202951383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.736366,38.962918,-94.736366,38.962918",
+    "geom:latitude":38.962918,
+    "geom:longitude":-94.736366,
+    "iso:country":"US",
+    "sg:address":"12912 Santa Fe Trail Dr",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 859 9994",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "exhaust",
+        "automotive",
+        "system",
+        "brake",
+        "muffler",
+        "tune"
+    ],
+    "sg:website":"http://www.napaautocare.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NPcJT43Fw4md3rrNYPbYC_38.962918_-94.736366@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6379ea94da381c05526e7d531c2abdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":202951383
+        }
+    ],
+    "wof:id":202951383,
+    "wof:lastmodified":1449060206,
+    "wof:name":"Charlie's Brake & Muffler",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust",
+        "automotive",
+        "system",
+        "brake",
+        "muffler",
+        "tune"
+    ]
+},
+  "bbox": [-94.736366,38.962918,-94.736366,38.962918],
+  "geometry": {"coordinates":[-94.736366,38.962918],"type":"Point"}
+}

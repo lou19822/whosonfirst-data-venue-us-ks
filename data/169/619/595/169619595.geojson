@@ -1,0 +1,67 @@
+{
+  "id": 169619595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.01221,38.45658,-99.01221,38.45658",
+    "geom:latitude":38.45658,
+    "geom:longitude":-99.01221,
+    "iso:country":"US",
+    "sg:address":"805 Main St",
+    "sg:city":"Albert",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 923 4221",
+    "sg:postcode":"67511",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945255,
+        102083449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CzeHF1rBSezgs7hAky9jC_38.456580_-99.012210@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b67a9dbdb4a9fc54f8c60bc701177d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083449,
+            "locality_id":85945255,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169619595
+        }
+    ],
+    "wof:id":169619595,
+    "wof:lastmodified":1449033285,
+    "wof:name":"Great Bend Cooperative Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [-99.01221,38.45658,-99.01221,38.45658],
+  "geometry": {"coordinates":[-99.01221,38.45658],"type":"Point"}
+}

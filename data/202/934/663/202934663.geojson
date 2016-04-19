@@ -1,0 +1,66 @@
+{
+  "id": 202934663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.768877,38.884466,-94.768877,38.884466",
+    "geom:latitude":38.884466,
+    "geom:longitude":-94.768877,
+    "iso:country":"US",
+    "sg:address":"13470 S Arapaho Dr",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 5200",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ed79ACzA0OyIv3zAvqhb0_38.884466_-94.768877@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a080d766a3ac78e6342e17b774e7847e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202934663
+        }
+    ],
+    "wof:id":202934663,
+    "wof:lastmodified":1449060231,
+    "wof:name":"Pilar Salon and Spa",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-94.768877,38.884466,-94.768877,38.884466],
+  "geometry": {"coordinates":[-94.768877,38.884466],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169614161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.498317,37.664431,-97.498317,37.664431",
+    "geom:latitude":37.664431,
+    "geom:longitude":-97.498317,
+    "iso:country":"US",
+    "sg:address":"13000 US Hwy 54",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 6300",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y6f446LMdQc5Kvt6tscuV_37.664431_-97.498317@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"331f5adfec1187d8ca00d446364f8401",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":169614161
+        }
+    ],
+    "wof:id":169614161,
+    "wof:lastmodified":1449036057,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-97.498317,37.664431,-97.498317,37.664431],
+  "geometry": {"coordinates":[-97.498317,37.664431],"type":"Point"}
+}

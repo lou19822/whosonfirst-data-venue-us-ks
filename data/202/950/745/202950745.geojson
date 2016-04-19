@@ -1,0 +1,82 @@
+{
+  "id": 202950745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.664669,38.917325,-94.664669,38.917325",
+    "geom:latitude":38.917325,
+    "geom:longitude":-94.664669,
+    "iso:country":"US",
+    "sg:address":"7050 W 115th St",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 498 2073",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lube",
+        "oil",
+        "tire"
+    ],
+    "sg:website":"http://www.firestonecompleteautocare.com/?s_kwcid=IYP_NTL",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879577
+    ],
+    "wof:brand_id":420574873,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ARvOJv84LhDidghz61nPk_38.917325_-94.664669@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0245b3ae75184a505cecfd139fc3336f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":202950745
+        }
+    ],
+    "wof:id":202950745,
+    "wof:lastmodified":1457209250,
+    "wof:name":"Firestone Complete Auto Care Store",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lube",
+        "oil",
+        "tire"
+    ]
+},
+  "bbox": [
+    -94.664669,
+    38.917325,
+    -94.664669,
+    38.917325
+],
+  "geometry": {"coordinates":[-94.664669,38.917325],"type":"Point"}
+}

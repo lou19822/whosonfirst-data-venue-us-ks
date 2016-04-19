@@ -1,0 +1,68 @@
+{
+  "id": 169596443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.330833,37.714537,-97.330833,37.714537",
+    "geom:latitude":37.714537,
+    "geom:longitude":-97.330833,
+    "iso:country":"US",
+    "sg:address":"1737 N Santa Fe St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 7222",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QxZKFiKpf46BUM6pDEr4E_37.714537_-97.330833@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07205fd5b4027a32b4d9898b0083d2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872827,
+            "region_id":85688555,
+            "venue_id":169596443
+        }
+    ],
+    "wof:id":169596443,
+    "wof:lastmodified":1449034375,
+    "wof:name":"Rivendell Repair",
+    "wof:parent_id":85872827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [-97.330833,37.714537,-97.330833,37.714537],
+  "geometry": {"coordinates":[-97.330833,37.714537],"type":"Point"}
+}

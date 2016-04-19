@@ -1,0 +1,80 @@
+{
+  "id": 202973303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704884,37.425166,-94.704884,37.425166",
+    "geom:latitude":37.425166,
+    "geom:longitude":-94.704884,
+    "iso:country":"US",
+    "sg:address":"1912 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5770",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house",
+        "steak",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mqmhxk9x2p3ValW0DphHa_37.425166_-94.704884@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc4c8aa5ef34c09b89e730a338404d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202973303
+        }
+    ],
+    "wof:id":202973303,
+    "wof:lastmodified":1449061639,
+    "wof:name":"Castagno's",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak",
+        "cocktail"
+    ]
+},
+  "bbox": [-94.704884,37.425166,-94.704884,37.425166],
+  "geometry": {"coordinates":[-94.704884,37.425166],"type":"Point"}
+}

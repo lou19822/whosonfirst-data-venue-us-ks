@@ -1,0 +1,69 @@
+{
+  "id": 202922411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.917397,39.327671,-94.917397,39.327671",
+    "geom:latitude":39.327671,
+    "geom:longitude":-94.917397,
+    "iso:country":"US",
+    "sg:address":"1101 N 5th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 7424",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TCqY3g3sO4Ox7kBbCtab7_39.327671_-94.917397@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8eafe2c469a555bc0ed027b1a025d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202922411
+        }
+    ],
+    "wof:id":202922411,
+    "wof:lastmodified":1449060341,
+    "wof:name":"Dog & Cat Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ]
+},
+  "bbox": [-94.917397,39.327671,-94.917397,39.327671],
+  "geometry": {"coordinates":[-94.917397,39.327671],"type":"Point"}
+}

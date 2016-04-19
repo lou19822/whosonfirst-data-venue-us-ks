@@ -1,0 +1,66 @@
+{
+  "id": 169633849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.714236,38.958952,-94.714236,38.958952",
+    "geom:latitude":38.958952,
+    "geom:longitude":-94.714236,
+    "iso:country":"US",
+    "sg:address":"9215 Nieman Rd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 894 4440",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NBzrTNrDO7RwGXtREG0oM_38.958952_-94.714236@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7e4104c269ca5b2223fc45147e124a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879589,
+            "region_id":85688555,
+            "venue_id":169633849
+        }
+    ],
+    "wof:id":169633849,
+    "wof:lastmodified":1449035937,
+    "wof:name":"Ahlers Cleaning Co",
+    "wof:parent_id":85879589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-94.714236,38.958952,-94.714236,38.958952],
+  "geometry": {"coordinates":[-94.714236,38.958952],"type":"Point"}
+}

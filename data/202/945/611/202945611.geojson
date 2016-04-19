@@ -1,0 +1,90 @@
+{
+  "id": 202945611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.722458,39.014629,-94.722458,39.014629",
+    "geom:latitude":39.014629,
+    "geom:longitude":-94.722458,
+    "iso:country":"US",
+    "sg:address":"11800 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 2900",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "buyer",
+        "consultant",
+        "loan",
+        "commercial",
+        "broker"
+    ],
+    "sg:website":"http://www.coldwellbanker.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945763,
+        102082673,
+        85879561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44C4ikFCuirkst08JYMPrG_39.014629_-94.722458@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4cd88c706a4fbb013dc9b9d7debd2f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":202945611
+        }
+    ],
+    "wof:id":202945611,
+    "wof:lastmodified":1449060333,
+    "wof:name":"Coldwell Banker",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "consultant",
+        "loan",
+        "commercial",
+        "broker"
+    ]
+},
+  "bbox": [-94.722458,39.014629,-94.722458,39.014629],
+  "geometry": {"coordinates":[-94.722458,39.014629],"type":"Point"}
+}

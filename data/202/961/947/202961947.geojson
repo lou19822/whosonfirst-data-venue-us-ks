@@ -1,0 +1,80 @@
+{
+  "id": 202961947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.645026,39.025115,-95.645026,39.025115",
+    "geom:latitude":39.025115,
+    "geom:longitude":-95.645026,
+    "iso:country":"US",
+    "sg:address":"2351 SE Bellview Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 6963",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.voawy.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zGfeN4pk07w4XMFhoOpMc_39.025115_-95.645026@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e0d235b2462edc7db60898654095158",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":202961947
+        }
+    ],
+    "wof:id":202961947,
+    "wof:lastmodified":1449062579,
+    "wof:name":"Highland Park Apts",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-95.645026,39.025115,-95.645026,39.025115],
+  "geometry": {"coordinates":[-95.645026,39.025115],"type":"Point"}
+}

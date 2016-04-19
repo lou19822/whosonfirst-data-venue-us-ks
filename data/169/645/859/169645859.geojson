@@ -1,0 +1,68 @@
+{
+  "id": 169645859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.649455,39.104502,-94.649455,39.104502",
+    "geom:latitude":39.104502,
+    "geom:longitude":-94.649455,
+    "iso:country":"US",
+    "sg:address":"10 S 18 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 9999",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85878505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FeT4EQ9yJxAUu4hdjcgdr_39.104502_-94.649455@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"218b6ff5a25d509fb37ba216a104b7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85878505,
+            "region_id":85688555,
+            "venue_id":169645859
+        }
+    ],
+    "wof:id":169645859,
+    "wof:lastmodified":1449033005,
+    "wof:name":"Allen Armature & Electric Inc",
+    "wof:parent_id":85878505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [-94.649455,39.104502,-94.649455,39.104502],
+  "geometry": {"coordinates":[-94.649455,39.104502],"type":"Point"}
+}

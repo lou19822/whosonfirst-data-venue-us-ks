@@ -1,0 +1,78 @@
+{
+  "id": 202963897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.673307,39.076514,-95.673307,39.076514",
+    "geom:latitude":39.076514,
+    "geom:longitude":-95.673307,
+    "iso:country":"US",
+    "sg:address":"815 NW Paramore St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 2921",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store",
+        "toilets-portable"
+    ],
+    "sg:website":"http://www.matherrental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85838117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z36LJi6c4pyZ58NWypxh9_39.076514_-95.673307@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50d9d78da67aae4011ab85e3be3167e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85838117,
+            "region_id":85688555,
+            "venue_id":202963897
+        }
+    ],
+    "wof:id":202963897,
+    "wof:lastmodified":1449060359,
+    "wof:name":"Mather Flare Rental Inc",
+    "wof:parent_id":85838117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store",
+        "toilets-portable"
+    ]
+},
+  "bbox": [-95.673307,39.076514,-95.673307,39.076514],
+  "geometry": {"coordinates":[-95.673307,39.076514],"type":"Point"}
+}

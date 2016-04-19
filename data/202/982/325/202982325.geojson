@@ -1,0 +1,103 @@
+{
+  "id": 202982325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.386742,37.660756,-97.386742,37.660756",
+    "geom:latitude":37.660756,
+    "geom:longitude":-97.386742,
+    "iso:country":"US",
+    "sg:address":"3800 W Dora St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 1313",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "supply",
+        "supplies-wholesale",
+        "equipment-testing",
+        "equipment",
+        "fixtures-wholesale",
+        "lighting",
+        "consumer",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.krizdavis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52m8S1STzBq0VbuZLqVuf0_37.660756_-97.386742@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4551d1d8fd2ba7da2b5363b1220951e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":202982325
+        }
+    ],
+    "wof:id":202982325,
+    "wof:lastmodified":1449060531,
+    "wof:name":"Kriz-Davis Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "supply",
+        "supplies-wholesale",
+        "equipment-testing",
+        "equipment",
+        "fixtures-wholesale",
+        "lighting",
+        "consumer",
+        "manufacturer"
+    ]
+},
+  "bbox": [-97.386742,37.660756,-97.386742,37.660756],
+  "geometry": {"coordinates":[-97.386742,37.660756],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 202962971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.697008,39.057335,-95.697008,39.057335",
+    "geom:latitude":39.057335,
+    "geom:longitude":-95.697008,
+    "iso:country":"US",
+    "sg:address":"634 SW Mulvane St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 295 5330",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_367IH27YWQXn8bmpdnZui0_39.057335_-95.697008@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80223e1e6d84a588ee2f9feaa7f96f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202962971
+        }
+    ],
+    "wof:id":202962971,
+    "wof:lastmodified":1449061607,
+    "wof:name":"Edds, Breck A",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-95.697008,39.057335,-95.697008,39.057335],
+  "geometry": {"coordinates":[-95.697008,39.057335],"type":"Point"}
+}

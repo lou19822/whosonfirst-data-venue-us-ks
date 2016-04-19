@@ -1,0 +1,68 @@
+{
+  "id": 202958285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.614172,39.18941,-96.614172,39.18941",
+    "geom:latitude":39.18941,
+    "geom:longitude":-96.614172,
+    "iso:country":"US",
+    "sg:address":"1120 Waters St",
+    "sg:city":"Manhattan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 537 5050",
+    "sg:postcode":"66503",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engines-rebuild",
+        "exchange"
+    ],
+    "sg:website":"http://precisionautoks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945171,
+        102084179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IxMV9mqwMmIjIbJbautuN_39.189410_-96.614172@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0ec810b8c58ac0ccb72062ca751ed5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084179,
+            "locality_id":85945171,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202958285
+        }
+    ],
+    "wof:id":202958285,
+    "wof:lastmodified":1449062097,
+    "wof:name":"Precision Automotive Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engines-rebuild",
+        "exchange"
+    ]
+},
+  "bbox": [-96.614172,39.18941,-96.614172,39.18941],
+  "geometry": {"coordinates":[-96.614172,39.18941],"type":"Point"}
+}

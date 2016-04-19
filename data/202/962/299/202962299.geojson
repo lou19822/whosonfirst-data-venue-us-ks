@@ -1,0 +1,73 @@
+{
+  "id": 202962299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.719623,39.060398,-95.719623,39.060398",
+    "geom:latitude":39.060398,
+    "geom:longitude":-95.719623,
+    "iso:country":"US",
+    "sg:address":"3545 SW 5th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 274 3100",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "information",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53075smumsOlO3rruCnA8y_39.060398_-95.719623@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4591283a8a86d5022a4a1ef95bda8c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881541,
+            "region_id":85688555,
+            "venue_id":202962299
+        }
+    ],
+    "wof:id":202962299,
+    "wof:lastmodified":1449061607,
+    "wof:name":"Kansas Children's Service League",
+    "wof:parent_id":85881541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "mental"
+    ]
+},
+  "bbox": [-95.719623,39.060398,-95.719623,39.060398],
+  "geometry": {"coordinates":[-95.719623,39.060398],"type":"Point"}
+}

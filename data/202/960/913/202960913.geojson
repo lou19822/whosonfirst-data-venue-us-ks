@@ -1,0 +1,66 @@
+{
+  "id": 202960913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.691758,39.042149,-95.691758,39.042149",
+    "geom:latitude":39.042149,
+    "geom:longitude":-95.691758,
+    "iso:country":"US",
+    "sg:address":"1337 SW Clay St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 783 7205",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LQ0DWu96M3JYG0TxldAEk_39.042149_-95.691758@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"894a751dcc24757d9e560e0e8acf7571",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":202960913
+        }
+    ],
+    "wof:id":202960913,
+    "wof:lastmodified":1449061921,
+    "wof:name":"Paul Saint Vincent Dwyer",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [-95.691758,39.042149,-95.691758,39.042149],
+  "geometry": {"coordinates":[-95.691758,39.042149],"type":"Point"}
+}

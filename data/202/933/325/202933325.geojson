@@ -1,0 +1,83 @@
+{
+  "id": 202933325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.681034,38.626707,-94.681034,38.626707",
+    "geom:latitude":38.626707,
+    "geom:longitude":-94.681034,
+    "iso:country":"US",
+    "sg:address":"700 N Broadway St Lot A10",
+    "sg:city":"Louisburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 837 5500",
+    "sg:postcode":"66053",
+    "sg:province":"KS",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities",
+        "park",
+        "homes-rent",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946425,
+        102085273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lpXFybbyvusZCh5SjLpC0_38.626707_-94.681034@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ccf1385ac6d40fb9c8dea1deaef95ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085273,
+            "locality_id":85946425,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202933325
+        }
+    ],
+    "wof:id":202933325,
+    "wof:lastmodified":1449060629,
+    "wof:name":"Louisburg Estates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities",
+        "park",
+        "homes-rent",
+        "lease"
+    ]
+},
+  "bbox": [-94.681034,38.626707,-94.681034,38.626707],
+  "geometry": {"coordinates":[-94.681034,38.626707],"type":"Point"}
+}

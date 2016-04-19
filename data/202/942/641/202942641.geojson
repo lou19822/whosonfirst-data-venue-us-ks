@@ -1,0 +1,80 @@
+{
+  "id": 202942641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.653881,39.022147,-94.653881,39.022147",
+    "geom:latitude":39.022147,
+    "geom:longitude":-94.653881,
+    "iso:country":"US",
+    "sg:address":"5914 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 722 5566",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "emergency",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian"
+    ],
+    "sg:website":"http://missionmedvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945747,
+        102082673,
+        85879597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ftqr5JmVnFODW5UQt9KR8_39.022147_-94.653881@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce80a7492bd22acfa4290265d20c2287",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":202942641
+        }
+    ],
+    "wof:id":202942641,
+    "wof:lastmodified":1449061284,
+    "wof:name":"Mission Medvet",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emergency",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian"
+    ]
+},
+  "bbox": [-94.653881,39.022147,-94.653881,39.022147],
+  "geometry": {"coordinates":[-94.653881,39.022147],"type":"Point"}
+}

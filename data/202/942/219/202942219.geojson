@@ -1,0 +1,73 @@
+{
+  "id": 202942219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.820926,39.057392,-94.820926,39.057392",
+    "geom:latitude":39.057392,
+    "geom:longitude":-94.820926,
+    "iso:country":"US",
+    "sg:address":"531 S 4th St",
+    "sg:city":"Edwardsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 6007",
+    "sg:postcode":"66111",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945763,
+        102082673,
+        85810945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WY1WWXqrQOeUgtYTsPKrL_39.057392_-94.820926@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47c1c4735630ebdabfd1ef96fa00b6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945763,
+            "neighbourhood_id":85810945,
+            "region_id":85688555,
+            "venue_id":202942219
+        }
+    ],
+    "wof:id":202942219,
+    "wof:lastmodified":1449061285,
+    "wof:name":"Edwardsville Court Apartment",
+    "wof:parent_id":85810945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "community"
+    ]
+},
+  "bbox": [-94.820926,39.057392,-94.820926,39.057392],
+  "geometry": {"coordinates":[-94.820926,39.057392],"type":"Point"}
+}

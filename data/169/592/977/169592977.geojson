@@ -1,0 +1,71 @@
+{
+  "id": 169592977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.660987,39.017139,-95.660987,39.017139",
+    "geom:latitude":39.017139,
+    "geom:longitude":-95.660987,
+    "iso:country":"US",
+    "sg:address":"2703 SE Indiana Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 1204",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dmw4JDwnp8Z2RLf8TmMP6_39.017139_-95.660987@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53790d62cc1afbcaa635dad0992912e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881545,
+            "region_id":85688555,
+            "venue_id":169592977
+        }
+    ],
+    "wof:id":169592977,
+    "wof:lastmodified":1449034587,
+    "wof:name":"Sayler's Used Appliances",
+    "wof:parent_id":85881545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-95.660987,39.017139,-95.660987,39.017139],
+  "geometry": {"coordinates":[-95.660987,39.017139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169635695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.627122,39.029596,-95.627122,39.029596",
+    "geom:latitude":39.029596,
+    "geom:longitude":-95.627122,
+    "iso:country":"US",
+    "sg:address":"3311 SE 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 3377",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102084175,
+        85881533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JRfCxxnBnXzq6k7oJjWV9_39.029596_-95.627122@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b13aa2d7076c8a1210c47c4a31af2fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":-1,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":169635695
+        }
+    ],
+    "wof:id":169635695,
+    "wof:lastmodified":1449034098,
+    "wof:name":"Dinkel Construction",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-95.627122,39.029596,-95.627122,39.029596],
+  "geometry": {"coordinates":[-95.627122,39.029596],"type":"Point"}
+}

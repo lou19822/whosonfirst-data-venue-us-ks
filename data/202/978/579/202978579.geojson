@@ -1,0 +1,69 @@
+{
+  "id": 202978579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.37661,37.556492,-97.37661,37.556492",
+    "geom:latitude":37.556492,
+    "geom:longitude":-97.37661,
+    "iso:country":"US",
+    "sg:address":"2222 W Schoolhouse St",
+    "sg:city":"Haysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 461 7361",
+    "sg:postcode":"67060",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945855,
+        102084203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EEctSxZrHtiarQVYZRgYE_37.556492_-97.376610@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49bace56bf1d8676609fb3248829cdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945855,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202978579
+        }
+    ],
+    "wof:id":202978579,
+    "wof:lastmodified":1449061569,
+    "wof:name":"Hillhouse Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [-97.37661,37.556492,-97.37661,37.556492],
+  "geometry": {"coordinates":[-97.37661,37.556492],"type":"Point"}
+}

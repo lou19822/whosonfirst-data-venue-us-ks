@@ -1,0 +1,71 @@
+{
+  "id": 202959631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.670085,39.059179,-95.670085,39.059179",
+    "geom:latitude":39.059179,
+    "geom:longitude":-95.670085,
+    "iso:country":"US",
+    "sg:address":"201 N Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 2011",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bus",
+        "line",
+        "public"
+    ],
+    "sg:website":"http://www.topekatransit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CMKiMqnxJpCjFaWLkpRa6_39.059179_-95.670085@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0b335d12b5d8e8235b9621530f84093",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202959631
+        }
+    ],
+    "wof:id":202959631,
+    "wof:lastmodified":1449062391,
+    "wof:name":"Topeka Transit",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "public"
+    ]
+},
+  "bbox": [-95.670085,39.059179,-95.670085,39.059179],
+  "geometry": {"coordinates":[-95.670085,39.059179],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 202952315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.755765,38.947283,-94.755765,38.947283",
+    "geom:latitude":38.947283,
+    "geom:longitude":-94.755765,
+    "iso:country":"US",
+    "sg:address":"14410 W 100th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 541 0404",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t065hGQdpW7kSZ5UGhQRc_38.947283_-94.755765@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22a82500594796fe587822228bcdf76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202952315
+        }
+    ],
+    "wof:id":202952315,
+    "wof:lastmodified":1449061927,
+    "wof:name":"Beta Chem Lab",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [-94.755765,38.947283,-94.755765,38.947283],
+  "geometry": {"coordinates":[-94.755765,38.947283],"type":"Point"}
+}

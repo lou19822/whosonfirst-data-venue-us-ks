@@ -1,0 +1,68 @@
+{
+  "id": 202981613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335526,37.665344,-97.335526,37.665344",
+    "geom:latitude":37.665344,
+    "geom:longitude":-97.335526,
+    "iso:country":"US",
+    "sg:address":"1546 S Broadway St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 9615",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "style",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JVf7tn4FymRDoy0BKp48B_37.665344_-97.335526@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59ac4ca3336c76496d2e9e8492eb7590",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872835,
+            "region_id":85688555,
+            "venue_id":202981613
+        }
+    ],
+    "wof:id":202981613,
+    "wof:lastmodified":1449062701,
+    "wof:name":"Don's Restaurant",
+    "wof:parent_id":85872835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family"
+    ]
+},
+  "bbox": [-97.335526,37.665344,-97.335526,37.665344],
+  "geometry": {"coordinates":[-97.335526,37.665344],"type":"Point"}
+}

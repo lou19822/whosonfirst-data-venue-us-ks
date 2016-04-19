@@ -1,0 +1,66 @@
+{
+  "id": 202924301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.950691,39.318485,-94.950691,39.318485",
+    "geom:latitude":39.318485,
+    "geom:longitude":-94.950691,
+    "iso:country":"US",
+    "sg:address":"4800 S 20th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 5006",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"http://www.opendoorinfo.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26x3c8R6yFAKutsNL0bo6w_39.318485_-94.950691@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a601198be2a7db607362a666a893e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202924301
+        }
+    ],
+    "wof:id":202924301,
+    "wof:lastmodified":1449060825,
+    "wof:name":"Church of The Open Door",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [-94.950691,39.318485,-94.950691,39.318485],
+  "geometry": {"coordinates":[-94.950691,39.318485],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 202922175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.262558,38.928139,-95.262558,38.928139",
+    "geom:latitude":38.928139,
+    "geom:longitude":-95.262558,
+    "iso:country":"US",
+    "sg:address":"2200 W 31st St",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Thrift Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 331 3908",
+    "sg:postcode":"66047",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"http://www.goodwill.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945709,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mDcchFMBlmALy9XaKb4hu_38.928139_-95.262558@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0effb6271a53aa91dd6a05746545818e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085347,
+            "locality_id":85945709,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202922175
+        }
+    ],
+    "wof:id":202922175,
+    "wof:lastmodified":1449060346,
+    "wof:name":"Goodwill Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-95.262558,38.928139,-95.262558,38.928139],
+  "geometry": {"coordinates":[-95.262558,38.928139],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 202960949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.729088,39.050914,-95.729088,39.050914",
+    "geom:latitude":39.050914,
+    "geom:longitude":-95.729088,
+    "iso:country":"US",
+    "sg:address":"1020 SW Fleming Ct",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 6100",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GdoXOuHLSAHQLv3BBNPiI_39.050914_-95.729088@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27c18b94f2112de4b159a18d11ad592a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":202960949
+        }
+    ],
+    "wof:id":202960949,
+    "wof:lastmodified":1449061921,
+    "wof:name":"Fleming Court Apartments",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-95.729088,39.050914,-95.729088,39.050914],
+  "geometry": {"coordinates":[-95.729088,39.050914],"type":"Point"}
+}

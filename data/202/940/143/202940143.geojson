@@ -1,0 +1,91 @@
+{
+  "id": 202940143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.71263,38.181349,-94.71263,38.181349",
+    "geom:latitude":38.181349,
+    "geom:longitude":-94.71263,
+    "iso:country":"US",
+    "sg:address":"418 Main St",
+    "sg:city":"Pleasanton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 795 2549",
+    "sg:postcode":"66075",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "painting",
+        "repairing",
+        "special",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945979,
+        102083431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cVNQeYvQQ3KAFSSJWtccV_38.181349_-94.712630@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f72194813d0965bd0c0c644e837c0337",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083431,
+            "locality_id":85945979,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202940143
+        }
+    ],
+    "wof:id":202940143,
+    "wof:lastmodified":1449060740,
+    "wof:name":"Poole Paint And Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "painting",
+        "repairing",
+        "special",
+        "manufacturer"
+    ]
+},
+  "bbox": [-94.71263,38.181349,-94.71263,38.181349],
+  "geometry": {"coordinates":[-94.71263,38.181349],"type":"Point"}
+}

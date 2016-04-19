@@ -1,0 +1,70 @@
+{
+  "id": 202939099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.712112,38.180148,-94.712112,38.180148",
+    "geom:latitude":38.180148,
+    "geom:longitude":-94.712112,
+    "iso:country":"US",
+    "sg:address":"602 Main St",
+    "sg:city":"Pleasanton",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 352 6878",
+    "sg:postcode":"66075",
+    "sg:province":"KS",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945979,
+        102083431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kKIgb6dwSJLXoxfrHYr47_38.180148_-94.712112@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0019cf7c8b4002615a42f1a4e43815e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083431,
+            "locality_id":85945979,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202939099
+        }
+    ],
+    "wof:id":202939099,
+    "wof:lastmodified":1449060866,
+    "wof:name":"Snow Hill Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [-94.712112,38.180148,-94.712112,38.180148],
+  "geometry": {"coordinates":[-94.712112,38.180148],"type":"Point"}
+}

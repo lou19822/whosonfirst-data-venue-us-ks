@@ -1,0 +1,66 @@
+{
+  "id": 202942455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.665421,39.02713,-94.665421,39.02713",
+    "geom:latitude":39.02713,
+    "geom:longitude":-94.665421,
+    "iso:country":"US",
+    "sg:address":"6950 W 56th St Ste 100",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 842 0623",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ewrv4RWTsefdrrCo4qtdh_39.027130_-94.665421@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"568eaaee59c51df2d70e6eb2143cd2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":202942455
+        }
+    ],
+    "wof:id":202942455,
+    "wof:lastmodified":1449061284,
+    "wof:name":"Extreme Limousine",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [-94.665421,39.02713,-94.665421,39.02713],
+  "geometry": {"coordinates":[-94.665421,39.02713],"type":"Point"}
+}

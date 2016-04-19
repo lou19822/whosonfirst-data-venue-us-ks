@@ -1,0 +1,82 @@
+{
+  "id": 202965053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687735,39.005168,-95.687735,39.005168",
+    "geom:latitude":39.005168,
+    "geom:longitude":-95.687735,
+    "iso:country":"US",
+    "sg:address":"3411 SW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 7474",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "used",
+        "tire",
+        "car",
+        "dealers-used",
+        "new",
+        "cars-wholesale"
+    ],
+    "sg:website":"http://www.briggsauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S8UHl05OGwO5agx4N2Oa9_39.005168_-95.687735@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d029e84103002a2a660d8bac6d1e728",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":202965053
+        }
+    ],
+    "wof:id":202965053,
+    "wof:lastmodified":1449061866,
+    "wof:name":"Briggs Supercenter",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "tire",
+        "car",
+        "dealers-used",
+        "new",
+        "cars-wholesale"
+    ]
+},
+  "bbox": [-95.687735,39.005168,-95.687735,39.005168],
+  "geometry": {"coordinates":[-95.687735,39.005168],"type":"Point"}
+}

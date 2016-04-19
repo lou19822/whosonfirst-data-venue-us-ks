@@ -1,0 +1,92 @@
+{
+  "id": 202947087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.630417,38.958611,-94.630417,38.958611",
+    "geom:latitude":38.958611,
+    "geom:longitude":-94.630417,
+    "iso:country":"US",
+    "sg:address":"9420 Mission Rd",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 649 0552",
+    "sg:postcode":"66206",
+    "sg:province":"KS",
+    "sg:tags":[
+        "food",
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel"
+    ],
+    "sg:website":"http://www.missionroadanimalclinic.vetsuite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55EWlEf07VLiTxM5qmrVv9_38.958611_-94.630417@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"814eaa3cda547ed74a7a58885e05a0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879549,
+            "region_id":85688555,
+            "venue_id":202947087
+        }
+    ],
+    "wof:id":202947087,
+    "wof:lastmodified":1449061937,
+    "wof:name":"Mission Road Animal Clinic",
+    "wof:parent_id":85879549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel"
+    ]
+},
+  "bbox": [-94.630417,38.958611,-94.630417,38.958611],
+  "geometry": {"coordinates":[-94.630417,38.958611],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 202982843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.298535,37.562505,-97.298535,37.562505",
+    "geom:latitude":37.562505,
+    "geom:longitude":-97.298535,
+    "iso:country":"US",
+    "sg:address":"7260 S Chautauqua St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 554 0992",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "welder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4usQMjO8zw30ecY5GcxbvD_37.562505_-97.298535@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"480f3c8ec607305595f88a23500747d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":202982843
+        }
+    ],
+    "wof:id":202982843,
+    "wof:lastmodified":1449060530,
+    "wof:name":"Derby Welding & Repair",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welder"
+    ]
+},
+  "bbox": [-97.298535,37.562505,-97.298535,37.562505],
+  "geometry": {"coordinates":[-97.298535,37.562505],"type":"Point"}
+}

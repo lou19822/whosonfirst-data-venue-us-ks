@@ -1,0 +1,66 @@
+{
+  "id": 169617341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.384571,37.694893,-97.384571,37.694893",
+    "geom:latitude":37.694893,
+    "geom:longitude":-97.384571,
+    "iso:country":"US",
+    "sg:address":"3510 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 461 1360",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aDwqUS7B71YPHtMjDv7Zj_37.694893_-97.384571@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"416d2f0ee5f84b3200892fc90040fd0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872823,
+            "region_id":85688555,
+            "venue_id":169617341
+        }
+    ],
+    "wof:id":169617341,
+    "wof:lastmodified":1449032804,
+    "wof:name":"Innerworks",
+    "wof:parent_id":85872823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [-97.384571,37.694893,-97.384571,37.694893],
+  "geometry": {"coordinates":[-97.384571,37.694893],"type":"Point"}
+}

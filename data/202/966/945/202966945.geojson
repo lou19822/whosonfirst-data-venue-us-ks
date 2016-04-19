@@ -1,0 +1,71 @@
+{
+  "id": 202966945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.597755,39.05883,-95.597755,39.05883",
+    "geom:latitude":39.05883,
+    "geom:longitude":-95.597755,
+    "iso:country":"US",
+    "sg:address":"4216 NE Seward Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 2236",
+    "sg:postcode":"66616",
+    "sg:province":"KS",
+    "sg:tags":[
+        "limousine"
+    ],
+    "sg:website":"http://www.leonialimo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102084175,
+        85881533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mpOioDDIoxVGADT1pKSnH_39.058830_-95.597755@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1144f02cedc66e1f8d132558f6a4b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":-1,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":202966945
+        }
+    ],
+    "wof:id":202966945,
+    "wof:lastmodified":1449060126,
+    "wof:name":"Leonia Crescent Limousines",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [-95.597755,39.05883,-95.597755,39.05883],
+  "geometry": {"coordinates":[-95.597755,39.05883],"type":"Point"}
+}

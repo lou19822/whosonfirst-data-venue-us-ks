@@ -1,0 +1,82 @@
+{
+  "id": 202982611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.299048,37.694245,-97.299048,37.694245",
+    "geom:latitude":37.694245,
+    "geom:longitude":-97.299048,
+    "iso:country":"US",
+    "sg:address":"515 N Hillside St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 612 6931",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grill",
+        "style",
+        "mexican",
+        "family",
+        "take",
+        "bar"
+    ],
+    "sg:website":"http://www.chipolte.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hq2J7kPLMh2GvxkfBcTR0_37.694245_-97.299048@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c89f9e91c5dcb7c5ae7b115cf7c14aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":202982611
+        }
+    ],
+    "wof:id":202982611,
+    "wof:lastmodified":1449060532,
+    "wof:name":"Chipotle",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "style",
+        "mexican",
+        "family",
+        "take",
+        "bar"
+    ]
+},
+  "bbox": [-97.299048,37.694245,-97.299048,37.694245],
+  "geometry": {"coordinates":[-97.299048,37.694245],"type":"Point"}
+}

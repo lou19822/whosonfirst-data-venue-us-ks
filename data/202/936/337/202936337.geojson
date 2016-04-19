@@ -1,0 +1,84 @@
+{
+  "id": 202936337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.310752,39.208691,-95.310752,39.208691",
+    "geom:latitude":39.208691,
+    "geom:longitude":-95.310752,
+    "iso:country":"US",
+    "sg:address":"1003 Walnut St",
+    "sg:city":"Oskaloosa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 863 2189",
+    "sg:postcode":"66066",
+    "sg:province":"KS",
+    "sg:tags":[
+        "salvage",
+        "towing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946105,
+        102082687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mJCWwi5PXVAgffFb80riE_39.208691_-95.310752@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eed71b1664a78772f95fe68deeaaf873",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082687,
+            "locality_id":85946105,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202936337
+        }
+    ],
+    "wof:id":202936337,
+    "wof:lastmodified":1449060957,
+    "wof:name":"Jim's Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salvage",
+        "towing",
+        "tire"
+    ]
+},
+  "bbox": [-95.310752,39.208691,-95.310752,39.208691],
+  "geometry": {"coordinates":[-95.310752,39.208691],"type":"Point"}
+}

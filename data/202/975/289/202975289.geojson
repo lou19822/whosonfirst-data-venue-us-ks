@@ -1,0 +1,66 @@
+{
+  "id": 202975289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705082,37.38711,-94.705082,37.38711",
+    "geom:latitude":37.38711,
+    "geom:longitude":-94.705082,
+    "iso:country":"US",
+    "sg:address":"2006 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7474",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B9SEgTKXjpae6mUCEhcAh_37.387110_-94.705082@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80fe97c1ff78dd37621dd407035255b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202975289
+        }
+    ],
+    "wof:id":202975289,
+    "wof:lastmodified":1449062306,
+    "wof:name":"The Wild Side",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-94.705082,37.38711,-94.705082,37.38711],
+  "geometry": {"coordinates":[-94.705082,37.38711],"type":"Point"}
+}

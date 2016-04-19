@@ -1,0 +1,84 @@
+{
+  "id": 202960831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.747859,39.029209,-95.747859,39.029209",
+    "geom:latitude":39.029209,
+    "geom:longitude":-95.747859,
+    "iso:country":"US",
+    "sg:address":"5515 SW 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 1826",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "sg:website":"http://www.bellasalontopeka.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GRZ4t6WHxdIyz2dYLdHgX_39.029209_-95.747859@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ff263a29d7bf8f10f6bfa2845bda95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":202960831
+        }
+    ],
+    "wof:id":202960831,
+    "wof:lastmodified":1449061921,
+    "wof:name":"Bella Salon & Day Spa",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [-95.747859,39.029209,-95.747859,39.029209],
+  "geometry": {"coordinates":[-95.747859,39.029209],"type":"Point"}
+}

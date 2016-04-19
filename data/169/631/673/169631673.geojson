@@ -1,0 +1,66 @@
+{
+  "id": 169631673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.62897,39.080599,-94.62897,39.080599",
+    "geom:latitude":39.080599,
+    "geom:longitude":-94.62897,
+    "iso:country":"US",
+    "sg:address":"765 Cheyenne Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 621 6868",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85873441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RDqobsvVVQgMcHlmEjS1I_39.080599_-94.628970@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c78dbf778183479d4246b0a1b57b721e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85873441,
+            "region_id":85688555,
+            "venue_id":169631673
+        }
+    ],
+    "wof:id":169631673,
+    "wof:lastmodified":1449033708,
+    "wof:name":"Mc Gee Hauling",
+    "wof:parent_id":85873441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [-94.62897,39.080599,-94.62897,39.080599],
+  "geometry": {"coordinates":[-94.62897,39.080599],"type":"Point"}
+}

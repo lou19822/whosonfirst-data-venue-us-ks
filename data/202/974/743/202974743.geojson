@@ -1,0 +1,71 @@
+{
+  "id": 202974743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.741249,37.379083,-94.741249,37.379083",
+    "geom:latitude":37.379083,
+    "geom:longitude":-94.741249,
+    "iso:country":"US",
+    "sg:address":"403 S Pesavento Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1010",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "recreation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ip4OmqZZDpshSKrmFJMGE_37.379083_-94.741249@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84d16288674dd52175e1eaf356ba9dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202974743
+        }
+    ],
+    "wof:id":202974743,
+    "wof:lastmodified":1449062327,
+    "wof:name":"Chicopee Community Center",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation"
+    ]
+},
+  "bbox": [-94.741249,37.379083,-94.741249,37.379083],
+  "geometry": {"coordinates":[-94.741249,37.379083],"type":"Point"}
+}

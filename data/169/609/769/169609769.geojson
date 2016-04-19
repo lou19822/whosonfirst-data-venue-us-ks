@@ -1,0 +1,67 @@
+{
+  "id": 169609769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.852141,37.979605,-100.852141,37.979605",
+    "geom:latitude":37.979605,
+    "geom:longitude":-100.852141,
+    "iso:country":"US",
+    "sg:address":"1615 Longhorn Dr",
+    "sg:city":"Garden City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 276 8851",
+    "sg:postcode":"67846",
+    "sg:province":"KS",
+    "sg:tags":[
+        "crop",
+        "harvesting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946119,
+        102082153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O9Va4x529UGTKpOs995N1_37.979605_-100.852141@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7649a41c2e9c1d8a11a2598d876235a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082153,
+            "locality_id":85946119,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169609769
+        }
+    ],
+    "wof:id":169609769,
+    "wof:lastmodified":1449033919,
+    "wof:name":"Sander Custom Harvesting Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "harvesting"
+    ]
+},
+  "bbox": [-100.852141,37.979605,-100.852141,37.979605],
+  "geometry": {"coordinates":[-100.852141,37.979605],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 202977529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.881561,37.835782,-94.881561,37.835782",
+    "geom:latitude":37.835782,
+    "geom:longitude":-94.881561,
+    "iso:country":"US",
+    "sg:address":"205 Pine St",
+    "sg:city":"Redfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 756 4575",
+    "sg:postcode":"66769",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945651,
+        102082133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ygiMh9FrqYcrGZxXJBWb0_37.835782_-94.881561@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0bdea8376572af1279167c920778f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082133,
+            "locality_id":85945651,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202977529
+        }
+    ],
+    "wof:id":202977529,
+    "wof:lastmodified":1449062729,
+    "wof:name":"USPS - United States Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-94.881561,37.835782,-94.881561,37.835782],
+  "geometry": {"coordinates":[-94.881561,37.835782],"type":"Point"}
+}

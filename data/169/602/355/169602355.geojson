@@ -1,0 +1,66 @@
+{
+  "id": 169602355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352849,37.669387,-97.352849,37.669387",
+    "geom:latitude":37.669387,
+    "geom:longitude":-97.352849,
+    "iso:country":"US",
+    "sg:address":"1301 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 5842",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D7dC3ahEhOzJ0C5vTfg32_37.669387_-97.352849@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e62d92894be0397d1b042fd21df7898",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872823,
+            "region_id":85688555,
+            "venue_id":169602355
+        }
+    ],
+    "wof:id":169602355,
+    "wof:lastmodified":1449034228,
+    "wof:name":"Johnson Apartments",
+    "wof:parent_id":85872823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-97.352849,37.669387,-97.352849,37.669387],
+  "geometry": {"coordinates":[-97.352849,37.669387],"type":"Point"}
+}

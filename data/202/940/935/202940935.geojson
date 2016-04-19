@@ -1,0 +1,77 @@
+{
+  "id": 202940935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.077336,39.114109,-95.077336,39.114109",
+    "geom:latitude":39.114109,
+    "geom:longitude":-95.077336,
+    "iso:country":"US",
+    "sg:address":"1198 Ridge Cir Apt C",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 417 7200",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OMJaK1S5p6V7MbYmzWkvY_39.114109_-95.077336@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ac161ad3dc33ba516b5b32530da99f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":202940935
+        }
+    ],
+    "wof:id":202940935,
+    "wof:lastmodified":1449060741,
+    "wof:name":"Cedar Hills Apts",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [-95.077336,39.114109,-95.077336,39.114109],
+  "geometry": {"coordinates":[-95.077336,39.114109],"type":"Point"}
+}

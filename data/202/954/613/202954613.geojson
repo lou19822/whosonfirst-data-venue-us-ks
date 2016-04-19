@@ -1,0 +1,73 @@
+{
+  "id": 202954613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.76515,38.983892,-94.76515,38.983892",
+    "geom:latitude":38.983892,
+    "geom:longitude":-94.76515,
+    "iso:country":"US",
+    "sg:address":"15400 W 80th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 599 5502",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "line",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85812711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RwOiHO8fVZtIfm9FjwIA3_38.983892_-94.765150@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bf736d4fade894206578b213c6bba98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85812711,
+            "region_id":85688555,
+            "venue_id":202954613
+        }
+    ],
+    "wof:id":202954613,
+    "wof:lastmodified":1449062331,
+    "wof:name":"Floyd Ln Van Pools",
+    "wof:parent_id":85812711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "public"
+    ]
+},
+  "bbox": [-94.76515,38.983892,-94.76515,38.983892],
+  "geometry": {"coordinates":[-94.76515,38.983892],"type":"Point"}
+}

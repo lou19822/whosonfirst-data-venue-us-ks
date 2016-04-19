@@ -1,0 +1,68 @@
+{
+  "id": 169621903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.794099,38.883281,-94.794099,38.883281",
+    "geom:latitude":38.883281,
+    "geom:longitude":-94.794099,
+    "iso:country":"US",
+    "sg:address":"125 N Chester St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 397 8500",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d1Ki1rPtIGZx2lAjWbQrE_38.883281_-94.794099@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"289f5a6822307cfdae40d9c9e6bc3479",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":169621903
+        }
+    ],
+    "wof:id":169621903,
+    "wof:lastmodified":1449035558,
+    "wof:name":"Buggin & Cruisin Driving Schl",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [-94.794099,38.883281,-94.794099,38.883281],
+  "geometry": {"coordinates":[-94.794099,38.883281],"type":"Point"}
+}

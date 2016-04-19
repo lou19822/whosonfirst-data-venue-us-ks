@@ -1,0 +1,92 @@
+{
+  "id": 202951915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.742233,38.949251,-94.742233,38.949251",
+    "geom:latitude":38.949251,
+    "geom:longitude":-94.742233,
+    "iso:country":"US",
+    "sg:address":"9903 Pflumm Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 599 5522",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "shop",
+        "supply",
+        "automobile",
+        "supply-wholesale",
+        "equipment",
+        "service-equipment",
+        "repairing",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aYr7ytkcmu6IC0ZXkmtI5_38.949251_-94.742233@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"172a9679a8b5fdbea726b90cc145743b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202951915
+        }
+    ],
+    "wof:id":202951915,
+    "wof:lastmodified":1449060211,
+    "wof:name":"Automotive Services Of Kansas",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "supply",
+        "automobile",
+        "supply-wholesale",
+        "equipment",
+        "service-equipment",
+        "repairing",
+        "manufacturer"
+    ]
+},
+  "bbox": [-94.742233,38.949251,-94.742233,38.949251],
+  "geometry": {"coordinates":[-94.742233,38.949251],"type":"Point"}
+}

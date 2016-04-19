@@ -1,0 +1,85 @@
+{
+  "id": 202952173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.752594,38.956296,-94.752594,38.956296",
+    "geom:latitude":38.956296,
+    "geom:longitude":-94.752594,
+    "iso:country":"US",
+    "sg:address":"14333 W 95th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Water Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 8200",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "therapy",
+        "sleep",
+        "treatment",
+        "oxygen",
+        "disorders-information"
+    ],
+    "sg:website":"http://www.sleepcair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_096CLDUGFIgOiiVox2oUAx_38.956296_-94.752594@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d9262db14236fb3587a18f93146bf10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":202952173
+        }
+    ],
+    "wof:id":202952173,
+    "wof:lastmodified":1449061925,
+    "wof:name":"Sleepcair",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "sleep",
+        "treatment",
+        "oxygen",
+        "disorders-information"
+    ]
+},
+  "bbox": [-94.752594,38.956296,-94.752594,38.956296],
+  "geometry": {"coordinates":[-94.752594,38.956296],"type":"Point"}
+}

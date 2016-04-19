@@ -1,0 +1,80 @@
+{
+  "id": 202947533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.630212,38.93422,-94.630212,38.93422",
+    "geom:latitude":38.93422,
+    "geom:longitude":-94.630212,
+    "iso:country":"US",
+    "sg:address":"10673 Mission Rd",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 648 6277",
+    "sg:postcode":"66206",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "rack",
+        "security",
+        "system",
+        "bicycles-repair"
+    ],
+    "sg:website":"http://www.elitecycling.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945793,
+        102082673,
+        85879563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YlXSRJ2J1vuPjHhou0oMt_38.934220_-94.630212@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7e414571765537dda6bf8c96b76b925",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":202947533
+        }
+    ],
+    "wof:id":202947533,
+    "wof:lastmodified":1449061936,
+    "wof:name":"Elite Cycling",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "rack",
+        "security",
+        "system",
+        "bicycles-repair"
+    ]
+},
+  "bbox": [-94.630212,38.93422,-94.630212,38.93422],
+  "geometry": {"coordinates":[-94.630212,38.93422],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169637761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.684358,39.089371,-94.684358,39.089371",
+    "geom:latitude":39.089371,
+    "geom:longitude":-94.684358,
+    "iso:country":"US",
+    "sg:address":"4515 Kansas Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 551 2604",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85878507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ogoxLPqR8sEyjKZ3RhAJY_39.089371_-94.684358@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f94b17839ccd98549b3307902b0d3b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":169637761
+        }
+    ],
+    "wof:id":169637761,
+    "wof:lastmodified":1449032690,
+    "wof:name":"Burlington Northern",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [-94.684358,39.089371,-94.684358,39.089371],
+  "geometry": {"coordinates":[-94.684358,39.089371],"type":"Point"}
+}

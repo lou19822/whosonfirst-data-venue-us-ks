@@ -1,0 +1,66 @@
+{
+  "id": 169642505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.690303,39.017478,-94.690303,39.017478",
+    "geom:latitude":39.017478,
+    "geom:longitude":-94.690303,
+    "iso:country":"US",
+    "sg:address":"9010 W 62nd St",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 722 7760",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32z8XURRdQQKr7tze6NCmJ_39.017478_-94.690303@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c2bf5e0d35335d00cc310a235178b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":169642505
+        }
+    ],
+    "wof:id":169642505,
+    "wof:lastmodified":1449032879,
+    "wof:name":"Merriam City Police Dept",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-94.690303,39.017478,-94.690303,39.017478],
+  "geometry": {"coordinates":[-94.690303,39.017478],"type":"Point"}
+}

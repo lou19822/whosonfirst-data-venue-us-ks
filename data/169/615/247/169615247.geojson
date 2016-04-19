@@ -1,0 +1,68 @@
+{
+  "id": 169615247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.845111,37.16988,-94.845111,37.16988",
+    "geom:latitude":37.16988,
+    "geom:longitude":-94.845111,
+    "iso:country":"US",
+    "sg:address":"202 S Minnesota Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 429 8697",
+    "sg:postcode":"66725",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.cdl-electric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945137,
+        102082169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qqxAoTJ1lNYBj2U4yVsfl_37.169880_-94.845111@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c07334fe26324d4536adeba1e6ce3dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945137,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169615247
+        }
+    ],
+    "wof:id":169615247,
+    "wof:lastmodified":1449033734,
+    "wof:name":"CDL Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-94.845111,37.16988,-94.845111,37.16988],
+  "geometry": {"coordinates":[-94.845111,37.16988],"type":"Point"}
+}

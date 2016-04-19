@@ -1,0 +1,73 @@
+{
+  "id": 202921671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.258145,38.941947,-95.258145,38.941947",
+    "geom:latitude":38.941947,
+    "geom:longitude":-95.258145,
+    "iso:country":"US",
+    "sg:address":"2323 Ridge Ct",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 865 5300",
+    "sg:postcode":"66046",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945709,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JNL34ZcvGU4Uuqo5sa87y_38.941947_-95.258145@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7c5c7adbd210f1e58e3338aa73f1883",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085347,
+            "locality_id":85945709,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202921671
+        }
+    ],
+    "wof:id":202921671,
+    "wof:lastmodified":1449061719,
+    "wof:name":"First Med",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [-95.258145,38.941947,-95.258145,38.941947],
+  "geometry": {"coordinates":[-95.258145,38.941947],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169594747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.400019,39.591259,-97.400019,39.591259",
+    "geom:latitude":39.591259,
+    "geom:longitude":-97.400019,
+    "iso:country":"US",
+    "sg:address":"412 Washington St",
+    "sg:city":"Clyde",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 000 1111",
+    "sg:postcode":"66938",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946197,
+        102082683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ww9i8qCrwULhGYFzZ1a2X_39.591259_-97.400019@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b4086d6409c53fa3351ff14c2913090",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082683,
+            "locality_id":85946197,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169594747
+        }
+    ],
+    "wof:id":169594747,
+    "wof:lastmodified":1449033164,
+    "wof:name":"Clyde Community Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-97.400019,39.591259,-97.400019,39.591259],
+  "geometry": {"coordinates":[-97.400019,39.591259],"type":"Point"}
+}

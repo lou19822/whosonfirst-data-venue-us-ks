@@ -1,0 +1,68 @@
+{
+  "id": 169609351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.19254,37.548251,-97.19254,37.548251",
+    "geom:latitude":37.548251,
+    "geom:longitude":-97.19254,
+    "iso:country":"US",
+    "sg:address":"11800 E 79th St S",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 789 0243",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XUnAkoHx8vd4Xruui7TAJ_37.548251_-97.192540@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16fd012ece1e7ce8c46778ce35edeacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":169609351
+        }
+    ],
+    "wof:id":169609351,
+    "wof:lastmodified":1449033921,
+    "wof:name":"Xpress Aviation Svc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [-97.19254,37.548251,-97.19254,37.548251],
+  "geometry": {"coordinates":[-97.19254,37.548251],"type":"Point"}
+}

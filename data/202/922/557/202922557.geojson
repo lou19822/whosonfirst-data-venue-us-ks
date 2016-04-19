@@ -1,0 +1,80 @@
+{
+  "id": 202922557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.922918,39.316076,-94.922918,39.316076",
+    "geom:latitude":39.316076,
+    "geom:longitude":-94.922918,
+    "iso:country":"US",
+    "sg:address":"804 Cherokee St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 468 4285",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "household",
+        "commercial",
+        "truck",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x1v7VGYzIgxYAiJiKmJvz_39.316076_-94.922918@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b79fe6bf64efb2411c68e6f1dd61b463",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202922557
+        }
+    ],
+    "wof:id":202922557,
+    "wof:lastmodified":1449060345,
+    "wof:name":"U-Haul Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "household",
+        "commercial",
+        "truck",
+        "trailer"
+    ]
+},
+  "bbox": [-94.922918,39.316076,-94.922918,39.316076],
+  "geometry": {"coordinates":[-94.922918,39.316076],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 202916841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.938612,39.116322,-94.938612,39.116322",
+    "geom:latitude":39.116322,
+    "geom:longitude":-94.938612,
+    "iso:country":"US",
+    "sg:address":"15510 State Ave Ste 1-B",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 8600",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ],
+    "sg:website":"http://www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qlXFt6Nsn09DFklazJ2OD_39.116322_-94.938612@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"970ebc650c4a187783146930b15320df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":202916841
+        }
+    ],
+    "wof:id":202916841,
+    "wof:lastmodified":1449061500,
+    "wof:name":"Bank of America Home Loans",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [-94.938612,39.116322,-94.938612,39.116322],
+  "geometry": {"coordinates":[-94.938612,39.116322],"type":"Point"}
+}

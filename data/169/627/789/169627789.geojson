@@ -1,0 +1,68 @@
+{
+  "id": 169627789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.675172,39.116825,-94.675172,39.116825",
+    "geom:latitude":39.116825,
+    "geom:longitude":-94.675172,
+    "iso:country":"US",
+    "sg:address":"4110 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 281 4110",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85878497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rrWfiepMs3DGn05UdQcjw_39.116825_-94.675172@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"621f2d70f36028c2eaf663cc78c8c4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85878497,
+            "region_id":85688555,
+            "venue_id":169627789
+        }
+    ],
+    "wof:id":169627789,
+    "wof:lastmodified":1449036042,
+    "wof:name":"State Avenue Auto Credit",
+    "wof:parent_id":85878497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-94.675172,39.116825,-94.675172,39.116825],
+  "geometry": {"coordinates":[-94.675172,39.116825],"type":"Point"}
+}

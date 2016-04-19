@@ -1,0 +1,67 @@
+{
+  "id": 169636637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.707394,37.835545,-94.707394,37.835545",
+    "geom:latitude":37.835545,
+    "geom:longitude":-94.707394,
+    "iso:country":"US",
+    "sg:address":"612 S National Ave",
+    "sg:city":"Fort Scott",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 223 0006",
+    "sg:postcode":"66701",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945631,
+        102082133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qedLEqaSGuy75TJnmDk29_37.835545_-94.707394@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b3184a021b05ff5c266ebde3880b0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082133,
+            "locality_id":85945631,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169636637
+        }
+    ],
+    "wof:id":169636637,
+    "wof:lastmodified":1449033985,
+    "wof:name":"Fort Scott Orthopaedic Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.707394,37.835545,-94.707394,37.835545],
+  "geometry": {"coordinates":[-94.707394,37.835545],"type":"Point"}
+}

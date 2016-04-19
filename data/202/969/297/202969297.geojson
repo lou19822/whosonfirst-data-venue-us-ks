@@ -1,0 +1,73 @@
+{
+  "id": 202969297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.072151,37.895388,-95.072151,37.895388",
+    "geom:latitude":37.895388,
+    "geom:longitude":-95.072151,
+    "iso:country":"US",
+    "sg:address":"520 Clay St",
+    "sg:city":"Bronson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 939 4733",
+    "sg:postcode":"66716",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945629,
+        102082133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28ttY8bImr3PVpv3MLHaZk_37.895388_-95.072151@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1c1dd29ca1ec8c2542e69d88a6359b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082133,
+            "locality_id":85945629,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202969297
+        }
+    ],
+    "wof:id":202969297,
+    "wof:lastmodified":1449060719,
+    "wof:name":"USPS - United States Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-95.072151,37.895388,-95.072151,37.895388],
+  "geometry": {"coordinates":[-95.072151,37.895388],"type":"Point"}
+}

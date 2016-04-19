@@ -1,0 +1,72 @@
+{
+  "id": 202969735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.842687,37.170879,-94.842687,37.170879",
+    "geom:latitude":37.170879,
+    "geom:longitude":-94.842687,
+    "iso:country":"US",
+    "sg:address":"110 W Maple St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 429 2418",
+    "sg:postcode":"66725",
+    "sg:province":"KS",
+    "sg:tags":[
+        "justice",
+        "government-state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945137,
+        102082169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cXTf4AWZALrcFUFL5780G_37.170879_-94.842687@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c06e441f22c37f5c5090d9ba6d7f597d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945137,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202969735
+        }
+    ],
+    "wof:id":202969735,
+    "wof:lastmodified":1449060721,
+    "wof:name":"Motor Vehicle Registration",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "government-state"
+    ]
+},
+  "bbox": [-94.842687,37.170879,-94.842687,37.170879],
+  "geometry": {"coordinates":[-94.842687,37.170879],"type":"Point"}
+}

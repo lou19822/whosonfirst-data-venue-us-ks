@@ -1,0 +1,68 @@
+{
+  "id": 169675081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.235633,38.405504,-96.235633,38.405504",
+    "geom:latitude":38.405504,
+    "geom:longitude":-96.235633,
+    "iso:country":"US",
+    "sg:address":"615 Overlander St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4580",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "livestock",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cz1d1jUWGQY73SRMM8i8Y_38.405504_-96.235633@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ac648b1fa195baf059821386c473676",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":169675081
+        }
+    ],
+    "wof:id":169675081,
+    "wof:lastmodified":1449034358,
+    "wof:name":"H & T Trucking",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock",
+        "hauling"
+    ]
+},
+  "bbox": [-96.235633,38.405504,-96.235633,38.405504],
+  "geometry": {"coordinates":[-96.235633,38.405504],"type":"Point"}
+}

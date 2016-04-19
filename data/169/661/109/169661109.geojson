@@ -1,0 +1,66 @@
+{
+  "id": 169661109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.229232,37.662882,-97.229232,37.662882",
+    "geom:latitude":37.662882,
+    "geom:longitude":-97.229232,
+    "iso:country":"US",
+    "sg:address":"9320 E Osie Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 681 2244",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85806685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Iroay0FIFQ4max1u7FfrR_37.662882_-97.229232@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90c3a6de430ed7abc16f1041dead775c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85806685,
+            "region_id":85688555,
+            "venue_id":169661109
+        }
+    ],
+    "wof:id":169661109,
+    "wof:lastmodified":1449035597,
+    "wof:name":"Place Apartments",
+    "wof:parent_id":85806685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-97.229232,37.662882,-97.229232,37.662882],
+  "geometry": {"coordinates":[-97.229232,37.662882],"type":"Point"}
+}

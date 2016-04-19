@@ -1,0 +1,73 @@
+{
+  "id": 202974139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705183,37.383885,-94.705183,37.383885",
+    "geom:latitude":37.383885,
+    "geom:longitude":-94.705183,
+    "iso:country":"US",
+    "sg:address":"2308 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 3500",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "consultant",
+        "analyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xMNZXmS0etpN09Sj6KppK_37.383885_-94.705183@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"243349e887fa23007e92b516e504fa7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202974139
+        }
+    ],
+    "wof:id":202974139,
+    "wof:lastmodified":1449062323,
+    "wof:name":"Ryan Insurance",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "analyst"
+    ]
+},
+  "bbox": [-94.705183,37.383885,-94.705183,37.383885],
+  "geometry": {"coordinates":[-94.705183,37.383885],"type":"Point"}
+}

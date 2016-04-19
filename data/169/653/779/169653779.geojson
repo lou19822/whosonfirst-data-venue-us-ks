@@ -1,0 +1,66 @@
+{
+  "id": 169653779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.656239,39.069201,-94.656239,39.069201",
+    "geom:latitude":39.069201,
+    "geom:longitude":-94.656239,
+    "iso:country":"US",
+    "sg:address":"2234 Birch Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 789 9330",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85803445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76RjukmKIMBqapS4UJpINp_39.069201_-94.656239@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e76b7a43792dab7fb9a58963b4d7a5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85803445,
+            "region_id":85688555,
+            "venue_id":169653779
+        }
+    ],
+    "wof:id":169653779,
+    "wof:lastmodified":1449032915,
+    "wof:name":"Coe Coe's Nails",
+    "wof:parent_id":85803445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [-94.656239,39.069201,-94.656239,39.069201],
+  "geometry": {"coordinates":[-94.656239,39.069201],"type":"Point"}
+}

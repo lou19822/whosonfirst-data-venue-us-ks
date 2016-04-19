@@ -1,0 +1,68 @@
+{
+  "id": 169607181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.294153,37.60579,-97.294153,37.60579",
+    "geom:latitude":37.60579,
+    "geom:longitude":-97.294153,
+    "iso:country":"US",
+    "sg:address":"3351 E 47th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 7400",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29OqBV45KDUU0og6x860hh_37.605790_-97.294153@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"081e07a557a96742251992ea4670d432",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":169607181
+        }
+    ],
+    "wof:id":169607181,
+    "wof:lastmodified":1449033126,
+    "wof:name":"Advanced Physical Therapy",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-97.294153,37.60579,-97.294153,37.60579],
+  "geometry": {"coordinates":[-97.294153,37.60579],"type":"Point"}
+}

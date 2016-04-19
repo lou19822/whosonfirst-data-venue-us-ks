@@ -1,0 +1,96 @@
+{
+  "id": 202964407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687322,38.964893,-95.687322,38.964893",
+    "geom:latitude":38.964893,
+    "geom:longitude":-95.687322,
+    "iso:country":"US",
+    "sg:address":"5608A SW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 380 0243",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "packaging",
+        "container",
+        "courier",
+        "transfer",
+        "express",
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wQEf0pdi6dPxmwL83AHMM_38.964893_-95.687322@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"610f5f9ede800b43d501ffd934df468b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":202964407
+        }
+    ],
+    "wof:id":202964407,
+    "wof:lastmodified":1449062025,
+    "wof:name":"APU Shipping",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "container",
+        "courier",
+        "transfer",
+        "express",
+        "delivery"
+    ]
+},
+  "bbox": [-95.687322,38.964893,-95.687322,38.964893],
+  "geometry": {"coordinates":[-95.687322,38.964893],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 169649161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723596,38.928254,-94.723596,38.928254",
+    "geom:latitude":38.928254,
+    "geom:longitude":-94.723596,
+    "iso:country":"US",
+    "sg:address":"11030 Quivira Rd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 663 3695",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0va4FTYOHroxG3FR2oEmIN_38.928254_-94.723596@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fec088ee505211c921dde81965679f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":169649161
+        }
+    ],
+    "wof:id":169649161,
+    "wof:lastmodified":1449034941,
+    "wof:name":"Pt's Coffee",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [-94.723596,38.928254,-94.723596,38.928254],
+  "geometry": {"coordinates":[-94.723596,38.928254],"type":"Point"}
+}

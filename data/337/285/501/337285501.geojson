@@ -1,0 +1,67 @@
+{
+  "id": 337285501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.742204,39.043823,-95.742204,39.043823",
+    "geom:latitude":39.043823,
+    "geom:longitude":-95.742204,
+    "iso:country":"US",
+    "sg:address":"5000 SW Huntoon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 2944",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"http://www.lutherplace.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WLSTKCVLqpnc1izOcdv3P_39.043823_-95.742204@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8212d41d768865583380cc63a01570c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881539,
+            "region_id":85688555,
+            "venue_id":337285501
+        }
+    ],
+    "wof:id":337285501,
+    "wof:lastmodified":1449026957,
+    "wof:name":"Luther Place Apartments",
+    "wof:parent_id":85881539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.742204,39.043823,-95.742204,39.043823],
+  "geometry": {"coordinates":[-95.742204,39.043823],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 202919403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.271021,39.859559,-95.271021,39.859559",
+    "geom:latitude":39.859559,
+    "geom:longitude":-95.271021,
+    "iso:country":"US",
+    "sg:address":"606 W Main St",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 442 6054",
+    "sg:postcode":"66035",
+    "sg:province":"KS",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"http://www.highland.cc.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946245,
+        102082137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OU8D4rJANP2SksbwJPZ93_39.859559_-95.271021@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf00c853b6e9fa806464e19b0c550a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082137,
+            "locality_id":85946245,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202919403
+        }
+    ],
+    "wof:id":202919403,
+    "wof:lastmodified":1449062035,
+    "wof:name":"Highland Community College",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-95.271021,39.859559,-95.271021,39.859559],
+  "geometry": {"coordinates":[-95.271021,39.859559],"type":"Point"}
+}

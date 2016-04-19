@@ -1,0 +1,70 @@
+{
+  "id": 202920639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.881364,39.261076,-94.881364,39.261076",
+    "geom:latitude":39.261076,
+    "geom:longitude":-94.881364,
+    "iso:country":"US",
+    "sg:address":"555 N Highway 5",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 2206",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "disposal",
+        "waste",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429,
+        85811613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47CwHZKCICVrhEfkkm5DvA_39.261076_-94.881364@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"058845c61addac929511884e87458b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":85811613,
+            "region_id":85688555,
+            "venue_id":202920639
+        }
+    ],
+    "wof:id":202920639,
+    "wof:lastmodified":1449062084,
+    "wof:name":"City Lansing Waste Water Trtmt",
+    "wof:parent_id":85811613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste",
+        "equipment"
+    ]
+},
+  "bbox": [-94.881364,39.261076,-94.881364,39.261076],
+  "geometry": {"coordinates":[-94.881364,39.261076],"type":"Point"}
+}

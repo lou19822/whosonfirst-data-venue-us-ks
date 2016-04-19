@@ -1,0 +1,68 @@
+{
+  "id": 202950131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.639679,38.930431,-94.639679,38.930431",
+    "geom:latitude":38.930431,
+    "geom:longitude":-94.639679,
+    "iso:country":"US",
+    "sg:address":"10990 Roe Ave",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 906 6800",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "container",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945793,
+        102082673,
+        85879563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gtnkqvNJYzFM6NPhReLHZ_38.930431_-94.639679@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"525e005850fdb496464b672fe08cd6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":202950131
+        }
+    ],
+    "wof:id":202950131,
+    "wof:lastmodified":1449061105,
+    "wof:name":"Miq Global",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "broker"
+    ]
+},
+  "bbox": [-94.639679,38.930431,-94.639679,38.930431],
+  "geometry": {"coordinates":[-94.639679,38.930431],"type":"Point"}
+}

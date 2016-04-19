@@ -1,0 +1,61 @@
+{
+  "id": 202963731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.66732,39.087576,-95.66732,39.087576",
+    "geom:latitude":39.087576,
+    "geom:longitude":-95.66732,
+    "iso:country":"US",
+    "sg:address":"503 NW Lyman Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 5580",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HQhffa6PQZZighoHPXbqp_39.087576_-95.667320@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"824b926f6dde62c89959ae803082c5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":202963731
+        }
+    ],
+    "wof:id":202963731,
+    "wof:lastmodified":1449060359,
+    "wof:name":"Simpson's Automotive",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.66732,39.087576,-95.66732,39.087576],
+  "geometry": {"coordinates":[-95.66732,39.087576],"type":"Point"}
+}

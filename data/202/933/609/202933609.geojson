@@ -1,0 +1,80 @@
+{
+  "id": 202933609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.331243,39.415111,-95.331243,39.415111",
+    "geom:latitude":39.415111,
+    "geom:longitude":-95.331243,
+    "iso:country":"US",
+    "sg:address":"306 Lafayette St",
+    "sg:city":"Nortonville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 886 2110",
+    "sg:postcode":"66060",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946101,
+        102082687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26QLX0MhYFZIuN9oywDqa6_39.415111_-95.331243@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10f95a607b3a47fa3d2915f1a5c8882c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082687,
+            "locality_id":85946101,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202933609
+        }
+    ],
+    "wof:id":202933609,
+    "wof:lastmodified":1449060630,
+    "wof:name":"Valley Falls Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [-95.331243,39.415111,-95.331243,39.415111],
+  "geometry": {"coordinates":[-95.331243,39.415111],"type":"Point"}
+}

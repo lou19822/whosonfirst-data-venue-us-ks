@@ -1,0 +1,67 @@
+{
+  "id": 169674953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.856386,37.963907,-100.856386,37.963907",
+    "geom:latitude":37.963907,
+    "geom:longitude":-100.856386,
+    "iso:country":"US",
+    "sg:address":"106 Anderson St",
+    "sg:city":"Garden City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 275 7766",
+    "sg:postcode":"67846",
+    "sg:province":"KS",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946119,
+        102082153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73waeUOBO0BDraGruiHjc7_37.963907_-100.856386@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff5f0c7e2d4d4eba773d0a596797827e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082153,
+            "locality_id":85946119,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169674953
+        }
+    ],
+    "wof:id":169674953,
+    "wof:lastmodified":1449035138,
+    "wof:name":"Pervical Rynlds Dva Rnt Wrck",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [-100.856386,37.963907,-100.856386,37.963907],
+  "geometry": {"coordinates":[-100.856386,37.963907],"type":"Point"}
+}

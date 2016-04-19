@@ -1,0 +1,82 @@
+{
+  "id": 202925887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.913799,39.317219,-94.913799,39.317219",
+    "geom:latitude":39.317219,
+    "geom:longitude":-94.913799,
+    "iso:country":"US",
+    "sg:address":"413 Cherokee St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 420 6466",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "acupuncture",
+        "physician",
+        "surgeons",
+        "chiropractic"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9357695%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30Sqp6PlnLxR6XuZDJYzPt_39.317219_-94.913799@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a30fde10095c1073077012f79ab998c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202925887
+        }
+    ],
+    "wof:id":202925887,
+    "wof:lastmodified":1449060134,
+    "wof:name":"Jones Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture",
+        "physician",
+        "surgeons",
+        "chiropractic"
+    ]
+},
+  "bbox": [-94.913799,39.317219,-94.913799,39.317219],
+  "geometry": {"coordinates":[-94.913799,39.317219],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 202922437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.92095,39.32834,-94.92095,39.32834",
+    "geom:latitude":39.32834,
+    "geom:longitude":-94.92095,
+    "iso:country":"US",
+    "sg:address":"703 Metropolitan St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 651 9703",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "government-state",
+        "force",
+        "armed",
+        "recruiting"
+    ],
+    "sg:website":"http://www.arng.army.mil",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bzQiTgu39U6SQ36xTNTiO_39.328340_-94.920950@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"880ef7739d0c5e3bb875f5c495050522",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202922437
+        }
+    ],
+    "wof:id":202922437,
+    "wof:lastmodified":1449060346,
+    "wof:name":"Kansas National Guard",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "force",
+        "armed",
+        "recruiting"
+    ]
+},
+  "bbox": [-94.92095,39.32834,-94.92095,39.32834],
+  "geometry": {"coordinates":[-94.92095,39.32834],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 202983725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.244652,37.741879,-97.244652,37.741879",
+    "geom:latitude":37.741879,
+    "geom:longitude":-97.244652,
+    "iso:country":"US",
+    "sg:address":"3223 N Rock Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 636 2225",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "style",
+        "arcade",
+        "family",
+        "children's",
+        "planning",
+        "place",
+        "amusement",
+        "pizza"
+    ],
+    "sg:website":"http://www.chuckecheese.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E5WEh8y2pd2Hb72EkkGHv_37.741879_-97.244652@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7147ef4a24b6f3e7e5d009a1ad8c0c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":202983725
+        }
+    ],
+    "wof:id":202983725,
+    "wof:lastmodified":1449062440,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "arcade",
+        "family",
+        "children's",
+        "planning",
+        "place",
+        "amusement",
+        "pizza"
+    ]
+},
+  "bbox": [-97.244652,37.741879,-97.244652,37.741879],
+  "geometry": {"coordinates":[-97.244652,37.741879],"type":"Point"}
+}

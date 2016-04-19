@@ -1,0 +1,82 @@
+{
+  "id": 202946129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.645856,39.022198,-94.645856,39.022198",
+    "geom:latitude":39.022198,
+    "geom:longitude":-94.645856,
+    "iso:country":"US",
+    "sg:address":"5312 Martway St",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 789 8815",
+    "sg:postcode":"66205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945747,
+        102082673,
+        85879597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WlmgWTYjeI3CaUEfE49JV_39.022198_-94.645856@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd04822f535e0b09dd3302287455edc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":202946129
+        }
+    ],
+    "wof:id":202946129,
+    "wof:lastmodified":1449062346,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [-94.645856,39.022198,-94.645856,39.022198],
+  "geometry": {"coordinates":[-94.645856,39.022198],"type":"Point"}
+}

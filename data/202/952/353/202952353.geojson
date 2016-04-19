@@ -1,0 +1,66 @@
+{
+  "id": 202952353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.73155,38.948146,-94.73155,38.948146",
+    "geom:latitude":38.948146,
+    "geom:longitude":-94.73155,
+    "iso:country":"US",
+    "sg:address":"9940 Westgate St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 322 3628",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cocoa"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DRsl0macFQCkrpdETKKe2_38.948146_-94.731550@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4aad3842c26badcfec5f6b0b48f25170",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879589,
+            "region_id":85688555,
+            "venue_id":202952353
+        }
+    ],
+    "wof:id":202952353,
+    "wof:lastmodified":1449061924,
+    "wof:name":"Chocolate Legacy",
+    "wof:parent_id":85879589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocoa"
+    ]
+},
+  "bbox": [-94.73155,38.948146,-94.73155,38.948146],
+  "geometry": {"coordinates":[-94.73155,38.948146],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 202981939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.431018,37.711879,-97.431018,37.711879",
+    "geom:latitude":37.711879,
+    "geom:longitude":-97.431018,
+    "iso:country":"US",
+    "sg:address":"1570 N Melrose Ln",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 1292",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaner",
+        "drain",
+        "consultant",
+        "repairer",
+        "contractor",
+        "sewer",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102084203,
+        85812577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q27yOkb7XqrRzHGJBgZ8D_37.711879_-97.431018@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e460eafe8523426d22059f58b7521b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":-1,
+            "neighbourhood_id":85812577,
+            "region_id":85688555,
+            "venue_id":202981939
+        }
+    ],
+    "wof:id":202981939,
+    "wof:lastmodified":1449062701,
+    "wof:name":"Robert's Drain & Sewer Service",
+    "wof:parent_id":85812577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "drain",
+        "consultant",
+        "repairer",
+        "contractor",
+        "sewer",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [-97.431018,37.711879,-97.431018,37.711879],
+  "geometry": {"coordinates":[-97.431018,37.711879],"type":"Point"}
+}

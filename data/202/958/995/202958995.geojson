@@ -1,0 +1,88 @@
+{
+  "id": 202958995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.06143,39.834308,-96.06143,39.834308",
+    "geom:latitude":39.834308,
+    "geom:longitude":-96.06143,
+    "iso:country":"US",
+    "sg:address":"607 Main St",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"66538",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "government-united",
+        "state",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945883,
+        102083413
+    ],
+    "wof:brand_id":420575173,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WamoUAcbpHBmqLHt9RYim_39.834308_-96.061430@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02160da4b7f614ea45bf2035ad7b53ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083413,
+            "locality_id":85945883,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202958995
+        }
+    ],
+    "wof:id":202958995,
+    "wof:lastmodified":1457209444,
+    "wof:name":"United States Postal Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "government-united",
+        "state",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -96.06143,
+    39.834308,
+    -96.06143,
+    39.834308
+],
+  "geometry": {"coordinates":[-96.06143,39.834308],"type":"Point"}
+}

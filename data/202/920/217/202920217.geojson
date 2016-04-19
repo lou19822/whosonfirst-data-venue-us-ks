@@ -1,0 +1,74 @@
+{
+  "id": 202920217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899929,39.261932,-94.899929,39.261932",
+    "geom:latitude":39.261932,
+    "geom:longitude":-94.899929,
+    "iso:country":"US",
+    "sg:address":"828 N Main St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 250 1500",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "broker",
+        "store"
+    ],
+    "sg:website":"http://www.lansingliquorandwine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945367,
+        102083429,
+        85844391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21JPmTOI0LoMU8yRFzNIU5_39.261932_-94.899929@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1bc346c851e178deebd1445b36fd96ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":202920217
+        }
+    ],
+    "wof:id":202920217,
+    "wof:lastmodified":1449062085,
+    "wof:name":"Lansing Liquor & Wine",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "store"
+    ]
+},
+  "bbox": [-94.899929,39.261932,-94.899929,39.261932],
+  "geometry": {"coordinates":[-94.899929,39.261932],"type":"Point"}
+}

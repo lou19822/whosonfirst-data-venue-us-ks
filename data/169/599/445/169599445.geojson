@@ -1,0 +1,69 @@
+{
+  "id": 169599445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.694414,39.018518,-94.694414,39.018518",
+    "geom:latitude":39.018518,
+    "geom:longitude":-94.694414,
+    "iso:country":"US",
+    "sg:address":"5930 Merriam Dr",
+    "sg:city":"Merriam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 1198",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sSl9Z6hvybgyaQwUD37mg_39.018518_-94.694414@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74f2d4ed00097213062257dc9247b614",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169599445
+        }
+    ],
+    "wof:id":169599445,
+    "wof:lastmodified":1449034205,
+    "wof:name":"Merriam Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-94.694414,39.018518,-94.694414,39.018518],
+  "geometry": {"coordinates":[-94.694414,39.018518],"type":"Point"}
+}

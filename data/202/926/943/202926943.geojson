@@ -1,0 +1,65 @@
+{
+  "id": 202926943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.902534,39.282225,-94.902534,39.282225",
+    "geom:latitude":39.282225,
+    "geom:longitude":-94.902534,
+    "iso:country":"US",
+    "sg:address":"3507 S 4th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 1000",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentists-orthodontists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GaCR4GQMrLrVZp03iQjIQ_39.282225_-94.902534@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0d2e1d38201ba25cf480567e81fb6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202926943
+        }
+    ],
+    "wof:id":202926943,
+    "wof:lastmodified":1449060988,
+    "wof:name":"Sara Oliver Dds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-orthodontists"
+    ]
+},
+  "bbox": [-94.902534,39.282225,-94.902534,39.282225],
+  "geometry": {"coordinates":[-94.902534,39.282225],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 202983391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.33603,37.754102,-97.33603,37.754102",
+    "geom:latitude":37.754102,
+    "geom:longitude":-97.33603,
+    "iso:country":"US",
+    "sg:address":"3901 N Broadway St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 462 2576",
+    "sg:postcode":"67219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "contractors-commercial"
+    ],
+    "sg:website":"http://www.reddiindustries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85845129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wERJ1qaxRFakkt6t6J2sp_37.754102_-97.336030@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9aea87a138a7fb1e345c0fc3ecab80ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85845129,
+            "region_id":85688555,
+            "venue_id":202983391
+        }
+    ],
+    "wof:id":202983391,
+    "wof:lastmodified":1449062443,
+    "wof:name":"Reddi Electric",
+    "wof:parent_id":85845129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [-97.33603,37.754102,-97.33603,37.754102],
+  "geometry": {"coordinates":[-97.33603,37.754102],"type":"Point"}
+}

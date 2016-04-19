@@ -1,0 +1,68 @@
+{
+  "id": 169624783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704358,39.009717,-94.704358,39.009717",
+    "geom:latitude":39.009717,
+    "geom:longitude":-94.704358,
+    "iso:country":"US",
+    "sg:address":"10121 W 65th Dr",
+    "sg:city":"Merriam",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 4463",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "residential",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dZ7M2VBVlC5IEQ73sO5ye_39.009717_-94.704358@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90251c4ec234171f6e180c9f43f9eb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":169624783
+        }
+    ],
+    "wof:id":169624783,
+    "wof:lastmodified":1449034955,
+    "wof:name":"John Sankey Residential Design",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "designer"
+    ]
+},
+  "bbox": [-94.704358,39.009717,-94.704358,39.009717],
+  "geometry": {"coordinates":[-94.704358,39.009717],"type":"Point"}
+}

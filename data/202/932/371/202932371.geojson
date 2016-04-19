@@ -1,0 +1,70 @@
+{
+  "id": 202932371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.681123,38.620799,-94.681123,38.620799",
+    "geom:latitude":38.620799,
+    "geom:longitude":-94.681123,
+    "iso:country":"US",
+    "sg:address":"20 S Broadway St",
+    "sg:city":"Louisburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 837 4242",
+    "sg:postcode":"66053",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946425,
+        102085273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lg33hm0WP3iXMF0iyaOn9_38.620799_-94.681123@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a4fbc035d25014db0880ac81102e695",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085273,
+            "locality_id":85946425,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202932371
+        }
+    ],
+    "wof:id":202932371,
+    "wof:lastmodified":1449061054,
+    "wof:name":"Salon Broadway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-94.681123,38.620799,-94.681123,38.620799],
+  "geometry": {"coordinates":[-94.681123,38.620799],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 202951657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.738258,38.980123,-94.738258,38.980123",
+    "geom:latitude":38.980123,
+    "geom:longitude":-94.738258,
+    "iso:country":"US",
+    "sg:address":"8221 Noland Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 541 1445",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lQClajj0PTbj6GTa05gtc_38.980123_-94.738258@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4d1554b9fcf58c4b5839b1e0c7204dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":202951657
+        }
+    ],
+    "wof:id":202951657,
+    "wof:lastmodified":1449060206,
+    "wof:name":"Quality Research Services",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ]
+},
+  "bbox": [-94.738258,38.980123,-94.738258,38.980123],
+  "geometry": {"coordinates":[-94.738258,38.980123],"type":"Point"}
+}

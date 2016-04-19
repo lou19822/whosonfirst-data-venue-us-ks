@@ -1,0 +1,80 @@
+{
+  "id": 202951547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.743222,38.935576,-94.743222,38.935576",
+    "geom:latitude":38.935576,
+    "geom:longitude":-94.743222,
+    "iso:country":"US",
+    "sg:address":"10631 Summit St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 469 9600",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "food",
+        "equipment",
+        "packer",
+        "processing",
+        "restaurant"
+    ],
+    "sg:website":"http://www.hobartservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AGvib5Ez8hGSe0mrrOxVe_38.935576_-94.743222@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"257bc1c5bed82325e0d5d0d2cafbdbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202951547
+        }
+    ],
+    "wof:id":202951547,
+    "wof:lastmodified":1449060205,
+    "wof:name":"Hobart Corporation",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "equipment",
+        "packer",
+        "processing",
+        "restaurant"
+    ]
+},
+  "bbox": [-94.743222,38.935576,-94.743222,38.935576],
+  "geometry": {"coordinates":[-94.743222,38.935576],"type":"Point"}
+}

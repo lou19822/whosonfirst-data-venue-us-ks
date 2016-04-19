@@ -1,0 +1,65 @@
+{
+  "id": 169664555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.860619,37.975052,-100.860619,37.975052",
+    "geom:latitude":37.975052,
+    "geom:longitude":-100.860619,
+    "iso:country":"US",
+    "sg:address":"1133 E Kansas Ave",
+    "sg:city":"Garden City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 276 7681",
+    "sg:postcode":"67846",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946119,
+        102082153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FVaIuPnbftOmtcDE8AuzE_37.975052_-100.860619@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a2cc92640422a6f300336ab949d5ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082153,
+            "locality_id":85946119,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169664555
+        }
+    ],
+    "wof:id":169664555,
+    "wof:lastmodified":1449033913,
+    "wof:name":"Dental Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-100.860619,37.975052,-100.860619,37.975052],
+  "geometry": {"coordinates":[-100.860619,37.975052],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 202982989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.313499,37.641041,-97.313499,37.641041",
+    "geom:latitude":37.641041,
+    "geom:longitude":-97.313499,
+    "iso:country":"US",
+    "sg:address":"2028 E Northern St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 9501",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "control",
+        "patrol",
+        "consultant",
+        "alarm",
+        "system",
+        "equipment",
+        "guard",
+        "smoke",
+        "monitoring",
+        "detector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27lsgbqINStKU8JsmfqPb1_37.641041_-97.313499@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"609b5c79f38bd4e9f8be249d8220dbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":202982989
+        }
+    ],
+    "wof:id":202982989,
+    "wof:lastmodified":1449060531,
+    "wof:name":"Max Netpro",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "patrol",
+        "consultant",
+        "alarm",
+        "system",
+        "equipment",
+        "guard",
+        "smoke",
+        "monitoring",
+        "detector"
+    ]
+},
+  "bbox": [-97.313499,37.641041,-97.313499,37.641041],
+  "geometry": {"coordinates":[-97.313499,37.641041],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 202962671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.693834,39.058628,-95.693834,39.058628",
+    "geom:latitude":39.058628,
+    "geom:longitude":-95.693834,
+    "iso:country":"US",
+    "sg:address":"515 SW Horne St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 5480",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "disease",
+        "osteopathic",
+        "surgeon",
+        "pulmonary"
+    ],
+    "sg:website":"http://www.topekapulmonary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VUq5yxMYu6prHj5DpaIzW_39.058628_-95.693834@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f2687fb7b01bc6c68f46bb48498204e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881561,
+            "region_id":85688555,
+            "venue_id":202962671
+        }
+    ],
+    "wof:id":202962671,
+    "wof:lastmodified":1449061606,
+    "wof:name":"Pulmonary & Sleep Associates",
+    "wof:parent_id":85881561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "disease",
+        "osteopathic",
+        "surgeon",
+        "pulmonary"
+    ]
+},
+  "bbox": [-95.693834,39.058628,-95.693834,39.058628],
+  "geometry": {"coordinates":[-95.693834,39.058628],"type":"Point"}
+}

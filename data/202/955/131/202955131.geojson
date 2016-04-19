@@ -1,0 +1,80 @@
+{
+  "id": 202955131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.852587,38.983699,-94.852587,38.983699",
+    "geom:latitude":38.983699,
+    "geom:longitude":-94.852587,
+    "iso:country":"US",
+    "sg:address":"8020 Monticello Ter",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 5212",
+    "sg:postcode":"66227",
+    "sg:province":"KS",
+    "sg:tags":[
+        "buses-charter",
+        "moving-self",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945763,
+        102082673,
+        85835005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YbP2BM4XKzlXcQPABv2cb_38.983699_-94.852587@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f94668a7d5757669065685fd888b7eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945763,
+            "neighbourhood_id":85835005,
+            "region_id":85688555,
+            "venue_id":202955131
+        }
+    ],
+    "wof:id":202955131,
+    "wof:lastmodified":1449061847,
+    "wof:name":"First Student, Inc.",
+    "wof:parent_id":85835005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buses-charter",
+        "moving-self",
+        "truck"
+    ]
+},
+  "bbox": [-94.852587,38.983699,-94.852587,38.983699],
+  "geometry": {"coordinates":[-94.852587,38.983699],"type":"Point"}
+}

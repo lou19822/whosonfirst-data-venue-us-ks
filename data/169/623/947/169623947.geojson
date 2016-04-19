@@ -1,0 +1,68 @@
+{
+  "id": 169623947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444325,37.696678,-97.444325,37.696678",
+    "geom:latitude":37.696678,
+    "geom:longitude":-97.444325,
+    "iso:country":"US",
+    "sg:address":"758 N Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 2119",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31VjqEdtbSv3T5my2NWTNE_37.696678_-97.444325@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3053be3569b904f241b4e16cc8516d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":169623947
+        }
+    ],
+    "wof:id":169623947,
+    "wof:lastmodified":1449034999,
+    "wof:name":"Central Mortgage Ctr",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [-97.444325,37.696678,-97.444325,37.696678],
+  "geometry": {"coordinates":[-97.444325,37.696678],"type":"Point"}
+}

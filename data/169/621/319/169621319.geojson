@@ -1,0 +1,67 @@
+{
+  "id": 169621319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.694229,39.021384,-94.694229,39.021384",
+    "geom:latitude":39.021384,
+    "geom:longitude":-94.694229,
+    "iso:country":"US",
+    "sg:address":"6032 Merriam Dr",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 7412",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZlfSX4hhNfr4uk9NN2jHe_39.021384_-94.694229@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85e12eb64e2a2a0ad776458170620928",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169621319
+        }
+    ],
+    "wof:id":169621319,
+    "wof:lastmodified":1449035558,
+    "wof:name":"Macek's Auto Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-94.694229,39.021384,-94.694229,39.021384],
+  "geometry": {"coordinates":[-94.694229,39.021384],"type":"Point"}
+}

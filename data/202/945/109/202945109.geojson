@@ -1,0 +1,75 @@
+{
+  "id": 202945109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.695839,39.018399,-94.695839,39.018399",
+    "geom:latitude":39.018399,
+    "geom:longitude":-94.695839,
+    "iso:country":"US",
+    "sg:address":"6114 Merriam Ln",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 7544",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "batteries-storage-wholesale",
+        "batteries-storage",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nX603ux6D4ChOVp4d7PpX_39.018399_-94.695839@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e75ac6e10d04b6a1114fc2b2e530d42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":202945109
+        }
+    ],
+    "wof:id":202945109,
+    "wof:lastmodified":1449060332,
+    "wof:name":"Interstate Battery",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "batteries-storage-wholesale",
+        "batteries-storage",
+        "manufacturer"
+    ]
+},
+  "bbox": [-94.695839,39.018399,-94.695839,39.018399],
+  "geometry": {"coordinates":[-94.695839,39.018399],"type":"Point"}
+}

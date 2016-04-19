@@ -1,0 +1,88 @@
+{
+  "id": 202976071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.7046,37.381809,-94.7046,37.381809",
+    "geom:latitude":37.381809,
+    "geom:longitude":-94.7046,
+    "iso:country":"US",
+    "sg:address":"200 E Centennial Dr",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 0417",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "supply",
+        "perfume",
+        "hair",
+        "equipment",
+        "salons-equipment",
+        "accessory"
+    ],
+    "sg:website":"http://www.sallybeauty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:brand_id":420573919,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74sGPwzLtF9rz7NV6dbmQs_37.381809_-94.704600@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b8bb2575227f3822d092ee31db7eed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202976071
+        }
+    ],
+    "wof:id":202976071,
+    "wof:lastmodified":1457207908,
+    "wof:name":"Sally Beauty Supply",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "perfume",
+        "hair",
+        "equipment",
+        "salons-equipment",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -94.7046,
+    37.381809,
+    -94.7046,
+    37.381809
+],
+  "geometry": {"coordinates":[-94.7046,37.381809],"type":"Point"}
+}

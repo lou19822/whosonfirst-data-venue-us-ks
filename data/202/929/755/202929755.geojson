@@ -1,0 +1,71 @@
+{
+  "id": 202929755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.91938,39.309071,-94.91938,39.309071",
+    "geom:latitude":39.309071,
+    "geom:longitude":-94.91938,
+    "iso:country":"US",
+    "sg:address":"1001 6th Ave",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 1880",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:website":"http://www.saintlukeshealthsystem.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4akKCSyCXbUlcazMDvCzlA_39.309071_-94.919380@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e8b61cbd1a35f2cdcf0d3b54bc2b90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202929755
+        }
+    ],
+    "wof:id":202929755,
+    "wof:lastmodified":1449061084,
+    "wof:name":"Cushing Memorial Hospital Mri",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-94.91938,39.309071,-94.91938,39.309071],
+  "geometry": {"coordinates":[-94.91938,39.309071],"type":"Point"}
+}

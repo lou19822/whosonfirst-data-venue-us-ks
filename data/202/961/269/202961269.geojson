@@ -1,0 +1,73 @@
+{
+  "id": 202961269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.695518,39.036919,-95.695518,39.036919",
+    "geom:latitude":39.036919,
+    "geom:longitude":-95.695518,
+    "iso:country":"US",
+    "sg:address":"1406 SW 17th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 4247",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59aXU2cTLPTr0TvZaNvWBm_39.036919_-95.695518@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6606a3190a193300b391542d32102fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":202961269
+        }
+    ],
+    "wof:id":202961269,
+    "wof:lastmodified":1449062580,
+    "wof:name":"Hairslingers",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [-95.695518,39.036919,-95.695518,39.036919],
+  "geometry": {"coordinates":[-95.695518,39.036919],"type":"Point"}
+}

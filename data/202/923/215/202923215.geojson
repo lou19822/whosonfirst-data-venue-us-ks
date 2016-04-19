@@ -1,0 +1,68 @@
+{
+  "id": 202923215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.915373,39.317019,-94.915373,39.317019",
+    "geom:latitude":39.317019,
+    "geom:longitude":-94.915373,
+    "iso:country":"US",
+    "sg:address":"519 Cherokee St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 9200",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "military",
+        "veteran"
+    ],
+    "sg:website":"http://www.vfw.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AVBn72dnvBnA3hOheDc1Y_39.317019_-94.915373@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f3875e9d01ee83e9ad7e99bfe308163",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202923215
+        }
+    ],
+    "wof:id":202923215,
+    "wof:lastmodified":1449062557,
+    "wof:name":"Veterans Of Foreign Wars Of The United States",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military",
+        "veteran"
+    ]
+},
+  "bbox": [-94.915373,39.317019,-94.915373,39.317019],
+  "geometry": {"coordinates":[-94.915373,39.317019],"type":"Point"}
+}

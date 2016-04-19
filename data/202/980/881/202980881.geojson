@@ -1,0 +1,78 @@
+{
+  "id": 202980881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.244536,37.67895,-97.244536,37.67895",
+    "geom:latitude":37.67895,
+    "geom:longitude":-97.244536,
+    "iso:country":"US",
+    "sg:address":"7937 E Kellogg Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 8463",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "seafood"
+    ],
+    "sg:website":"http://www.ljsilvers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85806685
+    ],
+    "wof:brand_id":420575285,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35ALMCgh7kjnJZSYMPFQlb_37.678950_-97.244536@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea11e5481f9470d2d6b0ef8eed253c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85806685,
+            "region_id":85688555,
+            "venue_id":202980881
+        }
+    ],
+    "wof:id":202980881,
+    "wof:lastmodified":1457209505,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85806685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -97.244536,
+    37.67895,
+    -97.244536,
+    37.67895
+],
+  "geometry": {"coordinates":[-97.244536,37.67895],"type":"Point"}
+}

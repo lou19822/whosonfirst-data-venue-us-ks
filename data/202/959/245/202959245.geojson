@@ -1,0 +1,68 @@
+{
+  "id": 202959245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.672447,39.0499,-95.672447,39.0499",
+    "geom:latitude":39.0499,
+    "geom:longitude":-95.672447,
+    "iso:country":"US",
+    "sg:address":"200 SE 7th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 8200",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g7egphVKvvpHwP0fMvVHY_39.049900_-95.672447@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43f88092fc5ad902308af72b5688d695",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202959245
+        }
+    ],
+    "wof:id":202959245,
+    "wof:lastmodified":1449062393,
+    "wof:name":"Shawnee County Information for County Offices",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [-95.672447,39.0499,-95.672447,39.0499],
+  "geometry": {"coordinates":[-95.672447,39.0499],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 202964289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.705931,39.000499,-95.705931,39.000499",
+    "geom:latitude":39.000499,
+    "geom:longitude":-95.705931,
+    "iso:country":"US",
+    "sg:address":"3712 SW Burlingame Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 4568",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "industrial",
+        "technical",
+        "assistant",
+        "medical",
+        "trade",
+        "computer",
+        "technician",
+        "technology",
+        "dental"
+    ],
+    "sg:website":"http://www.wti.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77XBt8d6LM3V9RwamlQWkg_39.000499_-95.705931@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0a20e3daa7fd37b7921171208ab7f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":202964289
+        }
+    ],
+    "wof:id":202964289,
+    "wof:lastmodified":1449062028,
+    "wof:name":"WTI Topeka",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "technical",
+        "assistant",
+        "medical",
+        "trade",
+        "computer",
+        "technician",
+        "technology",
+        "dental"
+    ]
+},
+  "bbox": [-95.705931,39.000499,-95.705931,39.000499],
+  "geometry": {"coordinates":[-95.705931,39.000499],"type":"Point"}
+}

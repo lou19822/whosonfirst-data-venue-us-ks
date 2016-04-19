@@ -1,0 +1,86 @@
+{
+  "id": 202959613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.671463,39.05592,-95.671463,39.05592",
+    "geom:latitude":39.05592,
+    "geom:longitude":-95.671463,
+    "iso:country":"US",
+    "sg:address":"301 S Kansas Ave Apt A",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 6231",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "draperies",
+        "material",
+        "window",
+        "treatment",
+        "curtain",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZYM63SEUIAz5sEGyqGJEw_39.055920_-95.671463@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee2b11cfcd607fb20071aab8a3fc1d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202959613
+        }
+    ],
+    "wof:id":202959613,
+    "wof:lastmodified":1449062391,
+    "wof:name":"Threadwear",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "draperies",
+        "material",
+        "window",
+        "treatment",
+        "curtain",
+        "store"
+    ]
+},
+  "bbox": [-95.671463,39.05592,-95.671463,39.05592],
+  "geometry": {"coordinates":[-95.671463,39.05592],"type":"Point"}
+}

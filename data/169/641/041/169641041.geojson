@@ -1,0 +1,68 @@
+{
+  "id": 169641041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.66447,38.906908,-94.66447,38.906908",
+    "geom:latitude":38.906908,
+    "geom:longitude":-94.66447,
+    "iso:country":"US",
+    "sg:address":"6740 W 121st St",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 894 6500",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tpfNzJPlm3tWI4kXJpMyQ_38.906908_-94.664470@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"890812e1514dfbaa0596127c55143a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":169641041
+        }
+    ],
+    "wof:id":169641041,
+    "wof:lastmodified":1449035167,
+    "wof:name":"Overland Park Family Health",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.66447,38.906908,-94.66447,38.906908],
+  "geometry": {"coordinates":[-94.66447,38.906908],"type":"Point"}
+}

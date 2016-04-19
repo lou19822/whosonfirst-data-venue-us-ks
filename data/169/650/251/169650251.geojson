@@ -1,0 +1,68 @@
+{
+  "id": 169650251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.637184,38.967514,-94.637184,38.967514",
+    "geom:latitude":38.967514,
+    "geom:longitude":-94.637184,
+    "iso:country":"US",
+    "sg:address":"4444 W 89th St",
+    "sg:city":"Prairie Village",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 383 8899",
+    "sg:postcode":"66207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pnjgJSF0lpGxJUtaKxxBy_38.967514_-94.637184@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2226243ca97b34a6f13aa14157681f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879549,
+            "region_id":85688555,
+            "venue_id":169650251
+        }
+    ],
+    "wof:id":169650251,
+    "wof:lastmodified":1449034699,
+    "wof:name":"Ambassador Homes",
+    "wof:parent_id":85879549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-94.637184,38.967514,-94.637184,38.967514],
+  "geometry": {"coordinates":[-94.637184,38.967514],"type":"Point"}
+}

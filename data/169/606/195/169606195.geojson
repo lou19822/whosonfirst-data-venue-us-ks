@@ -1,0 +1,70 @@
+{
+  "id": 169606195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.716926,38.974388,-94.716926,38.974388",
+    "geom:latitude":38.974388,
+    "geom:longitude":-94.716926,
+    "iso:country":"US",
+    "sg:address":"8310 Nieman Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 495 9816",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medical",
+        "training",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U3kpZPZ73BLZzZgToyE0p_38.974388_-94.716926@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3dd9667df1bc90550f7dd22191bd931",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":169606195
+        }
+    ],
+    "wof:id":169606195,
+    "wof:lastmodified":1449033202,
+    "wof:name":"Citizen CPR Foundation",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "training",
+        "emergency"
+    ]
+},
+  "bbox": [-94.716926,38.974388,-94.716926,38.974388],
+  "geometry": {"coordinates":[-94.716926,38.974388],"type":"Point"}
+}

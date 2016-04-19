@@ -1,0 +1,88 @@
+{
+  "id": 202944221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.687698,39.03677,-94.687698,39.03677",
+    "geom:latitude":39.03677,
+    "geom:longitude":-94.687698,
+    "iso:country":"US",
+    "sg:address":"8801 W 51st St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 677 4777",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil",
+        "transmission",
+        "diagnostic",
+        "equipment",
+        "lube",
+        "transmissions-other",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eqL9rdP26IQMwf9FJ2LlQ_39.036770_-94.687698@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d84f40234dd9a9f50081c82d14c72b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":202944221
+        }
+    ],
+    "wof:id":202944221,
+    "wof:lastmodified":1449061389,
+    "wof:name":"Eudell's Auto Service Center",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "transmission",
+        "diagnostic",
+        "equipment",
+        "lube",
+        "transmissions-other",
+        "air conditioning"
+    ]
+},
+  "bbox": [-94.687698,39.03677,-94.687698,39.03677],
+  "geometry": {"coordinates":[-94.687698,39.03677],"type":"Point"}
+}

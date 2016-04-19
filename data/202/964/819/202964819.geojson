@@ -1,0 +1,77 @@
+{
+  "id": 202964819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.684349,39.015179,-95.684349,39.015179",
+    "geom:latitude":39.015179,
+    "geom:longitude":-95.684349,
+    "iso:country":"US",
+    "sg:address":"201 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 3664",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "caterer",
+        "asian",
+        "chinese",
+        "pan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5avMoT42EqpZiXGbN777Ns_39.015179_-95.684349@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7976398ae7263f4623633fb61fbfd06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881563,
+            "region_id":85688555,
+            "venue_id":202964819
+        }
+    ],
+    "wof:id":202964819,
+    "wof:lastmodified":1449062024,
+    "wof:name":"New China Restaurant",
+    "wof:parent_id":85881563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer",
+        "asian",
+        "chinese",
+        "pan"
+    ]
+},
+  "bbox": [-95.684349,39.015179,-95.684349,39.015179],
+  "geometry": {"coordinates":[-95.684349,39.015179],"type":"Point"}
+}

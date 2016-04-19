@@ -1,0 +1,67 @@
+{
+  "id": 202984753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.672493,38.378891,-97.672493,38.378891",
+    "geom:latitude":38.378891,
+    "geom:longitude":-97.672493,
+    "iso:country":"US",
+    "sg:address":"1000 Hospital Dr",
+    "sg:city":"Mcpherson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 241 0917",
+    "sg:postcode":"67460",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945521,
+        102083415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DE5IEycyU6VHuvS2qA5Ac_38.378891_-97.672493@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"533a7d2b610bc2c1684c73222d791350",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083415,
+            "locality_id":85945521,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202984753
+        }
+    ],
+    "wof:id":202984753,
+    "wof:lastmodified":1449061538,
+    "wof:name":"Clayton D Fetsch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-97.672493,38.378891,-97.672493,38.378891],
+  "geometry": {"coordinates":[-97.672493,38.378891],"type":"Point"}
+}

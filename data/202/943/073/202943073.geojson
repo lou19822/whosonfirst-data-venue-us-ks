@@ -1,0 +1,73 @@
+{
+  "id": 202943073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.653717,39.02145,-94.653717,39.02145",
+    "geom:latitude":39.02145,
+    "geom:longitude":-94.653717,
+    "iso:country":"US",
+    "sg:address":"5917B Woodson Rd",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 9820",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945747,
+        102082673,
+        85879597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LrwlsucUsHxfLglC1ct4P_39.021450_-94.653717@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ece80755fcab34f784c727a86b8fbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":202943073
+        }
+    ],
+    "wof:id":202943073,
+    "wof:lastmodified":1449060783,
+    "wof:name":"Gregory Dental Laboratory",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-94.653717,39.02145,-94.653717,39.02145],
+  "geometry": {"coordinates":[-94.653717,39.02145],"type":"Point"}
+}

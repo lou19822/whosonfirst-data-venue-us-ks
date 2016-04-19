@@ -1,0 +1,66 @@
+{
+  "id": 169657005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.281441,37.686513,-97.281441,37.686513",
+    "geom:latitude":37.686513,
+    "geom:longitude":-97.281441,
+    "iso:country":"US",
+    "sg:address":"4701 E Douglas Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 1181",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ww3nsAFECKr9XqAOkq3Rj_37.686513_-97.281441@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3914da10b5dc6bcc11682fee6bb7ff4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":169657005
+        }
+    ],
+    "wof:id":169657005,
+    "wof:lastmodified":1449033052,
+    "wof:name":"Watermark Books & Cafe",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [-97.281441,37.686513,-97.281441,37.686513],
+  "geometry": {"coordinates":[-97.281441,37.686513],"type":"Point"}
+}

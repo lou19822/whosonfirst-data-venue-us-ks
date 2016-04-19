@@ -1,0 +1,67 @@
+{
+  "id": 169640627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.15279,39.040197,-98.15279,39.040197",
+    "geom:latitude":39.040197,
+    "geom:longitude":-98.15279,
+    "iso:country":"US",
+    "sg:address":"301 W Lincoln Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 524 4456",
+    "sg:postcode":"67455",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945619,
+        102082151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42tdPsudVM2Ojv2wO9GI2F_39.040197_-98.152790@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bd0b9e056713b14a79092885f1b5254",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082151,
+            "locality_id":85945619,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169640627
+        }
+    ],
+    "wof:id":169640627,
+    "wof:lastmodified":1449034104,
+    "wof:name":"Bill Yager Auto Sales Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-98.15279,39.040197,-98.15279,39.040197],
+  "geometry": {"coordinates":[-98.15279,39.040197],"type":"Point"}
+}

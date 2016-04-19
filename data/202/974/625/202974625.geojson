@@ -1,0 +1,75 @@
+{
+  "id": 202974625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.706352,37.413151,-94.706352,37.413151",
+    "geom:latitude":37.413151,
+    "geom:longitude":-94.706352,
+    "iso:country":"US",
+    "sg:address":"603 N Pine St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1210",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "government-city",
+        "government-united",
+        "township",
+        "state",
+        "village"
+    ],
+    "sg:website":"http://www.pittks.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dcXtu3ibIrgGnEJcT2dG4_37.413151_-94.706352@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d549da23812bb2775cb0946ed27c8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202974625
+        }
+    ],
+    "wof:id":202974625,
+    "wof:lastmodified":1449062327,
+    "wof:name":"Pittsburg Public Housing Agency",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-city",
+        "government-united",
+        "township",
+        "state",
+        "village"
+    ]
+},
+  "bbox": [-94.706352,37.413151,-94.706352,37.413151],
+  "geometry": {"coordinates":[-94.706352,37.413151],"type":"Point"}
+}

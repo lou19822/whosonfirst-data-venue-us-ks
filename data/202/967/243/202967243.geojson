@@ -1,0 +1,91 @@
+{
+  "id": 202967243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.67498,39.102171,-95.67498,39.102171",
+    "geom:latitude":39.102171,
+    "geom:longitude":-95.67498,
+    "iso:country":"US",
+    "sg:address":"901 NW Menninger Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 6359",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaner",
+        "disaster",
+        "recovery",
+        "damage",
+        "rug",
+        "water",
+        "restoration",
+        "relief",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102084175,
+        85881559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xTQJ5wj3NHRJOHBrQIacp_39.102171_-95.674980@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c02f082b45993d6af0019d5b4e5afc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":-1,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":202967243
+        }
+    ],
+    "wof:id":202967243,
+    "wof:lastmodified":1449062458,
+    "wof:name":"Sdcc Incorporated",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "disaster",
+        "recovery",
+        "damage",
+        "rug",
+        "water",
+        "restoration",
+        "relief",
+        "carpet"
+    ]
+},
+  "bbox": [-95.67498,39.102171,-95.67498,39.102171],
+  "geometry": {"coordinates":[-95.67498,39.102171],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 202916473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.116544,39.561855,-95.116544,39.561855",
+    "geom:latitude":39.561855,
+    "geom:longitude":-95.116544,
+    "iso:country":"US",
+    "sg:address":"316 Commercial St Ste 10",
+    "sg:city":"Atchison",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 367 3700",
+    "sg:postcode":"66002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ],
+    "sg:website":"http://www.bergercompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945497,
+        102082665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KFOVUJh0qbNmHVf3LSYl8_39.561855_-95.116544@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2177d4723eb910bb3a2feaeb618616c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082665,
+            "locality_id":85945497,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202916473
+        }
+    ],
+    "wof:id":202916473,
+    "wof:lastmodified":1449061500,
+    "wof:name":"Atchison Leather",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [-95.116544,39.561855,-95.116544,39.561855],
+  "geometry": {"coordinates":[-95.116544,39.561855],"type":"Point"}
+}

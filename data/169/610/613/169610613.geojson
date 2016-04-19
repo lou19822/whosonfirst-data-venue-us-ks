@@ -1,0 +1,67 @@
+{
+  "id": 169610613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.727411,37.653009,-98.727411,37.653009",
+    "geom:latitude":37.653009,
+    "geom:longitude":-98.727411,
+    "iso:country":"US",
+    "sg:address":"712 Larimer St",
+    "sg:city":"Pratt",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 672 3232",
+    "sg:postcode":"67124",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945699,
+        102085327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RPl1uW50o2DcWE27AOWHR_37.653009_-98.727411@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7d494196a2b6d5e08a9afedf17996cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085327,
+            "locality_id":85945699,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169610613
+        }
+    ],
+    "wof:id":169610613,
+    "wof:lastmodified":1449035908,
+    "wof:name":"Pratt Veterinary Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [-98.727411,37.653009,-98.727411,37.653009],
+  "geometry": {"coordinates":[-98.727411,37.653009],"type":"Point"}
+}

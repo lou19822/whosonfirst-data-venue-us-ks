@@ -1,0 +1,66 @@
+{
+  "id": 169661195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.316675,37.708026,-97.316675,37.708026",
+    "geom:latitude":37.708026,
+    "geom:longitude":-97.316675,
+    "iso:country":"US",
+    "sg:address":"1717 E 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 8221",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KiLVuZIwIKUY76uDsxgtk_37.708026_-97.316675@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"165d33b2b5fda6510471db270c7b046e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872827,
+            "region_id":85688555,
+            "venue_id":169661195
+        }
+    ],
+    "wof:id":169661195,
+    "wof:lastmodified":1449035599,
+    "wof:name":"Comprehensive General Dntstry",
+    "wof:parent_id":85872827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-97.316675,37.708026,-97.316675,37.708026],
+  "geometry": {"coordinates":[-97.316675,37.708026],"type":"Point"}
+}

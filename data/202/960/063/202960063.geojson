@@ -1,0 +1,79 @@
+{
+  "id": 202960063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.684888,39.051495,-95.684888,39.051495",
+    "geom:latitude":39.051495,
+    "geom:longitude":-95.684888,
+    "iso:country":"US",
+    "sg:address":"822 SW 8th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 8165",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FCC2xiM7lK2FG8OZMZcWo_39.051495_-95.684888@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4de3e7a517d6e4d8e8b0ed1f0b19062",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202960063
+        }
+    ],
+    "wof:id":202960063,
+    "wof:lastmodified":1449061918,
+    "wof:name":"Capital Village Apartments",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-95.684888,39.051495,-95.684888,39.051495],
+  "geometry": {"coordinates":[-95.684888,39.051495],"type":"Point"}
+}

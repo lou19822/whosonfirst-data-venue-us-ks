@@ -1,0 +1,79 @@
+{
+  "id": 202973243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.706382,37.411124,-94.706382,37.411124",
+    "geom:latitude":37.411124,
+    "geom:longitude":-94.706382,
+    "iso:country":"US",
+    "sg:address":"202 W 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 3333",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/JBOWEN?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oXdMcWhujFVKHsLJzsjQY_37.411124_-94.706382@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"727f69f1fcdae2b2ad56d69216d44398",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202973243
+        }
+    ],
+    "wof:id":202973243,
+    "wof:lastmodified":1449061641,
+    "wof:name":"American Family Insurance- James D Bowen",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [-94.706382,37.411124,-94.706382,37.411124],
+  "geometry": {"coordinates":[-94.706382,37.411124],"type":"Point"}
+}

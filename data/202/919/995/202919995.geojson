@@ -1,0 +1,70 @@
+{
+  "id": 202919995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.888297,39.26398,-94.888297,39.26398",
+    "geom:latitude":39.26398,
+    "geom:longitude":-94.888297,
+    "iso:country":"US",
+    "sg:address":"982 N Highway 5",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 1902",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429,
+        85811613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oxgOARGbnMMnxHnaXsaEU_39.263980_-94.888297@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38f062d50b3ed69ebb773385f57f5f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":85811613,
+            "region_id":85688555,
+            "venue_id":202919995
+        }
+    ],
+    "wof:id":202919995,
+    "wof:lastmodified":1449062035,
+    "wof:name":"Leavenworth Waterworks Dept",
+    "wof:parent_id":85811613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [-94.888297,39.26398,-94.888297,39.26398],
+  "geometry": {"coordinates":[-94.888297,39.26398],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 202935523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.763578,38.912682,-94.763578,38.912682",
+    "geom:latitude":38.912682,
+    "geom:longitude":-94.763578,
+    "iso:country":"US",
+    "sg:address":"15345 W 119th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 393 4420",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "super",
+        "merchandise"
+    ],
+    "sg:website":"http://www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LZ0MIDjCJ1jw5DBkipOzM_38.912682_-94.763578@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7344a290917b7e4020ce7ef5c34884c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202935523
+        }
+    ],
+    "wof:id":202935523,
+    "wof:lastmodified":1449062216,
+    "wof:name":"Super Target Store",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "merchandise"
+    ]
+},
+  "bbox": [-94.763578,38.912682,-94.763578,38.912682],
+  "geometry": {"coordinates":[-94.763578,38.912682],"type":"Point"}
+}

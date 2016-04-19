@@ -1,0 +1,67 @@
+{
+  "id": 169602299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.026508,38.057543,-97.026508,38.057543",
+    "geom:latitude":38.057543,
+    "geom:longitude":-97.026508,
+    "iso:country":"US",
+    "sg:address":"10116 NW 160th St",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 799 2243",
+    "sg:postcode":"67114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102082695,
+        85851529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fLMUavUvroTTq1wM3yi23_38.057543_-97.026508@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f3bf367e9611e0e0e5910738948ebcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":-1,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":169602299
+        }
+    ],
+    "wof:id":169602299,
+    "wof:lastmodified":1449034229,
+    "wof:name":"Graber Backhoe Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [-97.026508,38.057543,-97.026508,38.057543],
+  "geometry": {"coordinates":[-97.026508,38.057543],"type":"Point"}
+}

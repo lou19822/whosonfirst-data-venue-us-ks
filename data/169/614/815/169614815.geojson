@@ -1,0 +1,69 @@
+{
+  "id": 169614815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.745605,39.116613,-94.745605,39.116613",
+    "geom:latitude":39.116613,
+    "geom:longitude":-94.745605,
+    "iso:country":"US",
+    "sg:address":"7250 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 1100",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.kckcc.cc.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85878509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VbZCf39LldoZSayo92hu1_39.116613_-94.745605@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2fff9009e37a1b4cbe7790021b66c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":169614815
+        }
+    ],
+    "wof:id":169614815,
+    "wof:lastmodified":1449036058,
+    "wof:name":"Kansas City Community College",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [-94.745605,39.116613,-94.745605,39.116613],
+  "geometry": {"coordinates":[-94.745605,39.116613],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169615001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.334317,37.781453,-97.334317,37.781453",
+    "geom:latitude":37.781453,
+    "geom:longitude":-97.334317,
+    "iso:country":"US",
+    "sg:address":"400 E 53rd St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 1778",
+    "sg:postcode":"67219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945863,
+        102084203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22GK3Vvprprfubq4UTFN3r_37.781453_-97.334317@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"357f701bf3890c364eb3ec7271c75c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945863,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169615001
+        }
+    ],
+    "wof:id":169615001,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Safety Kleen Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "recovery"
+    ]
+},
+  "bbox": [-97.334317,37.781453,-97.334317,37.781453],
+  "geometry": {"coordinates":[-97.334317,37.781453],"type":"Point"}
+}

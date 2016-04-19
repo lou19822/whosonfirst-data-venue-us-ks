@@ -1,0 +1,67 @@
+{
+  "id": 169609461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.109715,37.160727,-95.109715,37.160727",
+    "geom:latitude":37.160727,
+    "geom:longitude":-95.109715,
+    "iso:country":"US",
+    "sg:address":"805 Barker Rd",
+    "sg:city":"Oswego",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 795 2525",
+    "sg:postcode":"67356",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945453,
+        102083423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RO8murjAIrRYPvMos2RWg_37.160727_-95.109715@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ab9c0ccb2f466b4a8c6d5819fb26f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083423,
+            "locality_id":85945453,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169609461
+        }
+    ],
+    "wof:id":169609461,
+    "wof:lastmodified":1449033921,
+    "wof:name":"St John's Med Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-95.109715,37.160727,-95.109715,37.160727],
+  "geometry": {"coordinates":[-95.109715,37.160727],"type":"Point"}
+}

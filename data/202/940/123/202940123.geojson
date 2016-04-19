@@ -1,0 +1,73 @@
+{
+  "id": 202940123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.718528,38.16959,-94.718528,38.16959",
+    "geom:latitude":38.16959,
+    "geom:longitude":-94.718528,
+    "iso:country":"US",
+    "sg:address":"104 E 15th St",
+    "sg:city":"Pleasanton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 352 6134",
+    "sg:postcode":"66075",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945979,
+        102083431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tjAaEqOPwbMjmDx6j5AQQ_38.169590_-94.718528@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52c0758e6262d064ab12fe8a363fb2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083431,
+            "locality_id":85945979,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202940123
+        }
+    ],
+    "wof:id":202940123,
+    "wof:lastmodified":1449060737,
+    "wof:name":"Medical Billing Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [-94.718528,38.16959,-94.718528,38.16959],
+  "geometry": {"coordinates":[-94.718528,38.16959],"type":"Point"}
+}

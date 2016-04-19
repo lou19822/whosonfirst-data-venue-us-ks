@@ -1,0 +1,67 @@
+{
+  "id": 169627395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.614715,39.009887,-94.614715,39.009887",
+    "geom:latitude":39.009887,
+    "geom:longitude":-94.614715,
+    "iso:country":"US",
+    "sg:address":"6601 Overhill Rd",
+    "sg:city":"Mission Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 722 3574",
+    "sg:postcode":"66208",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945749,
+        102082673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rnEZtLJ41lVuGnunG5hGJ_39.009887_-94.614715@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"956fa08b4832ec4146d2d6c6bb4c61c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945749,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169627395
+        }
+    ],
+    "wof:id":169627395,
+    "wof:lastmodified":1449036042,
+    "wof:name":"Westport Anesthesia Assoc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.614715,39.009887,-94.614715,39.009887],
+  "geometry": {"coordinates":[-94.614715,39.009887],"type":"Point"}
+}

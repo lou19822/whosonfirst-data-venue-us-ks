@@ -1,0 +1,68 @@
+{
+  "id": 169611721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389724,37.700529,-97.389724,37.700529",
+    "geom:latitude":37.700529,
+    "geom:longitude":-97.389724,
+    "iso:country":"US",
+    "sg:address":"975 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 5283",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BEbxeDBzEFT3q7GadawNU_37.700529_-97.389724@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afd66d6b85bc055168ed6b113a801fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":169611721
+        }
+    ],
+    "wof:id":169611721,
+    "wof:lastmodified":1449035265,
+    "wof:name":"Central Auto Electric Inc",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [-97.389724,37.700529,-97.389724,37.700529],
+  "geometry": {"coordinates":[-97.389724,37.700529],"type":"Point"}
+}

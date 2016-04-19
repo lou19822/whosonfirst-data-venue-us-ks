@@ -1,0 +1,78 @@
+{
+  "id": 202975237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.706337,37.409119,-94.706337,37.409119",
+    "geom:latitude":37.409119,
+    "geom:longitude":-94.706337,
+    "iso:country":"US",
+    "sg:address":"201 N Pine St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 0400",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.pittks.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QRgG0MKCtco18QAIJf6X9_37.409119_-94.706337@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6b83ef2f76114c96f25a642b5cf4f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202975237
+        }
+    ],
+    "wof:id":202975237,
+    "wof:lastmodified":1449062303,
+    "wof:name":"Pittsburg Police Dept",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [-94.706337,37.409119,-94.706337,37.409119],
+  "geometry": {"coordinates":[-94.706337,37.409119],"type":"Point"}
+}

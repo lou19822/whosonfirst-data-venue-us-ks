@@ -1,0 +1,89 @@
+{
+  "id": 202975685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.689785,37.400009,-94.689785,37.400009",
+    "geom:latitude":37.400009,
+    "geom:longitude":-94.689785,
+    "iso:country":"US",
+    "sg:address":"920 E Jefferson St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 2440",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ],
+    "sg:website":"http://www.ryder.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52GG6gHSwgx8zd8bYFGaDn_37.400009_-94.689785@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bcf05f4d6182a8bc5accaa9e60ac474",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202975685
+        }
+    ],
+    "wof:id":202975685,
+    "wof:lastmodified":1449062307,
+    "wof:name":"Ryder Truck Rental and Leasing",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ]
+},
+  "bbox": [-94.689785,37.400009,-94.689785,37.400009],
+  "geometry": {"coordinates":[-94.689785,37.400009],"type":"Point"}
+}

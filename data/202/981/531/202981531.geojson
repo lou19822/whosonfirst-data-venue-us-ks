@@ -1,0 +1,93 @@
+{
+  "id": 202981531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.3237,37.681422,-97.3237,37.681422",
+    "geom:latitude":37.681422,
+    "geom:longitude":-97.3237,
+    "iso:country":"US",
+    "sg:address":"351 S Laura St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 3272",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "generator",
+        "equipment",
+        "generators-electric-service",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y3z0YHN53bvGLjO1HcF3j_37.681422_-97.323700@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66d011b8d4eef3c7f882e779160f7179",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872805,
+            "region_id":85688555,
+            "venue_id":202981531
+        }
+    ],
+    "wof:id":202981531,
+    "wof:lastmodified":1449062700,
+    "wof:name":"Area Wide Electric",
+    "wof:parent_id":85872805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "generator",
+        "equipment",
+        "generators-electric-service",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [-97.3237,37.681422,-97.3237,37.681422],
+  "geometry": {"coordinates":[-97.3237,37.681422],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169656427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.876275,37.968526,-100.876275,37.968526",
+    "geom:latitude":37.968526,
+    "geom:longitude":-100.876275,
+    "iso:country":"US",
+    "sg:address":"302 N 9th St",
+    "sg:city":"Garden City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 272 3555",
+    "sg:postcode":"67846",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946119,
+        102082153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fNK3Ihsi4dm717aYAfQLR_37.968526_-100.876275@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7475c89673c19f13d261ec0f9f06c2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082153,
+            "locality_id":85946119,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169656427
+        }
+    ],
+    "wof:id":169656427,
+    "wof:lastmodified":1449034835,
+    "wof:name":"Criminal Court",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [-100.876275,37.968526,-100.876275,37.968526],
+  "geometry": {"coordinates":[-100.876275,37.968526],"type":"Point"}
+}

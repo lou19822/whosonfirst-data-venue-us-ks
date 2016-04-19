@@ -1,0 +1,71 @@
+{
+  "id": 169609243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.848561,38.8873,-98.848561,38.8873",
+    "geom:latitude":38.8873,
+    "geom:longitude":-98.848561,
+    "iso:country":"US",
+    "sg:address":"826 E 2nd St",
+    "sg:city":"Russell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 483 2346",
+    "sg:postcode":"67665",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945917,
+        102084163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2elQeUHrUuI3APNO1myZRt_38.887300_-98.848561@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2c06a159d612a34a389593d177e14fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084163,
+            "locality_id":85945917,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169609243
+        }
+    ],
+    "wof:id":169609243,
+    "wof:lastmodified":1449033921,
+    "wof:name":"AC Windshield Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [-98.848561,38.8873,-98.848561,38.8873],
+  "geometry": {"coordinates":[-98.848561,38.8873],"type":"Point"}
+}

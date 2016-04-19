@@ -1,0 +1,74 @@
+{
+  "id": 202961445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.700348,39.05135,-95.700348,39.05135",
+    "geom:latitude":39.05135,
+    "geom:longitude":-95.700348,
+    "iso:country":"US",
+    "sg:address":"1901 SW 10th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Ethnic Foods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 4400",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "asian",
+        "pan",
+        "vietnamese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TI9TI46ZGKtco23nf9vul_39.051350_-95.700348@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5ea577224e677e4345091b370886368",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202961445
+        }
+    ],
+    "wof:id":202961445,
+    "wof:lastmodified":1449062577,
+    "wof:name":"Kim's Vietnamese Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "pan",
+        "vietnamese"
+    ]
+},
+  "bbox": [-95.700348,39.05135,-95.700348,39.05135],
+  "geometry": {"coordinates":[-95.700348,39.05135],"type":"Point"}
+}

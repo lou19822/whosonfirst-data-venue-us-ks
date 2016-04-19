@@ -1,0 +1,104 @@
+{
+  "id": 202953035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723623,38.996048,-94.723623,38.996048",
+    "geom:latitude":38.996048,
+    "geom:longitude":-94.723623,
+    "iso:country":"US",
+    "sg:address":"7311 Quivira Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 962 1428",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "magazine",
+        "wi-fi",
+        "store"
+    ],
+    "sg:website":"http://www.borders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945763,
+        102082673,
+        85879561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tcbcMZ2XydDE7H5GGh71S_38.996048_-94.723623@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"940ad6ddf14d9717157fad0c0479d067",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":202953035
+        }
+    ],
+    "wof:id":202953035,
+    "wof:lastmodified":1449061835,
+    "wof:name":"Borders",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "magazine",
+        "wi-fi",
+        "store"
+    ]
+},
+  "bbox": [-94.723623,38.996048,-94.723623,38.996048],
+  "geometry": {"coordinates":[-94.723623,38.996048],"type":"Point"}
+}

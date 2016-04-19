@@ -1,0 +1,88 @@
+{
+  "id": 202945789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.714546,39.013302,-94.714546,39.013302",
+    "geom:latitude":39.013302,
+    "geom:longitude":-94.714546,
+    "iso:country":"US",
+    "sg:address":"6400 Nieman Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 248 8584",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tile-wholesale",
+        "materials-wholesale",
+        "manufacturer",
+        "tile-contractors"
+    ],
+    "sg:website":"http://www.tileshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vaLEp4oSFmoz3jKGUdeCs_39.013302_-94.714546@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64bc3cb715cac6a6984ff5c4026e9f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":202945789
+        }
+    ],
+    "wof:id":202945789,
+    "wof:lastmodified":1449060331,
+    "wof:name":"The Tile Shop",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile-wholesale",
+        "materials-wholesale",
+        "manufacturer",
+        "tile-contractors"
+    ]
+},
+  "bbox": [-94.714546,39.013302,-94.714546,39.013302],
+  "geometry": {"coordinates":[-94.714546,39.013302],"type":"Point"}
+}

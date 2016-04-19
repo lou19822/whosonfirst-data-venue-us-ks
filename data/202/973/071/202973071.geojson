@@ -1,0 +1,73 @@
+{
+  "id": 202973071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.96956,37.66142,-94.96956,37.66142",
+    "geom:latitude":37.66142,
+    "geom:longitude":-94.96956,
+    "iso:country":"US",
+    "sg:address":"213 N Prairie Ave",
+    "sg:city":"Hepler",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"66746",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946151,
+        102082657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VzAbYsrupf81cdfo3eEXS_37.661420_-94.969560@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e2e6ae96b5f5fed1258d363bb9e79e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946151,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202973071
+        }
+    ],
+    "wof:id":202973071,
+    "wof:lastmodified":1449061641,
+    "wof:name":"USPS - United States Post Office - Hepler Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-94.96956,37.66142,-94.96956,37.66142],
+  "geometry": {"coordinates":[-94.96956,37.66142],"type":"Point"}
+}

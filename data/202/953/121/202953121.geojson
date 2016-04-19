@@ -1,0 +1,83 @@
+{
+  "id": 202953121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.737574,39.0149,-94.737574,39.0149",
+    "geom:latitude":39.0149,
+    "geom:longitude":-94.737574,
+    "iso:country":"US",
+    "sg:address":"13020 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 1111",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "scooters-repairing",
+        "all-terrain",
+        "scooters-parts",
+        "supply"
+    ],
+    "sg:website":"http://www.shawneecycleplaza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945763,
+        102082673,
+        85879561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09wHA0yBNawDsKEKsUcsfY_39.014900_-94.737574@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59e9e9965b439e04407e127f5118293e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":202953121
+        }
+    ],
+    "wof:id":202953121,
+    "wof:lastmodified":1449061835,
+    "wof:name":"Shawnee Cycle Plaza",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-repairing",
+        "all-terrain",
+        "scooters-parts",
+        "supply"
+    ]
+},
+  "bbox": [-94.737574,39.0149,-94.737574,39.0149],
+  "geometry": {"coordinates":[-94.737574,39.0149],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169592653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352839,37.680606,-97.352839,37.680606",
+    "geom:latitude":37.680606,
+    "geom:longitude":-97.352839,
+    "iso:country":"US",
+    "sg:address":"1016 W Maple St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 3522",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cU4n6YmSnkMqUsawEHIEL_37.680606_-97.352839@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b5bab8970bdaf760b3f2ebc95a4d4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872823,
+            "region_id":85688555,
+            "venue_id":169592653
+        }
+    ],
+    "wof:id":169592653,
+    "wof:lastmodified":1449034581,
+    "wof:name":"Curtis Electric Svc",
+    "wof:parent_id":85872823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-97.352839,37.680606,-97.352839,37.680606],
+  "geometry": {"coordinates":[-97.352839,37.680606],"type":"Point"}
+}

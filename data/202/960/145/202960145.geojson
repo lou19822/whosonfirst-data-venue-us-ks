@@ -1,0 +1,80 @@
+{
+  "id": 202960145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.695633,39.03991,-95.695633,39.03991",
+    "geom:latitude":39.03991,
+    "geom:longitude":-95.695633,
+    "iso:country":"US",
+    "sg:address":"1510 SW Lane St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 7235",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.hrm-topeka.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DNw3mUAKQscAw6yD3XEMB_39.039910_-95.695633@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36c049d5fea6065db57bb96b18a5318c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":202960145
+        }
+    ],
+    "wof:id":202960145,
+    "wof:lastmodified":1449061921,
+    "wof:name":"College Villas",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-95.695633,39.03991,-95.695633,39.03991],
+  "geometry": {"coordinates":[-95.695633,39.03991],"type":"Point"}
+}

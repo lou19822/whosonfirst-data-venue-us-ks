@@ -1,0 +1,77 @@
+{
+  "id": 202934035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.819489,38.88353,-94.819489,38.88353",
+    "geom:latitude":38.88353,
+    "geom:longitude":-94.819489,
+    "iso:country":"US",
+    "sg:address":"100 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 971 8732",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f8Zw4OuCHBysrUgh8MWKY_38.883530_-94.819489@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d1a4f4dc7b90279f7aec28d69d408eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202934035
+        }
+    ],
+    "wof:id":202934035,
+    "wof:lastmodified":1449060230,
+    "wof:name":"Olathe City Attorney",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [-94.819489,38.88353,-94.819489,38.88353],
+  "geometry": {"coordinates":[-94.819489,38.88353],"type":"Point"}
+}

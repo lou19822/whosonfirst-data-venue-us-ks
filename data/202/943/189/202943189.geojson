@@ -1,0 +1,73 @@
+{
+  "id": 202943189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.649064,39.009079,-94.649064,39.009079",
+    "geom:latitude":39.009079,
+    "geom:longitude":-94.649064,
+    "iso:country":"US",
+    "sg:address":"6630 Nall Ave",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 1174",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "elementary",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945747,
+        102082673,
+        85879597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZhhjnDaXWbjL64I2QQ2aU_39.009079_-94.649064@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f91de423fc9f2fb1cbe4f778ffc76586",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":202943189
+        }
+    ],
+    "wof:id":202943189,
+    "wof:lastmodified":1449060785,
+    "wof:name":"St Michael's Day School",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "educational"
+    ]
+},
+  "bbox": [-94.649064,39.009079,-94.649064,39.009079],
+  "geometry": {"coordinates":[-94.649064,39.009079],"type":"Point"}
+}

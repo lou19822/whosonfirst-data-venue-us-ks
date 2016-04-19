@@ -1,0 +1,68 @@
+{
+  "id": 169665275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.727408,38.927521,-94.727408,38.927521",
+    "geom:latitude":38.927521,
+    "geom:longitude":-94.727408,
+    "iso:country":"US",
+    "sg:address":"12100 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 339 9542",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bk3Wiq6GacyAeYXqD8eMo_38.927521_-94.727408@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fcc5aace4f976255a655564c96eb6eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":169665275
+        }
+    ],
+    "wof:id":169665275,
+    "wof:lastmodified":1449033695,
+    "wof:name":"Waterway Gas & Wash",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-94.727408,38.927521,-94.727408,38.927521],
+  "geometry": {"coordinates":[-94.727408,38.927521],"type":"Point"}
+}

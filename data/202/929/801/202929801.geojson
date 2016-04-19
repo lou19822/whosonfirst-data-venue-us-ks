@@ -1,0 +1,72 @@
+{
+  "id": 202929801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.915105,39.316918,-94.915105,39.316918",
+    "geom:latitude":39.316918,
+    "geom:longitude":-94.915105,
+    "iso:country":"US",
+    "sg:address":"316 S 5th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 3823",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "attorney",
+        "practice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NbCLAdNs6o22LjVnVfy6d_39.316918_-94.915105@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59f704fae04508bb8c3ce8fad72ab57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202929801
+        }
+    ],
+    "wof:id":202929801,
+    "wof:lastmodified":1449061087,
+    "wof:name":"Thompson Law Firm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney",
+        "practice"
+    ]
+},
+  "bbox": [-94.915105,39.316918,-94.915105,39.316918],
+  "geometry": {"coordinates":[-94.915105,39.316918],"type":"Point"}
+}

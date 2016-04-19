@@ -1,0 +1,70 @@
+{
+  "id": 169594305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.318952,37.752182,-97.318952,37.752182",
+    "geom:latitude":37.752182,
+    "geom:longitude":-97.318952,
+    "iso:country":"US",
+    "sg:address":"1710 E 37th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 0116",
+    "sg:postcode":"67219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wPwo7CpP0aOO9c6oiZpLV_37.752182_-97.318952@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff5de6ec8d9324cb30c60ba2eaca8f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":169594305
+        }
+    ],
+    "wof:id":169594305,
+    "wof:lastmodified":1449033164,
+    "wof:name":"Coffman Body Works",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-97.318952,37.752182,-97.318952,37.752182],
+  "geometry": {"coordinates":[-97.318952,37.752182],"type":"Point"}
+}

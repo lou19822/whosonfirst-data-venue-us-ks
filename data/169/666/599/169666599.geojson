@@ -1,0 +1,67 @@
+{
+  "id": 169666599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.702329,38.933361,-94.702329,38.933361",
+    "geom:latitude":38.933361,
+    "geom:longitude":-94.702329,
+    "iso:country":"US",
+    "sg:address":"10801 Mastin St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 338 2600",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "brewer"
+    ],
+    "sg:website":"www.bud.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oT2nTdieanmmpYn0MJmCo_38.933361_-94.702329@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c30f7101fe7c6ec9cc3df92414758f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":169666599
+        }
+    ],
+    "wof:id":169666599,
+    "wof:lastmodified":1449033899,
+    "wof:name":"Anheuser-Busch Inc",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewer"
+    ]
+},
+  "bbox": [-94.702329,38.933361,-94.702329,38.933361],
+  "geometry": {"coordinates":[-94.702329,38.933361],"type":"Point"}
+}

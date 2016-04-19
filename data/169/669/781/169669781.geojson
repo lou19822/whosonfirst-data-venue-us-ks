@@ -1,0 +1,68 @@
+{
+  "id": 169669781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686398,38.899394,-94.686398,38.899394",
+    "geom:latitude":38.899394,
+    "geom:longitude":-94.686398,
+    "iso:country":"US",
+    "sg:address":"12645 Antioch Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 851 9991",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_258H5cQZmZn83Gk7qE81LZ_38.899394_-94.686398@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a96247f8951666e7774b9435d735fcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":169669781
+        }
+    ],
+    "wof:id":169669781,
+    "wof:lastmodified":1449033057,
+    "wof:name":"Antioch Shoe Repair",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [-94.686398,38.899394,-94.686398,38.899394],
+  "geometry": {"coordinates":[-94.686398,38.899394],"type":"Point"}
+}

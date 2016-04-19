@@ -1,0 +1,76 @@
+{
+  "id": 202944859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.714592,39.0229,-94.714592,39.0229",
+    "geom:latitude":39.0229,
+    "geom:longitude":-94.714592,
+    "iso:country":"US",
+    "sg:address":"11101 Johnson Dr",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 234 2000",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.commerceonline.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TmHWanf0iDEh86D5w3azh_39.022900_-94.714592@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9ec230d74ee9e4970e766ab33097ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":202944859
+        }
+    ],
+    "wof:id":202944859,
+    "wof:lastmodified":1449061389,
+    "wof:name":"Commerce Bank",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [-94.714592,39.0229,-94.714592,39.0229],
+  "geometry": {"coordinates":[-94.714592,39.0229],"type":"Point"}
+}

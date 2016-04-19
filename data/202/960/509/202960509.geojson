@@ -1,0 +1,75 @@
+{
+  "id": 202960509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762059,39.033351,-95.762059,39.033351",
+    "geom:latitude":39.033351,
+    "geom:longitude":-95.762059,
+    "iso:country":"US",
+    "sg:address":"1740 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 9100",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "super",
+        "store"
+    ],
+    "sg:website":"http://www.kmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881571
+    ],
+    "wof:brand_id":420573997,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vNatHKuO10iLYU9DBxf3W_39.033351_-95.762059@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3337b523b751b8f972ca633c889d21ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":202960509
+        }
+    ],
+    "wof:id":202960509,
+    "wof:lastmodified":1457208097,
+    "wof:name":"Kmart",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "store"
+    ]
+},
+  "bbox": [
+    -95.762059,
+    39.033351,
+    -95.762059,
+    39.033351
+],
+  "geometry": {"coordinates":[-95.76205899999999,39.033351],"type":"Point"}
+}

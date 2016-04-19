@@ -1,0 +1,78 @@
+{
+  "id": 202933583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.813722,38.866026,-94.813722,38.866026",
+    "geom:latitude":38.866026,
+    "geom:longitude":-94.813722,
+    "iso:country":"US",
+    "sg:address":"505 E Sunvale Dr",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 971 6362",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.olatheks.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51L3oTD02BIzUuMAYQC7OE_38.866026_-94.813722@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d36c367ffa708a2e775f55cbd5c7754b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202933583
+        }
+    ],
+    "wof:id":202933583,
+    "wof:lastmodified":1449060632,
+    "wof:name":"Olathe Police-Animal Control",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [-94.813722,38.866026,-94.813722,38.866026],
+  "geometry": {"coordinates":[-94.813722,38.866026],"type":"Point"}
+}

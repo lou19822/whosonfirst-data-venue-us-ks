@@ -1,0 +1,68 @@
+{
+  "id": 169592887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.792755,39.022848,-95.792755,39.022848",
+    "geom:latitude":39.022848,
+    "geom:longitude":-95.792755,
+    "iso:country":"US",
+    "sg:address":"7300 SW 24th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 478 9798",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TJsvFAIzK19IdalUFVwm9_39.022848_-95.792755@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"340086355dd1e8c2d794e13226da48e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":169592887
+        }
+    ],
+    "wof:id":169592887,
+    "wof:lastmodified":1449034584,
+    "wof:name":"Christopher Weiter Metro Svc",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-95.792755,39.022848,-95.792755,39.022848],
+  "geometry": {"coordinates":[-95.792755,39.022848],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 202913893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.116299,39.563191,-95.116299,39.563191",
+    "geom:latitude":39.563191,
+    "geom:longitude":-95.116299,
+    "iso:country":"US",
+    "sg:address":"221 N 3rd St Apt 26",
+    "sg:city":"Atchison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 367 3750",
+    "sg:postcode":"66002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vacancy",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945497,
+        102082665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sa2IazaKZ1Vw7SiCXT64o_39.563191_-95.116299@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62955a70cd1327fcd9550c0a9eb38f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082665,
+            "locality_id":85945497,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202913893
+        }
+    ],
+    "wof:id":202913893,
+    "wof:lastmodified":1449061096,
+    "wof:name":"Deware Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [-95.116299,39.563191,-95.116299,39.563191],
+  "geometry": {"coordinates":[-95.116299,39.563191],"type":"Point"}
+}

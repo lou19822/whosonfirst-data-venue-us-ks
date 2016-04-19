@@ -1,0 +1,68 @@
+{
+  "id": 169609197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.554045,38.935576,-99.554045,38.935576",
+    "geom:latitude":38.935576,
+    "geom:longitude":-99.554045,
+    "iso:country":"US",
+    "sg:address":"1101 Spruce St",
+    "sg:city":"Ellis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 726 3101",
+    "sg:postcode":"67637",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.good-sam.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945223,
+        102082161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ePNJKEGuDKxah1wCzu4CA_38.935576_-99.554045@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ae917214c724f5038550d612c93fafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082161,
+            "locality_id":85945223,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169609197
+        }
+    ],
+    "wof:id":169609197,
+    "wof:lastmodified":1449033921,
+    "wof:name":"Ellis Good Samaritan Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-99.554045,38.935576,-99.554045,38.935576],
+  "geometry": {"coordinates":[-99.554045,38.935576],"type":"Point"}
+}

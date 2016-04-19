@@ -1,0 +1,68 @@
+{
+  "id": 169670021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.70369,38.955523,-94.70369,38.955523",
+    "geom:latitude":38.955523,
+    "geom:longitude":-94.70369,
+    "iso:country":"US",
+    "sg:address":"9515 Perry Ln",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 541 9291",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uRG8dzZwvpdgcM5Jrm5vG_38.955523_-94.703690@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52e99b56c19d75dd4c0450f5213138bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879573,
+            "region_id":85688555,
+            "venue_id":169670021
+        }
+    ],
+    "wof:id":169670021,
+    "wof:lastmodified":1449033186,
+    "wof:name":"Midwest Maintenance",
+    "wof:parent_id":85879573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [-94.70369,38.955523,-94.70369,38.955523],
+  "geometry": {"coordinates":[-94.70369,38.955523],"type":"Point"}
+}

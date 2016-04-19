@@ -1,0 +1,70 @@
+{
+  "id": 169674025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.618193,39.064833,-94.618193,39.064833",
+    "geom:latitude":39.064833,
+    "geom:longitude":-94.618193,
+    "iso:country":"US",
+    "sg:address":"10 N Hill St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 9826",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85866785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24DaJ01fTmesGMfwZgB0Jg_39.064833_-94.618193@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70b9387e15b82e10201177cace8d2e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":169674025
+        }
+    ],
+    "wof:id":169674025,
+    "wof:lastmodified":1449035140,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-94.618193,39.064833,-94.618193,39.064833],
+  "geometry": {"coordinates":[-94.618193,39.064833],"type":"Point"}
+}

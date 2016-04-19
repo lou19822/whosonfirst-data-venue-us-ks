@@ -1,0 +1,84 @@
+{
+  "id": 202958175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.563479,39.181481,-96.563479,39.181481",
+    "geom:latitude":39.181481,
+    "geom:longitude":-96.563479,
+    "iso:country":"US",
+    "sg:address":"507 Leavenworth St",
+    "sg:city":"Manhattan",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 776 4825",
+    "sg:postcode":"66502",
+    "sg:province":"KS",
+    "sg:tags":[
+        "auto",
+        "commercial",
+        "renter",
+        "business",
+        "homeowner"
+    ],
+    "sg:website":"http://www.cardinalins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945171,
+        102084179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48WSNxUwxRcp638DB42cAb_39.181481_-96.563479@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"305cb7cd473b6c7e3e521b5fca9cc98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084179,
+            "locality_id":85945171,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202958175
+        }
+    ],
+    "wof:id":202958175,
+    "wof:lastmodified":1449062100,
+    "wof:name":"Cardinal Ins",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "commercial",
+        "renter",
+        "business",
+        "homeowner"
+    ]
+},
+  "bbox": [-96.563479,39.181481,-96.563479,39.181481],
+  "geometry": {"coordinates":[-96.563479,39.181481],"type":"Point"}
+}

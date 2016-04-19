@@ -1,0 +1,66 @@
+{
+  "id": 169601851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.423227,37.678598,-97.423227,37.678598",
+    "geom:latitude":37.678598,
+    "geom:longitude":-97.423227,
+    "iso:country":"US",
+    "sg:address":"326 S Scouller St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 4417",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85833555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZNFbTc6uNtyZToEmVA3Bw_37.678598_-97.423227@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b758070f81b459d08392f22d170eb26a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85833555,
+            "region_id":85688555,
+            "venue_id":169601851
+        }
+    ],
+    "wof:id":169601851,
+    "wof:lastmodified":1449034148,
+    "wof:name":"Cummings Janitorial Svc",
+    "wof:parent_id":85833555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-97.423227,37.678598,-97.423227,37.678598],
+  "geometry": {"coordinates":[-97.423227,37.678598],"type":"Point"}
+}

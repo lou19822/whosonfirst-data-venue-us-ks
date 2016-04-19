@@ -1,0 +1,75 @@
+{
+  "id": 202976629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.684311,37.453789,-94.684311,37.453789",
+    "geom:latitude":37.453789,
+    "geom:longitude":-94.684311,
+    "iso:country":"US",
+    "sg:address":"201 S Santa Fe St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 9834",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house",
+        "steak",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43gtcgxFhYHqps0CKpzYfg_37.453789_-94.684311@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7db3e3cb77cf0376cc2e73a52362c0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202976629
+        }
+    ],
+    "wof:id":202976629,
+    "wof:lastmodified":1449061162,
+    "wof:name":"Barto's Idle Hour Steak House & Lounge",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak",
+        "cocktail"
+    ]
+},
+  "bbox": [-94.684311,37.453789,-94.684311,37.453789],
+  "geometry": {"coordinates":[-94.684311,37.453789],"type":"Point"}
+}

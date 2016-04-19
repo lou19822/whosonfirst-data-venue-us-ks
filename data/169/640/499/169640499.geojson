@@ -1,0 +1,69 @@
+{
+  "id": 169640499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.820302,39.060632,-94.820302,39.060632",
+    "geom:latitude":39.060632,
+    "geom:longitude":-94.820302,
+    "iso:country":"US",
+    "sg:address":"250 S 5 St",
+    "sg:city":"Edwardsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 281 3709",
+    "sg:postcode":"66111",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945799,
+        102082163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I2Dg3N2rbLEVBfCtbTUdR_39.060632_-94.820302@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2e9ca93891146f6230c8c4f2c81c208",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945799,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169640499
+        }
+    ],
+    "wof:id":169640499,
+    "wof:lastmodified":1449034101,
+    "wof:name":"Pavlich Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [-94.820302,39.060632,-94.820302,39.060632],
+  "geometry": {"coordinates":[-94.820302,39.060632],"type":"Point"}
+}

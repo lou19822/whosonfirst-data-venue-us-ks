@@ -1,0 +1,86 @@
+{
+  "id": 202982779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444023,37.630199,-97.444023,37.630199",
+    "geom:latitude":37.630199,
+    "geom:longitude":-97.444023,
+    "iso:country":"US",
+    "sg:address":"3500 S Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 689 0899",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaner",
+        "plumber",
+        "repairer",
+        "contractor",
+        "sewer",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85852945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HO2XKvZXuxuUu53AQM6Cq_37.630199_-97.444023@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53d5e0c12c5656ae390105bf2702d713",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85852945,
+            "region_id":85688555,
+            "venue_id":202982779
+        }
+    ],
+    "wof:id":202982779,
+    "wof:lastmodified":1449060529,
+    "wof:name":"American Sewer Service",
+    "wof:parent_id":85852945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "plumber",
+        "repairer",
+        "contractor",
+        "sewer",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [-97.444023,37.630199,-97.444023,37.630199],
+  "geometry": {"coordinates":[-97.444023,37.630199],"type":"Point"}
+}

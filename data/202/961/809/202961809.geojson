@@ -1,0 +1,77 @@
+{
+  "id": 202961809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.598259,39.019955,-95.598259,39.019955",
+    "geom:latitude":39.019955,
+    "geom:longitude":-95.598259,
+    "iso:country":"US",
+    "sg:address":"4330 SE 26th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 3456",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographic",
+        "darkroom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fsqr4JzzmSx1RzNZAZtun_39.019955_-95.598259@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acf70f3d73d80bc868fd81c104a33582",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":202961809
+        }
+    ],
+    "wof:id":202961809,
+    "wof:lastmodified":1449062580,
+    "wof:name":"Remember When Photography",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographic",
+        "darkroom"
+    ]
+},
+  "bbox": [-95.598259,39.019955,-95.598259,39.019955],
+  "geometry": {"coordinates":[-95.598259,39.019955],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 202982603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.33558,37.71735,-97.33558,37.71735",
+    "geom:latitude":37.71735,
+    "geom:longitude":-97.33558,
+    "iso:country":"US",
+    "sg:address":"1910 N Broadway St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 5256",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "welder",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OseOPQRwfAShjknSdg45s_37.717350_-97.335580@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71d1db09b7f5ac83b48c92458f69eca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872827,
+            "region_id":85688555,
+            "venue_id":202982603
+        }
+    ],
+    "wof:id":202982603,
+    "wof:lastmodified":1449060532,
+    "wof:name":"Mid-Kansas Tool And Manufacturing Co",
+    "wof:parent_id":85872827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "welder",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [-97.33558,37.71735,-97.33558,37.71735],
+  "geometry": {"coordinates":[-97.33558,37.71735],"type":"Point"}
+}

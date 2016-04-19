@@ -1,0 +1,71 @@
+{
+  "id": 202922453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.950691,39.318485,-94.950691,39.318485",
+    "geom:latitude":39.318485,
+    "geom:longitude":-94.950691,
+    "iso:country":"US",
+    "sg:address":"3600 S 20th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 3346",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:brand_id":420575281,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PI5aeNqo2UMGLodgDbfxw_39.318485_-94.950691@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a601198be2a7db607362a666a893e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202922453
+        }
+    ],
+    "wof:id":202922453,
+    "wof:lastmodified":1457209504,
+    "wof:name":"Fire Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.950691,
+    39.318485,
+    -94.950691,
+    39.318485
+],
+  "geometry": {"coordinates":[-94.95069100000001,39.318485],"type":"Point"}
+}

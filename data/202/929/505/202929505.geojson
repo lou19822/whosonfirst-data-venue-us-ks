@@ -1,0 +1,91 @@
+{
+  "id": 202929505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.919136,39.316551,-94.919136,39.316551",
+    "geom:latitude":39.316551,
+    "geom:longitude":-94.919136,
+    "iso:country":"US",
+    "sg:address":"716 Cherokee St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 3550",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "industrial",
+        "warehouses-merchandise",
+        "warehouses-public-commercial",
+        "consultant",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "estimate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kEL1CvKF4aUPbdya0OI0g_39.316551_-94.919136@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0dd86ac8c0e027ec74fe8e67e93c751",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202929505
+        }
+    ],
+    "wof:id":202929505,
+    "wof:lastmodified":1449061087,
+    "wof:name":"Kaaz Julius Constr Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "warehouses-merchandise",
+        "warehouses-public-commercial",
+        "consultant",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "estimate"
+    ]
+},
+  "bbox": [-94.919136,39.316551,-94.919136,39.316551],
+  "geometry": {"coordinates":[-94.919136,39.316551],"type":"Point"}
+}

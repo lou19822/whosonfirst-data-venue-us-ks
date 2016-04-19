@@ -1,0 +1,86 @@
+{
+  "id": 202920331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.89866,39.239502,-94.89866,39.239502",
+    "geom:latitude":39.239502,
+    "geom:longitude":-94.89866,
+    "iso:country":"US",
+    "sg:address":"720 1st Ter",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 5588",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945367,
+        102083429,
+        85844391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tgfFGi2INiVfoql3YfL1k_39.239502_-94.898660@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53e274bf5f5d555c01611e5700035dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":202920331
+        }
+    ],
+    "wof:id":202920331,
+    "wof:lastmodified":1449062082,
+    "wof:name":"Lansing Lvnworth Fmly Hlth Ctr",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [-94.89866,39.239502,-94.89866,39.239502],
+  "geometry": {"coordinates":[-94.89866,39.239502],"type":"Point"}
+}

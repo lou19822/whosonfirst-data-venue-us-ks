@@ -1,0 +1,80 @@
+{
+  "id": 202943081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.664528,39.022251,-94.664528,39.022251",
+    "geom:latitude":39.022251,
+    "geom:longitude":-94.664528,
+    "iso:country":"US",
+    "sg:address":"6819 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 831 4500",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "used",
+        "leasing",
+        "car",
+        "truck",
+        "new"
+    ],
+    "sg:website":"http://www.keystonenissan.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pFyujXhHF0QtyJ8VHVbCA_39.022251_-94.664528@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9614dc221263e5b4ad69130180229dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":202943081
+        }
+    ],
+    "wof:id":202943081,
+    "wof:lastmodified":1449060785,
+    "wof:name":"Keystone Nissan",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "leasing",
+        "car",
+        "truck",
+        "new"
+    ]
+},
+  "bbox": [-94.664528,39.022251,-94.664528,39.022251],
+  "geometry": {"coordinates":[-94.664528,39.022251],"type":"Point"}
+}

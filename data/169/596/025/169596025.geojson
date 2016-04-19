@@ -1,0 +1,68 @@
+{
+  "id": 169596025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.631702,39.115628,-94.631702,39.115628",
+    "geom:latitude":39.115628,
+    "geom:longitude":-94.631702,
+    "iso:country":"US",
+    "sg:address":"830 Minnesota Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 321 5331",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85878505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JQwcrcc0CBJN9jCd5Xl64_39.115628_-94.631702@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2749d661af786a7faf445204da78aff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85878505,
+            "region_id":85688555,
+            "venue_id":169596025
+        }
+    ],
+    "wof:id":169596025,
+    "wof:lastmodified":1449034374,
+    "wof:name":"LTW Imperial Auto Repair",
+    "wof:parent_id":85878505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-94.631702,39.115628,-94.631702,39.115628],
+  "geometry": {"coordinates":[-94.631702,39.115628],"type":"Point"}
+}

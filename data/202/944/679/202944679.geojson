@@ -1,0 +1,73 @@
+{
+  "id": 202944679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704496,39.027399,-94.704496,39.027399",
+    "geom:latitude":39.027399,
+    "geom:longitude":-94.704496,
+    "iso:country":"US",
+    "sg:address":"5615 Perry Ave",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 9805",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Shx2mDJ6zZfgjpNX6qGw2_39.027399_-94.704496@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c35ffcf1de57bcd329f5da7f191c7a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":202944679
+        }
+    ],
+    "wof:id":202944679,
+    "wof:lastmodified":1449061388,
+    "wof:name":"Circle D Farm",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [-94.704496,39.027399,-94.704496,39.027399],
+  "geometry": {"coordinates":[-94.704496,39.027399],"type":"Point"}
+}

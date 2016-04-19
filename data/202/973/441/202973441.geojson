@@ -1,0 +1,83 @@
+{
+  "id": 202973441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700275,37.436092,-94.700275,37.436092",
+    "geom:latitude":37.436092,
+    "geom:longitude":-94.700275,
+    "iso:country":"US",
+    "sg:address":"3003 N Joplin St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 5944",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "counseling",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ETSUqpXsOZGb0lXetEwf_37.436092_-94.700275@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"addd9910fc5b837ed696a5bf1e91af0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202973441
+        }
+    ],
+    "wof:id":202973441,
+    "wof:lastmodified":1449061640,
+    "wof:name":"Southeast Kansas Area Agency On Aging",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "citizen"
+    ]
+},
+  "bbox": [-94.700275,37.436092,-94.700275,37.436092],
+  "geometry": {"coordinates":[-94.700275,37.436092],"type":"Point"}
+}

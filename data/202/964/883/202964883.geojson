@@ -1,0 +1,76 @@
+{
+  "id": 202964883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.704305,39.000582,-95.704305,39.000582",
+    "geom:latitude":39.000582,
+    "geom:longitude":-95.704305,
+    "iso:country":"US",
+    "sg:address":"2130 SW 37th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 3215",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "buyer",
+        "consultant",
+        "broker"
+    ],
+    "sg:website":"http://www.topekaareahomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qm7rWKXGM4trulQ9QKQ6D_39.000582_-95.704305@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f01e5170d858d5b8f52fc60bc1d56e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":202964883
+        }
+    ],
+    "wof:id":202964883,
+    "wof:lastmodified":1449062028,
+    "wof:name":"Topeka Area Association of Realtors",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "consultant",
+        "broker"
+    ]
+},
+  "bbox": [-95.704305,39.000582,-95.704305,39.000582],
+  "geometry": {"coordinates":[-95.704305,39.000582],"type":"Point"}
+}

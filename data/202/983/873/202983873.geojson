@@ -1,0 +1,66 @@
+{
+  "id": 202983873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.486588,37.666511,-97.486588,37.666511",
+    "geom:latitude":37.666511,
+    "geom:longitude":-97.486588,
+    "iso:country":"US",
+    "sg:address":"1465 S Hornecker Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 640 0435",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85852015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MQ36ue7fP60W57FXE5qFX_37.666511_-97.486588@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"166e0e95ec6b58b0a3c205ff7c33e410",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85852015,
+            "region_id":85688555,
+            "venue_id":202983873
+        }
+    ],
+    "wof:id":202983873,
+    "wof:lastmodified":1449062440,
+    "wof:name":"Hometown Electric",
+    "wof:parent_id":85852015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [-97.486588,37.666511,-97.486588,37.666511],
+  "geometry": {"coordinates":[-97.486588,37.666511],"type":"Point"}
+}

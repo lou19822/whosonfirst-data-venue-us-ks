@@ -1,0 +1,67 @@
+{
+  "id": 202965289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.68129,39.042615,-95.68129,39.042615",
+    "geom:latitude":39.042615,
+    "geom:longitude":-95.68129,
+    "iso:country":"US",
+    "sg:address":"1307 SW Harrison St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 0941",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"http://www.oaktreesquare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58RMcSrA7mOsL7jwsdBkir_39.042615_-95.681290@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfebfc3d5cf8e68b73c44b6916e13fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":202965289
+        }
+    ],
+    "wof:id":202965289,
+    "wof:lastmodified":1449061867,
+    "wof:name":"Oak Tree Square Apartments",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.68129,39.042615,-95.68129,39.042615],
+  "geometry": {"coordinates":[-95.68129,39.042615],"type":"Point"}
+}

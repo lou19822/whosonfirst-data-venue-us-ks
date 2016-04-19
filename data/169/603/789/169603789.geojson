@@ -1,0 +1,70 @@
+{
+  "id": 169603789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.322017,37.754399,-97.322017,37.754399",
+    "geom:latitude":37.754399,
+    "geom:longitude":-97.322017,
+    "iso:country":"US",
+    "sg:address":"3833 Bridgeport Cir",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 0292",
+    "sg:postcode":"67219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24LuTn5QcrVwNebj8GW5pM_37.754399_-97.322017@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a81e8537be01df36239668d269fa49cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":169603789
+        }
+    ],
+    "wof:id":169603789,
+    "wof:lastmodified":1449035451,
+    "wof:name":"Industrial Commercial Insltn",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [-97.322017,37.754399,-97.322017,37.754399],
+  "geometry": {"coordinates":[-97.322017,37.754399],"type":"Point"}
+}

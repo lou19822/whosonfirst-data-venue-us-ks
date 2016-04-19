@@ -1,0 +1,79 @@
+{
+  "id": 202965999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762253,39.026227,-95.762253,39.026227",
+    "geom:latitude":39.026227,
+    "geom:longitude":-95.762253,
+    "iso:country":"US",
+    "sg:address":"2190 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 228 1314",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "toy",
+        "video",
+        "store",
+        "supply"
+    ],
+    "sg:website":"http://www.toysrus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881571
+    ],
+    "wof:brand_id":420574465,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WSd7LBsFJbgl5DJ4woCVz_39.026227_-95.762253@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8ef55eb61b1f32c1a69b7e50ae0794a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":202965999
+        }
+    ],
+    "wof:id":202965999,
+    "wof:lastmodified":1457208923,
+    "wof:name":"Toys R Us",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "video",
+        "store",
+        "supply"
+    ]
+},
+  "bbox": [
+    -95.762253,
+    39.026227,
+    -95.762253,
+    39.026227
+],
+  "geometry": {"coordinates":[-95.762253,39.026227],"type":"Point"}
+}

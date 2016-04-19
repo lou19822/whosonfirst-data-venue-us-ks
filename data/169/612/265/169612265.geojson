@@ -1,0 +1,66 @@
+{
+  "id": 169612265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.384344,37.641272,-97.384344,37.641272",
+    "geom:latitude":37.641272,
+    "geom:longitude":-97.384344,
+    "iso:country":"US",
+    "sg:address":"3930 W 29th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 3212",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pD9Xgl9qJ1rxpn8PVUzM0_37.641272_-97.384344@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"844cc077d747ab28a45a250fc5acefdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":169612265
+        }
+    ],
+    "wof:id":169612265,
+    "wof:lastmodified":1449034130,
+    "wof:name":"Westwind Industries",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [-97.384344,37.641272,-97.384344,37.641272],
+  "geometry": {"coordinates":[-97.384344,37.641272],"type":"Point"}
+}

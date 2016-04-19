@@ -1,0 +1,91 @@
+{
+  "id": 202915641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.123646,39.561921,-95.123646,39.561921",
+    "geom:latitude":39.561921,
+    "geom:longitude":-95.123646,
+    "iso:country":"US",
+    "sg:address":"806 Commercial St",
+    "sg:city":"Atchison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 367 2457",
+    "sg:postcode":"66002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "cars-wholesale",
+        "used",
+        "lettering",
+        "car",
+        "dealers-used",
+        "truck",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945497,
+        102082665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N6mhqvPHXSYGbMk7Kkxq4_39.561921_-95.123646@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf45023ca9a455f62ba77b907b054f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082665,
+            "locality_id":85945497,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202915641
+        }
+    ],
+    "wof:id":202915641,
+    "wof:lastmodified":1449062613,
+    "wof:name":"Strong Body Shop Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "cars-wholesale",
+        "used",
+        "lettering",
+        "car",
+        "dealers-used",
+        "truck",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-95.123646,39.561921,-95.123646,39.561921],
+  "geometry": {"coordinates":[-95.123646,39.561921],"type":"Point"}
+}

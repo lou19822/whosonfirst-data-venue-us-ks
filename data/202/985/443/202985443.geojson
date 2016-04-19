@@ -1,0 +1,95 @@
+{
+  "id": 202985443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.931892,38.065293,-97.931892,38.065293",
+    "geom:latitude":38.065293,
+    "geom:longitude":-97.931892,
+    "iso:country":"US",
+    "sg:address":"1125 N Main St",
+    "sg:city":"Hutchinson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 669 6691",
+    "sg:postcode":"67501",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "sg:website":"http://www.hutchmedicalcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945379,
+        102082171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z7jBYqs46yhzdXjkHiaJI_38.065293_-97.931892@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19d816a5e6341c8ae9fe065c0d8de195",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082171,
+            "locality_id":85945379,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202985443
+        }
+    ],
+    "wof:id":202985443,
+    "wof:lastmodified":1449061381,
+    "wof:name":"Medical Center Medical Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [-97.931892,38.065293,-97.931892,38.065293],
+  "geometry": {"coordinates":[-97.931892,38.065293],"type":"Point"}
+}

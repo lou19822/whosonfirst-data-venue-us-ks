@@ -1,0 +1,67 @@
+{
+  "id": 169622421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.754006,37.999539,-98.754006,37.999539",
+    "geom:latitude":37.999539,
+    "geom:longitude":-98.754006,
+    "iso:country":"US",
+    "sg:address":"609 E 1st Ave",
+    "sg:city":"St John",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 486 2985",
+    "sg:postcode":"67576",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945427,
+        102084189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kAHXf2MfLEa9Vrvf0wuhB_37.999539_-98.754006@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"137fecce13d2a98339a6e651ab445416",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084189,
+            "locality_id":85945427,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169622421
+        }
+    ],
+    "wof:id":169622421,
+    "wof:lastmodified":1449035368,
+    "wof:name":"St John Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [-98.754006,37.999539,-98.754006,37.999539],
+  "geometry": {"coordinates":[-98.754006,37.999539],"type":"Point"}
+}

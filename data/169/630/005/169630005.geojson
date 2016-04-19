@@ -1,0 +1,71 @@
+{
+  "id": 169630005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.76165,38.002347,-98.76165,38.002347",
+    "geom:latitude":38.002347,
+    "geom:longitude":-98.76165,
+    "iso:country":"US",
+    "sg:address":"308 N Main St",
+    "sg:city":"St John",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 549 6568",
+    "sg:postcode":"67576",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945427,
+        102084189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fuLdzl6yyxWWlYuNIZBHJ_38.002347_-98.761650@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5207c1028de695c08ae8fc1e7fc9a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084189,
+            "locality_id":85945427,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169630005
+        }
+    ],
+    "wof:id":169630005,
+    "wof:lastmodified":1449033871,
+    "wof:name":"St John Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-98.76165,38.002347,-98.76165,38.002347],
+  "geometry": {"coordinates":[-98.76165,38.002347],"type":"Point"}
+}

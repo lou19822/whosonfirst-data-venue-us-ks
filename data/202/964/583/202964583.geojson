@@ -1,0 +1,75 @@
+{
+  "id": 202964583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.692935,39.00913,-95.692935,39.00913",
+    "geom:latitude":39.00913,
+    "geom:longitude":-95.692935,
+    "iso:country":"US",
+    "sg:address":"1224 SW Cornwall St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 9075",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitorial",
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JjYVLHZI6sBb1KNcFSixq_39.009130_-95.692935@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba526bd7b54b8334b4967569204cf5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":202964583
+        }
+    ],
+    "wof:id":202964583,
+    "wof:lastmodified":1449062029,
+    "wof:name":"L & J Building Maintenance",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial",
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [-95.692935,39.00913,-95.692935,39.00913],
+  "geometry": {"coordinates":[-95.692935,39.00913],"type":"Point"}
+}

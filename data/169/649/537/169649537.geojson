@@ -1,0 +1,66 @@
+{
+  "id": 169649537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.594367,38.965091,-94.594367,38.965091",
+    "geom:latitude":38.965091,
+    "geom:longitude":-94.594367,
+    "iso:country":"US",
+    "sg:address":"1 W 90 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 523 4111",
+    "sg:postcode":"64114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945793,
+        102082673,
+        85871969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zkQkFnHKYQ6vfaSpCWv2v_38.965091_-94.594367@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ab4dff3d4cee5286348f1423d97278d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945793,
+            "neighbourhood_id":85871969,
+            "region_id":85688555,
+            "venue_id":169649537
+        }
+    ],
+    "wof:id":169649537,
+    "wof:lastmodified":1449034942,
+    "wof:name":"Salon One",
+    "wof:parent_id":85871969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-94.594367,38.965091,-94.594367,38.965091],
+  "geometry": {"coordinates":[-94.594367,38.965091],"type":"Point"}
+}

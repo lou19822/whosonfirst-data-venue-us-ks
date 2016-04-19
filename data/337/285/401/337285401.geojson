@@ -1,0 +1,68 @@
+{
+  "id": 337285401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.728127,39.010262,-94.728127,39.010262",
+    "geom:latitude":39.010262,
+    "geom:longitude":-94.728127,
+    "iso:country":"US",
+    "sg:address":"6519 Charles St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 226 6682",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medicines-patent",
+        "proprietary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945763,
+        102082673,
+        85879561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37n14uQRcHs38mFXUh4HJL_39.010262_-94.728127@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32fabda28a5920d27fbba164e6fba391",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":337285401
+        }
+    ],
+    "wof:id":337285401,
+    "wof:lastmodified":1449026957,
+    "wof:name":"Simmons Enterprises",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicines-patent",
+        "proprietary"
+    ]
+},
+  "bbox": [-94.728127,39.010262,-94.728127,39.010262],
+  "geometry": {"coordinates":[-94.728127,39.010262],"type":"Point"}
+}

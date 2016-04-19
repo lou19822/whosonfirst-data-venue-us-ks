@@ -1,0 +1,91 @@
+{
+  "id": 202913699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.119295,39.562981,-95.119295,39.562981",
+    "geom:latitude":39.562981,
+    "geom:longitude":-95.119295,
+    "iso:country":"US",
+    "sg:address":"515 Kansas Ave",
+    "sg:city":"Atchison",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 367 5560",
+    "sg:postcode":"66002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "justice",
+        "government-city",
+        "village",
+        "department",
+        "township",
+        "inspection"
+    ],
+    "sg:website":"http://www.cityofatchison.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945497,
+        102082665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RyxmCPTxG2QSVLmyrYNnz_39.562981_-95.119295@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54203e215df37f8af7894a0ca31d2c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082665,
+            "locality_id":85945497,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202913699
+        }
+    ],
+    "wof:id":202913699,
+    "wof:lastmodified":1449061095,
+    "wof:name":"Atchison-City Administrative Offices",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "government-city",
+        "village",
+        "department",
+        "township",
+        "inspection"
+    ]
+},
+  "bbox": [-95.119295,39.562981,-95.119295,39.562981],
+  "geometry": {"coordinates":[-95.119295,39.562981],"type":"Point"}
+}

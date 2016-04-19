@@ -1,0 +1,76 @@
+{
+  "id": 202929587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.928432,39.328002,-94.928432,39.328002",
+    "geom:latitude":39.328002,
+    "geom:longitude":-94.928432,
+    "iso:country":"US",
+    "sg:address":"1011 Metropolitan St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 651 3131",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zJw9hsoI2Wx8cHN2FUNbJ_39.328002_-94.928432@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22a111561580db8012749e068f1fbca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202929587
+        }
+    ],
+    "wof:id":202929587,
+    "wof:lastmodified":1449061086,
+    "wof:name":"North Pointe Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ]
+},
+  "bbox": [-94.928432,39.328002,-94.928432,39.328002],
+  "geometry": {"coordinates":[-94.928432,39.328002],"type":"Point"}
+}

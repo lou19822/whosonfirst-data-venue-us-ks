@@ -1,0 +1,76 @@
+{
+  "id": 202975761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704811,37.41015,-94.704811,37.41015",
+    "geom:latitude":37.41015,
+    "geom:longitude":-94.704811,
+    "iso:country":"US",
+    "sg:address":"306 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4040",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qc2ObwgU4lVMB6G23mjKR_37.410150_-94.704811@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"930b70c0e0633cd0c3760ae3c7f9cb35",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202975761
+        }
+    ],
+    "wof:id":202975761,
+    "wof:lastmodified":1449062306,
+    "wof:name":"Us Bank",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [-94.704811,37.41015,-94.704811,37.41015],
+  "geometry": {"coordinates":[-94.704811,37.41015],"type":"Point"}
+}

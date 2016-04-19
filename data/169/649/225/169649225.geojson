@@ -1,0 +1,66 @@
+{
+  "id": 169649225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.780351,38.883677,-94.780351,38.883677",
+    "geom:latitude":38.883677,
+    "geom:longitude":-94.780351,
+    "iso:country":"US",
+    "sg:address":"2021 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 7119",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I66zyMiFVYQNGXrwfZfVO_38.883677_-94.780351@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6de175d684f71eeb1a5c28aafb18eb22",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":169649225
+        }
+    ],
+    "wof:id":169649225,
+    "wof:lastmodified":1449034941,
+    "wof:name":"Best Care Pet Hospital",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-94.780351,38.883677,-94.780351,38.883677],
+  "geometry": {"coordinates":[-94.780351,38.883677],"type":"Point"}
+}

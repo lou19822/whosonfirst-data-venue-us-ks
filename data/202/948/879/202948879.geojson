@@ -1,0 +1,87 @@
+{
+  "id": 202948879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.642578,38.912842,-94.642578,38.912842",
+    "geom:latitude":38.912842,
+    "geom:longitude":-94.642578,
+    "iso:country":"US",
+    "sg:address":"4953 W 119th St",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 338 0770",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "announcement",
+        "invitation",
+        "greeting",
+        "card",
+        "wedding",
+        "store"
+    ],
+    "sg:website":"http://www.statementskc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945793,
+        102082673,
+        85879563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yPPeyogJbY4Urqji9PfD4_38.912842_-94.642578@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0036247669ee6f36d385b2286a728038",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":202948879
+        }
+    ],
+    "wof:id":202948879,
+    "wof:lastmodified":1449062139,
+    "wof:name":"Statements",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "announcement",
+        "invitation",
+        "greeting",
+        "card",
+        "wedding",
+        "store"
+    ]
+},
+  "bbox": [-94.642578,38.912842,-94.642578,38.912842],
+  "geometry": {"coordinates":[-94.642578,38.912842],"type":"Point"}
+}

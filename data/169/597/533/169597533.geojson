@@ -1,0 +1,68 @@
+{
+  "id": 169597533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.643161,38.942054,-94.643161,38.942054",
+    "geom:latitude":38.942054,
+    "geom:longitude":-94.643161,
+    "iso:country":"US",
+    "sg:address":"5211 W 103rd St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 383 2569",
+    "sg:postcode":"66207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945793,
+        102082673,
+        85879563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nWMEdtoGdCmeXDJay0vty_38.942054_-94.643161@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9dc2ed8cced4ccba016f06da904e3280",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":169597533
+        }
+    ],
+    "wof:id":169597533,
+    "wof:lastmodified":1449035922,
+    "wof:name":"Manor Care Health Svc",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-94.643161,38.942054,-94.643161,38.942054],
+  "geometry": {"coordinates":[-94.643161,38.942054],"type":"Point"}
+}

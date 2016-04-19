@@ -1,0 +1,78 @@
+{
+  "id": 202924105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.911049,39.320301,-94.911049,39.320301",
+    "geom:latitude":39.320301,
+    "geom:longitude":-94.911049,
+    "iso:country":"US",
+    "sg:address":"200 Seneca St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 772 5511",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_719ytumCk4K1VvhZ9FisZQ_39.320301_-94.911049@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81fcc9b55398b3953e5f72e6afc49dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202924105
+        }
+    ],
+    "wof:id":202924105,
+    "wof:lastmodified":1449060826,
+    "wof:name":"Abernathy Lofts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-94.911049,39.320301,-94.911049,39.320301],
+  "geometry": {"coordinates":[-94.911049,39.320301],"type":"Point"}
+}

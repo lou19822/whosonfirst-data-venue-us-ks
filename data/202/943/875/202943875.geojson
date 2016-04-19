@@ -1,0 +1,84 @@
+{
+  "id": 202943875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.654861,39.022141,-94.654861,39.022141",
+    "geom:latitude":39.022141,
+    "geom:longitude":-94.654861,
+    "iso:country":"US",
+    "sg:address":"6001 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 3934",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "salons-equipment",
+        "wedding"
+    ],
+    "sg:website":"http://www.colourstudiosalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945747,
+        102082673,
+        85879597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pDHASXK3rHTAwClNO6CO0_39.022141_-94.654861@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77873088f9a8cdefc4cfd2dd7f4bf206",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":202943875
+        }
+    ],
+    "wof:id":202943875,
+    "wof:lastmodified":1449060785,
+    "wof:name":"Colour Studio",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salons-equipment",
+        "wedding"
+    ]
+},
+  "bbox": [-94.654861,39.022141,-94.654861,39.022141],
+  "geometry": {"coordinates":[-94.654861,39.022141],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 202945007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.714568,39.016132,-94.714568,39.016132",
+    "geom:latitude":39.016132,
+    "geom:longitude":-94.714568,
+    "iso:country":"US",
+    "sg:address":"6235 Nieman Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 2015",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil",
+        "refiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mlocBIqunuBAelfYlXLQB_39.016132_-94.714568@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b03faa082e59b250d5f4d35ea444c8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":202945007
+        }
+    ],
+    "wof:id":202945007,
+    "wof:lastmodified":1449060332,
+    "wof:name":"Total Petroleum Outlets",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "refiner"
+    ]
+},
+  "bbox": [-94.714568,39.016132,-94.714568,39.016132],
+  "geometry": {"coordinates":[-94.714568,39.016132],"type":"Point"}
+}

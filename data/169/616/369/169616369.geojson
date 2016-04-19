@@ -1,0 +1,68 @@
+{
+  "id": 169616369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.820542,38.871409,-94.820542,38.871409",
+    "geom:latitude":38.871409,
+    "geom:longitude":-94.820542,
+    "iso:country":"US",
+    "sg:address":"800 S Kansas Ave",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 0293",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x0MFT6gEZsNhbR9ZP8Q7Q_38.871409_-94.820542@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36986fdb34e52501a633dfb36f2797af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":169616369
+        }
+    ],
+    "wof:id":169616369,
+    "wof:lastmodified":1449035103,
+    "wof:name":"Vic's Auto & Trans Repair",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-94.820542,38.871409,-94.820542,38.871409],
+  "geometry": {"coordinates":[-94.820542,38.871409],"type":"Point"}
+}

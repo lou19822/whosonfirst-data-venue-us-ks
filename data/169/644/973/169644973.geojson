@@ -1,0 +1,65 @@
+{
+  "id": 169644973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.234682,38.963778,-95.234682,38.963778",
+    "geom:latitude":38.963778,
+    "geom:longitude":-95.234682,
+    "iso:country":"US",
+    "sg:address":"111 E 11th St",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 832 5356",
+    "sg:postcode":"66044",
+    "sg:province":"KS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945709,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uxecMUpzy4wkBAAB8jO5k_38.963778_-95.234682@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cb10a4825ed07caea24dd261d388e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085347,
+            "locality_id":85945709,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169644973
+        }
+    ],
+    "wof:id":169644973,
+    "wof:lastmodified":1449034576,
+    "wof:name":"District Court Clerk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [-95.234682,38.963778,-95.234682,38.963778],
+  "geometry": {"coordinates":[-95.234682,38.963778],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 202960325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724716,39.048523,-95.724716,39.048523",
+    "geom:latitude":39.048523,
+    "geom:longitude":-95.724716,
+    "iso:country":"US",
+    "sg:address":"1125 SW Gage Blvd Ste A",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 8601",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "osteopathic",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XJ0z2mlfjIn3fcNq98Gbj_39.048523_-95.724716@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb670ac56d8bf7f8cc9eaa01e99bc679",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":202960325
+        }
+    ],
+    "wof:id":202960325,
+    "wof:lastmodified":1449061922,
+    "wof:name":"Carver, Diana L",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "osteopathic",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [-95.724716,39.048523,-95.724716,39.048523],
+  "geometry": {"coordinates":[-95.724716,39.048523],"type":"Point"}
+}

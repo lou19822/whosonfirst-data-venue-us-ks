@@ -1,0 +1,69 @@
+{
+  "id": 169644419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.643519,38.956871,-94.643519,38.956871",
+    "geom:latitude":38.956871,
+    "geom:longitude":-94.643519,
+    "iso:country":"US",
+    "sg:address":"5000 W 95th St",
+    "sg:city":"Prairie Village",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 469 0110",
+    "sg:postcode":"66207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.dcmw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HPsmxZidtvxP9QNXPf3Qv_38.956871_-94.643519@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2c23eca53c00ba2e5516fea1447c54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":169644419
+        }
+    ],
+    "wof:id":169644419,
+    "wof:lastmodified":1449034577,
+    "wof:name":"Dermatology Consultant Midwest",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.643519,38.956871,-94.643519,38.956871],
+  "geometry": {"coordinates":[-94.643519,38.956871],"type":"Point"}
+}

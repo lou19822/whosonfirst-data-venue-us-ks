@@ -1,0 +1,67 @@
+{
+  "id": 169664975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.105333,38.862505,-96.105333,38.862505",
+    "geom:latitude":38.862505,
+    "geom:longitude":-96.105333,
+    "iso:country":"US",
+    "sg:address":"505 N Main St",
+    "sg:city":"Eskridge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 449 2294",
+    "sg:postcode":"66423",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945813,
+        102082173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35eDVZw3JC7j61T4LSaRKx_38.862505_-96.105333@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e84432661711f0fed36e51d32c7bd7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082173,
+            "locality_id":85945813,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169664975
+        }
+    ],
+    "wof:id":169664975,
+    "wof:lastmodified":1449033913,
+    "wof:name":"Heritage Village Of Eskridge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-96.105333,38.862505,-96.105333,38.862505],
+  "geometry": {"coordinates":[-96.105333,38.862505],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169607605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.4795,37.708079,-97.4795,37.708079",
+    "geom:latitude":37.708079,
+    "geom:longitude":-97.4795,
+    "iso:country":"US",
+    "sg:address":"1336 N Pine Grove Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 4840",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QcvKaeYF7MLamUl2v0ZNf_37.708079_-97.479500@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db7de2e9a538e716bad9afb0adae5d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":169607605
+        }
+    ],
+    "wof:id":169607605,
+    "wof:lastmodified":1449033124,
+    "wof:name":"Educational Crossroads Lrnng",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [-97.4795,37.708079,-97.4795,37.708079],
+  "geometry": {"coordinates":[-97.4795,37.708079],"type":"Point"}
+}

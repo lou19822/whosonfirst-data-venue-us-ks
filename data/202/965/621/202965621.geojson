@@ -1,0 +1,73 @@
+{
+  "id": 202965621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.675751,39.045929,-95.675751,39.045929",
+    "geom:latitude":39.045929,
+    "geom:longitude":-95.675751,
+    "iso:country":"US",
+    "sg:address":"1000 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 5769",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jj0g0ezB1uNIqgIRQENrg_39.045929_-95.675751@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"830f46fe6c82eaa8f8168f04846290b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202965621
+        }
+    ],
+    "wof:id":202965621,
+    "wof:lastmodified":1449061868,
+    "wof:name":"Landmark Plaza Apartments",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "community"
+    ]
+},
+  "bbox": [-95.675751,39.045929,-95.675751,39.045929],
+  "geometry": {"coordinates":[-95.675751,39.045929],"type":"Point"}
+}

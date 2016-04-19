@@ -1,0 +1,82 @@
+{
+  "id": 202953957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.768044,38.986359,-94.768044,38.986359",
+    "geom:latitude":38.986359,
+    "geom:longitude":-94.768044,
+    "iso:country":"US",
+    "sg:address":"7830 Allman Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 962 5969",
+    "sg:postcode":"66217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cocoa",
+        "confectionery-wholesale",
+        "confectionery",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85812711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VzSB6bwm7QwFabI6acoFL_38.986359_-94.768044@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce53dc68c69632b1f74e4023908b3a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85812711,
+            "region_id":85688555,
+            "venue_id":202953957
+        }
+    ],
+    "wof:id":202953957,
+    "wof:lastmodified":1449061836,
+    "wof:name":"Chocolate Picture People",
+    "wof:parent_id":85812711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocoa",
+        "confectionery-wholesale",
+        "confectionery",
+        "manufacturer"
+    ]
+},
+  "bbox": [-94.768044,38.986359,-94.768044,38.986359],
+  "geometry": {"coordinates":[-94.768044,38.986359],"type":"Point"}
+}

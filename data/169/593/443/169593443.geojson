@@ -1,0 +1,68 @@
+{
+  "id": 169593443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335449,37.675182,-97.335449,37.675182",
+    "geom:latitude":37.675182,
+    "geom:longitude":-97.335449,
+    "iso:country":"US",
+    "sg:address":"940 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 9740",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ctols7Mhyq4C5axlY4E4z_37.675182_-97.335449@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ce9b87eab5c933b7f9b42580f8d95d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872835,
+            "region_id":85688555,
+            "venue_id":169593443
+        }
+    ],
+    "wof:id":169593443,
+    "wof:lastmodified":1449034878,
+    "wof:name":"Keller's Radiator & Auto Svc",
+    "wof:parent_id":85872835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.335449,37.675182,-97.335449,37.675182],
+  "geometry": {"coordinates":[-97.335449,37.675182],"type":"Point"}
+}

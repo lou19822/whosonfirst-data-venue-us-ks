@@ -1,0 +1,68 @@
+{
+  "id": 202974995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.70784,37.42225,-94.70784,37.42225",
+    "geom:latitude":37.42225,
+    "geom:longitude":-94.70784,
+    "iso:country":"US",
+    "sg:address":"1613 N Walnut St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4242",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rPEeqUP6LUg9NdBX205ng_37.422250_-94.707840@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1298b0696e1fb54e988833c82559439",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202974995
+        }
+    ],
+    "wof:id":202974995,
+    "wof:lastmodified":1449062325,
+    "wof:name":"Hairtrix",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [-94.70784,37.42225,-94.70784,37.42225],
+  "geometry": {"coordinates":[-94.70784,37.42225],"type":"Point"}
+}

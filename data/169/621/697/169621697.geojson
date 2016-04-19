@@ -1,0 +1,67 @@
+{
+  "id": 169621697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.640885,38.909573,-94.640885,38.909573",
+    "geom:latitude":38.909573,
+    "geom:longitude":-94.640885,
+    "iso:country":"US",
+    "sg:address":"12017 Linden Ln",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 339 9321",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "sg:website":"www.cunninghamappraisal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945793,
+        102082673,
+        85879563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01YoaA2rIF0jQsuHcEFFdt_38.909573_-94.640885@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4eea68ca71a383bc1dbc0904791d708d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":169621697
+        }
+    ],
+    "wof:id":169621697,
+    "wof:lastmodified":1449035559,
+    "wof:name":"Cunningham Appraisal",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [-94.640885,38.909573,-94.640885,38.909573],
+  "geometry": {"coordinates":[-94.640885,38.909573],"type":"Point"}
+}

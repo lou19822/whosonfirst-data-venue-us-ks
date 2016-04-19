@@ -1,0 +1,66 @@
+{
+  "id": 202944337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.702808,39.005749,-94.702808,39.005749",
+    "geom:latitude":39.005749,
+    "geom:longitude":-94.702808,
+    "iso:country":"US",
+    "sg:address":"10029 W 68th St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 831 6850",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aWJXyZ1Fns61shB6jxBSB_39.005749_-94.702808@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15c9253dd6d02aa0eb1e1d5d6a50f8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":202944337
+        }
+    ],
+    "wof:id":202944337,
+    "wof:lastmodified":1449061388,
+    "wof:name":"Paul's Airport Transport Service",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [-94.702808,39.005749,-94.702808,39.005749],
+  "geometry": {"coordinates":[-94.702808,39.005749],"type":"Point"}
+}

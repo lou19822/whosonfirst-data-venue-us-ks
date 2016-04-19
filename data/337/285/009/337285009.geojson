@@ -1,0 +1,79 @@
+{
+  "id": 337285009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899902,39.264431,-94.899902,39.264431",
+    "geom:latitude":39.264431,
+    "geom:longitude":-94.899902,
+    "iso:country":"US",
+    "sg:address":"1000 N Main St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 1423",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945367,
+        102083429,
+        85844391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50XYLsgo9q2FrdBTtmUXef_39.264431_-94.899902@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3adf359200928235ca63ca4e5c09467",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":337285009
+        }
+    ],
+    "wof:id":337285009,
+    "wof:lastmodified":1449026958,
+    "wof:name":"American Family Insurance- Trent Peter",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [-94.899902,39.264431,-94.899902,39.264431],
+  "geometry": {"coordinates":[-94.899902,39.264431],"type":"Point"}
+}

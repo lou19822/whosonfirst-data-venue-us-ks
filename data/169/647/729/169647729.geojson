@@ -1,0 +1,69 @@
+{
+  "id": 169647729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.444627,39.355476,-100.444627,39.355476",
+    "geom:latitude":39.355476,
+    "geom:longitude":-100.444627,
+    "iso:country":"US",
+    "sg:address":"940 8th St",
+    "sg:city":"Hoxie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 675 2101",
+    "sg:postcode":"67740",
+    "sg:province":"KS",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945309,
+        102082157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2owbbSI8K4RbEgdX9qwg7l_39.355476_-100.444627@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca4c73c4ef48cb0540e076dcb4d9c5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082157,
+            "locality_id":85945309,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169647729
+        }
+    ],
+    "wof:id":169647729,
+    "wof:lastmodified":1449034240,
+    "wof:name":"Sheridan Public Health Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [-100.444627,39.355476,-100.444627,39.355476],
+  "geometry": {"coordinates":[-100.444627,39.355476],"type":"Point"}
+}

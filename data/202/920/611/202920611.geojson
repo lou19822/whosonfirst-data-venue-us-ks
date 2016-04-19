@@ -1,0 +1,84 @@
+{
+  "id": 202920611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899724,39.249475,-94.899724,39.249475",
+    "geom:latitude":39.249475,
+    "geom:longitude":-94.899724,
+    "iso:country":"US",
+    "sg:address":"111 E Kansas St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 5844",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "parish",
+        "protection",
+        "government-county",
+        "village",
+        "department",
+        "township",
+        "government-city"
+    ],
+    "sg:website":"http://www.leavenworthcounty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945367,
+        102083429,
+        85844391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bfU3r7HW87QyZL5LgCmO1_39.249475_-94.899724@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1435b28125188d5c25c5b7bc69b6bddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":202920611
+        }
+    ],
+    "wof:id":202920611,
+    "wof:lastmodified":1449062085,
+    "wof:name":"Fire Dst 1 Leavenworth Cnty",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "protection",
+        "government-county",
+        "village",
+        "department",
+        "township",
+        "government-city"
+    ]
+},
+  "bbox": [-94.899724,39.249475,-94.899724,39.249475],
+  "geometry": {"coordinates":[-94.899724,39.249475],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169642617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.43537,37.809317,-95.43537,37.809317",
+    "geom:latitude":37.809317,
+    "geom:longitude":-95.43537,
+    "iso:country":"US",
+    "sg:address":"303 S 9th St",
+    "sg:city":"Humboldt",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 473 2640",
+    "sg:postcode":"66748",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946083,
+        102082659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xpcKeMMasKvfdhPvICHwR_37.809317_-95.435370@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41899cb7efa34d2c02ccd8ff45f5c8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082659,
+            "locality_id":85946083,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169642617
+        }
+    ],
+    "wof:id":169642617,
+    "wof:lastmodified":1449032877,
+    "wof:name":"E Z Lock & Key",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-95.43537,37.809317,-95.43537,37.809317],
+  "geometry": {"coordinates":[-95.43537,37.809317],"type":"Point"}
+}

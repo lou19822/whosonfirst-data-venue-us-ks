@@ -1,0 +1,93 @@
+{
+  "id": 202936573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.874008,38.582699,-94.874008,38.582699",
+    "geom:latitude":38.582699,
+    "geom:longitude":-94.874008,
+    "iso:country":"US",
+    "sg:address":"1001 N Pearl St Suite B",
+    "sg:city":"Paola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 294 2880",
+    "sg:postcode":"66071",
+    "sg:province":"KS",
+    "sg:tags":[
+        "generators-electric-service",
+        "electrician",
+        "electric",
+        "improvement",
+        "industrial",
+        "contractors-commercial",
+        "maintenance"
+    ],
+    "sg:website":"http://www.mrelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946431,
+        102085273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4InAVzeAVyiicSyY0z4HBB_38.582699_-94.874008@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"123fd44974ccfd5a0052c088ab1576aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085273,
+            "locality_id":85946431,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202936573
+        }
+    ],
+    "wof:id":202936573,
+    "wof:lastmodified":1449060958,
+    "wof:name":"Mr. Electric Of Miami And Johnson County",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generators-electric-service",
+        "electrician",
+        "electric",
+        "improvement",
+        "industrial",
+        "contractors-commercial",
+        "maintenance"
+    ]
+},
+  "bbox": [-94.874008,38.582699,-94.874008,38.582699],
+  "geometry": {"coordinates":[-94.874008,38.582699],"type":"Point"}
+}

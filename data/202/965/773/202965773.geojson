@@ -1,0 +1,68 @@
+{
+  "id": 202965773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.68329,39.04791,-95.68329,39.04791",
+    "geom:latitude":39.04791,
+    "geom:longitude":-95.68329,
+    "iso:country":"US",
+    "sg:address":"623 SW 10th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 0763",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U8YsHrrmPJYRNGexZmNB0_39.047910_-95.683290@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea94c3835425524c74c8d9525282e1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202965773
+        }
+    ],
+    "wof:id":202965773,
+    "wof:lastmodified":1449061865,
+    "wof:name":"Kansas Healthcare Collaborative",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [-95.68329,39.04791,-95.68329,39.04791],
+  "geometry": {"coordinates":[-95.68329,39.04791],"type":"Point"}
+}

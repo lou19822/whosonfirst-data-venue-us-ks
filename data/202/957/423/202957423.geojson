@@ -1,0 +1,73 @@
+{
+  "id": 202957423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.561852,39.178219,-96.561852,39.178219",
+    "geom:latitude":39.178219,
+    "geom:longitude":-96.561852,
+    "iso:country":"US",
+    "sg:address":"205 S 4th St",
+    "sg:city":"Manhattan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 539 5691",
+    "sg:postcode":"66502",
+    "sg:province":"KS",
+    "sg:tags":[
+        "consultant",
+        "opportunity"
+    ],
+    "sg:website":"http://www.workforcecenters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945171,
+        102084179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g7li5qdLpysY6qFhk6g00_39.178219_-96.561852@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8132a1a3ef25cd45cfc481d9086b73b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084179,
+            "locality_id":85945171,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202957423
+        }
+    ],
+    "wof:id":202957423,
+    "wof:lastmodified":1449062279,
+    "wof:name":"Manhattan Workforce Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "opportunity"
+    ]
+},
+  "bbox": [-96.561852,39.178219,-96.561852,39.178219],
+  "geometry": {"coordinates":[-96.561852,39.178219],"type":"Point"}
+}

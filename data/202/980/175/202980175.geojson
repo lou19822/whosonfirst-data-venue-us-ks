@@ -1,0 +1,83 @@
+{
+  "id": 202980175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.351993,37.701538,-97.351993,37.701538",
+    "geom:latitude":37.701538,
+    "geom:longitude":-97.351993,
+    "iso:country":"US",
+    "sg:address":"1119 W River Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 3121",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaner",
+        "plumber",
+        "industrial",
+        "repairer",
+        "sewer",
+        "contractors-commercial",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2675YnIEhbxrUxrDSLCXjT_37.701538_-97.351993@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"870fd92d422674654b25cc1a03b44b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872827,
+            "region_id":85688555,
+            "venue_id":202980175
+        }
+    ],
+    "wof:id":202980175,
+    "wof:lastmodified":1449060282,
+    "wof:name":"Todd Plumbing",
+    "wof:parent_id":85872827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "plumber",
+        "industrial",
+        "repairer",
+        "sewer",
+        "contractors-commercial",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [-97.351993,37.701538,-97.351993,37.701538],
+  "geometry": {"coordinates":[-97.351993,37.701538],"type":"Point"}
+}

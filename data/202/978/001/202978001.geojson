@@ -1,0 +1,70 @@
+{
+  "id": 202978001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.571361,37.70168,-97.571361,37.70168",
+    "geom:latitude":37.70168,
+    "geom:longitude":-97.571361,
+    "iso:country":"US",
+    "sg:address":"1111 N 199th St W",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 2925",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vtmfYsPxkkHT4bJpU7HaX_37.701680_-97.571361@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"394a33195b3e036a749c68991d3c9ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":202978001
+        }
+    ],
+    "wof:id":202978001,
+    "wof:lastmodified":1449061569,
+    "wof:name":"L.A Plumbing",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [-97.571361,37.70168,-97.571361,37.70168],
+  "geometry": {"coordinates":[-97.571361,37.70168],"type":"Point"}
+}

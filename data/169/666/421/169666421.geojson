@@ -1,0 +1,70 @@
+{
+  "id": 169666421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.364443,37.677854,-97.364443,37.677854",
+    "geom:latitude":37.677854,
+    "geom:longitude":-97.364443,
+    "iso:country":"US",
+    "sg:address":"610 Hiram St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 9215",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GYoDthF29O0mRvZ0pS4Cb_37.677854_-97.364443@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be32d5e12d91ab3c9f4118ba3f237c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872823,
+            "region_id":85688555,
+            "venue_id":169666421
+        }
+    ],
+    "wof:id":169666421,
+    "wof:lastmodified":1449033899,
+    "wof:name":"Farmer",
+    "wof:parent_id":85872823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [-97.364443,37.677854,-97.364443,37.677854],
+  "geometry": {"coordinates":[-97.364443,37.677854],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 202962005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.621425,39.023631,-95.621425,39.023631",
+    "geom:latitude":39.023631,
+    "geom:longitude":-95.621425,
+    "iso:country":"US",
+    "sg:address":"3305 SE 23rd Ter",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 0017",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "public",
+        "provider",
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102084175,
+        85881533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KHKc2kn8Aeiviwy77AEoQ_39.023631_-95.621425@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d9f13346829de6e1214d25aee62551e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":-1,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":202962005
+        }
+    ],
+    "wof:id":202962005,
+    "wof:lastmodified":1449061608,
+    "wof:name":"Monarch Transportation Services",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public",
+        "provider",
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [-95.621425,39.023631,-95.621425,39.023631],
+  "geometry": {"coordinates":[-95.621425,39.023631],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 202929893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.909218,39.314284,-94.909218,39.314284",
+    "geom:latitude":39.314284,
+    "geom:longitude":-94.909218,
+    "iso:country":"US",
+    "sg:address":"117 Walnut St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 7711",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EXwqrZV5zSQQlvEyW9Aej_39.314284_-94.909218@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89061d6310cebe0e16cb774ff3d8b1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202929893
+        }
+    ],
+    "wof:id":202929893,
+    "wof:lastmodified":1449061086,
+    "wof:name":"Auto Haven",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [-94.909218,39.314284,-94.909218,39.314284],
+  "geometry": {"coordinates":[-94.909218,39.314284],"type":"Point"}
+}

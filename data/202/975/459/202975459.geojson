@@ -1,0 +1,76 @@
+{
+  "id": 202975459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705025,37.444118,-94.705025,37.444118",
+    "geom:latitude":37.444118,
+    "geom:longitude":-94.705025,
+    "iso:country":"US",
+    "sg:address":"4026 Parkview Dr",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 2100",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=519B&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iZQyKsoL1WIlCp7VkloSf_37.444118_-94.705025@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0739abc0a143503d4563c7334dff77d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202975459
+        }
+    ],
+    "wof:id":202975459,
+    "wof:lastmodified":1449062305,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [-94.705025,37.444118,-94.705025,37.444118],
+  "geometry": {"coordinates":[-94.705025,37.444118],"type":"Point"}
+}

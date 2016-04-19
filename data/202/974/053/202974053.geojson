@@ -1,0 +1,68 @@
+{
+  "id": 202974053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704948,37.433127,-94.704948,37.433127",
+    "geom:latitude":37.433127,
+    "geom:longitude":-94.704948,
+    "iso:country":"US",
+    "sg:address":"2711 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1007",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house",
+        "steak"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10Igdwush00vaSJZlNfgHP_37.433127_-94.704948@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4e8abf87bc8b9fa41d3d4e6b35c8647",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202974053
+        }
+    ],
+    "wof:id":202974053,
+    "wof:lastmodified":1449062323,
+    "wof:name":"Western Sizzlin Steakhouse",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak"
+    ]
+},
+  "bbox": [-94.704948,37.433127,-94.704948,37.433127],
+  "geometry": {"coordinates":[-94.704948,37.433127],"type":"Point"}
+}

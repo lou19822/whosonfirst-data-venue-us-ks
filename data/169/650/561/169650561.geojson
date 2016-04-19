@@ -1,0 +1,65 @@
+{
+  "id": 169650561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-101.342688,37.179817,-101.342688,37.179817",
+    "geom:latitude":37.179817,
+    "geom:longitude":-101.342688,
+    "iso:country":"US",
+    "sg:address":"405 E 4th St",
+    "sg:city":"Hugoton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 544 2020",
+    "sg:postcode":"67951",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946217,
+        102084139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zDJUbLEt1ukEWyKRMCysD_37.179817_-101.342688@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b37869170e28c00f5012312f8b1f91be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084139,
+            "locality_id":85946217,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169650561
+        }
+    ],
+    "wof:id":169650561,
+    "wof:lastmodified":1449034702,
+    "wof:name":"Hugoton Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-101.342688,37.179817,-101.342688,37.179817],
+  "geometry": {"coordinates":[-101.342688,37.179817],"type":"Point"}
+}

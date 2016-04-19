@@ -1,0 +1,65 @@
+{
+  "id": 169625017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849716,37.818861,-96.849716,37.818861",
+    "geom:latitude":37.818861,
+    "geom:longitude":-96.849716,
+    "iso:country":"US",
+    "sg:address":"202 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 0300",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102082695,
+        85851529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65p9v7SVN7f72z5jsYcYuH_37.818861_-96.849716@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db4908f4bfedc5a807bb78e0ba296270",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":-1,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":169625017
+        }
+    ],
+    "wof:id":169625017,
+    "wof:lastmodified":1449036022,
+    "wof:name":"El Dorado Family Dentistry",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-96.849716,37.818861,-96.849716,37.818861],
+  "geometry": {"coordinates":[-96.849716,37.818861],"type":"Point"}
+}

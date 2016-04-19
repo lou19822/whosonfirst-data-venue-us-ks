@@ -1,0 +1,67 @@
+{
+  "id": 202928181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.905002,39.300865,-94.905002,39.300865",
+    "geom:latitude":39.300865,
+    "geom:longitude":-94.905002,
+    "iso:country":"US",
+    "sg:address":"1535 S 2nd St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 758 1555",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66l4v8wvjM56ZzFPeM8iFR_39.300865_-94.905002@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca44623653d263dbcb9e2c9355a1988e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202928181
+        }
+    ],
+    "wof:id":202928181,
+    "wof:lastmodified":1449062299,
+    "wof:name":"Drexel Chemical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [-94.905002,39.300865,-94.905002,39.300865],
+  "geometry": {"coordinates":[-94.905002,39.300865],"type":"Point"}
+}

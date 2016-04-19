@@ -1,0 +1,71 @@
+{
+  "id": 202965045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687707,39.010237,-95.687707,39.010237",
+    "geom:latitude":39.010237,
+    "geom:longitude":-95.687707,
+    "iso:country":"US",
+    "sg:address":"3201 SW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 6970",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ta4yvhwEsdT6YQl9aelnQ_39.010237_-95.687707@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc6d6e9178fa4317d1e53de709cafd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":202965045
+        }
+    ],
+    "wof:id":202965045,
+    "wof:lastmodified":1449061868,
+    "wof:name":"Midwest Custom Cycle, Inc.",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction"
+    ]
+},
+  "bbox": [-95.687707,39.010237,-95.687707,39.010237],
+  "geometry": {"coordinates":[-95.687707,39.010237],"type":"Point"}
+}

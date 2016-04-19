@@ -1,0 +1,67 @@
+{
+  "id": 169608007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960113,38.791638,-95.960113,38.791638",
+    "geom:latitude":38.791638,
+    "geom:longitude":-95.960113,
+    "iso:country":"US",
+    "sg:address":"160 Main St",
+    "sg:city":"Harveyville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 589 2497",
+    "sg:postcode":"66431",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bulb",
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945817,
+        102082173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QEPybDEo0MjJoH1TZ3387_38.791638_-95.960113@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b1ebcab077568818d1f5c96b0c025d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082173,
+            "locality_id":85945817,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169608007
+        }
+    ],
+    "wof:id":169608007,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Harveyville Seed Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulb",
+        "seed"
+    ]
+},
+  "bbox": [-95.960113,38.791638,-95.960113,38.791638],
+  "geometry": {"coordinates":[-95.960113,38.791638],"type":"Point"}
+}

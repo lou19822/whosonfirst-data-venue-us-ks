@@ -1,0 +1,69 @@
+{
+  "id": 169594505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.329347,38.711577,-99.329347,38.711577",
+    "geom:latitude":38.711577,
+    "geom:longitude":-99.329347,
+    "iso:country":"US",
+    "sg:address":"112 Oak St",
+    "sg:city":"Schoenchen",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 625 5155",
+    "sg:postcode":"67601",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945233,
+        102082161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xnMbfu1rpbJ51j4He6o8i_38.711577_-99.329347@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dac02ba3b307efe9b0e4c1be1d6ed256",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082161,
+            "locality_id":85945233,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169594505
+        }
+    ],
+    "wof:id":169594505,
+    "wof:lastmodified":1449033166,
+    "wof:name":"Castle Resources",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [-99.329347,38.711577,-99.329347,38.711577],
+  "geometry": {"coordinates":[-99.329347,38.711577],"type":"Point"}
+}

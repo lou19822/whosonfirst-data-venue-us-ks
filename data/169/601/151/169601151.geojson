@@ -1,0 +1,67 @@
+{
+  "id": 169601151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.084971,39.109316,-95.084971,39.109316",
+    "geom:latitude":39.109316,
+    "geom:longitude":-95.084971,
+    "iso:country":"US",
+    "sg:address":"603 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 3754",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.tongie.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XNQO2zPjyvC1mVhqKF9Gw_39.109316_-95.084971@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce6f2db204b0567edd5e72c7a6f6d952",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":169601151
+        }
+    ],
+    "wof:id":169601151,
+    "wof:lastmodified":1449034147,
+    "wof:name":"Tonganoxie Police Station",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-95.084971,39.109316,-95.084971,39.109316],
+  "geometry": {"coordinates":[-95.084971,39.109316],"type":"Point"}
+}

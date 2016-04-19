@@ -1,0 +1,66 @@
+{
+  "id": 169644909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.221608,37.722967,-97.221608,37.722967",
+    "geom:latitude":37.722967,
+    "geom:longitude":-97.221608,
+    "iso:country":"US",
+    "sg:address":"9747 E 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 636 5479",
+    "sg:postcode":"67206",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wSL4cLHW8Um20lexU7v96_37.722967_-97.221608@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78ddeb25105f9b2b9ec5adb6f0df1baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834565,
+            "region_id":85688555,
+            "venue_id":169644909
+        }
+    ],
+    "wof:id":169644909,
+    "wof:lastmodified":1449034577,
+    "wof:name":"College Hill Cleaners",
+    "wof:parent_id":85834565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-97.221608,37.722967,-97.221608,37.722967],
+  "geometry": {"coordinates":[-97.221608,37.722967],"type":"Point"}
+}

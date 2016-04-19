@@ -1,0 +1,90 @@
+{
+  "id": 202920349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899931,39.261697,-94.899931,39.261697",
+    "geom:latitude":39.261697,
+    "geom:longitude":-94.899931,
+    "iso:country":"US",
+    "sg:address":"812 N Main St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 1022",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaner",
+        "tailor",
+        "commercial",
+        "operated",
+        "dryer",
+        "laundries-self",
+        "curtain",
+        "washer",
+        "coin",
+        "drapery"
+    ],
+    "sg:website":"http://www.harriscleaners.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945367,
+        102083429,
+        85844391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UGptBpRoSdUUfWZjR7bD8_39.261697_-94.899931@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bab01d6128f8251fe3ded5159b5bd692",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":202920349
+        }
+    ],
+    "wof:id":202920349,
+    "wof:lastmodified":1449062082,
+    "wof:name":"Harris Bros Cleaners Inc",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "tailor",
+        "commercial",
+        "operated",
+        "dryer",
+        "laundries-self",
+        "curtain",
+        "washer",
+        "coin",
+        "drapery"
+    ]
+},
+  "bbox": [-94.899931,39.261697,-94.899931,39.261697],
+  "geometry": {"coordinates":[-94.899931,39.261697],"type":"Point"}
+}

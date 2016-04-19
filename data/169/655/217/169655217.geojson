@@ -1,0 +1,68 @@
+{
+  "id": 169655217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.621609,39.060694,-94.621609,39.060694",
+    "geom:latitude":39.060694,
+    "geom:longitude":-94.621609,
+    "iso:country":"US",
+    "sg:address":"1014 Southwest Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 5888",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85866785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gWBqfHGgNOZTgzSgFn1DE_39.060694_-94.621609@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c55f1f583ce36d9593928e7cadcf1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":169655217
+        }
+    ],
+    "wof:id":169655217,
+    "wof:lastmodified":1449034590,
+    "wof:name":"Imports Only Inc",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-94.621609,39.060694,-94.621609,39.060694],
+  "geometry": {"coordinates":[-94.621609,39.060694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169661273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.909324,39.306709,-94.909324,39.306709",
+    "geom:latitude":39.306709,
+    "geom:longitude":-94.909324,
+    "iso:country":"US",
+    "sg:address":"323 Elm St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 3773",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YtMPe5av6xo8hkdsuIN4l_39.306709_-94.909324@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc6ceba2d469ffa523ba639e5503bc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169661273
+        }
+    ],
+    "wof:id":169661273,
+    "wof:lastmodified":1449035597,
+    "wof:name":"Hertz Local Edition",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-94.909324,39.306709,-94.909324,39.306709],
+  "geometry": {"coordinates":[-94.909324,39.306709],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 202975089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700303,37.42217,-94.700303,37.42217",
+    "geom:latitude":37.42217,
+    "geom:longitude":-94.700303,
+    "iso:country":"US",
+    "sg:address":"210 N Joplin St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5696",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment",
+        "leasing",
+        "vacancy",
+        "management",
+        "store",
+        "listing",
+        "yard",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RrtmK0T1yalgpz0CNL1Me_37.422170_-94.700303@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab0ea78b08d24429873ab6e7e3471b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202975089
+        }
+    ],
+    "wof:id":202975089,
+    "wof:lastmodified":1449062303,
+    "wof:name":"Brooks Rentals",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "leasing",
+        "vacancy",
+        "management",
+        "store",
+        "listing",
+        "yard",
+        "finder"
+    ]
+},
+  "bbox": [-94.700303,37.42217,-94.700303,37.42217],
+  "geometry": {"coordinates":[-94.700303,37.42217],"type":"Point"}
+}

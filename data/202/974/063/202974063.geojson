@@ -1,0 +1,80 @@
+{
+  "id": 202974063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.680752,37.440265,-94.680752,37.440265",
+    "geom:latitude":37.440265,
+    "geom:longitude":-94.680752,
+    "iso:country":"US",
+    "sg:address":"1310 E Atkinson Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4460",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "recruiting",
+        "government-united",
+        "force",
+        "state",
+        "armed"
+    ],
+    "sg:website":"http://www.army.mil",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hM1VfRctsVifnWs9YebQz_37.440265_-94.680752@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93740a6ae88034ebaba301fc57548748",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202974063
+        }
+    ],
+    "wof:id":202974063,
+    "wof:lastmodified":1449062323,
+    "wof:name":"Army Reserve",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recruiting",
+        "government-united",
+        "force",
+        "state",
+        "armed"
+    ]
+},
+  "bbox": [-94.680752,37.440265,-94.680752,37.440265],
+  "geometry": {"coordinates":[-94.680752,37.440265],"type":"Point"}
+}

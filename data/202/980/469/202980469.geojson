@@ -1,0 +1,80 @@
+{
+  "id": 202980469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.462559,37.726612,-97.462559,37.726612",
+    "geom:latitude":37.726612,
+    "geom:longitude":-97.462559,
+    "iso:country":"US",
+    "sg:address":"2413 N Maize Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 9464",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "chicken",
+        "style",
+        "american",
+        "family",
+        "take"
+    ],
+    "sg:website":"http://www.buffalowildwings.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IgHANQr8KFBtM87jiHQHi_37.726612_-97.462559@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2796ec846a9bc16c75d183ca8a2a1bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":202980469
+        }
+    ],
+    "wof:id":202980469,
+    "wof:lastmodified":1449060284,
+    "wof:name":"Buffalo Wild Wings",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "style",
+        "american",
+        "family",
+        "take"
+    ]
+},
+  "bbox": [-97.462559,37.726612,-97.462559,37.726612],
+  "geometry": {"coordinates":[-97.462559,37.726612],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 202919507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.268769,39.859586,-95.268769,39.859586",
+    "geom:latitude":39.859586,
+    "geom:longitude":-95.268769,
+    "iso:country":"US",
+    "sg:address":"415 W Main St",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 442 3213",
+    "sg:postcode":"66035",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946245,
+        102082137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w9QECBlORtHXxWZUBnrlg_39.859586_-95.268769@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f6ccad14b26cb0b03f33f23ab695fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082137,
+            "locality_id":85946245,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202919507
+        }
+    ],
+    "wof:id":202919507,
+    "wof:lastmodified":1449062033,
+    "wof:name":"Hiawatha Community Hospital Highland Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-95.268769,39.859586,-95.268769,39.859586],
+  "geometry": {"coordinates":[-95.268769,39.859586],"type":"Point"}
+}

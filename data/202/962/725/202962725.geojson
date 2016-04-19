@@ -1,0 +1,92 @@
+{
+  "id": 202962725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.67337,39.03698,-95.67337,39.03698",
+    "geom:latitude":39.03698,
+    "geom:longitude":-95.67337,
+    "iso:country":"US",
+    "sg:address":"501 SE 17th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 5123",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "heating",
+        "specialty",
+        "clean",
+        "mechanical",
+        "contractor",
+        "air conditioning",
+        "boilers-repair",
+        "contractors-commercial"
+    ],
+    "sg:website":"http://www.lowermech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SqmIlbpBqLPz0TYhesBmp_39.036980_-95.673370@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42a95a507a4de906c928e394caf98166",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":202962725
+        }
+    ],
+    "wof:id":202962725,
+    "wof:lastmodified":1449061607,
+    "wof:name":"Lower Heating & Air Conditioning, Inc.",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "heating",
+        "specialty",
+        "clean",
+        "mechanical",
+        "contractor",
+        "air conditioning",
+        "boilers-repair",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [-95.67337,39.03698,-95.67337,39.03698],
+  "geometry": {"coordinates":[-95.67337,39.03698],"type":"Point"}
+}

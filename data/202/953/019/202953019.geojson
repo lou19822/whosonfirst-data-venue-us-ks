@@ -1,0 +1,86 @@
+{
+  "id": 202953019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.733871,38.942866,-94.733871,38.942866",
+    "geom:latitude":38.942866,
+    "geom:longitude":-94.733871,
+    "iso:country":"US",
+    "sg:address":"10229 Bradshaw St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 6712",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56YqOUy69Hp8T6RVwnLkzh_38.942866_-94.733871@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8535bc349e7a46ffefba2be43eef1002",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202953019
+        }
+    ],
+    "wof:id":202953019,
+    "wof:lastmodified":1449061835,
+    "wof:name":"Stover & Associates Inc",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [-94.733871,38.942866,-94.733871,38.942866],
+  "geometry": {"coordinates":[-94.733871,38.942866],"type":"Point"}
+}

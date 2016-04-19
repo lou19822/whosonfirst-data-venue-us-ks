@@ -1,0 +1,66 @@
+{
+  "id": 169591931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686399,38.899291,-94.686399,38.899291",
+    "geom:latitude":38.899291,
+    "geom:longitude":-94.686399,
+    "iso:country":"US",
+    "sg:address":"12641 Antioch Rd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 649 9966",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55YFIRTicP0MUfQPers1wQ_38.899291_-94.686399@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b51ba79c98f95f9d424f01ac62c19cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":169591931
+        }
+    ],
+    "wof:id":169591931,
+    "wof:lastmodified":1449034455,
+    "wof:name":"Global Maintenance Inc",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-94.686399,38.899291,-94.686399,38.899291],
+  "geometry": {"coordinates":[-94.686399,38.899291],"type":"Point"}
+}

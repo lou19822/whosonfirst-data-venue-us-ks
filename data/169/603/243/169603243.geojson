@@ -1,0 +1,68 @@
+{
+  "id": 169603243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.670205,38.973988,-95.670205,38.973988",
+    "geom:latitude":38.973988,
+    "geom:longitude":-95.670205,
+    "iso:country":"US",
+    "sg:address":"4631 SE Adams St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 8814",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A8fB8sQSmBTB4I7RCKLkh_38.973988_-95.670205@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6365a0a57199076e3573c928a271fa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":169603243
+        }
+    ],
+    "wof:id":169603243,
+    "wof:lastmodified":1449035451,
+    "wof:name":"USFreightways",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "trucking"
+    ]
+},
+  "bbox": [-95.670205,38.973988,-95.670205,38.973988],
+  "geometry": {"coordinates":[-95.670205,38.973988],"type":"Point"}
+}

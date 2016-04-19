@@ -1,0 +1,67 @@
+{
+  "id": 169647251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.242945,37.73781,-97.242945,37.73781",
+    "geom:latitude":37.73781,
+    "geom:longitude":-97.242945,
+    "iso:country":"US",
+    "sg:address":"8338 E 29th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 636 1200",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.northrockvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IIeqMvLWK2r2dXz21LaFN_37.737810_-97.242945@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b47502362a4e217a2e4a68c766ff4d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":169647251
+        }
+    ],
+    "wof:id":169647251,
+    "wof:lastmodified":1449034237,
+    "wof:name":"Northrock Hospital For Animals",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-97.242945,37.73781,-97.242945,37.73781],
+  "geometry": {"coordinates":[-97.242945,37.73781],"type":"Point"}
+}

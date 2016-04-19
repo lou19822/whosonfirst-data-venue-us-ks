@@ -1,0 +1,67 @@
+{
+  "id": 169670009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.722688,39.081543,-95.722688,39.081543",
+    "geom:latitude":39.081543,
+    "geom:longitude":-95.722688,
+    "iso:country":"US",
+    "sg:address":"3940 NW Lower Silver Lake Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 0861",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102084175,
+        85881559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rvo5YT1zXJfdEbEB4jFzp_39.081543_-95.722688@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"252a85d8c2257a4f903026fe29249f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":-1,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":169670009
+        }
+    ],
+    "wof:id":169670009,
+    "wof:lastmodified":1449033188,
+    "wof:name":"Cargill Grain",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [-95.722688,39.081543,-95.722688,39.081543],
+  "geometry": {"coordinates":[-95.722688,39.081543],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 202942797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.652652,39.022176,-94.652652,39.022176",
+    "geom:latitude":39.022176,
+    "geom:longitude":-94.652652,
+    "iso:country":"US",
+    "sg:address":"5808 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 7021",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945747,
+        102082673,
+        85879597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2voUD3s4lbTbb1ATTDb8cI_39.022176_-94.652652@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b50ad5a78b3a35e852b699829db5958",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":202942797
+        }
+    ],
+    "wof:id":202942797,
+    "wof:lastmodified":1449061284,
+    "wof:name":"La Petique Dog Grooming Salon",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [-94.652652,39.022176,-94.652652,39.022176],
+  "geometry": {"coordinates":[-94.652652,39.022176],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169603835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.200092,37.6812,-97.200092,37.6812",
+    "geom:latitude":37.6812,
+    "geom:longitude":-97.200092,
+    "iso:country":"US",
+    "sg:address":"11828 E Lewis St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 683 2841",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85830823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lQvzQbCAmjolQ4IKHVLhJ_37.681200_-97.200092@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"992de48f938aa8890d43f6a2841f54c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85830823,
+            "region_id":85688555,
+            "venue_id":169603835
+        }
+    ],
+    "wof:id":169603835,
+    "wof:lastmodified":1449035453,
+    "wof:name":"Electri-Tech",
+    "wof:parent_id":85830823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-97.200092,37.6812,-97.200092,37.6812],
+  "geometry": {"coordinates":[-97.200092,37.6812],"type":"Point"}
+}

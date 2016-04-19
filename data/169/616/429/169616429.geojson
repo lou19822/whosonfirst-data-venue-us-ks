@@ -1,0 +1,68 @@
+{
+  "id": 169616429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705271,39.085051,-94.705271,39.085051",
+    "geom:latitude":39.085051,
+    "geom:longitude":-94.705271,
+    "iso:country":"US",
+    "sg:address":"667 S 55th St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 8900",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85878507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ff8iq3460EacFu140KrLM_39.085051_-94.705271@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f9c70bc86449a0732b2a95887dad9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":169616429
+        }
+    ],
+    "wof:id":169616429,
+    "wof:lastmodified":1449035102,
+    "wof:name":"Turner Family Health Clinic",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.705271,39.085051,-94.705271,39.085051],
+  "geometry": {"coordinates":[-94.705271,39.085051],"type":"Point"}
+}

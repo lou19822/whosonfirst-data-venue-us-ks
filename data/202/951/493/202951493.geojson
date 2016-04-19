@@ -1,0 +1,68 @@
+{
+  "id": 202951493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.729782,38.956532,-94.729782,38.956532",
+    "geom:latitude":38.956532,
+    "geom:longitude":-94.729782,
+    "iso:country":"US",
+    "sg:address":"12381 W 95th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 0806",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:website":"http://www.kohls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:brand_id":420575041,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gummZIoWQ262d4rrit2LT_38.956532_-94.729782@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21164d50e86773de4ff02f45376856ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":202951493
+        }
+    ],
+    "wof:id":202951493,
+    "wof:lastmodified":1457209360,
+    "wof:name":"Kohl's",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.729782,
+    38.956532,
+    -94.729782,
+    38.956532
+],
+  "geometry": {"coordinates":[-94.729782,38.956532],"type":"Point"}
+}

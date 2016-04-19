@@ -1,0 +1,65 @@
+{
+  "id": 169635307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.786292,39.776625,-98.786292,39.776625",
+    "geom:latitude":39.776625,
+    "geom:longitude":-98.786292,
+    "iso:country":"US",
+    "sg:address":"119 W Court St",
+    "sg:city":"Smith Center",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 282 6555",
+    "sg:postcode":"66967",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945543,
+        102084161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nALxvtSQdTpcpLRzC6YTd_39.776625_-98.786292@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbebf360a0d43c17437ea6b197e12eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084161,
+            "locality_id":85945543,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169635307
+        }
+    ],
+    "wof:id":169635307,
+    "wof:lastmodified":1449034098,
+    "wof:name":"Smith Center Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-98.786292,39.776625,-98.786292,39.776625],
+  "geometry": {"coordinates":[-98.786292,39.776625],"type":"Point"}
+}

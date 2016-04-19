@@ -1,0 +1,85 @@
+{
+  "id": 202920601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.900307,39.23056,-94.900307,39.23056",
+    "geom:latitude":39.23056,
+    "geom:longitude":-94.900307,
+    "iso:country":"US",
+    "sg:address":"100 W Gilman Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 6251",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plant",
+        "contractor",
+        "tree",
+        "landscape",
+        "nurseries-plants"
+    ],
+    "sg:website":"http://leavenworthlansingnursery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945367,
+        102083429,
+        85844391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14ZltbM6OQTHLAGlUj38YS_39.230560_-94.900307@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ffaae80debee39b86f3eab2ab8563e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":202920601
+        }
+    ],
+    "wof:id":202920601,
+    "wof:lastmodified":1449062083,
+    "wof:name":"Leavenworth Lansing Nurseries",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "contractor",
+        "tree",
+        "landscape",
+        "nurseries-plants"
+    ]
+},
+  "bbox": [-94.900307,39.23056,-94.900307,39.23056],
+  "geometry": {"coordinates":[-94.900307,39.23056],"type":"Point"}
+}

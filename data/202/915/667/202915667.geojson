@@ -1,0 +1,78 @@
+{
+  "id": 202915667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.131882,39.581532,-95.131882,39.581532",
+    "geom:latitude":39.581532,
+    "geom:longitude":-95.131882,
+    "iso:country":"US",
+    "sg:address":"1501 Applegate Dr",
+    "sg:city":"Atchison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 367 7808",
+    "sg:postcode":"66002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945497,
+        102082665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xEWc1XPoE3zjaI5DmurUz_39.581532_-95.131882@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"350a131501b3fc280068f134ae654e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082665,
+            "locality_id":85945497,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202915667
+        }
+    ],
+    "wof:id":202915667,
+    "wof:lastmodified":1449062609,
+    "wof:name":"Applegate Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-95.131882,39.581532,-95.131882,39.581532],
+  "geometry": {"coordinates":[-95.131882,39.581532],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 202925113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.921085,39.318054,-94.921085,39.318054",
+    "geom:latitude":39.318054,
+    "geom:longitude":-94.921085,
+    "iso:country":"US",
+    "sg:address":"745 Shawnee St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 772 4132",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"http://www.vetters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dd9RChx3LAqfyByqGRVjE_39.318054_-94.921085@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95bd8c495f8dd5015297abc304052aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202925113
+        }
+    ],
+    "wof:id":202925113,
+    "wof:lastmodified":1449060133,
+    "wof:name":"Vetter's Collision Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-94.921085,39.318054,-94.921085,39.318054],
+  "geometry": {"coordinates":[-94.921085,39.318054],"type":"Point"}
+}

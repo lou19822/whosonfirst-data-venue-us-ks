@@ -1,0 +1,89 @@
+{
+  "id": 202933677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.822343,38.854697,-94.822343,38.854697",
+    "geom:latitude":38.854697,
+    "geom:longitude":-94.822343,
+    "iso:country":"US",
+    "sg:address":"20070 W 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 393 3535",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "business",
+        "arcade",
+        "ride",
+        "equipment",
+        "place",
+        "device",
+        "entertainers-family"
+    ],
+    "sg:website":"http://www.zonkers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PzTzs7NfyXlTBExltzQOj_38.854697_-94.822343@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bf6987cdf4bed68d75d984913546073",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202933677
+        }
+    ],
+    "wof:id":202933677,
+    "wof:lastmodified":1449060629,
+    "wof:name":"Zonkers",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "arcade",
+        "ride",
+        "equipment",
+        "place",
+        "device",
+        "entertainers-family"
+    ]
+},
+  "bbox": [-94.822343,38.854697,-94.822343,38.854697],
+  "geometry": {"coordinates":[-94.822343,38.854697],"type":"Point"}
+}

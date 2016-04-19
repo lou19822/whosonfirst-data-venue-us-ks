@@ -1,0 +1,74 @@
+{
+  "id": 202925003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.908935,39.296595,-94.908935,39.296595",
+    "geom:latitude":39.296595,
+    "geom:longitude":-94.908935,
+    "iso:country":"US",
+    "sg:address":"2030 S 4th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 651 2400",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "order",
+        "online"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rC2qqA1DJbicl5oUhyjvs_39.296595_-94.908935@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"170b4e24fe689a217a9cc0da2a6fd1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202925003
+        }
+    ],
+    "wof:id":202925003,
+    "wof:lastmodified":1449060132,
+    "wof:name":"Land Of Ah's Florist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order",
+        "online"
+    ]
+},
+  "bbox": [-94.908935,39.296595,-94.908935,39.296595],
+  "geometry": {"coordinates":[-94.908935,39.296595],"type":"Point"}
+}

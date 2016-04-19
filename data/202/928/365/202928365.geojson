@@ -1,0 +1,73 @@
+{
+  "id": 202928365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.915986,39.318762,-94.915986,39.318762",
+    "geom:latitude":39.318762,
+    "geom:longitude":-94.915986,
+    "iso:country":"US",
+    "sg:address":"531 Shawnee St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        },
+        {
+            "category":"Cemetery",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 5523",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "director",
+        "crematory"
+    ],
+    "sg:website":"http://www.davisfuneralchapelinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ymULe6RoIeSYKlKScKsHG_39.318762_-94.915986@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"324b9480efc3ebd649bb9dc73b64d44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202928365
+        }
+    ],
+    "wof:id":202928365,
+    "wof:lastmodified":1449062298,
+    "wof:name":"Davis Funeral Chapel & Crematory",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "crematory"
+    ]
+},
+  "bbox": [-94.915986,39.318762,-94.915986,39.318762],
+  "geometry": {"coordinates":[-94.915986,39.318762],"type":"Point"}
+}

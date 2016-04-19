@@ -1,0 +1,68 @@
+{
+  "id": 202962201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.702942,39.057468,-95.702942,39.057468",
+    "geom:latitude":39.057468,
+    "geom:longitude":-95.702942,
+    "iso:country":"US",
+    "sg:address":"701 SW Roosevelt St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 0382",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "k-",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M7gFDFzkDo7Ilrtr1eQZs_39.057468_-95.702942@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e733a561c1f9452d939ef0082962d59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":202962201
+        }
+    ],
+    "wof:id":202962201,
+    "wof:lastmodified":1449061609,
+    "wof:name":"Topeka Lutheran School",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "k-",
+        "private"
+    ]
+},
+  "bbox": [-95.702942,39.057468,-95.702942,39.057468],
+  "geometry": {"coordinates":[-95.702942,39.057468],"type":"Point"}
+}

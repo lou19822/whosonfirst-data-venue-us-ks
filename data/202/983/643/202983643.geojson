@@ -1,0 +1,80 @@
+{
+  "id": 202983643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.244652,37.741866,-97.244652,37.741866",
+    "geom:latitude":37.741866,
+    "geom:longitude":-97.244652,
+    "iso:country":"US",
+    "sg:address":"3236 N Rock Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 636 9464",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "chicken",
+        "style",
+        "american",
+        "family",
+        "take"
+    ],
+    "sg:website":"http://www.buffalowildwings.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X7uKuODNJkf4sWMGsw2iU_37.741866_-97.244652@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d1df4f6a83eb2094522f3db4538cadf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":202983643
+        }
+    ],
+    "wof:id":202983643,
+    "wof:lastmodified":1449062444,
+    "wof:name":"Buffalo Wild Wings",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "style",
+        "american",
+        "family",
+        "take"
+    ]
+},
+  "bbox": [-97.244652,37.741866,-97.244652,37.741866],
+  "geometry": {"coordinates":[-97.244652,37.741866],"type":"Point"}
+}

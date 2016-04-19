@@ -1,0 +1,70 @@
+{
+  "id": 169602979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.76516,38.366524,-98.76516,38.366524",
+    "geom:latitude":38.366524,
+    "geom:longitude":-98.76516,
+    "iso:country":"US",
+    "sg:address":"1400 Main St",
+    "sg:city":"Great Bend",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 793 1835",
+    "sg:postcode":"67530",
+    "sg:province":"KS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945269,
+        102083449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P7DyKwbFjhASQvIfUA8NU_38.366524_-98.765160@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11af0a249247b6d4886147a29792cb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083449,
+            "locality_id":85945269,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169602979
+        }
+    ],
+    "wof:id":169602979,
+    "wof:lastmodified":1449034229,
+    "wof:name":"Barton County Dist Court Clerk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [-98.76516,38.366524,-98.76516,38.366524],
+  "geometry": {"coordinates":[-98.76516,38.366524],"type":"Point"}
+}

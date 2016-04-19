@@ -1,0 +1,77 @@
+{
+  "id": 202951155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.742699,38.960041,-94.742699,38.960041",
+    "geom:latitude":38.960041,
+    "geom:longitude":-94.742699,
+    "iso:country":"US",
+    "sg:address":"13500 Santa Fe Trail Dr",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 599 3944",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "manufacturer",
+        "tobacco-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YXHmPDFoOBTAVENRzC2Zm_38.960041_-94.742699@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c61aea0bac2aedad8d2a4b10c586cac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":202951155
+        }
+    ],
+    "wof:id":202951155,
+    "wof:lastmodified":1449060207,
+    "wof:name":"Lenexa Smoke Shop",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "manufacturer",
+        "tobacco-wholesale"
+    ]
+},
+  "bbox": [-94.742699,38.960041,-94.742699,38.960041],
+  "geometry": {"coordinates":[-94.742699,38.960041],"type":"Point"}
+}

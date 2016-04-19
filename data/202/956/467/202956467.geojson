@@ -1,0 +1,75 @@
+{
+  "id": 202956467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.560355,39.17934,-96.560355,39.17934",
+    "geom:latitude":39.17934,
+    "geom:longitude":-96.560355,
+    "iso:country":"US",
+    "sg:address":"130 E Poyntz Ave",
+    "sg:city":"Manhattan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 537 6000",
+    "sg:postcode":"66502",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=5165&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945171,
+        102084179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RKDLshpkdxfgAB5sHYmxz_39.179340_-96.560355@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ed9041184f2f9eb7dd4202a6e2305c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084179,
+            "locality_id":85945171,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202956467
+        }
+    ],
+    "wof:id":202956467,
+    "wof:lastmodified":1449060528,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [-96.560355,39.17934,-96.560355,39.17934],
+  "geometry": {"coordinates":[-96.560355,39.17934],"type":"Point"}
+}

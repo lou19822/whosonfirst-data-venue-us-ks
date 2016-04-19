@@ -1,0 +1,73 @@
+{
+  "id": 202958623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.556651,38.777742,-95.556651,38.777742",
+    "geom:latitude":38.777742,
+    "geom:longitude":-95.556651,
+    "iso:country":"US",
+    "sg:address":"320 Maple St",
+    "sg:city":"Overbrook",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 665 7712",
+    "sg:postcode":"66524",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946263,
+        102083421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZcKVFaRW7D02BlhuTknH1_38.777742_-95.556651@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10bae54115bc1087f13d65713684ebe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083421,
+            "locality_id":85946263,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202958623
+        }
+    ],
+    "wof:id":202958623,
+    "wof:lastmodified":1449062100,
+    "wof:name":"USPS - United States Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-95.556651,38.777742,-95.556651,38.777742],
+  "geometry": {"coordinates":[-95.556651,38.777742],"type":"Point"}
+}

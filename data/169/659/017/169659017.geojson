@@ -1,0 +1,67 @@
+{
+  "id": 169659017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.050557,39.817389,-97.050557,39.817389",
+    "geom:latitude":39.817389,
+    "geom:longitude":-97.050557,
+    "iso:country":"US",
+    "sg:address":"137 E 3rd St",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 325 2750",
+    "sg:postcode":"66968",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946075,
+        102083411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jzUjK0Gzg39ITSfXj3rkO_39.817389_-97.050557@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c6db4a7301d1612ed3bc3e00c95d06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083411,
+            "locality_id":85946075,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169659017
+        }
+    ],
+    "wof:id":169659017,
+    "wof:lastmodified":1449033029,
+    "wof:name":"Jones Trash Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-97.050557,39.817389,-97.050557,39.817389],
+  "geometry": {"coordinates":[-97.050557,39.817389],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169651941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.023746,38.349115,-97.023746,38.349115",
+    "geom:latitude":38.349115,
+    "geom:longitude":-97.023746,
+    "iso:country":"US",
+    "sg:address":"208 W Santa Fe St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 382 2286",
+    "sg:postcode":"66861",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.cityofmarion.kansasgov.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946035,
+        102085315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kDc1YiDgngKxW0NVd7sCI_38.349115_-97.023746@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"950c5f706678202f55449945c9a2c0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085315,
+            "locality_id":85946035,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169651941
+        }
+    ],
+    "wof:id":169651941,
+    "wof:lastmodified":1449033347,
+    "wof:name":"Marion City Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [-97.023746,38.349115,-97.023746,38.349115],
+  "geometry": {"coordinates":[-97.023746,38.349115],"type":"Point"}
+}

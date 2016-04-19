@@ -1,0 +1,93 @@
+{
+  "id": 202981475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.325025,37.680765,-97.325025,37.680765",
+    "geom:latitude":37.680765,
+    "geom:longitude":-97.325025,
+    "iso:country":"US",
+    "sg:address":"408 S Ida St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 1440",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "power",
+        "switchboard",
+        "equipment-repair",
+        "wire",
+        "contractors-commercial",
+        "systems-maintenance",
+        "cable-electric"
+    ],
+    "sg:website":"http://www.brockmeyerinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tl6ys58C6qSbTF8cqBuCU_37.680765_-97.325025@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec5071953668bd0c4b21c2f95bc238fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872805,
+            "region_id":85688555,
+            "venue_id":202981475
+        }
+    ],
+    "wof:id":202981475,
+    "wof:lastmodified":1449062701,
+    "wof:name":"Brockmeyer Inc",
+    "wof:parent_id":85872805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "power",
+        "switchboard",
+        "equipment-repair",
+        "wire",
+        "contractors-commercial",
+        "systems-maintenance",
+        "cable-electric"
+    ]
+},
+  "bbox": [-97.325025,37.680765,-97.325025,37.680765],
+  "geometry": {"coordinates":[-97.325025,37.680765],"type":"Point"}
+}

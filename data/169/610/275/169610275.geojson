@@ -1,0 +1,66 @@
+{
+  "id": 169610275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.671147,38.987013,-94.671147,38.987013",
+    "geom:latitude":38.987013,
+    "geom:longitude":-94.671147,
+    "iso:country":"US",
+    "sg:address":"7843 Riley St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 649 7482",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e5sSV5LafwXge2TJygsE7_38.987013_-94.671147@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99d10a769c0fce98d8a79a3fdbf5a219",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879559,
+            "region_id":85688555,
+            "venue_id":169610275
+        }
+    ],
+    "wof:id":169610275,
+    "wof:lastmodified":1449035910,
+    "wof:name":"Park Apartments",
+    "wof:parent_id":85879559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-94.671147,38.987013,-94.671147,38.987013],
+  "geometry": {"coordinates":[-94.671147,38.987013],"type":"Point"}
+}

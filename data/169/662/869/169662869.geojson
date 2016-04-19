@@ -1,0 +1,65 @@
+{
+  "id": 169662869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.263968,37.341779,-95.263968,37.341779",
+    "geom:latitude":37.341779,
+    "geom:longitude":-95.263968,
+    "iso:country":"US",
+    "sg:address":"217 N Central Ave",
+    "sg:city":"Parsons",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 421 7068",
+    "sg:postcode":"67357",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945457,
+        102083423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57AcTxcYV5ZmbuywiicSpr_37.341779_-95.263968@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5b4cb2df506583720b7ade9133f863c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083423,
+            "locality_id":85945457,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169662869
+        }
+    ],
+    "wof:id":169662869,
+    "wof:lastmodified":1449034924,
+    "wof:name":"Parsons Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-95.263968,37.341779,-95.263968,37.341779],
+  "geometry": {"coordinates":[-95.263968,37.341779],"type":"Point"}
+}

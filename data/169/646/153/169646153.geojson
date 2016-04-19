@@ -1,0 +1,67 @@
+{
+  "id": 169646153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.537405,39.853942,-95.537405,39.853942",
+    "geom:latitude":39.853942,
+    "geom:longitude":-95.537405,
+    "iso:country":"US",
+    "sg:address":"106 N 7th St",
+    "sg:city":"Hiawatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 742 2231",
+    "sg:postcode":"66434",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945111,
+        102082685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Si6QLF2Yb5EOtW59u93jN_39.853942_-95.537405@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6ccb155deb85c8063d44872ee9f061f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082685,
+            "locality_id":85945111,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169646153
+        }
+    ],
+    "wof:id":169646153,
+    "wof:lastmodified":1449032608,
+    "wof:name":"Wachter Electric Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-95.537405,39.853942,-95.537405,39.853942],
+  "geometry": {"coordinates":[-95.537405,39.853942],"type":"Point"}
+}

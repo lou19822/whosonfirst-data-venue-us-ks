@@ -1,0 +1,65 @@
+{
+  "id": 169670497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.324021,39.757049,-99.324021,39.757049",
+    "geom:latitude":39.757049,
+    "geom:longitude":-99.324021,
+    "iso:country":"US",
+    "sg:address":"351 F St",
+    "sg:city":"Phillipsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 543 3182",
+    "sg:postcode":"67661",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946047,
+        102082123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08De8ZPzIpPea2r2GYrkoE_39.757049_-99.324021@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a27a54084eb66fc2292594c7f558708",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082123,
+            "locality_id":85946047,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169670497
+        }
+    ],
+    "wof:id":169670497,
+    "wof:lastmodified":1449033186,
+    "wof:name":"Charlie's Appliance Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-99.324021,39.757049,-99.324021,39.757049],
+  "geometry": {"coordinates":[-99.324021,39.757049],"type":"Point"}
+}

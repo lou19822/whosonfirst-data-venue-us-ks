@@ -1,0 +1,68 @@
+{
+  "id": 169611487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723724,38.974522,-94.723724,38.974522",
+    "geom:latitude":38.974522,
+    "geom:longitude":-94.723724,
+    "iso:country":"US",
+    "sg:address":"8626 Quivira Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 599 4444",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QVXpXcawWxkZkPTKfl0M5_38.974522_-94.723724@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"405ceebda0f378f4550f85bd2b41df35",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":169611487
+        }
+    ],
+    "wof:id":169611487,
+    "wof:lastmodified":1449035262,
+    "wof:name":"Arthur Murray Dance Studio",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-94.723724,38.974522,-94.723724,38.974522],
+  "geometry": {"coordinates":[-94.723724,38.974522],"type":"Point"}
+}

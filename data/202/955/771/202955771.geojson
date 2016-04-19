@@ -1,0 +1,90 @@
+{
+  "id": 202955771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.816208,38.909721,-95.816208,38.909721",
+    "geom:latitude":38.909721,
+    "geom:longitude":-95.816208,
+    "iso:country":"US",
+    "sg:address":"1150 Washington St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 256 7300",
+    "sg:postcode":"66402",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lawn",
+        "installation",
+        "wall",
+        "sprinklers-garden",
+        "contractor",
+        "maintenance",
+        "retaining",
+        "landscape"
+    ],
+    "sg:website":"http://www.staufferlawn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945461,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aHbRE87LIhYScLtbHzcZs_38.909721_-95.816208@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce4a8cfaaa1e5317ed4e5a84637c6216",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945461,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202955771
+        }
+    ],
+    "wof:id":202955771,
+    "wof:lastmodified":1449061852,
+    "wof:name":"Stauffer Lawn & Landscape",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "installation",
+        "wall",
+        "sprinklers-garden",
+        "contractor",
+        "maintenance",
+        "retaining",
+        "landscape"
+    ]
+},
+  "bbox": [-95.816208,38.909721,-95.816208,38.909721],
+  "geometry": {"coordinates":[-95.816208,38.909721],"type":"Point"}
+}

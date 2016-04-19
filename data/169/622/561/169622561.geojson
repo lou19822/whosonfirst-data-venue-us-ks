@@ -1,0 +1,69 @@
+{
+  "id": 169622561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.224192,38.943832,-95.224192,38.943832",
+    "geom:latitude":38.943832,
+    "geom:longitude":-95.224192,
+    "iso:country":"US",
+    "sg:address":"715 E 22nd St",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 843 9333",
+    "sg:postcode":"66046",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945709,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jGKmtq41rT7TH9jWdId2F_38.943832_-95.224192@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf043d5ebac57da75f98b76598f7400b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085347,
+            "locality_id":85945709,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169622561
+        }
+    ],
+    "wof:id":169622561,
+    "wof:lastmodified":1449035368,
+    "wof:name":"Automotive Machine & Prfrmnce",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [-95.224192,38.943832,-95.224192,38.943832],
+  "geometry": {"coordinates":[-95.224192,38.943832],"type":"Point"}
+}

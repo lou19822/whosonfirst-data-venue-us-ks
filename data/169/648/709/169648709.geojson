@@ -1,0 +1,67 @@
+{
+  "id": 169648709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.675754,39.045922,-95.675754,39.045922",
+    "geom:latitude":39.045922,
+    "geom:longitude":-95.675754,
+    "iso:country":"US",
+    "sg:address":"901 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 296 3185",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.kwo.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02HcSSPwEsghMygGXvj1cn_39.045922_-95.675754@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cb8d1634e35cf2e84c1cadfa90acced",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":169648709
+        }
+    ],
+    "wof:id":169648709,
+    "wof:lastmodified":1449033584,
+    "wof:name":"Water Office",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [-95.675754,39.045922,-95.675754,39.045922],
+  "geometry": {"coordinates":[-95.675754,39.045922],"type":"Point"}
+}

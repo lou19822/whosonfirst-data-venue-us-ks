@@ -1,0 +1,82 @@
+{
+  "id": 202918481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.988489,38.173143,-94.988489,38.173143",
+    "geom:latitude":38.173143,
+    "geom:longitude":-94.988489,
+    "iso:country":"US",
+    "sg:address":"10957 Ellington Rd",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 898 4202",
+    "sg:postcode":"66014",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "dog",
+        "clinic",
+        "veterinarian",
+        "furnishing",
+        "cat",
+        "store"
+    ],
+    "sg:website":"http://www.linncovet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N0PQXp8o7gObNNxOwwyW6_38.173143_-94.988489@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a88212d9b50ba01b97d9e43da17653f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202918481
+        }
+    ],
+    "wof:id":202918481,
+    "wof:lastmodified":1449061812,
+    "wof:name":"Linn County Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "dog",
+        "clinic",
+        "veterinarian",
+        "furnishing",
+        "cat",
+        "store"
+    ]
+},
+  "bbox": [-94.988489,38.173143,-94.988489,38.173143],
+  "geometry": {"coordinates":[-94.988489,38.173143],"type":"Point"}
+}

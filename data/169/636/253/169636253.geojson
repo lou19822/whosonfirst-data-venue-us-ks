@@ -1,0 +1,68 @@
+{
+  "id": 169636253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.726881,38.969649,-94.726881,38.969649",
+    "geom:latitude":38.969649,
+    "geom:longitude":-94.726881,
+    "iso:country":"US",
+    "sg:address":"12101 W 88th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 894 2000",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63sGWwo6nnx7atHm7QQamr_38.969649_-94.726881@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56dc20f473e4c292b86e3406c42ecc64",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":169636253
+        }
+    ],
+    "wof:id":169636253,
+    "wof:lastmodified":1449033989,
+    "wof:name":"Autopia Inc",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-94.726881,38.969649,-94.726881,38.969649],
+  "geometry": {"coordinates":[-94.726881,38.969649],"type":"Point"}
+}

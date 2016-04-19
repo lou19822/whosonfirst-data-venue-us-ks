@@ -1,0 +1,61 @@
+{
+  "id": 202963341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.622818,39.044258,-95.622818,39.044258",
+    "geom:latitude":39.044258,
+    "geom:longitude":-95.622818,
+    "iso:country":"US",
+    "sg:address":"600 SE Rice Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 6258",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:website":"http://caseys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102084175,
+        85881533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WGFP8s65cCupesyP7sYZR_39.044258_-95.622818@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c8928476c31d20b5e0e6c09d269fe26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":-1,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":202963341
+        }
+    ],
+    "wof:id":202963341,
+    "wof:lastmodified":1449060359,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.622818,39.044258,-95.622818,39.044258],
+  "geometry": {"coordinates":[-95.622818,39.044258],"type":"Point"}
+}

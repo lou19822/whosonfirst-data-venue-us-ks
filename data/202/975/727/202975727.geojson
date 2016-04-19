@@ -1,0 +1,68 @@
+{
+  "id": 202975727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.718425,37.440413,-94.718425,37.440413",
+    "geom:latitude":37.440413,
+    "geom:longitude":-94.718425,
+    "iso:country":"US",
+    "sg:address":"923 W Atkinson Rd",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1220",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A4tAI0hsTFCOf1sjN6XTS_37.440413_-94.718425@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb3f40fc97b0fb2853fe5ddc3b66cff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202975727
+        }
+    ],
+    "wof:id":202975727,
+    "wof:lastmodified":1449062304,
+    "wof:name":"Paul Vanbecelaere",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.718425,37.440413,-94.718425,37.440413],
+  "geometry": {"coordinates":[-94.718425,37.440413],"type":"Point"}
+}

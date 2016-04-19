@@ -1,0 +1,68 @@
+{
+  "id": 169662569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.687827,37.379979,-94.687827,37.379979",
+    "geom:latitude":37.379979,
+    "geom:longitude":-94.687827,
+    "iso:country":"US",
+    "sg:address":"1015 Mount Carmel Pl",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5900",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mzcxx6SIfHDJcLTASXi7g_37.379979_-94.687827@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19a02066b990231075850b6bb6f765f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":169662569
+        }
+    ],
+    "wof:id":169662569,
+    "wof:lastmodified":1449034924,
+    "wof:name":"Donald M Holsinger MD",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.687827,37.379979,-94.687827,37.379979],
+  "geometry": {"coordinates":[-94.687827,37.379979],"type":"Point"}
+}

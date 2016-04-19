@@ -1,0 +1,68 @@
+{
+  "id": 169633595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389242,37.644531,-97.389242,37.644531",
+    "geom:latitude":37.644531,
+    "geom:longitude":-97.389242,
+    "iso:country":"US",
+    "sg:address":"2909 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 5001",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iO0ekIeFl16MwAGDHZQM5_37.644531_-97.389242@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f5ee99ec1d350df3172c2f8ee2aaeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":169633595
+        }
+    ],
+    "wof:id":169633595,
+    "wof:lastmodified":1449035940,
+    "wof:name":"American Fence",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-97.389242,37.644531,-97.389242,37.644531],
+  "geometry": {"coordinates":[-97.389242,37.644531],"type":"Point"}
+}

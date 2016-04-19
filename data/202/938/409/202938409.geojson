@@ -1,0 +1,83 @@
+{
+  "id": 202938409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.854539,38.57853,-94.854539,38.57853",
+    "geom:latitude":38.57853,
+    "geom:longitude":-94.854539,
+    "iso:country":"US",
+    "sg:address":"1010 Hedge Ln",
+    "sg:city":"Paola",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 294 3611",
+    "sg:postcode":"66071",
+    "sg:province":"KS",
+    "sg:tags":[
+        "government-state",
+        "force",
+        "armed",
+        "recruiting"
+    ],
+    "sg:website":"http://www.arng.army.mil",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946431,
+        102085273
+    ],
+    "wof:brand_id":420575603,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GiFT8pezkb9r45qgX3cfr_38.578530_-94.854539@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6430e4576b12ed61a3bbd79fa4499012",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085273,
+            "locality_id":85946431,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202938409
+        }
+    ],
+    "wof:id":202938409,
+    "wof:lastmodified":1457209667,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "force",
+        "armed",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -94.854539,
+    38.57853,
+    -94.854539,
+    38.57853
+],
+  "geometry": {"coordinates":[-94.854539,38.57853],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169658695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.656107,39.045003,-94.656107,39.045003",
+    "geom:latitude":39.045003,
+    "geom:longitude":-94.656107,
+    "iso:country":"US",
+    "sg:address":"3100 S 24 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 722 3473",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.fsc-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85803445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11gQOE47ks5i9it6OywdWj_39.045003_-94.656107@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d76ab384d75a9ec8e099938aba0262a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85803445,
+            "region_id":85688555,
+            "venue_id":169658695
+        }
+    ],
+    "wof:id":169658695,
+    "wof:lastmodified":1449032613,
+    "wof:name":"FSC Inc",
+    "wof:parent_id":85803445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [-94.656107,39.045003,-94.656107,39.045003],
+  "geometry": {"coordinates":[-94.656107,39.045003],"type":"Point"}
+}

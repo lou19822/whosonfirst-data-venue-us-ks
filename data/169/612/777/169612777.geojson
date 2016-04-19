@@ -1,0 +1,65 @@
+{
+  "id": 169612777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.839532,38.001715,-100.839532,38.001715",
+    "geom:latitude":38.001715,
+    "geom:longitude":-100.839532,
+    "iso:country":"US",
+    "sg:address":"2222 E US Hwy 50",
+    "sg:city":"Garden City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 276 3201",
+    "sg:postcode":"67846",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946119,
+        102082153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27MHfsat9s5hN2JXBZ3bQG_38.001715_-100.839532@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"532297949a2f91409c578278b8b4cfb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082153,
+            "locality_id":85946119,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169612777
+        }
+    ],
+    "wof:id":169612777,
+    "wof:lastmodified":1449034131,
+    "wof:name":"Highway Patrol Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [-100.839532,38.001715,-100.839532,38.001715],
+  "geometry": {"coordinates":[-100.839532,38.001715],"type":"Point"}
+}

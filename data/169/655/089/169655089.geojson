@@ -1,0 +1,66 @@
+{
+  "id": 169655089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.779622,38.977925,-94.779622,38.977925",
+    "geom:latitude":38.977925,
+    "geom:longitude":-94.779622,
+    "iso:country":"US",
+    "sg:address":"8201 Renner Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 307 9393",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85812711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V18PsitMxsecHd5v87EnT_38.977925_-94.779622@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2bfa3ccef6f6ee0552163caf0ae3224",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85812711,
+            "region_id":85688555,
+            "venue_id":169655089
+        }
+    ],
+    "wof:id":169655089,
+    "wof:lastmodified":1449034587,
+    "wof:name":"Park Edge Apartments",
+    "wof:parent_id":85812711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-94.779622,38.977925,-94.779622,38.977925],
+  "geometry": {"coordinates":[-94.779622,38.977925],"type":"Point"}
+}

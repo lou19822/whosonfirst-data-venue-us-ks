@@ -1,0 +1,86 @@
+{
+  "id": 202944095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.657672,39.022179,-94.657672,39.022179",
+    "geom:latitude":39.022179,
+    "geom:longitude":-94.657672,
+    "iso:country":"US",
+    "sg:address":"6219 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Thrift Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 384 3321",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "churches-salvation",
+        "army"
+    ],
+    "sg:website":"http://www.salvationarmyusa.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53vqln28MHy2Lzb3yM5ftP_39.022179_-94.657672@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e52a07c1d7300340fd2eed736b06cfef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":202944095
+        }
+    ],
+    "wof:id":202944095,
+    "wof:lastmodified":1449061388,
+    "wof:name":"Salvation Army Family Store",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "churches-salvation",
+        "army"
+    ]
+},
+  "bbox": [-94.657672,39.022179,-94.657672,39.022179],
+  "geometry": {"coordinates":[-94.657672,39.022179],"type":"Point"}
+}

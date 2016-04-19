@@ -1,0 +1,66 @@
+{
+  "id": 169655513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.212289,38.416018,-96.212289,38.416018",
+    "geom:latitude":38.416018,
+    "geom:longitude":-96.212289,
+    "iso:country":"US",
+    "sg:address":"2506 W 15th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 1100",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ur0ppVR8eI8r8n2J4LbiZ_38.416018_-96.212289@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"704c4895b25c246b3f8a7fed55d6b412",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":169655513
+        }
+    ],
+    "wof:id":169655513,
+    "wof:lastmodified":1449034589,
+    "wof:name":"Audiology Clinic",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audiologists"
+    ]
+},
+  "bbox": [-96.212289,38.416018,-96.212289,38.416018],
+  "geometry": {"coordinates":[-96.212289,38.416018],"type":"Point"}
+}

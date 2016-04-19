@@ -1,0 +1,79 @@
+{
+  "id": 202965803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.747727,39.013159,-95.747727,39.013159",
+    "geom:latitude":39.013159,
+    "geom:longitude":-95.747727,
+    "iso:country":"US",
+    "sg:address":"2937 SW Mcclure Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 2321",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3byZAKma8lGGcRIgHxcjcH_39.013159_-95.747727@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e6fcc6c0b8bb9448893e666062eeb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":202965803
+        }
+    ],
+    "wof:id":202965803,
+    "wof:lastmodified":1449061871,
+    "wof:name":"Kensington Park Apartments",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-95.747727,39.013159,-95.747727,39.013159],
+  "geometry": {"coordinates":[-95.747727,39.013159],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169672777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.728031,38.971125,-94.728031,38.971125",
+    "geom:latitude":38.971125,
+    "geom:longitude":-94.728031,
+    "iso:country":"US",
+    "sg:address":"12210 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 6700",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ioflJQsksElYmQ589SbUd_38.971125_-94.728031@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf29cc9766a54fb4eb606e3f97b23280",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":169672777
+        }
+    ],
+    "wof:id":169672777,
+    "wof:lastmodified":1449032891,
+    "wof:name":"College Park Family Care Ctr",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.728031,38.971125,-94.728031,38.971125],
+  "geometry": {"coordinates":[-94.728031,38.971125],"type":"Point"}
+}

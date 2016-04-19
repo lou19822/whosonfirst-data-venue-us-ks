@@ -1,0 +1,90 @@
+{
+  "id": 202933047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.681292,38.619982,-94.681292,38.619982",
+    "geom:latitude":38.619982,
+    "geom:longitude":-94.681292,
+    "iso:country":"US",
+    "sg:address":"112 S Broadway St",
+    "sg:city":"Louisburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 837 4104",
+    "sg:postcode":"66053",
+    "sg:province":"KS",
+    "sg:tags":[
+        "industrial",
+        "supply",
+        "services-commercial",
+        "termite",
+        "bee",
+        "equipment",
+        "mothproofing",
+        "removal"
+    ],
+    "sg:website":"http://www.orkin.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946425,
+        102085273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ftjdNa07YJaf4JTO4fDfO_38.619982_-94.681292@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2478532b3dfe7dbbe06aac38328c489f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085273,
+            "locality_id":85946425,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202933047
+        }
+    ],
+    "wof:id":202933047,
+    "wof:lastmodified":1449060631,
+    "wof:name":"Orkin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "supply",
+        "services-commercial",
+        "termite",
+        "bee",
+        "equipment",
+        "mothproofing",
+        "removal"
+    ]
+},
+  "bbox": [-94.681292,38.619982,-94.681292,38.619982],
+  "geometry": {"coordinates":[-94.681292,38.619982],"type":"Point"}
+}

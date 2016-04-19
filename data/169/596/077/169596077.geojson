@@ -1,0 +1,68 @@
+{
+  "id": 169596077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.243876,37.693754,-97.243876,37.693754",
+    "geom:latitude":37.693754,
+    "geom:longitude":-97.243876,
+    "iso:country":"US",
+    "sg:address":"8127 E Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 681 3311",
+    "sg:postcode":"67206",
+    "sg:province":"KS",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85819881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R8QrjD78VR6PAE2CF7ivL_37.693754_-97.243876@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff931083bf819682e6a3433f238c5ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85819881,
+            "region_id":85688555,
+            "venue_id":169596077
+        }
+    ],
+    "wof:id":169596077,
+    "wof:lastmodified":1449034371,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85819881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [-97.243876,37.693754,-97.243876,37.693754],
+  "geometry": {"coordinates":[-97.243876,37.693754],"type":"Point"}
+}

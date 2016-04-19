@@ -1,0 +1,69 @@
+{
+  "id": 169641829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.906997,38.484482,-100.906997,38.484482",
+    "geom:latitude":38.484482,
+    "geom:longitude":-100.906997,
+    "iso:country":"US",
+    "sg:address":"303 Main St",
+    "sg:city":"Scott City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 872 3140",
+    "sg:postcode":"67871",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945289,
+        102083461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1upkfJWgeDTudnVJT1gXLK_38.484482_-100.906997@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94106af89c370e945d2b6f16eb3ef20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083461,
+            "locality_id":85945289,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169641829
+        }
+    ],
+    "wof:id":169641829,
+    "wof:lastmodified":1449035170,
+    "wof:name":"Elmer's Alignment Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [-100.906997,38.484482,-100.906997,38.484482],
+  "geometry": {"coordinates":[-100.906997,38.484482],"type":"Point"}
+}

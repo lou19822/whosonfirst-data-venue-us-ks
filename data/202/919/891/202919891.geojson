@@ -1,0 +1,86 @@
+{
+  "id": 202919891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.900009,39.251019,-94.900009,39.251019",
+    "geom:latitude":39.251019,
+    "geom:longitude":-94.900009,
+    "iso:country":"US",
+    "sg:address":"1205 N Main St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 1041",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "feed",
+        "petroleum-bottled",
+        "supplement",
+        "bulk",
+        "concentrate",
+        "gas-liquefied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945367,
+        102083429,
+        85844391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_553xB3jNeXNFerEMrESR97_39.251019_-94.900009@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c82dcc6cbe8d900d72e0353c81b44cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":202919891
+        }
+    ],
+    "wof:id":202919891,
+    "wof:lastmodified":1449062033,
+    "wof:name":"Leavenworth County Co-Op",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "petroleum-bottled",
+        "supplement",
+        "bulk",
+        "concentrate",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [-94.900009,39.251019,-94.900009,39.251019],
+  "geometry": {"coordinates":[-94.900009,39.251019],"type":"Point"}
+}

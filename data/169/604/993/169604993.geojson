@@ -1,0 +1,67 @@
+{
+  "id": 169604993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.504515,38.65794,-96.504515,38.65794",
+    "geom:latitude":38.65794,
+    "geom:longitude":-96.504515,
+    "iso:country":"US",
+    "sg:address":"400 Sunset Dr",
+    "sg:city":"Council Grove",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 767 5172",
+    "sg:postcode":"66846",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945547,
+        102083433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l4AFHQHYZVYW9MCrUsQZi_38.657940_-96.504515@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e156f381e297e1e28bbe83fe1d85a25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083433,
+            "locality_id":85945547,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169604993
+        }
+    ],
+    "wof:id":169604993,
+    "wof:lastmodified":1449035569,
+    "wof:name":"Council Grove Healthcare Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-96.504515,38.65794,-96.504515,38.65794],
+  "geometry": {"coordinates":[-96.504515,38.65794],"type":"Point"}
+}

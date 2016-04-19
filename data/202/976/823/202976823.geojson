@@ -1,0 +1,66 @@
+{
+  "id": 202976823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.687721,37.457958,-94.687721,37.457958",
+    "geom:latitude":37.457958,
+    "geom:longitude":-94.687721,
+    "iso:country":"US",
+    "sg:address":"200 N Linn St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1261",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OdyDsA4NOkKuLzX7slkDa_37.457958_-94.687721@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81119afacda7db9c86cb75ce48553401",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202976823
+        }
+    ],
+    "wof:id":202976823,
+    "wof:lastmodified":1449061164,
+    "wof:name":"Spigarelli Electric",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [-94.687721,37.457958,-94.687721,37.457958],
+  "geometry": {"coordinates":[-94.687721,37.457958],"type":"Point"}
+}

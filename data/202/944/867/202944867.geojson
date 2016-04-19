@@ -1,0 +1,68 @@
+{
+  "id": 202944867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.714686,39.02118,-94.714686,39.02118",
+    "geom:latitude":39.02118,
+    "geom:longitude":-94.714686,
+    "iso:country":"US",
+    "sg:address":"11111 W 59th Ter",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 962 2262",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z4jtMydJta7wPuL9viaoU_39.021180_-94.714686@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6415b1050097687ba50f7399db9e0241",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":202944867
+        }
+    ],
+    "wof:id":202944867,
+    "wof:lastmodified":1449061388,
+    "wof:name":"2th-Tech",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-94.714686,39.02118,-94.714686,39.02118],
+  "geometry": {"coordinates":[-94.714686,39.02118],"type":"Point"}
+}

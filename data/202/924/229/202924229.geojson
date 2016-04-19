@@ -1,0 +1,91 @@
+{
+  "id": 202924229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.921085,39.318054,-94.921085,39.318054",
+    "geom:latitude":39.318054,
+    "geom:longitude":-94.921085,
+    "iso:country":"US",
+    "sg:address":"744 Shawnee St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 651 0887",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "accessory",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "rebuilt",
+        "painting",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945369,
+        102083429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xmbo81Ou1yppYd1FaWHBY_39.318054_-94.921085@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95bd8c495f8dd5015297abc304052aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945369,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202924229
+        }
+    ],
+    "wof:id":202924229,
+    "wof:lastmodified":1449060828,
+    "wof:name":"American Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "accessory",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "rebuilt",
+        "painting",
+        "manufacturer"
+    ]
+},
+  "bbox": [-94.921085,39.318054,-94.921085,39.318054],
+  "geometry": {"coordinates":[-94.921085,39.318054],"type":"Point"}
+}

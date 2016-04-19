@@ -1,0 +1,67 @@
+{
+  "id": 169654193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.675918,38.978981,-94.675918,38.978981",
+    "geom:latitude":38.978981,
+    "geom:longitude":-94.675918,
+    "iso:country":"US",
+    "sg:address":"8220 Robinson St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 381 7700",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "sg:website":"www.pmhealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VTX7bjRZ13fawQNpbb26d_38.978981_-94.675918@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eabe46b8cfeb00adef3e855071a01bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879559,
+            "region_id":85688555,
+            "venue_id":169654193
+        }
+    ],
+    "wof:id":169654193,
+    "wof:lastmodified":1449033792,
+    "wof:name":"Preferred Mental Health",
+    "wof:parent_id":85879559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [-94.675918,38.978981,-94.675918,38.978981],
+  "geometry": {"coordinates":[-94.675918,38.978981],"type":"Point"}
+}

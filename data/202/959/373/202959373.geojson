@@ -1,0 +1,71 @@
+{
+  "id": 202959373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.680493,39.053634,-95.680493,39.053634",
+    "geom:latitude":39.053634,
+    "geom:longitude":-95.680493,
+    "iso:country":"US",
+    "sg:address":"610 SW 6th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 5181",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qL78rGFcwDSEGdtKj1ruq_39.053634_-95.680493@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"013aabfd0fc2d864e706bb128cbc0b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202959373
+        }
+    ],
+    "wof:id":202959373,
+    "wof:lastmodified":1449062391,
+    "wof:name":"Bates Furniture",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [-95.680493,39.053634,-95.680493,39.053634],
+  "geometry": {"coordinates":[-95.680493,39.053634],"type":"Point"}
+}

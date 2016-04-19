@@ -1,0 +1,73 @@
+{
+  "id": 202958935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.738731,38.780895,-95.738731,38.780895",
+    "geom:latitude":38.780895,
+    "geom:longitude":-95.738731,
+    "iso:country":"US",
+    "sg:address":"324 S Brownie Blvd",
+    "sg:city":"Scranton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 793 2773",
+    "sg:postcode":"66537",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946269,
+        102083421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZGU3sUWlskun9VZBVL6hv_38.780895_-95.738731@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"271d7bb0e207e25f51b7836541408359",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083421,
+            "locality_id":85946269,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202958935
+        }
+    ],
+    "wof:id":202958935,
+    "wof:lastmodified":1449062100,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-95.738731,38.780895,-95.738731,38.780895],
+  "geometry": {"coordinates":[-95.738731,38.780895],"type":"Point"}
+}

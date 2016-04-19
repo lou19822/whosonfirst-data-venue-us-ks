@@ -1,0 +1,69 @@
+{
+  "id": 202955295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.601098,38.986031,-95.601098,38.986031",
+    "geom:latitude":38.986031,
+    "geom:longitude":-95.601098,
+    "iso:country":"US",
+    "sg:address":"4144 SE 45th St",
+    "sg:city":"Berryton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 1918",
+    "sg:postcode":"66409",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.pawprintstopeka.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M3jmtoxt7hEcCoAhHsWom_38.986031_-95.601098@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38b8df505e0fc58c229cd8588f877545",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":202955295
+        }
+    ],
+    "wof:id":202955295,
+    "wof:lastmodified":1449061847,
+    "wof:name":"Robert D Johnson",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [-95.601098,38.986031,-95.601098,38.986031],
+  "geometry": {"coordinates":[-95.601098,38.986031],"type":"Point"}
+}

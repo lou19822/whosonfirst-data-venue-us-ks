@@ -1,0 +1,79 @@
+{
+  "id": 202950169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.648941,38.934769,-94.648941,38.934769",
+    "geom:latitude":38.934769,
+    "geom:longitude":-94.648941,
+    "iso:country":"US",
+    "sg:address":"10701 Nall Ave Ste 200",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 381 5225",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "orthopedics",
+        "surgeons",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85879577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RVEP7MphEhVdcs5tw3FZ9_38.934769_-94.648941@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8c1486b76210005b2c82028fcf32813",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":202950169
+        }
+    ],
+    "wof:id":202950169,
+    "wof:lastmodified":1449061111,
+    "wof:name":"Kansas City Bone & Joint Clinic P.A.",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "orthopedics",
+        "surgeons",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.648941,38.934769,-94.648941,38.934769],
+  "geometry": {"coordinates":[-94.648941,38.934769],"type":"Point"}
+}

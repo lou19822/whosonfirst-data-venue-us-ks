@@ -1,0 +1,67 @@
+{
+  "id": 169605929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.607974,38.893696,-94.607974,38.893696",
+    "geom:latitude":38.893696,
+    "geom:longitude":-94.607974,
+    "iso:country":"US",
+    "sg:address":"12900 State Line Rd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 338 2777",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945793,
+        102082673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79AInlpxBIYsSMzaU9GTm1_38.893696_-94.607974@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a118ba2e6f03ac176d2c9fc42a89783",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945793,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169605929
+        }
+    ],
+    "wof:id":169605929,
+    "wof:lastmodified":1449034288,
+    "wof:name":"Midwest Tire & Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-94.607974,38.893696,-94.607974,38.893696],
+  "geometry": {"coordinates":[-94.607974,38.893696],"type":"Point"}
+}

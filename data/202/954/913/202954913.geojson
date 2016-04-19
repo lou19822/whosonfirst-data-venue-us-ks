@@ -1,0 +1,73 @@
+{
+  "id": 202954913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.847549,39.034672,-94.847549,39.034672",
+    "geom:latitude":39.034672,
+    "geom:longitude":-94.847549,
+    "iso:country":"US",
+    "sg:address":"5216 Mccoy St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 4064",
+    "sg:postcode":"66226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945763,
+        102082673,
+        85835005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nZrdw0ETFzBu6nHqCaZtr_39.034672_-94.847549@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5280033fc12393422a0a8a37827f7ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945763,
+            "neighbourhood_id":85835005,
+            "region_id":85688555,
+            "venue_id":202954913
+        }
+    ],
+    "wof:id":202954913,
+    "wof:lastmodified":1449062328,
+    "wof:name":"Mcnally Dental Laboratory",
+    "wof:parent_id":85835005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-94.847549,39.034672,-94.847549,39.034672],
+  "geometry": {"coordinates":[-94.847549,39.034672],"type":"Point"}
+}

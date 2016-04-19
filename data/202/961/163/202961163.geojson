@@ -1,0 +1,97 @@
+{
+  "id": 202961163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.726379,39.04541,-95.726379,39.04541",
+    "geom:latitude":39.04541,
+    "geom:longitude":-95.726379,
+    "iso:country":"US",
+    "sg:address":"4000 SW 12th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 8876",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel",
+        "store"
+    ],
+    "sg:website":"http://www.gageanimalhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R3slo0bAFDPvH1WYtHGW4_39.045410_-95.726379@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdaa7bbab33c395991f931eaa3a14bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":202961163
+        }
+    ],
+    "wof:id":202961163,
+    "wof:lastmodified":1449062580,
+    "wof:name":"Gage Animal Hospital P.A.",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel",
+        "store"
+    ]
+},
+  "bbox": [-95.726379,39.04541,-95.726379,39.04541],
+  "geometry": {"coordinates":[-95.726379,39.04541],"type":"Point"}
+}

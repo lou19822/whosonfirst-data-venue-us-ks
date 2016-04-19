@@ -1,0 +1,76 @@
+{
+  "id": 202946495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.64797,39.02259,-94.64797,39.02259",
+    "geom:latitude":39.02259,
+    "geom:longitude":-94.64797,
+    "iso:country":"US",
+    "sg:address":"5427 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 403 1471",
+    "sg:postcode":"66205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaner",
+        "government-county",
+        "parish"
+    ],
+    "sg:website":"http://www.1-800-dryclean.com/KS/CentralJohnsonCounty",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945747,
+        102082673,
+        85879597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pIM1Ia2P0u6ZHADHEleqS_39.022590_-94.647970@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a6e1f30215d7bb440e05ff3aa73af9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":202946495
+        }
+    ],
+    "wof:id":202946495,
+    "wof:lastmodified":1449062345,
+    "wof:name":"1 800 Dryclean of Johnson County",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "government-county",
+        "parish"
+    ]
+},
+  "bbox": [-94.64797,39.02259,-94.64797,39.02259],
+  "geometry": {"coordinates":[-94.64797,39.02259],"type":"Point"}
+}

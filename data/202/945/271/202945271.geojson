@@ -1,0 +1,84 @@
+{
+  "id": 202945271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.691233,39.03577,-94.691233,39.03577",
+    "geom:latitude":39.03577,
+    "geom:longitude":-94.691233,
+    "iso:country":"US",
+    "sg:address":"9111 W 51st Ter",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 648 5300",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "vent",
+        "ceiling",
+        "restaurant",
+        "duct",
+        "air",
+        "dryer",
+        "degreasing"
+    ],
+    "sg:website":"http://www.midwestductcleaning.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945745,
+        102082673,
+        85879555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RXw6QO1oHECEWqxs0gmrz_39.035770_-94.691233@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1639ed58511b49b7220e9b74897d1078",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":202945271
+        }
+    ],
+    "wof:id":202945271,
+    "wof:lastmodified":1449060332,
+    "wof:name":"Midwest Duct Cleaning Service",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vent",
+        "ceiling",
+        "restaurant",
+        "duct",
+        "air",
+        "dryer",
+        "degreasing"
+    ]
+},
+  "bbox": [-94.691233,39.03577,-94.691233,39.03577],
+  "geometry": {"coordinates":[-94.691233,39.03577],"type":"Point"}
+}

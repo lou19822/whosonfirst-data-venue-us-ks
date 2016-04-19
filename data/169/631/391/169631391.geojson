@@ -1,0 +1,69 @@
+{
+  "id": 169631391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.610635,39.105099,-94.610635,39.105099",
+    "geom:latitude":39.105099,
+    "geom:longitude":-94.610635,
+    "iso:country":"US",
+    "sg:address":"45 N James St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 1225",
+    "sg:postcode":"66118",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T1aLWaJbWcjJEev2kfWkQ_39.105099_-94.610635@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7aca98686b6a973b912a33de5d49d2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169631391
+        }
+    ],
+    "wof:id":169631391,
+    "wof:lastmodified":1449033708,
+    "wof:name":"Brown Truck Leasing Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-94.610635,39.105099,-94.610635,39.105099],
+  "geometry": {"coordinates":[-94.610635,39.105099],"type":"Point"}
+}

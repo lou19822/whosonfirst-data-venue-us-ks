@@ -1,0 +1,83 @@
+{
+  "id": 202982051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.475014,37.69223,-97.475014,37.69223",
+    "geom:latitude":37.69223,
+    "geom:longitude":-97.475014,
+    "iso:country":"US",
+    "sg:address":"627 N Cardington St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 3739",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaner",
+        "plumber",
+        "industrial",
+        "repairer",
+        "sewer",
+        "contractors-commercial",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GCEK0D49jjU61buafs1vW_37.692230_-97.475014@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f84c8e8c023969394e333f9b475a7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":202982051
+        }
+    ],
+    "wof:id":202982051,
+    "wof:lastmodified":1449060532,
+    "wof:name":"Country Cottage Construction",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "plumber",
+        "industrial",
+        "repairer",
+        "sewer",
+        "contractors-commercial",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [-97.475014,37.69223,-97.475014,37.69223],
+  "geometry": {"coordinates":[-97.475014,37.69223],"type":"Point"}
+}

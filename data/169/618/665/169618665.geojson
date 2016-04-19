@@ -1,0 +1,67 @@
+{
+  "id": 169618665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.204601,38.9249,-97.204601,38.9249",
+    "geom:latitude":38.9249,
+    "geom:longitude":-97.204601,
+    "iso:country":"US",
+    "sg:address":"1111 N Brady St",
+    "sg:city":"Abilene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 263 4131",
+    "sg:postcode":"67410",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946305,
+        102082691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c1Y5AT8N42nDcFpggG7t0_38.924900_-97.204601@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1babe2f2f24594aacd73b9bfa23f9024",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082691,
+            "locality_id":85946305,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169618665
+        }
+    ],
+    "wof:id":169618665,
+    "wof:lastmodified":1449034737,
+    "wof:name":"Family Care Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-97.204601,38.9249,-97.204601,38.9249],
+  "geometry": {"coordinates":[-97.204601,38.9249],"type":"Point"}
+}

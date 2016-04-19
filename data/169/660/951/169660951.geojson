@@ -1,0 +1,66 @@
+{
+  "id": 169660951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.783742,38.869178,-94.783742,38.869178",
+    "geom:latitude":38.869178,
+    "geom:longitude":-94.783742,
+    "iso:country":"US",
+    "sg:address":"2030 E Sheridan St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 2241",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QxBRITfLD847z8VkhAe0V_38.869178_-94.783742@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"520b87d08ec97e39e7a0d784e1eab4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":169660951
+        }
+    ],
+    "wof:id":169660951,
+    "wof:lastmodified":1449035610,
+    "wof:name":"Order Test",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [-94.783742,38.869178,-94.783742,38.869178],
+  "geometry": {"coordinates":[-94.783742,38.869178],"type":"Point"}
+}

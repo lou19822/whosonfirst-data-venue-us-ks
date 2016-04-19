@@ -1,0 +1,77 @@
+{
+  "id": 202979879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.377957,37.700541,-97.377957,37.700541",
+    "geom:latitude":37.700541,
+    "geom:longitude":-97.377957,
+    "iso:country":"US",
+    "sg:address":"902 N Custer St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 6869",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaner",
+        "repairer",
+        "sewer",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66lmZd1UCr80H7jquuFHIZ_37.700541_-97.377957@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7632ed0e9d9cd00f2ee1cac79b5c092",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872833,
+            "region_id":85688555,
+            "venue_id":202979879
+        }
+    ],
+    "wof:id":202979879,
+    "wof:lastmodified":1449061889,
+    "wof:name":"Boardman Enterprises",
+    "wof:parent_id":85872833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "repairer",
+        "sewer",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [-97.377957,37.700541,-97.377957,37.700541],
+  "geometry": {"coordinates":[-97.377957,37.700541],"type":"Point"}
+}

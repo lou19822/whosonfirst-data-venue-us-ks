@@ -1,0 +1,81 @@
+{
+  "id": 202928263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899841,39.268828,-94.899841,39.268828",
+    "geom:latitude":39.268828,
+    "geom:longitude":-94.899841,
+    "iso:country":"US",
+    "sg:address":"5151 S 4th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 1040",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"http://www.citizensfsb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945367,
+        102083429,
+        85844391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HSUVgCEJdfTkqcNHDJnHp_39.268828_-94.899841@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90ac536c918e78346ab46d4be479c22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":202928263
+        }
+    ],
+    "wof:id":202928263,
+    "wof:lastmodified":1449062304,
+    "wof:name":"Citizens Savings & Loan Assoc FSB",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [-94.899841,39.268828,-94.899841,39.268828],
+  "geometry": {"coordinates":[-94.899841,39.268828],"type":"Point"}
+}

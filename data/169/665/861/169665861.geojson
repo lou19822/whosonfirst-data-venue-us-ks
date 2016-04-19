@@ -1,0 +1,66 @@
+{
+  "id": 169665861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.640723,39.115541,-94.640723,39.115541",
+    "geom:latitude":39.115541,
+    "geom:longitude":-94.640723,
+    "iso:country":"US",
+    "sg:address":"1101 Minnesota Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 621 0000",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85878505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pYBo19bMOuEVvSMXfhXrU_39.115541_-94.640723@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0df86728c133b75b679ab794da4e3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85878505,
+            "region_id":85688555,
+            "venue_id":169665861
+        }
+    ],
+    "wof:id":169665861,
+    "wof:lastmodified":1449033698,
+    "wof:name":"Ike C Automotive",
+    "wof:parent_id":85878505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-94.640723,39.115541,-94.640723,39.115541],
+  "geometry": {"coordinates":[-94.640723,39.115541],"type":"Point"}
+}

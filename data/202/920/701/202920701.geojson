@@ -1,0 +1,74 @@
+{
+  "id": 202920701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.901824,39.258906,-94.901824,39.258906",
+    "geom:latitude":39.258906,
+    "geom:longitude":-94.901824,
+    "iso:country":"US",
+    "sg:address":"617 Holiday Plz",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945367,
+        102083429,
+        85844391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RwWLjj4vNMw6CWQ03aOtP_39.258906_-94.901824@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1e1be5d2fcf410bab7a2d5624442ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":202920701
+        }
+    ],
+    "wof:id":202920701,
+    "wof:lastmodified":1449062083,
+    "wof:name":"USPS - United States Post Office - Lansing Branch",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-94.901824,39.258906,-94.901824,39.258906],
+  "geometry": {"coordinates":[-94.901824,39.258906],"type":"Point"}
+}

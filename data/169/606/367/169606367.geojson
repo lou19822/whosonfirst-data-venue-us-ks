@@ -1,0 +1,69 @@
+{
+  "id": 169606367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.856232,38.886181,-98.856232,38.886181",
+    "geom:latitude":38.886181,
+    "geom:longitude":-98.856232,
+    "iso:country":"US",
+    "sg:address":"26 US Hwy 281",
+    "sg:city":"Russell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 483 2313",
+    "sg:postcode":"67665",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945917,
+        102084163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48uaBWTg4sd8T8tNGFVZ5I_38.886181_-98.856232@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18911c96b59f3205a17eb88e8689bb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084163,
+            "locality_id":85945917,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169606367
+        }
+    ],
+    "wof:id":169606367,
+    "wof:lastmodified":1449033201,
+    "wof:name":"Bender's Radiator Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-98.856232,38.886181,-98.856232,38.886181],
+  "geometry": {"coordinates":[-98.856232,38.886181],"type":"Point"}
+}

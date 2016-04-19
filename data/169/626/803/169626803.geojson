@@ -1,0 +1,66 @@
+{
+  "id": 169626803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.850648,37.459799,-97.850648,37.459799",
+    "geom:latitude":37.459799,
+    "geom:longitude":-97.850648,
+    "iso:country":"US",
+    "sg:address":"129 N Somerset",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 478 2214",
+    "sg:postcode":"67118",
+    "sg:province":"KS",
+    "sg:tags":[
+        "foundry"
+    ],
+    "sg:website":"www.farrarusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946297,
+        102083455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mpF6OZ0ebuqm9j6qyvvqH_37.459799_-97.850648@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1fb3a728be94f1feddbdb6757dfc4b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083455,
+            "locality_id":85946297,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169626803
+        }
+    ],
+    "wof:id":169626803,
+    "wof:lastmodified":1449035973,
+    "wof:name":"Farrar Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry"
+    ]
+},
+  "bbox": [-97.850648,37.459799,-97.850648,37.459799],
+  "geometry": {"coordinates":[-97.850648,37.459799],"type":"Point"}
+}

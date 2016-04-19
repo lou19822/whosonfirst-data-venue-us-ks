@@ -1,0 +1,66 @@
+{
+  "id": 169646201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.687737,37.455056,-94.687737,37.455056",
+    "geom:latitude":37.455056,
+    "geom:longitude":-94.687737,
+    "iso:country":"US",
+    "sg:address":"403 E McKay St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1992",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TwMwCy7nQzOPUwBvL5Wmi_37.455056_-94.687737@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4418333ed31e53d40127e0a795559021",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":169646201
+        }
+    ],
+    "wof:id":169646201,
+    "wof:lastmodified":1449032610,
+    "wof:name":"Michael E Clark DDS",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-94.687737,37.455056,-94.687737,37.455056],
+  "geometry": {"coordinates":[-94.687737,37.455056],"type":"Point"}
+}

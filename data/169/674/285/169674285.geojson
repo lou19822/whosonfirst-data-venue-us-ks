@@ -1,0 +1,68 @@
+{
+  "id": 169674285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.196668,38.412304,-96.196668,38.412304",
+    "geom:latitude":38.412304,
+    "geom:longitude":-96.196668,
+    "iso:country":"US",
+    "sg:address":"1301 W 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6989",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lwo3kUtn3QB4w2iW3tUI7_38.412304_-96.196668@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"717b6905e7722615cb6b63e4bc5f428f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":169674285
+        }
+    ],
+    "wof:id":169674285,
+    "wof:lastmodified":1449035135,
+    "wof:name":"Reynolds & Anliker Eye Physcns",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-96.196668,38.412304,-96.196668,38.412304],
+  "geometry": {"coordinates":[-96.196668,38.412304],"type":"Point"}
+}

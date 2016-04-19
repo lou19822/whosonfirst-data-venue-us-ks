@@ -1,0 +1,70 @@
+{
+  "id": 169608921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.677073,39.056169,-94.677073,39.056169",
+    "geom:latitude":39.056169,
+    "geom:longitude":-94.677073,
+    "iso:country":"US",
+    "sg:address":"2507 S 42 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 8378",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85803445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59klBY6n1xcmEE5j4C53eK_39.056169_-94.677073@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"460e3d49ea2134af685f1f93c42b30b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85803445,
+            "region_id":85688555,
+            "venue_id":169608921
+        }
+    ],
+    "wof:id":169608921,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Dragnet Able On Site",
+    "wof:parent_id":85803445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [-94.677073,39.056169,-94.677073,39.056169],
+  "geometry": {"coordinates":[-94.677073,39.056169],"type":"Point"}
+}

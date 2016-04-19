@@ -1,0 +1,86 @@
+{
+  "id": 202978613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.415793,38.144711,-97.415793,38.144711",
+    "geom:latitude":38.144711,
+    "geom:longitude":-97.415793,
+    "iso:country":"US",
+    "sg:address":"1009 E Lincoln Blvd",
+    "sg:city":"Hesston",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Factory",
+            "type":"Public Place"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 553 0404",
+    "sg:postcode":"67062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "measuring",
+        "air",
+        "equipment",
+        "mitigation",
+        "radon",
+        "pollution"
+    ],
+    "sg:website":"http://www.heartlandenvironmental-ks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946437,
+        102083457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vTTwOsWfU2b6AJo9Nuzic_38.144711_-97.415793@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85e003f98e13d7959cf1e9e4db65ec5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083457,
+            "locality_id":85946437,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":202978613
+        }
+    ],
+    "wof:id":202978613,
+    "wof:lastmodified":1449061570,
+    "wof:name":"Heartland Environmental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "air",
+        "equipment",
+        "mitigation",
+        "radon",
+        "pollution"
+    ]
+},
+  "bbox": [-97.415793,38.144711,-97.415793,38.144711],
+  "geometry": {"coordinates":[-97.415793,38.144711],"type":"Point"}
+}

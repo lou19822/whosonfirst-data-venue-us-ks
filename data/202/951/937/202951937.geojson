@@ -1,0 +1,66 @@
+{
+  "id": 202951937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723577,38.976651,-94.723577,38.976651",
+    "geom:latitude":38.976651,
+    "geom:longitude":-94.723577,
+    "iso:country":"US",
+    "sg:address":"8355 Quivira Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 3652",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratories-clinical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hp5dIq7gyIduyKICXQbQt_38.976651_-94.723577@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90f54185f81924e15bb8ea0d1ad91c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":202951937
+        }
+    ],
+    "wof:id":202951937,
+    "wof:lastmodified":1449060206,
+    "wof:name":"Clinical Reference Laboratory",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-clinical"
+    ]
+},
+  "bbox": [-94.723577,38.976651,-94.723577,38.976651],
+  "geometry": {"coordinates":[-94.723577,38.976651],"type":"Point"}
+}

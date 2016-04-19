@@ -1,0 +1,66 @@
+{
+  "id": 169601659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.671888,39.054807,-95.671888,39.054807",
+    "geom:latitude":39.054807,
+    "geom:longitude":-95.671888,
+    "iso:country":"US",
+    "sg:address":"320 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 368 9494",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TuHdC8B4z3EvUCpsh6v1Y_39.054807_-95.671888@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71b2df700b29c92d56d2c49cc2f24f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":169601659
+        }
+    ],
+    "wof:id":169601659,
+    "wof:lastmodified":1449034147,
+    "wof:name":"Police Athletic League",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-95.671888,39.054807,-95.671888,39.054807],
+  "geometry": {"coordinates":[-95.671888,39.054807],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 202934059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.80018,38.883626,-94.80018,38.883626",
+    "geom:latitude":38.883626,
+    "geom:longitude":-94.80018,
+    "iso:country":"US",
+    "sg:address":"1120 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 6666",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fence",
+        "lumber-used",
+        "contractor",
+        "lumber",
+        "millwork",
+        "store",
+        "fence-sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Oc7uhCqlJ9od1VptYoeL5_38.883626_-94.800180@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7af197040406950cc061f013faa0c22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202934059
+        }
+    ],
+    "wof:id":202934059,
+    "wof:lastmodified":1449060227,
+    "wof:name":"Sutherlands",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "lumber-used",
+        "contractor",
+        "lumber",
+        "millwork",
+        "store",
+        "fence-sales"
+    ]
+},
+  "bbox": [-94.80018,38.883626,-94.80018,38.883626],
+  "geometry": {"coordinates":[-94.80018,38.883626],"type":"Point"}
+}

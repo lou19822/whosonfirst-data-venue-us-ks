@@ -1,0 +1,68 @@
+{
+  "id": 169653327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.876196,38.943732,-94.876196,38.943732",
+    "geom:latitude":38.943732,
+    "geom:longitude":-94.876196,
+    "iso:country":"US",
+    "sg:address":"26115 W Valley Pkwy",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 4434",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85812711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gqNex8dbnAtJGGsa5jqeu_38.943732_-94.876196@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88a1b8ddd4efea277b0703570737b4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85812711,
+            "region_id":85688555,
+            "venue_id":169653327
+        }
+    ],
+    "wof:id":169653327,
+    "wof:lastmodified":1449032915,
+    "wof:name":"Cedar Valley Health Care",
+    "wof:parent_id":85812711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-94.876196,38.943732,-94.876196,38.943732],
+  "geometry": {"coordinates":[-94.876196,38.943732],"type":"Point"}
+}

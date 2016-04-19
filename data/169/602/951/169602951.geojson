@@ -1,0 +1,67 @@
+{
+  "id": 169602951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.732969,38.971016,-94.732969,38.971016",
+    "geom:latitude":38.971016,
+    "geom:longitude":-94.732969,
+    "iso:country":"US",
+    "sg:address":"12500 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 477 7300",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.lenexapd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85879551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x2iOOhg3nLGKmCKiVJHUN_38.971016_-94.732969@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8afab032b2d87ee26bd9fd6a7451d995",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":169602951
+        }
+    ],
+    "wof:id":169602951,
+    "wof:lastmodified":1449034226,
+    "wof:name":"Lenexa Police Dept",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-94.732969,38.971016,-94.732969,38.971016],
+  "geometry": {"coordinates":[-94.732969,38.971016],"type":"Point"}
+}

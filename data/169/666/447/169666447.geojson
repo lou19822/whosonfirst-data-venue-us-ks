@@ -1,0 +1,71 @@
+{
+  "id": 169666447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.267151,37.336781,-95.267151,37.336781",
+    "geom:latitude":37.336781,
+    "geom:longitude":-95.267151,
+    "iso:country":"US",
+    "sg:address":"2023 Grand Ave",
+    "sg:city":"Parsons",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 423 3133",
+    "sg:postcode":"67357",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945457,
+        102083423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1itFrh69lWnuP28pJCpZvY_37.336781_-95.267151@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5ce39aa586622b3a3a516fd406c3fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083423,
+            "locality_id":85945457,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169666447
+        }
+    ],
+    "wof:id":169666447,
+    "wof:lastmodified":1449033898,
+    "wof:name":"Tim's Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [-95.267151,37.336781,-95.267151,37.336781],
+  "geometry": {"coordinates":[-95.267151,37.336781],"type":"Point"}
+}

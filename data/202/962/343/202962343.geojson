@@ -1,0 +1,82 @@
+{
+  "id": 202962343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.692541,39.05835,-95.692541,39.05835",
+    "geom:latitude":39.05835,
+    "geom:longitude":-95.692541,
+    "iso:country":"US",
+    "sg:address":"503 SW Washburn Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 2309",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "super",
+        "product",
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68KMa9AAUVgwkSB1iLHCm6_39.058350_-95.692541@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc879a880dfb7a4be12f7c05b40410ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881561,
+            "region_id":85688555,
+            "venue_id":202962343
+        }
+    ],
+    "wof:id":202962343,
+    "wof:lastmodified":1449061606,
+    "wof:name":"Topeka Natural Food Co-Op",
+    "wof:parent_id":85881561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "product",
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [-95.692541,39.05835,-95.692541,39.05835],
+  "geometry": {"coordinates":[-95.692541,39.05835],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169622101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.449059,37.621824,-97.449059,37.621824",
+    "geom:latitude":37.621824,
+    "geom:longitude":-97.449059,
+    "iso:country":"US",
+    "sg:address":"9333 W Macarthur Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 2252",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85852945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nr2fqdBNAFLeUkW6BhLcN_37.621824_-97.449059@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f21aa5d12b705f3a8bc57c49bced5b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85852945,
+            "region_id":85688555,
+            "venue_id":169622101
+        }
+    ],
+    "wof:id":169622101,
+    "wof:lastmodified":1449035367,
+    "wof:name":"Pumpkin Junction",
+    "wof:parent_id":85852945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [-97.449059,37.621824,-97.449059,37.621824],
+  "geometry": {"coordinates":[-97.449059,37.621824],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 202962765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.669152,39.050308,-95.669152,39.050308",
+    "geom:latitude":39.050308,
+    "geom:longitude":-95.669152,
+    "iso:country":"US",
+    "sg:address":"620 SE Madison St Ste 304",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 368 3161",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WxCvSjhm6JXIOSOkvi9DM_39.050308_-95.669152@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3182eec0b44bbafb2697547318d48f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202962765
+        }
+    ],
+    "wof:id":202962765,
+    "wof:lastmodified":1449061607,
+    "wof:name":"Topeka Code Compliance Svc",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [-95.669152,39.050308,-95.669152,39.050308],
+  "geometry": {"coordinates":[-95.669152,39.050308],"type":"Point"}
+}

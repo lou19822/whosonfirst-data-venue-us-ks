@@ -1,0 +1,76 @@
+{
+  "id": 202976111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.7033,37.413129,-94.7033,37.413129",
+    "geom:latitude":37.413129,
+    "geom:longitude":-94.7033,
+    "iso:country":"US",
+    "sg:address":"602 N Locust St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 3570",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "justice",
+        "parish",
+        "government-county"
+    ],
+    "sg:website":"http://www.crawfordcohd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33PUITJW6fQQkxC2dJE67I_37.413129_-94.703300@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57313755cae85b2c083b924a95f159e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":202976111
+        }
+    ],
+    "wof:id":202976111,
+    "wof:lastmodified":1449061164,
+    "wof:name":"Crawford County District Court",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [-94.7033,37.413129,-94.7033,37.413129],
+  "geometry": {"coordinates":[-94.7033,37.413129],"type":"Point"}
+}

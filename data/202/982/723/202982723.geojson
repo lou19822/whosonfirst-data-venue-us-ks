@@ -1,0 +1,70 @@
+{
+  "id": 202982723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.393696,37.640219,-97.393696,37.640219",
+    "geom:latitude":37.640219,
+    "geom:longitude":-97.393696,
+    "iso:country":"US",
+    "sg:address":"4321 W 29th Cir S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 3600",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12vQHyFHQhhxdLCoTdrjlK_37.640219_-97.393696@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e032ecc1f87a3d863884fd71f6a87d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":202982723
+        }
+    ],
+    "wof:id":202982723,
+    "wof:lastmodified":1449060532,
+    "wof:name":"Interstate Mechanical Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [-97.393696,37.640219,-97.393696,37.640219],
+  "geometry": {"coordinates":[-97.393696,37.640219],"type":"Point"}
+}

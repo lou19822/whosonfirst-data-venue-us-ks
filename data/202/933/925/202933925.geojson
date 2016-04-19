@@ -1,0 +1,76 @@
+{
+  "id": 202933925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.810148,38.885621,-94.810148,38.885621",
+    "geom:latitude":38.885621,
+    "geom:longitude":-94.810148,
+    "iso:country":"US",
+    "sg:address":"513 E Kansas City Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 768 8667",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "scooters-repairing",
+        "scooters-parts",
+        "supply"
+    ],
+    "sg:website":"http://www.smitherscustoms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945795,
+        102082673,
+        85828983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dd1tA911jfuhJQJ2rbrDE_38.885621_-94.810148@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"251b18fff02a3b77e284f0feccd6bf18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945795,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":202933925
+        }
+    ],
+    "wof:id":202933925,
+    "wof:lastmodified":1449060629,
+    "wof:name":"Smithers Customs",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-repairing",
+        "scooters-parts",
+        "supply"
+    ]
+},
+  "bbox": [-94.810148,38.885621,-94.810148,38.885621],
+  "geometry": {"coordinates":[-94.810148,38.885621],"type":"Point"}
+}

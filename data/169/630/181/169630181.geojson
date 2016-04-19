@@ -1,0 +1,67 @@
+{
+  "id": 169630181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.931645,38.051037,-97.931645,38.051037",
+    "geom:latitude":38.051037,
+    "geom:longitude":-97.931645,
+    "iso:country":"US",
+    "sg:address":"16 E Ave A",
+    "sg:city":"Hutchinson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 664 6990",
+    "sg:postcode":"67501",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945379,
+        102082171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TdId7GyEUkpqr2niV9qSj_38.051037_-97.931645@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d6131e01313751eca02f2406a8f66ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082171,
+            "locality_id":85945379,
+            "neighbourhood_id":-1,
+            "region_id":85688555,
+            "venue_id":169630181
+        }
+    ],
+    "wof:id":169630181,
+    "wof:lastmodified":1449033871,
+    "wof:name":"Performance Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.931645,38.051037,-97.931645,38.051037],
+  "geometry": {"coordinates":[-97.931645,38.051037],"type":"Point"}
+}

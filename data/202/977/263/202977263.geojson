@@ -1,0 +1,85 @@
+{
+  "id": 202977263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.106149,37.708518,-97.106149,37.708518",
+    "geom:latitude":37.708518,
+    "geom:longitude":-97.106149,
+    "iso:country":"US",
+    "sg:address":"2509 E 13th St",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 4783",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0784DgK16m9SfQhhDdZVyJ_37.708518_-97.106149@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4a455566821d09c59ebc5eafe7d46d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":202977263
+        }
+    ],
+    "wof:id":202977263,
+    "wof:lastmodified":1449062730,
+    "wof:name":"West Plumbing",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [-97.106149,37.708518,-97.106149,37.708518],
+  "geometry": {"coordinates":[-97.106149,37.708518],"type":"Point"}
+}

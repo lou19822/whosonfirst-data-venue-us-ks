@@ -1,0 +1,68 @@
+{
+  "id": 202965387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.679552,39.048286,-95.679552,39.048286",
+    "geom:latitude":39.048286,
+    "geom:longitude":-95.679552,
+    "iso:country":"US",
+    "sg:address":"915 SW Harrison St Fl 1",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 296 3963",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "license",
+        "registration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aTlqKgf5TV7R6xKv7T8nZ_39.048286_-95.679552@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"929994b324087745cf6abedc3b76b3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":202965387
+        }
+    ],
+    "wof:id":202965387,
+    "wof:lastmodified":1449061867,
+    "wof:name":"Driver's Revenue",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "license",
+        "registration"
+    ]
+},
+  "bbox": [-95.679552,39.048286,-95.679552,39.048286],
+  "geometry": {"coordinates":[-95.679552,39.048286],"type":"Point"}
+}

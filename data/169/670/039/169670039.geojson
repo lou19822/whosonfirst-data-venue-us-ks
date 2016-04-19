@@ -1,0 +1,73 @@
+{
+  "id": 169670039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.763362,39.116459,-94.763362,39.116459",
+    "geom:latitude":39.116459,
+    "geom:longitude":-94.763362,
+    "iso:country":"US",
+    "sg:address":"7848 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 788 3418",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945801,
+        102082163,
+        85878509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gvdMg9tr9vbGB8g8k4Vmh_39.116459_-94.763362@1294126544"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31b00d5467a9d726275e54ad5a34df13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082163,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":169670039
+        }
+    ],
+    "wof:id":169670039,
+    "wof:lastmodified":1449033187,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-94.763362,39.116459,-94.763362,39.116459],
+  "geometry": {"coordinates":[-94.763362,39.116459],"type":"Point"}
+}
