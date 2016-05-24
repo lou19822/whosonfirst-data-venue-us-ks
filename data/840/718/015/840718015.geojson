@@ -1,0 +1,73 @@
+{
+  "id": 840718015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.454787,37.689839,-97.454787,37.689839",
+    "geom:latitude":37.689839,
+    "geom:longitude":-97.454787,
+    "iso:country":"US",
+    "sg:address":"9601 W 3rd St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 8260",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X8NI9qvrWjW3V5jDLL8YX_37.689839_-97.454787@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046458,
+    "wof:geomhash":"4c2e0931f0c6a3e687e1a96924cba48f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840718015
+        }
+    ],
+    "wof:id":840718015,
+    "wof:lastmodified":1464046458,
+    "wof:name":"Alliance Electrical Contr",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.454787,
+    37.689839,
+    -97.454787,
+    37.689839
+],
+  "geometry": {"coordinates":[-97.454787,37.689839],"type":"Point"}
+}

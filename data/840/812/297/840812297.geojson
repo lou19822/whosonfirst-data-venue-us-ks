@@ -1,0 +1,71 @@
+{
+  "id": 840812297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.684059,39.026599,-95.684059,39.026599",
+    "geom:latitude":39.026599,
+    "geom:longitude":-95.684059,
+    "iso:country":"US",
+    "sg:address":"2331 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 575 6825",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:website":"www.topeka.k12.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881563,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aG9fgpylPegD6fHRNC19s_39.026599_-95.684059@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048514,
+    "wof:geomhash":"365db8b90772b28a31b08374b5ae3941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881563,
+            "region_id":85688555,
+            "venue_id":840812297
+        }
+    ],
+    "wof:id":840812297,
+    "wof:lastmodified":1464048514,
+    "wof:name":"Quinton Heights Elementary",
+    "wof:parent_id":85881563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.684059,
+    39.026599,
+    -95.684059,
+    39.026599
+],
+  "geometry": {"coordinates":[-95.684059,39.026599],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840606569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.644652,39.089171,-94.644652,39.089171",
+    "geom:latitude":39.089171,
+    "geom:longitude":-94.644652,
+    "iso:country":"US",
+    "sg:address":"508 S 14 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 281 4652",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878487,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aOdKx1SQPGtq5MPF4gf9l_39.089171_-94.644652@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043815,
+    "wof:geomhash":"379022d1ec62c0ef1a8623fca7c6b439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878487,
+            "region_id":85688555,
+            "venue_id":840606569
+        }
+    ],
+    "wof:id":840606569,
+    "wof:lastmodified":1464043815,
+    "wof:name":"Schill Leasing",
+    "wof:parent_id":85878487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -94.644652,
+    39.089171,
+    -94.644652,
+    39.089171
+],
+  "geometry": {"coordinates":[-94.64465199999999,39.089171],"type":"Point"}
+}

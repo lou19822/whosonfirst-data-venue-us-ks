@@ -1,0 +1,73 @@
+{
+  "id": 840798949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.406365,37.593258,-97.406365,37.593258",
+    "geom:latitude":37.593258,
+    "geom:longitude":-97.406365,
+    "iso:country":"US",
+    "sg:address":"5550 W 55th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 3633",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sOC1YypdGLw7jcbmEK5m7_37.593258_-97.406365@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048181,
+    "wof:geomhash":"557e11018cf6964ff94378ea5499b928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840798949
+        }
+    ],
+    "wof:id":840798949,
+    "wof:lastmodified":1464048181,
+    "wof:name":"Waste Disposal",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -97.406365,
+    37.593258,
+    -97.406365,
+    37.593258
+],
+  "geometry": {"coordinates":[-97.40636499999999,37.593258],"type":"Point"}
+}

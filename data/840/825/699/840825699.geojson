@@ -1,0 +1,75 @@
+{
+  "id": 840825699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.659977,39.090679,-95.659977,39.090679",
+    "geom:latitude":39.090679,
+    "geom:longitude":-95.659977,
+    "iso:country":"US",
+    "sg:address":"2126 N Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 1848",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tEzprkBi8zkZiXB8nbZoL_39.090679_-95.659977@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048904,
+    "wof:geomhash":"b782813c0b4d57c69c4b654d4619c0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840825699
+        }
+    ],
+    "wof:id":840825699,
+    "wof:lastmodified":1464048904,
+    "wof:name":"Walt's North Topeka Collision",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.659977,
+    39.090679,
+    -95.659977,
+    39.090679
+],
+  "geometry": {"coordinates":[-95.659977,39.090679],"type":"Point"}
+}

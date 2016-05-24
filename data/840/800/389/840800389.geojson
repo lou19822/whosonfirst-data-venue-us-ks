@@ -1,0 +1,75 @@
+{
+  "id": 840800389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.359326,37.665914,-97.359326,37.665914",
+    "geom:latitude":37.665914,
+    "geom:longitude":-97.359326,
+    "iso:country":"US",
+    "sg:address":"1617 W Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 5061",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872823,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3afnxMn9mLxXRLCXVX5vRb_37.665914_-97.359326@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048211,
+    "wof:geomhash":"fbea9cc63245ba1c595138a2e7feecc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872823,
+            "region_id":85688555,
+            "venue_id":840800389
+        }
+    ],
+    "wof:id":840800389,
+    "wof:lastmodified":1464048211,
+    "wof:name":"Admiral Authorized Svc",
+    "wof:parent_id":85872823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -97.359326,
+    37.665914,
+    -97.359326,
+    37.665914
+],
+  "geometry": {"coordinates":[-97.359326,37.665914],"type":"Point"}
+}

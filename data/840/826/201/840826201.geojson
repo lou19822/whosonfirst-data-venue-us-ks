@@ -1,0 +1,71 @@
+{
+  "id": 840826201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444386,37.727501,-97.444386,37.727501",
+    "geom:latitude":37.727501,
+    "geom:longitude":-97.444386,
+    "iso:country":"US",
+    "sg:address":"2240 N Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 1601",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZwedkUg8essoZuEAydnVo_37.727501_-97.444386@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048916,
+    "wof:geomhash":"6534b8a531b911b96b3c1d11454c8bac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840826201
+        }
+    ],
+    "wof:id":840826201,
+    "wof:lastmodified":1464048916,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -97.444386,
+    37.727501,
+    -97.444386,
+    37.727501
+],
+  "geometry": {"coordinates":[-97.44438599999999,37.727501],"type":"Point"}
+}

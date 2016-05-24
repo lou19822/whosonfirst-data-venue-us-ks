@@ -1,0 +1,71 @@
+{
+  "id": 840946531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.695892,37.428112,-94.695892,37.428112",
+    "geom:latitude":37.428112,
+    "geom:longitude":-94.695892,
+    "iso:country":"US",
+    "sg:address":"2201 N Michigan St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 3143",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BqNSrpi5OH1ys5H6d0zXS_37.428112_-94.695892@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051580,
+    "wof:geomhash":"5f51055d48d384b1c1e30f0eea8b50c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840946531
+        }
+    ],
+    "wof:id":840946531,
+    "wof:lastmodified":1464051580,
+    "wof:name":"Buddee's",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -94.695892,
+    37.428112,
+    -94.695892,
+    37.428112
+],
+  "geometry": {"coordinates":[-94.695892,37.428112],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840759851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.829888,39.063209,-94.829888,39.063209",
+    "geom:latitude":39.063209,
+    "geom:longitude":-94.829888,
+    "iso:country":"US",
+    "sg:address":"10651 Kaw Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 422 0224",
+    "sg:postcode":"66111",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810945,
+        102191575,
+        404504873,
+        85633793,
+        85945799,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mlWQEH01IrBzxg1wNsJ3j_39.063209_-94.829888@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047335,
+    "wof:geomhash":"1ce3d3c93171b1466ca6edaa5869bc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504873,
+            "locality_id":85945799,
+            "neighbourhood_id":85810945,
+            "region_id":85688555,
+            "venue_id":840759851
+        }
+    ],
+    "wof:id":840759851,
+    "wof:lastmodified":1464047335,
+    "wof:name":"Kansas City Plumbing Co",
+    "wof:parent_id":85810945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.829888,
+    39.063209,
+    -94.829888,
+    39.063209
+],
+  "geometry": {"coordinates":[-94.829888,39.063209],"type":"Point"}
+}

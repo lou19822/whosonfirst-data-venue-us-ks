@@ -1,0 +1,73 @@
+{
+  "id": 840590781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.646143,39.044194,-95.646143,39.044194",
+    "geom:latitude":39.044194,
+    "geom:longitude":-95.646143,
+    "iso:country":"US",
+    "sg:address":"2305 SE 10th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 6464",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "flea",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uzfMgnzasNz2vHeikpHWz_39.044194_-95.646143@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043439,
+    "wof:geomhash":"4d9da6711b4054913b43e2af190dc3a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840590781
+        }
+    ],
+    "wof:id":840590781,
+    "wof:lastmodified":1464043439,
+    "wof:name":"G & S Flea Market",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flea",
+        "market"
+    ]
+},
+  "bbox": [
+    -95.646143,
+    39.044194,
+    -95.646143,
+    39.044194
+],
+  "geometry": {"coordinates":[-95.646143,39.044194],"type":"Point"}
+}

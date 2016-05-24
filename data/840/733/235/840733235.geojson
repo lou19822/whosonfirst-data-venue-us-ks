@@ -1,0 +1,73 @@
+{
+  "id": 840733235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.398499,37.682631,-97.398499,37.682631",
+    "geom:latitude":37.682631,
+    "geom:longitude":-97.398499,
+    "iso:country":"US",
+    "sg:address":"234 S Anna St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 2028",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zcj1zuyRr2rKN2hnD4ApN_37.682631_-97.398499@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046768,
+    "wof:geomhash":"6382581aff3b78130e34bc1f7a1fc41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840733235
+        }
+    ],
+    "wof:id":840733235,
+    "wof:lastmodified":1464046768,
+    "wof:name":"Mothers & Others Long Term",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -97.398499,
+    37.682631,
+    -97.398499,
+    37.682631
+],
+  "geometry": {"coordinates":[-97.398499,37.682631],"type":"Point"}
+}

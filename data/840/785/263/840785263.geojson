@@ -1,0 +1,73 @@
+{
+  "id": 840785263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.704545,38.940364,-95.704545,38.940364",
+    "geom:latitude":38.940364,
+    "geom:longitude":-95.704545,
+    "iso:country":"US",
+    "sg:address":"7000 SW Arborhaven Ln",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 9200",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_066M49SH8jPSX5mYuIGZ9p_38.940364_-95.704545@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047862,
+    "wof:geomhash":"30c9de315c0755d9dbd1059c25843116",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840785263
+        }
+    ],
+    "wof:id":840785263,
+    "wof:lastmodified":1464047862,
+    "wof:name":"Drain Co",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.704545,
+    38.940364,
+    -95.704545,
+    38.940364
+],
+  "geometry": {"coordinates":[-95.704545,38.940364],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840766957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.164398,37.737938,-97.164398,37.737938",
+    "geom:latitude":37.737938,
+    "geom:longitude":-97.164398,
+    "iso:country":"US",
+    "sg:address":"15130 E 29th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 258 0111",
+    "sg:postcode":"67228",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85829403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I6VkxGViBpagBUwhP8MTA_37.737938_-97.164398@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047501,
+    "wof:geomhash":"dd706f709b623054e9dc0e8d2680203a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85829403,
+            "region_id":85688555,
+            "venue_id":840766957
+        }
+    ],
+    "wof:id":840766957,
+    "wof:lastmodified":1464047501,
+    "wof:name":"Wichita Equine & Sports Mdcn",
+    "wof:parent_id":85829403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.164398,
+    37.737938,
+    -97.164398,
+    37.737938
+],
+  "geometry": {"coordinates":[-97.16439800000001,37.737938],"type":"Point"}
+}

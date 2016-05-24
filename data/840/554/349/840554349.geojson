@@ -1,0 +1,75 @@
+{
+  "id": 840554349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.31196,37.687734,-97.31196,37.687734",
+    "geom:latitude":37.687734,
+    "geom:longitude":-97.31196,
+    "iso:country":"US",
+    "sg:address":"120 N Ash St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 3066",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R05rAZrvlBBhGpWW6bCgN_37.687734_-97.311960@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042613,
+    "wof:geomhash":"4512817dc9a400feb0f1bf2c41d84aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840554349
+        }
+    ],
+    "wof:id":840554349,
+    "wof:lastmodified":1464042613,
+    "wof:name":"Alcoholics Anonymous",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -97.31196,
+    37.687734,
+    -97.31196,
+    37.687734
+],
+  "geometry": {"coordinates":[-97.31196,37.687734],"type":"Point"}
+}

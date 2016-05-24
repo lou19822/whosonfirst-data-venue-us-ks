@@ -1,0 +1,78 @@
+{
+  "id": 856707115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687536,39.012103,-95.687536,39.012103",
+    "geom:latitude":39.012103,
+    "geom:longitude":-95.687536,
+    "iso:country":"US",
+    "sg:address":"3110 SW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/200415-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 5722",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881549,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kqVBCLiPQDN2XIWon3tRI_39.012103_-95.687536@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052210,
+    "wof:geomhash":"17ac7cccd780aaf56df54f980d5f80e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":856707115
+        }
+    ],
+    "wof:id":856707115,
+    "wof:lastmodified":1464052210,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.687536,
+    39.012103,
+    -95.687536,
+    39.012103
+],
+  "geometry": {"coordinates":[-95.68753599999999,39.012103],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840807217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.480895,37.764365,-97.480895,37.764365",
+    "geom:latitude":37.764365,
+    "geom:longitude":-97.480895,
+    "iso:country":"US",
+    "sg:address":"4313 N 119th St W",
+    "sg:city":"Maize",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 8686",
+    "sg:postcode":"67101",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mis7yMNaky8mBlcnh8zMP_37.764365_-97.480895@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048343,
+    "wof:geomhash":"2ed1648f7c0e078713396f6ed63dc6c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840807217
+        }
+    ],
+    "wof:id":840807217,
+    "wof:lastmodified":1464048343,
+    "wof:name":"Comfort Homes Inc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.480895,
+    37.764365,
+    -97.480895,
+    37.764365
+],
+  "geometry": {"coordinates":[-97.480895,37.764365],"type":"Point"}
+}

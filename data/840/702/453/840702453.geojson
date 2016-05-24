@@ -1,0 +1,79 @@
+{
+  "id": 840702453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.57612,39.078092,-94.57612,39.078092",
+    "geom:latitude":39.078092,
+    "geom:longitude":-94.57612,
+    "iso:country":"US",
+    "sg:address":"2615 Holmes St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 474 4272",
+    "sg:postcode":"64108",
+    "sg:province":"KS",
+    "sg:tags":[
+        "aids",
+        "testing",
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872029,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ghnD3yeKZ8aqc0v4lKxMl_39.078092_-94.576120@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046154,
+    "wof:geomhash":"6ed1d95d3624e27557ca2400ce4f2d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872029,
+            "region_id":85688661,
+            "venue_id":840702453
+        }
+    ],
+    "wof:id":840702453,
+    "wof:lastmodified":1464046154,
+    "wof:name":"Heartland Aids Resource Cncl",
+    "wof:parent_id":85872029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aids",
+        "testing",
+        "information"
+    ]
+},
+  "bbox": [
+    -94.57612,
+    39.078092,
+    -94.57612,
+    39.078092
+],
+  "geometry": {"coordinates":[-94.57612,39.078092],"type":"Point"}
+}

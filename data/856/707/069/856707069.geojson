@@ -1,0 +1,74 @@
+{
+  "id": 856707069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.666757,39.08119,-95.666757,39.08119",
+    "geom:latitude":39.08119,
+    "geom:longitude":-95.666757,
+    "iso:country":"US",
+    "sg:address":"1812 NW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/198366-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 8888",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GzrkkFbxxQqsmPuAm0pUZ_39.081190_-95.666757@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052209,
+    "wof:geomhash":"eb936ebc5dc71c14484c32d5d96b57fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":856707069
+        }
+    ],
+    "wof:id":856707069,
+    "wof:lastmodified":1464052209,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -95.666757,
+    39.08119,
+    -95.666757,
+    39.08119
+],
+  "geometry": {"coordinates":[-95.666757,39.08119],"type":"Point"}
+}

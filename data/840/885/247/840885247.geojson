@@ -1,0 +1,71 @@
+{
+  "id": 840885247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.685435,39.090788,-95.685435,39.090788",
+    "geom:latitude":39.090788,
+    "geom:longitude":-95.685435,
+    "iso:country":"US",
+    "sg:address":"711 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 8840",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gQMWU2ewdddjtGWG8Lq4o_39.090788_-95.685435@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050183,
+    "wof:geomhash":"3488e6587918d93ae8af53495d784548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840885247
+        }
+    ],
+    "wof:id":840885247,
+    "wof:lastmodified":1464050183,
+    "wof:name":"Deffenbaugh Disposal",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -95.685435,
+    39.090788,
+    -95.685435,
+    39.090788
+],
+  "geometry": {"coordinates":[-95.685435,39.090788],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840822649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.671509,39.015532,-95.671509,39.015532",
+    "geom:latitude":39.015532,
+    "geom:longitude":-95.671509,
+    "iso:country":"US",
+    "sg:address":"2813 SE Jefferson St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 1172",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881545,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ak5ENOfCjP9Qt5NqTbgaq_39.015532_-95.671509@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048831,
+    "wof:geomhash":"2410f63dbad9c154a7c32703bed7e2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881545,
+            "region_id":85688555,
+            "venue_id":840822649
+        }
+    ],
+    "wof:id":840822649,
+    "wof:lastmodified":1464048831,
+    "wof:name":"Akeyo Office Maintenance",
+    "wof:parent_id":85881545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -95.671509,
+    39.015532,
+    -95.671509,
+    39.015532
+],
+  "geometry": {"coordinates":[-95.671509,39.015532],"type":"Point"}
+}

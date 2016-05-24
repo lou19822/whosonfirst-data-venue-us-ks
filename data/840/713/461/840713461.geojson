@@ -1,0 +1,73 @@
+{
+  "id": 840713461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.328776,37.652062,-97.328776,37.652062",
+    "geom:latitude":37.652062,
+    "geom:longitude":-97.328776,
+    "iso:country":"US",
+    "sg:address":"2224 S Mead St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 0445",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z9dwbXls0cPbALyLuQ6P6_37.652062_-97.328776@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046374,
+    "wof:geomhash":"1330a3095a85185341dc51d4705afe40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840713461
+        }
+    ],
+    "wof:id":840713461,
+    "wof:lastmodified":1464046374,
+    "wof:name":"Tru-Bor",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.328776,
+    37.652062,
+    -97.328776,
+    37.652062
+],
+  "geometry": {"coordinates":[-97.328776,37.652062],"type":"Point"}
+}

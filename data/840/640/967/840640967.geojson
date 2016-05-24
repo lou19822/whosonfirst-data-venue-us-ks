@@ -1,0 +1,73 @@
+{
+  "id": 840640967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.688002,37.410058,-94.688002,37.410058",
+    "geom:latitude":37.410058,
+    "geom:longitude":-94.688002,
+    "iso:country":"US",
+    "sg:address":"216 N Lapham St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 2682",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wZ5uHWik9F7IuOAG5Tlvt_37.410058_-94.688002@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044699,
+    "wof:geomhash":"9fc5ada7911ceab959e447ff38cdfe1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840640967
+        }
+    ],
+    "wof:id":840640967,
+    "wof:lastmodified":1464044699,
+    "wof:name":"Baker Electric",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.688002,
+    37.410058,
+    -94.688002,
+    37.410058
+],
+  "geometry": {"coordinates":[-94.688002,37.410058],"type":"Point"}
+}

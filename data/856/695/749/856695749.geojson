@@ -1,0 +1,73 @@
+{
+  "id": 856695749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.357221,37.756242,-97.357221,37.756242",
+    "geom:latitude":37.756242,
+    "geom:longitude":-97.357221,
+    "iso:country":"US",
+    "sg:address":"1411 W Nottingham Cir",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 708 4184",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P6J4RVAejfK8i4119vxsm_37.756187_-97.357992@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464051976,
+    "wof:geomhash":"5334076fa7e2132e99d39f79ce78f4f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":856695749
+        }
+    ],
+    "wof:id":856695749,
+    "wof:lastmodified":1464051976,
+    "wof:name":"Household Electric",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.357221,
+    37.756242,
+    -97.357221,
+    37.756242
+],
+  "geometry": {"coordinates":[-97.357221,37.756242],"type":"Point"}
+}

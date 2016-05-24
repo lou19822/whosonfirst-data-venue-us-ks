@@ -1,0 +1,71 @@
+{
+  "id": 840903655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.768093,38.864822,-94.768093,38.864822",
+    "geom:latitude":38.864822,
+    "geom:longitude":-94.768093,
+    "iso:country":"US",
+    "sg:address":"15631 W 146th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 2232",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f3At2yuEm7gSqvvgWLM05_38.864822_-94.768093@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050570,
+    "wof:geomhash":"d56b2c6f3ccffe76cdbf7800679f5fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840903655
+        }
+    ],
+    "wof:id":840903655,
+    "wof:lastmodified":1464050570,
+    "wof:name":"Sage Fruit Co",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper"
+    ]
+},
+  "bbox": [
+    -94.768093,
+    38.864822,
+    -94.768093,
+    38.864822
+],
+  "geometry": {"coordinates":[-94.76809299999999,38.864822],"type":"Point"}
+}

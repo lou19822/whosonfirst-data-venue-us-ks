@@ -1,0 +1,73 @@
+{
+  "id": 840690231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.91665,39.131985,-94.91665,39.131985",
+    "geom:latitude":39.131985,
+    "geom:longitude":-94.91665,
+    "iso:country":"US",
+    "sg:address":"2211 N 145th Ter",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 1645",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lfHdfX7tpUv1ufP3cANCE_39.131985_-94.916650@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045822,
+    "wof:geomhash":"da383502fcfd6ae6f6d5756e4794448b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840690231
+        }
+    ],
+    "wof:id":840690231,
+    "wof:lastmodified":1464045822,
+    "wof:name":"Elite Electric",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.91665,
+    39.131985,
+    -94.91665,
+    39.131985
+],
+  "geometry": {"coordinates":[-94.91665,39.131985],"type":"Point"}
+}

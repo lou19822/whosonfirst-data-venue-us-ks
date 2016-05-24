@@ -1,0 +1,74 @@
+{
+  "id": 856707717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135213,37.69092,-97.135213,37.69092",
+    "geom:latitude":37.69092,
+    "geom:longitude":-97.135213,
+    "iso:country":"US",
+    "sg:address":"331 N Andover Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/bruno/207288-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 218 0820",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C3tUr4F1Rlq9v3Nk33SFJ_37.690920_-97.135213@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052224,
+    "wof:geomhash":"cbe67c66fad7d0963088c84ede7fb920",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":856707717
+        }
+    ],
+    "wof:id":856707717,
+    "wof:lastmodified":1464052224,
+    "wof:name":"Sonic",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.135213,
+    37.69092,
+    -97.135213,
+    37.69092
+],
+  "geometry": {"coordinates":[-97.13521299999999,37.69092],"type":"Point"}
+}

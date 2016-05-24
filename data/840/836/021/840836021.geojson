@@ -1,0 +1,73 @@
+{
+  "id": 840836021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.398173,37.694631,-97.398173,37.694631",
+    "geom:latitude":37.694631,
+    "geom:longitude":-97.398173,
+    "iso:country":"US",
+    "sg:address":"4747 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 9363",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "buyer",
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68dp33BGXmXCvLoiDpgRHx_37.694631_-97.398173@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049130,
+    "wof:geomhash":"463baf548a25283010284de3062499d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840836021
+        }
+    ],
+    "wof:id":840836021,
+    "wof:lastmodified":1464049130,
+    "wof:name":"Diamond Collector",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "diamond"
+    ]
+},
+  "bbox": [
+    -97.398173,
+    37.694631,
+    -97.398173,
+    37.694631
+],
+  "geometry": {"coordinates":[-97.398173,37.694631],"type":"Point"}
+}

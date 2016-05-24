@@ -1,0 +1,73 @@
+{
+  "id": 840904835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.711205,39.12368,-95.711205,39.12368",
+    "geom:latitude":39.12368,
+    "geom:longitude":-95.711205,
+    "iso:country":"US",
+    "sg:address":"3321 NW 43rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 4590",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01DjfgmakaKKSvzu5ILuNu_39.123680_-95.711205@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050591,
+    "wof:geomhash":"b451b77df69c80b6801e50da3a6dcaa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840904835
+        }
+    ],
+    "wof:id":840904835,
+    "wof:lastmodified":1464050591,
+    "wof:name":"Dee's Dog Grooming",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -95.711205,
+    39.12368,
+    -95.711205,
+    39.12368
+],
+  "geometry": {"coordinates":[-95.71120500000001,39.12368],"type":"Point"}
+}

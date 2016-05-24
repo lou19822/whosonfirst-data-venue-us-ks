@@ -1,0 +1,71 @@
+{
+  "id": 840784629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.012944,39.161104,-95.012944,39.161104",
+    "geom:latitude":39.161104,
+    "geom:longitude":-95.012944,
+    "iso:country":"US",
+    "sg:address":"21335 187th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 1068",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ksGk1ZtMUgx0LINYWT9mM_39.161104_-95.012944@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047850,
+    "wof:geomhash":"2faa262920e63795d5b51fc21b772f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840784629
+        }
+    ],
+    "wof:id":840784629,
+    "wof:lastmodified":1464047850,
+    "wof:name":"Turner Barbershop",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.012944,
+    39.161104,
+    -95.012944,
+    39.161104
+],
+  "geometry": {"coordinates":[-95.012944,39.161104],"type":"Point"}
+}

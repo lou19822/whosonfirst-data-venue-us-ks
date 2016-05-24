@@ -1,0 +1,74 @@
+{
+  "id": 856709323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.31616,37.630685,-97.31616,37.630685",
+    "geom:latitude":37.630685,
+    "geom:longitude":-97.31616,
+    "iso:country":"US",
+    "sg:address":"3430 S Hydraulic St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/186726-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 554 7801",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43lYTk4iDeiUbOoBxUgpqT_37.630685_-97.316160@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052253,
+    "wof:geomhash":"f833e3b763d4f291df5f78bcf7029b74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":856709323
+        }
+    ],
+    "wof:id":856709323,
+    "wof:lastmodified":1464052253,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.31616,
+    37.630685,
+    -97.31616,
+    37.630685
+],
+  "geometry": {"coordinates":[-97.31616,37.630685],"type":"Point"}
+}

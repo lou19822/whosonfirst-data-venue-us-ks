@@ -1,0 +1,73 @@
+{
+  "id": 840718169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.935135,39.189733,-94.935135,39.189733",
+    "geom:latitude":39.189733,
+    "geom:longitude":-94.935135,
+    "iso:country":"US",
+    "sg:address":"23100 154th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 2241",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "farm",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65QfKxx5dlqluwosIZOOoK_39.189733_-94.935135@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046466,
+    "wof:geomhash":"f1a941805eb60d6c72e168d16a6f8597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840718169
+        }
+    ],
+    "wof:id":840718169,
+    "wof:lastmodified":1464046466,
+    "wof:name":"McDowell Tractor",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "tractor"
+    ]
+},
+  "bbox": [
+    -94.935135,
+    39.189733,
+    -94.935135,
+    39.189733
+],
+  "geometry": {"coordinates":[-94.935135,39.189733],"type":"Point"}
+}

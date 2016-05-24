@@ -1,0 +1,79 @@
+{
+  "id": 840875771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.699676,39.036991,-94.699676,39.036991",
+    "geom:latitude":39.036991,
+    "geom:longitude":-94.699676,
+    "iso:country":"US",
+    "sg:address":"5016 Farley St",
+    "sg:city":"Merriam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 1221",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879555,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D8ELQA0pn50i967WMMjX8_39.036991_-94.699676@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049963,
+    "wof:geomhash":"f399dbbd1cd59597cc1c744498c68e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":840875771
+        }
+    ],
+    "wof:id":840875771,
+    "wof:lastmodified":1464049963,
+    "wof:name":"Performance Tint",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -94.699676,
+    39.036991,
+    -94.699676,
+    39.036991
+],
+  "geometry": {"coordinates":[-94.699676,39.036991],"type":"Point"}
+}

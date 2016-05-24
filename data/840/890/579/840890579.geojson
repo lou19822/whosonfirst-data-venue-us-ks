@@ -1,0 +1,79 @@
+{
+  "id": 840890579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.681735,39.070264,-94.681735,39.070264",
+    "geom:latitude":39.070264,
+    "geom:longitude":-94.681735,
+    "iso:country":"US",
+    "sg:address":"1523 S 45 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 789 7333",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852833,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55ADPQ4Vlv306VqniohxVw_39.070264_-94.681735@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050296,
+    "wof:geomhash":"5e9812937b75d8b69247bf8f5cdb4fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85852833,
+            "region_id":85688555,
+            "venue_id":840890579
+        }
+    ],
+    "wof:id":840890579,
+    "wof:lastmodified":1464050296,
+    "wof:name":"Bagel Works Bread Co",
+    "wof:parent_id":85852833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ]
+},
+  "bbox": [
+    -94.681735,
+    39.070264,
+    -94.681735,
+    39.070264
+],
+  "geometry": {"coordinates":[-94.681735,39.070264],"type":"Point"}
+}

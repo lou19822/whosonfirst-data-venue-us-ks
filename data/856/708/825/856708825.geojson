@@ -1,0 +1,82 @@
+{
+  "id": 856708825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.240076,37.67821,-97.240076,37.67821",
+    "geom:latitude":37.67821,
+    "geom:longitude":-97.240076,
+    "iso:country":"US",
+    "sg:address":"8113 E Kellogg Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/94718-mr-goodcents-subs--pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 687 0300",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806685,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R5GpcyeFZXfvpHJDGOguh_37.678210_-97.240076@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052244,
+    "wof:geomhash":"e6160e124184e6705df28edd6a015732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85806685,
+            "region_id":85688555,
+            "venue_id":856708825
+        }
+    ],
+    "wof:id":856708825,
+    "wof:lastmodified":1464052244,
+    "wof:name":"Mr. Goodcents Subs & Pasta",
+    "wof:parent_id":85806685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ]
+},
+  "bbox": [
+    -97.240076,
+    37.67821,
+    -97.240076,
+    37.67821
+],
+  "geometry": {"coordinates":[-97.240076,37.67821],"type":"Point"}
+}

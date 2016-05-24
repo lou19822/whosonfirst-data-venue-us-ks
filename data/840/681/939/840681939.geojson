@@ -1,0 +1,78 @@
+{
+  "id": 840681939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.780858,39.017698,-95.780858,39.017698",
+    "geom:latitude":39.017698,
+    "geom:longitude":-95.780858,
+    "iso:country":"US",
+    "sg:address":"2830 SW Urish Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 4010",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.lincolncenterobgyn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TGmpJfWd3xmMZ9dLpWW4v_39.017698_-95.780858@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045623,
+    "wof:geomhash":"539946d7e3023e60e43bfb56a4e2bfb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840681939
+        }
+    ],
+    "wof:id":840681939,
+    "wof:lastmodified":1464045623,
+    "wof:name":"Lincoln Center Ob-Gyn",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.780858,
+    39.017698,
+    -95.780858,
+    39.017698
+],
+  "geometry": {"coordinates":[-95.78085799999999,39.017698],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840719783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.629154,39.019629,-95.629154,39.019629",
+    "geom:latitude":39.019629,
+    "geom:longitude":-95.629154,
+    "iso:country":"US",
+    "sg:address":"2900 SE Aries Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 2363",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pathologist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nyCCv7mIMgmmPNY5NY2h4_39.019629_-95.629154@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046505,
+    "wof:geomhash":"94dc7f8931de118d40d2f8ac9904efaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840719783
+        }
+    ],
+    "wof:id":840719783,
+    "wof:lastmodified":1464046505,
+    "wof:name":"Communicology Associates Of KS",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "speech"
+    ]
+},
+  "bbox": [
+    -95.629154,
+    39.019629,
+    -95.629154,
+    39.019629
+],
+  "geometry": {"coordinates":[-95.629154,39.019629],"type":"Point"}
+}

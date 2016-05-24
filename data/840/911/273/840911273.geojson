@@ -1,0 +1,71 @@
+{
+  "id": 840911273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.140122,37.692366,-97.140122,37.692366",
+    "geom:latitude":37.692366,
+    "geom:longitude":-97.140122,
+    "iso:country":"US",
+    "sg:address":"580 W 3rd St",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 8720",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r2hbjh8iZfRIDlOEL6OjB_37.692366_-97.140122@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050771,
+    "wof:geomhash":"2ae423958db9051534728d5f143cb85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840911273
+        }
+    ],
+    "wof:id":840911273,
+    "wof:lastmodified":1464050771,
+    "wof:name":"International Student Exchange",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -97.140122,
+    37.692366,
+    -97.140122,
+    37.692366
+],
+  "geometry": {"coordinates":[-97.14012200000001,37.692366],"type":"Point"}
+}

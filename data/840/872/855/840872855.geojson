@@ -1,0 +1,71 @@
+{
+  "id": 840872855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389304,37.662753,-97.389304,37.662753",
+    "geom:latitude":37.662753,
+    "geom:longitude":-97.389304,
+    "iso:country":"US",
+    "sg:address":"1735 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 669 0040",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sq9NXcFbnQWyNaktAfRKI_37.662753_-97.389304@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049912,
+    "wof:geomhash":"2e1f7da09dc5c0784247d34438343188",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840872855
+        }
+    ],
+    "wof:id":840872855,
+    "wof:lastmodified":1464049912,
+    "wof:name":"Kimpler Appliance",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -97.389304,
+    37.662753,
+    -97.389304,
+    37.662753
+],
+  "geometry": {"coordinates":[-97.389304,37.662753],"type":"Point"}
+}

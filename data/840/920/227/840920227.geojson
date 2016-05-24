@@ -1,0 +1,75 @@
+{
+  "id": 840920227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.68062,39.073111,-94.68062,39.073111",
+    "geom:latitude":39.073111,
+    "geom:longitude":-94.68062,
+    "iso:country":"US",
+    "sg:address":"4521 Metropolitan Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 3703",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852833,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a1NBkw1XrEneaHEDU9UF7_39.073111_-94.680620@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050995,
+    "wof:geomhash":"f67a33be5ab0d4a40ec322887975bcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85852833,
+            "region_id":85688555,
+            "venue_id":840920227
+        }
+    ],
+    "wof:id":840920227,
+    "wof:lastmodified":1464050995,
+    "wof:name":"Emergency Providers Inc",
+    "wof:parent_id":85852833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -94.68062,
+    39.073111,
+    -94.68062,
+    39.073111
+],
+  "geometry": {"coordinates":[-94.68062,39.073111],"type":"Point"}
+}

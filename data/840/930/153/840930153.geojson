@@ -1,0 +1,73 @@
+{
+  "id": 840930153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.786677,38.781858,-94.786677,38.781858",
+    "geom:latitude":38.781858,
+    "geom:longitude":-94.786677,
+    "iso:country":"US",
+    "sg:address":"17375 191st St",
+    "sg:city":"Spring Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 592 5540",
+    "sg:postcode":"66083",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fDjqAiSrIrkTaqdonhF5O_38.781858_-94.786677@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051250,
+    "wof:geomhash":"5e01b41dce0b535bde7c8aa169d87646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840930153
+        }
+    ],
+    "wof:id":840930153,
+    "wof:lastmodified":1464051250,
+    "wof:name":"Sunrise Builders",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -94.786677,
+    38.781858,
+    -94.786677,
+    38.781858
+],
+  "geometry": {"coordinates":[-94.786677,38.781858],"type":"Point"}
+}

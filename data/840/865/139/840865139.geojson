@@ -1,0 +1,79 @@
+{
+  "id": 840865139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.661449,39.020623,-94.661449,39.020623",
+    "geom:latitude":39.020623,
+    "geom:longitude":-94.661449,
+    "iso:country":"US",
+    "sg:address":"6506 Martway St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 5318",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Aw5BRfCXXRUNWiQQIuXpv_39.020623_-94.661449@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049758,
+    "wof:geomhash":"d92c8d75cb39cc87ce9721d4890e315f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":840865139
+        }
+    ],
+    "wof:id":840865139,
+    "wof:lastmodified":1464049758,
+    "wof:name":"Empire Pets",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.661449,
+    39.020623,
+    -94.661449,
+    39.020623
+],
+  "geometry": {"coordinates":[-94.661449,39.020623],"type":"Point"}
+}

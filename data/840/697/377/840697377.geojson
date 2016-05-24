@@ -1,0 +1,67 @@
+{
+  "id": 840697377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651302,39.022878,-95.651302,39.022878",
+    "geom:latitude":39.022878,
+    "geom:longitude":-95.651302,
+    "iso:country":"US",
+    "sg:address":"2424 SE California Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 274 6000",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:website":"www.topeka.k12.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3enxLYjbLudxeUpN5UioRt_39.022878_-95.651302@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046007,
+    "wof:geomhash":"3b74033f5e01fc6916387fd668a3ae9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840697377
+        }
+    ],
+    "wof:id":840697377,
+    "wof:lastmodified":1464046007,
+    "wof:name":"Highland Park High School",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.651302,
+    39.022878,
+    -95.651302,
+    39.022878
+],
+  "geometry": {"coordinates":[-95.651302,39.022878],"type":"Point"}
+}

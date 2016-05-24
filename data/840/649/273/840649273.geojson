@@ -1,0 +1,73 @@
+{
+  "id": 840649273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.896687,38.752795,-94.896687,38.752795",
+    "geom:latitude":38.752795,
+    "geom:longitude":-94.896687,
+    "iso:country":"US",
+    "sg:address":"26855 207th St",
+    "sg:city":"Gardner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 884 8189",
+    "sg:postcode":"66030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dX35EHwazghd1m4BNrEDG_38.752795_-94.896687@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044867,
+    "wof:geomhash":"180edece8b72d1186e07e6f2bab26b60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840649273
+        }
+    ],
+    "wof:id":840649273,
+    "wof:lastmodified":1464044867,
+    "wof:name":"Gardner Services Plumbing Htg",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.896687,
+    38.752795,
+    -94.896687,
+    38.752795
+],
+  "geometry": {"coordinates":[-94.896687,38.752795],"type":"Point"}
+}

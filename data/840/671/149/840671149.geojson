@@ -1,0 +1,71 @@
+{
+  "id": 840671149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.553135,37.665687,-97.553135,37.665687",
+    "geom:latitude":37.665687,
+    "geom:longitude":-97.553135,
+    "iso:country":"US",
+    "sg:address":"1037 S 183rd St W",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"Botanical Garden",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 8954",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "zoo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HzWKGiXbHm147705mFW3h_37.665687_-97.553135@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045337,
+    "wof:geomhash":"54b07628624bf1e4e4ba1a672104266d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840671149
+        }
+    ],
+    "wof:id":840671149,
+    "wof:lastmodified":1464045337,
+    "wof:name":"Tanganyika Wildlife Park",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "zoo"
+    ]
+},
+  "bbox": [
+    -97.553135,
+    37.665687,
+    -97.553135,
+    37.665687
+],
+  "geometry": {"coordinates":[-97.553135,37.665687],"type":"Point"}
+}

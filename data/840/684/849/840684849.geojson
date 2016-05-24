@@ -1,0 +1,73 @@
+{
+  "id": 840684849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.221812,38.406009,-96.221812,38.406009",
+    "geom:latitude":38.406009,
+    "geom:longitude":-96.221812,
+    "iso:country":"US",
+    "sg:address":"623 Graham St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 5669",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZY9OSmOo8TjcsZq97DPUW_38.406009_-96.221812@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045683,
+    "wof:geomhash":"1eb19cdb8ceea7cc589e81ebb1d7c58f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840684849
+        }
+    ],
+    "wof:id":840684849,
+    "wof:lastmodified":1464045683,
+    "wof:name":"Mast Engineering Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -96.221812,
+    38.406009,
+    -96.221812,
+    38.406009
+],
+  "geometry": {"coordinates":[-96.221812,38.406009],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840824769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.639927,38.928067,-95.639927,38.928067",
+    "geom:latitude":38.928067,
+    "geom:longitude":-95.639927,
+    "iso:country":"US",
+    "sg:address":"2727 SE 77th St",
+    "sg:city":"Berryton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 2071",
+    "sg:postcode":"66409",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SZ87QeNqeuH6VEZqt4Ur1_38.928067_-95.639927@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048887,
+    "wof:geomhash":"b6c08ed04531d61a94f269f47522c4fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840824769
+        }
+    ],
+    "wof:id":840824769,
+    "wof:lastmodified":1464048887,
+    "wof:name":"Public Works District Shop",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.639927,
+    38.928067,
+    -95.639927,
+    38.928067
+],
+  "geometry": {"coordinates":[-95.639927,38.928067],"type":"Point"}
+}

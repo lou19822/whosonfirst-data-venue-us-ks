@@ -1,0 +1,73 @@
+{
+  "id": 840731151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.21882,38.409256,-96.21882,38.409256",
+    "geom:latitude":38.409256,
+    "geom:longitude":-96.21882,
+    "iso:country":"US",
+    "sg:address":"2910 US Hwy 50",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1727",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N7Xn6u2mOGE4nHFe8pcNc_38.409256_-96.218820@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046725,
+    "wof:geomhash":"406352fba781afff5dcefd2249b08ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840731151
+        }
+    ],
+    "wof:id":840731151,
+    "wof:lastmodified":1464046725,
+    "wof:name":"Weeks Auto Sales",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.21882,
+    38.409256,
+    -96.21882,
+    38.409256
+],
+  "geometry": {"coordinates":[-96.21881999999999,38.409256],"type":"Point"}
+}

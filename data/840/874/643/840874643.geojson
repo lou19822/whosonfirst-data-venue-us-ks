@@ -1,0 +1,71 @@
+{
+  "id": 840874643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.538424,37.782745,-97.538424,37.782745",
+    "geom:latitude":37.782745,
+    "geom:longitude":-97.538424,
+    "iso:country":"US",
+    "sg:address":"205 W Wichita Ave",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 1044",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zkdeCSHPbDMOrwugERJ2g_37.782745_-97.538424@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049944,
+    "wof:geomhash":"be030057c8e874937430d38090e8a4f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840874643
+        }
+    ],
+    "wof:id":840874643,
+    "wof:lastmodified":1464049944,
+    "wof:name":"Syl's Restaurant & Catering",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -97.538424,
+    37.782745,
+    -97.538424,
+    37.782745
+],
+  "geometry": {"coordinates":[-97.53842400000001,37.782745],"type":"Point"}
+}

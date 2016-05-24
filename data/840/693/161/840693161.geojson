@@ -1,0 +1,78 @@
+{
+  "id": 840693161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.629508,39.118451,-94.629508,39.118451",
+    "geom:latitude":39.118451,
+    "geom:longitude":-94.629508,
+    "iso:country":"US",
+    "sg:address":"1211 N 8 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 551 6728",
+    "sg:postcode":"66101",
+    "sg:province":"KS",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "sg:website":"www.census.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878505,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OAhdiHhNuBg1mKlfLm3Ew_39.118451_-94.629508@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045899,
+    "wof:geomhash":"608a4f25bf0336716bcf9dc2ba8d249f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878505,
+            "region_id":85688555,
+            "venue_id":840693161
+        }
+    ],
+    "wof:id":840693161,
+    "wof:lastmodified":1464045899,
+    "wof:name":"Us Bureau Of The Census Svc",
+    "wof:parent_id":85878505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -94.629508,
+    39.118451,
+    -94.629508,
+    39.118451
+],
+  "geometry": {"coordinates":[-94.629508,39.118451],"type":"Point"}
+}

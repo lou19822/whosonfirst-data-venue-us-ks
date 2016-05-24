@@ -1,0 +1,80 @@
+{
+  "id": 856707101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.682331,39.004919,-95.682331,39.004919",
+    "geom:latitude":39.004919,
+    "geom:longitude":-95.682331,
+    "iso:country":"US",
+    "sg:address":"3425 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/105416-carlos-okellys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 3457",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sdTWQ2pWEE1NTWLgp68Si_39.004919_-95.682331@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052210,
+    "wof:geomhash":"20b688ffe7d316bcd4bbd733497b3266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":856707101
+        }
+    ],
+    "wof:id":856707101,
+    "wof:lastmodified":1464052210,
+    "wof:name":"Carlos O'Kelly's",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -95.682331,
+    39.004919,
+    -95.682331,
+    39.004919
+],
+  "geometry": {"coordinates":[-95.682331,39.004919],"type":"Point"}
+}

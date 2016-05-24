@@ -1,0 +1,73 @@
+{
+  "id": 840696449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668665,37.403752,-94.668665,37.403752",
+    "geom:latitude":37.403752,
+    "geom:longitude":-94.668665,
+    "iso:country":"US",
+    "sg:address":"602 S Free Kings Hwy",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 230 5630",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tYb3VNcheOpx6sfBcY3Xp_37.403752_-94.668665@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045980,
+    "wof:geomhash":"212f9e5605aa87aa310581998cd5a320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840696449
+        }
+    ],
+    "wof:id":840696449,
+    "wof:lastmodified":1464045980,
+    "wof:name":"Pittsburg Water Treatment Plnt",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -94.668665,
+    37.403752,
+    -94.668665,
+    37.403752
+],
+  "geometry": {"coordinates":[-94.668665,37.403752],"type":"Point"}
+}

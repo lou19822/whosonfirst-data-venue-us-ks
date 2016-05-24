@@ -1,0 +1,77 @@
+{
+  "id": 840623383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.789545,38.902646,-94.789545,38.902646",
+    "geom:latitude":38.902646,
+    "geom:longitude":-94.789545,
+    "iso:country":"US",
+    "sg:address":"1314 N North Ridge Pkwy",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 768 4593",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NKPtfRBlIgWquHVu7gcSa_38.902646_-94.789545@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044248,
+    "wof:geomhash":"43620a0685d2dcec24f7cf44343c6ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840623383
+        }
+    ],
+    "wof:id":840623383,
+    "wof:lastmodified":1464044248,
+    "wof:name":"Covington Pointe II Apartments",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.789545,
+    38.902646,
+    -94.789545,
+    38.902646
+],
+  "geometry": {"coordinates":[-94.789545,38.902646],"type":"Point"}
+}

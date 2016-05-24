@@ -1,0 +1,71 @@
+{
+  "id": 840779889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181292,38.402519,-96.181292,38.402519",
+    "geom:latitude":38.402519,
+    "geom:longitude":-96.181292,
+    "iso:country":"US",
+    "sg:address":"17 W 4th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7484",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sxLAnA4zTmIbKM0c06yHg_38.402519_-96.181292@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047762,
+    "wof:geomhash":"078df99e72b0fd0dbc4b5c8da1ff8832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840779889
+        }
+    ],
+    "wof:id":840779889,
+    "wof:lastmodified":1464047762,
+    "wof:name":"Spic'n Span Cleaners",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -96.181292,
+    38.402519,
+    -96.181292,
+    38.402519
+],
+  "geometry": {"coordinates":[-96.181292,38.402519],"type":"Point"}
+}

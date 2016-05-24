@@ -1,0 +1,71 @@
+{
+  "id": 840883609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181333,38.412055,-96.181333,38.412055",
+    "geom:latitude":38.412055,
+    "geom:longitude":-96.181333,
+    "iso:country":"US",
+    "sg:address":"1112 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6610",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GA671G4g31AVgjVwIeZOF_38.412055_-96.181333@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050148,
+    "wof:geomhash":"3f2c54e98a0d8e8e88f4ff9377e8157a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840883609
+        }
+    ],
+    "wof:id":840883609,
+    "wof:lastmodified":1464050148,
+    "wof:name":"Campus Apartments",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.181333,
+    38.412055,
+    -96.181333,
+    38.412055
+],
+  "geometry": {"coordinates":[-96.181333,38.412055],"type":"Point"}
+}

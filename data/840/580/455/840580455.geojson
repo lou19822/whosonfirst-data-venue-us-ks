@@ -1,0 +1,71 @@
+{
+  "id": 840580455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.208004,38.405077,-96.208004,38.405077",
+    "geom:latitude":38.405077,
+    "geom:longitude":-96.208004,
+    "iso:country":"US",
+    "sg:address":"2101 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 2409",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fjvMm4Sq4rOnUwGWGReoj_38.405077_-96.208004@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043217,
+    "wof:geomhash":"11ed3b28d294b876dd11c433d800c4d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840580455
+        }
+    ],
+    "wof:id":840580455,
+    "wof:lastmodified":1464043217,
+    "wof:name":"Tyson Fresh Meats",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -96.208004,
+    38.405077,
+    -96.208004,
+    38.405077
+],
+  "geometry": {"coordinates":[-96.208004,38.405077],"type":"Point"}
+}

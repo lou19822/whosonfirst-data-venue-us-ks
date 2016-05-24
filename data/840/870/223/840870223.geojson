@@ -1,0 +1,75 @@
+{
+  "id": 840870223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.32545,37.713579,-97.32545,37.713579",
+    "geom:latitude":37.713579,
+    "geom:longitude":-97.32545,
+    "iso:country":"US",
+    "sg:address":"1020 E 16th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 5137",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872827,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0isR5kwk791P57uQUOq1tU_37.713579_-97.325450@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049857,
+    "wof:geomhash":"c29199d9125ce08edb2a6466048f9451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872827,
+            "region_id":85688555,
+            "venue_id":840870223
+        }
+    ],
+    "wof:id":840870223,
+    "wof:lastmodified":1464049857,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85872827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -97.32545,
+    37.713579,
+    -97.32545,
+    37.713579
+],
+  "geometry": {"coordinates":[-97.32545,37.713579],"type":"Point"}
+}

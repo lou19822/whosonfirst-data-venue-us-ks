@@ -1,0 +1,71 @@
+{
+  "id": 840890877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.821608,38.854687,-94.821608,38.854687",
+    "geom:latitude":38.854687,
+    "geom:longitude":-94.821608,
+    "iso:country":"US",
+    "sg:address":"20418 W 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 393 2191",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:website":"www.dswshoe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55hse4fyQTWglfOb3az7bn_38.854687_-94.821608@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050303,
+    "wof:geomhash":"aa1d3ceb961a564e841704a8b5eb73d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840890877
+        }
+    ],
+    "wof:id":840890877,
+    "wof:lastmodified":1464050303,
+    "wof:name":"DSW Shoe Warehouse",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.821608,
+    38.854687,
+    -94.821608,
+    38.854687
+],
+  "geometry": {"coordinates":[-94.821608,38.854687],"type":"Point"}
+}

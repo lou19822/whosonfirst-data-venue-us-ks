@@ -1,0 +1,76 @@
+{
+  "id": 856712743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.024224,37.753333,-100.024224,37.753333",
+    "geom:latitude":37.753333,
+    "geom:longitude":-100.024224,
+    "iso:country":"US",
+    "sg:address":"708 W Wyatt Earp Blvd",
+    "sg:city":"Dodge City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/dodge-city/208144-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 225 7703",
+    "sg:postcode":"67801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849601,
+        102191575,
+        404503629,
+        85633793,
+        85945215,
+        102082141,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KpDojFtJHYKkgctiwIzxw_37.753213_-100.023561@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052319,
+    "wof:geomhash":"9f51e622904dbd6d91db2785e72d25ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082141,
+            "localadmin_id":404503629,
+            "locality_id":85945215,
+            "neighbourhood_id":85849601,
+            "region_id":85688555,
+            "venue_id":856712743
+        }
+    ],
+    "wof:id":856712743,
+    "wof:lastmodified":1464052319,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85849601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -100.024224,
+    37.753333,
+    -100.024224,
+    37.753333
+],
+  "geometry": {"coordinates":[-100.024224,37.753333],"type":"Point"}
+}

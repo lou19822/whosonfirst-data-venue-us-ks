@@ -1,0 +1,66 @@
+{
+  "id": 840817697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.09339,39.110255,-95.09339,39.110255",
+    "geom:latitude":39.110255,
+    "geom:longitude":-95.09339,
+    "iso:country":"US",
+    "sg:address":"107 E 3rd St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2626",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eDkcTRUtNd0Kab64mn8vS_39.110255_-95.093390@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048685,
+    "wof:geomhash":"94ab21b18b8ec6570c11370b6f59def5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840817697
+        }
+    ],
+    "wof:id":840817697,
+    "wof:lastmodified":1464048685,
+    "wof:name":"Jr's Retail Liquor",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.09339,
+    39.110255,
+    -95.09339,
+    39.110255
+],
+  "geometry": {"coordinates":[-95.09339,39.110255],"type":"Point"}
+}

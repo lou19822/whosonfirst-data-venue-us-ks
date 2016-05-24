@@ -1,0 +1,71 @@
+{
+  "id": 840536409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.294309,37.665389,-97.294309,37.665389",
+    "geom:latitude":37.665389,
+    "geom:longitude":-97.294309,
+    "iso:country":"US",
+    "sg:address":"1515 S Clifton Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 618 1515",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39gYJhr9tsmHknE6XWW1jO_37.665389_-97.294309@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042124,
+    "wof:geomhash":"82a1ddb067147ed45ca13c2dc17a8dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840536409
+        }
+    ],
+    "wof:id":840536409,
+    "wof:lastmodified":1464042124,
+    "wof:name":"Kansas Professional Anesthesia",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -97.294309,
+    37.665389,
+    -97.294309,
+    37.665389
+],
+  "geometry": {"coordinates":[-97.294309,37.665389],"type":"Point"}
+}

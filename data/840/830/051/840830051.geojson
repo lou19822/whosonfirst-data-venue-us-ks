@@ -1,0 +1,73 @@
+{
+  "id": 840830051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.150339,38.386417,-96.150339,38.386417",
+    "geom:latitude":38.386417,
+    "geom:longitude":-96.150339,
+    "iso:country":"US",
+    "sg:address":"920 Wanamaka Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 0176",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7imgA1jfqgrPX9IMZBoxVc_38.386417_-96.150339@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049008,
+    "wof:geomhash":"d156cbbaa4e95b6e8b7b4965eb9e4047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840830051
+        }
+    ],
+    "wof:id":840830051,
+    "wof:lastmodified":1464049008,
+    "wof:name":"Curry Corporation",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -96.150339,
+    38.386417,
+    -96.150339,
+    38.386417
+],
+  "geometry": {"coordinates":[-96.150339,38.386417],"type":"Point"}
+}

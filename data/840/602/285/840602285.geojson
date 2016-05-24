@@ -1,0 +1,71 @@
+{
+  "id": 840602285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704706,37.41183,-94.704706,37.41183",
+    "geom:latitude":37.41183,
+    "geom:longitude":-94.704706,
+    "iso:country":"US",
+    "sg:address":"424 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 3321",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2asTV1kRxrwLVuFU1b2LAA_37.411830_-94.704706@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043710,
+    "wof:geomhash":"26f71b01b32b6b361f2e3cfe3d212bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840602285
+        }
+    ],
+    "wof:id":840602285,
+    "wof:lastmodified":1464043710,
+    "wof:name":"Kay Morin Attorney",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -94.704706,
+    37.41183,
+    -94.704706,
+    37.41183
+],
+  "geometry": {"coordinates":[-94.704706,37.41183],"type":"Point"}
+}

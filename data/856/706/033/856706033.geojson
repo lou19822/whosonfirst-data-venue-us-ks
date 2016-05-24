@@ -1,0 +1,78 @@
+{
+  "id": 856706033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.743771,39.014231,-94.743771,39.014231",
+    "geom:latitude":39.014231,
+    "geom:longitude":-94.743771,
+    "iso:country":"US",
+    "sg:address":"13601 W 63rd St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/207387-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 0040",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QOTn4gjthnKVOb7gh2qlz_39.014231_-94.743771@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052187,
+    "wof:geomhash":"9208e1028a968e0d935f05c205dbda16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":856706033
+        }
+    ],
+    "wof:id":856706033,
+    "wof:lastmodified":1464052187,
+    "wof:name":"Sonic",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.743771,
+    39.014231,
+    -94.743771,
+    39.014231
+],
+  "geometry": {"coordinates":[-94.743771,39.014231],"type":"Point"}
+}

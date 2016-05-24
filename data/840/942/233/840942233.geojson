@@ -1,0 +1,71 @@
+{
+  "id": 840942233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.202701,38.405096,-96.202701,38.405096",
+    "geom:latitude":38.405096,
+    "geom:longitude":-96.202701,
+    "iso:country":"US",
+    "sg:address":"1806 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6633",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iQi9TZepQAmrFIqhSeR9k_38.405096_-96.202701@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051489,
+    "wof:geomhash":"aea618b742080661105a7276c885a2d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840942233
+        }
+    ],
+    "wof:id":840942233,
+    "wof:lastmodified":1464051489,
+    "wof:name":"Emporia Brake & Muffler",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -96.202701,
+    38.405096,
+    -96.202701,
+    38.405096
+],
+  "geometry": {"coordinates":[-96.202701,38.405096],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840647913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667703,38.853264,-94.667703,38.853264",
+    "geom:latitude":38.853264,
+    "geom:longitude":-94.667703,
+    "iso:country":"US",
+    "sg:address":"15107 Metcalf Ave",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 897 1951",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gW5yMV1GCndtHqOvrZcLO_38.853264_-94.667703@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044838,
+    "wof:geomhash":"1ff5eadad6f9a33668e3c877dbab64da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840647913
+        }
+    ],
+    "wof:id":840647913,
+    "wof:lastmodified":1464044838,
+    "wof:name":"Jim KIRK Painting",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -94.667703,
+    38.853264,
+    -94.667703,
+    38.853264
+],
+  "geometry": {"coordinates":[-94.667703,38.853264],"type":"Point"}
+}

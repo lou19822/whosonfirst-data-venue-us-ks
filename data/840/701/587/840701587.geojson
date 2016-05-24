@@ -1,0 +1,77 @@
+{
+  "id": 840701587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.649017,38.933184,-94.649017,38.933184",
+    "geom:latitude":38.933184,
+    "geom:longitude":-94.649017,
+    "iso:country":"US",
+    "sg:address":"10730 Nall Ave",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 383 0711",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ccy24raUeQfE0lvbrKGfn_38.933184_-94.649017@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046119,
+    "wof:geomhash":"6746bdf2081218f7c1ec4260286e839b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":840701587
+        }
+    ],
+    "wof:id":840701587,
+    "wof:lastmodified":1464046119,
+    "wof:name":"Ward Parkway Health Svc",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.649017,
+    38.933184,
+    -94.649017,
+    38.933184
+],
+  "geometry": {"coordinates":[-94.649017,38.933184],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840679899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.710779,39.026517,-95.710779,39.026517",
+    "geom:latitude":39.026517,
+    "geom:longitude":-95.710779,
+    "iso:country":"US",
+    "sg:address":"2535 SW 23rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 4649",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZNJudNqW8bNmZLSfsVNYs_39.026517_-95.710779@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045567,
+    "wof:geomhash":"31ede498dd763bfd4045b4b8b90a6498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840679899
+        }
+    ],
+    "wof:id":840679899,
+    "wof:lastmodified":1464045567,
+    "wof:name":"Larry's Electric",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.710779,
+    39.026517,
+    -95.710779,
+    39.026517
+],
+  "geometry": {"coordinates":[-95.710779,39.026517],"type":"Point"}
+}

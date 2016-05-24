@@ -1,0 +1,71 @@
+{
+  "id": 840794003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.912455,39.128728,-94.912455,39.128728",
+    "geom:latitude":39.128728,
+    "geom:longitude":-94.912455,
+    "iso:country":"US",
+    "sg:address":"14370 Parallel Rd",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 1919",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oQSqOUuHBhl5bcwnR6gtN_39.128728_-94.912455@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048060,
+    "wof:geomhash":"ade75cd9d10d60ced3782ae67ac9e6fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840794003
+        }
+    ],
+    "wof:id":840794003,
+    "wof:lastmodified":1464048060,
+    "wof:name":"Tuttle Veterinary Clinic",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.912455,
+    39.128728,
+    -94.912455,
+    39.128728
+],
+  "geometry": {"coordinates":[-94.91245499999999,39.128728],"type":"Point"}
+}

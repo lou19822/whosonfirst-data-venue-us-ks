@@ -1,0 +1,71 @@
+{
+  "id": 840859125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.679881,38.980613,-95.679881,38.980613",
+    "geom:latitude":38.980613,
+    "geom:longitude":-95.679881,
+    "iso:country":"US",
+    "sg:address":"209 SE Birch St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 7408",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dbUV2rdAHs4okxhtecMcC_38.980613_-95.679881@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049639,
+    "wof:geomhash":"78d001dbe71ccb37e1136375bd916a4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840859125
+        }
+    ],
+    "wof:id":840859125,
+    "wof:lastmodified":1464049639,
+    "wof:name":"Hulser Remodeling",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.679881,
+    38.980613,
+    -95.679881,
+    38.980613
+],
+  "geometry": {"coordinates":[-95.67988099999999,38.980613],"type":"Point"}
+}

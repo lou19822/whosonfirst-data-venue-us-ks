@@ -1,0 +1,78 @@
+{
+  "id": 856706243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.669201,38.883134,-94.669201,38.883134",
+    "geom:latitude":38.883134,
+    "geom:longitude":-94.669201,
+    "iso:country":"US",
+    "sg:address":"7109 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/115621-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 814 7753",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PxeC5GXPuHvTj3nGFPBaN_38.883134_-94.669201@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052191,
+    "wof:geomhash":"91fbb0c37b2cdaba87775c9f59bd178c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":856706243
+        }
+    ],
+    "wof:id":856706243,
+    "wof:lastmodified":1464052191,
+    "wof:name":"Subway",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.669201,
+    38.883134,
+    -94.669201,
+    38.883134
+],
+  "geometry": {"coordinates":[-94.669201,38.883134],"type":"Point"}
+}

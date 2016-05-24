@@ -1,0 +1,78 @@
+{
+  "id": 856707137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.684625,39.015187,-95.684625,39.015187",
+    "geom:latitude":39.015187,
+    "geom:longitude":-95.684625,
+    "iso:country":"US",
+    "sg:address":"400 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/77555-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 7227",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881563,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SscPwPqtKVhn3ZPWO87jI_39.015187_-95.684625@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052210,
+    "wof:geomhash":"f3d15f6b333abc93bfb7e08313b3702e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881563,
+            "region_id":85688555,
+            "venue_id":856707137
+        }
+    ],
+    "wof:id":856707137,
+    "wof:lastmodified":1464052210,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85881563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.684625,
+    39.015187,
+    -95.684625,
+    39.015187
+],
+  "geometry": {"coordinates":[-95.684625,39.015187],"type":"Point"}
+}

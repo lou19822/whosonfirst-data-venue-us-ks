@@ -1,0 +1,77 @@
+{
+  "id": 840661789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.454016,37.646665,-97.454016,37.646665",
+    "geom:latitude":37.646665,
+    "geom:longitude":-97.454016,
+    "iso:country":"US",
+    "sg:address":"2630 S Glacier Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 9594",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852945,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FPZIzWjsZeiilfJ2U9swN_37.646665_-97.454016@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045143,
+    "wof:geomhash":"ffc243cfa94e1401e7cd69f3e4896ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85852945,
+            "region_id":85688555,
+            "venue_id":840661789
+        }
+    ],
+    "wof:id":840661789,
+    "wof:lastmodified":1464045143,
+    "wof:name":"Holmes Masonary",
+    "wof:parent_id":85852945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.454016,
+    37.646665,
+    -97.454016,
+    37.646665
+],
+  "geometry": {"coordinates":[-97.454016,37.646665],"type":"Point"}
+}

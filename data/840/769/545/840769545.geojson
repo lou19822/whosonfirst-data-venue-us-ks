@@ -1,0 +1,73 @@
+{
+  "id": 840769545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.649407,39.045466,-95.649407,39.045466",
+    "geom:latitude":39.045466,
+    "geom:longitude":-95.649407,
+    "iso:country":"US",
+    "sg:address":"2001 SE 6th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 6823",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oiDqzBWkdl1BKQYt6saFy_39.045466_-95.649407@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047562,
+    "wof:geomhash":"993b86905433d98edcda81b4b1a2b90a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840769545
+        }
+    ],
+    "wof:id":840769545,
+    "wof:lastmodified":1464047562,
+    "wof:name":"Gossers Auto Electric Inc",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -95.649407,
+    39.045466,
+    -95.649407,
+    39.045466
+],
+  "geometry": {"coordinates":[-95.649407,39.045466],"type":"Point"}
+}

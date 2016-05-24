@@ -1,0 +1,75 @@
+{
+  "id": 840929807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.900104,39.254769,-94.900104,39.254769",
+    "geom:latitude":39.254769,
+    "geom:longitude":-94.900104,
+    "iso:country":"US",
+    "sg:address":"403 N Main St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 1029",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844391,
+        102191575,
+        404504467,
+        85633793,
+        85945367,
+        102083429,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64G8AqVTeAmEymH45KB2UC_39.254769_-94.900104@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051243,
+    "wof:geomhash":"c268542a03fc70c3538a6a5196f1decf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504467,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":840929807
+        }
+    ],
+    "wof:id":840929807,
+    "wof:lastmodified":1464051243,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.900104,
+    39.254769,
+    -94.900104,
+    39.254769
+],
+  "geometry": {"coordinates":[-94.900104,39.254769],"type":"Point"}
+}

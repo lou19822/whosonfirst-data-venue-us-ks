@@ -1,0 +1,66 @@
+{
+  "id": 840778809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.707702,37.410977,-94.707702,37.410977",
+    "geom:latitude":37.410977,
+    "geom:longitude":-94.707702,
+    "iso:country":"US",
+    "sg:address":"308 N Walnut St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 8110",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u1vRb8Ko1FdJqErXdTeZT_37.410977_-94.707702@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047735,
+    "wof:geomhash":"80b1c00a679a6f302bac45d3ea32fcea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840778809
+        }
+    ],
+    "wof:id":840778809,
+    "wof:lastmodified":1464047735,
+    "wof:name":"Pittsburg Public Library",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.707702,
+    37.410977,
+    -94.707702,
+    37.410977
+],
+  "geometry": {"coordinates":[-94.707702,37.410977],"type":"Point"}
+}

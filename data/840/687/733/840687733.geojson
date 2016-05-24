@@ -1,0 +1,77 @@
+{
+  "id": 840687733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.621634,39.06078,-94.621634,39.06078",
+    "geom:latitude":39.06078,
+    "geom:longitude":-94.621634,
+    "iso:country":"US",
+    "sg:address":"1020 Southwest Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 621 2170",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866785,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a7w67PI1y153n3C0dW5VP_39.060780_-94.621634@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045772,
+    "wof:geomhash":"f995939febeb76571913e2632448f53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":840687733
+        }
+    ],
+    "wof:id":840687733,
+    "wof:lastmodified":1464045772,
+    "wof:name":"Boulevard Auto Sales",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.621634,
+    39.06078,
+    -94.621634,
+    39.06078
+],
+  "geometry": {"coordinates":[-94.621634,39.06078],"type":"Point"}
+}

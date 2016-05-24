@@ -1,0 +1,78 @@
+{
+  "id": 856706883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.674038,39.049989,-95.674038,39.049989",
+    "geom:latitude":39.049989,
+    "geom:longitude":-95.674038,
+    "iso:country":"US",
+    "sg:address":"718 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/228736-jersey-mikes/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 7827",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56cfB8jUw9SuC4JxfaTE4S_39.049989_-95.674038@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052204,
+    "wof:geomhash":"cf17f10d492f3db8681ac86c46aac5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":856706883
+        }
+    ],
+    "wof:id":856706883,
+    "wof:lastmodified":1464052204,
+    "wof:name":"Jersey Mike's",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.674038,
+    39.049989,
+    -95.674038,
+    39.049989
+],
+  "geometry": {"coordinates":[-95.674038,39.049989],"type":"Point"}
+}

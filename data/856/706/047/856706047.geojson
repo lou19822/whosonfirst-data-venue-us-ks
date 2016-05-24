@@ -1,0 +1,76 @@
+{
+  "id": 856706047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.725356,39.014793,-94.725356,39.014793",
+    "geom:latitude":39.014793,
+    "geom:longitude":-94.725356,
+    "iso:country":"US",
+    "sg:address":"12014 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/208194-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 7114",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tDrvphPIX1I2hhlEouzcH_39.014793_-94.725356@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052187,
+    "wof:geomhash":"e50032b50414a1946813c36a0e4df852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":856706047
+        }
+    ],
+    "wof:id":856706047,
+    "wof:lastmodified":1464052187,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.725356,
+    39.014793,
+    -94.725356,
+    39.014793
+],
+  "geometry": {"coordinates":[-94.725356,39.014793],"type":"Point"}
+}

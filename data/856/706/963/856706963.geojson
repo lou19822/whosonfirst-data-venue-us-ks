@@ -1,0 +1,80 @@
+{
+  "id": 856706963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761782,39.045129,-95.761782,39.045129",
+    "geom:latitude":39.045129,
+    "geom:longitude":-95.761782,
+    "iso:country":"US",
+    "sg:address":"1227 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/184815-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 215 8807",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xe8whTyoi5Qw6phVqrJvj_39.045129_-95.761782@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052207,
+    "wof:geomhash":"93961ea1e8d45e2199d7f38173b503b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706963
+        }
+    ],
+    "wof:id":856706963,
+    "wof:lastmodified":1464052207,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.761782,
+    39.045129,
+    -95.761782,
+    39.045129
+],
+  "geometry": {"coordinates":[-95.761782,39.045129],"type":"Point"}
+}

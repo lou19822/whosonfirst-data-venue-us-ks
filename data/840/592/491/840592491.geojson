@@ -1,0 +1,78 @@
+{
+  "id": 840592491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.22879,37.693935,-97.22879,37.693935",
+    "geom:latitude":37.693935,
+    "geom:longitude":-97.22879,
+    "iso:country":"US",
+    "sg:address":"9330 E Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 636 1188",
+    "sg:postcode":"67206",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.attentioncenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819881,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iwYnCR32c5WOh84JAaVV5_37.693935_-97.228790@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043479,
+    "wof:geomhash":"428e56dd47eec218175d42cee96cf525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85819881,
+            "region_id":85688555,
+            "venue_id":840592491
+        }
+    ],
+    "wof:id":840592491,
+    "wof:lastmodified":1464043479,
+    "wof:name":"Attention Center",
+    "wof:parent_id":85819881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.22879,
+    37.693935,
+    -97.22879,
+    37.693935
+],
+  "geometry": {"coordinates":[-97.22879,37.693935],"type":"Point"}
+}

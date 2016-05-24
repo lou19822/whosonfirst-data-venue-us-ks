@@ -1,0 +1,74 @@
+{
+  "id": 840903517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.729317,37.41117,-94.729317,37.41117",
+    "geom:latitude":37.41117,
+    "geom:longitude":-94.729317,
+    "iso:country":"US",
+    "sg:address":"1813 W 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7560",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "sg:website":"www.ksdot.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hw3w5dE4bkPnJSVhfFt1X_37.411170_-94.729317@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050567,
+    "wof:geomhash":"80a188275f9cbfa9ab2af9f6071d4783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840903517
+        }
+    ],
+    "wof:id":840903517,
+    "wof:lastmodified":1464050567,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -94.729317,
+    37.41117,
+    -94.729317,
+    37.41117
+],
+  "geometry": {"coordinates":[-94.72931699999999,37.41117],"type":"Point"}
+}

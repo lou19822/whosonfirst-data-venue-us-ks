@@ -1,0 +1,74 @@
+{
+  "id": 856707061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664741,39.087814,-95.664741,39.087814",
+    "geom:latitude":39.087814,
+    "geom:longitude":-95.664741,
+    "iso:country":"US",
+    "sg:address":"2117 NW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/200410-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 1754",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e6dhU7yI3zLdSgHgEGzAm_39.087814_-95.664741@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052209,
+    "wof:geomhash":"28518b1b59ab1fd7183b1dccacc7c605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":856707061
+        }
+    ],
+    "wof:id":856707061,
+    "wof:lastmodified":1464052209,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.664741,
+    39.087814,
+    -95.664741,
+    39.087814
+],
+  "geometry": {"coordinates":[-95.66474100000001,39.087814],"type":"Point"}
+}

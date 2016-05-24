@@ -1,0 +1,71 @@
+{
+  "id": 840681253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.723972,39.079246,-95.723972,39.079246",
+    "geom:latitude":39.079246,
+    "geom:longitude":-95.723972,
+    "iso:country":"US",
+    "sg:address":"1555 NW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 539 0444",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lyGdrXHsBke3HiLHk6BWI_39.079246_-95.723972@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045605,
+    "wof:geomhash":"666f0aaf7376bad4d0f4955a94b53e28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840681253
+        }
+    ],
+    "wof:id":840681253,
+    "wof:lastmodified":1464045605,
+    "wof:name":"E-Kan Fire Equipment",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -95.723972,
+    39.079246,
+    -95.723972,
+    39.079246
+],
+  "geometry": {"coordinates":[-95.723972,39.079246],"type":"Point"}
+}

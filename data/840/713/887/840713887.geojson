@@ -1,0 +1,71 @@
+{
+  "id": 840713887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.398972,37.671696,-97.398972,37.671696",
+    "geom:latitude":37.671696,
+    "geom:longitude":-97.398972,
+    "iso:country":"US",
+    "sg:address":"4848 W Irving St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 3000",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LaO6VBvdNk63zlLSUbqMA_37.671696_-97.398972@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046382,
+    "wof:geomhash":"d33418a9b112aeb5669d63eddc18c3fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840713887
+        }
+    ],
+    "wof:id":840713887,
+    "wof:lastmodified":1464046382,
+    "wof:name":"Global Engineering Technology",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -97.398972,
+    37.671696,
+    -97.398972,
+    37.671696
+],
+  "geometry": {"coordinates":[-97.398972,37.671696],"type":"Point"}
+}

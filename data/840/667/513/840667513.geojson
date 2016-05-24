@@ -1,0 +1,71 @@
+{
+  "id": 840667513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.314152,37.648374,-97.314152,37.648374",
+    "geom:latitude":37.648374,
+    "geom:longitude":-97.314152,
+    "iso:country":"US",
+    "sg:address":"2530 S Southeast Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 0407",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25XzC3eLVWLSlQikrpqYcL_37.648374_-97.314152@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045263,
+    "wof:geomhash":"d7a2308c101276a09ceb1202a606b957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840667513
+        }
+    ],
+    "wof:id":840667513,
+    "wof:lastmodified":1464045263,
+    "wof:name":"Rainbo Baking Co",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -97.314152,
+    37.648374,
+    -97.314152,
+    37.648374
+],
+  "geometry": {"coordinates":[-97.31415200000001,37.648374],"type":"Point"}
+}

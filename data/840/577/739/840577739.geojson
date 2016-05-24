@@ -1,0 +1,77 @@
+{
+  "id": 840577739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.4442,37.694159,-97.4442,37.694159",
+    "geom:latitude":37.694159,
+    "geom:longitude":-97.4442,
+    "iso:country":"US",
+    "sg:address":"8542 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 8771",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DL2Ovhexb2yD4v2sjjLiD_37.694159_-97.444200@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043159,
+    "wof:geomhash":"59b98b95815453431a8087ae0abd392c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840577739
+        }
+    ],
+    "wof:id":840577739,
+    "wof:lastmodified":1464043159,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -97.4442,
+    37.694159,
+    -97.4442,
+    37.694159
+],
+  "geometry": {"coordinates":[-97.4442,37.694159],"type":"Point"}
+}

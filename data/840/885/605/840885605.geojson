@@ -1,0 +1,75 @@
+{
+  "id": 840885605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.205236,38.40437,-96.205236,38.40437",
+    "geom:latitude":38.40437,
+    "geom:longitude":-96.205236,
+    "iso:country":"US",
+    "sg:address":"502 Albert St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2425",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oRFwVt43a3gmxEWrLzO7h_38.404370_-96.205236@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050191,
+    "wof:geomhash":"2cf999ea037900345fb726f1e2d7bb30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840885605
+        }
+    ],
+    "wof:id":840885605,
+    "wof:lastmodified":1464050191,
+    "wof:name":"Emporia Livestock Sales Co",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ]
+},
+  "bbox": [
+    -96.205236,
+    38.40437,
+    -96.205236,
+    38.40437
+],
+  "geometry": {"coordinates":[-96.205236,38.40437],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840583833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762258,39.129311,-95.762258,39.129311",
+    "geom:latitude":39.129311,
+    "geom:longitude":-95.762258,
+    "iso:country":"US",
+    "sg:address":"4346 NW Leedy Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2040",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05SwNtpcmsZ9ysZJGvXHfX_39.129311_-95.762258@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043288,
+    "wof:geomhash":"fb45d96c5209787b6fbc2df1178638ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840583833
+        }
+    ],
+    "wof:id":840583833,
+    "wof:lastmodified":1464043288,
+    "wof:name":"Conley Refinishing",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -95.762258,
+    39.129311,
+    -95.762258,
+    39.129311
+],
+  "geometry": {"coordinates":[-95.762258,39.129311],"type":"Point"}
+}

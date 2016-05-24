@@ -1,0 +1,72 @@
+{
+  "id": 856709021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.33326,37.650138,-97.33326,37.650138",
+    "geom:latitude":37.650138,
+    "geom:longitude":-97.33326,
+    "iso:country":"US",
+    "sg:address":"444 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/218782-braums-ice-cream--dairy-stores/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 3711",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zVDhce5pT9RFpb1ojtYEF_37.650138_-97.333260@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052247,
+    "wof:geomhash":"646ab83d8a69fbf11dc06820f9998946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":856709021
+        }
+    ],
+    "wof:id":856709021,
+    "wof:lastmodified":1464052247,
+    "wof:name":"Braum's Ice Cream & Dairy Stores",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -97.33326,
+    37.650138,
+    -97.33326,
+    37.650138
+],
+  "geometry": {"coordinates":[-97.33326,37.650138],"type":"Point"}
+}

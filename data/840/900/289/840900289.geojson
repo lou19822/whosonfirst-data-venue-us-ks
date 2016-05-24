@@ -1,0 +1,71 @@
+{
+  "id": 840900289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.429854,37.741596,-97.429854,37.741596",
+    "geom:latitude":37.741596,
+    "geom:longitude":-97.429854,
+    "iso:country":"US",
+    "sg:address":"3222 N Forest Lakes St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 7339",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uU6IX0WHSlnnHbeSxDmiP_37.741596_-97.429854@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050502,
+    "wof:geomhash":"8363e683663f8e370f7853ad9f4565c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840900289
+        }
+    ],
+    "wof:id":840900289,
+    "wof:lastmodified":1464050502,
+    "wof:name":"Kansas Radio Network",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -97.429854,
+    37.741596,
+    -97.429854,
+    37.741596
+],
+  "geometry": {"coordinates":[-97.42985400000001,37.741596],"type":"Point"}
+}

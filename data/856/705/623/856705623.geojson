@@ -1,0 +1,80 @@
+{
+  "id": 856705623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.669547,38.96447,-94.669547,38.96447",
+    "geom:latitude":38.96447,
+    "geom:longitude":-94.669547,
+    "iso:country":"US",
+    "sg:address":"9090 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/174272-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 341 5089",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879595,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3plKPI6tMgW9Le3T3ejsCS_38.964470_-94.669547@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052180,
+    "wof:geomhash":"84b18d254256780e4958abb50de610f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879595,
+            "region_id":85688555,
+            "venue_id":856705623
+        }
+    ],
+    "wof:id":856705623,
+    "wof:lastmodified":1464052180,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85879595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.669547,
+    38.96447,
+    -94.669547,
+    38.96447
+],
+  "geometry": {"coordinates":[-94.66954699999999,38.96447],"type":"Point"}
+}

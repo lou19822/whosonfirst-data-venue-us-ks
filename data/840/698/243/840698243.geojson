@@ -1,0 +1,75 @@
+{
+  "id": 840698243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.289638,37.664638,-97.289638,37.664638",
+    "geom:latitude":37.664638,
+    "geom:longitude":-97.289638,
+    "iso:country":"US",
+    "sg:address":"4120 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 687 4014",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jakZCP8ZFBjTLBRbY2h9c_37.664638_-97.289638@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046040,
+    "wof:geomhash":"228691283a85e966ca6926ac047ccffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840698243
+        }
+    ],
+    "wof:id":840698243,
+    "wof:lastmodified":1464046040,
+    "wof:name":"US Air Force Recruiting",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -97.289638,
+    37.664638,
+    -97.289638,
+    37.664638
+],
+  "geometry": {"coordinates":[-97.289638,37.664638],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856706115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.761424,38.955635,-94.761424,38.955635",
+    "geom:latitude":38.955635,
+    "geom:longitude":-94.761424,
+    "iso:country":"US",
+    "sg:address":"9510 Lackman Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/174276-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 894 0985",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r8X93RvCVRyeGQHL6QTLp_38.955635_-94.761424@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052188,
+    "wof:geomhash":"10a2cf15be528f505ea2c779ca775ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856706115
+        }
+    ],
+    "wof:id":856706115,
+    "wof:lastmodified":1464052188,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.761424,
+    38.955635,
+    -94.761424,
+    38.955635
+],
+  "geometry": {"coordinates":[-94.76142400000001,38.955635],"type":"Point"}
+}

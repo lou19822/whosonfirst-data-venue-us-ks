@@ -1,0 +1,78 @@
+{
+  "id": 856706925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.699289,39.036897,-95.699289,39.036897",
+    "geom:latitude":39.036897,
+    "geom:longitude":-95.699289,
+    "iso:country":"US",
+    "sg:address":"1616 SW 17th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/47085-varsity-blues-bar--bar-b-que/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 0700",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zmTKlYCx8xVEjFX9XudKj_39.036897_-95.699289@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052205,
+    "wof:geomhash":"e8d44501c1bc5dd4447649e66c3e362c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":856706925
+        }
+    ],
+    "wof:id":856706925,
+    "wof:lastmodified":1464052205,
+    "wof:name":"Varsity Blues Bar & Bar-b-que",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.699289,
+    39.036897,
+    -95.699289,
+    39.036897
+],
+  "geometry": {"coordinates":[-95.69928899999999,39.036897],"type":"Point"}
+}

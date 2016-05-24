@@ -1,0 +1,77 @@
+{
+  "id": 840688787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.644464,39.081974,-94.644464,39.081974",
+    "geom:latitude":39.081974,
+    "geom:longitude":-94.644464,
+    "iso:country":"US",
+    "sg:address":"1147 S 14 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 621 0326",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "railroad",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878487,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mjdxuOwzCcNsBkHQ4VS3Q_39.081974_-94.644464@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045791,
+    "wof:geomhash":"d53af35f75fb4db6099e0f9817376286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878487,
+            "region_id":85688555,
+            "venue_id":840688787
+        }
+    ],
+    "wof:id":840688787,
+    "wof:lastmodified":1464045791,
+    "wof:name":"Kansas City Railcar Svc",
+    "wof:parent_id":85878487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.644464,
+    39.081974,
+    -94.644464,
+    39.081974
+],
+  "geometry": {"coordinates":[-94.644464,39.081974],"type":"Point"}
+}

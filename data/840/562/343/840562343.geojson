@@ -1,0 +1,73 @@
+{
+  "id": 840562343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.329358,37.649873,-97.329358,37.649873",
+    "geom:latitude":37.649873,
+    "geom:longitude":-97.329358,
+    "iso:country":"US",
+    "sg:address":"718 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 4500",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qoLOfjspqa1myRPb9GoAF_37.649873_-97.329358@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042789,
+    "wof:geomhash":"dae8722dfdf22f25826249ff2aae6581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840562343
+        }
+    ],
+    "wof:id":840562343,
+    "wof:lastmodified":1464042789,
+    "wof:name":"Genny's Cold Brew Lounge",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -97.329358,
+    37.649873,
+    -97.329358,
+    37.649873
+],
+  "geometry": {"coordinates":[-97.329358,37.649873],"type":"Point"}
+}

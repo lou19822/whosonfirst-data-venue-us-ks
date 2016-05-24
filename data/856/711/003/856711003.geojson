@@ -1,0 +1,78 @@
+{
+  "id": 856711003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.768003,38.910327,-94.768003,38.910327",
+    "geom:latitude":38.910327,
+    "geom:longitude":-94.768003,
+    "iso:country":"US",
+    "sg:address":"11973 S Strang Line Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/10484-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 397 8222",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kms2QTjMXek97mEyWPM9U_38.910326_-94.767945@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052286,
+    "wof:geomhash":"ccd8330c5e4f5b0bf1a9b3a1fe06d33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856711003
+        }
+    ],
+    "wof:id":856711003,
+    "wof:lastmodified":1464052286,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -94.768003,
+    38.910327,
+    -94.768003,
+    38.910327
+],
+  "geometry": {"coordinates":[-94.76800299999999,38.910327],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840655553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.698194,39.081196,-95.698194,39.081196",
+    "geom:latitude":39.081196,
+    "geom:longitude":-95.698194,
+    "iso:country":"US",
+    "sg:address":"2101 NW Lower Silver Lake Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 6414",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FnjIuXn4ocgVy8s4QMwqD_39.081196_-95.698194@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045014,
+    "wof:geomhash":"11f33040cbe107dbc090b38b64c766d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840655553
+        }
+    ],
+    "wof:id":840655553,
+    "wof:lastmodified":1464045014,
+    "wof:name":"Nails By Lawanna",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -95.698194,
+    39.081196,
+    -95.698194,
+    39.081196
+],
+  "geometry": {"coordinates":[-95.698194,39.081196],"type":"Point"}
+}

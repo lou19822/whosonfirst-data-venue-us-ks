@@ -1,0 +1,71 @@
+{
+  "id": 840586927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.317206,37.664517,-97.317206,37.664517",
+    "geom:latitude":37.664517,
+    "geom:longitude":-97.317206,
+    "iso:country":"US",
+    "sg:address":"1602 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 6932",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qV9eGFjkZbTa2boKNK0Xt_37.664517_-97.317206@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043359,
+    "wof:geomhash":"6a86e136f685be97520250947f66a3bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840586927
+        }
+    ],
+    "wof:id":840586927,
+    "wof:lastmodified":1464043359,
+    "wof:name":"Sports Burger",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -97.317206,
+    37.664517,
+    -97.317206,
+    37.664517
+],
+  "geometry": {"coordinates":[-97.317206,37.664517],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840888653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.743681,39.014827,-95.743681,39.014827",
+    "geom:latitude":39.014827,
+    "geom:longitude":-95.743681,
+    "iso:country":"US",
+    "sg:address":"5007 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 7033",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38D0Wr5HX4eOWtxGSJ3K0M_39.014827_-95.743681@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050253,
+    "wof:geomhash":"16eb05563df63b69bb12fe9be585e03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840888653
+        }
+    ],
+    "wof:id":840888653,
+    "wof:lastmodified":1464050253,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -95.743681,
+    39.014827,
+    -95.743681,
+    39.014827
+],
+  "geometry": {"coordinates":[-95.743681,39.014827],"type":"Point"}
+}

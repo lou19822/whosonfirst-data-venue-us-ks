@@ -1,0 +1,77 @@
+{
+  "id": 840759139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.682803,39.037431,-95.682803,39.037431",
+    "geom:latitude":39.037431,
+    "geom:longitude":-95.682803,
+    "iso:country":"US",
+    "sg:address":"1634 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 8671",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fIowaQMrYchj8S5PHXOg3_39.037431_-95.682803@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047312,
+    "wof:geomhash":"cdeeeed1b78a9837f804de773eb990bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840759139
+        }
+    ],
+    "wof:id":840759139,
+    "wof:lastmodified":1464047312,
+    "wof:name":"Kansas Tire & Auto",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.682803,
+    39.037431,
+    -95.682803,
+    39.037431
+],
+  "geometry": {"coordinates":[-95.68280300000001,39.037431],"type":"Point"}
+}

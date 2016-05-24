@@ -1,0 +1,73 @@
+{
+  "id": 840619859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.732762,38.874972,-94.732762,38.874972",
+    "geom:latitude":38.874972,
+    "geom:longitude":-94.732762,
+    "iso:country":"US",
+    "sg:address":"11905 W 141st St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 1782",
+    "sg:postcode":"66221",
+    "sg:province":"KS",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f3MIP4od4Se0etqxoGWr0_38.874972_-94.732762@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044163,
+    "wof:geomhash":"3a03039289777537bd484ecd2a721e6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840619859
+        }
+    ],
+    "wof:id":840619859,
+    "wof:lastmodified":1464044163,
+    "wof:name":"Home Radon Detection Co",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -94.732762,
+    38.874972,
+    -94.732762,
+    38.874972
+],
+  "geometry": {"coordinates":[-94.73276199999999,38.874972],"type":"Point"}
+}

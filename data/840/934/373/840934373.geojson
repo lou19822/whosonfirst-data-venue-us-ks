@@ -1,0 +1,71 @@
+{
+  "id": 840934373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.380713,37.719275,-97.380713,37.719275",
+    "geom:latitude":37.719275,
+    "geom:longitude":-97.380713,
+    "iso:country":"US",
+    "sg:address":"1951 N Sheridan St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 9624",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hK2onzqHPyWiKMVrvnqNg_37.719275_-97.380713@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051334,
+    "wof:geomhash":"77362f753162c1efece36948e61e723d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840934373
+        }
+    ],
+    "wof:id":840934373,
+    "wof:lastmodified":1464051334,
+    "wof:name":"Macon Home Inspection Co",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -97.380713,
+    37.719275,
+    -97.380713,
+    37.719275
+],
+  "geometry": {"coordinates":[-97.380713,37.719275],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840777335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.208847,38.415626,-96.208847,38.415626",
+    "geom:latitude":38.415626,
+    "geom:longitude":-96.208847,
+    "iso:country":"US",
+    "sg:address":"1226 Thompson St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 1974",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k7u6NQ8iawun1ExwL3LCX_38.415626_-96.208847@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047709,
+    "wof:geomhash":"20ca8e03209acbefb2dcba83bec6ab4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840777335
+        }
+    ],
+    "wof:id":840777335,
+    "wof:lastmodified":1464047709,
+    "wof:name":"Bob's Computer Svc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -96.208847,
+    38.415626,
+    -96.208847,
+    38.415626
+],
+  "geometry": {"coordinates":[-96.20884700000001,38.415626],"type":"Point"}
+}

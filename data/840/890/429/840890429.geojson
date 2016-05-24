@@ -1,0 +1,79 @@
+{
+  "id": 840890429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668027,39.075197,-94.668027,39.075197",
+    "geom:latitude":39.075197,
+    "geom:longitude":-94.668027,
+    "iso:country":"US",
+    "sg:address":"3304 Strong Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 522 5637",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I8YXYqsbSsrTqjJga76AA_39.075197_-94.668027@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050293,
+    "wof:geomhash":"444d36a4b6e00ad6913dfb7335b5adcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840890429
+        }
+    ],
+    "wof:id":840890429,
+    "wof:lastmodified":1464050293,
+    "wof:name":"Matt & Dubs Custom Body Shop",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.668027,
+    39.075197,
+    -94.668027,
+    39.075197
+],
+  "geometry": {"coordinates":[-94.668027,39.075197],"type":"Point"}
+}

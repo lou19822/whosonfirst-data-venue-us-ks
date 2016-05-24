@@ -1,0 +1,75 @@
+{
+  "id": 840860413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.883783,37.8192,-96.883783,37.8192",
+    "geom:latitude":37.8192,
+    "geom:longitude":-96.883783,
+    "iso:country":"US",
+    "sg:address":"240 Metcalf Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 322 3020",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_604y0r7ciuRsh093lSY49E_37.819200_-96.883783@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049663,
+    "wof:geomhash":"fa76cb9d5e8dd2e78321ca48079c36e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840860413
+        }
+    ],
+    "wof:id":840860413,
+    "wof:lastmodified":1464049663,
+    "wof:name":"Crown Energy",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.883783,
+    37.8192,
+    -96.883783,
+    37.8192
+],
+  "geometry": {"coordinates":[-96.88378299999999,37.8192],"type":"Point"}
+}

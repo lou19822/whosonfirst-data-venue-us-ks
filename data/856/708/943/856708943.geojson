@@ -1,0 +1,76 @@
+{
+  "id": 856708943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444107,37.673836,-97.444107,37.673836",
+    "geom:latitude":37.673836,
+    "geom:longitude":-97.444107,
+    "iso:country":"US",
+    "sg:address":"600 S Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/10750-side-pockets/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 4000",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852945,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dYQOor1grX6GttNnH8tyn_37.673836_-97.444107@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052246,
+    "wof:geomhash":"46d0f7b4119d6e11c418431b70b7043e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85852945,
+            "region_id":85688555,
+            "venue_id":856708943
+        }
+    ],
+    "wof:id":856708943,
+    "wof:lastmodified":1464052246,
+    "wof:name":"Side Pockets",
+    "wof:parent_id":85852945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -97.444107,
+    37.673836,
+    -97.444107,
+    37.673836
+],
+  "geometry": {"coordinates":[-97.444107,37.673836],"type":"Point"}
+}

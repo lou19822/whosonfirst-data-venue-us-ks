@@ -1,0 +1,73 @@
+{
+  "id": 840869087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.136745,37.693954,-97.136745,37.693954",
+    "geom:latitude":37.693954,
+    "geom:longitude":-97.136745,
+    "iso:country":"US",
+    "sg:address":"313 W Central Ave",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 4848",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HnNbfctfSIvaqTvqwczrJ_37.693954_-97.136745@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049837,
+    "wof:geomhash":"a097fdf8334e71b2c12879722b91f519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840869087
+        }
+    ],
+    "wof:id":840869087,
+    "wof:lastmodified":1464049837,
+    "wof:name":"Quality Quick Lube N Wash",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.136745,
+    37.693954,
+    -97.136745,
+    37.693954
+],
+  "geometry": {"coordinates":[-97.136745,37.693954],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840881915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.729836,37.406349,-94.729836,37.406349",
+    "geom:latitude":37.406349,
+    "geom:longitude":-94.729836,
+    "iso:country":"US",
+    "sg:address":"108 Westfield Rd",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4729",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o4p5bS6uV86iewhI7LSx1_37.406349_-94.729836@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050110,
+    "wof:geomhash":"1d47c086e5da285f507e684ea4e51053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840881915
+        }
+    ],
+    "wof:id":840881915,
+    "wof:lastmodified":1464050110,
+    "wof:name":"Redds Ind Negative Retouching",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -94.729836,
+    37.406349,
+    -94.729836,
+    37.406349
+],
+  "geometry": {"coordinates":[-94.72983600000001,37.406349],"type":"Point"}
+}

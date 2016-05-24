@@ -1,0 +1,73 @@
+{
+  "id": 840839435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.223333,38.405144,-96.223333,38.405144",
+    "geom:latitude":38.405144,
+    "geom:longitude":-96.223333,
+    "iso:country":"US",
+    "sg:address":"3120 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 2611",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R59oGUdgtkOHQtXYPxA7t_38.405144_-96.223333@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049198,
+    "wof:geomhash":"6e5aef66394f59d013c279e4213c9bf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840839435
+        }
+    ],
+    "wof:id":840839435,
+    "wof:lastmodified":1464049198,
+    "wof:name":"Kelley's U-Stor-It",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -96.223333,
+    38.405144,
+    -96.223333,
+    38.405144
+],
+  "geometry": {"coordinates":[-96.223333,38.405144],"type":"Point"}
+}

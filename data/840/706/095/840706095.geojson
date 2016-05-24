@@ -1,0 +1,71 @@
+{
+  "id": 840706095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.453784,37.705606,-97.453784,37.705606",
+    "geom:latitude":37.705606,
+    "geom:longitude":-97.453784,
+    "iso:country":"US",
+    "sg:address":"1236 N Westlink Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 8153",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hknAzQ4wl2CK7wP80kxRn_37.705606_-97.453784@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046226,
+    "wof:geomhash":"368f926e95daf21093d8e1f38de89a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840706095
+        }
+    ],
+    "wof:id":840706095,
+    "wof:lastmodified":1464046226,
+    "wof:name":"Joe Haynie Htg &AC",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.453784,
+    37.705606,
+    -97.453784,
+    37.705606
+],
+  "geometry": {"coordinates":[-97.453784,37.705606],"type":"Point"}
+}

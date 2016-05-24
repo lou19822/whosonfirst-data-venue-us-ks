@@ -1,0 +1,73 @@
+{
+  "id": 840767603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.707765,37.422078,-94.707765,37.422078",
+    "geom:latitude":37.422078,
+    "geom:longitude":-94.707765,
+    "iso:country":"US",
+    "sg:address":"1506 N Walnut St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5581",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qGHkZ6j4QAXJNzUKfeIhq_37.422078_-94.707765@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047517,
+    "wof:geomhash":"71811af43a4ab8b5ebf4f929e40bbd3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840767603
+        }
+    ],
+    "wof:id":840767603,
+    "wof:lastmodified":1464047517,
+    "wof:name":"Kansas National Guard Armory",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -94.707765,
+    37.422078,
+    -94.707765,
+    37.422078
+],
+  "geometry": {"coordinates":[-94.70776499999999,37.422078],"type":"Point"}
+}

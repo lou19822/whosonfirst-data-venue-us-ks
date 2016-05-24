@@ -1,0 +1,73 @@
+{
+  "id": 840598449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.397115,37.665612,-97.397115,37.665612",
+    "geom:latitude":37.665612,
+    "geom:longitude":-97.397115,
+    "iso:country":"US",
+    "sg:address":"4509 W Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 9699",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tool",
+        "grinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qxbQWBJCbbIc0CJoQSSV3_37.665612_-97.397115@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043620,
+    "wof:geomhash":"37bac6f2b108b66193bb013f13c327bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840598449
+        }
+    ],
+    "wof:id":840598449,
+    "wof:lastmodified":1464043620,
+    "wof:name":"U S Tool Svc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "grinding"
+    ]
+},
+  "bbox": [
+    -97.397115,
+    37.665612,
+    -97.397115,
+    37.665612
+],
+  "geometry": {"coordinates":[-97.397115,37.665612],"type":"Point"}
+}

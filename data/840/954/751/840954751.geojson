@@ -1,0 +1,71 @@
+{
+  "id": 840954751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.679885,38.971507,-95.679885,38.971507",
+    "geom:latitude":38.971507,
+    "geom:longitude":-95.679885,
+    "iso:country":"US",
+    "sg:address":"231 SE 53rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 7616",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QnCiRHvndaHCNDaya2HyP_38.971507_-95.679885@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051740,
+    "wof:geomhash":"2e455184ebc155d904863cc3b9d24721",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840954751
+        }
+    ],
+    "wof:id":840954751,
+    "wof:lastmodified":1464051740,
+    "wof:name":"Appliance Warehouse",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -95.679885,
+    38.971507,
+    -95.679885,
+    38.971507
+],
+  "geometry": {"coordinates":[-95.679885,38.971507],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840791083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704807,37.428164,-94.704807,37.428164",
+    "geom:latitude":37.428164,
+    "geom:longitude":-94.704807,
+    "iso:country":"US",
+    "sg:address":"2204 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0578",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19k7ZV9aiQqyulf0McmJLz_37.428164_-94.704807@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048006,
+    "wof:geomhash":"8ebe94c61254fe7b2ab0bdbad44c3f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840791083
+        }
+    ],
+    "wof:id":840791083,
+    "wof:lastmodified":1464048006,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -94.704807,
+    37.428164,
+    -94.704807,
+    37.428164
+],
+  "geometry": {"coordinates":[-94.704807,37.428164],"type":"Point"}
+}

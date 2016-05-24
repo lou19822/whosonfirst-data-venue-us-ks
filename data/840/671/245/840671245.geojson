@@ -1,0 +1,66 @@
+{
+  "id": 840671245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.116835,37.679551,-97.116835,37.679551",
+    "geom:latitude":37.679551,
+    "geom:longitude":-97.116835,
+    "iso:country":"US",
+    "sg:address":"1608 E US Hwy 54",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 9056",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MJSXoSlWRL4v2Ep0zBswG_37.679551_-97.116835@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045339,
+    "wof:geomhash":"d7e1689660d34aeaad0976499aad9cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840671245
+        }
+    ],
+    "wof:id":840671245,
+    "wof:lastmodified":1464045339,
+    "wof:name":"Presta Oil",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.116835,
+    37.679551,
+    -97.116835,
+    37.679551
+],
+  "geometry": {"coordinates":[-97.11683499999999,37.679551],"type":"Point"}
+}

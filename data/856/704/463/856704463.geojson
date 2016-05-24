@@ -1,0 +1,78 @@
+{
+  "id": 856704463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.783674,38.884141,-94.783674,38.884141",
+    "geom:latitude":38.884141,
+    "geom:longitude":-94.783674,
+    "iso:country":"US",
+    "sg:address":"2004 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/166947-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 4538",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SvzyYz9Uv3boWRYfViS7P_38.884141_-94.783674@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052159,
+    "wof:geomhash":"10b32e55583178b632bf8fbbb4baf79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704463
+        }
+    ],
+    "wof:id":856704463,
+    "wof:lastmodified":1464052159,
+    "wof:name":"Burger King",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.783674,
+    38.884141,
+    -94.783674,
+    38.884141
+],
+  "geometry": {"coordinates":[-94.783674,38.884141],"type":"Point"}
+}

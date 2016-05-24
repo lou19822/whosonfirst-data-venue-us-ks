@@ -1,0 +1,73 @@
+{
+  "id": 840586535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.603447,39.102589,-95.603447,39.102589",
+    "geom:latitude":39.102589,
+    "geom:longitude":-95.603447,
+    "iso:country":"US",
+    "sg:address":"2642 NE 31st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0335",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EimREWRDWh7OHCcHpPwRy_39.102589_-95.603447@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043348,
+    "wof:geomhash":"5a5d2d7d42ff04543ee2ac79bcc9322c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840586535
+        }
+    ],
+    "wof:id":840586535,
+    "wof:lastmodified":1464043348,
+    "wof:name":"R & H Concrete",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.603447,
+    39.102589,
+    -95.603447,
+    39.102589
+],
+  "geometry": {"coordinates":[-95.603447,39.102589],"type":"Point"}
+}

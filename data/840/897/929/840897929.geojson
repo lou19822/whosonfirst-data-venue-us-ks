@@ -1,0 +1,67 @@
+{
+  "id": 840897929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335432,37.655391,-97.335432,37.655391",
+    "geom:latitude":37.655391,
+    "geom:longitude":-97.335432,
+    "iso:country":"US",
+    "sg:address":"2010 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 1923",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:website":"www.quicktrip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hh1WWvdpt1WU7LZpZyTlE_37.655391_-97.335432@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050448,
+    "wof:geomhash":"03478962573718cc0b99f82de9c8c69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840897929
+        }
+    ],
+    "wof:id":840897929,
+    "wof:lastmodified":1464050448,
+    "wof:name":"Quik Trip",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.335432,
+    37.655391,
+    -97.335432,
+    37.655391
+],
+  "geometry": {"coordinates":[-97.335432,37.655391],"type":"Point"}
+}

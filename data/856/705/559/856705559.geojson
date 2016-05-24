@@ -1,0 +1,76 @@
+{
+  "id": 856705559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667804,38.96487,-94.667804,38.96487",
+    "geom:latitude":38.96487,
+    "geom:longitude":-94.667804,
+    "iso:country":"US",
+    "sg:address":"9058 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/44667-la-mesa/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 383 3733",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879595,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FzIWOUpe90GNXZzZq7KSZ_38.964870_-94.667804@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052179,
+    "wof:geomhash":"becf150d6e4f3b289f8d5292375fb6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879595,
+            "region_id":85688555,
+            "venue_id":856705559
+        }
+    ],
+    "wof:id":856705559,
+    "wof:lastmodified":1464052179,
+    "wof:name":"La Mesa",
+    "wof:parent_id":85879595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.667804,
+    38.96487,
+    -94.667804,
+    38.96487
+],
+  "geometry": {"coordinates":[-94.667804,38.96487],"type":"Point"}
+}

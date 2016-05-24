@@ -1,0 +1,77 @@
+{
+  "id": 840782559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.878545,39.061208,-94.878545,39.061208",
+    "geom:latitude":39.061208,
+    "geom:longitude":-94.878545,
+    "iso:country":"US",
+    "sg:address":"112 Cornell Ave",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 2815",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851431,
+        102191575,
+        404504871,
+        85633793,
+        85945359,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aCMmpwcf4hEgnoylnBjMD_39.061208_-94.878545@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047811,
+    "wof:geomhash":"69f78beb392f3eb6242db270676f8f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504871,
+            "locality_id":85945359,
+            "neighbourhood_id":85851431,
+            "region_id":85688555,
+            "venue_id":840782559
+        }
+    ],
+    "wof:id":840782559,
+    "wof:lastmodified":1464047811,
+    "wof:name":"Trinity Automotive",
+    "wof:parent_id":85851431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.878545,
+    39.061208,
+    -94.878545,
+    39.061208
+],
+  "geometry": {"coordinates":[-94.878545,39.061208],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 840851819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.136241,37.713985,-97.136241,37.713985",
+    "geom:latitude":37.713985,
+    "geom:longitude":-97.136241,
+    "iso:country":"US",
+    "sg:address":"1534 N Main St",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 8200",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.jhtrucking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_492BtdKU4EbM07P1KrKPi4_37.713985_-97.136241@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049481,
+    "wof:geomhash":"94646d0a84bf13ecaefc82ed18dcb999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840851819
+        }
+    ],
+    "wof:id":840851819,
+    "wof:lastmodified":1464049481,
+    "wof:name":"J & H Trucking",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.136241,
+    37.713985,
+    -97.136241,
+    37.713985
+],
+  "geometry": {"coordinates":[-97.136241,37.713985],"type":"Point"}
+}

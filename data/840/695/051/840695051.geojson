@@ -1,0 +1,71 @@
+{
+  "id": 840695051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.738258,37.665104,-96.738258,37.665104",
+    "geom:latitude":37.665104,
+    "geom:longitude":-96.738258,
+    "iso:country":"US",
+    "sg:address":"5597 US Hwy 400",
+    "sg:city":"Leon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 742 9214",
+    "sg:postcode":"67074",
+    "sg:province":"KS",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HBEulvyQ9iWBqq8ciw58X_37.665104_-96.738258@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045948,
+    "wof:geomhash":"3b1f2448225e5eaec2c18e4fbfc4a041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840695051
+        }
+    ],
+    "wof:id":840695051,
+    "wof:lastmodified":1464045948,
+    "wof:name":"Terry's Creations Upholstery",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -96.738258,
+    37.665104,
+    -96.738258,
+    37.665104
+],
+  "geometry": {"coordinates":[-96.738258,37.665104],"type":"Point"}
+}

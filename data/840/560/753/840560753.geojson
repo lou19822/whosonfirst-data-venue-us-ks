@@ -1,0 +1,71 @@
+{
+  "id": 840560753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.324317,37.664335,-97.324317,37.664335",
+    "geom:latitude":37.664335,
+    "geom:longitude":-97.324317,
+    "iso:country":"US",
+    "sg:address":"1115 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 269 2188",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nCCcNqwbLAzoia7d9GAtI_37.664335_-97.324317@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042749,
+    "wof:geomhash":"95beea6ef7f4f17173dbfd86a179f77f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840560753
+        }
+    ],
+    "wof:id":840560753,
+    "wof:lastmodified":1464042749,
+    "wof:name":"S-B & Sons Woodworking",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -97.324317,
+    37.664335,
+    -97.324317,
+    37.664335
+],
+  "geometry": {"coordinates":[-97.32431699999999,37.664335],"type":"Point"}
+}

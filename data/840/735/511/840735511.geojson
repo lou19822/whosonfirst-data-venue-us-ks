@@ -1,0 +1,71 @@
+{
+  "id": 840735511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.369814,37.781336,-97.369814,37.781336",
+    "geom:latitude":37.781336,
+    "geom:longitude":-97.369814,
+    "iso:country":"US",
+    "sg:address":"2339 W 53rd St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 1908",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yoicvcfCN8b4KvYgC68o2_37.781336_-97.369814@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046810,
+    "wof:geomhash":"ba6dc80a41a0c8ff07e9a81e3e0306e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840735511
+        }
+    ],
+    "wof:id":840735511,
+    "wof:lastmodified":1464046810,
+    "wof:name":"Jerry S Welding Machine",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -97.369814,
+    37.781336,
+    -97.369814,
+    37.781336
+],
+  "geometry": {"coordinates":[-97.36981400000001,37.781336],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856707119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687579,39.004546,-95.687579,39.004546",
+    "geom:latitude":39.004546,
+    "geom:longitude":-95.687579,
+    "iso:country":"US",
+    "sg:address":"3506 SW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/96193-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 9500",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ANnGB8eiE4SyRPYMGssYl_39.004546_-95.687579@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052210,
+    "wof:geomhash":"c9d4448bea2601c424ac79fc5627481c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":856707119
+        }
+    ],
+    "wof:id":856707119,
+    "wof:lastmodified":1464052210,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.687579,
+    39.004546,
+    -95.687579,
+    39.004546
+],
+  "geometry": {"coordinates":[-95.687579,39.004546],"type":"Point"}
+}

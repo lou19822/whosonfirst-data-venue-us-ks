@@ -1,0 +1,74 @@
+{
+  "id": 840848333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.692583,37.410935,-94.692583,37.410935",
+    "geom:latitude":37.410935,
+    "geom:longitude":-94.692583,
+    "iso:country":"US",
+    "sg:address":"824 E 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1031",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.kcsl.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o7elxFdr4zWY9gkOkG1uG_37.410935_-94.692583@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049406,
+    "wof:geomhash":"0219d7b48bae8a3bc55526a81d13ea6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840848333
+        }
+    ],
+    "wof:id":840848333,
+    "wof:lastmodified":1464049406,
+    "wof:name":"Kansas Children's Svc League",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -94.692583,
+    37.410935,
+    -94.692583,
+    37.410935
+],
+  "geometry": {"coordinates":[-94.692583,37.410935],"type":"Point"}
+}

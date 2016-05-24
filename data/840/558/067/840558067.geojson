@@ -1,0 +1,73 @@
+{
+  "id": 840558067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.219758,38.426848,-96.219758,38.426848",
+    "geom:latitude":38.426848,
+    "geom:longitude":-96.219758,
+    "iso:country":"US",
+    "sg:address":"2910 W 24th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3413",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pqnjOwRZNWCvEXhYrOky1_38.426848_-96.219758@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042694,
+    "wof:geomhash":"473404c58756de12b3cf3925a9badf95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840558067
+        }
+    ],
+    "wof:id":840558067,
+    "wof:lastmodified":1464042694,
+    "wof:name":"Emporia Water Treatment Plant",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -96.219758,
+    38.426848,
+    -96.219758,
+    38.426848
+],
+  "geometry": {"coordinates":[-96.219758,38.426848],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840856269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.873432,38.893264,-94.873432,38.893264",
+    "geom:latitude":38.893264,
+    "geom:longitude":-94.873432,
+    "iso:country":"US",
+    "sg:address":"25005 W 129th Ter",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 2000",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "sg:website":"www.sppi.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812711,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5godqnAKh0youTpFDnUdkr_38.893264_-94.873432@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049574,
+    "wof:geomhash":"55d2f4c1214c0c364b90fcb24798dbd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85812711,
+            "region_id":85688555,
+            "venue_id":840856269
+        }
+    ],
+    "wof:id":840856269,
+    "wof:lastmodified":1464049574,
+    "wof:name":"Midwest Radon Inspection",
+    "wof:parent_id":85812711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -94.873432,
+    38.893264,
+    -94.873432,
+    38.893264
+],
+  "geometry": {"coordinates":[-94.87343199999999,38.893264],"type":"Point"}
+}

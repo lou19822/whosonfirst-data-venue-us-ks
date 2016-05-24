@@ -1,0 +1,73 @@
+{
+  "id": 840585261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.70479,37.423675,-94.70479,37.423675",
+    "geom:latitude":37.423675,
+    "geom:longitude":-94.70479,
+    "iso:country":"US",
+    "sg:address":"1712 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1910",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k6J5zQQcD4aYwawDWmxlS_37.423675_-94.704790@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043323,
+    "wof:geomhash":"65c11f69a51660eff1d014ca971e356f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840585261
+        }
+    ],
+    "wof:id":840585261,
+    "wof:lastmodified":1464043323,
+    "wof:name":"Mike's Used Cars",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.70479,
+    37.423675,
+    -94.70479,
+    37.423675
+],
+  "geometry": {"coordinates":[-94.70479,37.423675],"type":"Point"}
+}

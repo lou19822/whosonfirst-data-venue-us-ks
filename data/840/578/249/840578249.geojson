@@ -1,0 +1,69 @@
+{
+  "id": 840578249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.021272,37.938352,-97.021272,37.938352",
+    "geom:latitude":37.938352,
+    "geom:longitude":-97.021272,
+    "iso:country":"US",
+    "sg:address":"103 Marshall Ave",
+    "sg:city":"Potwin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 752 3874",
+    "sg:postcode":"67123",
+    "sg:province":"KS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n5o2rTSJRkHLQldh6sMyD_37.938352_-97.021272@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043170,
+    "wof:geomhash":"b74954b2c27e973faca3c472872599e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840578249
+        }
+    ],
+    "wof:id":840578249,
+    "wof:lastmodified":1464043170,
+    "wof:name":"Torque Shop",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -97.021272,
+    37.938352,
+    -97.021272,
+    37.938352
+],
+  "geometry": {"coordinates":[-97.021272,37.938352],"type":"Point"}
+}

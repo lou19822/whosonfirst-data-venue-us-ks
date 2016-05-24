@@ -1,0 +1,81 @@
+{
+  "id": 856711319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.669261,38.935529,-94.669261,38.935529",
+    "geom:latitude":38.935529,
+    "geom:longitude":-94.669261,
+    "iso:country":"US",
+    "sg:address":"10635 Floyd St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/12183-stanford--sons-comedy-club/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 385 3866",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879547,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HYhsqzUIbyOdgDKtwvkuj_38.934936_-94.669206@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052292,
+    "wof:geomhash":"5a26755be9a8f547bee559ce08c225fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879547,
+            "region_id":85688555,
+            "venue_id":856711319
+        }
+    ],
+    "wof:id":856711319,
+    "wof:lastmodified":1464052292,
+    "wof:name":"Stanford & Son's Comedy Club",
+    "wof:parent_id":85879547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.669261,
+    38.935529,
+    -94.669261,
+    38.935529
+],
+  "geometry": {"coordinates":[-94.66926100000001,38.935529],"type":"Point"}
+}

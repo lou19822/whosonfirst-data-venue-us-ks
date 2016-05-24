@@ -1,0 +1,71 @@
+{
+  "id": 840624121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389084,37.648895,-97.389084,37.648895",
+    "geom:latitude":37.648895,
+    "geom:longitude":-97.389084,
+    "iso:country":"US",
+    "sg:address":"2500 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 8273",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PJfxkiZjxcbXKw91p4WUP_37.648895_-97.389084@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044275,
+    "wof:geomhash":"7d5cbe13967fbf3ce4818eb7f90a6a56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840624121
+        }
+    ],
+    "wof:id":840624121,
+    "wof:lastmodified":1464044275,
+    "wof:name":"J & J Tire Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -97.389084,
+    37.648895,
+    -97.389084,
+    37.648895
+],
+  "geometry": {"coordinates":[-97.389084,37.648895],"type":"Point"}
+}

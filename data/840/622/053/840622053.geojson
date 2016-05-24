@@ -1,0 +1,71 @@
+{
+  "id": 840622053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848275,37.823535,-96.848275,37.823535",
+    "geom:latitude":37.823535,
+    "geom:longitude":-96.848275,
+    "iso:country":"US",
+    "sg:address":"618 N Vine St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3640",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SdDg8XiHhF8ypk5JXNitf_37.823535_-96.848275@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044212,
+    "wof:geomhash":"a4e1cd557623826e79c782d89870b2ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840622053
+        }
+    ],
+    "wof:id":840622053,
+    "wof:lastmodified":1464044212,
+    "wof:name":"Lube Plus",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -96.848275,
+    37.823535,
+    -96.848275,
+    37.823535
+],
+  "geometry": {"coordinates":[-96.848275,37.823535],"type":"Point"}
+}

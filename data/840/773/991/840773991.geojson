@@ -1,0 +1,71 @@
+{
+  "id": 840773991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.280387,37.643991,-97.280387,37.643991",
+    "geom:latitude":37.643991,
+    "geom:longitude":-97.280387,
+    "iso:country":"US",
+    "sg:address":"2550 S Oliver St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 619 5762",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eHFJUuiVrQilUAU5bqhup_37.643991_-97.280387@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047650,
+    "wof:geomhash":"7b820abc2d0aa4fedbed48103fd92f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840773991
+        }
+    ],
+    "wof:id":840773991,
+    "wof:lastmodified":1464047650,
+    "wof:name":"Midwest Janitorial",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -97.280387,
+    37.643991,
+    -97.280387,
+    37.643991
+],
+  "geometry": {"coordinates":[-97.280387,37.643991],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840746371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.488987,37.68769,-97.488987,37.68769",
+    "geom:latitude":37.68769,
+    "geom:longitude":-97.488987,
+    "iso:country":"US",
+    "sg:address":"12610 W Hardtner Cir",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 0303",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05BWaoHLhRzTCRBzkEfRu6_37.687690_-97.488987@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047016,
+    "wof:geomhash":"8073a256e62c8001ff1829659f177c5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840746371
+        }
+    ],
+    "wof:id":840746371,
+    "wof:lastmodified":1464047016,
+    "wof:name":"Handyman Matters",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -97.488987,
+    37.68769,
+    -97.488987,
+    37.68769
+],
+  "geometry": {"coordinates":[-97.48898699999999,37.68769],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840732731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.648016,39.115466,-94.648016,39.115466",
+    "geom:latitude":39.115466,
+    "geom:longitude":-94.648016,
+    "iso:country":"US",
+    "sg:address":"1615 Minnesota Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 2529",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878505,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0McE8XtfIJk97kyXok5flP_39.115466_-94.648016@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046759,
+    "wof:geomhash":"b08c9f1b95f1e3ac910948766a495d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878505,
+            "region_id":85688555,
+            "venue_id":840732731
+        }
+    ],
+    "wof:id":840732731,
+    "wof:lastmodified":1464046759,
+    "wof:name":"Eddie's Fender & Body Shop",
+    "wof:parent_id":85878505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.648016,
+    39.115466,
+    -94.648016,
+    39.115466
+],
+  "geometry": {"coordinates":[-94.648016,39.115466],"type":"Point"}
+}

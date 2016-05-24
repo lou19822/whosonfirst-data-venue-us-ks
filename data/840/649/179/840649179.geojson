@@ -1,0 +1,71 @@
+{
+  "id": 840649179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.452276,37.694041,-97.452276,37.694041",
+    "geom:latitude":37.694041,
+    "geom:longitude":-97.452276,
+    "iso:country":"US",
+    "sg:address":"9424 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 4226",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QdVNszeN00o1Sjc3uC7P2_37.694041_-97.452276@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044866,
+    "wof:geomhash":"2f18b3102c2468f42e70d1deaeed3549",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840649179
+        }
+    ],
+    "wof:id":840649179,
+    "wof:lastmodified":1464044866,
+    "wof:name":"Best Friends Pet Clinic",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -97.452276,
+    37.694041,
+    -97.452276,
+    37.694041
+],
+  "geometry": {"coordinates":[-97.452276,37.694041],"type":"Point"}
+}

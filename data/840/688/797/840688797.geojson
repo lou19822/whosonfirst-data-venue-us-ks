@@ -1,0 +1,73 @@
+{
+  "id": 840688797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964449,38.707893,-95.964449,38.707893",
+    "geom:latitude":38.707893,
+    "geom:longitude":-95.964449,
+    "iso:country":"US",
+    "sg:address":"3714 Rd Y",
+    "sg:city":"Osage City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 528 5090",
+    "sg:postcode":"66523",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wFsTr5ZLLcLGIALLHec48_38.707893_-95.964449@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045792,
+    "wof:geomhash":"53d7edeaef8457be361193b897804a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840688797
+        }
+    ],
+    "wof:id":840688797,
+    "wof:lastmodified":1464045792,
+    "wof:name":"Rural Water Dist No 7 Osage",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -95.964449,
+    38.707893,
+    -95.964449,
+    38.707893
+],
+  "geometry": {"coordinates":[-95.964449,38.707893],"type":"Point"}
+}

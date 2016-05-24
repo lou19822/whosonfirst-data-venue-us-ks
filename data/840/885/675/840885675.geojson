@@ -1,0 +1,66 @@
+{
+  "id": 840885675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.215331,38.412465,-96.215331,38.412465",
+    "geom:latitude":38.412465,
+    "geom:longitude":-96.215331,
+    "iso:country":"US",
+    "sg:address":"1409 Stanton St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8700",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qNGvhVAV0AqrfQbCp9Paj_38.412465_-96.215331@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050192,
+    "wof:geomhash":"88573295a4da20fc1cd4a2ec05272e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840885675
+        }
+    ],
+    "wof:id":840885675,
+    "wof:lastmodified":1464050192,
+    "wof:name":"Flint Hills Chiropractic Clnc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.215331,
+    38.412465,
+    -96.215331,
+    38.412465
+],
+  "geometry": {"coordinates":[-96.21533100000001,38.412465],"type":"Point"}
+}

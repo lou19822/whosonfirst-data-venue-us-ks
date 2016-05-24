@@ -1,0 +1,71 @@
+{
+  "id": 840614309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363044,37.637083,-97.363044,37.637083",
+    "geom:latitude":37.637083,
+    "geom:longitude":-97.363044,
+    "iso:country":"US",
+    "sg:address":"3109 Euclid St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 2369",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dogj2PNewCKuQRZ29DoyL_37.637083_-97.363044@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044022,
+    "wof:geomhash":"107eb158598124f49a08b6575fdc8422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840614309
+        }
+    ],
+    "wof:id":840614309,
+    "wof:lastmodified":1464044022,
+    "wof:name":"Hein Construction",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.363044,
+    37.637083,
+    -97.363044,
+    37.637083
+],
+  "geometry": {"coordinates":[-97.363044,37.637083],"type":"Point"}
+}

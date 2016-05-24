@@ -1,0 +1,71 @@
+{
+  "id": 840852483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.328773,37.652517,-97.328773,37.652517",
+    "geom:latitude":37.652517,
+    "geom:longitude":-97.328773,
+    "iso:country":"US",
+    "sg:address":"2248 S Mead St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 7511",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1arliACjGBdPC8kxuhNOjr_37.652517_-97.328773@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049499,
+    "wof:geomhash":"587732e492c783ed25009d5c109bd58e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840852483
+        }
+    ],
+    "wof:id":840852483,
+    "wof:lastmodified":1464049499,
+    "wof:name":"Midwest Plastics Supply Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastic"
+    ]
+},
+  "bbox": [
+    -97.328773,
+    37.652517,
+    -97.328773,
+    37.652517
+],
+  "geometry": {"coordinates":[-97.328773,37.652517],"type":"Point"}
+}

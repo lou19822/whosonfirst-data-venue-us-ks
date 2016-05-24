@@ -1,0 +1,75 @@
+{
+  "id": 840674271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.017927,37.754377,-100.017927,37.754377",
+    "geom:latitude":37.754377,
+    "geom:longitude":-100.017927,
+    "iso:country":"US",
+    "sg:address":"101 W Spruce St",
+    "sg:city":"Dodge City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 227 4603",
+    "sg:postcode":"67801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849601,
+        102191575,
+        404503629,
+        85633793,
+        85945215,
+        102082141,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RqkGmGcM2HIVR1zvJ6Koz_37.754377_-100.017927@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045424,
+    "wof:geomhash":"a4918c63b54dc70f12c2c58eff60c38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082141,
+            "localadmin_id":404503629,
+            "locality_id":85945215,
+            "neighbourhood_id":85849601,
+            "region_id":85688555,
+            "venue_id":840674271
+        }
+    ],
+    "wof:id":840674271,
+    "wof:lastmodified":1464045424,
+    "wof:name":"Ford County District Court Clr",
+    "wof:parent_id":85849601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -100.017927,
+    37.754377,
+    -100.017927,
+    37.754377
+],
+  "geometry": {"coordinates":[-100.017927,37.754377],"type":"Point"}
+}

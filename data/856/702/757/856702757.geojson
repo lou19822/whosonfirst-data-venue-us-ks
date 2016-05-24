@@ -1,0 +1,73 @@
+{
+  "id": 856702757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705082,37.452569,-94.705082,37.452569",
+    "geom:latitude":37.452569,
+    "geom:longitude":-94.705082,
+    "iso:country":"US",
+    "sg:address":"4089 Parkview Dr",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 8662",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_764NL7PzzCHJi9LBP6K0o2_37.452234_-94.705142@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052123,
+    "wof:geomhash":"d8cda7a1341ccfb047958ab529f02c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856702757
+        }
+    ],
+    "wof:id":856702757,
+    "wof:lastmodified":1464052123,
+    "wof:name":"Hair Gallery",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -94.705082,
+    37.452569,
+    -94.705082,
+    37.452569
+],
+  "geometry": {"coordinates":[-94.705082,37.452569],"type":"Point"}
+}

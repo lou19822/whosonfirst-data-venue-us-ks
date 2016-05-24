@@ -1,0 +1,75 @@
+{
+  "id": 840694325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.815812,38.869133,-94.815812,38.869133",
+    "geom:latitude":38.869133,
+    "geom:longitude":-94.815812,
+    "iso:country":"US",
+    "sg:address":"801 S Harrison St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 3740",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xjzQONIY7fO2ud2fntKor_38.869133_-94.815812@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045930,
+    "wof:geomhash":"2505785a66fc811f212947fa378237e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840694325
+        }
+    ],
+    "wof:id":840694325,
+    "wof:lastmodified":1464045930,
+    "wof:name":"Harrison Square Apartments",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.815812,
+    38.869133,
+    -94.815812,
+    38.869133
+],
+  "geometry": {"coordinates":[-94.81581199999999,38.869133],"type":"Point"}
+}

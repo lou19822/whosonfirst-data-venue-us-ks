@@ -1,0 +1,76 @@
+{
+  "id": 856704307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.816755,38.850965,-94.816755,38.850965",
+    "geom:latitude":38.850965,
+    "geom:longitude":-94.816755,
+    "iso:country":"US",
+    "sg:address":"20080 W 153rd St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/221839-chipotle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 4399",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26x5Z8v8Ri8AZnudEH8Nck_38.850965_-94.816755@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052156,
+    "wof:geomhash":"7fef14603d18cd763b5bd3b2dc2e94bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704307
+        }
+    ],
+    "wof:id":856704307,
+    "wof:lastmodified":1464052156,
+    "wof:name":"Chipotle",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.816755,
+    38.850965,
+    -94.816755,
+    38.850965
+],
+  "geometry": {"coordinates":[-94.816755,38.850965],"type":"Point"}
+}

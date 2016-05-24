@@ -1,0 +1,75 @@
+{
+  "id": 840824315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352582,37.651122,-97.352582,37.651122",
+    "geom:latitude":37.651122,
+    "geom:longitude":-97.352582,
+    "iso:country":"US",
+    "sg:address":"2480 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 3281",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LBuLkkoNWFq3sxi95ky92_37.651122_-97.352582@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048878,
+    "wof:geomhash":"7efa45b25b480577ef4421140b62fd57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840824315
+        }
+    ],
+    "wof:id":840824315,
+    "wof:lastmodified":1464048878,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -97.352582,
+    37.651122,
+    -97.352582,
+    37.651122
+],
+  "geometry": {"coordinates":[-97.352582,37.651122],"type":"Point"}
+}

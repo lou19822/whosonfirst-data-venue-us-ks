@@ -1,0 +1,71 @@
+{
+  "id": 840715493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.62744,39.029599,-95.62744,39.029599",
+    "geom:latitude":39.029599,
+    "geom:longitude":-95.62744,
+    "iso:country":"US",
+    "sg:address":"3319 SE 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 2339",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W5pOaW0P7xjf2cxG5yxwv_39.029599_-95.627440@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046412,
+    "wof:geomhash":"234d4a6dbef1d563da3e36fc2a7aef5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840715493
+        }
+    ],
+    "wof:id":840715493,
+    "wof:lastmodified":1464046412,
+    "wof:name":"East 21st Mini-Warehouses",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -95.62744,
+    39.029599,
+    -95.62744,
+    39.029599
+],
+  "geometry": {"coordinates":[-95.62744000000001,39.029599],"type":"Point"}
+}

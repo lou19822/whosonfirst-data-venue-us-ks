@@ -1,0 +1,73 @@
+{
+  "id": 840791201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.746324,37.382007,-94.746324,37.382007",
+    "geom:latitude":37.382007,
+    "geom:longitude":-94.746324,
+    "iso:country":"US",
+    "sg:address":"401 W Craig Rd",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0185",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "maker",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0frpLlQRbVZoQtjL5qMldo_37.382007_-94.746324@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048008,
+    "wof:geomhash":"15c9f6a2a1459e3463c541ca931dac62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840791201
+        }
+    ],
+    "wof:id":840791201,
+    "wof:lastmodified":1464048008,
+    "wof:name":"Larry's Custom Cabinets",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maker",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -94.746324,
+    37.382007,
+    -94.746324,
+    37.382007
+],
+  "geometry": {"coordinates":[-94.746324,37.382007],"type":"Point"}
+}

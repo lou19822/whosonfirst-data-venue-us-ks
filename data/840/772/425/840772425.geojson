@@ -1,0 +1,66 @@
+{
+  "id": 840772425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.186298,38.404938,-96.186298,38.404938",
+    "geom:latitude":38.404938,
+    "geom:longitude":-96.186298,
+    "iso:country":"US",
+    "sg:address":"423 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 7433",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gYEMRJVOELZNNdsDoxSZi_38.404938_-96.186298@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047623,
+    "wof:geomhash":"cd04a85c4a251f139d305796786850d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840772425
+        }
+    ],
+    "wof:id":840772425,
+    "wof:lastmodified":1464047623,
+    "wof:name":"Downtown Stop 2 Shop",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.186298,
+    38.404938,
+    -96.186298,
+    38.404938
+],
+  "geometry": {"coordinates":[-96.18629799999999,38.404938],"type":"Point"}
+}

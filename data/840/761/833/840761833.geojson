@@ -1,0 +1,73 @@
+{
+  "id": 840761833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.823453,37.344565,-94.823453,37.344565",
+    "geom:latitude":37.344565,
+    "geom:longitude":-94.823453,
+    "iso:country":"US",
+    "sg:address":"202 W Pine St",
+    "sg:city":"Cherokee",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 457 8077",
+    "sg:postcode":"66724",
+    "sg:province":"KS",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aVn40dQzeUJILhLFpyu2E_37.344565_-94.823453@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047388,
+    "wof:geomhash":"ecade9becbeb323658e2e126bd5e54a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840761833
+        }
+    ],
+    "wof:id":840761833,
+    "wof:lastmodified":1464047388,
+    "wof:name":"Cherokee Village",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -94.823453,
+    37.344565,
+    -94.823453,
+    37.344565
+],
+  "geometry": {"coordinates":[-94.823453,37.344565],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840873167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.400264,37.709921,-97.400264,37.709921",
+    "geom:latitude":37.709921,
+    "geom:longitude":-97.400264,
+    "iso:country":"US",
+    "sg:address":"1426 N Smith Cir",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 944 2059",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w6kImnkjlDxu26Q7av2rP_37.709921_-97.400264@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049918,
+    "wof:geomhash":"af22480b78411f0acc6c898a76e2d4e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840873167
+        }
+    ],
+    "wof:id":840873167,
+    "wof:lastmodified":1464049918,
+    "wof:name":"Budd Electric Inc",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.400264,
+    37.709921,
+    -97.400264,
+    37.709921
+],
+  "geometry": {"coordinates":[-97.40026400000001,37.709921],"type":"Point"}
+}

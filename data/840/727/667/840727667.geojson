@@ -1,0 +1,71 @@
+{
+  "id": 840727667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.222136,38.41239,-96.222136,38.41239",
+    "geom:latitude":38.41239,
+    "geom:longitude":-96.222136,
+    "iso:country":"US",
+    "sg:address":"1216 Hatcher St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 6345",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WqljUFDeLyoxgGXVheqlB_38.412390_-96.222136@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046665,
+    "wof:geomhash":"ea8dad0725384fa1562c8d99b78f23b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840727667
+        }
+    ],
+    "wof:id":840727667,
+    "wof:lastmodified":1464046665,
+    "wof:name":"Emporia Animal Control Shelter",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -96.222136,
+    38.41239,
+    -96.222136,
+    38.41239
+],
+  "geometry": {"coordinates":[-96.22213600000001,38.41239],"type":"Point"}
+}

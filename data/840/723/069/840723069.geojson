@@ -1,0 +1,77 @@
+{
+  "id": 840723069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.671342,38.939124,-94.671342,38.939124",
+    "geom:latitude":38.939124,
+    "geom:longitude":-94.671342,
+    "iso:country":"US",
+    "sg:address":"10441 Marty St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 383 3350",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879547,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24hOJdLLVgCG70zMoJ2LmC_38.939124_-94.671342@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046572,
+    "wof:geomhash":"b08865433bb2a8d9f13c9dc70d976194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879547,
+            "region_id":85688555,
+            "venue_id":840723069
+        }
+    ],
+    "wof:id":840723069,
+    "wof:lastmodified":1464046572,
+    "wof:name":"Overland Park Car Wash",
+    "wof:parent_id":85879547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.671342,
+    38.939124,
+    -94.671342,
+    38.939124
+],
+  "geometry": {"coordinates":[-94.671342,38.939124],"type":"Point"}
+}

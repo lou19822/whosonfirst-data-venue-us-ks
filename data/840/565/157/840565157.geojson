@@ -1,0 +1,71 @@
+{
+  "id": 840565157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.888976,37.817405,-96.888976,37.817405",
+    "geom:latitude":37.817405,
+    "geom:longitude":-96.888976,
+    "iso:country":"US",
+    "sg:address":"2670 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 2820",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D9C11lBb2Mag6ARDQ80iQ_37.817405_-96.888976@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042855,
+    "wof:geomhash":"cf35b4456f5a893124bea9bb993be91c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840565157
+        }
+    ],
+    "wof:id":840565157,
+    "wof:lastmodified":1464042855,
+    "wof:name":"John K Fisher Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.888976,
+    37.817405,
+    -96.888976,
+    37.817405
+],
+  "geometry": {"coordinates":[-96.888976,37.817405],"type":"Point"}
+}

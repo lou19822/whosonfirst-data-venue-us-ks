@@ -1,0 +1,73 @@
+{
+  "id": 840937399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.708763,37.407423,-94.708763,37.407423",
+    "geom:latitude":37.407423,
+    "geom:longitude":-94.708763,
+    "iso:country":"US",
+    "sg:address":"316 W Rose St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 1141",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68igIqdZDSJmElm5idPVWT_37.407423_-94.708763@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051398,
+    "wof:geomhash":"507f30924d6952fe966c82fe62869e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840937399
+        }
+    ],
+    "wof:id":840937399,
+    "wof:lastmodified":1464051398,
+    "wof:name":"Whistle Stop Car Wash",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.708763,
+    37.407423,
+    -94.708763,
+    37.407423
+],
+  "geometry": {"coordinates":[-94.708763,37.407423],"type":"Point"}
+}

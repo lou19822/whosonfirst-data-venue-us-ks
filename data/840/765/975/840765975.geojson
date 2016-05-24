@@ -1,0 +1,75 @@
+{
+  "id": 840765975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.704066,39.058634,-95.704066,39.058634",
+    "geom:latitude":39.058634,
+    "geom:longitude":-95.704066,
+    "iso:country":"US",
+    "sg:address":"2301 SW 6th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 0582",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DE7GDKP8SRDGv916YBdmj_39.058634_-95.704066@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047474,
+    "wof:geomhash":"38a91c426be8a3baa0c777135f873be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840765975
+        }
+    ],
+    "wof:id":840765975,
+    "wof:lastmodified":1464047474,
+    "wof:name":"Cassidy Orthodontics",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.704066,
+    39.058634,
+    -95.704066,
+    39.058634
+],
+  "geometry": {"coordinates":[-95.704066,39.058634],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840871997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.140132,37.693947,-97.140132,37.693947",
+    "geom:latitude":37.693947,
+    "geom:longitude":-97.140132,
+    "iso:country":"US",
+    "sg:address":"515 W Central Ave",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 0512",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3soycqLhB732riCI9h6uTz_37.693947_-97.140132@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049895,
+    "wof:geomhash":"5357225056c5b00de2126f85a86205d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840871997
+        }
+    ],
+    "wof:id":840871997,
+    "wof:lastmodified":1464049895,
+    "wof:name":"Andover Boarding Kennel",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -97.140132,
+    37.693947,
+    -97.140132,
+    37.693947
+],
+  "geometry": {"coordinates":[-97.14013199999999,37.693947],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840634367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.0082,37.669976,-97.0082,37.669976",
+    "geom:latitude":37.669976,
+    "geom:longitude":-97.0082,
+    "iso:country":"US",
+    "sg:address":"10943 SW River Valley Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 1110",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0djqiEvy4Xnd3g4tmbjLRw_37.669976_-97.008200@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044548,
+    "wof:geomhash":"9d5faa377b6648dacec023ee5521b3c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840634367
+        }
+    ],
+    "wof:id":840634367,
+    "wof:lastmodified":1464044548,
+    "wof:name":"Nana's Bakery",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -97.0082,
+    37.669976,
+    -97.0082,
+    37.669976
+],
+  "geometry": {"coordinates":[-97.0082,37.669976],"type":"Point"}
+}

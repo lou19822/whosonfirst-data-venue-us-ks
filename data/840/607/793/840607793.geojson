@@ -1,0 +1,73 @@
+{
+  "id": 840607793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.407235,37.652853,-97.407235,37.652853",
+    "geom:latitude":37.652853,
+    "geom:longitude":-97.407235,
+    "iso:country":"US",
+    "sg:address":"2152 S Hoover Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 9857",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Avfc8O95HUAWh1i8L94vG_37.652853_-97.407235@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043860,
+    "wof:geomhash":"526929137b93580a846f4104e65ae619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840607793
+        }
+    ],
+    "wof:id":840607793,
+    "wof:lastmodified":1464043860,
+    "wof:name":"A & G Storage Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -97.407235,
+    37.652853,
+    -97.407235,
+    37.652853
+],
+  "geometry": {"coordinates":[-97.407235,37.652853],"type":"Point"}
+}

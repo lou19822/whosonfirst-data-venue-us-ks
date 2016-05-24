@@ -1,0 +1,74 @@
+{
+  "id": 856711967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.244202,37.544841,-97.244202,37.544841",
+    "geom:latitude":37.544841,
+    "geom:longitude":-97.244202,
+    "iso:country":"US",
+    "sg:address":"101 N Rock Rd",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/rockford/65930-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 6760",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DRCmFg94UshX95vAVZteR_37.544829_-97.244203@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052305,
+    "wof:geomhash":"661e493c3a310301cfa1547b52abcf15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":856711967
+        }
+    ],
+    "wof:id":856711967,
+    "wof:lastmodified":1464052305,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -97.244202,
+    37.544841,
+    -97.244202,
+    37.544841
+],
+  "geometry": {"coordinates":[-97.244202,37.544841],"type":"Point"}
+}

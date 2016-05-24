@@ -1,0 +1,73 @@
+{
+  "id": 840854335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.4795,37.708079,-97.4795,37.708079",
+    "geom:latitude":37.708079,
+    "geom:longitude":-97.4795,
+    "iso:country":"US",
+    "sg:address":"1344 N Pine Grove Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 8989",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zZRy5NCETIGdfFYzHzpyI_37.708079_-97.479500@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049532,
+    "wof:geomhash":"db7de2e9a538e716bad9afb0adae5d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840854335
+        }
+    ],
+    "wof:id":840854335,
+    "wof:lastmodified":1464049532,
+    "wof:name":"Zimbelman Construction",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.4795,
+    37.708079,
+    -97.4795,
+    37.708079
+],
+  "geometry": {"coordinates":[-97.4795,37.708079],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840945283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.903217,39.172352,-94.903217,39.172352",
+    "geom:latitude":39.172352,
+    "geom:longitude":-94.903217,
+    "iso:country":"US",
+    "sg:address":"14011 Hollingsworth Rd",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 4460",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50lu4fiG0RXkva1DfXwKUV_39.172352_-94.903217@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051558,
+    "wof:geomhash":"b0f67f56f1235c4d4b3a83a54a8df975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840945283
+        }
+    ],
+    "wof:id":840945283,
+    "wof:lastmodified":1464051558,
+    "wof:name":"Falcon Lakes Maintenance",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.903217,
+    39.172352,
+    -94.903217,
+    39.172352
+],
+  "geometry": {"coordinates":[-94.903217,39.172352],"type":"Point"}
+}

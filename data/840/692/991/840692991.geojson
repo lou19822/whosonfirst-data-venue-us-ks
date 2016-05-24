@@ -1,0 +1,71 @@
+{
+  "id": 840692991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.262108,37.601973,-97.262108,37.601973",
+    "geom:latitude":37.601973,
+    "geom:longitude":-97.262108,
+    "iso:country":"US",
+    "sg:address":"5101 S 63rd St E",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 4445",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QhrnzJDRd0mgZTrztMOj0_37.601973_-97.262108@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045896,
+    "wof:geomhash":"15e820182f18d2e4642871186237db0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840692991
+        }
+    ],
+    "wof:id":840692991,
+    "wof:lastmodified":1464045896,
+    "wof:name":"Atlas Copco Rental Svc Corp",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.262108,
+    37.601973,
+    -97.262108,
+    37.601973
+],
+  "geometry": {"coordinates":[-97.262108,37.601973],"type":"Point"}
+}

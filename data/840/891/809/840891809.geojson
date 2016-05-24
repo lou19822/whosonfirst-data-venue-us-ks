@@ -1,0 +1,71 @@
+{
+  "id": 840891809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.91241,37.820506,-96.91241,37.820506",
+    "geom:latitude":37.820506,
+    "geom:longitude":-96.91241,
+    "iso:country":"US",
+    "sg:address":"520 N Industrial Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 6570",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "barrels",
+        "drum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CQMQmlcMmOctvd2PPEvuT_37.820506_-96.912410@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050320,
+    "wof:geomhash":"6e1c35823363cbe417b66dfdec4c8df7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840891809
+        }
+    ],
+    "wof:id":840891809,
+    "wof:lastmodified":1464050320,
+    "wof:name":"SDS Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barrels",
+        "drum"
+    ]
+},
+  "bbox": [
+    -96.91241,
+    37.820506,
+    -96.91241,
+    37.820506
+],
+  "geometry": {"coordinates":[-96.91240999999999,37.820506],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840938947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.385603,37.658488,-97.385603,37.658488",
+    "geom:latitude":37.658488,
+    "geom:longitude":-97.385603,
+    "iso:country":"US",
+    "sg:address":"2018 S Kessler St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 9700",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tqcJ1eTjonVpUlH74T6Hh_37.658488_-97.385603@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051426,
+    "wof:geomhash":"9ccc49c6ed80515398a2ce66475c2636",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840938947
+        }
+    ],
+    "wof:id":840938947,
+    "wof:lastmodified":1464051426,
+    "wof:name":"Prosecurity",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -97.385603,
+    37.658488,
+    -97.385603,
+    37.658488
+],
+  "geometry": {"coordinates":[-97.385603,37.658488],"type":"Point"}
+}

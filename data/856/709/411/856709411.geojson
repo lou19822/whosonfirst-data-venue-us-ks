@@ -1,0 +1,74 @@
+{
+  "id": 856709411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.3714,37.63066,-97.3714,37.63066",
+    "geom:latitude":37.63066,
+    "geom:longitude":-97.3714,
+    "iso:country":"US",
+    "sg:address":"3535 S Meridian Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/109367-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 946 9000",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wVLkloq0oaRUMlEQrM0DZ_37.630660_-97.371400@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052254,
+    "wof:geomhash":"cab6f1bc19c046348549b017fd519d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":856709411
+        }
+    ],
+    "wof:id":856709411,
+    "wof:lastmodified":1464052254,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.3714,
+    37.63066,
+    -97.3714,
+    37.63066
+],
+  "geometry": {"coordinates":[-97.37139999999999,37.63066],"type":"Point"}
+}

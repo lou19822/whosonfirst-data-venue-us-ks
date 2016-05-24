@@ -1,0 +1,71 @@
+{
+  "id": 840768949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700215,37.418485,-94.700215,37.418485",
+    "geom:latitude":37.418485,
+    "geom:longitude":-94.700215,
+    "iso:country":"US",
+    "sg:address":"411 E 12th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 6788",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ng1jkFVId5MQFJdJ756QC_37.418485_-94.700215@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047550,
+    "wof:geomhash":"f719ed9120bbd13fe985b96893072b7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840768949
+        }
+    ],
+    "wof:id":840768949,
+    "wof:lastmodified":1464047550,
+    "wof:name":"Mt Carmel Congregational Hlth",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.700215,
+    37.418485,
+    -94.700215,
+    37.418485
+],
+  "geometry": {"coordinates":[-94.700215,37.418485],"type":"Point"}
+}

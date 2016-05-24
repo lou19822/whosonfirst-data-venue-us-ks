@@ -1,0 +1,71 @@
+{
+  "id": 840809851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.373888,37.640683,-97.373888,37.640683",
+    "geom:latitude":37.640683,
+    "geom:longitude":-97.373888,
+    "iso:country":"US",
+    "sg:address":"2908 S Edwards St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 8101",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "balancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03KUXeNke16CAduPuEhuGC_37.640683_-97.373888@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048416,
+    "wof:geomhash":"eaa8872bc6c2aec6acaf2a4467089f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840809851
+        }
+    ],
+    "wof:id":840809851,
+    "wof:lastmodified":1464048416,
+    "wof:name":"Balance Plus",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "balancing"
+    ]
+},
+  "bbox": [
+    -97.373888,
+    37.640683,
+    -97.373888,
+    37.640683
+],
+  "geometry": {"coordinates":[-97.37388799999999,37.640683],"type":"Point"}
+}

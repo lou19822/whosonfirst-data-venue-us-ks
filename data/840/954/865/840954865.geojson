@@ -1,0 +1,77 @@
+{
+  "id": 840954865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.717984,39.061873,-95.717984,39.061873",
+    "geom:latitude":39.061873,
+    "geom:longitude":-95.717984,
+    "iso:country":"US",
+    "sg:address":"3410 SW 4th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 3987",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881541,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bytumlmzAurwdDjEJPFdu_39.061873_-95.717984@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051742,
+    "wof:geomhash":"517bb05639ff07a45794693215559f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881541,
+            "region_id":85688555,
+            "venue_id":840954865
+        }
+    ],
+    "wof:id":840954865,
+    "wof:lastmodified":1464051742,
+    "wof:name":"Dave's Foreign Car Repair",
+    "wof:parent_id":85881541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.717984,
+    39.061873,
+    -95.717984,
+    39.061873
+],
+  "geometry": {"coordinates":[-95.717984,39.061873],"type":"Point"}
+}

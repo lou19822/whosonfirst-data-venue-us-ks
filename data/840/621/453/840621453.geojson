@@ -1,0 +1,71 @@
+{
+  "id": 840621453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.989573,37.733241,-96.989573,37.733241",
+    "geom:latitude":37.733241,
+    "geom:longitude":-96.989573,
+    "iso:country":"US",
+    "sg:address":"6404 SW Hunter Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 3602",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wNpgeHmHu40WbPsPxLAkr_37.733241_-96.989573@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044201,
+    "wof:geomhash":"83a63bf6dd0b20f4e63ce4a247f27a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840621453
+        }
+    ],
+    "wof:id":840621453,
+    "wof:lastmodified":1464044201,
+    "wof:name":"White Stables",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -96.989573,
+    37.733241,
+    -96.989573,
+    37.733241
+],
+  "geometry": {"coordinates":[-96.98957299999999,37.733241],"type":"Point"}
+}

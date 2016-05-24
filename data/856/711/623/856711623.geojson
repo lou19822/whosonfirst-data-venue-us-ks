@@ -1,0 +1,78 @@
+{
+  "id": 856711623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.678494,39.015162,-95.678494,39.015162",
+    "geom:latitude":39.015162,
+    "geom:longitude":-95.678494,
+    "iso:country":"US",
+    "sg:address":"201 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/13189-churchs-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 2888",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q3Pwax01LKNNKlSANl9Vt_39.015136_-95.678269@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052298,
+    "wof:geomhash":"4079a5440efe636b6980f487132d1eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":856711623
+        }
+    ],
+    "wof:id":856711623,
+    "wof:lastmodified":1464052298,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -95.678494,
+    39.015162,
+    -95.678494,
+    39.015162
+],
+  "geometry": {"coordinates":[-95.678494,39.015162],"type":"Point"}
+}

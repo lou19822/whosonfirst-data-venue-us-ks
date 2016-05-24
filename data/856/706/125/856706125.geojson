@@ -1,0 +1,78 @@
+{
+  "id": 856706125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.767064,38.970504,-94.767064,38.970504",
+    "geom:latitude":38.970504,
+    "geom:longitude":-94.767064,
+    "iso:country":"US",
+    "sg:address":"15617 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/81119-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 894 5447",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wqbx7kE1eouGZ9UEoTHQR_38.970504_-94.767064@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052189,
+    "wof:geomhash":"7d820df501c52cbb472f49fe18d17b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856706125
+        }
+    ],
+    "wof:id":856706125,
+    "wof:lastmodified":1464052189,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.767064,
+    38.970504,
+    -94.767064,
+    38.970504
+],
+  "geometry": {"coordinates":[-94.767064,38.970504],"type":"Point"}
+}

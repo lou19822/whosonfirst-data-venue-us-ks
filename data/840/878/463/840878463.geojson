@@ -1,0 +1,75 @@
+{
+  "id": 840878463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.653006,39.071626,-94.653006,39.071626",
+    "geom:latitude":39.071626,
+    "geom:longitude":-94.653006,
+    "iso:country":"US",
+    "sg:address":"2130 Ruby Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 671 1838",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803445,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z4pV38ZZvyXuGprlDodCe_39.071626_-94.653006@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050047,
+    "wof:geomhash":"299acbb747fcf2b7ec7f8f96106d28c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85803445,
+            "region_id":85688555,
+            "venue_id":840878463
+        }
+    ],
+    "wof:id":840878463,
+    "wof:lastmodified":1464050047,
+    "wof:name":"Wyandot Mental Health Ctr Inc",
+    "wof:parent_id":85803445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -94.653006,
+    39.071626,
+    -94.653006,
+    39.071626
+],
+  "geometry": {"coordinates":[-94.653006,39.071626],"type":"Point"}
+}

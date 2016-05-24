@@ -1,0 +1,75 @@
+{
+  "id": 840620193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.774109,38.970824,-95.774109,38.970824",
+    "geom:latitude":38.970824,
+    "geom:longitude":-95.774109,
+    "iso:country":"US",
+    "sg:address":"6525 SW 53rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 478 9708",
+    "sg:postcode":"66610",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G1xpqggXGT7P0JXhhJwk1_38.970824_-95.774109@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044169,
+    "wof:geomhash":"0fef1bb8f211b5b2df0164e86e0238e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840620193
+        }
+    ],
+    "wof:id":840620193,
+    "wof:lastmodified":1464044169,
+    "wof:name":"Veterinary Imaging Svc",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -95.774109,
+    38.970824,
+    -95.774109,
+    38.970824
+],
+  "geometry": {"coordinates":[-95.774109,38.970824],"type":"Point"}
+}

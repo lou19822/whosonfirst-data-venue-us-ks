@@ -1,0 +1,73 @@
+{
+  "id": 840629009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.208648,38.405113,-96.208648,38.405113",
+    "geom:latitude":38.405113,
+    "geom:longitude":-96.208648,
+    "iso:country":"US",
+    "sg:address":"2104 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9388",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AEiFr5qBjyXfDedDlJ1fU_38.405113_-96.208648@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044411,
+    "wof:geomhash":"82303a73841281db9b98680ad0512609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840629009
+        }
+    ],
+    "wof:id":840629009,
+    "wof:lastmodified":1464044411,
+    "wof:name":"Jason's Auto Sales",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.208648,
+    38.405113,
+    -96.208648,
+    38.405113
+],
+  "geometry": {"coordinates":[-96.208648,38.405113],"type":"Point"}
+}

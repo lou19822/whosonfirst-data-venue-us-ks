@@ -1,0 +1,76 @@
+{
+  "id": 856705925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.726552,38.957298,-94.726552,38.957298",
+    "geom:latitude":38.957298,
+    "geom:longitude":-94.726552,
+    "iso:country":"US",
+    "sg:address":"12150 W 95th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/221842-chipotle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 4610",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05NFuGsXPtLV3f8AgNv4O8_38.957298_-94.726552@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052185,
+    "wof:geomhash":"fdf3936071659865919d159d83bf787e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856705925
+        }
+    ],
+    "wof:id":856705925,
+    "wof:lastmodified":1464052185,
+    "wof:name":"Chipotle",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.726552,
+    38.957298,
+    -94.726552,
+    38.957298
+],
+  "geometry": {"coordinates":[-94.726552,38.957298],"type":"Point"}
+}

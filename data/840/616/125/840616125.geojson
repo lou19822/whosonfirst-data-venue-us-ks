@@ -1,0 +1,71 @@
+{
+  "id": 840616125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.658549,37.440101,-94.658549,37.440101",
+    "geom:latitude":37.440101,
+    "geom:longitude":-94.658549,
+    "iso:country":"US",
+    "sg:address":"1075 E 570th Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4787",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t6vR7eCuZWOJ7CwxGsb9d_37.440101_-94.658549@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044064,
+    "wof:geomhash":"e837e6f7c79be4e954a7de68cf4865f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840616125
+        }
+    ],
+    "wof:id":840616125,
+    "wof:lastmodified":1464044064,
+    "wof:name":"Russian Heating & Cooling",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.658549,
+    37.440101,
+    -94.658549,
+    37.440101
+],
+  "geometry": {"coordinates":[-94.65854899999999,37.440101],"type":"Point"}
+}

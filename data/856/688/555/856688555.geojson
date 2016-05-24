@@ -1,0 +1,69 @@
+{
+  "id": 856688555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.626545,39.04432,-95.626545,39.04432",
+    "geom:latitude":39.04432,
+    "geom:longitude":-95.626545,
+    "iso:country":"US",
+    "sg:address":"3340 SE 6th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 4243",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PpfXBfmQfhwao1Sv4EgXv_39.044320_-95.626545@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051839,
+    "wof:geomhash":"252d911e98d6f24f3b80b9a5c0818677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":856688555
+        }
+    ],
+    "wof:id":856688555,
+    "wof:lastmodified":1464051839,
+    "wof:name":"Apostle's Way Church",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.626545,
+    39.04432,
+    -95.626545,
+    39.04432
+],
+  "geometry": {"coordinates":[-95.62654499999999,39.04432],"type":"Point"}
+}

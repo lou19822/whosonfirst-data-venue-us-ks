@@ -1,0 +1,81 @@
+{
+  "id": 840601255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.68762,39.012223,-95.68762,39.012223",
+    "geom:latitude":39.012223,
+    "geom:longitude":-95.68762,
+    "iso:country":"US",
+    "sg:address":"3000 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 5409",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881549,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xicHwOd5MoE09Sa9jyR3y_39.012223_-95.687620@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043686,
+    "wof:geomhash":"8c6ef7e017758c90dcf7ca743ae3eae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":840601255
+        }
+    ],
+    "wof:id":840601255,
+    "wof:lastmodified":1464043686,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.68762,
+    39.012223,
+    -95.68762,
+    39.012223
+],
+  "geometry": {"coordinates":[-95.68762,39.012223],"type":"Point"}
+}

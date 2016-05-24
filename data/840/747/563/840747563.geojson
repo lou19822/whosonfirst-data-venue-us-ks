@@ -1,0 +1,71 @@
+{
+  "id": 840747563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.694241,39.087701,-95.694241,39.087701",
+    "geom:latitude":39.087701,
+    "geom:longitude":-95.694241,
+    "iso:country":"US",
+    "sg:address":"1900 NW Lyman Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 1044",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H38jxGjCMiFtR6JAvhKBi_39.087701_-95.694241@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047039,
+    "wof:geomhash":"a5d569ad7132f0af8a10e5aa6429b147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840747563
+        }
+    ],
+    "wof:id":840747563,
+    "wof:lastmodified":1464047039,
+    "wof:name":"C D Administrative Service",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -95.694241,
+    39.087701,
+    -95.694241,
+    39.087701
+],
+  "geometry": {"coordinates":[-95.69424100000001,39.087701],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840677683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.046277,38.028493,-97.046277,38.028493",
+    "geom:latitude":38.028493,
+    "geom:longitude":-97.046277,
+    "iso:country":"US",
+    "sg:address":"11124 NW 140th St",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 752 3749",
+    "sg:postcode":"67114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "wheat",
+        "livestock",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gZl1REAXUsx7ZSh8BnSwb_38.028493_-97.046277@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045510,
+    "wof:geomhash":"2b8a33f0bd3d397c4070215d07a99f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840677683
+        }
+    ],
+    "wof:id":840677683,
+    "wof:lastmodified":1464045510,
+    "wof:name":"Hinz Farms",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "wheat",
+        "livestock",
+        "cash"
+    ]
+},
+  "bbox": [
+    -97.046277,
+    38.028493,
+    -97.046277,
+    38.028493
+],
+  "geometry": {"coordinates":[-97.046277,38.028493],"type":"Point"}
+}

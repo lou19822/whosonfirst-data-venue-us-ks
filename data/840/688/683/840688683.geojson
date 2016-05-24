@@ -1,0 +1,71 @@
+{
+  "id": 840688683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.311282,37.640396,-97.311282,37.640396",
+    "geom:latitude":37.640396,
+    "geom:longitude":-97.311282,
+    "iso:country":"US",
+    "sg:address":"2971 S Madison St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 4136",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D6Re8Oz82VTxPboFYRuYj_37.640396_-97.311282@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045789,
+    "wof:geomhash":"081d8d64751407616a2de146e2c71fe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840688683
+        }
+    ],
+    "wof:id":840688683,
+    "wof:lastmodified":1464045789,
+    "wof:name":"JMR Contracting",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.311282,
+    37.640396,
+    -97.311282,
+    37.640396
+],
+  "geometry": {"coordinates":[-97.31128200000001,37.640396],"type":"Point"}
+}

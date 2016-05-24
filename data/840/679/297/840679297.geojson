@@ -1,0 +1,77 @@
+{
+  "id": 840679297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.695865,39.018505,-94.695865,39.018505",
+    "geom:latitude":39.018505,
+    "geom:longitude":-94.695865,
+    "iso:country":"US",
+    "sg:address":"9400 W 61st St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 8950",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30FcaRgN0c3BcCYBJXOAZP_39.018505_-94.695865@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045551,
+    "wof:geomhash":"94f90bf64cf885d660764dc077a32116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":840679297
+        }
+    ],
+    "wof:id":840679297,
+    "wof:lastmodified":1464045551,
+    "wof:name":"C & A Enterprises",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.695865,
+    39.018505,
+    -94.695865,
+    39.018505
+],
+  "geometry": {"coordinates":[-94.695865,39.018505],"type":"Point"}
+}

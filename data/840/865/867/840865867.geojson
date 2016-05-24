@@ -1,0 +1,73 @@
+{
+  "id": 840865867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723388,37.460094,-94.723388,37.460094",
+    "geom:latitude":37.460094,
+    "geom:longitude":-94.723388,
+    "iso:country":"US",
+    "sg:address":"452 S 210th St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 9899",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iKlHQBm2fmqscTRsb086m_37.460094_-94.723388@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049777,
+    "wof:geomhash":"9b57f6c2e1f0dd96be86e487619098d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840865867
+        }
+    ],
+    "wof:id":840865867,
+    "wof:lastmodified":1464049777,
+    "wof:name":"Lusker Masonry",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.723388,
+    37.460094,
+    -94.723388,
+    37.460094
+],
+  "geometry": {"coordinates":[-94.723388,37.460094],"type":"Point"}
+}

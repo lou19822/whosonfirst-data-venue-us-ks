@@ -1,0 +1,67 @@
+{
+  "id": 840599137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.631947,39.015178,-95.631947,39.015178",
+    "geom:latitude":39.015178,
+    "geom:longitude":-95.631947,
+    "iso:country":"US",
+    "sg:address":"2820 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 7335",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:website":"www.aa-si.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15Wrmoo6eEYQvi7hYYCtqM_39.015178_-95.631947@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043642,
+    "wof:geomhash":"49b3ec10f7a8d8c030c2b1df1850528e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840599137
+        }
+    ],
+    "wof:id":840599137,
+    "wof:lastmodified":1464043642,
+    "wof:name":"AASI",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.631947,
+    39.015178,
+    -95.631947,
+    39.015178
+],
+  "geometry": {"coordinates":[-95.631947,39.015178],"type":"Point"}
+}

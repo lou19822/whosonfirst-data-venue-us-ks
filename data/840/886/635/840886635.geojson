@@ -1,0 +1,71 @@
+{
+  "id": 840886635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.388834,37.636941,-97.388834,37.636941",
+    "geom:latitude":37.636941,
+    "geom:longitude":-97.388834,
+    "iso:country":"US",
+    "sg:address":"3920 W 31st St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 3113",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7auwLOza1IhqPHXOd9tIHY_37.636941_-97.388834@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050212,
+    "wof:geomhash":"b0b7433db7b97336082a1f22be50354f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840886635
+        }
+    ],
+    "wof:id":840886635,
+    "wof:lastmodified":1464050212,
+    "wof:name":"Twietmeyer Dentistry",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -97.388834,
+    37.636941,
+    -97.388834,
+    37.636941
+],
+  "geometry": {"coordinates":[-97.388834,37.636941],"type":"Point"}
+}

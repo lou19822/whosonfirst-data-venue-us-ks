@@ -1,0 +1,66 @@
+{
+  "id": 840688789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.265121,37.772526,-97.265121,37.772526",
+    "geom:latitude":37.772526,
+    "geom:longitude":-97.265121,
+    "iso:country":"US",
+    "sg:address":"4966 N Hillcrest St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 744 1127",
+    "sg:postcode":"67220",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945835,
+        102084203,
+        85803671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z0ePy8J4dfvzv28pCY0N5_37.772526_-97.265121@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045791,
+    "wof:geomhash":"6e0140d33571d9c0396f3afda9d9a284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945835,
+            "neighbourhood_id":85803671,
+            "region_id":85688555,
+            "venue_id":840688789
+        }
+    ],
+    "wof:id":840688789,
+    "wof:lastmodified":1464045791,
+    "wof:name":"Klauman Landscaping & Mowing",
+    "wof:parent_id":85803671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.265121,
+    37.772526,
+    -97.265121,
+    37.772526
+],
+  "geometry": {"coordinates":[-97.26512099999999,37.772526],"type":"Point"}
+}

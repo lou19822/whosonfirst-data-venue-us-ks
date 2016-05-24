@@ -1,0 +1,75 @@
+{
+  "id": 840605623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.587425,39.000669,-95.587425,39.000669",
+    "geom:latitude":39.000669,
+    "geom:longitude":-95.587425,
+    "iso:country":"US",
+    "sg:address":"4648 SE 37th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 845 5782",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gw3XULkQDqP2prgqdpPEl_39.000669_-95.587425@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043791,
+    "wof:geomhash":"8c219205b2179e15d7ef722902fdee5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840605623
+        }
+    ],
+    "wof:id":840605623,
+    "wof:lastmodified":1464043791,
+    "wof:name":"RTC Lead Paint Qualified",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.587425,
+    39.000669,
+    -95.587425,
+    39.000669
+],
+  "geometry": {"coordinates":[-95.587425,39.000669],"type":"Point"}
+}

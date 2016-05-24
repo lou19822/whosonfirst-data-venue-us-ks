@@ -1,0 +1,73 @@
+{
+  "id": 840635535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.780562,38.84443,-94.780562,38.84443",
+    "geom:latitude":38.84443,
+    "geom:longitude":-94.780562,
+    "iso:country":"US",
+    "sg:address":"16710 W 157th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 4813",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27xnl9BaHQmeYy62Guiovf_38.844430_-94.780562@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044577,
+    "wof:geomhash":"d9c6858c2b43e976328352c19560433b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840635535
+        }
+    ],
+    "wof:id":840635535,
+    "wof:lastmodified":1464044577,
+    "wof:name":"T & T Flatworks Inc",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -94.780562,
+    38.84443,
+    -94.780562,
+    38.84443
+],
+  "geometry": {"coordinates":[-94.780562,38.84443],"type":"Point"}
+}

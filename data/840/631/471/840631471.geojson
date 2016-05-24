@@ -1,0 +1,71 @@
+{
+  "id": 840631471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.383405,37.782087,-97.383405,37.782087",
+    "geom:latitude":37.782087,
+    "geom:longitude":-97.383405,
+    "iso:country":"US",
+    "sg:address":"5511 N Gow",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 258 0467",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2paA4yc4nPsM9xWDA72smm_37.782087_-97.383405@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044475,
+    "wof:geomhash":"95adc273b784642734d840ead5bbb47a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840631471
+        }
+    ],
+    "wof:id":840631471,
+    "wof:lastmodified":1464044475,
+    "wof:name":"Tom's Painting & Dry Wall",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -97.383405,
+    37.782087,
+    -97.383405,
+    37.782087
+],
+  "geometry": {"coordinates":[-97.383405,37.782087],"type":"Point"}
+}

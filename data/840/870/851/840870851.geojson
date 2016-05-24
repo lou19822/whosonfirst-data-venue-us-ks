@@ -1,0 +1,71 @@
+{
+  "id": 840870851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.571431,37.695526,-97.571431,37.695526",
+    "geom:latitude":37.695526,
+    "geom:longitude":-97.571431,
+    "iso:country":"US",
+    "sg:address":"1001 N 199th St W",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 8302",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I87E6C2JJTRCd34hJf7Fg_37.695526_-97.571431@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049869,
+    "wof:geomhash":"74bc39c1310fc7fbb058ca9b47e14382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840870851
+        }
+    ],
+    "wof:id":840870851,
+    "wof:lastmodified":1464049869,
+    "wof:name":"Grace Southern Baptist",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.571431,
+    37.695526,
+    -97.571431,
+    37.695526
+],
+  "geometry": {"coordinates":[-97.571431,37.695526],"type":"Point"}
+}

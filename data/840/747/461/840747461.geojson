@@ -1,0 +1,71 @@
+{
+  "id": 840747461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.61299,39.060387,-94.61299,39.060387",
+    "geom:latitude":39.060387,
+    "geom:longitude":-94.61299,
+    "iso:country":"US",
+    "sg:address":"2200 W 36 Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 0749",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866785,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LGU6L3zAAFZ9atFWPqDEU_39.060387_-94.612990@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047037,
+    "wof:geomhash":"9d7a7286086534b844d2a1b5799c6585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":840747461
+        }
+    ],
+    "wof:id":840747461,
+    "wof:lastmodified":1464047037,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.61299,
+    39.060387,
+    -94.61299,
+    39.060387
+],
+  "geometry": {"coordinates":[-94.61299,39.060387],"type":"Point"}
+}

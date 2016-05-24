@@ -1,0 +1,71 @@
+{
+  "id": 840722525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705118,39.06096,-94.705118,39.06096",
+    "geom:latitude":39.06096,
+    "geom:longitude":-94.705118,
+    "iso:country":"US",
+    "sg:address":"2211 S 55th St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 288 3300",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:website":"www.turnerusd202.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852833,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GYZqMmYlOrYmSulOeLpGe_39.060960_-94.705118@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046560,
+    "wof:geomhash":"e110078a69fd475eb7cc84a27e96de3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85852833,
+            "region_id":85688555,
+            "venue_id":840722525
+        }
+    ],
+    "wof:id":840722525,
+    "wof:lastmodified":1464046560,
+    "wof:name":"Turner High School",
+    "wof:parent_id":85852833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.705118,
+    39.06096,
+    -94.705118,
+    39.06096
+],
+  "geometry": {"coordinates":[-94.705118,39.06096],"type":"Point"}
+}

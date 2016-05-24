@@ -1,0 +1,75 @@
+{
+  "id": 856690735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651519,39.017444,-95.651519,39.017444",
+    "geom:latitude":39.017444,
+    "geom:longitude":-95.651519,
+    "iso:country":"US",
+    "sg:address":"2720 SE California Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 5711",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ELaaYLaVcDGSwFJYBX9a_39.017444_-95.651519@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051884,
+    "wof:geomhash":"0b8cd93b65735092ce37bb800c953e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":856690735
+        }
+    ],
+    "wof:id":856690735,
+    "wof:lastmodified":1464051884,
+    "wof:name":"Shimer Feed Store",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -95.651519,
+    39.017444,
+    -95.651519,
+    39.017444
+],
+  "geometry": {"coordinates":[-95.65151899999999,39.017444],"type":"Point"}
+}

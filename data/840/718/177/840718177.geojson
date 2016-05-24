@@ -1,0 +1,77 @@
+{
+  "id": 840718177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.819403,38.869136,-94.819403,38.869136",
+    "geom:latitude":38.869136,
+    "geom:longitude":-94.819403,
+    "iso:country":"US",
+    "sg:address":"201 W Dennis Ave",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 5507",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Uf5yfFX0HgwynKZdtkxA7_38.869136_-94.819403@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046466,
+    "wof:geomhash":"5b31d156ce24db4947a6dd5f5673cd47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840718177
+        }
+    ],
+    "wof:id":840718177,
+    "wof:lastmodified":1464046466,
+    "wof:name":"Cheever's Radiator & Air Cond",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.819403,
+    38.869136,
+    -94.819403,
+    38.869136
+],
+  "geometry": {"coordinates":[-94.81940299999999,38.869136],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840872959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.326289,37.666507,-97.326289,37.666507",
+    "geom:latitude":37.666507,
+    "geom:longitude":-97.326289,
+    "iso:country":"US",
+    "sg:address":"1430 S Washington St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 8162",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xU3jBVurGAQkQsJjmdlRc_37.666507_-97.326289@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049914,
+    "wof:geomhash":"4c367f978e00e3e9264781043c53a8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840872959
+        }
+    ],
+    "wof:id":840872959,
+    "wof:lastmodified":1464049914,
+    "wof:name":"Air Capital Appliance Svc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -97.326289,
+    37.666507,
+    -97.326289,
+    37.666507
+],
+  "geometry": {"coordinates":[-97.326289,37.666507],"type":"Point"}
+}

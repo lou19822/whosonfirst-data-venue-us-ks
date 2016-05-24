@@ -1,0 +1,77 @@
+{
+  "id": 840750033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.591155,39.086352,-94.591155,39.086352",
+    "geom:latitude":39.086352,
+    "geom:longitude":-94.591155,
+    "iso:country":"US",
+    "sg:address":"529 Southwest Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 474 4491",
+    "sg:postcode":"64108",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872011,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jFkl6eKGHkohisJ6yAGvW_39.086352_-94.591155@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047099,
+    "wof:geomhash":"cfa13eb530d66d3c1dd6ffc220e1eb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872011,
+            "region_id":85688661,
+            "venue_id":840750033
+        }
+    ],
+    "wof:id":840750033,
+    "wof:lastmodified":1464047099,
+    "wof:name":"Louis H Robles MD",
+    "wof:parent_id":85872011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.591155,
+    39.086352,
+    -94.591155,
+    39.086352
+],
+  "geometry": {"coordinates":[-94.591155,39.086352],"type":"Point"}
+}

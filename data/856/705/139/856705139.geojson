@@ -1,0 +1,82 @@
+{
+  "id": 856705139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.637923,38.934089,-94.637923,38.934089",
+    "geom:latitude":38.934089,
+    "geom:longitude":-94.637923,
+    "iso:country":"US",
+    "sg:address":"4551 W 107th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/89787-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 967 2200",
+    "sg:postcode":"66207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w5CR7nmMUwV3UZx1Y8QVB_38.934089_-94.637923@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052172,
+    "wof:geomhash":"e8d276a5f6ce0a27c80214e824c4a6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":856705139
+        }
+    ],
+    "wof:id":856705139,
+    "wof:lastmodified":1464052172,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.637923,
+    38.934089,
+    -94.637923,
+    38.934089
+],
+  "geometry": {"coordinates":[-94.637923,38.934089],"type":"Point"}
+}

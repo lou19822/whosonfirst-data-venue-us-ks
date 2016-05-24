@@ -1,0 +1,71 @@
+{
+  "id": 840687951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.366118,37.722891,-97.366118,37.722891",
+    "geom:latitude":37.722891,
+    "geom:longitude":-97.366118,
+    "iso:country":"US",
+    "sg:address":"2060 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 831 0000",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56fiBwfEtcmKrQ7tmt5QXj_37.722891_-97.366118@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045775,
+    "wof:geomhash":"6cd1dcda38ce92766db511ba3001f35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840687951
+        }
+    ],
+    "wof:id":840687951,
+    "wof:lastmodified":1464045775,
+    "wof:name":"Sweetbriar Loan Co",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -97.366118,
+    37.722891,
+    -97.366118,
+    37.722891
+],
+  "geometry": {"coordinates":[-97.366118,37.722891],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840665587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.271395,37.558518,-97.271395,37.558518",
+    "geom:latitude":37.558518,
+    "geom:longitude":-97.271395,
+    "iso:country":"US",
+    "sg:address":"1259 N Buckner St",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 2729",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4syXxK4knfbGKTODmnxpdA_37.558518_-97.271395@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045222,
+    "wof:geomhash":"b62a3bd2ea8c87a6c0a9b77bbbc9e4db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840665587
+        }
+    ],
+    "wof:id":840665587,
+    "wof:lastmodified":1464045222,
+    "wof:name":"Brookridge Plaza Apartments",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.271395,
+    37.558518,
+    -97.271395,
+    37.558518
+],
+  "geometry": {"coordinates":[-97.271395,37.558518],"type":"Point"}
+}

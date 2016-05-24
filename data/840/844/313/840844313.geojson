@@ -1,0 +1,71 @@
+{
+  "id": 840844313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.297491,37.546371,-97.297491,37.546371",
+    "geom:latitude":37.546371,
+    "geom:longitude":-97.297491,
+    "iso:country":"US",
+    "sg:address":"8137 S Hillside St",
+    "sg:city":"Haysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 8858",
+    "sg:postcode":"67060",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VecIkryWD097kBGpNJjaU_37.546371_-97.297491@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049317,
+    "wof:geomhash":"c4bd9003cd04b68d36fdca57b92fd10a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840844313
+        }
+    ],
+    "wof:id":840844313,
+    "wof:lastmodified":1464049317,
+    "wof:name":"Murrow Painting",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -97.297491,
+    37.546371,
+    -97.297491,
+    37.546371
+],
+  "geometry": {"coordinates":[-97.29749099999999,37.546371],"type":"Point"}
+}

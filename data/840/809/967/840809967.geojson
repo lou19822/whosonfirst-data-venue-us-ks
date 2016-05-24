@@ -1,0 +1,73 @@
+{
+  "id": 840809967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.568338,37.664558,-97.568338,37.664558",
+    "geom:latitude":37.664558,
+    "geom:longitude":-97.568338,
+    "iso:country":"US",
+    "sg:address":"19944 W Kellogg Dr",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 7366",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MiW5HhJJDhWw2bi2fHFw0_37.664558_-97.568338@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048422,
+    "wof:geomhash":"ba5d1e18cfb337fa4ecfd69bd920d5e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840809967
+        }
+    ],
+    "wof:id":840809967,
+    "wof:lastmodified":1464048422,
+    "wof:name":"Action Car Care",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.568338,
+    37.664558,
+    -97.568338,
+    37.664558
+],
+  "geometry": {"coordinates":[-97.568338,37.664558],"type":"Point"}
+}

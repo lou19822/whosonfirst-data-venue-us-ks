@@ -1,0 +1,71 @@
+{
+  "id": 840944071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.418523,37.771224,-97.418523,37.771224",
+    "geom:latitude":37.771224,
+    "geom:longitude":-97.418523,
+    "iso:country":"US",
+    "sg:address":"6515 Childs St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 6846",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QvxbWxeA6NUM5mag7tJZB_37.771224_-97.418523@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051535,
+    "wof:geomhash":"46b00c97fc235e5d61563264ed94a218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840944071
+        }
+    ],
+    "wof:id":840944071,
+    "wof:lastmodified":1464051535,
+    "wof:name":"Sam's Fence Co",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -97.418523,
+    37.771224,
+    -97.418523,
+    37.771224
+],
+  "geometry": {"coordinates":[-97.41852299999999,37.771224],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840672285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.727967,39.092659,-94.727967,39.092659",
+    "geom:latitude":39.092659,
+    "geom:longitude":-94.727967,
+    "iso:country":"US",
+    "sg:address":"225 S 65 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 1967",
+    "sg:postcode":"66111",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835967,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BBkEWkd5XvzbRkHI8Qmac_39.092659_-94.727967@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045369,
+    "wof:geomhash":"dbcff001b20c04c3c014fac7944a6d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85835967,
+            "region_id":85688555,
+            "venue_id":840672285
+        }
+    ],
+    "wof:id":840672285,
+    "wof:lastmodified":1464045369,
+    "wof:name":"Buckner's Complete Collision",
+    "wof:parent_id":85835967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.727967,
+    39.092659,
+    -94.727967,
+    39.092659
+],
+  "geometry": {"coordinates":[-94.72796700000001,39.092659],"type":"Point"}
+}

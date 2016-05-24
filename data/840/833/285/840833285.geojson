@@ -1,0 +1,75 @@
+{
+  "id": 840833285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.67719,39.075483,-94.67719,39.075483",
+    "geom:latitude":39.075483,
+    "geom:longitude":-94.67719,
+    "iso:country":"US",
+    "sg:address":"1402 S 42 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 677 1522",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EKwwP1f1UKSpNiDe0VETy_39.075483_-94.677190@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049070,
+    "wof:geomhash":"1f07d453296817aa1c5d4e90287c8e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840833285
+        }
+    ],
+    "wof:id":840833285,
+    "wof:lastmodified":1464049070,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.67719,
+    39.075483,
+    -94.67719,
+    39.075483
+],
+  "geometry": {"coordinates":[-94.67719,39.075483],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840625275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705497,37.409966,-94.705497,37.409966",
+    "geom:latitude":37.409966,
+    "geom:longitude":-94.705497,
+    "iso:country":"US",
+    "sg:address":"113 W 3rd St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0208",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0em0EffR6wei42PTluy1jb_37.409966_-94.705497@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044301,
+    "wof:geomhash":"60a8515f5d1d02940ef6092e50d463f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840625275
+        }
+    ],
+    "wof:id":840625275,
+    "wof:lastmodified":1464044301,
+    "wof:name":"SCK Cap Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -94.705497,
+    37.409966,
+    -94.705497,
+    37.409966
+],
+  "geometry": {"coordinates":[-94.70549699999999,37.409966],"type":"Point"}
+}

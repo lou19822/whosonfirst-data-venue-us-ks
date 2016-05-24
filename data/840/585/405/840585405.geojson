@@ -1,0 +1,75 @@
+{
+  "id": 840585405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.426147,37.711642,-97.426147,37.711642",
+    "geom:latitude":37.711642,
+    "geom:longitude":-97.426147,
+    "iso:country":"US",
+    "sg:address":"1445 N Ridge Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 2166",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812577,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wfLbn8iRMVp24IBPxkamb_37.711642_-97.426147@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043327,
+    "wof:geomhash":"807990bbd7f1802a13ab8b21a233d117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85812577,
+            "region_id":85688555,
+            "venue_id":840585405
+        }
+    ],
+    "wof:id":840585405,
+    "wof:lastmodified":1464043327,
+    "wof:name":"Winter Park Dentistry",
+    "wof:parent_id":85812577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -97.426147,
+    37.711642,
+    -97.426147,
+    37.711642
+],
+  "geometry": {"coordinates":[-97.426147,37.711642],"type":"Point"}
+}

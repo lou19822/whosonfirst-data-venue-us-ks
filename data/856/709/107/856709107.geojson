@@ -1,0 +1,74 @@
+{
+  "id": 856709107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.443869,37.695102,-97.443869,37.695102",
+    "geom:latitude":37.695102,
+    "geom:longitude":-97.443869,
+    "iso:country":"US",
+    "sg:address":"740 N Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/166970-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 1660",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kzB7vdw1T9EouRnBxANCo_37.695102_-97.443869@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052248,
+    "wof:geomhash":"4401689e8fd88cd056dc48dc3f9136d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":856709107
+        }
+    ],
+    "wof:id":856709107,
+    "wof:lastmodified":1464052248,
+    "wof:name":"Burger King",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.443869,
+    37.695102,
+    -97.443869,
+    37.695102
+],
+  "geometry": {"coordinates":[-97.44386900000001,37.695102],"type":"Point"}
+}

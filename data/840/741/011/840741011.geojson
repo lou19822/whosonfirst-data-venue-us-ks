@@ -1,0 +1,78 @@
+{
+  "id": 840741011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.29672,37.71545,-97.29672,37.71545",
+    "geom:latitude":37.71545,
+    "geom:longitude":-97.29672,
+    "iso:country":"US",
+    "sg:address":"3317 E 17th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 978 6789",
+    "sg:postcode":"67208",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.kmuw.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qJjmvcsyZc1ZB9ZncjFan_37.715450_-97.296720@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046914,
+    "wof:geomhash":"fff386fbbd6f05cbb467c3890accdfab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":840741011
+        }
+    ],
+    "wof:id":840741011,
+    "wof:lastmodified":1464046914,
+    "wof:name":"KMUW",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -97.29672,
+    37.71545,
+    -97.29672,
+    37.71545
+],
+  "geometry": {"coordinates":[-97.29671999999999,37.71545],"type":"Point"}
+}

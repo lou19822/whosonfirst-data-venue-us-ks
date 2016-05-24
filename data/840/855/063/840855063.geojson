@@ -1,0 +1,73 @@
+{
+  "id": 840855063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.55177,37.621124,-97.55177,37.621124",
+    "geom:latitude":37.621124,
+    "geom:longitude":-97.55177,
+    "iso:country":"US",
+    "sg:address":"18221 W Macarthur Rd",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 3505",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qinHSczTZ1cGQNCigiQzK_37.621124_-97.551770@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049546,
+    "wof:geomhash":"8a27c8824a6ae46e3bc5abf7177bd2a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840855063
+        }
+    ],
+    "wof:id":840855063,
+    "wof:lastmodified":1464049546,
+    "wof:name":"Design Build Corp",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.55177,
+    37.621124,
+    -97.55177,
+    37.621124
+],
+  "geometry": {"coordinates":[-97.55177,37.621124],"type":"Point"}
+}

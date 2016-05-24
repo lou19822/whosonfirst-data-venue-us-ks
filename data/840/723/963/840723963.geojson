@@ -1,0 +1,71 @@
+{
+  "id": 840723963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.640659,39.124164,-95.640659,39.124164",
+    "geom:latitude":39.124164,
+    "geom:longitude":-95.640659,
+    "iso:country":"US",
+    "sg:address":"746 NE 43rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0700",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RXUYquUhB6v0ebqCHS29j_39.124164_-95.640659@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046591,
+    "wof:geomhash":"15f01325fb836f9fea5aac68aab069ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840723963
+        }
+    ],
+    "wof:id":840723963,
+    "wof:lastmodified":1464046591,
+    "wof:name":"J-Co",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn"
+    ]
+},
+  "bbox": [
+    -95.640659,
+    39.124164,
+    -95.640659,
+    39.124164
+],
+  "geometry": {"coordinates":[-95.640659,39.124164],"type":"Point"}
+}

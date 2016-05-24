@@ -1,0 +1,75 @@
+{
+  "id": 840929309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.679992,37.433171,-94.679992,37.433171",
+    "geom:latitude":37.433171,
+    "geom:longitude":-94.679992,
+    "iso:country":"US",
+    "sg:address":"1601 E 27th St Ter",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 9400",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gVBZG5O6iRS7yLvIx1hQA_37.433171_-94.679992@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051234,
+    "wof:geomhash":"1a6c9760494ce5fe6e2de8f50f255a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840929309
+        }
+    ],
+    "wof:id":840929309,
+    "wof:lastmodified":1464051234,
+    "wof:name":"Larry Barrett Body Co",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.679992,
+    37.433171,
+    -94.679992,
+    37.433171
+],
+  "geometry": {"coordinates":[-94.679992,37.433171],"type":"Point"}
+}

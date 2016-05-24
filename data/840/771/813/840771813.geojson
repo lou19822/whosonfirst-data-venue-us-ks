@@ -1,0 +1,73 @@
+{
+  "id": 840771813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.449111,37.693933,-97.449111,37.693933",
+    "geom:latitude":37.693933,
+    "geom:longitude":-97.449111,
+    "iso:country":"US",
+    "sg:address":"9235 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 4828",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OlmPVKMTOzwcrSWUiMgkY_37.693933_-97.449111@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047609,
+    "wof:geomhash":"3f0e8c0d35e6d5fd45d9e90e7de9490d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840771813
+        }
+    ],
+    "wof:id":840771813,
+    "wof:lastmodified":1464047609,
+    "wof:name":"Harris Healthcare",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -97.449111,
+    37.693933,
+    -97.449111,
+    37.693933
+],
+  "geometry": {"coordinates":[-97.449111,37.693933],"type":"Point"}
+}

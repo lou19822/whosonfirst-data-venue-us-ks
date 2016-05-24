@@ -1,0 +1,78 @@
+{
+  "id": 856711627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.704562,39.058636,-95.704562,39.058636",
+    "geom:latitude":39.058636,
+    "geom:longitude":-95.704562,
+    "iso:country":"US",
+    "sg:address":"2424 W 6th Street",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/155865-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 5772",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881541,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HqEoQ2TU1sOlehWtoxFn2_39.058709_-95.704352@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052298,
+    "wof:geomhash":"a10f61e5f427f4a758f1c6449c3ef86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881541,
+            "region_id":85688555,
+            "venue_id":856711627
+        }
+    ],
+    "wof:id":856711627,
+    "wof:lastmodified":1464052298,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85881541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.704562,
+    39.058636,
+    -95.704562,
+    39.058636
+],
+  "geometry": {"coordinates":[-95.704562,39.058636],"type":"Point"}
+}

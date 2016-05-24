@@ -1,0 +1,75 @@
+{
+  "id": 840617459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651516,39.017555,-95.651516,39.017555",
+    "geom:latitude":39.017555,
+    "geom:longitude":-95.651516,
+    "iso:country":"US",
+    "sg:address":"2726 SE California Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 8887",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3StfeI3DxOMmDdMvnPSQdC_39.017555_-95.651516@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044108,
+    "wof:geomhash":"267406d79a488dcb93f67fa417e8c9ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840617459
+        }
+    ],
+    "wof:id":840617459,
+    "wof:lastmodified":1464044108,
+    "wof:name":"California Automotive",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.651516,
+    39.017555,
+    -95.651516,
+    39.017555
+],
+  "geometry": {"coordinates":[-95.651516,39.017555],"type":"Point"}
+}

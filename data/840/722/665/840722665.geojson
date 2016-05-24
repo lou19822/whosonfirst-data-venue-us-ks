@@ -1,0 +1,86 @@
+{
+  "id": 840722665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.785498,38.883753,-94.785498,38.883753",
+    "geom:latitude":38.883753,
+    "geom:longitude":-94.785498,
+    "iso:country":"US",
+    "sg:address":"1948 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 254 0700",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "steel",
+        "casting",
+        "foundry",
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J5F0d8B3wG5ctoDLjFT79_38.883753_-94.785498@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046563,
+    "wof:geomhash":"3fa36ab9c09d29ccb4526d78ffbbcd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840722665
+        }
+    ],
+    "wof:id":840722665,
+    "wof:lastmodified":1464046563,
+    "wof:name":"Custom Industrial Company",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "casting",
+        "foundry",
+        "investment"
+    ]
+},
+  "bbox": [
+    -94.785498,
+    38.883753,
+    -94.785498,
+    38.883753
+],
+  "geometry": {"coordinates":[-94.785498,38.883753],"type":"Point"}
+}

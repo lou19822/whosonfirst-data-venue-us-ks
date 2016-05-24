@@ -1,0 +1,75 @@
+{
+  "id": 840665509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.640692,39.118547,-94.640692,39.118547",
+    "geom:latitude":39.118547,
+    "geom:longitude":-94.640692,
+    "iso:country":"US",
+    "sg:address":"1100 Washington Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 621 0624",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878505,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l1WfACQwqXxfxKLrCstQt_39.118547_-94.640692@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045220,
+    "wof:geomhash":"78ead2b415afd513b6d0c156caef9d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878505,
+            "region_id":85688555,
+            "venue_id":840665509
+        }
+    ],
+    "wof:id":840665509,
+    "wof:lastmodified":1464045220,
+    "wof:name":"Bobbe's Beauty Salon",
+    "wof:parent_id":85878505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.640692,
+    39.118547,
+    -94.640692,
+    39.118547
+],
+  "geometry": {"coordinates":[-94.640692,39.118547],"type":"Point"}
+}

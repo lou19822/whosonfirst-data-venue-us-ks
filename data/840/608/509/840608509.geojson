@@ -1,0 +1,75 @@
+{
+  "id": 840608509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.408,37.744125,-97.408,37.744125",
+    "geom:latitude":37.744125,
+    "geom:longitude":-97.408,
+    "iso:country":"US",
+    "sg:address":"3343 N Hoover Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 5075",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rm5QUUBTuES5xEi6f6kJm_37.744125_-97.408000@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043877,
+    "wof:geomhash":"47722b95c70350b5d68ddbb4999f9182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840608509
+        }
+    ],
+    "wof:id":840608509,
+    "wof:lastmodified":1464043877,
+    "wof:name":"Mills Construction",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.408,
+    37.744125,
+    -97.408,
+    37.744125
+],
+  "geometry": {"coordinates":[-97.408,37.744125],"type":"Point"}
+}

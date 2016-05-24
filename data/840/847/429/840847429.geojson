@@ -1,0 +1,81 @@
+{
+  "id": 840847429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.75011,39.014415,-95.75011,39.014415",
+    "geom:latitude":39.014415,
+    "geom:longitude":-95.75011,
+    "iso:country":"US",
+    "sg:address":"5650 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 8246",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "info",
+        "pathology",
+        "speech",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pRWSRytPcuB87SNBcwzSE_39.014415_-95.750110@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049387,
+    "wof:geomhash":"753971a80305d2766d86ea3fc61edb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840847429
+        }
+    ],
+    "wof:id":840847429,
+    "wof:lastmodified":1464049387,
+    "wof:name":"Dermatopathology Diagnostics",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "info",
+        "pathology",
+        "speech",
+        "language"
+    ]
+},
+  "bbox": [
+    -95.75011,
+    39.014415,
+    -95.75011,
+    39.014415
+],
+  "geometry": {"coordinates":[-95.75011000000001,39.014415],"type":"Point"}
+}

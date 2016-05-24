@@ -1,0 +1,71 @@
+{
+  "id": 840826011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.71497,37.413969,-94.71497,37.413969",
+    "geom:latitude":37.413969,
+    "geom:longitude":-94.71497,
+    "iso:country":"US",
+    "sg:address":"721 W 7th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 1132",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75uswocVaObOhBC5fGYGZD_37.413969_-94.714970@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048911,
+    "wof:geomhash":"3c0d7868d70a241eb6c7d4b2698f9552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840826011
+        }
+    ],
+    "wof:id":840826011,
+    "wof:lastmodified":1464048911,
+    "wof:name":"Magick Moments Photography",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -94.71497,
+    37.413969,
+    -94.71497,
+    37.413969
+],
+  "geometry": {"coordinates":[-94.71496999999999,37.413969],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840696497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.69555,37.397234,-94.69555,37.397234",
+    "geom:latitude":37.397234,
+    "geom:longitude":-94.69555,
+    "iso:country":"US",
+    "sg:address":"622 E Jackson St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1924",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0suSvTjVkst9bzFm8d8IAN_37.397234_-94.695550@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045980,
+    "wof:geomhash":"81c5126da8a4ff519676de26507944c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840696497
+        }
+    ],
+    "wof:id":840696497,
+    "wof:lastmodified":1464045980,
+    "wof:name":"ABC 123 Sallys Home Daycare",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -94.69555,
+    37.397234,
+    -94.69555,
+    37.397234
+],
+  "geometry": {"coordinates":[-94.69555,37.397234],"type":"Point"}
+}

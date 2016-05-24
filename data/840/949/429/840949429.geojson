@@ -1,0 +1,71 @@
+{
+  "id": 840949429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.218402,38.421257,-96.218402,38.421257",
+    "geom:latitude":38.421257,
+    "geom:longitude":-96.218402,
+    "iso:country":"US",
+    "sg:address":"2900 Eaglecrest Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4404",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EkvjM7X8eMrH4s8YvYyY7_38.421257_-96.218402@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051639,
+    "wof:geomhash":"a113ed1e5cc9bc47a4b96c67b0ddd87f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840949429
+        }
+    ],
+    "wof:id":840949429,
+    "wof:lastmodified":1464051639,
+    "wof:name":"Shell",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.218402,
+    38.421257,
+    -96.218402,
+    38.421257
+],
+  "geometry": {"coordinates":[-96.218402,38.421257],"type":"Point"}
+}

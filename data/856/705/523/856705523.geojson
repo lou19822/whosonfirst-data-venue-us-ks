@@ -1,0 +1,76 @@
+{
+  "id": 856705523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668276,38.95353,-94.668276,38.95353",
+    "geom:latitude":38.95353,
+    "geom:longitude":-94.668276,
+    "iso:country":"US",
+    "sg:address":"9690 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/208188-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 383 2452",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879581,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hFsRiXAiMdyvmqi3xCHNa_38.953530_-94.668276@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052178,
+    "wof:geomhash":"71be4a4f87afdff9b193a04c3f9750f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879581,
+            "region_id":85688555,
+            "venue_id":856705523
+        }
+    ],
+    "wof:id":856705523,
+    "wof:lastmodified":1464052178,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85879581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.668276,
+    38.95353,
+    -94.668276,
+    38.95353
+],
+  "geometry": {"coordinates":[-94.66827600000001,38.95353],"type":"Point"}
+}

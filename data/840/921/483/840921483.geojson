@@ -1,0 +1,73 @@
+{
+  "id": 840921483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.203316,38.408577,-96.203316,38.408577",
+    "geom:latitude":38.408577,
+    "geom:longitude":-96.203316,
+    "iso:country":"US",
+    "sg:address":"711 Sunnyslope St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 6744",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p6mfqWWX17zYWT2yM1qgQ_38.408577_-96.203316@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051044,
+    "wof:geomhash":"db2eb09565aa7132cb2262fe358ca3a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840921483
+        }
+    ],
+    "wof:id":840921483,
+    "wof:lastmodified":1464051044,
+    "wof:name":"Largent Electric",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.203316,
+    38.408577,
+    -96.203316,
+    38.408577
+],
+  "geometry": {"coordinates":[-96.203316,38.408577],"type":"Point"}
+}

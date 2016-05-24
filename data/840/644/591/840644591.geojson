@@ -1,0 +1,73 @@
+{
+  "id": 840644591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.375951,37.708865,-97.375951,37.708865",
+    "geom:latitude":37.708865,
+    "geom:longitude":-97.375951,
+    "iso:country":"US",
+    "sg:address":"2740 W 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 0361",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p71e5kpIhaWcGzU1ASGHM_37.708865_-97.375951@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044774,
+    "wof:geomhash":"90159d7202d8c70c9185d5664fccfdc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840644591
+        }
+    ],
+    "wof:id":840644591,
+    "wof:lastmodified":1464044774,
+    "wof:name":"Indian Hills Apartments",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.375951,
+    37.708865,
+    -97.375951,
+    37.708865
+],
+  "geometry": {"coordinates":[-97.375951,37.708865],"type":"Point"}
+}

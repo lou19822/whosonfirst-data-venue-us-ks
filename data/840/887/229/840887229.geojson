@@ -1,0 +1,66 @@
+{
+  "id": 840887229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651475,39.019263,-95.651475,39.019263",
+    "geom:latitude":39.019263,
+    "geom:longitude":-95.651475,
+    "iso:country":"US",
+    "sg:address":"2620 SE California Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 9558",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FcyG6AKsX6NBYupRJfY3E_39.019263_-95.651475@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050224,
+    "wof:geomhash":"8bde4ae1245fa183b4b3feed90983388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840887229
+        }
+    ],
+    "wof:id":840887229,
+    "wof:lastmodified":1464050224,
+    "wof:name":"Sonic Drive-In",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.651475,
+    39.019263,
+    -95.651475,
+    39.019263
+],
+  "geometry": {"coordinates":[-95.651475,39.019263],"type":"Point"}
+}

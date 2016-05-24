@@ -1,0 +1,71 @@
+{
+  "id": 840604121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.212173,38.416018,-96.212173,38.416018",
+    "geom:latitude":38.416018,
+    "geom:longitude":-96.212173,
+    "iso:country":"US",
+    "sg:address":"2516 W 15th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8032",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68O72SORGcC8cI1yb8oVe5_38.416018_-96.212173@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043760,
+    "wof:geomhash":"073c98a4c21e73219b129c7e669937a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840604121
+        }
+    ],
+    "wof:id":840604121,
+    "wof:lastmodified":1464043760,
+    "wof:name":"Mark I Ensman DDS",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.212173,
+    38.416018,
+    -96.212173,
+    38.416018
+],
+  "geometry": {"coordinates":[-96.21217300000001,38.416018],"type":"Point"}
+}

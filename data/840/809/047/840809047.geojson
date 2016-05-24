@@ -1,0 +1,77 @@
+{
+  "id": 840809047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.248134,37.664764,-97.248134,37.664764",
+    "geom:latitude":37.664764,
+    "geom:longitude":-97.248134,
+    "iso:country":"US",
+    "sg:address":"7718 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 686 3379",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806685,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LkucSGETPrVs1bUAIZrrh_37.664764_-97.248134@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048386,
+    "wof:geomhash":"e2b9d6bcd598f71c78db43f066de644f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85806685,
+            "region_id":85688555,
+            "venue_id":840809047
+        }
+    ],
+    "wof:id":840809047,
+    "wof:lastmodified":1464048386,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85806685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -97.248134,
+    37.664764,
+    -97.248134,
+    37.664764
+],
+  "geometry": {"coordinates":[-97.24813399999999,37.664764],"type":"Point"}
+}

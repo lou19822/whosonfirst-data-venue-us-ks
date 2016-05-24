@@ -1,0 +1,71 @@
+{
+  "id": 840767947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.107992,37.794447,-97.107992,37.794447",
+    "geom:latitude":37.794447,
+    "geom:longitude":-97.107992,
+    "iso:country":"US",
+    "sg:address":"701 N Main St",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 778 2114",
+    "sg:postcode":"67017",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qpvWy57EcpN6Uixxrdorf_37.794447_-97.107992@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047525,
+    "wof:geomhash":"9ee12bbce010cca5e956383f629280f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840767947
+        }
+    ],
+    "wof:id":840767947,
+    "wof:lastmodified":1464047525,
+    "wof:name":"Centurion Manufacturing",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.107992,
+    37.794447,
+    -97.107992,
+    37.794447
+],
+  "geometry": {"coordinates":[-97.107992,37.794447],"type":"Point"}
+}

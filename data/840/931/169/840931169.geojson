@@ -1,0 +1,71 @@
+{
+  "id": 840931169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.200285,38.406476,-96.200285,38.406476",
+    "geom:latitude":38.406476,
+    "geom:longitude":-96.200285,
+    "iso:country":"US",
+    "sg:address":"621 Garfield St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3501",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CPBFUdjCxN7tZE3EdRoVa_38.406476_-96.200285@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051273,
+    "wof:geomhash":"5a1eb129245a0aaeefe0957226396ff7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840931169
+        }
+    ],
+    "wof:id":840931169,
+    "wof:lastmodified":1464051273,
+    "wof:name":"Precious Treasures",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.200285,
+    38.406476,
+    -96.200285,
+    38.406476
+],
+  "geometry": {"coordinates":[-96.20028499999999,38.406476],"type":"Point"}
+}

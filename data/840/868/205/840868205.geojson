@@ -1,0 +1,71 @@
+{
+  "id": 840868205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.78124,37.682892,-96.78124,37.682892",
+    "geom:latitude":37.682892,
+    "geom:longitude":-96.78124,
+    "iso:country":"US",
+    "sg:address":"826 S Main St",
+    "sg:city":"Leon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 745 0001",
+    "sg:postcode":"67074",
+    "sg:province":"KS",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VIhZFd9Am54MfohYOJiMw_37.682892_-96.781240@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049820,
+    "wof:geomhash":"9fee7396f2172e6d26b4e358a4179a52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840868205
+        }
+    ],
+    "wof:id":840868205,
+    "wof:lastmodified":1464049820,
+    "wof:name":"Kansas Saddlery",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -96.78124,
+    37.682892,
+    -96.78124,
+    37.682892
+],
+  "geometry": {"coordinates":[-96.78124,37.682892],"type":"Point"}
+}

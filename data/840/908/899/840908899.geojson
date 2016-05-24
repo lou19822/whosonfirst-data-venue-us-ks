@@ -1,0 +1,73 @@
+{
+  "id": 840908899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.212104,38.416018,-96.212104,38.416018",
+    "geom:latitude":38.416018,
+    "geom:longitude":-96.212104,
+    "iso:country":"US",
+    "sg:address":"2522 W 15th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 7043",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3va4QUmgaP4BdAJhzUIztT_38.416018_-96.212104@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050693,
+    "wof:geomhash":"de7006c9917ed4db2c8853e96d5232a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840908899
+        }
+    ],
+    "wof:id":840908899,
+    "wof:lastmodified":1464050693,
+    "wof:name":"Flint Hills Surgical Assoc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.212104,
+    38.416018,
+    -96.212104,
+    38.416018
+],
+  "geometry": {"coordinates":[-96.212104,38.416018],"type":"Point"}
+}

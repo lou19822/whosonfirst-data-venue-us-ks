@@ -1,0 +1,74 @@
+{
+  "id": 856707581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.215785,38.419521,-96.215785,38.419521",
+    "geom:latitude":38.419521,
+    "geom:longitude":-96.215785,
+    "iso:country":"US",
+    "sg:address":"2831 W 18th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/109366-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 1900",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cqKOziuiR1tXgBCxIM7KR_38.419521_-96.215785@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052221,
+    "wof:geomhash":"fb511cb9e8293629a99a39d70329692d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707581
+        }
+    ],
+    "wof:id":856707581,
+    "wof:lastmodified":1464052221,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.215785,
+    38.419521,
+    -96.215785,
+    38.419521
+],
+  "geometry": {"coordinates":[-96.215785,38.419521],"type":"Point"}
+}

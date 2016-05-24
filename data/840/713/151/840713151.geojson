@@ -1,0 +1,86 @@
+{
+  "id": 840713151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389699,37.699726,-97.389699,37.699726",
+    "geom:latitude":37.699726,
+    "geom:longitude":-97.389699,
+    "iso:country":"US",
+    "sg:address":"833 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 1373",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mfg",
+        "household",
+        "cooking",
+        "equipment",
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uu9QkPgbCsxy6qGaHZntu_37.699726_-97.389699@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046368,
+    "wof:geomhash":"e37ce871ee7de99d9f41f7191335c445",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840713151
+        }
+    ],
+    "wof:id":840713151,
+    "wof:lastmodified":1464046368,
+    "wof:name":"Game X Change",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "household",
+        "cooking",
+        "equipment",
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -97.389699,
+    37.699726,
+    -97.389699,
+    37.699726
+],
+  "geometry": {"coordinates":[-97.38969899999999,37.699726],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840798145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.672639,39.029841,-95.672639,39.029841",
+    "geom:latitude":39.029841,
+    "geom:longitude":-95.672639,
+    "iso:country":"US",
+    "sg:address":"302 SE 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 1555",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "airport"
+    ],
+    "sg:website":"www.quicksilver.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iSyxa5VX4cIyOJfZiJVuv_39.029841_-95.672639@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048159,
+    "wof:geomhash":"d4778a3ea3648bb44dc12ae53b7dc78e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840798145
+        }
+    ],
+    "wof:id":840798145,
+    "wof:lastmodified":1464048159,
+    "wof:name":"Quicksilver Express Inc",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.672639,
+    39.029841,
+    -95.672639,
+    39.029841
+],
+  "geometry": {"coordinates":[-95.672639,39.029841],"type":"Point"}
+}

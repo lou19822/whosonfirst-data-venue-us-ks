@@ -1,0 +1,71 @@
+{
+  "id": 840889725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.351421,38.449096,-96.351421,38.449096",
+    "geom:latitude":38.449096,
+    "geom:longitude":-96.351421,
+    "iso:country":"US",
+    "sg:address":"141 Rd 200",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1486",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71TAx0kWm8NLs5dINoEEVS_38.449096_-96.351421@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050276,
+    "wof:geomhash":"7cf465a4f2de8fbc1010bb8396f654ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840889725
+        }
+    ],
+    "wof:id":840889725,
+    "wof:lastmodified":1464050276,
+    "wof:name":"Bradford Livestock & Feed",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -96.351421,
+    38.449096,
+    -96.351421,
+    38.449096
+],
+  "geometry": {"coordinates":[-96.351421,38.449096],"type":"Point"}
+}

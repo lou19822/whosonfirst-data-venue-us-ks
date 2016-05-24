@@ -1,0 +1,73 @@
+{
+  "id": 856691571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.188536,38.405028,-96.188536,38.405028",
+    "geom:latitude":38.405028,
+    "geom:longitude":-96.188536,
+    "iso:country":"US",
+    "sg:address":"601 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2176",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b4HYh85PZNYQas5wic374_38.405028_-96.188536@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051899,
+    "wof:geomhash":"17c927dddef0fb06503e60e70d1cf192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856691571
+        }
+    ],
+    "wof:id":856691571,
+    "wof:lastmodified":1464051899,
+    "wof:name":"Gerald Schumann Electric Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.188536,
+    38.405028,
+    -96.188536,
+    38.405028
+],
+  "geometry": {"coordinates":[-96.188536,38.405028],"type":"Point"}
+}

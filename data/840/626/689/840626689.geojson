@@ -1,0 +1,78 @@
+{
+  "id": 840626689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.718744,38.972565,-94.718744,38.972565",
+    "geom:latitude":38.972565,
+    "geom:longitude":-94.718744,
+    "iso:country":"US",
+    "sg:address":"8550 Marshall Dr",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 894 1500",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.neurokc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fqNbRg0UMaFXNgp7XKvRK_38.972565_-94.718744@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044345,
+    "wof:geomhash":"27e0d175ca70fcfc950b82b817b21052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840626689
+        }
+    ],
+    "wof:id":840626689,
+    "wof:lastmodified":1464044345,
+    "wof:name":"Mid America Neuroscience Inst",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.718744,
+    38.972565,
+    -94.718744,
+    38.972565
+],
+  "geometry": {"coordinates":[-94.718744,38.972565],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840875435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.378092,37.603251,-97.378092,37.603251",
+    "geom:latitude":37.603251,
+    "geom:longitude":-97.378092,
+    "iso:country":"US",
+    "sg:address":"5114 S Custer St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 8737",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engine",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UToeyw9aX4kPvkas5fqys_37.603251_-97.378092@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049957,
+    "wof:geomhash":"15434d69d1364c0ad2052651918b55f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840875435
+        }
+    ],
+    "wof:id":840875435,
+    "wof:lastmodified":1464049957,
+    "wof:name":"Curts Trolling Motor Repair",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "marine"
+    ]
+},
+  "bbox": [
+    -97.378092,
+    37.603251,
+    -97.378092,
+    37.603251
+],
+  "geometry": {"coordinates":[-97.378092,37.603251],"type":"Point"}
+}

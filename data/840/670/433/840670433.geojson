@@ -1,0 +1,66 @@
+{
+  "id": 840670433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.710084,37.411146,-94.710084,37.411146",
+    "geom:latitude":37.411146,
+    "geom:longitude":-94.710084,
+    "iso:country":"US",
+    "sg:address":"434 W 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 0013",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vePLJ3waFo5OotnWRtf3i_37.411146_-94.710084@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045318,
+    "wof:geomhash":"c15d0c8ff77948c520c55808ab4f83c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840670433
+        }
+    ],
+    "wof:id":840670433,
+    "wof:lastmodified":1464045318,
+    "wof:name":"Kabredlo's Cenex",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.710084,
+    37.411146,
+    -94.710084,
+    37.411146
+],
+  "geometry": {"coordinates":[-94.71008399999999,37.411146],"type":"Point"}
+}

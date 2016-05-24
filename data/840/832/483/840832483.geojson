@@ -1,0 +1,73 @@
+{
+  "id": 840832483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444339,37.695714,-97.444339,37.695714",
+    "geom:latitude":37.695714,
+    "geom:longitude":-97.444339,
+    "iso:country":"US",
+    "sg:address":"810 N Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 5977",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Aj0xwDFyWiqETyXiqXhoY_37.695714_-97.444339@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049052,
+    "wof:geomhash":"cb374758ffb099d2d0b3b78fb273b766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840832483
+        }
+    ],
+    "wof:id":840832483,
+    "wof:lastmodified":1464049052,
+    "wof:name":"Rapid Brake & Muffler",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.444339,
+    37.695714,
+    -97.444339,
+    37.695714
+],
+  "geometry": {"coordinates":[-97.444339,37.695714],"type":"Point"}
+}

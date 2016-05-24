@@ -1,0 +1,78 @@
+{
+  "id": 856706119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.768913,38.970507,-94.768913,38.970507",
+    "geom:latitude":38.970507,
+    "geom:longitude":-94.768913,
+    "iso:country":"US",
+    "sg:address":"15745 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/207350-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 310 9980",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uzA0DQRRQlawZBNV0u2Bl_38.970507_-94.768913@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052189,
+    "wof:geomhash":"31b170adf836045f923773a83fbbc69f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856706119
+        }
+    ],
+    "wof:id":856706119,
+    "wof:lastmodified":1464052189,
+    "wof:name":"Sonic",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.768913,
+    38.970507,
+    -94.768913,
+    38.970507
+],
+  "geometry": {"coordinates":[-94.768913,38.970507],"type":"Point"}
+}

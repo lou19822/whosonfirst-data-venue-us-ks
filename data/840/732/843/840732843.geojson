@@ -1,0 +1,77 @@
+{
+  "id": 840732843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.669222,39.058756,-94.669222,39.058756",
+    "geom:latitude":39.058756,
+    "geom:longitude":-94.669222,
+    "iso:country":"US",
+    "sg:address":"3402 Gibbs Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 722 4545",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803445,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0102jbsvWiLkEtr0KmmkGZ_39.058756_-94.669222@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046761,
+    "wof:geomhash":"9e2443c8c77276214dca121a6a7a9562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85803445,
+            "region_id":85688555,
+            "venue_id":840732843
+        }
+    ],
+    "wof:id":840732843,
+    "wof:lastmodified":1464046761,
+    "wof:name":"Burch Auto Svc",
+    "wof:parent_id":85803445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.669222,
+    39.058756,
+    -94.669222,
+    39.058756
+],
+  "geometry": {"coordinates":[-94.669222,39.058756],"type":"Point"}
+}

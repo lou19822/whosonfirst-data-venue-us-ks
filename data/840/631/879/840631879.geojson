@@ -1,0 +1,71 @@
+{
+  "id": 840631879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.665264,39.085315,-95.665264,39.085315",
+    "geom:latitude":39.085315,
+    "geom:longitude":-95.665264,
+    "iso:country":"US",
+    "sg:address":"2007 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 7264",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gkQ2gOUqic3gSYicvgA4q_39.085315_-95.665264@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044488,
+    "wof:geomhash":"6c250446e1a3164ac32c5cf54157df4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840631879
+        }
+    ],
+    "wof:id":840631879,
+    "wof:lastmodified":1464044488,
+    "wof:name":"Scotch Fabric Care Svc",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -95.665264,
+    39.085315,
+    -95.665264,
+    39.085315
+],
+  "geometry": {"coordinates":[-95.66526399999999,39.085315],"type":"Point"}
+}

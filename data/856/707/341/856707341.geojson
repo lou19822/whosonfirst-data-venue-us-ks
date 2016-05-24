@@ -1,0 +1,72 @@
+{
+  "id": 856707341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.71773,39.131497,-95.71773,39.131497",
+    "geom:latitude":39.131497,
+    "geom:longitude":-95.71773,
+    "iso:country":"US",
+    "sg:address":"4731 NW Hunters Ridge Cir",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/soldier/115665-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0837",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CTD7mIf9ObgooiM6YeLzg_39.131497_-95.717730@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052217,
+    "wof:geomhash":"99262e699316e102781907475c5e6cdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":856707341
+        }
+    ],
+    "wof:id":856707341,
+    "wof:lastmodified":1464052217,
+    "wof:name":"Subway",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.71773,
+    39.131497,
+    -95.71773,
+    39.131497
+],
+  "geometry": {"coordinates":[-95.71773,39.131497],"type":"Point"}
+}

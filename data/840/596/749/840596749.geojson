@@ -1,0 +1,73 @@
+{
+  "id": 840596749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368203,37.742441,-97.368203,37.742441",
+    "geom:latitude":37.742441,
+    "geom:longitude":-97.368203,
+    "iso:country":"US",
+    "sg:address":"3300 Carlock Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 3626",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sales",
+        "estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n2zaVr4bhzdQGnxyXIITR_37.742441_-97.368203@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043576,
+    "wof:geomhash":"a50a1d974ef3e2464debd4427d4c301b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840596749
+        }
+    ],
+    "wof:id":840596749,
+    "wof:lastmodified":1464043576,
+    "wof:name":"Kansas Estate Sales",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales",
+        "estate"
+    ]
+},
+  "bbox": [
+    -97.368203,
+    37.742441,
+    -97.368203,
+    37.742441
+],
+  "geometry": {"coordinates":[-97.36820299999999,37.742441],"type":"Point"}
+}

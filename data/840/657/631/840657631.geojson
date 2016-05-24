@@ -1,0 +1,71 @@
+{
+  "id": 840657631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.422186,37.607701,-97.422186,37.607701",
+    "geom:latitude":37.607701,
+    "geom:longitude":-97.422186,
+    "iso:country":"US",
+    "sg:address":"6231 W 47th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 7119",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rdwONWZrZkDee5dbRkqgM_37.607701_-97.422186@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045057,
+    "wof:geomhash":"e4c8b4ac6ebdc81997bbe9df43971399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840657631
+        }
+    ],
+    "wof:id":840657631,
+    "wof:lastmodified":1464045057,
+    "wof:name":"Greenwood Cemetery",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -97.422186,
+    37.607701,
+    -97.422186,
+    37.607701
+],
+  "geometry": {"coordinates":[-97.422186,37.607701],"type":"Point"}
+}

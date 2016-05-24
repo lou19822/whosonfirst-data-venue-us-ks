@@ -1,0 +1,75 @@
+{
+  "id": 840889871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363239,37.743834,-97.363239,37.743834",
+    "geom:latitude":37.743834,
+    "geom:longitude":-97.363239,
+    "iso:country":"US",
+    "sg:address":"3357 N Amidon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 4140",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pC3rsc9NtC6p4O200ks7k_37.743834_-97.363239@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050281,
+    "wof:geomhash":"0895732000775c8ec42269f9835ce09e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840889871
+        }
+    ],
+    "wof:id":840889871,
+    "wof:lastmodified":1464050281,
+    "wof:name":"Smoke Shop",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.363239,
+    37.743834,
+    -97.363239,
+    37.743834
+],
+  "geometry": {"coordinates":[-97.36323899999999,37.743834],"type":"Point"}
+}

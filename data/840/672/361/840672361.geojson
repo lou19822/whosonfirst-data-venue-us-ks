@@ -1,0 +1,75 @@
+{
+  "id": 840672361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.652681,39.080104,-95.652681,39.080104",
+    "geom:latitude":39.080104,
+    "geom:longitude":-95.652681,
+    "iso:country":"US",
+    "sg:address":"1821 NE Grantville Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 1016",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50SbWlugwczZlmgA9QsxkU_39.080104_-95.652681@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045371,
+    "wof:geomhash":"046e7eb9297699741c67a5ce4bcf850a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840672361
+        }
+    ],
+    "wof:id":840672361,
+    "wof:lastmodified":1464045371,
+    "wof:name":"Tim's Paint Works",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.652681,
+    39.080104,
+    -95.652681,
+    39.080104
+],
+  "geometry": {"coordinates":[-95.652681,39.080104],"type":"Point"}
+}

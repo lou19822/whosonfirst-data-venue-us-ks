@@ -1,0 +1,71 @@
+{
+  "id": 840548177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181513,38.406078,-96.181513,38.406078",
+    "geom:latitude":38.406078,
+    "geom:longitude":-96.181513,
+    "iso:country":"US",
+    "sg:address":"611 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9113",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZFe2LZIItixazMGLHuXim_38.406078_-96.181513@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042461,
+    "wof:geomhash":"10175052ac71002ee245ccb891e1f705",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840548177
+        }
+    ],
+    "wof:id":840548177,
+    "wof:lastmodified":1464042461,
+    "wof:name":"Barbers Limited",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.181513,
+    38.406078,
+    -96.181513,
+    38.406078
+],
+  "geometry": {"coordinates":[-96.181513,38.406078],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840771825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.666183,39.083088,-95.666183,39.083088",
+    "geom:latitude":39.083088,
+    "geom:longitude":-95.666183,
+    "iso:country":"US",
+    "sg:address":"1835 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 3232",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sPpB6RlSoi0b4nsnoZ49V_39.083088_-95.666183@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047609,
+    "wof:geomhash":"1635408c64a0c8cf4f65531c0149da10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840771825
+        }
+    ],
+    "wof:id":840771825,
+    "wof:lastmodified":1464047609,
+    "wof:name":"H & R Block Tax Svc",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -95.666183,
+    39.083088,
+    -95.666183,
+    39.083088
+],
+  "geometry": {"coordinates":[-95.666183,39.083088],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856707151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.675415,39.046856,-95.675415,39.046856",
+    "geom:latitude":39.046856,
+    "geom:longitude":-95.675415,
+    "iso:country":"US",
+    "sg:address":"935 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/115662-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 8782",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VcFy6nX2f9G85afSphtn6_39.046856_-95.675415@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052211,
+    "wof:geomhash":"7fc3904392cc9710121dd1108a5c9287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":856707151
+        }
+    ],
+    "wof:id":856707151,
+    "wof:lastmodified":1464052211,
+    "wof:name":"Subway",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.675415,
+    39.046856,
+    -95.675415,
+    39.046856
+],
+  "geometry": {"coordinates":[-95.675415,39.046856],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840909311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.258685,38.503645,-96.258685,38.503645",
+    "geom:latitude":38.503645,
+    "geom:longitude":-96.258685,
+    "iso:country":"US",
+    "sg:address":"313 Hackberry St",
+    "sg:city":"Americus",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 443 5885",
+    "sg:postcode":"66835",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EPqO7IjrySBiLHHYeV1G7_38.503645_-96.258685@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050704,
+    "wof:geomhash":"581bc4c67cdaa725e729fd1772f12826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840909311
+        }
+    ],
+    "wof:id":840909311,
+    "wof:lastmodified":1464050704,
+    "wof:name":"Americus Swimming Pool",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -96.258685,
+    38.503645,
+    -96.258685,
+    38.503645
+],
+  "geometry": {"coordinates":[-96.258685,38.503645],"type":"Point"}
+}

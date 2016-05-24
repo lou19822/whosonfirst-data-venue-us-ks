@@ -1,0 +1,71 @@
+{
+  "id": 840709447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.642251,39.032583,-95.642251,39.032583",
+    "geom:latitude":39.032583,
+    "geom:longitude":-95.642251,
+    "iso:country":"US",
+    "sg:address":"2720 SE Doane St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 8544",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TpWz00Kz1Ol97g83sMnmd_39.032583_-95.642251@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046291,
+    "wof:geomhash":"a023fa65fe11e731a90cb3a94d1cfada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840709447
+        }
+    ],
+    "wof:id":840709447,
+    "wof:lastmodified":1464046291,
+    "wof:name":"Church Of God Fellowship",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.642251,
+    39.032583,
+    -95.642251,
+    39.032583
+],
+  "geometry": {"coordinates":[-95.642251,39.032583],"type":"Point"}
+}

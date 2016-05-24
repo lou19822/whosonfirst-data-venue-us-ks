@@ -1,0 +1,71 @@
+{
+  "id": 840640523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.296271,37.567412,-97.296271,37.567412",
+    "geom:latitude":37.567412,
+    "geom:longitude":-97.296271,
+    "iso:country":"US",
+    "sg:address":"7000 S Rutan St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 3500",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k10UZT6ANWXTBHQ3e65gN_37.567412_-97.296271@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044685,
+    "wof:geomhash":"538972aa32db99552f36a4d5e4bb0c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840640523
+        }
+    ],
+    "wof:id":840640523,
+    "wof:lastmodified":1464044685,
+    "wof:name":"J & J Garage Doors",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -97.296271,
+    37.567412,
+    -97.296271,
+    37.567412
+],
+  "geometry": {"coordinates":[-97.296271,37.567412],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840816979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444326,37.696641,-97.444326,37.696641",
+    "geom:latitude":37.696641,
+    "geom:longitude":-97.444326,
+    "iso:country":"US",
+    "sg:address":"760 N Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 558 5222",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wuaWVfdTZH50wveDPbmth_37.696641_-97.444326@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048659,
+    "wof:geomhash":"de719c98819db0b371eb166c0c42a049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840816979
+        }
+    ],
+    "wof:id":840816979,
+    "wof:lastmodified":1464048659,
+    "wof:name":"Attitude Tanning",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -97.444326,
+    37.696641,
+    -97.444326,
+    37.696641
+],
+  "geometry": {"coordinates":[-97.444326,37.696641],"type":"Point"}
+}

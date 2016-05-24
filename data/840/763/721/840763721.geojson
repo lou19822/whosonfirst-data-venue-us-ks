@@ -1,0 +1,73 @@
+{
+  "id": 840763721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.529126,37.676499,-97.529126,37.676499",
+    "geom:latitude":37.676499,
+    "geom:longitude":-97.529126,
+    "iso:country":"US",
+    "sg:address":"501 S 162nd St W",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 7222",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q55MByAj0FnD5DEWnfqSs_37.676499_-97.529126@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047422,
+    "wof:geomhash":"fc9484619a790251ec83d6fc144441eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840763721
+        }
+    ],
+    "wof:id":840763721,
+    "wof:lastmodified":1464047422,
+    "wof:name":"S S Air Express",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -97.529126,
+    37.676499,
+    -97.529126,
+    37.676499
+],
+  "geometry": {"coordinates":[-97.52912600000001,37.676499],"type":"Point"}
+}

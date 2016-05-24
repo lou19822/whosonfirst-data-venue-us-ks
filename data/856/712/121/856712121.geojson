@@ -1,0 +1,74 @@
+{
+  "id": 856712121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.361826,37.722709,-97.361826,37.722709",
+    "geom:latitude":37.722709,
+    "geom:longitude":-97.361826,
+    "iso:country":"US",
+    "sg:address":"1920 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/65919-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 821 9056",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vTqOeDp0EmH8ljue4GhmF_37.722773_-97.361601@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052308,
+    "wof:geomhash":"5fcadb8722ce41849b95671947735e24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":856712121
+        }
+    ],
+    "wof:id":856712121,
+    "wof:lastmodified":1464052308,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -97.361826,
+    37.722709,
+    -97.361826,
+    37.722709
+],
+  "geometry": {"coordinates":[-97.36182599999999,37.722709],"type":"Point"}
+}

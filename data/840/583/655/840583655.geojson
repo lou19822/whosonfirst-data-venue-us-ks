@@ -1,0 +1,77 @@
+{
+  "id": 840583655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.665778,39.075527,-94.665778,39.075527",
+    "geom:latitude":39.075527,
+    "geom:longitude":-94.665778,
+    "iso:country":"US",
+    "sg:address":"1329 S 32 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 677 4200",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jidjLY9s0C8Rv2vmcEg6F_39.075527_-94.665778@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043285,
+    "wof:geomhash":"af00a1d4aaab4ba34acdeb9cbd8d7153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840583655
+        }
+    ],
+    "wof:id":840583655,
+    "wof:lastmodified":1464043285,
+    "wof:name":"Argentine Dental Studio",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -94.665778,
+    39.075527,
+    -94.665778,
+    39.075527
+],
+  "geometry": {"coordinates":[-94.665778,39.075527],"type":"Point"}
+}

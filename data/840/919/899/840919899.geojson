@@ -1,0 +1,67 @@
+{
+  "id": 840919899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389257,37.655718,-97.389257,37.655718",
+    "geom:latitude":37.655718,
+    "geom:longitude":-97.389257,
+    "iso:country":"US",
+    "sg:address":"2233 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 9100",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:website":"www.tec-engineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wQ25I5VQj00EOkuy18Yh8_37.655718_-97.389257@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050988,
+    "wof:geomhash":"676b503780203bc8af643a1fc89d0ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840919899
+        }
+    ],
+    "wof:id":840919899,
+    "wof:lastmodified":1464050988,
+    "wof:name":"TEC Engineering Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.389257,
+    37.655718,
+    -97.389257,
+    37.655718
+],
+  "geometry": {"coordinates":[-97.389257,37.655718],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840660925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.273713,37.557096,-97.273713,37.557096",
+    "geom:latitude":37.557096,
+    "geom:longitude":-97.273713,
+    "iso:country":"US",
+    "sg:address":"224 W Greenway St",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 8921",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20ePs3zvvxUDdm60CxqcqK_37.557096_-97.273713@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045125,
+    "wof:geomhash":"0c0c7b8f568efbba66aac7dfa3e45801",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840660925
+        }
+    ],
+    "wof:id":840660925,
+    "wof:lastmodified":1464045125,
+    "wof:name":"Iron Chef Cafe",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -97.273713,
+    37.557096,
+    -97.273713,
+    37.557096
+],
+  "geometry": {"coordinates":[-97.273713,37.557096],"type":"Point"}
+}

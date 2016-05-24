@@ -1,0 +1,73 @@
+{
+  "id": 840659135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.828769,37.438231,-94.828769,37.438231",
+    "geom:latitude":37.438231,
+    "geom:longitude":-94.828769,
+    "iso:country":"US",
+    "sg:address":"312 Front St",
+    "sg:city":"Girard",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 724 8268",
+    "sg:postcode":"66743",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I3q3JWY6G2wN54MFjIJE9_37.438231_-94.828769@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045086,
+    "wof:geomhash":"16f80e306c9c03622c7d8424f2547740",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840659135
+        }
+    ],
+    "wof:id":840659135,
+    "wof:lastmodified":1464045086,
+    "wof:name":"Beachner Grain Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -94.828769,
+    37.438231,
+    -94.828769,
+    37.438231
+],
+  "geometry": {"coordinates":[-94.82876899999999,37.438231],"type":"Point"}
+}

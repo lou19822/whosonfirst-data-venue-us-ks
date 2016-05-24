@@ -1,0 +1,82 @@
+{
+  "id": 840868027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.366439,37.722751,-97.366439,37.722751",
+    "geom:latitude":37.722751,
+    "geom:longitude":-97.366439,
+    "iso:country":"US",
+    "sg:address":"2021 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 3124",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45lwmhdz4g62fc5Ut9s390_37.722751_-97.366439@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049816,
+    "wof:geomhash":"a03fe6be5998a2d9d5edfcf2a4bfebab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840868027
+        }
+    ],
+    "wof:id":840868027,
+    "wof:lastmodified":1464049816,
+    "wof:name":"Precious Paws Dog Cat Grooming",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -97.366439,
+    37.722751,
+    -97.366439,
+    37.722751
+],
+  "geometry": {"coordinates":[-97.366439,37.722751],"type":"Point"}
+}

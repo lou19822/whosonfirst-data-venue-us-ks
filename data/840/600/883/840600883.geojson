@@ -1,0 +1,73 @@
+{
+  "id": 840600883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.399596,37.713663,-97.399596,37.713663",
+    "geom:latitude":37.713663,
+    "geom:longitude":-97.399596,
+    "iso:country":"US",
+    "sg:address":"4605 W Zoo Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 5196",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f91wQyw5gWFZx6nJx6lfl_37.713663_-97.399596@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043679,
+    "wof:geomhash":"5042ed336da633ada0f4d713e3665bcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840600883
+        }
+    ],
+    "wof:id":840600883,
+    "wof:lastmodified":1464043679,
+    "wof:name":"PAR Electrical Contractors Inc",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.399596,
+    37.713663,
+    -97.399596,
+    37.713663
+],
+  "geometry": {"coordinates":[-97.399596,37.713663],"type":"Point"}
+}

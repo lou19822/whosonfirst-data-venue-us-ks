@@ -1,0 +1,72 @@
+{
+  "id": 856711633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.665334,39.085207,-95.665334,39.085207",
+    "geom:latitude":39.085207,
+    "geom:longitude":-95.665334,
+    "iso:country":"US",
+    "sg:address":"2013 NW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/208197-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 6293",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GxlrwB0do9TBHU2wyWIsU_39.085256_-95.665283@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052298,
+    "wof:geomhash":"57520380d54cbc3adac78227f1c4efc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":856711633
+        }
+    ],
+    "wof:id":856711633,
+    "wof:lastmodified":1464052298,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.665334,
+    39.085207,
+    -95.665334,
+    39.085207
+],
+  "geometry": {"coordinates":[-95.665334,39.085207],"type":"Point"}
+}

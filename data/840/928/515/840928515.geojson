@@ -1,0 +1,71 @@
+{
+  "id": 840928515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706271,39.097719,-95.706271,39.097719",
+    "geom:latitude":39.097719,
+    "geom:longitude":-95.706271,
+    "iso:country":"US",
+    "sg:address":"3045 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 1025",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B75HweHP8P71uErIbHWOV_39.097719_-95.706271@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051216,
+    "wof:geomhash":"8b24f2c78c36554efb0fc5c035af5dfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840928515
+        }
+    ],
+    "wof:id":840928515,
+    "wof:lastmodified":1464051216,
+    "wof:name":"Aeolian Mini-Warehouse & Stge",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -95.706271,
+    39.097719,
+    -95.706271,
+    39.097719
+],
+  "geometry": {"coordinates":[-95.706271,39.097719],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840655207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.324237,37.736642,-97.324237,37.736642",
+    "geom:latitude":37.736642,
+    "geom:longitude":-97.324237,
+    "iso:country":"US",
+    "sg:address":"2745 N Ohio St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 4920",
+    "sg:postcode":"67219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.wasteconnections.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cbzTMsuKopZbDZdFp7pC0_37.736642_-97.324237@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045008,
+    "wof:geomhash":"c8d2bc60cac2f28ceedff05cca1a63b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":840655207
+        }
+    ],
+    "wof:id":840655207,
+    "wof:lastmodified":1464045008,
+    "wof:name":"Waste Connections",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -97.324237,
+    37.736642,
+    -97.324237,
+    37.736642
+],
+  "geometry": {"coordinates":[-97.324237,37.736642],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840651109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.625653,39.029587,-95.625653,39.029587",
+    "geom:latitude":39.029587,
+    "geom:longitude":-95.625653,
+    "iso:country":"US",
+    "sg:address":"3335 SE 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 1181",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A4YYtMD9MQnvTIOtBzvH6_39.029587_-95.625653@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044910,
+    "wof:geomhash":"df9edbd899cdcdaa5d9b6cf7b83a3e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840651109
+        }
+    ],
+    "wof:id":840651109,
+    "wof:lastmodified":1464044910,
+    "wof:name":"Topeka Freightliner",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -95.625653,
+    39.029587,
+    -95.625653,
+    39.029587
+],
+  "geometry": {"coordinates":[-95.625653,39.029587],"type":"Point"}
+}

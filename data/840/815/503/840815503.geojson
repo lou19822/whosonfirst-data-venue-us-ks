@@ -1,0 +1,66 @@
+{
+  "id": 840815503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.332544,37.649649,-97.332544,37.649649",
+    "geom:latitude":37.649649,
+    "geom:longitude":-97.332544,
+    "iso:country":"US",
+    "sg:address":"593 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 261 4268",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qRNgHPLkKz7nETlS8BB0w_37.649649_-97.332544@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048627,
+    "wof:geomhash":"3ff74ed967baf9508b44a8f1801456c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840815503
+        }
+    ],
+    "wof:id":840815503,
+    "wof:lastmodified":1464048627,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.332544,
+    37.649649,
+    -97.332544,
+    37.649649
+],
+  "geometry": {"coordinates":[-97.332544,37.649649],"type":"Point"}
+}

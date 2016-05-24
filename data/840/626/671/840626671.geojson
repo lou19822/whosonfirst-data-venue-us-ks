@@ -1,0 +1,79 @@
+{
+  "id": 840626671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.828641,39.00343,-95.828641,39.00343",
+    "geom:latitude":39.00343,
+    "geom:longitude":-95.828641,
+    "iso:country":"US",
+    "sg:address":"8921 SW 35th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 478 9581",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uDFQdtgnYQmRXW70vivRy_39.003430_-95.828641@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044344,
+    "wof:geomhash":"b6fd78ea832a90164c375ac3ff8bb1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840626671
+        }
+    ],
+    "wof:id":840626671,
+    "wof:lastmodified":1464044344,
+    "wof:name":"Smith Insulating Co",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.828641,
+    39.00343,
+    -95.828641,
+    39.00343
+],
+  "geometry": {"coordinates":[-95.828641,39.00343],"type":"Point"}
+}

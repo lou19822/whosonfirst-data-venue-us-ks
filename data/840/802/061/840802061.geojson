@@ -1,0 +1,73 @@
+{
+  "id": 840802061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.751157,38.864174,-94.751157,38.864174",
+    "geom:latitude":38.864174,
+    "geom:longitude":-94.751157,
+    "iso:country":"US",
+    "sg:address":"14133 W 146th Ter",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 0310",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lf58COP5WvlKuyoOUyRdt_38.864174_-94.751157@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048245,
+    "wof:geomhash":"0742f0cedc49c51247118aab7d2aeb90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840802061
+        }
+    ],
+    "wof:id":840802061,
+    "wof:lastmodified":1464048245,
+    "wof:name":"Telecard Kc",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -94.751157,
+    38.864174,
+    -94.751157,
+    38.864174
+],
+  "geometry": {"coordinates":[-94.75115700000001,38.864174],"type":"Point"}
+}

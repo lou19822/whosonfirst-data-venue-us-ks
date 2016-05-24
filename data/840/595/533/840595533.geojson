@@ -1,0 +1,73 @@
+{
+  "id": 840595533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.303262,37.639798,-97.303262,37.639798",
+    "geom:latitude":37.639798,
+    "geom:longitude":-97.303262,
+    "iso:country":"US",
+    "sg:address":"2734 Conamore St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 686 0547",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "taxidermy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Aoad7FTQ03wFB9i9xqf4k_37.639798_-97.303262@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043551,
+    "wof:geomhash":"7f2a178633c259865e4b2e50dd632e3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840595533
+        }
+    ],
+    "wof:id":840595533,
+    "wof:lastmodified":1464043551,
+    "wof:name":"Dale's Taxidermy",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "taxidermy"
+    ]
+},
+  "bbox": [
+    -97.303262,
+    37.639798,
+    -97.303262,
+    37.639798
+],
+  "geometry": {"coordinates":[-97.303262,37.639798],"type":"Point"}
+}

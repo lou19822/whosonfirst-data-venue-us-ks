@@ -1,0 +1,76 @@
+{
+  "id": 856705463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.643984,38.916345,-94.643984,38.916345",
+    "geom:latitude":38.916345,
+    "geom:longitude":-94.643984,
+    "iso:country":"US",
+    "sg:address":"5005 W 117th St",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/leawood/229435-bravo-italiana/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 661 9207",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HqJZz7ys8XaRgJ18kwZKg_38.916345_-94.643984@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052177,
+    "wof:geomhash":"808fcacd13c356092511096a5f51dd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":856705463
+        }
+    ],
+    "wof:id":856705463,
+    "wof:lastmodified":1464052177,
+    "wof:name":"Bravo Italiana",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.643984,
+    38.916345,
+    -94.643984,
+    38.916345
+],
+  "geometry": {"coordinates":[-94.643984,38.916345],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840718339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667749,38.866138,-94.667749,38.866138",
+    "geom:latitude":38.866138,
+    "geom:longitude":-94.667749,
+    "iso:country":"US",
+    "sg:address":"14349 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 402 9501",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FFixpROLnGZC3ZfiuGpEP_38.866138_-94.667749@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046469,
+    "wof:geomhash":"de7c4135a79766aa98da67a65f26c4db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840718339
+        }
+    ],
+    "wof:id":840718339,
+    "wof:lastmodified":1464046469,
+    "wof:name":"Natural Nails",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -94.667749,
+    38.866138,
+    -94.667749,
+    38.866138
+],
+  "geometry": {"coordinates":[-94.667749,38.866138],"type":"Point"}
+}

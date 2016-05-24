@@ -1,0 +1,76 @@
+{
+  "id": 840867355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.66556,39.116373,-94.66556,39.116373",
+    "geom:latitude":39.116373,
+    "geom:longitude":-94.66556,
+    "iso:country":"US",
+    "sg:address":"1029 N 32 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 922 7600",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.swopehealth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878497,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31jV6q9UnDDCYMjnBnr4Ad_39.116373_-94.665560@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049804,
+    "wof:geomhash":"e9a17d2d0c970783c22c0cd513a47e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878497,
+            "region_id":85688555,
+            "venue_id":840867355
+        }
+    ],
+    "wof:id":840867355,
+    "wof:lastmodified":1464049804,
+    "wof:name":"Swope Health Svc",
+    "wof:parent_id":85878497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.66556,
+    39.116373,
+    -94.66556,
+    39.116373
+],
+  "geometry": {"coordinates":[-94.66556,39.116373],"type":"Point"}
+}

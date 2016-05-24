@@ -1,0 +1,71 @@
+{
+  "id": 840827423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.715375,37.425603,-94.715375,37.425603",
+    "geom:latitude":37.425603,
+    "geom:longitude":-94.715375,
+    "iso:country":"US",
+    "sg:address":"719 W 20th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 230 5585",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YJOy4LWeWgPVwn0m4FmEu_37.425603_-94.715375@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048951,
+    "wof:geomhash":"8138358b1b1ed1d1c0f9a25150d6b9cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840827423
+        }
+    ],
+    "wof:id":840827423,
+    "wof:lastmodified":1464048951,
+    "wof:name":"Pittsburg Parks & Recreation",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -94.715375,
+    37.425603,
+    -94.715375,
+    37.425603
+],
+  "geometry": {"coordinates":[-94.71537499999999,37.425603],"type":"Point"}
+}

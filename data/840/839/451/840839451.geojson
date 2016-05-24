@@ -1,0 +1,77 @@
+{
+  "id": 840839451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.672347,39.057867,-95.672347,39.057867",
+    "geom:latitude":39.057867,
+    "geom:longitude":-95.672347,
+    "iso:country":"US",
+    "sg:address":"115 SW Jackson St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 2010",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ddZxBMag9Au1duq7l2mPv_39.057867_-95.672347@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049199,
+    "wof:geomhash":"dda7560bbe59d61bf6d2aa00a35888f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840839451
+        }
+    ],
+    "wof:id":840839451,
+    "wof:lastmodified":1464049199,
+    "wof:name":"Piping Contractors Of Kansas",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.672347,
+    39.057867,
+    -95.672347,
+    39.057867
+],
+  "geometry": {"coordinates":[-95.672347,39.057867],"type":"Point"}
+}

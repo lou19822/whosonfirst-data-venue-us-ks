@@ -1,0 +1,75 @@
+{
+  "id": 840711111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.64166,39.007463,-95.64166,39.007463",
+    "geom:latitude":39.007463,
+    "geom:longitude":-95.64166,
+    "iso:country":"US",
+    "sg:address":"2405 SE Shorewood Ct",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 5444",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BnHlXwgRbOP8VJh77feVd_39.007463_-95.641660@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046323,
+    "wof:geomhash":"45426e0f6eddb1165cb6998bef3f2285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840711111
+        }
+    ],
+    "wof:id":840711111,
+    "wof:lastmodified":1464046323,
+    "wof:name":"Topeka's Finest Detailing",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -95.64166,
+    39.007463,
+    -95.64166,
+    39.007463
+],
+  "geometry": {"coordinates":[-95.64166,39.007463],"type":"Point"}
+}

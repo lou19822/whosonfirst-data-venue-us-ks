@@ -1,0 +1,74 @@
+{
+  "id": 856707827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.985241,37.679403,-96.985241,37.679403",
+    "geom:latitude":37.679403,
+    "geom:longitude":-96.985241,
+    "iso:country":"US",
+    "sg:address":"520 W 7th Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/augusta/186601-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 5075",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RLny7wmu4gnTYLRZ6jH9s_37.679403_-96.985241@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052226,
+    "wof:geomhash":"ee4b105a81853c50d57e83c81458f6a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":856707827
+        }
+    ],
+    "wof:id":856707827,
+    "wof:lastmodified":1464052226,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.985241,
+    37.679403,
+    -96.985241,
+    37.679403
+],
+  "geometry": {"coordinates":[-96.985241,37.679403],"type":"Point"}
+}

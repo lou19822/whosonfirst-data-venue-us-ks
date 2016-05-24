@@ -1,0 +1,71 @@
+{
+  "id": 840895657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.21215,38.416018,-96.21215,38.416018",
+    "geom:latitude":38.416018,
+    "geom:longitude":-96.21215,
+    "iso:country":"US",
+    "sg:address":"2518 W 15th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 8000",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iYfJ1WAycLZnatOSxFfK5_38.416018_-96.212150@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050398,
+    "wof:geomhash":"b2caaebfd0896ad58d0d579764db1c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840895657
+        }
+    ],
+    "wof:id":840895657,
+    "wof:lastmodified":1464050398,
+    "wof:name":"Ronald D Barden DDS",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.21215,
+    38.416018,
+    -96.21215,
+    38.416018
+],
+  "geometry": {"coordinates":[-96.21214999999999,38.416018],"type":"Point"}
+}

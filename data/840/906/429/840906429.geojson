@@ -1,0 +1,71 @@
+{
+  "id": 840906429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.087599,39.10918,-95.087599,39.10918",
+    "geom:latitude":39.10918,
+    "geom:longitude":-95.087599,
+    "iso:country":"US",
+    "sg:address":"504 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 3231",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h0ZIbStdVlf3IOj4dnGAc_39.109180_-95.087599@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050620,
+    "wof:geomhash":"78f05d746936a0faabdccd6c90ed3535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840906429
+        }
+    ],
+    "wof:id":840906429,
+    "wof:lastmodified":1464050620,
+    "wof:name":"Tonganoxie Dental Office",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.087599,
+    39.10918,
+    -95.087599,
+    39.10918
+],
+  "geometry": {"coordinates":[-95.087599,39.10918],"type":"Point"}
+}

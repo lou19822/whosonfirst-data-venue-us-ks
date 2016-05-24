@@ -1,0 +1,77 @@
+{
+  "id": 840811067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664808,39.071182,-95.664808,39.071182",
+    "geom:latitude":39.071182,
+    "geom:longitude":-95.664808,
+    "iso:country":"US",
+    "sg:address":"1130 N Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 1777",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838117,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yw3NJZMvrxsBaM2u5cQz5_39.071182_-95.664808@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048461,
+    "wof:geomhash":"8246430d838075d7a20e7d254d6ace40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85838117,
+            "region_id":85688555,
+            "venue_id":840811067
+        }
+    ],
+    "wof:id":840811067,
+    "wof:lastmodified":1464048461,
+    "wof:name":"Cotton-O'Neil Clinic North",
+    "wof:parent_id":85838117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.664808,
+    39.071182,
+    -95.664808,
+    39.071182
+],
+  "geometry": {"coordinates":[-95.66480799999999,39.071182],"type":"Point"}
+}

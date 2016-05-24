@@ -1,0 +1,75 @@
+{
+  "id": 840730341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.19,37.804121,-97.19,37.804121",
+    "geom:latitude":37.804121,
+    "geom:longitude":-97.19,
+    "iso:country":"US",
+    "sg:address":"6649 N 127th St E",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 744 9898",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "heavy",
+        "equipment",
+        "aircraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945835,
+        102084203,
+        85803671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rlzcRq4fOjToVoVkqegcT_37.804121_-97.190000@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046713,
+    "wof:geomhash":"8fdf43be7cdd59c0ea1a29ca7b6c5ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945835,
+            "neighbourhood_id":85803671,
+            "region_id":85688555,
+            "venue_id":840730341
+        }
+    ],
+    "wof:id":840730341,
+    "wof:lastmodified":1464046713,
+    "wof:name":"Rust Aero",
+    "wof:parent_id":85803671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "equipment",
+        "aircraft"
+    ]
+},
+  "bbox": [
+    -97.19,
+    37.804121,
+    -97.19,
+    37.804121
+],
+  "geometry": {"coordinates":[-97.19,37.804121],"type":"Point"}
+}

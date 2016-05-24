@@ -1,0 +1,72 @@
+{
+  "id": 840819311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352665,37.634794,-97.352665,37.634794",
+    "geom:latitude":37.634794,
+    "geom:longitude":-97.352665,
+    "iso:country":"US",
+    "sg:address":"3313 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 3348",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "battery"
+    ],
+    "sg:website":"www.allbattery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39dWjB5KKsSpqYeWJbB1j1_37.634794_-97.352665@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048734,
+    "wof:geomhash":"79bfc1ea63abb3fc48050ff71eb05d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840819311
+        }
+    ],
+    "wof:id":840819311,
+    "wof:lastmodified":1464048734,
+    "wof:name":"Allied Battery Supply Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -97.352665,
+    37.634794,
+    -97.352665,
+    37.634794
+],
+  "geometry": {"coordinates":[-97.352665,37.634794],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840747643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.782076,38.901984,-94.782076,38.901984",
+    "geom:latitude":38.901984,
+    "geom:longitude":-94.782076,
+    "iso:country":"US",
+    "sg:address":"12540 S Rogers Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 4494",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AlMrBq9knHWCfRQs3wcuN_38.901984_-94.782076@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047040,
+    "wof:geomhash":"d8b9903429ddc9f80046ddd1f13fc267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840747643
+        }
+    ],
+    "wof:id":840747643,
+    "wof:lastmodified":1464047040,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -94.782076,
+    38.901984,
+    -94.782076,
+    38.901984
+],
+  "geometry": {"coordinates":[-94.782076,38.901984],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 840920483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.760383,39.116466,-94.760383,39.116466",
+    "geom:latitude":39.116466,
+    "geom:longitude":-94.760383,
+    "iso:country":"US",
+    "sg:address":"7714 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 3961",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n9U9uHoc9WlLF7l9mza9K_39.116466_-94.760383@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051001,
+    "wof:geomhash":"25fed5fc466ef017e981daa87d10ef52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840920483
+        }
+    ],
+    "wof:id":840920483,
+    "wof:lastmodified":1464051001,
+    "wof:name":"Payless Shoe Source",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.760383,
+    39.116466,
+    -94.760383,
+    39.116466
+],
+  "geometry": {"coordinates":[-94.760383,39.116466],"type":"Point"}
+}

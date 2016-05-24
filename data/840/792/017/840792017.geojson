@@ -1,0 +1,71 @@
+{
+  "id": 840792017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.183932,38.406216,-96.183932,38.406216",
+    "geom:latitude":38.406216,
+    "geom:longitude":-96.183932,
+    "iso:country":"US",
+    "sg:address":"601 Congress St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6861",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "parsonage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QaijIA2YIClsPiuzPAo5b_38.406216_-96.183932@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048022,
+    "wof:geomhash":"f9d2ab843de42a61f94a0f32367a46af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840792017
+        }
+    ],
+    "wof:id":840792017,
+    "wof:lastmodified":1464048022,
+    "wof:name":"Mt Olive AME Church Parsonage",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parsonage"
+    ]
+},
+  "bbox": [
+    -96.183932,
+    38.406216,
+    -96.183932,
+    38.406216
+],
+  "geometry": {"coordinates":[-96.183932,38.406216],"type":"Point"}
+}

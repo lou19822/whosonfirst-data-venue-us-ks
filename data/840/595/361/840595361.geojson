@@ -1,0 +1,71 @@
+{
+  "id": 840595361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.195079,38.405123,-96.195079,38.405123",
+    "geom:latitude":38.405123,
+    "geom:longitude":-96.195079,
+    "iso:country":"US",
+    "sg:address":"1110 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8748",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "nurse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GYL70v4GeeODvUQEZWdG9_38.405123_-96.195079@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043546,
+    "wof:geomhash":"01923600b2dee00303380cd47415688b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840595361
+        }
+    ],
+    "wof:id":840595361,
+    "wof:lastmodified":1464043546,
+    "wof:name":"Emporia Anesthesia Assoc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse"
+    ]
+},
+  "bbox": [
+    -96.195079,
+    38.405123,
+    -96.195079,
+    38.405123
+],
+  "geometry": {"coordinates":[-96.19507900000001,38.405123],"type":"Point"}
+}

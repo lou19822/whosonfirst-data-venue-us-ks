@@ -1,0 +1,71 @@
+{
+  "id": 840920291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.359966,37.724039,-97.359966,37.724039",
+    "geom:latitude":37.724039,
+    "geom:longitude":-97.359966,
+    "iso:country":"US",
+    "sg:address":"2252 Coolidge Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 260 6455",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SthzkRBdKRzZ6LpRappmM_37.724039_-97.359966@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050996,
+    "wof:geomhash":"5222f1bc51ecec5cac5731a56492269c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840920291
+        }
+    ],
+    "wof:id":840920291,
+    "wof:lastmodified":1464050996,
+    "wof:name":"Holmes Made Salsa",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -97.359966,
+    37.724039,
+    -97.359966,
+    37.724039
+],
+  "geometry": {"coordinates":[-97.359966,37.724039],"type":"Point"}
+}

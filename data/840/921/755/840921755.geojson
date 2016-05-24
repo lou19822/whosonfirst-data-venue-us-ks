@@ -1,0 +1,73 @@
+{
+  "id": 840921755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.852648,37.817492,-96.852648,37.817492",
+    "geom:latitude":37.817492,
+    "geom:longitude":-96.852648,
+    "iso:country":"US",
+    "sg:address":"308 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3313",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K6b5gng6xeTNVY2w1U4dz_37.817492_-96.852648@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051053,
+    "wof:geomhash":"ec5c278d9c7ad46b250c4f7ef948b498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840921755
+        }
+    ],
+    "wof:id":840921755,
+    "wof:lastmodified":1464051053,
+    "wof:name":"H R Solutions",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -96.852648,
+    37.817492,
+    -96.852648,
+    37.817492
+],
+  "geometry": {"coordinates":[-96.852648,37.817492],"type":"Point"}
+}

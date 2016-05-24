@@ -1,0 +1,78 @@
+{
+  "id": 856704917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.663252,39.021864,-94.663252,39.021864",
+    "geom:latitude":39.021864,
+    "geom:longitude":-94.663252,
+    "iso:country":"US",
+    "sg:address":"6767 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/mission/186668-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 0020",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rgesnQMrEW4qtP7rYMnA5_39.021864_-94.663252@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052168,
+    "wof:geomhash":"8f81cef20ba4eca5b494632c02820ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":856704917
+        }
+    ],
+    "wof:id":856704917,
+    "wof:lastmodified":1464052168,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.663252,
+    39.021864,
+    -94.663252,
+    39.021864
+],
+  "geometry": {"coordinates":[-94.663252,39.021864],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840957929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.1943,38.417478,-96.1943,38.417478",
+    "geom:latitude":38.417478,
+    "geom:longitude":-96.1943,
+    "iso:country":"US",
+    "sg:address":"1722 Yucca Ln",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6954",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CmTDLrkg2rYH4gO3s6AvW_38.417478_-96.194300@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051795,
+    "wof:geomhash":"1062a6c5aaa714e1a4669f5ec7ce6bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840957929
+        }
+    ],
+    "wof:id":840957929,
+    "wof:lastmodified":1464051795,
+    "wof:name":"Vater Connection Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.1943,
+    38.417478,
+    -96.1943,
+    38.417478
+],
+  "geometry": {"coordinates":[-96.1943,38.417478],"type":"Point"}
+}

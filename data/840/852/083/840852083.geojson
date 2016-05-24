@@ -1,0 +1,71 @@
+{
+  "id": 840852083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.782242,38.853819,-94.782242,38.853819",
+    "geom:latitude":38.853819,
+    "geom:longitude":-94.782242,
+    "iso:country":"US",
+    "sg:address":"1833 S Scarborough St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 390 5207",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JZI25ImXEMhCnfnAgWL8y_38.853819_-94.782242@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049489,
+    "wof:geomhash":"33dd392ec88e7d604a42f424284fa855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840852083
+        }
+    ],
+    "wof:id":840852083,
+    "wof:lastmodified":1464049489,
+    "wof:name":"Starling Homes LLC",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -94.782242,
+    38.853819,
+    -94.782242,
+    38.853819
+],
+  "geometry": {"coordinates":[-94.782242,38.853819],"type":"Point"}
+}

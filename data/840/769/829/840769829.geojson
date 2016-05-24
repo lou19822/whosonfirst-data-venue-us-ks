@@ -1,0 +1,77 @@
+{
+  "id": 840769829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.787676,39.128509,-94.787676,39.128509",
+    "geom:latitude":39.128509,
+    "geom:longitude":-94.787676,
+    "iso:country":"US",
+    "sg:address":"8919 Parallel Pkwy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 5600",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09EFIdK6IwtqdOyPkiRCmB_39.128509_-94.787676@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047566,
+    "wof:geomhash":"63448e23255619b24b6be73d6040ee67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840769829
+        }
+    ],
+    "wof:id":840769829,
+    "wof:lastmodified":1464047566,
+    "wof:name":"Women's Health Specialists",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.787676,
+    39.128509,
+    -94.787676,
+    39.128509
+],
+  "geometry": {"coordinates":[-94.787676,39.128509],"type":"Point"}
+}

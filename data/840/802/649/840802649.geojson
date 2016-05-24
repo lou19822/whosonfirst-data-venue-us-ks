@@ -1,0 +1,73 @@
+{
+  "id": 840802649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.218843,38.411953,-96.218843,38.411953",
+    "geom:latitude":38.411953,
+    "geom:longitude":-96.218843,
+    "iso:country":"US",
+    "sg:address":"1015 Scott St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0360",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tq8GfXdAIR2vHUzEEYLQK_38.411953_-96.218843@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048257,
+    "wof:geomhash":"5414824d23640064732eaa1541c54427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840802649
+        }
+    ],
+    "wof:id":840802649,
+    "wof:lastmodified":1464048257,
+    "wof:name":"Computer Bytes",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.218843,
+    38.411953,
+    -96.218843,
+    38.411953
+],
+  "geometry": {"coordinates":[-96.21884300000001,38.411953],"type":"Point"}
+}

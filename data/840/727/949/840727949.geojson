@@ -1,0 +1,75 @@
+{
+  "id": 840727949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.658494,39.013529,-95.658494,39.013529",
+    "geom:latitude":39.013529,
+    "geom:longitude":-95.658494,
+    "iso:country":"US",
+    "sg:address":"1600 SE 30th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 0327",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881543,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZR80vDLYhw7dJ0emMabmn_39.013529_-95.658494@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046670,
+    "wof:geomhash":"f67231a9ec3f23bda18ff46aacee41d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881543,
+            "region_id":85688555,
+            "venue_id":840727949
+        }
+    ],
+    "wof:id":840727949,
+    "wof:lastmodified":1464046670,
+    "wof:name":"Perrimans Towing",
+    "wof:parent_id":85881543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -95.658494,
+    39.013529,
+    -95.658494,
+    39.013529
+],
+  "geometry": {"coordinates":[-95.658494,39.013529],"type":"Point"}
+}

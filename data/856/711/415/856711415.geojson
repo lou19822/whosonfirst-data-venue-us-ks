@@ -1,0 +1,72 @@
+{
+  "id": 856711415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.684346,38.883231,-94.684346,38.883231",
+    "geom:latitude":38.883231,
+    "geom:longitude":-94.684346,
+    "iso:country":"US",
+    "sg:address":"8559 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/208187-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 685 0640",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73nUsXxY6vUe7viHwfqd0W_38.883815_-94.683666@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052294,
+    "wof:geomhash":"79d742f7df56cfbcd1eade097571fa9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":856711415
+        }
+    ],
+    "wof:id":856711415,
+    "wof:lastmodified":1464052294,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.684346,
+    38.883231,
+    -94.684346,
+    38.883231
+],
+  "geometry": {"coordinates":[-94.68434600000001,38.883231],"type":"Point"}
+}

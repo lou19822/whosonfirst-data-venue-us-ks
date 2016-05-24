@@ -1,0 +1,75 @@
+{
+  "id": 840830141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.344152,37.615279,-97.344152,37.615279",
+    "geom:latitude":37.615279,
+    "geom:longitude":-97.344152,
+    "iso:country":"US",
+    "sg:address":"110 W 43rd St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 554 1187",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822005,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FPsOrDf5I5yVJQTmEjnkt_37.615279_-97.344152@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049010,
+    "wof:geomhash":"d3c14e5764c55ea7bc56ce98bd9cd97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85822005,
+            "region_id":85688555,
+            "venue_id":840830141
+        }
+    ],
+    "wof:id":840830141,
+    "wof:lastmodified":1464049010,
+    "wof:name":"Frank's Towing & Auto Sales",
+    "wof:parent_id":85822005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -97.344152,
+    37.615279,
+    -97.344152,
+    37.615279
+],
+  "geometry": {"coordinates":[-97.34415199999999,37.615279],"type":"Point"}
+}

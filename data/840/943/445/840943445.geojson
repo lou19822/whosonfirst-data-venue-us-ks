@@ -1,0 +1,71 @@
+{
+  "id": 840943445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705142,37.452298,-94.705142,37.452298",
+    "geom:latitude":37.452298,
+    "geom:longitude":-94.705142,
+    "iso:country":"US",
+    "sg:address":"4033 Parkview Dr",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 8540",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5krseIcsbdF9J9PLUjwCku_37.452298_-94.705142@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051522,
+    "wof:geomhash":"efe57adb2b33a87969cb468d63728969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840943445
+        }
+    ],
+    "wof:id":840943445,
+    "wof:lastmodified":1464051522,
+    "wof:name":"Surface Mining Div",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -94.705142,
+    37.452298,
+    -94.705142,
+    37.452298
+],
+  "geometry": {"coordinates":[-94.705142,37.452298],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840614471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704741,37.415975,-94.704741,37.415975",
+    "geom:latitude":37.415975,
+    "geom:longitude":-94.704741,
+    "iso:country":"US",
+    "sg:address":"806 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4400",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KnTHxwSGBMGhwlI3XkSUB_37.415975_-94.704741@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044025,
+    "wof:geomhash":"194b763a01323d7083f1136ca20f2fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840614471
+        }
+    ],
+    "wof:id":840614471,
+    "wof:lastmodified":1464044025,
+    "wof:name":"J R's Pawn Shop",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -94.704741,
+    37.415975,
+    -94.704741,
+    37.415975
+],
+  "geometry": {"coordinates":[-94.704741,37.415975],"type":"Point"}
+}

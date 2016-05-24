@@ -1,0 +1,73 @@
+{
+  "id": 840904685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.217032,38.414763,-96.217032,38.414763",
+    "geom:latitude":38.414763,
+    "geom:longitude":-96.217032,
+    "iso:country":"US",
+    "sg:address":"1221 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3000",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wheel",
+        "cover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B5BHgd2bUf8CyoVPUsI0t_38.414763_-96.217032@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050588,
+    "wof:geomhash":"80193dbefeae34893cb0a99e5f727205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840904685
+        }
+    ],
+    "wof:id":840904685,
+    "wof:lastmodified":1464050588,
+    "wof:name":"Extra Wheels",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "cover"
+    ]
+},
+  "bbox": [
+    -96.217032,
+    38.414763,
+    -96.217032,
+    38.414763
+],
+  "geometry": {"coordinates":[-96.217032,38.414763],"type":"Point"}
+}

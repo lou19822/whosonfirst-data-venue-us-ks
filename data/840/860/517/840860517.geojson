@@ -1,0 +1,73 @@
+{
+  "id": 840860517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.231601,38.448481,-96.231601,38.448481",
+    "geom:latitude":38.448481,
+    "geom:longitude":-96.231601,
+    "iso:country":"US",
+    "sg:address":"764 Rd 200",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3357",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yWSVESo3gBdBYuhruoNQX_38.448481_-96.231601@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049664,
+    "wof:geomhash":"892bc5361fa1942babce56971b45fd7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840860517
+        }
+    ],
+    "wof:id":840860517,
+    "wof:lastmodified":1464049664,
+    "wof:name":"Double D Drywall",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.231601,
+    38.448481,
+    -96.231601,
+    38.448481
+],
+  "geometry": {"coordinates":[-96.231601,38.448481],"type":"Point"}
+}

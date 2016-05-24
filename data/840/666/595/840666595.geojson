@@ -1,0 +1,73 @@
+{
+  "id": 840666595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.636025,39.037084,-95.636025,39.037084",
+    "geom:latitude":39.037084,
+    "geom:longitude":-95.636025,
+    "iso:country":"US",
+    "sg:address":"3158 SE 10th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 8024",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house",
+        "retreat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lU1VMt3CokjU6CedkGUAG_39.037084_-95.636025@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045247,
+    "wof:geomhash":"fd0dc86e4ecd5a53842b666843dda8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840666595
+        }
+    ],
+    "wof:id":840666595,
+    "wof:lastmodified":1464045247,
+    "wof:name":"Forest Park Retreat Ctr",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "retreat"
+    ]
+},
+  "bbox": [
+    -95.636025,
+    39.037084,
+    -95.636025,
+    39.037084
+],
+  "geometry": {"coordinates":[-95.636025,39.037084],"type":"Point"}
+}

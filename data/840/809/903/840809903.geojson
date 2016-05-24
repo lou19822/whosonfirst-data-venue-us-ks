@@ -1,0 +1,73 @@
+{
+  "id": 840809903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.498702,37.662719,-97.498702,37.662719",
+    "geom:latitude":37.662719,
+    "geom:longitude":-97.498702,
+    "iso:country":"US",
+    "sg:address":"1811 S 135th St W",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 1442",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WZS6ZW0gfYfu6lslVUWj6_37.662719_-97.498702@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048418,
+    "wof:geomhash":"13953535cafaa567c8cc8b8ee10ac6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840809903
+        }
+    ],
+    "wof:id":840809903,
+    "wof:lastmodified":1464048418,
+    "wof:name":"CMC Concrete Materials",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -97.498702,
+    37.662719,
+    -97.498702,
+    37.662719
+],
+  "geometry": {"coordinates":[-97.49870199999999,37.662719],"type":"Point"}
+}

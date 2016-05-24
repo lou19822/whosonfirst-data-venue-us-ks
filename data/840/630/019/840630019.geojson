@@ -1,0 +1,74 @@
+{
+  "id": 840630019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.328726,37.658988,-97.328726,37.658988",
+    "geom:latitude":37.658988,
+    "geom:longitude":-97.328726,
+    "iso:country":"US",
+    "sg:address":"806 E Skinner St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 7676",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "sg:website":"www.cenmech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UKCXeaDeTUhXm8eNX3KI2_37.658988_-97.328726@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044437,
+    "wof:geomhash":"3a5c0eb7f9b82bb79ba8b10af97b1220",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840630019
+        }
+    ],
+    "wof:id":840630019,
+    "wof:lastmodified":1464044437,
+    "wof:name":"CMW Inc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.328726,
+    37.658988,
+    -97.328726,
+    37.658988
+],
+  "geometry": {"coordinates":[-97.328726,37.658988],"type":"Point"}
+}

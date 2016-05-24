@@ -1,0 +1,77 @@
+{
+  "id": 840760203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.72364,38.99423,-94.72364,38.99423",
+    "geom:latitude":38.99423,
+    "geom:longitude":-94.72364,
+    "iso:country":"US",
+    "sg:address":"7451 Quivira Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 248 0002",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17pzOfyEYakJzaG6iUz4QX_38.994230_-94.723640@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047347,
+    "wof:geomhash":"ea317a53b2d55a881a9225c61359ee9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":840760203
+        }
+    ],
+    "wof:id":840760203,
+    "wof:lastmodified":1464047347,
+    "wof:name":"Let's Dance",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -94.72364,
+    38.99423,
+    -94.72364,
+    38.99423
+],
+  "geometry": {"coordinates":[-94.72364,38.99423],"type":"Point"}
+}

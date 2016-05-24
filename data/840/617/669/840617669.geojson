@@ -1,0 +1,71 @@
+{
+  "id": 840617669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352691,37.642297,-97.352691,37.642297",
+    "geom:latitude":37.642297,
+    "geom:longitude":-97.352691,
+    "iso:country":"US",
+    "sg:address":"2935 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 4749",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Li55dLigVb9kfphsILpV6_37.642297_-97.352691@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044112,
+    "wof:geomhash":"2cbfef509ded176d05370ebab15c221f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840617669
+        }
+    ],
+    "wof:id":840617669,
+    "wof:lastmodified":1464044112,
+    "wof:name":"Cather Law Offices",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -97.352691,
+    37.642297,
+    -97.352691,
+    37.642297
+],
+  "geometry": {"coordinates":[-97.35269099999999,37.642297],"type":"Point"}
+}

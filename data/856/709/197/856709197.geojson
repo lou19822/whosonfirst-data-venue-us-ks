@@ -1,0 +1,74 @@
+{
+  "id": 856709197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.353608,37.651144,-97.353608,37.651144",
+    "geom:latitude":37.651144,
+    "geom:longitude":-97.353608,
+    "iso:country":"US",
+    "sg:address":"1129 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/200393-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 4601",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DcJae8lDo4GU339c1XKFS_37.651144_-97.353608@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052250,
+    "wof:geomhash":"f5738bebe08c5b816e233aba3da3242b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":856709197
+        }
+    ],
+    "wof:id":856709197,
+    "wof:lastmodified":1464052250,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.353608,
+    37.651144,
+    -97.353608,
+    37.651144
+],
+  "geometry": {"coordinates":[-97.35360799999999,37.651144],"type":"Point"}
+}

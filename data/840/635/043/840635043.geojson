@@ -1,0 +1,71 @@
+{
+  "id": 840635043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.660759,39.090959,-95.660759,39.090959",
+    "geom:latitude":39.090959,
+    "geom:longitude":-95.660759,
+    "iso:country":"US",
+    "sg:address":"121 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 0579",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "western"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YswJHNCGLVWklex2oj80Y_39.090959_-95.660759@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044566,
+    "wof:geomhash":"5fb3ba3d746c2d2d9222eab7848e96c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840635043
+        }
+    ],
+    "wof:id":840635043,
+    "wof:lastmodified":1464044566,
+    "wof:name":"Roy Frey's Western Store",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "western"
+    ]
+},
+  "bbox": [
+    -95.660759,
+    39.090959,
+    -95.660759,
+    39.090959
+],
+  "geometry": {"coordinates":[-95.660759,39.090959],"type":"Point"}
+}

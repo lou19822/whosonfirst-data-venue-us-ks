@@ -1,0 +1,70 @@
+{
+  "id": 840925031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.871348,37.817877,-96.871348,37.817877",
+    "geom:latitude":37.817877,
+    "geom:longitude":-96.871348,
+    "iso:country":"US",
+    "sg:address":"119 Jones St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 322 4540",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.sbamh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EX2XVHa3ZkjwQH7I7fqx6_37.817877_-96.871348@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051142,
+    "wof:geomhash":"627f34091be87f5fe09227b8577581c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840925031
+        }
+    ],
+    "wof:id":840925031,
+    "wof:lastmodified":1464051142,
+    "wof:name":"Susan B Allen Memorial Hosp",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -96.871348,
+    37.817877,
+    -96.871348,
+    37.817877
+],
+  "geometry": {"coordinates":[-96.871348,37.817877],"type":"Point"}
+}

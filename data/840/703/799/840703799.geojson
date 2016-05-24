@@ -1,0 +1,71 @@
+{
+  "id": 840703799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.399613,37.670825,-97.399613,37.670825",
+    "geom:latitude":37.670825,
+    "geom:longitude":-97.399613,
+    "iso:country":"US",
+    "sg:address":"1300 S Bebe St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 1211",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BvC7cqHsyiBfWezqgRnf6_37.670825_-97.399613@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046178,
+    "wof:geomhash":"4c8e0fb60b97ed43a72491a8db26387d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840703799
+        }
+    ],
+    "wof:id":840703799,
+    "wof:lastmodified":1464046178,
+    "wof:name":"James Ray Co Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -97.399613,
+    37.670825,
+    -97.399613,
+    37.670825
+],
+  "geometry": {"coordinates":[-97.399613,37.670825],"type":"Point"}
+}

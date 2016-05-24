@@ -1,0 +1,75 @@
+{
+  "id": 840930313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664552,39.101272,-95.664552,39.101272",
+    "geom:latitude":39.101272,
+    "geom:longitude":-95.664552,
+    "iso:country":"US",
+    "sg:address":"3030 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 4609",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TBr9iYQhTSH704pqi874c_39.101272_-95.664552@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051256,
+    "wof:geomhash":"afd40446ad37539432013e92ae0152c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840930313
+        }
+    ],
+    "wof:id":840930313,
+    "wof:lastmodified":1464051256,
+    "wof:name":"Northland Shopping Ctr Inc",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ]
+},
+  "bbox": [
+    -95.664552,
+    39.101272,
+    -95.664552,
+    39.101272
+],
+  "geometry": {"coordinates":[-95.664552,39.101272],"type":"Point"}
+}

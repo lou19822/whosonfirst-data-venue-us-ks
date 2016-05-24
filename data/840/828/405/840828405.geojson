@@ -1,0 +1,71 @@
+{
+  "id": 840828405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848516,37.816655,-96.848516,37.816655",
+    "geom:latitude":37.816655,
+    "geom:longitude":-96.848516,
+    "iso:country":"US",
+    "sg:address":"120 S Vine St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 6870",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t2nThvkoDygsz3xUs1Dsx_37.816655_-96.848516@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048971,
+    "wof:geomhash":"380752fddc313971bfebe87a7a2dd6d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840828405
+        }
+    ],
+    "wof:id":840828405,
+    "wof:lastmodified":1464048971,
+    "wof:name":"US Army Reserve Training",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -96.848516,
+    37.816655,
+    -96.848516,
+    37.816655
+],
+  "geometry": {"coordinates":[-96.848516,37.816655],"type":"Point"}
+}

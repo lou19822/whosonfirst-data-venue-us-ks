@@ -1,0 +1,71 @@
+{
+  "id": 840581273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705222,37.353,-94.705222,37.353",
+    "geom:latitude":37.353,
+    "geom:longitude":-94.705222,
+    "iso:country":"US",
+    "sg:address":"1199 S 220th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0463",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AdFgmcggslRJhFc7r5sxA_37.353000_-94.705222@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043239,
+    "wof:geomhash":"acb13106f9fa3cdf1984ff8c42e11ed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840581273
+        }
+    ],
+    "wof:id":840581273,
+    "wof:lastmodified":1464043239,
+    "wof:name":"Cobb Building Materials Supply",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -94.705222,
+    37.353,
+    -94.705222,
+    37.353
+],
+  "geometry": {"coordinates":[-94.70522200000001,37.353],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840917905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.44309,37.720638,-97.44309,37.720638",
+    "geom:latitude":37.720638,
+    "geom:longitude":-97.44309,
+    "iso:country":"US",
+    "sg:address":"8701 W Westlawn Cir",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 3070",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "helicopter",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zfnzHWCB9yqNLRcRsWBzk_37.720638_-97.443090@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050951,
+    "wof:geomhash":"aab18f19d3d74216d85d175fa7de6700",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840917905
+        }
+    ],
+    "wof:id":840917905,
+    "wof:lastmodified":1464050951,
+    "wof:name":"Chopper Dynamics",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "helicopter",
+        "rental"
+    ]
+},
+  "bbox": [
+    -97.44309,
+    37.720638,
+    -97.44309,
+    37.720638
+],
+  "geometry": {"coordinates":[-97.44309,37.720638],"type":"Point"}
+}

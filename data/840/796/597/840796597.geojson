@@ -1,0 +1,73 @@
+{
+  "id": 840796597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.544732,37.782861,-97.544732,37.782861",
+    "geom:latitude":37.782861,
+    "geom:longitude":-97.544732,
+    "iso:country":"US",
+    "sg:address":"100 Centennial Ct",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 947 3334",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EuUVu8Vc9jIYyATZwlz1d_37.782861_-97.544732@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048110,
+    "wof:geomhash":"fbeb6ee2d85584cefe6e3255226b1555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840796597
+        }
+    ],
+    "wof:id":840796597,
+    "wof:lastmodified":1464048110,
+    "wof:name":"Machine Specialty",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.544732,
+    37.782861,
+    -97.544732,
+    37.782861
+],
+  "geometry": {"coordinates":[-97.544732,37.782861],"type":"Point"}
+}

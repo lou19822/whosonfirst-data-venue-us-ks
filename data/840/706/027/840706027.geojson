@@ -1,0 +1,73 @@
+{
+  "id": 840706027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.182771,38.401819,-96.182771,38.401819",
+    "geom:latitude":38.401819,
+    "geom:longitude":-96.182771,
+    "iso:country":"US",
+    "sg:address":"327 Constitution St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3093",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BFuzJGRXmRzlQSBoA935r_38.401819_-96.182771@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046224,
+    "wof:geomhash":"8314f9242ed5ce8ea5f789efe2f78cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840706027
+        }
+    ],
+    "wof:id":840706027,
+    "wof:lastmodified":1464046224,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.182771,
+    38.401819,
+    -96.182771,
+    38.401819
+],
+  "geometry": {"coordinates":[-96.182771,38.401819],"type":"Point"}
+}

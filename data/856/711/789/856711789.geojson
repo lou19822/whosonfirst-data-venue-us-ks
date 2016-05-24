@@ -1,0 +1,74 @@
+{
+  "id": 856711789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700174,37.411101,-94.700174,37.411101",
+    "geom:latitude":37.411101,
+    "geom:longitude":-94.700174,
+    "iso:country":"US",
+    "sg:address":"413 E 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/pittsburg/65905-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 2220",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HWAvJY1ia8nYTtxlT8fpV_37.411138_-94.700224@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052301,
+    "wof:geomhash":"b016f28a83c87bd0f06cd50e8ad90ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856711789
+        }
+    ],
+    "wof:id":856711789,
+    "wof:lastmodified":1464052301,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.700174,
+    37.411101,
+    -94.700174,
+    37.411101
+],
+  "geometry": {"coordinates":[-94.700174,37.411101],"type":"Point"}
+}

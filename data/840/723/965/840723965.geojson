@@ -1,0 +1,71 @@
+{
+  "id": 840723965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724544,39.068458,-95.724544,39.068458",
+    "geom:latitude":39.068458,
+    "geom:longitude":-95.724544,
+    "iso:country":"US",
+    "sg:address":"101 SW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 296 2341",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VEu99PWrbx2JSp6YAaBVo_39.068458_-95.724544@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046591,
+    "wof:geomhash":"7b6debe143e3e341e785cae9caa6a79a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840723965
+        }
+    ],
+    "wof:id":840723965,
+    "wof:lastmodified":1464046591,
+    "wof:name":"Transportation Dept Sign Shop",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -95.724544,
+    39.068458,
+    -95.724544,
+    39.068458
+],
+  "geometry": {"coordinates":[-95.72454399999999,39.068458],"type":"Point"}
+}

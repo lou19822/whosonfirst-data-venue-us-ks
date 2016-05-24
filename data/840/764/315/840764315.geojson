@@ -1,0 +1,73 @@
+{
+  "id": 840764315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389356,37.671697,-97.389356,37.671697",
+    "geom:latitude":37.671697,
+    "geom:longitude":-97.389356,
+    "iso:country":"US",
+    "sg:address":"933 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 7976",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GV3LqClVIcFK9hpbfAiyR_37.671697_-97.389356@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047433,
+    "wof:geomhash":"98b726dc80d251fbd68a1a14e751d8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840764315
+        }
+    ],
+    "wof:id":840764315,
+    "wof:lastmodified":1464047433,
+    "wof:name":"Friendship Ornaments",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.389356,
+    37.671697,
+    -97.389356,
+    37.671697
+],
+  "geometry": {"coordinates":[-97.38935600000001,37.671697],"type":"Point"}
+}

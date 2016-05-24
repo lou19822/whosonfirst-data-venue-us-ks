@@ -1,0 +1,73 @@
+{
+  "id": 840855705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.483047,37.69753,-97.483047,37.69753",
+    "geom:latitude":37.69753,
+    "geom:longitude":-97.483047,
+    "iso:country":"US",
+    "sg:address":"12011 Hickory Ln",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 3771",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I46vkgLtvnc9LaxnKKH3Q_37.697530_-97.483047@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049558,
+    "wof:geomhash":"8ce82d277587e5fd3c3b8bdf456355df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840855705
+        }
+    ],
+    "wof:id":840855705,
+    "wof:lastmodified":1464049558,
+    "wof:name":"Heath Marx Homes Inc",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.483047,
+    37.69753,
+    -97.483047,
+    37.69753
+],
+  "geometry": {"coordinates":[-97.483047,37.69753],"type":"Point"}
+}

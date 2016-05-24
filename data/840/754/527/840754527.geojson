@@ -1,0 +1,71 @@
+{
+  "id": 840754527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.279335,37.664602,-97.279335,37.664602",
+    "geom:latitude":37.664602,
+    "geom:longitude":-97.279335,
+    "iso:country":"US",
+    "sg:address":"4847 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 687 9886",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uCeyGHYTOxOiw4MW5g8io_37.664602_-97.279335@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047210,
+    "wof:geomhash":"ff4239ad1a4a7b9f0d7e36929626cdcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840754527
+        }
+    ],
+    "wof:id":840754527,
+    "wof:lastmodified":1464047210,
+    "wof:name":"Vinh-Phat-Market",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -97.279335,
+    37.664602,
+    -97.279335,
+    37.664602
+],
+  "geometry": {"coordinates":[-97.279335,37.664602],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 840685387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.787503,39.128509,-94.787503,39.128509",
+    "geom:latitude":39.128509,
+    "geom:longitude":-94.787503,
+    "iso:country":"US",
+    "sg:address":"8929 Parallel Pkwy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 596 4795",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "sg:website":"www.providence-health.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yTHBx3uKL4uCtP2kLzDF4_39.128509_-94.787503@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045694,
+    "wof:geomhash":"e68f4254a067c0d5ee6c82223b2e21d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840685387
+        }
+    ],
+    "wof:id":840685387,
+    "wof:lastmodified":1464045694,
+    "wof:name":"Providence Medical Ctr Library",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -94.787503,
+    39.128509,
+    -94.787503,
+    39.128509
+],
+  "geometry": {"coordinates":[-94.787503,39.128509],"type":"Point"}
+}

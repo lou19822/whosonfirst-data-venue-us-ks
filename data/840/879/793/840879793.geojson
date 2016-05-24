@@ -1,0 +1,73 @@
+{
+  "id": 840879793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.497106,37.724977,-97.497106,37.724977",
+    "geom:latitude":37.724977,
+    "geom:longitude":-97.497106,
+    "iso:country":"US",
+    "sg:address":"13410 W 23rd St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 1888",
+    "sg:postcode":"67223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rnkBL8LjxbpFm0zCQI1EK_37.724977_-97.497106@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050071,
+    "wof:geomhash":"1a7e381152e400c4902c14ad288875b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840879793
+        }
+    ],
+    "wof:id":840879793,
+    "wof:lastmodified":1464050071,
+    "wof:name":"Precision Foundations",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.497106,
+    37.724977,
+    -97.497106,
+    37.724977
+],
+  "geometry": {"coordinates":[-97.497106,37.724977],"type":"Point"}
+}

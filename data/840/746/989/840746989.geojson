@@ -1,0 +1,71 @@
+{
+  "id": 840746989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.334015,37.57128,-97.334015,37.57128",
+    "geom:latitude":37.57128,
+    "geom:longitude":-97.334015,
+    "iso:country":"US",
+    "sg:address":"6701 S Broadway Ave",
+    "sg:city":"Haysville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 1080",
+    "sg:postcode":"67060",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wDn0astzsDySZkLVdbUeb_37.571280_-97.334015@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047027,
+    "wof:geomhash":"a2b68a66738f183f22fa27f0499856ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840746989
+        }
+    ],
+    "wof:id":840746989,
+    "wof:lastmodified":1464047027,
+    "wof:name":"Wichita Body & Equipment Co",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -97.334015,
+    37.57128,
+    -97.334015,
+    37.57128
+],
+  "geometry": {"coordinates":[-97.33401499999999,37.57128],"type":"Point"}
+}

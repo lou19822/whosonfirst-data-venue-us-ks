@@ -1,0 +1,76 @@
+{
+  "id": 856706101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.773773,38.971641,-94.773773,38.971641",
+    "geom:latitude":38.971641,
+    "geom:longitude":-94.773773,
+    "iso:country":"US",
+    "sg:address":"16130 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/208167-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 307 9958",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812711,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KqZqpTZzHjaMFkCh2P2Pz_38.971641_-94.773773@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052188,
+    "wof:geomhash":"6856f6bcdfa6378a66c9969d7e158089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85812711,
+            "region_id":85688555,
+            "venue_id":856706101
+        }
+    ],
+    "wof:id":856706101,
+    "wof:lastmodified":1464052188,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85812711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.773773,
+    38.971641,
+    -94.773773,
+    38.971641
+],
+  "geometry": {"coordinates":[-94.77377300000001,38.971641],"type":"Point"}
+}

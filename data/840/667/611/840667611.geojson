@@ -1,0 +1,71 @@
+{
+  "id": 840667611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.8464,37.832061,-96.8464,37.832061",
+    "geom:latitude":37.832061,
+    "geom:longitude":-96.8464,
+    "iso:country":"US",
+    "sg:address":"304 E 12th Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 7708",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "boring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30PzJZmFQ5C54279xPljwP_37.832061_-96.846400@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045264,
+    "wof:geomhash":"05d93e188bb8d4aff2d7f836f2a97eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840667611
+        }
+    ],
+    "wof:id":840667611,
+    "wof:lastmodified":1464045264,
+    "wof:name":"Moore Engineering Svc Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.8464,
+    37.832061,
+    -96.8464,
+    37.832061
+],
+  "geometry": {"coordinates":[-96.8464,37.832061],"type":"Point"}
+}

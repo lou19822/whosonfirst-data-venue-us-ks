@@ -1,0 +1,71 @@
+{
+  "id": 840726805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.31349,37.570952,-97.31349,37.570952",
+    "geom:latitude":37.570952,
+    "geom:longitude":-97.31349,
+    "iso:country":"US",
+    "sg:address":"1920 E 68th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 3797",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qO1hu7XDHnmg7HkyQBqmr_37.570952_-97.313490@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046651,
+    "wof:geomhash":"bfe8c3fada0762297fa774d665284821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840726805
+        }
+    ],
+    "wof:id":840726805,
+    "wof:lastmodified":1464046651,
+    "wof:name":"Angel Seven Auto Slvg",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -97.31349,
+    37.570952,
+    -97.31349,
+    37.570952
+],
+  "geometry": {"coordinates":[-97.31349,37.570952],"type":"Point"}
+}

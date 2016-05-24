@@ -1,0 +1,78 @@
+{
+  "id": 856712739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.024145,37.753325,-100.024145,37.753325",
+    "geom:latitude":37.753325,
+    "geom:longitude":-100.024145,
+    "iso:country":"US",
+    "sg:address":"700 W Wyatt Earp Blvd",
+    "sg:city":"Dodge City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/dodge-city/147220-montana-mikes-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 408 9551",
+    "sg:postcode":"67801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849601,
+        102191575,
+        404503629,
+        85633793,
+        85945215,
+        102082141,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NwYn4mP05HpRy3rGbNkhH_37.753236_-100.023614@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052319,
+    "wof:geomhash":"818289d1360a76482eedd8b65cfe7497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082141,
+            "localadmin_id":404503629,
+            "locality_id":85945215,
+            "neighbourhood_id":85849601,
+            "region_id":85688555,
+            "venue_id":856712739
+        }
+    ],
+    "wof:id":856712739,
+    "wof:lastmodified":1464052319,
+    "wof:name":"Montana Mike's Steakhouse",
+    "wof:parent_id":85849601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -100.024145,
+    37.753325,
+    -100.024145,
+    37.753325
+],
+  "geometry": {"coordinates":[-100.024145,37.753325],"type":"Point"}
+}

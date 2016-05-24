@@ -1,0 +1,78 @@
+{
+  "id": 840800821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.367588,37.676916,-97.367588,37.676916",
+    "geom:latitude":37.676916,
+    "geom:longitude":-97.367588,
+    "iso:country":"US",
+    "sg:address":"2100 W University St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 295 5000",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.friends.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872823,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W7gBzRkTBB1XsFXbCJ5fR_37.676916_-97.367588@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048219,
+    "wof:geomhash":"b6464886a6db0a208281c34747632721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872823,
+            "region_id":85688555,
+            "venue_id":840800821
+        }
+    ],
+    "wof:id":840800821,
+    "wof:lastmodified":1464048219,
+    "wof:name":"Friends University",
+    "wof:parent_id":85872823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -97.367588,
+    37.676916,
+    -97.367588,
+    37.676916
+],
+  "geometry": {"coordinates":[-97.367588,37.676916],"type":"Point"}
+}

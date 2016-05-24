@@ -1,0 +1,69 @@
+{
+  "id": 840534187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.655878,39.129469,-95.655878,39.129469",
+    "geom:latitude":39.129469,
+    "geom:longitude":-95.655878,
+    "iso:country":"US",
+    "sg:address":"140 NE 46th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0909",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PAOKApv6J4unpqJv3XM0o_39.129469_-95.655878@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042077,
+    "wof:geomhash":"547a6c64f5e25b26a14876f2544ea253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840534187
+        }
+    ],
+    "wof:id":840534187,
+    "wof:lastmodified":1464042077,
+    "wof:name":"Indian Creek Veterinary Hosp",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -95.655878,
+    39.129469,
+    -95.655878,
+    39.129469
+],
+  "geometry": {"coordinates":[-95.655878,39.129469],"type":"Point"}
+}

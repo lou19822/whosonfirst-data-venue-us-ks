@@ -1,0 +1,78 @@
+{
+  "id": 856707105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.694341,39.000543,-95.694341,39.000543",
+    "geom:latitude":39.000543,
+    "geom:longitude":-95.694341,
+    "iso:country":"US",
+    "sg:address":"1301 SW 37th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/186714-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 0604",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Qyuz97FCH7NIxOnjUMDi_39.000543_-95.694341@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052210,
+    "wof:geomhash":"e116fda8b469faa9c8c05a69562aaf26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":856707105
+        }
+    ],
+    "wof:id":856707105,
+    "wof:lastmodified":1464052210,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.694341,
+    39.000543,
+    -95.694341,
+    39.000543
+],
+  "geometry": {"coordinates":[-95.69434099999999,39.000543],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840643685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.710952,39.024594,-95.710952,39.024594",
+    "geom:latitude":39.024594,
+    "geom:longitude":-95.710952,
+    "iso:country":"US",
+    "sg:address":"2504 SW Randolph Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 8636",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BWLHAuhqlf6ePltKwdZIn_39.024594_-95.710952@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044754,
+    "wof:geomhash":"586cff34ecbcdaca320688074ab1808a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840643685
+        }
+    ],
+    "wof:id":840643685,
+    "wof:lastmodified":1464044754,
+    "wof:name":"Home Fries Burning Pet Sitting",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -95.710952,
+    39.024594,
+    -95.710952,
+    39.024594
+],
+  "geometry": {"coordinates":[-95.71095200000001,39.024594],"type":"Point"}
+}

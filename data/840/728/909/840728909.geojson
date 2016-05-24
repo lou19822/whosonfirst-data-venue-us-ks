@@ -1,0 +1,73 @@
+{
+  "id": 840728909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.209973,38.417112,-96.209973,38.417112",
+    "geom:latitude":38.417112,
+    "geom:longitude":-96.209973,
+    "iso:country":"US",
+    "sg:address":"1702 Luther St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3120",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instrument",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24QfAYp8pXyZw57xhYspV6_38.417112_-96.209973@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046688,
+    "wof:geomhash":"8ac17fb1ed8cfc8e7a02ff0ca605ae42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840728909
+        }
+    ],
+    "wof:id":840728909,
+    "wof:lastmodified":1464046688,
+    "wof:name":"Lenigan Music Co",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "musical"
+    ]
+},
+  "bbox": [
+    -96.209973,
+    38.417112,
+    -96.209973,
+    38.417112
+],
+  "geometry": {"coordinates":[-96.20997300000001,38.417112],"type":"Point"}
+}

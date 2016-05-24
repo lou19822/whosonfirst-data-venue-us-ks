@@ -1,0 +1,73 @@
+{
+  "id": 840832477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.684918,38.85013,-94.684918,38.85013",
+    "geom:latitude":38.85013,
+    "geom:longitude":-94.684918,
+    "iso:country":"US",
+    "sg:address":"8503 W 153rd St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 402 7378",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tC6EJyYDmGYrtVXf10ieS_38.850130_-94.684918@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049052,
+    "wof:geomhash":"51310207247b6849fdf227e15e4d1540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840832477
+        }
+    ],
+    "wof:id":840832477,
+    "wof:lastmodified":1464049052,
+    "wof:name":"American Home Lending",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -94.684918,
+    38.85013,
+    -94.684918,
+    38.85013
+],
+  "geometry": {"coordinates":[-94.684918,38.85013],"type":"Point"}
+}

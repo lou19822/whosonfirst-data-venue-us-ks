@@ -1,0 +1,78 @@
+{
+  "id": 856711651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.681743,39.047482,-95.681743,39.047482",
+    "geom:latitude":39.047482,
+    "geom:longitude":-95.681743,
+    "iso:country":"US",
+    "sg:address":"514 SW 10th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/96194-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 6060",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o6fyIKKSnZsHdCzZj42ps_39.047722_-95.682469@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052298,
+    "wof:geomhash":"c2673ecddbfe69dcc1aec5fbb6ab2e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":856711651
+        }
+    ],
+    "wof:id":856711651,
+    "wof:lastmodified":1464052298,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.681743,
+    39.047482,
+    -95.681743,
+    39.047482
+],
+  "geometry": {"coordinates":[-95.681743,39.047482],"type":"Point"}
+}

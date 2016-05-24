@@ -1,0 +1,71 @@
+{
+  "id": 840607753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.971373,37.682946,-96.971373,37.682946",
+    "geom:latitude":37.682946,
+    "geom:longitude":-96.971373,
+    "iso:country":"US",
+    "sg:address":"1008 Ohio St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 5135",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hKHyhBNczNqHHSgM7hn41_37.682946_-96.971373@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043859,
+    "wof:geomhash":"b6fd09cf9494220bc64e72bd878241a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840607753
+        }
+    ],
+    "wof:id":840607753,
+    "wof:lastmodified":1464043859,
+    "wof:name":"Charlottes Family Hair Styling",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.971373,
+    37.682946,
+    -96.971373,
+    37.682946
+],
+  "geometry": {"coordinates":[-96.971373,37.682946],"type":"Point"}
+}

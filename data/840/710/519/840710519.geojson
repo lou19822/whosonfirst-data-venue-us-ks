@@ -1,0 +1,71 @@
+{
+  "id": 840710519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.986236,37.683322,-96.986236,37.683322",
+    "geom:latitude":37.683322,
+    "geom:longitude":-96.986236,
+    "iso:country":"US",
+    "sg:address":"1000 Lulu St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 5472",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bLWpA3AujCUyMd90phwqk_37.683322_-96.986236@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046313,
+    "wof:geomhash":"287f76b74c04a91881649cc85ebb8c2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840710519
+        }
+    ],
+    "wof:id":840710519,
+    "wof:lastmodified":1464046313,
+    "wof:name":"Clay Clinic",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.986236,
+    37.683322,
+    -96.986236,
+    37.683322
+],
+  "geometry": {"coordinates":[-96.98623600000001,37.683322],"type":"Point"}
+}

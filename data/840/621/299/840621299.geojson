@@ -1,0 +1,73 @@
+{
+  "id": 840621299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.225805,38.411651,-96.225805,38.411651",
+    "geom:latitude":38.411651,
+    "geom:longitude":-96.225805,
+    "iso:country":"US",
+    "sg:address":"3185 US Hwy 50",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4000",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KYbIm93OAoJlzRgevsLAk_38.411651_-96.225805@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044198,
+    "wof:geomhash":"79a8392e00b1254ce8a288160da2705f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840621299
+        }
+    ],
+    "wof:id":840621299,
+    "wof:lastmodified":1464044198,
+    "wof:name":"Emporia Auto Outlet",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.225805,
+    38.411651,
+    -96.225805,
+    38.411651
+],
+  "geometry": {"coordinates":[-96.22580499999999,38.411651],"type":"Point"}
+}

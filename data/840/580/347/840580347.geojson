@@ -1,0 +1,80 @@
+{
+  "id": 840580347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.360952,37.743992,-97.360952,37.743992",
+    "geom:latitude":37.743992,
+    "geom:longitude":-97.360952,
+    "iso:country":"US",
+    "sg:address":"3349 Coolidge Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 0344",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lawn",
+        "irrigation",
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01KIa6OrR3rOt86rJnyTUu_37.743992_-97.360952@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043213,
+    "wof:geomhash":"09c0c03083abc7e58beb6a65c11a017c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840580347
+        }
+    ],
+    "wof:id":840580347,
+    "wof:lastmodified":1464043213,
+    "wof:name":"Sprinkler Service Specialist",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "irrigation",
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -97.360952,
+    37.743992,
+    -97.360952,
+    37.743992
+],
+  "geometry": {"coordinates":[-97.360952,37.743992],"type":"Point"}
+}

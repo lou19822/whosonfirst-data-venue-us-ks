@@ -1,0 +1,79 @@
+{
+  "id": 840813873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.301129,37.683399,-97.301129,37.683399",
+    "geom:latitude":37.683399,
+    "geom:longitude":-97.301129,
+    "iso:country":"US",
+    "sg:address":"240 S Chautauqua St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 683 5849",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FOGzTvNKlJHqnrLwtkkqa_37.683399_-97.301129@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048574,
+    "wof:geomhash":"8cdf47e2abac56ad7070867a27d07bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840813873
+        }
+    ],
+    "wof:id":840813873,
+    "wof:lastmodified":1464048574,
+    "wof:name":"Adams Piano Svc",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -97.301129,
+    37.683399,
+    -97.301129,
+    37.683399
+],
+  "geometry": {"coordinates":[-97.301129,37.683399],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 840749393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.298923,37.635659,-97.298923,37.635659",
+    "geom:latitude":37.635659,
+    "geom:longitude":-97.298923,
+    "iso:country":"US",
+    "sg:address":"3131 S Hillside St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 4060",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YQ5gxoV2nbKKNTyQx7Zmh_37.635659_-97.298923@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047086,
+    "wof:geomhash":"119508a4752c9aba6870a60ee3c97cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840749393
+        }
+    ],
+    "wof:id":840749393,
+    "wof:lastmodified":1464047086,
+    "wof:name":"Adam's Liquor",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.298923,
+    37.635659,
+    -97.298923,
+    37.635659
+],
+  "geometry": {"coordinates":[-97.298923,37.635659],"type":"Point"}
+}

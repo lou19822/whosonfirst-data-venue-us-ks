@@ -1,0 +1,71 @@
+{
+  "id": 840614221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.220557,38.42677,-96.220557,38.42677",
+    "geom:latitude":38.42677,
+    "geom:longitude":-96.220557,
+    "iso:country":"US",
+    "sg:address":"2935 W 24th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9400",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7db4YzhFWKVuGVEQOFq2ya_38.426770_-96.220557@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044021,
+    "wof:geomhash":"ce55cd586b621d2377883a05857f6d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840614221
+        }
+    ],
+    "wof:id":840614221,
+    "wof:lastmodified":1464044021,
+    "wof:name":"Flint Hills Pointe Apartments",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.220557,
+    38.42677,
+    -96.220557,
+    38.42677
+],
+  "geometry": {"coordinates":[-96.220557,38.42677],"type":"Point"}
+}

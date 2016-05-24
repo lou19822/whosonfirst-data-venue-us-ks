@@ -1,0 +1,71 @@
+{
+  "id": 840718627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.966384,38.303551,-95.966384,38.303551",
+    "geom:latitude":38.303551,
+    "geom:longitude":-95.966384,
+    "iso:country":"US",
+    "sg:address":"2248 Rd 100",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 392 5926",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z6NunM3ZFUU3JVuwSJgRQ_38.303551_-95.966384@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046473,
+    "wof:geomhash":"c3e998d750e1900dbc84229cdfa2b423",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840718627
+        }
+    ],
+    "wof:id":840718627,
+    "wof:lastmodified":1464046473,
+    "wof:name":"Hartford Trucking Inc",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.966384,
+    38.303551,
+    -95.966384,
+    38.303551
+],
+  "geometry": {"coordinates":[-95.96638400000001,38.303551],"type":"Point"}
+}

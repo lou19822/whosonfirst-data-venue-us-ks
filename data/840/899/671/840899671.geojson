@@ -1,0 +1,78 @@
+{
+  "id": 840899671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723794,38.901692,-94.723794,38.901692",
+    "geom:latitude":38.901692,
+    "geom:longitude":-94.723794,
+    "iso:country":"US",
+    "sg:address":"12600 Quivira Rd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 897 8400",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.edwardscampus.ku.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nQiP4LHybglW0apfrkapc_38.901692_-94.723794@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050482,
+    "wof:geomhash":"598192750be0af29eefe1bab7c934f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":840899671
+        }
+    ],
+    "wof:id":840899671,
+    "wof:lastmodified":1464050482,
+    "wof:name":"University Of Kansas Regents",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -94.723794,
+    38.901692,
+    -94.723794,
+    38.901692
+],
+  "geometry": {"coordinates":[-94.723794,38.901692],"type":"Point"}
+}

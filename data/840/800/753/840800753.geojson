@@ -1,0 +1,78 @@
+{
+  "id": 840800753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.904393,39.257226,-94.904393,39.257226",
+    "geom:latitude":39.257226,
+    "geom:longitude":-94.904393,
+    "iso:country":"US",
+    "sg:address":"111 Fairlane St",
+    "sg:city":"Louisburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 837 4311",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.louisburgford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844391,
+        102191575,
+        404504467,
+        85633793,
+        85945367,
+        102083429,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zyeu8hC77sxF2GO9tOBqV_39.257226_-94.904393@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048218,
+    "wof:geomhash":"209afb861df2d63b6cecf7e8ffadaf61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504467,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":840800753
+        }
+    ],
+    "wof:id":840800753,
+    "wof:lastmodified":1464048218,
+    "wof:name":"Louisburg Ford Sales Inc",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.904393,
+    39.257226,
+    -94.904393,
+    39.257226
+],
+  "geometry": {"coordinates":[-94.904393,39.257226],"type":"Point"}
+}

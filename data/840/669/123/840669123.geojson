@@ -1,0 +1,72 @@
+{
+  "id": 840669123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180057,38.407213,-96.180057,38.407213",
+    "geom:latitude":38.407213,
+    "geom:longitude":-96.180057,
+    "iso:country":"US",
+    "sg:address":"714 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3535",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "television"
+    ],
+    "sg:website":"www.cableone.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YUitFF74s9hnoCBqEQDuv_38.407213_-96.180057@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045293,
+    "wof:geomhash":"6bb5f62873b62beecd377a2d982b3fdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840669123
+        }
+    ],
+    "wof:id":840669123,
+    "wof:lastmodified":1464045293,
+    "wof:name":"Cable One Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -96.180057,
+    38.407213,
+    -96.180057,
+    38.407213
+],
+  "geometry": {"coordinates":[-96.18005700000001,38.407213],"type":"Point"}
+}

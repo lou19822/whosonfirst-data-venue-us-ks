@@ -1,0 +1,71 @@
+{
+  "id": 840849249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.702616,38.938588,-95.702616,38.938588",
+    "geom:latitude":38.938588,
+    "geom:longitude":-95.702616,
+    "iso:country":"US",
+    "sg:address":"2115 SW 71st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 8400",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33u0pCESTTF1d8eyEvN6fO_38.938588_-95.702616@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049423,
+    "wof:geomhash":"5554db272863031937bdd749ae0791d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840849249
+        }
+    ],
+    "wof:id":840849249,
+    "wof:lastmodified":1464049423,
+    "wof:name":"Midwest Fertilizer",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -95.702616,
+    38.938588,
+    -95.702616,
+    38.938588
+],
+  "geometry": {"coordinates":[-95.70261600000001,38.938588],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840709797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.703379,37.416868,-94.703379,37.416868",
+    "geom:latitude":37.416868,
+    "geom:longitude":-94.703379,
+    "iso:country":"US",
+    "sg:address":"905 N Locust St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5150",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31NrDrUxM3cdPN6BZwjDri_37.416868_-94.703379@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046300,
+    "wof:geomhash":"47707f98fe689ba2b66e10de4b26d053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840709797
+        }
+    ],
+    "wof:id":840709797,
+    "wof:lastmodified":1464046300,
+    "wof:name":"GAB Robins Business Svc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -94.703379,
+    37.416868,
+    -94.703379,
+    37.416868
+],
+  "geometry": {"coordinates":[-94.703379,37.416868],"type":"Point"}
+}

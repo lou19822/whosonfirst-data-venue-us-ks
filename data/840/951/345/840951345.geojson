@@ -1,0 +1,82 @@
+{
+  "id": 840951345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.486683,37.699061,-97.486683,37.699061",
+    "geom:latitude":37.699061,
+    "geom:longitude":-97.486683,
+    "iso:country":"US",
+    "sg:address":"12521 Kenny Cir",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 5636",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plant",
+        "flower",
+        "tree",
+        "artificial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EtcNUjLwsjjtjTnqfB5KF_37.699061_-97.486683@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051677,
+    "wof:geomhash":"2d5cd82b08dd2549b3280725dfb1e050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840951345
+        }
+    ],
+    "wof:id":840951345,
+    "wof:lastmodified":1464051677,
+    "wof:name":"Forever Flowers Inc",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "flower",
+        "tree",
+        "artificial"
+    ]
+},
+  "bbox": [
+    -97.486683,
+    37.699061,
+    -97.486683,
+    37.699061
+],
+  "geometry": {"coordinates":[-97.486683,37.699061],"type":"Point"}
+}

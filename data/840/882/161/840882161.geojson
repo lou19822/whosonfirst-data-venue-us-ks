@@ -1,0 +1,78 @@
+{
+  "id": 840882161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.357321,37.753503,-97.357321,37.753503",
+    "geom:latitude":37.753503,
+    "geom:longitude":-97.357321,
+    "iso:country":"US",
+    "sg:address":"3909 Litchfield St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 9104",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sandwich",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B59ZtIoF1sFWkF280Nef8_37.753503_-97.357321@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050115,
+    "wof:geomhash":"ba298318725ea8d6dc515638b210daa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840882161
+        }
+    ],
+    "wof:id":840882161,
+    "wof:lastmodified":1464050115,
+    "wof:name":"J B's Neat To Eat Sandwiches",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "eating"
+    ]
+},
+  "bbox": [
+    -97.357321,
+    37.753503,
+    -97.357321,
+    37.753503
+],
+  "geometry": {"coordinates":[-97.357321,37.753503],"type":"Point"}
+}

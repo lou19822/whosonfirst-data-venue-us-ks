@@ -1,0 +1,73 @@
+{
+  "id": 840822833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.71387,38.965501,-95.71387,38.965501",
+    "geom:latitude":38.965501,
+    "geom:longitude":-95.71387,
+    "iso:country":"US",
+    "sg:address":"5630 SW Randolph St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 2474",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0isLKpbCWJgfc7muBQQR3h_38.965501_-95.713870@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048837,
+    "wof:geomhash":"203e0d8a1d1e4b303485ad3d6b05398c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840822833
+        }
+    ],
+    "wof:id":840822833,
+    "wof:lastmodified":1464048837,
+    "wof:name":"Wolf Construction Inc",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.71387,
+    38.965501,
+    -95.71387,
+    38.965501
+],
+  "geometry": {"coordinates":[-95.71387,38.965501],"type":"Point"}
+}

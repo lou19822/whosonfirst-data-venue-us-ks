@@ -1,0 +1,71 @@
+{
+  "id": 840771689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651489,39.020707,-95.651489,39.020707",
+    "geom:latitude":39.020707,
+    "geom:longitude":-95.651489,
+    "iso:country":"US",
+    "sg:address":"2501 SE California Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 7779",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z9qcQqxgzGvqmI91UHChv_39.020707_-95.651489@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047607,
+    "wof:geomhash":"98563ed7c829a6e7a2d73f9eebcb6303",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840771689
+        }
+    ],
+    "wof:id":840771689,
+    "wof:lastmodified":1464047607,
+    "wof:name":"Family Nutrition Store",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -95.651489,
+    39.020707,
+    -95.651489,
+    39.020707
+],
+  "geometry": {"coordinates":[-95.651489,39.020707],"type":"Point"}
+}

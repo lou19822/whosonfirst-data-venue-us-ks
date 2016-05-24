@@ -1,0 +1,71 @@
+{
+  "id": 840899181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.863743,37.82417,-96.863743,37.82417",
+    "geom:latitude":37.82417,
+    "geom:longitude":-96.863743,
+    "iso:country":"US",
+    "sg:address":"641 N Summit St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3171",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cookie",
+        "cracker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U98iw7c8xMYUcQdzDTDqm_37.824170_-96.863743@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050473,
+    "wof:geomhash":"cb0a6d0a249ed169ecc8e6d5b48345a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840899181
+        }
+    ],
+    "wof:id":840899181,
+    "wof:lastmodified":1464050473,
+    "wof:name":"Young Cookie Co",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookie",
+        "cracker"
+    ]
+},
+  "bbox": [
+    -96.863743,
+    37.82417,
+    -96.863743,
+    37.82417
+],
+  "geometry": {"coordinates":[-96.863743,37.82417],"type":"Point"}
+}

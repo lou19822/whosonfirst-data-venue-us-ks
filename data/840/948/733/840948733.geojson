@@ -1,0 +1,71 @@
+{
+  "id": 840948733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.460587,37.693868,-97.460587,37.693868",
+    "geom:latitude":37.693868,
+    "geom:longitude":-97.460587,
+    "iso:country":"US",
+    "sg:address":"10330 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 9007",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hVn6qvVETRqHX5Gwafor7_37.693868_-97.460587@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051621,
+    "wof:geomhash":"35d69cbc577f13b87f7557c59d5339f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840948733
+        }
+    ],
+    "wof:id":840948733,
+    "wof:lastmodified":1464051621,
+    "wof:name":"Anton's Vintage Wine & Spirits",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine"
+    ]
+},
+  "bbox": [
+    -97.460587,
+    37.693868,
+    -97.460587,
+    37.693868
+],
+  "geometry": {"coordinates":[-97.460587,37.693868],"type":"Point"}
+}

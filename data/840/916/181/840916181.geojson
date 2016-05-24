@@ -1,0 +1,77 @@
+{
+  "id": 840916181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.703703,39.001556,-95.703703,39.001556",
+    "geom:latitude":39.001556,
+    "geom:longitude":-95.703703,
+    "iso:country":"US",
+    "sg:address":"3646 SW Plass Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 2455",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881549,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4azKjHUroj3pqcqA5ET8oa_39.001556_-95.703703@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050915,
+    "wof:geomhash":"75f215c450140ef0315a059a075c15d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":840916181
+        }
+    ],
+    "wof:id":840916181,
+    "wof:lastmodified":1464050915,
+    "wof:name":"Team 1 Development",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -95.703703,
+    39.001556,
+    -95.703703,
+    39.001556
+],
+  "geometry": {"coordinates":[-95.703703,39.001556],"type":"Point"}
+}

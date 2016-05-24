@@ -1,0 +1,73 @@
+{
+  "id": 840632075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.939153,39.116269,-94.939153,39.116269",
+    "geom:latitude":39.116269,
+    "geom:longitude":-94.939153,
+    "iso:country":"US",
+    "sg:address":"15530 State Ave",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 728 2212",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PIaF03M4BOmpGhstgbD2L_39.116269_-94.939153@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044491,
+    "wof:geomhash":"25a7165d88910a20b14cb25d753c3a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840632075
+        }
+    ],
+    "wof:id":840632075,
+    "wof:lastmodified":1464044491,
+    "wof:name":"Basehor Suds",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.939153,
+    39.116269,
+    -94.939153,
+    39.116269
+],
+  "geometry": {"coordinates":[-94.939153,39.116269],"type":"Point"}
+}

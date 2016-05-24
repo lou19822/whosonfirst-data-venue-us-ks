@@ -1,0 +1,71 @@
+{
+  "id": 840909525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.298733,37.662596,-97.298733,37.662596",
+    "geom:latitude":37.662596,
+    "geom:longitude":-97.298733,
+    "iso:country":"US",
+    "sg:address":"1710 S Hillside St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 684 2362",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "optician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OA7TPWAONXDCe6iBj0unv_37.662596_-97.298733@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050710,
+    "wof:geomhash":"9b529c79728ea1c751bbe3ae13649b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840909525
+        }
+    ],
+    "wof:id":840909525,
+    "wof:lastmodified":1464050710,
+    "wof:name":"Scott T Landes OD",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician"
+    ]
+},
+  "bbox": [
+    -97.298733,
+    37.662596,
+    -97.298733,
+    37.662596
+],
+  "geometry": {"coordinates":[-97.298733,37.662596],"type":"Point"}
+}

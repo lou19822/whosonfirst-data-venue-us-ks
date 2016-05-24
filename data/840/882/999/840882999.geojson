@@ -1,0 +1,82 @@
+{
+  "id": 840882999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.686399,39.015176,-95.686399,39.015176",
+    "geom:latitude":39.015176,
+    "geom:longitude":-95.686399,
+    "iso:country":"US",
+    "sg:address":"400 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 4328",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.hollywoodvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881549,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vr4zCK6QytGt0XZctDSKP_39.015176_-95.686399@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050132,
+    "wof:geomhash":"e6be46ab2df3572206bbd327a31eb7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":840882999
+        }
+    ],
+    "wof:id":840882999,
+    "wof:lastmodified":1464050132,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.686399,
+    39.015176,
+    -95.686399,
+    39.015176
+],
+  "geometry": {"coordinates":[-95.68639899999999,39.015176],"type":"Point"}
+}

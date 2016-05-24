@@ -1,0 +1,71 @@
+{
+  "id": 840634445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.18009,38.403425,-96.18009,38.403425",
+    "geom:latitude":38.403425,
+    "geom:longitude":-96.18009,
+    "iso:country":"US",
+    "sg:address":"430 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 3243",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hzaBdUzurBWNxR0JW2p9N_38.403425_-96.180090@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044555,
+    "wof:geomhash":"cb957031f05073740e39d128d5f82b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840634445
+        }
+    ],
+    "wof:id":840634445,
+    "wof:lastmodified":1464044555,
+    "wof:name":"Lyon County Clerk",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -96.18009,
+    38.403425,
+    -96.18009,
+    38.403425
+],
+  "geometry": {"coordinates":[-96.18009000000001,38.403425],"type":"Point"}
+}

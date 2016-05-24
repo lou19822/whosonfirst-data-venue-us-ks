@@ -1,0 +1,71 @@
+{
+  "id": 840553765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.225426,38.397922,-96.225426,38.397922",
+    "geom:latitude":38.397922,
+    "geom:longitude":-96.225426,
+    "iso:country":"US",
+    "sg:address":"3100 W South Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 6360",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1czT63LR26PAWl0msFtCjS_38.397922_-96.225426@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042594,
+    "wof:geomhash":"e9d303602809a7535e0afb56225842d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840553765
+        }
+    ],
+    "wof:id":840553765,
+    "wof:lastmodified":1464042594,
+    "wof:name":"Emporia Transfer Station",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -96.225426,
+    38.397922,
+    -96.225426,
+    38.397922
+],
+  "geometry": {"coordinates":[-96.225426,38.397922],"type":"Point"}
+}

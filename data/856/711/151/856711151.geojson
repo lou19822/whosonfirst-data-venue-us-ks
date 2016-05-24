@@ -1,0 +1,76 @@
+{
+  "id": 856711151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.66064,39.02064,-94.66064,39.02064",
+    "geom:latitude":39.02064,
+    "geom:longitude":-94.66064,
+    "iso:country":"US",
+    "sg:address":"6522 Martway St",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/mission/47045-italian-delight/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 7564",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LixkVAkN2Pyj3Nx2058Nv_39.020640_-94.661275@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052289,
+    "wof:geomhash":"28ad3b987121b5f7c9caecf6682ba05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":856711151
+        }
+    ],
+    "wof:id":856711151,
+    "wof:lastmodified":1464052289,
+    "wof:name":"Italian Delight",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.66064,
+    39.02064,
+    -94.66064,
+    39.02064
+],
+  "geometry": {"coordinates":[-94.66064,39.02064],"type":"Point"}
+}

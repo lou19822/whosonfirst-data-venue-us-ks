@@ -1,0 +1,74 @@
+{
+  "id": 856711021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.780529,38.854345,-94.780529,38.854345",
+    "geom:latitude":38.854345,
+    "geom:longitude":-94.780529,
+    "iso:country":"US",
+    "sg:address":"2137 E 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/65841-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 0555",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NNGB3yBZWl6SiVtbvivAP_38.854715_-94.780471@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052286,
+    "wof:geomhash":"64acc8f9952334962342561f50e0a862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":856711021
+        }
+    ],
+    "wof:id":856711021,
+    "wof:lastmodified":1464052286,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.780529,
+    38.854345,
+    -94.780529,
+    38.854345
+],
+  "geometry": {"coordinates":[-94.780529,38.854345],"type":"Point"}
+}

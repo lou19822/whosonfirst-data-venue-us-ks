@@ -1,0 +1,71 @@
+{
+  "id": 840603697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.174877,38.412295,-96.174877,38.412295",
+    "geom:latitude":38.412295,
+    "geom:longitude":-96.174877,
+    "iso:country":"US",
+    "sg:address":"412 E 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7263",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_591312qCPM04ANZRWr2SvA_38.412295_-96.174877@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043747,
+    "wof:geomhash":"f1a40d2be2a6edd17573efc547dceb74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840603697
+        }
+    ],
+    "wof:id":840603697,
+    "wof:lastmodified":1464043747,
+    "wof:name":"B & B Janitorial Svc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.174877,
+    38.412295,
+    -96.174877,
+    38.412295
+],
+  "geometry": {"coordinates":[-96.174877,38.412295],"type":"Point"}
+}

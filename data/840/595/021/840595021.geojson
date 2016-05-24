@@ -1,0 +1,71 @@
+{
+  "id": 840595021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.280483,37.650502,-97.280483,37.650502",
+    "geom:latitude":37.650502,
+    "geom:longitude":-97.280483,
+    "iso:country":"US",
+    "sg:address":"2339 S Oliver St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 686 4477",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q8Vx12AeVYO8QnLo4GlD6_37.650502_-97.280483@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043539,
+    "wof:geomhash":"2e7bc36f1b5d935c801dda1d359ce469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840595021
+        }
+    ],
+    "wof:id":840595021,
+    "wof:lastmodified":1464043539,
+    "wof:name":"Mr Pawn",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -97.280483,
+    37.650502,
+    -97.280483,
+    37.650502
+],
+  "geometry": {"coordinates":[-97.280483,37.650502],"type":"Point"}
+}

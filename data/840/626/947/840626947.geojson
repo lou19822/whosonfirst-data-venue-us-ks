@@ -1,0 +1,71 @@
+{
+  "id": 840626947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.614868,39.032079,-95.614868,39.032079",
+    "geom:latitude":39.032079,
+    "geom:longitude":-95.614868,
+    "iso:country":"US",
+    "sg:address":"3507 SE 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 1033",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K84cvgTOURgtTmf4KmbVZ_39.032079_-95.614868@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044351,
+    "wof:geomhash":"9203c559542e0656ad6138f1dbd4ce28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840626947
+        }
+    ],
+    "wof:id":840626947,
+    "wof:lastmodified":1464044351,
+    "wof:name":"Graybeal Construction Inc",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.614868,
+    39.032079,
+    -95.614868,
+    39.032079
+],
+  "geometry": {"coordinates":[-95.614868,39.032079],"type":"Point"}
+}

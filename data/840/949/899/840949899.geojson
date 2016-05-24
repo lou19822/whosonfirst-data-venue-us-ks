@@ -1,0 +1,71 @@
+{
+  "id": 840949899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.175165,38.395256,-96.175165,38.395256",
+    "geom:latitude":38.395256,
+    "geom:longitude":-96.175165,
+    "iso:country":"US",
+    "sg:address":"205 S Exchange St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 5498",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IgxDYrGEOl7tw27Wep6F7_38.395256_-96.175165@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051648,
+    "wof:geomhash":"1dc556a62d4885a9bbebd4006a97b3f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840949899
+        }
+    ],
+    "wof:id":840949899,
+    "wof:lastmodified":1464051648,
+    "wof:name":"First Church Of God",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.175165,
+    38.395256,
+    -96.175165,
+    38.395256
+],
+  "geometry": {"coordinates":[-96.17516500000001,38.395256],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840693873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.672365,39.091216,-95.672365,39.091216",
+    "geom:latitude":39.091216,
+    "geom:longitude":-95.672365,
+    "iso:country":"US",
+    "sg:address":"702 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 0020",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TWeHmvIlZ8PgGZh76VLZZ_39.091216_-95.672365@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045916,
+    "wof:geomhash":"56c22d08ab80059394a62fd20f7a05dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840693873
+        }
+    ],
+    "wof:id":840693873,
+    "wof:lastmodified":1464045916,
+    "wof:name":"Shawnee Body Shop",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.672365,
+    39.091216,
+    -95.672365,
+    39.091216
+],
+  "geometry": {"coordinates":[-95.672365,39.091216],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856705669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667806,38.963772,-94.667806,38.963772",
+    "geom:latitude":38.963772,
+    "geom:longitude":-94.667806,
+    "iso:country":"US",
+    "sg:address":"9102 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/42129-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 341 2122",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879595,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PrTMVKfF84CiBMsnl5YJO_38.963772_-94.667806@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052181,
+    "wof:geomhash":"840ffd075f909befd27093adf69afe5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879595,
+            "region_id":85688555,
+            "venue_id":856705669
+        }
+    ],
+    "wof:id":856705669,
+    "wof:lastmodified":1464052181,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85879595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.667806,
+    38.963772,
+    -94.667806,
+    38.963772
+],
+  "geometry": {"coordinates":[-94.667806,38.963772],"type":"Point"}
+}

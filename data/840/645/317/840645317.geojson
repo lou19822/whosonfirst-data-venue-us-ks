@@ -1,0 +1,71 @@
+{
+  "id": 840645317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.674136,38.855593,-94.674136,38.855593",
+    "geom:latitude":38.855593,
+    "geom:longitude":-94.674136,
+    "iso:country":"US",
+    "sg:address":"7545 W 150th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 961 7800",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HMiuBWnVRjvdRaEcVcb76_38.855593_-94.674136@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044788,
+    "wof:geomhash":"8d17d729dd2df105f87560653a351728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840645317
+        }
+    ],
+    "wof:id":840645317,
+    "wof:lastmodified":1464044788,
+    "wof:name":"ABC Tutors In-Home Tutoring",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -94.674136,
+    38.855593,
+    -94.674136,
+    38.855593
+],
+  "geometry": {"coordinates":[-94.674136,38.855593],"type":"Point"}
+}

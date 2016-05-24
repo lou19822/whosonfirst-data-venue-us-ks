@@ -1,0 +1,73 @@
+{
+  "id": 840558599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.334734,37.655134,-97.334734,37.655134",
+    "geom:latitude":37.655134,
+    "geom:longitude":-97.334734,
+    "iso:country":"US",
+    "sg:address":"351 E Clark St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 688 5211",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b7gGopKMw7kKvaY1xnGYO_37.655134_-97.334734@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042705,
+    "wof:geomhash":"03e400b88fe5d3b868c9555d56a26f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840558599
+        }
+    ],
+    "wof:id":840558599,
+    "wof:lastmodified":1464042705,
+    "wof:name":"CDF Flatwork",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.334734,
+    37.655134,
+    -97.334734,
+    37.655134
+],
+  "geometry": {"coordinates":[-97.334734,37.655134],"type":"Point"}
+}

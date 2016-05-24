@@ -1,0 +1,73 @@
+{
+  "id": 840871493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.577152,38.942528,-95.577152,38.942528",
+    "geom:latitude":38.942528,
+    "geom:longitude":-95.577152,
+    "iso:country":"US",
+    "sg:address":"4550 SE 69th St",
+    "sg:city":"Berryton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 2989",
+    "sg:postcode":"66409",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OpUBziSaJCGM7Ym1pnyQF_38.942528_-95.577152@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049886,
+    "wof:geomhash":"42ad557e80038c55552c12225db0ed4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840871493
+        }
+    ],
+    "wof:id":840871493,
+    "wof:lastmodified":1464049886,
+    "wof:name":"Dahlstrom Wendland Concrete",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.577152,
+    38.942528,
+    -95.577152,
+    38.942528
+],
+  "geometry": {"coordinates":[-95.577152,38.942528],"type":"Point"}
+}

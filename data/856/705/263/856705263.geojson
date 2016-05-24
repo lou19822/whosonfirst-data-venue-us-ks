@@ -1,0 +1,78 @@
+{
+  "id": 856705263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.639163,38.91347,-94.639163,38.91347",
+    "geom:latitude":38.91347,
+    "geom:longitude":-94.639163,
+    "iso:country":"US",
+    "sg:address":"4600 W 119th St",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/leawood/186655-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 339 9303",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tRANCuzUvDo7jYiNiimGt_38.913470_-94.639163@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052174,
+    "wof:geomhash":"b6985639335509e7e5ffe51cb1b83c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":856705263
+        }
+    ],
+    "wof:id":856705263,
+    "wof:lastmodified":1464052174,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.639163,
+    38.91347,
+    -94.639163,
+    38.91347
+],
+  "geometry": {"coordinates":[-94.639163,38.91347],"type":"Point"}
+}

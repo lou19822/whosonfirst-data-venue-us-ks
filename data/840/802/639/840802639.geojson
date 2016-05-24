@@ -1,0 +1,71 @@
+{
+  "id": 840802639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.57617,37.750143,-97.57617,37.750143",
+    "geom:latitude":37.750143,
+    "geom:longitude":-97.57617,
+    "iso:country":"US",
+    "sg:address":"20505 W 37th St N",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 0453",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "masonry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZIx8xORy0Y05chtWRMFyt_37.750143_-97.576170@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048257,
+    "wof:geomhash":"922357ca9e324b65d2dca4f77411c187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840802639
+        }
+    ],
+    "wof:id":840802639,
+    "wof:lastmodified":1464048257,
+    "wof:name":"Trenco Masonry Company",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry"
+    ]
+},
+  "bbox": [
+    -97.57617,
+    37.750143,
+    -97.57617,
+    37.750143
+],
+  "geometry": {"coordinates":[-97.57617,37.750143],"type":"Point"}
+}

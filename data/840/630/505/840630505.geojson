@@ -1,0 +1,75 @@
+{
+  "id": 840630505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.297047,37.663504,-97.297047,37.663504",
+    "geom:latitude":37.663504,
+    "geom:longitude":-97.297047,
+    "iso:country":"US",
+    "sg:address":"1624 S Rutan St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 8812",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i8oCEQNpytj17r4o6rSCp_37.663504_-97.297047@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044452,
+    "wof:geomhash":"4c6def52d72250c710c00e50037c6c7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840630505
+        }
+    ],
+    "wof:id":840630505,
+    "wof:lastmodified":1464044452,
+    "wof:name":"Bonjour's Puppy Parade",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -97.297047,
+    37.663504,
+    -97.297047,
+    37.663504
+],
+  "geometry": {"coordinates":[-97.29704700000001,37.663504],"type":"Point"}
+}

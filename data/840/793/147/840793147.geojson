@@ -1,0 +1,67 @@
+{
+  "id": 840793147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.216988,38.424721,-96.216988,38.424721",
+    "geom:latitude":38.424721,
+    "geom:longitude":-96.216988,
+    "iso:country":"US",
+    "sg:address":"2200 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 5200",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:website":"www.staples.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yz4wD9LQvHULMBz9IkYLC_38.424721_-96.216988@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048045,
+    "wof:geomhash":"074ff9816c374ed28321a45a66f07b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840793147
+        }
+    ],
+    "wof:id":840793147,
+    "wof:lastmodified":1464048045,
+    "wof:name":"Staples The Office Superstore",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.216988,
+    38.424721,
+    -96.216988,
+    38.424721
+],
+  "geometry": {"coordinates":[-96.216988,38.424721],"type":"Point"}
+}

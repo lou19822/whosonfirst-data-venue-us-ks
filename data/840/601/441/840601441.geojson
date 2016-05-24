@@ -1,0 +1,75 @@
+{
+  "id": 840601441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.794128,38.854559,-94.794128,38.854559",
+    "geom:latitude":38.854559,
+    "geom:longitude":-94.794128,
+    "iso:country":"US",
+    "sg:address":"1463 E 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 3724",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AoBysQ9eDVSrMzUkTDle8_38.854559_-94.794128@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043689,
+    "wof:geomhash":"c33e82e0eea331bc1c96a4df7637280d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840601441
+        }
+    ],
+    "wof:id":840601441,
+    "wof:lastmodified":1464043689,
+    "wof:name":"Community Blood Ctr",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -94.794128,
+    38.854559,
+    -94.794128,
+    38.854559
+],
+  "geometry": {"coordinates":[-94.794128,38.854559],"type":"Point"}
+}

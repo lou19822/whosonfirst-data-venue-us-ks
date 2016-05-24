@@ -1,0 +1,71 @@
+{
+  "id": 840740803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.038213,38.697113,-96.038213,38.697113",
+    "geom:latitude":38.697113,
+    "geom:longitude":-96.038213,
+    "iso:country":"US",
+    "sg:address":"3730 Rd U",
+    "sg:city":"Allen",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 528 3432",
+    "sg:postcode":"66833",
+    "sg:province":"KS",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f1i4Eb8QZWghTbNhkmUwi_38.697113_-96.038213@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046910,
+    "wof:geomhash":"4bee591e5eb5b1a3c40fab560eeab40d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840740803
+        }
+    ],
+    "wof:id":840740803,
+    "wof:lastmodified":1464046910,
+    "wof:name":"Reed Ranch",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -96.038213,
+    38.697113,
+    -96.038213,
+    38.697113
+],
+  "geometry": {"coordinates":[-96.038213,38.697113],"type":"Point"}
+}

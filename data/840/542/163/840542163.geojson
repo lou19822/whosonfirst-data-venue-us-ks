@@ -1,0 +1,73 @@
+{
+  "id": 840542163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.155209,38.409544,-96.155209,38.409544",
+    "geom:latitude":38.409544,
+    "geom:longitude":-96.155209,
+    "iso:country":"US",
+    "sg:address":"926 Sunrise Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6506",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OSqvjVsPZf9s07xaDOaCm_38.409544_-96.155209@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042276,
+    "wof:geomhash":"cd420eeaac550d024bab77b4fdb39e2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840542163
+        }
+    ],
+    "wof:id":840542163,
+    "wof:lastmodified":1464042276,
+    "wof:name":"Dale Parks Basement & Concrete",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.155209,
+    38.409544,
+    -96.155209,
+    38.409544
+],
+  "geometry": {"coordinates":[-96.155209,38.409544],"type":"Point"}
+}

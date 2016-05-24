@@ -1,0 +1,84 @@
+{
+  "id": 856705403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.683941,38.92788,-94.683941,38.92788",
+    "geom:latitude":38.92788,
+    "geom:longitude":-94.683941,
+    "iso:country":"US",
+    "sg:address":"8600 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/149638-einstein-bros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 338 2084",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ouxj95Dn9lAoNpKPluc1Y_38.927880_-94.683941@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052176,
+    "wof:geomhash":"f062d120514871ac13511721f5aea22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":856705403
+        }
+    ],
+    "wof:id":856705403,
+    "wof:lastmodified":1464052176,
+    "wof:name":"Einstein Bros",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -94.683941,
+    38.92788,
+    -94.683941,
+    38.92788
+],
+  "geometry": {"coordinates":[-94.683941,38.92788],"type":"Point"}
+}

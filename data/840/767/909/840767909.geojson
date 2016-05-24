@@ -1,0 +1,71 @@
+{
+  "id": 840767909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.937102,39.142282,-94.937102,39.142282",
+    "geom:latitude":39.142282,
+    "geom:longitude":-94.937102,
+    "iso:country":"US",
+    "sg:address":"15432 Olive St",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 2567",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XDmc5BWYZq6EdDTu5r2cD_39.142282_-94.937102@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047524,
+    "wof:geomhash":"822fc562ff389868c5ad1753d4621518",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840767909
+        }
+    ],
+    "wof:id":840767909,
+    "wof:lastmodified":1464047524,
+    "wof:name":"Crittenden Construction",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -94.937102,
+    39.142282,
+    -94.937102,
+    39.142282
+],
+  "geometry": {"coordinates":[-94.937102,39.142282],"type":"Point"}
+}

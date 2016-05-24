@@ -1,0 +1,73 @@
+{
+  "id": 840648823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.964322,39.107552,-94.964322,39.107552",
+    "geom:latitude":39.107552,
+    "geom:longitude":-94.964322,
+    "iso:country":"US",
+    "sg:address":"18429 166th St",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 1515",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b8XXaHjQQdUmWdbdzrfMq_39.107552_-94.964322@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044854,
+    "wof:geomhash":"07d1a74d6c99190b9af21454182c6f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840648823
+        }
+    ],
+    "wof:id":840648823,
+    "wof:lastmodified":1464044854,
+    "wof:name":"Dave's Construction Co",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -94.964322,
+    39.107552,
+    -94.964322,
+    39.107552
+],
+  "geometry": {"coordinates":[-94.964322,39.107552],"type":"Point"}
+}

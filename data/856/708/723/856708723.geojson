@@ -1,0 +1,84 @@
+{
+  "id": 856708723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.243832,37.679171,-97.243832,37.679171",
+    "geom:latitude":37.679171,
+    "geom:longitude":-97.243832,
+    "iso:country":"US",
+    "sg:address":"8007 E Kellogg Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/96012-souper-salad/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 686 4054",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "smoothy",
+        "soup",
+        "american",
+        "salad",
+        "juice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806685,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_739uzYTPJn1kiqhaBqIC3c_37.679171_-97.243832@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052242,
+    "wof:geomhash":"6fe649840826954d23de962cdf4bc58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85806685,
+            "region_id":85688555,
+            "venue_id":856708723
+        }
+    ],
+    "wof:id":856708723,
+    "wof:lastmodified":1464052242,
+    "wof:name":"Souper Salad",
+    "wof:parent_id":85806685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "soup",
+        "american",
+        "salad",
+        "juice"
+    ]
+},
+  "bbox": [
+    -97.243832,
+    37.679171,
+    -97.243832,
+    37.679171
+],
+  "geometry": {"coordinates":[-97.243832,37.679171],"type":"Point"}
+}

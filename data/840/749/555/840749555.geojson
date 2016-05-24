@@ -1,0 +1,83 @@
+{
+  "id": 840749555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.598486,38.879848,-94.598486,38.879848",
+    "geom:latitude":38.879848,
+    "geom:longitude":-94.598486,
+    "iso:country":"US",
+    "sg:address":"13600 Wyandotte St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 941 2073",
+    "sg:postcode":"64145",
+    "sg:province":"KS",
+    "sg:tags":[
+        "marine",
+        "boiler"
+    ],
+    "sg:website":"www.babcock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832719,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DT6EOy0qbqFbqS2qvevMA_38.879848_-94.598486@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047089,
+    "wof:geomhash":"6900104ba6747232b0bfa397cd2614d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85832719,
+            "region_id":85688661,
+            "venue_id":840749555
+        }
+    ],
+    "wof:id":840749555,
+    "wof:lastmodified":1464047089,
+    "wof:name":"Babcock & Wilcox Company",
+    "wof:parent_id":85832719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marine",
+        "boiler"
+    ]
+},
+  "bbox": [
+    -94.598486,
+    38.879848,
+    -94.598486,
+    38.879848
+],
+  "geometry": {"coordinates":[-94.59848599999999,38.879848],"type":"Point"}
+}

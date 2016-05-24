@@ -1,0 +1,75 @@
+{
+  "id": 840760851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.680264,39.089545,-94.680264,39.089545",
+    "geom:latitude":39.089545,
+    "geom:longitude":-94.680264,
+    "iso:country":"US",
+    "sg:address":"4214 Kansas Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 321 6408",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6asM8zzo0hJpVcl6iBYCgl_39.089545_-94.680264@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047363,
+    "wof:geomhash":"6434a4635c53520f408d3e0e8357a89f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840760851
+        }
+    ],
+    "wof:id":840760851,
+    "wof:lastmodified":1464047363,
+    "wof:name":"Occupational Medicine Assoc",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.680264,
+    39.089545,
+    -94.680264,
+    39.089545
+],
+  "geometry": {"coordinates":[-94.68026399999999,39.089545],"type":"Point"}
+}

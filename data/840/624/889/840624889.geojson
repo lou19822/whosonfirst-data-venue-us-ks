@@ -1,0 +1,73 @@
+{
+  "id": 840624889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.393958,37.665655,-97.393958,37.665655",
+    "geom:latitude":37.665655,
+    "geom:longitude":-97.393958,
+    "iso:country":"US",
+    "sg:address":"4421 W Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 9408",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GtiZMIXLzVdywaId7jejT_37.665655_-97.393958@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044292,
+    "wof:geomhash":"29a62619a4962d8a6317f55b274ec125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840624889
+        }
+    ],
+    "wof:id":840624889,
+    "wof:lastmodified":1464044292,
+    "wof:name":"Wildcat Construction Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.393958,
+    37.665655,
+    -97.393958,
+    37.665655
+],
+  "geometry": {"coordinates":[-97.393958,37.665655],"type":"Point"}
+}

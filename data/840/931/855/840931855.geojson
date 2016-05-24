@@ -1,0 +1,71 @@
+{
+  "id": 840931855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.670198,38.973442,-95.670198,38.973442",
+    "geom:latitude":38.973442,
+    "geom:longitude":-95.670198,
+    "iso:country":"US",
+    "sg:address":"4601 SE Adams St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 2403",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q5nO67UV29wWVWtmffzoL_38.973442_-95.670198@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051286,
+    "wof:geomhash":"696eb67dad334b3fe23547b6d86c4577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840931855
+        }
+    ],
+    "wof:id":840931855,
+    "wof:lastmodified":1464051286,
+    "wof:name":"Capital Distributing Co",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -95.670198,
+    38.973442,
+    -95.670198,
+    38.973442
+],
+  "geometry": {"coordinates":[-95.670198,38.973442],"type":"Point"}
+}

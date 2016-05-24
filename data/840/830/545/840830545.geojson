@@ -1,0 +1,69 @@
+{
+  "id": 840830545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.613338,39.052253,-95.613338,39.052253",
+    "geom:latitude":39.052253,
+    "geom:longitude":-95.613338,
+    "iso:country":"US",
+    "sg:address":"125 SE Croco Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 4712",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d2nuShf91NYC3i1TnTU9F_39.052253_-95.613338@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049016,
+    "wof:geomhash":"b489234132d77eb03da1632b23057e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840830545
+        }
+    ],
+    "wof:id":840830545,
+    "wof:lastmodified":1464049016,
+    "wof:name":"Munoz Trucking",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.613338,
+    39.052253,
+    -95.613338,
+    39.052253
+],
+  "geometry": {"coordinates":[-95.613338,39.052253],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840581705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.410669,37.659041,-97.410669,37.659041",
+    "geom:latitude":37.659041,
+    "geom:longitude":-97.410669,
+    "iso:country":"US",
+    "sg:address":"2021 S Eisenhower St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 677 9436",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852945,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2okIc4rXLPeVSxiwzHhcOY_37.659041_-97.410669@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043247,
+    "wof:geomhash":"adf7c2952793e6bed59b287a5ac85c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85852945,
+            "region_id":85688555,
+            "venue_id":840581705
+        }
+    ],
+    "wof:id":840581705,
+    "wof:lastmodified":1464043247,
+    "wof:name":"Wichita Area TECHNICAL College",
+    "wof:parent_id":85852945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -97.410669,
+    37.659041,
+    -97.410669,
+    37.659041
+],
+  "geometry": {"coordinates":[-97.410669,37.659041],"type":"Point"}
+}

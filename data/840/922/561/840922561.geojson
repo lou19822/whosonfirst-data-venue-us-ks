@@ -1,0 +1,71 @@
+{
+  "id": 840922561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.670419,38.834643,-94.670419,38.834643",
+    "geom:latitude":38.834643,
+    "geom:longitude":-94.670419,
+    "iso:country":"US",
+    "sg:address":"7360 W 162nd St",
+    "sg:city":"Stilwell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 897 7700",
+    "sg:postcode":"66085",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ncqcEtXslQhPi8wW5W0Wj_38.834643_-94.670419@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051072,
+    "wof:geomhash":"8bbd37c536273fb9b071bef56765337d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840922561
+        }
+    ],
+    "wof:id":840922561,
+    "wof:lastmodified":1464051072,
+    "wof:name":"Landstar Inway Inc",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.670419,
+    38.834643,
+    -94.670419,
+    38.834643
+],
+  "geometry": {"coordinates":[-94.670419,38.834643],"type":"Point"}
+}

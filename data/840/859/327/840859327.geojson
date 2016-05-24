@@ -1,0 +1,71 @@
+{
+  "id": 840859327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.952968,39.116189,-94.952968,39.116189",
+    "geom:latitude":39.116189,
+    "geom:longitude":-94.952968,
+    "iso:country":"US",
+    "sg:address":"16213 State Ave",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 4517",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VIaIyV2mlI389ougNaTFp_39.116189_-94.952968@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049643,
+    "wof:geomhash":"3fdebee1a00914a2763f326de5036531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840859327
+        }
+    ],
+    "wof:id":840859327,
+    "wof:lastmodified":1464049643,
+    "wof:name":"Carmack Trucking",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -94.952968,
+    39.116189,
+    -94.952968,
+    39.116189
+],
+  "geometry": {"coordinates":[-94.952968,39.116189],"type":"Point"}
+}

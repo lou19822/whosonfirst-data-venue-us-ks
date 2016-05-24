@@ -1,0 +1,71 @@
+{
+  "id": 840535431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352803,37.65894,-97.352803,37.65894",
+    "geom:latitude":37.65894,
+    "geom:longitude":-97.352803,
+    "iso:country":"US",
+    "sg:address":"1909 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 7301",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tIDOjQEdwHDl6fFSExAcg_37.658940_-97.352803@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042102,
+    "wof:geomhash":"227cea82475a3f91f282e2ca6d69bc83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840535431
+        }
+    ],
+    "wof:id":840535431,
+    "wof:lastmodified":1464042102,
+    "wof:name":"Seneca Bowl Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -97.352803,
+    37.65894,
+    -97.352803,
+    37.65894
+],
+  "geometry": {"coordinates":[-97.35280299999999,37.65894],"type":"Point"}
+}

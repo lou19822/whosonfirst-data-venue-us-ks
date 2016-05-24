@@ -1,0 +1,74 @@
+{
+  "id": 856711807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.214956,38.419515,-96.214956,38.419515",
+    "geom:latitude":38.419515,
+    "geom:longitude":-96.214956,
+    "iso:country":"US",
+    "sg:address":"2725 W 18th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/166919-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 342 2143",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U8ZGtuAw5902Tf7YHClus_38.419576_-96.215156@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052302,
+    "wof:geomhash":"0b613236443eb7b853d05fc1b3fc3114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856711807
+        }
+    ],
+    "wof:id":856711807,
+    "wof:lastmodified":1464052302,
+    "wof:name":"Burger King",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.214956,
+    38.419515,
+    -96.214956,
+    38.419515
+],
+  "geometry": {"coordinates":[-96.214956,38.419515],"type":"Point"}
+}

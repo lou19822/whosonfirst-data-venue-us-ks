@@ -1,0 +1,71 @@
+{
+  "id": 840580601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.662404,39.091208,-95.662404,39.091208",
+    "geom:latitude":39.091208,
+    "geom:longitude":-95.662404,
+    "iso:country":"US",
+    "sg:address":"200 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 5506",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YXm9d37Ba2TKMgo1zZAcp_39.091208_-95.662404@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043220,
+    "wof:geomhash":"a2da5c4447784fd960080a0950d5a56b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840580601
+        }
+    ],
+    "wof:id":840580601,
+    "wof:lastmodified":1464043220,
+    "wof:name":"Gage Bowls North",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -95.662404,
+    39.091208,
+    -95.662404,
+    39.091208
+],
+  "geometry": {"coordinates":[-95.662404,39.091208],"type":"Point"}
+}

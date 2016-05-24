@@ -1,0 +1,69 @@
+{
+  "id": 840535549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849707,37.822491,-96.849707,37.822491",
+    "geom:latitude":37.822491,
+    "geom:longitude":-96.849707,
+    "iso:country":"US",
+    "sg:address":"524 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 9571",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ATMdPgqBy9JGrNwXikaT5_37.822491_-96.849707@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042106,
+    "wof:geomhash":"79222e836b5b4812bea21301bfc6199f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840535549
+        }
+    ],
+    "wof:id":840535549,
+    "wof:lastmodified":1464042106,
+    "wof:name":"Food 4 Less",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.849707,
+    37.822491,
+    -96.849707,
+    37.822491
+],
+  "geometry": {"coordinates":[-96.849707,37.822491],"type":"Point"}
+}

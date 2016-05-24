@@ -1,0 +1,71 @@
+{
+  "id": 840913689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687585,39.002825,-95.687585,39.002825",
+    "geom:latitude":39.002825,
+    "geom:longitude":-95.687585,
+    "iso:country":"US",
+    "sg:address":"3696 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 7181",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lNNHOD3yjEm56cCGsJDqC_39.002825_-95.687585@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050841,
+    "wof:geomhash":"d573b9428f0e69e67f3517ec8cd99b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840913689
+        }
+    ],
+    "wof:id":840913689,
+    "wof:lastmodified":1464050841,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.687585,
+    39.002825,
+    -95.687585,
+    39.002825
+],
+  "geometry": {"coordinates":[-95.687585,39.002825],"type":"Point"}
+}

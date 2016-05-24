@@ -1,0 +1,72 @@
+{
+  "id": 840895275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.216961,38.415009,-96.216961,38.415009",
+    "geom:latitude":38.415009,
+    "geom:longitude":-96.216961,
+    "iso:country":"US",
+    "sg:address":"1427 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6961",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.emporia.ws",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GPx8goIM8adOUl7m18eul_38.415009_-96.216961@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050388,
+    "wof:geomhash":"98a934e73cedbdd42bfce275b6e914cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840895275
+        }
+    ],
+    "wof:id":840895275,
+    "wof:lastmodified":1464050388,
+    "wof:name":"Emporia Fire Dept",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -96.216961,
+    38.415009,
+    -96.216961,
+    38.415009
+],
+  "geometry": {"coordinates":[-96.216961,38.415009],"type":"Point"}
+}

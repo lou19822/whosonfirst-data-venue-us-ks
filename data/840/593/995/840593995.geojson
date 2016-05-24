@@ -1,0 +1,75 @@
+{
+  "id": 840593995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.7202,38.942547,-94.7202,38.942547",
+    "geom:latitude":38.942547,
+    "geom:longitude":-94.7202,
+    "iso:country":"US",
+    "sg:address":"11703 W 102nd Pl",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 3836",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879589,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RiVd25kHpW5gxjNVDyPiq_38.942547_-94.720200@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043512,
+    "wof:geomhash":"28a850eace01bf969a095fcf9359a89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879589,
+            "region_id":85688555,
+            "venue_id":840593995
+        }
+    ],
+    "wof:id":840593995,
+    "wof:lastmodified":1464043512,
+    "wof:name":"Home Pet Vaccination",
+    "wof:parent_id":85879589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.7202,
+    38.942547,
+    -94.7202,
+    38.942547
+],
+  "geometry": {"coordinates":[-94.72020000000001,38.942547],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856706303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667228,38.885211,-94.667228,38.885211",
+    "geom:latitude":38.885211,
+    "geom:longitude":-94.667228,
+    "iso:country":"US",
+    "sg:address":"7040 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/221847-chipotle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 897 1900",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FNwq1mS7Fh7ZJ292EPLLK_38.885211_-94.667228@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052192,
+    "wof:geomhash":"16a12276edcff058a0c9d691213acb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":856706303
+        }
+    ],
+    "wof:id":856706303,
+    "wof:lastmodified":1464052192,
+    "wof:name":"Chipotle",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.667228,
+    38.885211,
+    -94.667228,
+    38.885211
+],
+  "geometry": {"coordinates":[-94.66722799999999,38.885211],"type":"Point"}
+}

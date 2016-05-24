@@ -1,0 +1,71 @@
+{
+  "id": 840725423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.373951,37.771071,-97.373951,37.771071",
+    "geom:latitude":37.771071,
+    "geom:longitude":-97.373951,
+    "iso:country":"US",
+    "sg:address":"2620 Bentbay",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 821 9070",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F8AsZzrcG2sWnrKgIytWS_37.771071_-97.373951@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046627,
+    "wof:geomhash":"51b73d915dd9f719d773304f66ec3869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840725423
+        }
+    ],
+    "wof:id":840725423,
+    "wof:lastmodified":1464046627,
+    "wof:name":"Macanywhere",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -97.373951,
+    37.771071,
+    -97.373951,
+    37.771071
+],
+  "geometry": {"coordinates":[-97.37395100000001,37.771071],"type":"Point"}
+}

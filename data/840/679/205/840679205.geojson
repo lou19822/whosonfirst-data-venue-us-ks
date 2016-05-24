@@ -1,0 +1,73 @@
+{
+  "id": 840679205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.665728,39.083674,-95.665728,39.083674",
+    "geom:latitude":39.083674,
+    "geom:longitude":-95.665728,
+    "iso:country":"US",
+    "sg:address":"1928 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 8171",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bEN89z2Vg4O4w07WRDGEo_39.083674_-95.665728@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045550,
+    "wof:geomhash":"79aa5b3b628dbcc77583cae770ecc86c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840679205
+        }
+    ],
+    "wof:id":840679205,
+    "wof:lastmodified":1464045550,
+    "wof:name":"Boomerang Lube & Wash",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -95.665728,
+    39.083674,
+    -95.665728,
+    39.083674
+],
+  "geometry": {"coordinates":[-95.665728,39.083674],"type":"Point"}
+}

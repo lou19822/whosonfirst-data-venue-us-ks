@@ -1,0 +1,69 @@
+{
+  "id": 840845723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.859486,37.82244,-96.859486,37.82244",
+    "geom:latitude":37.82244,
+    "geom:longitude":-96.859486,
+    "iso:country":"US",
+    "sg:address":"518 N Topeka St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 322 5300",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LrrBEavxE7MSf1xIo90qH_37.822440_-96.859486@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049345,
+    "wof:geomhash":"70f09bb26f0e975abd55d28e5a473011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840845723
+        }
+    ],
+    "wof:id":840845723,
+    "wof:lastmodified":1464049345,
+    "wof:name":"Kay Buildings",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.859486,
+    37.82244,
+    -96.859486,
+    37.82244
+],
+  "geometry": {"coordinates":[-96.859486,37.82244],"type":"Point"}
+}

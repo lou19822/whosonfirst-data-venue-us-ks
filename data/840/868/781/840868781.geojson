@@ -1,0 +1,71 @@
+{
+  "id": 840868781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.382763,37.7016,-97.382763,37.7016",
+    "geom:latitude":37.7016,
+    "geom:longitude":-97.382763,
+    "iso:country":"US",
+    "sg:address":"3405 W 9th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 0002",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AKLhfOfQ1gMpBRfK2ssAy_37.701600_-97.382763@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049831,
+    "wof:geomhash":"39ff76eb42735e15f2215f02ee3ee7f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840868781
+        }
+    ],
+    "wof:id":840868781,
+    "wof:lastmodified":1464049831,
+    "wof:name":"Andersen Taxidermy",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -97.382763,
+    37.7016,
+    -97.382763,
+    37.7016
+],
+  "geometry": {"coordinates":[-97.382763,37.7016],"type":"Point"}
+}

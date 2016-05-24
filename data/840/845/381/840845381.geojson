@@ -1,0 +1,73 @@
+{
+  "id": 840845381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.397501,37.691024,-97.397501,37.691024",
+    "geom:latitude":37.691024,
+    "geom:longitude":-97.397501,
+    "iso:country":"US",
+    "sg:address":"405 N Baehr St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 7910",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2neyh73uvWt4yDmUIxQitx_37.691024_-97.397501@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049337,
+    "wof:geomhash":"d4cad159781da17072340c72c32bd394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840845381
+        }
+    ],
+    "wof:id":840845381,
+    "wof:lastmodified":1464049337,
+    "wof:name":"Ballinger Trash Svc",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -97.397501,
+    37.691024,
+    -97.397501,
+    37.691024
+],
+  "geometry": {"coordinates":[-97.39750100000001,37.691024],"type":"Point"}
+}

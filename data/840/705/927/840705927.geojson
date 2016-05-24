@@ -1,0 +1,77 @@
+{
+  "id": 840705927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.816591,39.047387,-95.816591,39.047387",
+    "geom:latitude":39.047387,
+    "geom:longitude":-95.816591,
+    "iso:country":"US",
+    "sg:address":"1320 SW Auburn Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 478 4558",
+    "sg:postcode":"66615",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72HrY76x5rbbCg9pHhr7zF_39.047387_-95.816591@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046222,
+    "wof:geomhash":"098beeca099f08eac3859f9d16781c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840705927
+        }
+    ],
+    "wof:id":840705927,
+    "wof:lastmodified":1464046222,
+    "wof:name":"Frye's Auto Repair LLC",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.816591,
+    39.047387,
+    -95.816591,
+    39.047387
+],
+  "geometry": {"coordinates":[-95.816591,39.047387],"type":"Point"}
+}

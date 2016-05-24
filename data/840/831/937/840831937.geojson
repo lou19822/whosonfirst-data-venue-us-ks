@@ -1,0 +1,77 @@
+{
+  "id": 840831937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.666022,39.064614,-95.666022,39.064614",
+    "geom:latitude":39.064614,
+    "geom:longitude":-95.666022,
+    "iso:country":"US",
+    "sg:address":"612 NE Quincy St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 3494",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838117,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VshwVIsPcfmGuQVwNoS52_39.064614_-95.666022@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049042,
+    "wof:geomhash":"1ba17fab73a67e9926279f5208de3461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85838117,
+            "region_id":85688555,
+            "venue_id":840831937
+        }
+    ],
+    "wof:id":840831937,
+    "wof:lastmodified":1464049042,
+    "wof:name":"Topeka Terminal",
+    "wof:parent_id":85838117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -95.666022,
+    39.064614,
+    -95.666022,
+    39.064614
+],
+  "geometry": {"coordinates":[-95.666022,39.064614],"type":"Point"}
+}

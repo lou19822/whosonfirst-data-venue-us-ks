@@ -1,0 +1,71 @@
+{
+  "id": 840802821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704701,37.413956,-94.704701,37.413956",
+    "geom:latitude":37.413956,
+    "geom:longitude":-94.704701,
+    "iso:country":"US",
+    "sg:address":"610 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1611",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nvb6Csr5EQGCw0wj2HTq4_37.413956_-94.704701@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048260,
+    "wof:geomhash":"9daac5d22114b34d584401e28a457ff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840802821
+        }
+    ],
+    "wof:id":840802821,
+    "wof:lastmodified":1464048260,
+    "wof:name":"Leticias Mexican Produce",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -94.704701,
+    37.413956,
+    -94.704701,
+    37.413956
+],
+  "geometry": {"coordinates":[-94.704701,37.413956],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840730089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704819,37.408044,-94.704819,37.408044",
+    "geom:latitude":37.408044,
+    "geom:longitude":-94.704819,
+    "iso:country":"US",
+    "sg:address":"100 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7300",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nU8P6KdWHfZK5UXHBSklh_37.408044_-94.704819@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046709,
+    "wof:geomhash":"f71f0b812711507ca35a80ff58ec79ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840730089
+        }
+    ],
+    "wof:id":840730089,
+    "wof:lastmodified":1464046709,
+    "wof:name":"Fern & Angermayer",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -94.704819,
+    37.408044,
+    -94.704819,
+    37.408044
+],
+  "geometry": {"coordinates":[-94.704819,37.408044],"type":"Point"}
+}

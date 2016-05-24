@@ -1,0 +1,86 @@
+{
+  "id": 840581583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.593646,38.975078,-94.593646,38.975078",
+    "geom:latitude":38.975078,
+    "geom:longitude":-94.593646,
+    "iso:country":"US",
+    "sg:address":"111 W 84 Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 363 0858",
+    "sg:postcode":"64114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "frozen",
+        "food",
+        "product",
+        "fresh"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871971,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rRM0EypLEGtmUQQVx5W70_38.975078_-94.593646@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043245,
+    "wof:geomhash":"8fc7b2e635116ac1b59b277b47277eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871971,
+            "region_id":85688661,
+            "venue_id":840581583
+        }
+    ],
+    "wof:id":840581583,
+    "wof:lastmodified":1464043245,
+    "wof:name":"Brown's Wholesale Meats",
+    "wof:parent_id":85871971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "food",
+        "product",
+        "fresh"
+    ]
+},
+  "bbox": [
+    -94.593646,
+    38.975078,
+    -94.593646,
+    38.975078
+],
+  "geometry": {"coordinates":[-94.59364600000001,38.975078],"type":"Point"}
+}

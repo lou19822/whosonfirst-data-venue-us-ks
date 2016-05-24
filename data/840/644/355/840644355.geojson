@@ -1,0 +1,75 @@
+{
+  "id": 840644355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180157,38.40499,-96.180157,38.40499",
+    "geom:latitude":38.40499,
+    "geom:longitude":-96.180157,
+    "iso:country":"US",
+    "sg:address":"1 US Hwy 50",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 0918",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rl0FVg8M88xUsqN8m92Bn_38.404990_-96.180157@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044770,
+    "wof:geomhash":"009f80659a3882e1a7ddf1e2bc35f4a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840644355
+        }
+    ],
+    "wof:id":840644355,
+    "wof:lastmodified":1464044770,
+    "wof:name":"In The Shade",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -96.180157,
+    38.40499,
+    -96.180157,
+    38.40499
+],
+  "geometry": {"coordinates":[-96.18015699999999,38.40499],"type":"Point"}
+}

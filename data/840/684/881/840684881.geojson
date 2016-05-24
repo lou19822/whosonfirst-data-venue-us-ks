@@ -1,0 +1,71 @@
+{
+  "id": 840684881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389047,37.626569,-97.389047,37.626569",
+    "geom:latitude":37.626569,
+    "geom:longitude":-97.389047,
+    "iso:country":"US",
+    "sg:address":"3811 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 4800",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RDLanuPENgJI4HL6dYFJY_37.626569_-97.389047@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045684,
+    "wof:geomhash":"eb16d5933eeae71a3da784641450ac9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840684881
+        }
+    ],
+    "wof:id":840684881,
+    "wof:lastmodified":1464045684,
+    "wof:name":"Norrenberns",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.389047,
+    37.626569,
+    -97.389047,
+    37.626569
+],
+  "geometry": {"coordinates":[-97.38904700000001,37.626569],"type":"Point"}
+}

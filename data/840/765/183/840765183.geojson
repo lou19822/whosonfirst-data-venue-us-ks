@@ -1,0 +1,71 @@
+{
+  "id": 840765183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.678784,39.092296,-95.678784,39.092296",
+    "geom:latitude":39.092296,
+    "geom:longitude":-95.678784,
+    "iso:country":"US",
+    "sg:address":"2335 NW Clay St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 4900",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4so3rfh9f5MVgAoiZ97PRA_39.092296_-95.678784@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047457,
+    "wof:geomhash":"13c10e0e1d2bcc9b2c03db0da2b7d8a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840765183
+        }
+    ],
+    "wof:id":840765183,
+    "wof:lastmodified":1464047457,
+    "wof:name":"Stingers",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -95.678784,
+    39.092296,
+    -95.678784,
+    39.092296
+],
+  "geometry": {"coordinates":[-95.67878399999999,39.092296],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840753181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.796674,38.845182,-94.796674,38.845182",
+    "geom:latitude":38.845182,
+    "geom:longitude":-94.796674,
+    "iso:country":"US",
+    "sg:address":"18280 W 157th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 486 8832",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JOU1eTgQibv0WODAwIh0r_38.845182_-94.796674@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047177,
+    "wof:geomhash":"b37ea2256074d643735a4d7d7a8f00a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840753181
+        }
+    ],
+    "wof:id":840753181,
+    "wof:lastmodified":1464047177,
+    "wof:name":"K & F Roofing",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.796674,
+    38.845182,
+    -94.796674,
+    38.845182
+],
+  "geometry": {"coordinates":[-94.796674,38.845182],"type":"Point"}
+}

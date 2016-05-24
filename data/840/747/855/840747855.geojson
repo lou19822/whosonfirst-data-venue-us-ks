@@ -1,0 +1,73 @@
+{
+  "id": 840747855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95314,38.310435,-95.95314,38.310435",
+    "geom:latitude":38.310435,
+    "geom:longitude":-95.95314,
+    "iso:country":"US",
+    "sg:address":"116 Congress St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 392 5511",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TcSiQV7ou7d9LwyKlQQoH_38.310435_-95.953140@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047044,
+    "wof:geomhash":"209adc84f2aa10cead002f9e361cae00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840747855
+        }
+    ],
+    "wof:id":840747855,
+    "wof:lastmodified":1464047044,
+    "wof:name":"Hartford Place",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -95.95314,
+    38.310435,
+    -95.95314,
+    38.310435
+],
+  "geometry": {"coordinates":[-95.95314,38.310435],"type":"Point"}
+}

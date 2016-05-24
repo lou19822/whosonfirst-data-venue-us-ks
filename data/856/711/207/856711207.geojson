@@ -1,0 +1,85 @@
+{
+  "id": 856711207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.648159,39.022171,-94.648159,39.022171",
+    "geom:latitude":39.022171,
+    "geom:longitude":-94.648159,
+    "iso:country":"US",
+    "sg:address":"5425 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/mission/243186-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 3151",
+    "sg:postcode":"66205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879597,
+        102191575,
+        404504389,
+        85633793,
+        85945747,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6epL3763th7bCgq0au297D_39.022271_-94.648760@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052290,
+    "wof:geomhash":"0ec6093638d291d4af0f1c58c1222ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504389,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":856711207
+        }
+    ],
+    "wof:id":856711207,
+    "wof:lastmodified":1464052290,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -94.648159,
+    39.022171,
+    -94.648159,
+    39.022171
+],
+  "geometry": {"coordinates":[-94.64815900000001,39.022171],"type":"Point"}
+}

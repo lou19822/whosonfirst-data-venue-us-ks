@@ -1,0 +1,69 @@
+{
+  "id": 840593459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.12744,37.708634,-97.12744,37.708634",
+    "geom:latitude":37.708634,
+    "geom:longitude":-97.12744,
+    "iso:country":"US",
+    "sg:address":"630 E 13th St",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 1361",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OvdleIKdG3clmClZdfTlm_37.708634_-97.127440@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043499,
+    "wof:geomhash":"1beaead37d248d4af76725e25ea3510d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840593459
+        }
+    ],
+    "wof:id":840593459,
+    "wof:lastmodified":1464043499,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -97.12744,
+    37.708634,
+    -97.12744,
+    37.708634
+],
+  "geometry": {"coordinates":[-97.12744000000001,37.708634],"type":"Point"}
+}

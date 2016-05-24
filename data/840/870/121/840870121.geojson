@@ -1,0 +1,71 @@
+{
+  "id": 840870121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.951927,38.309342,-95.951927,38.309342",
+    "geom:latitude":38.309342,
+    "geom:longitude":-95.951927,
+    "iso:country":"US",
+    "sg:address":"413 E Exchange Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 392 5523",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "disability"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gWbXDSl3KgO6yca8ECi18_38.309342_-95.951927@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049856,
+    "wof:geomhash":"d458581b2bf0b314b109ad03baa39f78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840870121
+        }
+    ],
+    "wof:id":840870121,
+    "wof:lastmodified":1464049856,
+    "wof:name":"Hartford Inc",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disability"
+    ]
+},
+  "bbox": [
+    -95.951927,
+    38.309342,
+    -95.951927,
+    38.309342
+],
+  "geometry": {"coordinates":[-95.951927,38.309342],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840630487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.059309,39.182386,-95.059309,39.182386",
+    "geom:latitude":39.182386,
+    "geom:longitude":-95.059309,
+    "iso:country":"US",
+    "sg:address":"22565 207th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 1177",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VHvXDKxxG5iFoCZMhGjzH_39.182386_-95.059309@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044451,
+    "wof:geomhash":"93418682268184caa7bd660445efcc69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840630487
+        }
+    ],
+    "wof:id":840630487,
+    "wof:lastmodified":1464044451,
+    "wof:name":"Shoes Super Svc",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.059309,
+    39.182386,
+    -95.059309,
+    39.182386
+],
+  "geometry": {"coordinates":[-95.059309,39.182386],"type":"Point"}
+}

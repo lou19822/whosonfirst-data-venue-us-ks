@@ -1,0 +1,76 @@
+{
+  "id": 856703559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.882189,39.097681,-94.882189,39.097681",
+    "geom:latitude":39.097681,
+    "geom:longitude":-94.882189,
+    "iso:country":"US",
+    "sg:address":"4 N 130th St",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/bonner-springs/136297-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 721 5200",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878489,
+        102191575,
+        404504871,
+        85633793,
+        85945359,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sLLwYs12zhNXpdGNbM9Cq_39.097681_-94.882189@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052140,
+    "wof:geomhash":"76ed903fb470631698c524eaaf9af9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504871,
+            "locality_id":85945359,
+            "neighbourhood_id":85878489,
+            "region_id":85688555,
+            "venue_id":856703559
+        }
+    ],
+    "wof:id":856703559,
+    "wof:lastmodified":1464052140,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85878489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.882189,
+    39.097681,
+    -94.882189,
+    39.097681
+],
+  "geometry": {"coordinates":[-94.882189,39.097681],"type":"Point"}
+}

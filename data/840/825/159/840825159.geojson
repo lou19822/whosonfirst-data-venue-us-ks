@@ -1,0 +1,71 @@
+{
+  "id": 840825159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.130643,37.704866,-97.130643,37.704866",
+    "geom:latitude":37.704866,
+    "geom:longitude":-97.130643,
+    "iso:country":"US",
+    "sg:address":"415 Commerce St",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 7576",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vjSuxCAw574d5uR05eWEy_37.704866_-97.130643@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048895,
+    "wof:geomhash":"d3b4b3c9ebfee0720599d0c62126ff1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840825159
+        }
+    ],
+    "wof:id":840825159,
+    "wof:lastmodified":1464048895,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -97.130643,
+    37.704866,
+    -97.130643,
+    37.704866
+],
+  "geometry": {"coordinates":[-97.13064300000001,37.704866],"type":"Point"}
+}

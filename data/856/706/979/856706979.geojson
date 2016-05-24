@@ -1,0 +1,78 @@
+{
+  "id": 856706979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724707,39.050549,-95.724707,39.050549",
+    "geom:latitude":39.050549,
+    "geom:longitude":-95.724707,
+    "iso:country":"US",
+    "sg:address":"1037 SW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/115655-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 0782",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GbpaZhca3xft0JFpcNmK9_39.050549_-95.724707@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052208,
+    "wof:geomhash":"ec29f1b0b21ecd5a9239ae093533cf85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":856706979
+        }
+    ],
+    "wof:id":856706979,
+    "wof:lastmodified":1464052208,
+    "wof:name":"Subway",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.724707,
+    39.050549,
+    -95.724707,
+    39.050549
+],
+  "geometry": {"coordinates":[-95.724707,39.050549],"type":"Point"}
+}

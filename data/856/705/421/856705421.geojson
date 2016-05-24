@@ -1,0 +1,81 @@
+{
+  "id": 856705421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686296,38.926722,-94.686296,38.926722",
+    "geom:latitude":38.926722,
+    "geom:longitude":-94.686296,
+    "iso:country":"US",
+    "sg:address":"11120 Antioch Rd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/209776-adrians-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 661 9247",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bX298BL1vKjWoDmhh0Vu6_38.926722_-94.686296@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052177,
+    "wof:geomhash":"97e50caa5f8156013911b826651b0d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":856705421
+        }
+    ],
+    "wof:id":856705421,
+    "wof:lastmodified":1464052177,
+    "wof:name":"Adrian's Cafe",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.686296,
+    38.926722,
+    -94.686296,
+    38.926722
+],
+  "geometry": {"coordinates":[-94.686296,38.926722],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856704685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.611839,39.051753,-94.611839,39.051753",
+    "geom:latitude":39.051753,
+    "geom:longitude":-94.611839,
+    "iso:country":"US",
+    "sg:address":"4140 Rainbow Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/174263-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 7352",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866785,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fioJmNLYBS89GZxb9rmsW_39.051753_-94.611839@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052165,
+    "wof:geomhash":"9053f770cc265344a41a70b73bc5e108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":856704685
+        }
+    ],
+    "wof:id":856704685,
+    "wof:lastmodified":1464052165,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.611839,
+    39.051753,
+    -94.611839,
+    39.051753
+],
+  "geometry": {"coordinates":[-94.611839,39.051753],"type":"Point"}
+}

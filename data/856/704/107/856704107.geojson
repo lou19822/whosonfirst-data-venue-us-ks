@@ -1,0 +1,76 @@
+{
+  "id": 856704107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.79745,38.93027,-94.79745,38.93027",
+    "geom:latitude":38.93027,
+    "geom:longitude":-94.79745,
+    "iso:country":"US",
+    "sg:address":"10834 S Ridgeview Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/11977-johnnys-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 226 6376",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EwPfZnllv0bKWZcCitaDc_38.930270_-94.797450@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052153,
+    "wof:geomhash":"08d4d5f56679dd3472660c4c75888e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704107
+        }
+    ],
+    "wof:id":856704107,
+    "wof:lastmodified":1464052153,
+    "wof:name":"Johnny's Tavern",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.79745,
+    38.93027,
+    -94.79745,
+    38.93027
+],
+  "geometry": {"coordinates":[-94.79745,38.93027],"type":"Point"}
+}

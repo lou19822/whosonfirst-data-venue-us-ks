@@ -1,0 +1,73 @@
+{
+  "id": 840745703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.295511,37.65923,-97.295511,37.65923",
+    "geom:latitude":37.65923,
+    "geom:longitude":-97.295511,
+    "iso:country":"US",
+    "sg:address":"3416 E Skinner St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 685 1767",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "investigation",
+        "background"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gCx9n6RAaXJ43nE913OeS_37.659230_-97.295511@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047000,
+    "wof:geomhash":"64ba873847e46ea160fc28ab90df50f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840745703
+        }
+    ],
+    "wof:id":840745703,
+    "wof:lastmodified":1464047000,
+    "wof:name":"Keith A Lewallen",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigation",
+        "background"
+    ]
+},
+  "bbox": [
+    -97.295511,
+    37.65923,
+    -97.295511,
+    37.65923
+],
+  "geometry": {"coordinates":[-97.295511,37.65923],"type":"Point"}
+}

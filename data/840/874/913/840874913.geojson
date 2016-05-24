@@ -1,0 +1,75 @@
+{
+  "id": 840874913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.696447,39.142842,-94.696447,39.142842",
+    "geom:latitude":39.142842,
+    "geom:longitude":-94.696447,
+    "iso:country":"US",
+    "sg:address":"5029 Leavenworth Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 3515",
+    "sg:postcode":"66104",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854995,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YLTestBJvvqAsdp8HRxkJ_39.142842_-94.696447@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049949,
+    "wof:geomhash":"a73693d5986bec09e47991cf2a88ae36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85854995,
+            "region_id":85688555,
+            "venue_id":840874913
+        }
+    ],
+    "wof:id":840874913,
+    "wof:lastmodified":1464049949,
+    "wof:name":"Specialty Cleaners & Storage",
+    "wof:parent_id":85854995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -94.696447,
+    39.142842,
+    -94.696447,
+    39.142842
+],
+  "geometry": {"coordinates":[-94.69644700000001,39.142842],"type":"Point"}
+}

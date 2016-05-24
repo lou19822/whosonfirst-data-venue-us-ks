@@ -1,0 +1,80 @@
+{
+  "id": 856705411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.721188,38.927016,-94.721188,38.927016",
+    "geom:latitude":38.927016,
+    "geom:longitude":-94.721188,
+    "iso:country":"US",
+    "sg:address":"11701 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/174270-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 469 0066",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wZ96nJiq4ohVU0waNl43E_38.927016_-94.721188@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052177,
+    "wof:geomhash":"27ab206cb6566a8efc513b5291fa2039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":856705411
+        }
+    ],
+    "wof:id":856705411,
+    "wof:lastmodified":1464052177,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.721188,
+    38.927016,
+    -94.721188,
+    38.927016
+],
+  "geometry": {"coordinates":[-94.721188,38.927016],"type":"Point"}
+}

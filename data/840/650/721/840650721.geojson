@@ -1,0 +1,73 @@
+{
+  "id": 840650721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651459,39.019816,-95.651459,39.019816",
+    "geom:latitude":39.019816,
+    "geom:longitude":-95.651459,
+    "iso:country":"US",
+    "sg:address":"2650 SE California Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 8553",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wIeVTrK172aFlWn7y5apC_39.019816_-95.651459@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044897,
+    "wof:geomhash":"7214e2e5fe84b19d3b6a5324c8a35880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840650721
+        }
+    ],
+    "wof:id":840650721,
+    "wof:lastmodified":1464044897,
+    "wof:name":"U-Stor California Ave",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -95.651459,
+    39.019816,
+    -95.651459,
+    39.019816
+],
+  "geometry": {"coordinates":[-95.651459,39.019816],"type":"Point"}
+}

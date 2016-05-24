@@ -1,0 +1,75 @@
+{
+  "id": 840723037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.299147,37.699132,-97.299147,37.699132",
+    "geom:latitude":37.699132,
+    "geom:longitude":-97.299147,
+    "iso:country":"US",
+    "sg:address":"855 N Hillside St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 685 1381",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I3INXhQ8esnQwTge9ppIT_37.699132_-97.299147@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046571,
+    "wof:geomhash":"4b0bdd28d9190270682d4c97cba36b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840723037
+        }
+    ],
+    "wof:id":840723037,
+    "wof:lastmodified":1464046571,
+    "wof:name":"Hillside Medical",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -97.299147,
+    37.699132,
+    -97.299147,
+    37.699132
+],
+  "geometry": {"coordinates":[-97.299147,37.699132],"type":"Point"}
+}

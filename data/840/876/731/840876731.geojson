@@ -1,0 +1,73 @@
+{
+  "id": 840876731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335587,37.648114,-97.335587,37.648114",
+    "geom:latitude":37.648114,
+    "geom:longitude":-97.335587,
+    "iso:country":"US",
+    "sg:address":"2555 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 708 0713",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mY7W302FRO1C2MPOqfoBD_37.648114_-97.335587@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049986,
+    "wof:geomhash":"2655c0535e1794bb187fa738d053f9e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840876731
+        }
+    ],
+    "wof:id":840876731,
+    "wof:lastmodified":1464049986,
+    "wof:name":"Honest Auto Sales",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.335587,
+    37.648114,
+    -97.335587,
+    37.648114
+],
+  "geometry": {"coordinates":[-97.335587,37.648114],"type":"Point"}
+}

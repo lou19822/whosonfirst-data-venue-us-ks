@@ -1,0 +1,77 @@
+{
+  "id": 840682553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.67886,39.037241,-95.67886,39.037241",
+    "geom:latitude":39.037241,
+    "geom:longitude":-95.67886,
+    "iso:country":"US",
+    "sg:address":"1620 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 4688",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yp7kDWmiftd3TEFppF8k6_39.037241_-95.678860@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045637,
+    "wof:geomhash":"29c6cc7e183785ce7aa2eee849c9b601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840682553
+        }
+    ],
+    "wof:id":840682553,
+    "wof:lastmodified":1464045637,
+    "wof:name":"Autos Direct Inc",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.67886,
+    39.037241,
+    -95.67886,
+    39.037241
+],
+  "geometry": {"coordinates":[-95.67886,39.037241],"type":"Point"}
+}

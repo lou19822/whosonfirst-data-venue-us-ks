@@ -1,0 +1,75 @@
+{
+  "id": 840614111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.17371,38.406186,-96.17371,38.406186",
+    "geom:latitude":38.406186,
+    "geom:longitude":-96.17371,
+    "iso:country":"US",
+    "sg:address":"500 E 7th Ave",
+    "sg:city":"Strong City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 273 8343",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26bM4ZCt3YlhvJMG1canjx_38.406186_-96.173710@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044019,
+    "wof:geomhash":"0e730520c00ff87592a91d43badc3942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840614111
+        }
+    ],
+    "wof:id":840614111,
+    "wof:lastmodified":1464044019,
+    "wof:name":"Flint Hill's One Stop",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -96.17371,
+    38.406186,
+    -96.17371,
+    38.406186
+],
+  "geometry": {"coordinates":[-96.17371,38.406186],"type":"Point"}
+}

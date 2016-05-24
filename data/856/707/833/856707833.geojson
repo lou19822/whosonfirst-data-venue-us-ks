@@ -1,0 +1,74 @@
+{
+  "id": 856707833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.983668,37.679388,-96.983668,37.679388",
+    "geom:latitude":37.679388,
+    "geom:longitude":-96.983668,
+    "iso:country":"US",
+    "sg:address":"416 W 7th Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/augusta/161377-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 2243",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z0LzrpFb36HN1Fq7nkIHT_37.679388_-96.983668@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052226,
+    "wof:geomhash":"d93e39563a8c23bf4decf715a5d6b5d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":856707833
+        }
+    ],
+    "wof:id":856707833,
+    "wof:lastmodified":1464052226,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.983668,
+    37.679388,
+    -96.983668,
+    37.679388
+],
+  "geometry": {"coordinates":[-96.98366799999999,37.679388],"type":"Point"}
+}

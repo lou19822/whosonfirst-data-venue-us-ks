@@ -1,0 +1,71 @@
+{
+  "id": 840696753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.973134,37.677314,-96.973134,37.677314",
+    "geom:latitude":37.677314,
+    "geom:longitude":-96.973134,
+    "iso:country":"US",
+    "sg:address":"621 Grove St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 4525",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yeObH9E4c2RqqqHF1bNqk_37.677314_-96.973134@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045989,
+    "wof:geomhash":"df147313e36a0bfb4fc6fd11f2357c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840696753
+        }
+    ],
+    "wof:id":840696753,
+    "wof:lastmodified":1464045989,
+    "wof:name":"Augusta Electric Plant",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -96.973134,
+    37.677314,
+    -96.973134,
+    37.677314
+],
+  "geometry": {"coordinates":[-96.973134,37.677314],"type":"Point"}
+}

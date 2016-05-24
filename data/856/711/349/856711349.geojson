@@ -1,0 +1,81 @@
+{
+  "id": 856711349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.703126,38.912931,-94.703126,38.912931",
+    "geom:latitude":38.912931,
+    "geom:longitude":-94.703126,
+    "iso:country":"US",
+    "sg:address":"10146 W 119th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/12240-tanners-bar--grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 345 1217",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BDVVY5Ztpg4Cqy7hDEzmu_38.912928_-94.703388@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052293,
+    "wof:geomhash":"dacc35290699bf58eb8c476a67faf075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":856711349
+        }
+    ],
+    "wof:id":856711349,
+    "wof:lastmodified":1464052293,
+    "wof:name":"Tanner's Bar & Grill",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.703126,
+    38.912931,
+    -94.703126,
+    38.912931
+],
+  "geometry": {"coordinates":[-94.703126,38.912931],"type":"Point"}
+}

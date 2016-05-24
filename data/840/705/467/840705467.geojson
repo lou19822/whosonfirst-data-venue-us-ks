@@ -1,0 +1,73 @@
+{
+  "id": 840705467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363032,37.733073,-97.363032,37.733073",
+    "geom:latitude":37.733073,
+    "geom:longitude":-97.363032,
+    "iso:country":"US",
+    "sg:address":"2742 N Amidon Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 831 9969",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Op1vd24NBvOERcncf7EF9_37.733073_-97.363032@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046215,
+    "wof:geomhash":"03250b199a97c765dff086577ea3272e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840705467
+        }
+    ],
+    "wof:id":840705467,
+    "wof:lastmodified":1464046215,
+    "wof:name":"Designnet",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "designer"
+    ]
+},
+  "bbox": [
+    -97.363032,
+    37.733073,
+    -97.363032,
+    37.733073
+],
+  "geometry": {"coordinates":[-97.363032,37.733073],"type":"Point"}
+}

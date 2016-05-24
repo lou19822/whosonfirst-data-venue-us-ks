@@ -1,0 +1,76 @@
+{
+  "id": 856707333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.66445,39.105392,-95.66445,39.105392",
+    "geom:latitude":39.105392,
+    "geom:longitude":-95.66445,
+    "iso:country":"US",
+    "sg:address":"3250 NW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/soldier/174286-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 3288",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yZlbHvTBbSpONipWjDBZA_39.105392_-95.664450@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052217,
+    "wof:geomhash":"0b94169ab75e06eb8706e4edbbc0e353",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":856707333
+        }
+    ],
+    "wof:id":856707333,
+    "wof:lastmodified":1464052217,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -95.66445,
+    39.105392,
+    -95.66445,
+    39.105392
+],
+  "geometry": {"coordinates":[-95.66445,39.105392],"type":"Point"}
+}

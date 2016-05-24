@@ -1,0 +1,74 @@
+{
+  "id": 840776277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.334426,37.634361,-97.334426,37.634361",
+    "geom:latitude":37.634361,
+    "geom:longitude":-97.334426,
+    "iso:country":"US",
+    "sg:address":"3205 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 681 2519",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.carbanc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cYW2YtShl1bTsOd4eFPhw_37.634361_-97.334426@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047690,
+    "wof:geomhash":"bc36484606ede16b98806f0650711d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840776277
+        }
+    ],
+    "wof:id":840776277,
+    "wof:lastmodified":1464047690,
+    "wof:name":"Carbanc Of Wichita",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.334426,
+    37.634361,
+    -97.334426,
+    37.634361
+],
+  "geometry": {"coordinates":[-97.33442599999999,37.634361],"type":"Point"}
+}

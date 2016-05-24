@@ -1,0 +1,75 @@
+{
+  "id": 840778617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.223283,38.403499,-96.223283,38.403499",
+    "geom:latitude":38.403499,
+    "geom:longitude":-96.223283,
+    "iso:country":"US",
+    "sg:address":"3015 Melrose Pl",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0530",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H8hYD76ozUzU8a3B4RifJ_38.403499_-96.223283@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047731,
+    "wof:geomhash":"a321eb4e52c9948e5ac254aa62804391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840778617
+        }
+    ],
+    "wof:id":840778617,
+    "wof:lastmodified":1464047731,
+    "wof:name":"M & S Body Shop",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.223283,
+    38.403499,
+    -96.223283,
+    38.403499
+],
+  "geometry": {"coordinates":[-96.223283,38.403499],"type":"Point"}
+}

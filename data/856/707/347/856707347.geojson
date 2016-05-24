@@ -1,0 +1,72 @@
+{
+  "id": 856707347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.717766,39.12919,-95.717766,39.12919",
+    "geom:latitude":39.12919,
+    "geom:longitude":-95.717766,
+    "iso:country":"US",
+    "sg:address":"3613 NW 46th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/soldier/223275-gambinos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0770",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gaATi6dfliIjj8rTq5ye4_39.129190_-95.717766@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052217,
+    "wof:geomhash":"7da2a7f291bfdc99da1be2bd6b68d1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":856707347
+        }
+    ],
+    "wof:id":856707347,
+    "wof:lastmodified":1464052217,
+    "wof:name":"Gambino's Pizza",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.717766,
+    39.12919,
+    -95.717766,
+    39.12919
+],
+  "geometry": {"coordinates":[-95.717766,39.12919],"type":"Point"}
+}

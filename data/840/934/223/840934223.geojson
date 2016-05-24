@@ -1,0 +1,71 @@
+{
+  "id": 840934223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.711442,39.13873,-95.711442,39.13873",
+    "geom:latitude":39.13873,
+    "geom:longitude":-95.711442,
+    "iso:country":"US",
+    "sg:address":"5007 NW Sterling Chase Dr",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 4122",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_679WkuiOxt2mhE2D50ktdl_39.138730_-95.711442@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051330,
+    "wof:geomhash":"2e934436ca3d6c7ca90d63c90bde5560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840934223
+        }
+    ],
+    "wof:id":840934223,
+    "wof:lastmodified":1464051330,
+    "wof:name":"Pierce Custom Homes",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -95.711442,
+    39.13873,
+    -95.711442,
+    39.13873
+],
+  "geometry": {"coordinates":[-95.71144200000001,39.13873],"type":"Point"}
+}

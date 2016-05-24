@@ -1,0 +1,78 @@
+{
+  "id": 840576235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.718076,38.956624,-94.718076,38.956624",
+    "geom:latitude":38.956624,
+    "geom:longitude":-94.718076,
+    "iso:country":"US",
+    "sg:address":"11620 W 95th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 859 9720",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "sg:website":"www.petco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879589,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t3PohOeiAIymT6MK7iaro_38.956624_-94.718076@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043128,
+    "wof:geomhash":"8f48ff3e2e122ce7e8ce1142fd973cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879589,
+            "region_id":85688555,
+            "venue_id":840576235
+        }
+    ],
+    "wof:id":840576235,
+    "wof:lastmodified":1464043128,
+    "wof:name":"PETCO",
+    "wof:parent_id":85879589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.718076,
+    38.956624,
+    -94.718076,
+    38.956624
+],
+  "geometry": {"coordinates":[-94.718076,38.956624],"type":"Point"}
+}

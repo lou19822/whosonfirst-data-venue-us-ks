@@ -1,0 +1,71 @@
+{
+  "id": 840563149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.445797,37.685328,-97.445797,37.685328",
+    "geom:latitude":37.685328,
+    "geom:longitude":-97.445797,
+    "iso:country":"US",
+    "sg:address":"220 N Wood Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 2225",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63TzK0poeKSbfltiOHrXqo_37.685328_-97.445797@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042803,
+    "wof:geomhash":"2df8a5178d8e127a66c6bdfc06740744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840563149
+        }
+    ],
+    "wof:id":840563149,
+    "wof:lastmodified":1464042803,
+    "wof:name":"Home Elevator Co",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -97.445797,
+    37.685328,
+    -97.445797,
+    37.685328
+],
+  "geometry": {"coordinates":[-97.445797,37.685328],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840937231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.571278,37.656797,-97.571278,37.656797",
+    "geom:latitude":37.656797,
+    "geom:longitude":-97.571278,
+    "iso:country":"US",
+    "sg:address":"200 S Goddard Rd",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 2398",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q3bgdb0u5jRfAIkm1HJLe_37.656797_-97.571278@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051395,
+    "wof:geomhash":"1e8efbe98d6ccd49d40d84372ca066bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840937231
+        }
+    ],
+    "wof:id":840937231,
+    "wof:lastmodified":1464051395,
+    "wof:name":"Nowak Shop",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.571278,
+    37.656797,
+    -97.571278,
+    37.656797
+],
+  "geometry": {"coordinates":[-97.57127800000001,37.656797],"type":"Point"}
+}

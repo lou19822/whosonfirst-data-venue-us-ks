@@ -1,0 +1,73 @@
+{
+  "id": 840776599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.938668,39.118967,-94.938668,39.118967",
+    "geom:latitude":39.118967,
+    "geom:longitude":-94.938668,
+    "iso:country":"US",
+    "sg:address":"1300 N 155th St",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 1377",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wfEHueQiX2jvkNdtm7WV8_39.118967_-94.938668@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047696,
+    "wof:geomhash":"846060423c0c250b0de94efb189eeab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840776599
+        }
+    ],
+    "wof:id":840776599,
+    "wof:lastmodified":1464047696,
+    "wof:name":"B & B Garage",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.938668,
+    39.118967,
+    -94.938668,
+    39.118967
+],
+  "geometry": {"coordinates":[-94.93866800000001,39.118967],"type":"Point"}
+}

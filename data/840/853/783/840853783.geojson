@@ -1,0 +1,73 @@
+{
+  "id": 840853783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.313576,37.641128,-97.313576,37.641128",
+    "geom:latitude":37.641128,
+    "geom:longitude":-97.313576,
+    "iso:country":"US",
+    "sg:address":"1910 E Northern St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 7770",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "aircraft",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74TJybuT5s2oyYpCFoPtgs_37.641128_-97.313576@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049522,
+    "wof:geomhash":"d4ce24b43512abbf0431a69b0cc3bcf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840853783
+        }
+    ],
+    "wof:id":840853783,
+    "wof:lastmodified":1464049522,
+    "wof:name":"Aircraft Seal & Gasket",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "component"
+    ]
+},
+  "bbox": [
+    -97.313576,
+    37.641128,
+    -97.313576,
+    37.641128
+],
+  "geometry": {"coordinates":[-97.313576,37.641128],"type":"Point"}
+}

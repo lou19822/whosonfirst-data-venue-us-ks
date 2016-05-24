@@ -1,0 +1,77 @@
+{
+  "id": 840795041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.732502,39.00341,-94.732502,39.00341",
+    "geom:latitude":39.00341,
+    "geom:longitude":-94.732502,
+    "iso:country":"US",
+    "sg:address":"12818 W 69th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 7693",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DUFX6ePL37jE57rShx061_39.003410_-94.732502@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048079,
+    "wof:geomhash":"4f003fbdb5d82847322e0dd1cd41d287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":840795041
+        }
+    ],
+    "wof:id":840795041,
+    "wof:lastmodified":1464048079,
+    "wof:name":"Clarence M Klley Dtention Svcs",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -94.732502,
+    39.00341,
+    -94.732502,
+    39.00341
+],
+  "geometry": {"coordinates":[-94.732502,39.00341],"type":"Point"}
+}

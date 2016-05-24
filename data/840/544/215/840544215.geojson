@@ -1,0 +1,71 @@
+{
+  "id": 840544215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.467,37.714909,-97.467,37.714909",
+    "geom:latitude":37.714909,
+    "geom:longitude":-97.467,
+    "iso:country":"US",
+    "sg:address":"10811 W 17th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 6826",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cnoKPV7tOfFRhh02Wa1FZ_37.714909_-97.467000@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042337,
+    "wof:geomhash":"f2319265a21496b7ef4a35fbce5372be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840544215
+        }
+    ],
+    "wof:id":840544215,
+    "wof:lastmodified":1464042337,
+    "wof:name":"River City Bldg Maintenance",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.467,
+    37.714909,
+    -97.467,
+    37.714909
+],
+  "geometry": {"coordinates":[-97.467,37.714909],"type":"Point"}
+}

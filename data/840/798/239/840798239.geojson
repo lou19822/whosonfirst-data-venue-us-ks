@@ -1,0 +1,71 @@
+{
+  "id": 840798239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352786,37.657515,-97.352786,37.657515",
+    "geom:latitude":37.657515,
+    "geom:longitude":-97.352786,
+    "iso:country":"US",
+    "sg:address":"2015 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 6339",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hi645cn8VLmGebPiFo1cN_37.657515_-97.352786@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048161,
+    "wof:geomhash":"e3e9334a28f0338ec9e45d2641a4b32b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840798239
+        }
+    ],
+    "wof:id":840798239,
+    "wof:lastmodified":1464048161,
+    "wof:name":"Hawaiin Touch",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.352786,
+    37.657515,
+    -97.352786,
+    37.657515
+],
+  "geometry": {"coordinates":[-97.35278599999999,37.657515],"type":"Point"}
+}

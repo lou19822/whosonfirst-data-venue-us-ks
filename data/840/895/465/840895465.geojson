@@ -1,0 +1,71 @@
+{
+  "id": 840895465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.107962,37.787926,-97.107962,37.787926",
+    "geom:latitude":37.787926,
+    "geom:longitude":-97.107962,
+    "iso:country":"US",
+    "sg:address":"116 S Main St",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 778 1181",
+    "sg:postcode":"67017",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ILGon9v8kMycePpBLTZ7N_37.787926_-97.107962@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050395,
+    "wof:geomhash":"133ebf530fbeab6e8f30e4a772a03b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840895465
+        }
+    ],
+    "wof:id":840895465,
+    "wof:lastmodified":1464050395,
+    "wof:name":"Mid Kansas Co-Op",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -97.107962,
+    37.787926,
+    -97.107962,
+    37.787926
+],
+  "geometry": {"coordinates":[-97.107962,37.787926],"type":"Point"}
+}

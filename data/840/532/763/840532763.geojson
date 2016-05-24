@@ -1,0 +1,71 @@
+{
+  "id": 840532763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363033,37.733322,-97.363033,37.733322",
+    "geom:latitude":37.733322,
+    "geom:longitude":-97.363033,
+    "iso:country":"US",
+    "sg:address":"2730 N Amidon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 9292",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WRpkqn00M9iJFTgnTJvGs_37.733322_-97.363033@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042045,
+    "wof:geomhash":"cb9c5b58c6c971c5e2e751321f7a417d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840532763
+        }
+    ],
+    "wof:id":840532763,
+    "wof:lastmodified":1464042045,
+    "wof:name":"Gold Tender",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -97.363033,
+    37.733322,
+    -97.363033,
+    37.733322
+],
+  "geometry": {"coordinates":[-97.363033,37.733322],"type":"Point"}
+}

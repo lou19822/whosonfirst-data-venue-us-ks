@@ -1,0 +1,70 @@
+{
+  "id": 840795233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.833193,39.128542,-94.833193,39.128542",
+    "geom:latitude":39.128542,
+    "geom:longitude":-94.833193,
+    "iso:country":"US",
+    "sg:address":"10959 Parallel Pkwy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 9811",
+    "sg:postcode":"66109",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833091,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75i2vw0oOPIzHFp1DMsl92_39.128542_-94.833193@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048083,
+    "wof:geomhash":"6f3f8b7b01aba0ea9eab8050e24771b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85833091,
+            "region_id":85688555,
+            "venue_id":840795233
+        }
+    ],
+    "wof:id":840795233,
+    "wof:lastmodified":1464048083,
+    "wof:name":"US Bank",
+    "wof:parent_id":85833091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.833193,
+    39.128542,
+    -94.833193,
+    39.128542
+],
+  "geometry": {"coordinates":[-94.83319299999999,39.128542],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840561097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.189325,38.495157,-96.189325,38.495157",
+    "geom:latitude":38.495157,
+    "geom:longitude":-96.189325,
+    "iso:country":"US",
+    "sg:address":"2332 Rd K",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2825",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OtfYYmdliAy6VxjrrWpts_38.495157_-96.189325@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042757,
+    "wof:geomhash":"af4df25be15a048dbe14f9e1ba30a318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840561097
+        }
+    ],
+    "wof:id":840561097,
+    "wof:lastmodified":1464042757,
+    "wof:name":"Double D Trucking",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.189325,
+    38.495157,
+    -96.189325,
+    38.495157
+],
+  "geometry": {"coordinates":[-96.189325,38.495157],"type":"Point"}
+}

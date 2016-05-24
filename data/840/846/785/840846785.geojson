@@ -1,0 +1,71 @@
+{
+  "id": 840846785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.339305,37.651677,-97.339305,37.651677",
+    "geom:latitude":37.651677,
+    "geom:longitude":-97.339305,
+    "iso:country":"US",
+    "sg:address":"111 W Blake St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 650 4666",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jhKNyLupsABIEDsI7zmDS_37.651677_-97.339305@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049368,
+    "wof:geomhash":"68692907ff6e87f235964259ea568966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840846785
+        }
+    ],
+    "wof:id":840846785,
+    "wof:lastmodified":1464049368,
+    "wof:name":"Wee Ones",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.339305,
+    37.651677,
+    -97.339305,
+    37.651677
+],
+  "geometry": {"coordinates":[-97.339305,37.651677],"type":"Point"}
+}

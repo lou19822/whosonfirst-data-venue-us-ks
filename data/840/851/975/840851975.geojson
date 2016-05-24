@@ -1,0 +1,77 @@
+{
+  "id": 840851975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.803228,39.015035,-95.803228,39.015035",
+    "geom:latitude":39.015035,
+    "geom:longitude":-95.803228,
+    "iso:country":"US",
+    "sg:address":"7738 SW 28th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 478 0188",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VM1H7bZpANsGPiA2ZGdmw_39.015035_-95.803228@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049486,
+    "wof:geomhash":"0bdeacf70385599a25131e565145e029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840851975
+        }
+    ],
+    "wof:id":840851975,
+    "wof:lastmodified":1464049486,
+    "wof:name":"Pat The Plumber",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.803228,
+    39.015035,
+    -95.803228,
+    39.015035
+],
+  "geometry": {"coordinates":[-95.803228,39.015035],"type":"Point"}
+}

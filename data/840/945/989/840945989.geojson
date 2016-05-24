@@ -1,0 +1,72 @@
+{
+  "id": 840945989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.718401,39.090601,-95.718401,39.090601",
+    "geom:latitude":39.090601,
+    "geom:longitude":-95.718401,
+    "iso:country":"US",
+    "sg:address":"3501 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 7792",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "railroad"
+    ],
+    "sg:website":"www.ptmw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TH1AKn9C9ryReFBxeA1Z7_39.090601_-95.718401@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051570,
+    "wof:geomhash":"5f212f585cfe68c593f79104fcb81cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840945989
+        }
+    ],
+    "wof:id":840945989,
+    "wof:lastmodified":1464051570,
+    "wof:name":"PTMW",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "railroad"
+    ]
+},
+  "bbox": [
+    -95.718401,
+    39.090601,
+    -95.718401,
+    39.090601
+],
+  "geometry": {"coordinates":[-95.718401,39.090601],"type":"Point"}
+}

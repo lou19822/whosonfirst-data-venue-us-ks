@@ -1,0 +1,73 @@
+{
+  "id": 840802403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.244314,37.549993,-97.244314,37.549993",
+    "geom:latitude":37.549993,
+    "geom:longitude":-97.244314,
+    "iso:country":"US",
+    "sg:address":"625 N Rock Rd",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 789 8000",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XcctBiwaMLNV1T3HOM87Z_37.549993_-97.244314@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048252,
+    "wof:geomhash":"f52193e1e820947e0f3f0989ff7609de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840802403
+        }
+    ],
+    "wof:id":840802403,
+    "wof:lastmodified":1464048252,
+    "wof:name":"Derby Rock Road Quick Lube",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -97.244314,
+    37.549993,
+    -97.244314,
+    37.549993
+],
+  "geometry": {"coordinates":[-97.244314,37.549993],"type":"Point"}
+}

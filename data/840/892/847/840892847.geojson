@@ -1,0 +1,66 @@
+{
+  "id": 840892847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.32273,37.649771,-97.32273,37.649771",
+    "geom:latitude":37.649771,
+    "geom:longitude":-97.32273,
+    "iso:country":"US",
+    "sg:address":"1203 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 269 2988",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NxtfGJO6uIbolslMhRUPJ_37.649771_-97.322730@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050343,
+    "wof:geomhash":"cdee01723f0e7e46f935e32b91780454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840892847
+        }
+    ],
+    "wof:id":840892847,
+    "wof:lastmodified":1464050343,
+    "wof:name":"Whatta Stop",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.32273,
+    37.649771,
+    -97.32273,
+    37.649771
+],
+  "geometry": {"coordinates":[-97.32273000000001,37.649771],"type":"Point"}
+}

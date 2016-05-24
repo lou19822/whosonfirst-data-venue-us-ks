@@ -1,0 +1,84 @@
+{
+  "id": 840636689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.583331,39.075083,-94.583331,39.075083",
+    "geom:latitude":39.075083,
+    "geom:longitude":-94.583331,
+    "iso:country":"US",
+    "sg:address":"227 E 28 Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 472 4990",
+    "sg:postcode":"64108",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cemetery",
+        "gallery",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872013,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_042CAJHUh2emhsbKyoikLi_39.075083_-94.583331@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044608,
+    "wof:geomhash":"2da34ba09c04483b4adff350d26a0f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872013,
+            "region_id":85688661,
+            "venue_id":840636689
+        }
+    ],
+    "wof:id":840636689,
+    "wof:lastmodified":1464044608,
+    "wof:name":"Union Cemetery Historical Soc",
+    "wof:parent_id":85872013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery",
+        "gallery",
+        "historical"
+    ]
+},
+  "bbox": [
+    -94.583331,
+    39.075083,
+    -94.583331,
+    39.075083
+],
+  "geometry": {"coordinates":[-94.583331,39.075083],"type":"Point"}
+}

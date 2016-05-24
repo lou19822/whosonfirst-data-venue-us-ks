@@ -1,0 +1,71 @@
+{
+  "id": 840688827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389407,37.694558,-97.389407,37.694558",
+    "geom:latitude":37.694558,
+    "geom:longitude":-97.389407,
+    "iso:country":"US",
+    "sg:address":"520 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 0010",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QFA0cViVhLgUnczQ8b9fm_37.694558_-97.389407@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045793,
+    "wof:geomhash":"abc563ddb7dabf2e0f3d5e342bb9b521",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840688827
+        }
+    ],
+    "wof:id":840688827,
+    "wof:lastmodified":1464045793,
+    "wof:name":"Rose Bowl West Inc",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -97.389407,
+    37.694558,
+    -97.389407,
+    37.694558
+],
+  "geometry": {"coordinates":[-97.38940700000001,37.694558],"type":"Point"}
+}

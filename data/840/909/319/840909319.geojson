@@ -1,0 +1,71 @@
+{
+  "id": 840909319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.076247,39.115147,-95.076247,39.115147",
+    "geom:latitude":39.115147,
+    "geom:longitude":-95.076247,
+    "iso:country":"US",
+    "sg:address":"319 Ridge St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 3435",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sWZwbmtfg32rliL08W2Kp_39.115147_-95.076247@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050704,
+    "wof:geomhash":"8397848a68266dbb2fc5288aa9371dac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840909319
+        }
+    ],
+    "wof:id":840909319,
+    "wof:lastmodified":1464050704,
+    "wof:name":"B & J Gas Station",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -95.076247,
+    39.115147,
+    -95.076247,
+    39.115147
+],
+  "geometry": {"coordinates":[-95.076247,39.115147],"type":"Point"}
+}

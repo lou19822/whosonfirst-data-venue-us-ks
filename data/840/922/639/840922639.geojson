@@ -1,0 +1,73 @@
+{
+  "id": 840922639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335591,37.648848,-97.335591,37.648848",
+    "geom:latitude":37.648848,
+    "geom:longitude":-97.335591,
+    "iso:country":"US",
+    "sg:address":"2621 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 1830",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GSVyyhAMjnpzc8ayP56hi_37.648848_-97.335591@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051074,
+    "wof:geomhash":"46efd7c6da240e6845e7b29fc64853e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840922639
+        }
+    ],
+    "wof:id":840922639,
+    "wof:lastmodified":1464051074,
+    "wof:name":"Wichita Super Home Ctr",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.335591,
+    37.648848,
+    -97.335591,
+    37.648848
+],
+  "geometry": {"coordinates":[-97.33559099999999,37.648848],"type":"Point"}
+}

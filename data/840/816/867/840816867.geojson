@@ -1,0 +1,73 @@
+{
+  "id": 840816867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.213024,38.422392,-96.213024,38.422392",
+    "geom:latitude":38.422392,
+    "geom:longitude":-96.213024,
+    "iso:country":"US",
+    "sg:address":"1814 Holiday Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 0100",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lzusQhHvdAgGypQDlYt7R_38.422392_-96.213024@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048654,
+    "wof:geomhash":"14227235c4659243d0d50e1e2139b97c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840816867
+        }
+    ],
+    "wof:id":840816867,
+    "wof:lastmodified":1464048654,
+    "wof:name":"Alltel Communications",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -96.213024,
+    38.422392,
+    -96.213024,
+    38.422392
+],
+  "geometry": {"coordinates":[-96.213024,38.422392],"type":"Point"}
+}

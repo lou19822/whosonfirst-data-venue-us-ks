@@ -1,0 +1,75 @@
+{
+  "id": 840774639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335121,37.640535,-97.335121,37.640535",
+    "geom:latitude":37.640535,
+    "geom:longitude":-97.335121,
+    "iso:country":"US",
+    "sg:address":"3035 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 8138",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WXF51NrgkxjGuq3wyCSVw_37.640535_-97.335121@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047661,
+    "wof:geomhash":"1357fee5c274a71549208af0cd82f699",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840774639
+        }
+    ],
+    "wof:id":840774639,
+    "wof:lastmodified":1464047661,
+    "wof:name":"Smith Auto Machine & Supply",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.335121,
+    37.640535,
+    -97.335121,
+    37.640535
+],
+  "geometry": {"coordinates":[-97.335121,37.640535],"type":"Point"}
+}

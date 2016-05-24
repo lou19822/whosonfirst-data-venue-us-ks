@@ -1,0 +1,71 @@
+{
+  "id": 840833533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.610053,39.017894,-95.610053,39.017894",
+    "geom:latitude":39.017894,
+    "geom:longitude":-95.610053,
+    "iso:country":"US",
+    "sg:address":"3600 SE 27th Ter",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 1925",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ae6QJuYwUlOjhU8wL9FY3_39.017894_-95.610053@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049075,
+    "wof:geomhash":"4b06fa105676543fcd8a357a608e19ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840833533
+        }
+    ],
+    "wof:id":840833533,
+    "wof:lastmodified":1464049075,
+    "wof:name":"Shawnee Building Mntnc Janitor",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -95.610053,
+    39.017894,
+    -95.610053,
+    39.017894
+],
+  "geometry": {"coordinates":[-95.61005299999999,39.017894],"type":"Point"}
+}

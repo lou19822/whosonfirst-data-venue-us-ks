@@ -1,0 +1,70 @@
+{
+  "id": 840607001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.672563,39.053663,-95.672563,39.053663",
+    "geom:latitude":39.053663,
+    "geom:longitude":-95.672563,
+    "iso:country":"US",
+    "sg:address":"435 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 6545",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gETc9cCagDAgFtFgsYmGQ_39.053663_-95.672563@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043826,
+    "wof:geomhash":"d28f3d2de0149a4fd345e47400a0e9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840607001
+        }
+    ],
+    "wof:id":840607001,
+    "wof:lastmodified":1464043826,
+    "wof:name":"Fifth Street Cellar Bistro",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.672563,
+    39.053663,
+    -95.672563,
+    39.053663
+],
+  "geometry": {"coordinates":[-95.672563,39.053663],"type":"Point"}
+}

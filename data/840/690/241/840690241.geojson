@@ -1,0 +1,75 @@
+{
+  "id": 840690241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.618252,39.003234,-95.618252,39.003234",
+    "geom:latitude":39.003234,
+    "geom:longitude":-95.618252,
+    "iso:country":"US",
+    "sg:address":"3419 SE 35th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 7648",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uiMPi1nWt1M4s6gfu1cLu_39.003234_-95.618252@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045822,
+    "wof:geomhash":"9af62aa78882b4da439d391f1e751b27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840690241
+        }
+    ],
+    "wof:id":840690241,
+    "wof:lastmodified":1464045822,
+    "wof:name":"Aspen Construction Svc Inc",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.618252,
+    39.003234,
+    -95.618252,
+    39.003234
+],
+  "geometry": {"coordinates":[-95.618252,39.003234],"type":"Point"}
+}

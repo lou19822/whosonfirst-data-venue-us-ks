@@ -1,0 +1,73 @@
+{
+  "id": 840687287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.681237,37.420538,-94.681237,37.420538",
+    "geom:latitude":37.420538,
+    "geom:longitude":-94.681237,
+    "iso:country":"US",
+    "sg:address":"1419 E 14th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 9473",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fUuB5r807fvX5rFC32Pdl_37.420538_-94.681237@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045760,
+    "wof:geomhash":"4f0ae126eb70c9aa0d51dfba18fdc10a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840687287
+        }
+    ],
+    "wof:id":840687287,
+    "wof:lastmodified":1464045760,
+    "wof:name":"B & R Electric LLC",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.681237,
+    37.420538,
+    -94.681237,
+    37.420538
+],
+  "geometry": {"coordinates":[-94.681237,37.420538],"type":"Point"}
+}

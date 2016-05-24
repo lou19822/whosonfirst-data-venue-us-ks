@@ -1,0 +1,73 @@
+{
+  "id": 840730975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.659977,39.090554,-95.659977,39.090554",
+    "geom:latitude":39.090554,
+    "geom:longitude":-95.659977,
+    "iso:country":"US",
+    "sg:address":"2138 N Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 4042",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oKrsSmA5fpIoa1MqQ7p4F_39.090554_-95.659977@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046723,
+    "wof:geomhash":"9a3b57247a704eba31bf78076ed36c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840730975
+        }
+    ],
+    "wof:id":840730975,
+    "wof:lastmodified":1464046723,
+    "wof:name":"Home Improvement Gallery",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -95.659977,
+    39.090554,
+    -95.659977,
+    39.090554
+],
+  "geometry": {"coordinates":[-95.659977,39.090554],"type":"Point"}
+}

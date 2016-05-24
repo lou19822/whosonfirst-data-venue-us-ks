@@ -1,0 +1,73 @@
+{
+  "id": 840709243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.208018,38.392948,-96.208018,38.392948",
+    "geom:latitude":38.392948,
+    "geom:longitude":-96.208018,
+    "iso:country":"US",
+    "sg:address":"401 S Prairie St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3990",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ub8hkJtmL6TodO5rW01Ka_38.392948_-96.208018@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046287,
+    "wof:geomhash":"4947d19b7902ddcbfd9eef4647f232d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840709243
+        }
+    ],
+    "wof:id":840709243,
+    "wof:lastmodified":1464046287,
+    "wof:name":"Scheller's Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -96.208018,
+    38.392948,
+    -96.208018,
+    38.392948
+],
+  "geometry": {"coordinates":[-96.208018,38.392948],"type":"Point"}
+}

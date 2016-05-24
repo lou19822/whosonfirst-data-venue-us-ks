@@ -1,0 +1,69 @@
+{
+  "id": 840615483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.683371,39.09081,-95.683371,39.09081",
+    "geom:latitude":39.09081,
+    "geom:longitude":-95.683371,
+    "iso:country":"US",
+    "sg:address":"901 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 4535",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "turbochargers"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B5EAoxdlU10ZRRE4JDiEE_39.090810_-95.683371@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044049,
+    "wof:geomhash":"5db9a02718ecc8d48100023ad82228df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840615483
+        }
+    ],
+    "wof:id":840615483,
+    "wof:lastmodified":1464044049,
+    "wof:name":"Injection & Turbo Control",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "turbochargers"
+    ]
+},
+  "bbox": [
+    -95.683371,
+    39.09081,
+    -95.683371,
+    39.09081
+],
+  "geometry": {"coordinates":[-95.68337099999999,39.09081],"type":"Point"}
+}

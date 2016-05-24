@@ -1,0 +1,71 @@
+{
+  "id": 840666613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.683371,39.09081,-95.683371,39.09081",
+    "geom:latitude":39.09081,
+    "geom:longitude":-95.683371,
+    "iso:country":"US",
+    "sg:address":"901 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 5500",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZolxBhvH2f2IsINq4ZLfI_39.090810_-95.683371@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045247,
+    "wof:geomhash":"5db9a02718ecc8d48100023ad82228df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840666613
+        }
+    ],
+    "wof:id":840666613,
+    "wof:lastmodified":1464045247,
+    "wof:name":"Rhino Linings Of Topeka",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -95.683371,
+    39.09081,
+    -95.683371,
+    39.09081
+],
+  "geometry": {"coordinates":[-95.68337099999999,39.09081],"type":"Point"}
+}

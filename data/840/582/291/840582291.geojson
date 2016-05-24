@@ -1,0 +1,75 @@
+{
+  "id": 840582291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687195,38.961054,-95.687195,38.961054",
+    "geom:latitude":38.961054,
+    "geom:longitude":-95.687195,
+    "iso:country":"US",
+    "sg:address":"5816 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 3335",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "billiard",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KRvlFAGn1U1D9P9OGatP8_38.961054_-95.687195@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043261,
+    "wof:geomhash":"4854c621ccabbca54640616ba958f104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840582291
+        }
+    ],
+    "wof:id":840582291,
+    "wof:lastmodified":1464043261,
+    "wof:name":"Billiard Supply Store",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "billiard",
+        "supply"
+    ]
+},
+  "bbox": [
+    -95.687195,
+    38.961054,
+    -95.687195,
+    38.961054
+],
+  "geometry": {"coordinates":[-95.687195,38.961054],"type":"Point"}
+}

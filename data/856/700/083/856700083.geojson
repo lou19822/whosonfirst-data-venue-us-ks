@@ -1,0 +1,74 @@
+{
+  "id": 856700083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704903,37.428734,-94.704903,37.428734",
+    "geom:latitude":37.428734,
+    "geom:longitude":-94.704903,
+    "iso:country":"US",
+    "sg:address":"2300 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0060",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "saving"
+    ],
+    "sg:website":"http://www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50kVfHxb5m203bFBYKbsDR_37.429207_-94.704893@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052057,
+    "wof:geomhash":"cb67e6f7126d542debdff3c95245dd69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856700083
+        }
+    ],
+    "wof:id":856700083,
+    "wof:lastmodified":1464052057,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "saving"
+    ]
+},
+  "bbox": [
+    -94.704903,
+    37.428734,
+    -94.704903,
+    37.428734
+],
+  "geometry": {"coordinates":[-94.704903,37.428734],"type":"Point"}
+}

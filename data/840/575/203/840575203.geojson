@@ -1,0 +1,71 @@
+{
+  "id": 840575203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.649355,38.971564,-95.649355,38.971564",
+    "geom:latitude":38.971564,
+    "geom:longitude":-95.649355,
+    "iso:country":"US",
+    "sg:address":"2149 SE 53rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 1623",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iwJUXLSV6GPAPmsUOl4Je_38.971564_-95.649355@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043107,
+    "wof:geomhash":"cd5224f23f7d72a1bb97c3b63876b70b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840575203
+        }
+    ],
+    "wof:id":840575203,
+    "wof:lastmodified":1464043107,
+    "wof:name":"Blind Made Products",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -95.649355,
+    38.971564,
+    -95.649355,
+    38.971564
+],
+  "geometry": {"coordinates":[-95.649355,38.971564],"type":"Point"}
+}

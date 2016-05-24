@@ -1,0 +1,71 @@
+{
+  "id": 840686843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667802,38.837301,-94.667802,38.837301",
+    "geom:latitude":38.837301,
+    "geom:longitude":-94.667802,
+    "iso:country":"US",
+    "sg:address":"16010 Metcalf Ave",
+    "sg:city":"Stilwell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 685 4000",
+    "sg:postcode":"66085",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lNPZTWv389Kp2IvzyHbnx_38.837301_-94.667802@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045748,
+    "wof:geomhash":"3f473abb2671e69bf727f9c0572e54a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840686843
+        }
+    ],
+    "wof:id":840686843,
+    "wof:lastmodified":1464045748,
+    "wof:name":"Sterling Financial & Realty",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -94.667802,
+    38.837301,
+    -94.667802,
+    38.837301
+],
+  "geometry": {"coordinates":[-94.66780199999999,38.837301],"type":"Point"}
+}

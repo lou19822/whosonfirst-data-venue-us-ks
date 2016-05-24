@@ -1,0 +1,74 @@
+{
+  "id": 856711751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704974,37.437768,-94.704974,37.437768",
+    "geom:latitude":37.437768,
+    "geom:longitude":-94.704974,
+    "iso:country":"US",
+    "sg:address":"3014 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/pittsburg/200401-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 2090",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SnoGbXOTexPDG2VZOfnDZ_37.437909_-94.704897@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052300,
+    "wof:geomhash":"a6bc4f231b0707d814bb32840ad08377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856711751
+        }
+    ],
+    "wof:id":856711751,
+    "wof:lastmodified":1464052300,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.704974,
+    37.437768,
+    -94.704974,
+    37.437768
+],
+  "geometry": {"coordinates":[-94.70497400000001,37.437768],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 840690761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.647156,38.929429,-94.647156,38.929429",
+    "geom:latitude":38.929429,
+    "geom:longitude":-94.647156,
+    "iso:country":"US",
+    "sg:address":"5454 W 110th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 345 6000",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "distance",
+        "local",
+        "long",
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pu844rwx8o55bt6CtU5aN_38.929429_-94.647156@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045832,
+    "wof:geomhash":"afcd36ebd61463bd1dc81864bd255b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840690761
+        }
+    ],
+    "wof:id":840690761,
+    "wof:lastmodified":1464045832,
+    "wof:name":"Sprint",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "local",
+        "long",
+        "communications"
+    ]
+},
+  "bbox": [
+    -94.647156,
+    38.929429,
+    -94.647156,
+    38.929429
+],
+  "geometry": {"coordinates":[-94.647156,38.929429],"type":"Point"}
+}

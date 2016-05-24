@@ -1,0 +1,77 @@
+{
+  "id": 840796721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.443746,37.659331,-97.443746,37.659331",
+    "geom:latitude":37.659331,
+    "geom:longitude":-97.443746,
+    "iso:country":"US",
+    "sg:address":"2142 S Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 3102",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "agency",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852945,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QntQ6RGRx4XhVVFWfs61O_37.659331_-97.443746@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048114,
+    "wof:geomhash":"4c7dc01aaaf8e544e0bd158b32fe09aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85852945,
+            "region_id":85688555,
+            "venue_id":840796721
+        }
+    ],
+    "wof:id":840796721,
+    "wof:lastmodified":1464048114,
+    "wof:name":"National Weather Svc",
+    "wof:parent_id":85852945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "government"
+    ]
+},
+  "bbox": [
+    -97.443746,
+    37.659331,
+    -97.443746,
+    37.659331
+],
+  "geometry": {"coordinates":[-97.443746,37.659331],"type":"Point"}
+}

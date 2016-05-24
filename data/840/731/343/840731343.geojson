@@ -1,0 +1,71 @@
+{
+  "id": 840731343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.672331,39.091217,-95.672331,39.091217",
+    "geom:latitude":39.091217,
+    "geom:longitude":-95.672331,
+    "iso:country":"US",
+    "sg:address":"704 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 5604",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44W2z01SVRoEaPdToZvuhB_39.091217_-95.672331@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046729,
+    "wof:geomhash":"f9d85d5f7fa1e203e6d8e1f625900986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840731343
+        }
+    ],
+    "wof:id":840731343,
+    "wof:lastmodified":1464046729,
+    "wof:name":"Heald Truck Body",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -95.672331,
+    39.091217,
+    -95.672331,
+    39.091217
+],
+  "geometry": {"coordinates":[-95.672331,39.091217],"type":"Point"}
+}

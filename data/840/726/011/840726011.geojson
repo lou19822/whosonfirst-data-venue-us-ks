@@ -1,0 +1,73 @@
+{
+  "id": 840726011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.049096,37.67957,-97.049096,37.67957",
+    "geom:latitude":37.67957,
+    "geom:longitude":-97.049096,
+    "iso:country":"US",
+    "sg:address":"11221 SW US Hwy 54",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 3913",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m9oGKqYFzomHUiNJ9zXnp_37.679570_-97.049096@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046637,
+    "wof:geomhash":"8191bd923bf471351902d218db3b9d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840726011
+        }
+    ],
+    "wof:id":840726011,
+    "wof:lastmodified":1464046637,
+    "wof:name":"APAC Kansas Inc",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.049096,
+    37.67957,
+    -97.049096,
+    37.67957
+],
+  "geometry": {"coordinates":[-97.04909600000001,37.67957],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840830099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.972227,37.703584,-96.972227,37.703584",
+    "geom:latitude":37.703584,
+    "geom:longitude":-96.972227,
+    "iso:country":"US",
+    "sg:address":"47 Angelina Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 5088",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "underground",
+        "trenching",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yzGTyvmHJ80TQyG0SKnOP_37.703584_-96.972227@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049009,
+    "wof:geomhash":"6c44d123f500b41789fb9cdfce553904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840830099
+        }
+    ],
+    "wof:id":840830099,
+    "wof:lastmodified":1464049009,
+    "wof:name":"Polytech Trenching & Svc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underground",
+        "trenching",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.972227,
+    37.703584,
+    -96.972227,
+    37.703584
+],
+  "geometry": {"coordinates":[-96.972227,37.703584],"type":"Point"}
+}

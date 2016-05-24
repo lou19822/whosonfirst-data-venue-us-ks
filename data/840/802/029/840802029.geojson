@@ -1,0 +1,79 @@
+{
+  "id": 840802029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.809831,38.86231,-94.809831,38.86231",
+    "geom:latitude":38.86231,
+    "geom:longitude":-94.809831,
+    "iso:country":"US",
+    "sg:address":"1310 S Enterprise Dr",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 397 7784",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JoK9FQGJyW4AoZvn4D9A3_38.862310_-94.809831@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048244,
+    "wof:geomhash":"44e7409d93e1a63a23ad194b3d8d1286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840802029
+        }
+    ],
+    "wof:id":840802029,
+    "wof:lastmodified":1464048244,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -94.809831,
+    38.86231,
+    -94.809831,
+    38.86231
+],
+  "geometry": {"coordinates":[-94.809831,38.86231],"type":"Point"}
+}

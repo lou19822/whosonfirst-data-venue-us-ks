@@ -1,0 +1,75 @@
+{
+  "id": 840854441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.678134,39.040416,-95.678134,39.040416",
+    "geom:latitude":39.040416,
+    "geom:longitude":-95.678134,
+    "iso:country":"US",
+    "sg:address":"1426 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 4708",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72Dr38I5vFiM5gUHt9wzgc_39.040416_-95.678134@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049533,
+    "wof:geomhash":"71f76404e1ad9372d81d1d4fb82d056d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840854441
+        }
+    ],
+    "wof:id":840854441,
+    "wof:lastmodified":1464049533,
+    "wof:name":"Dean's Books",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.678134,
+    39.040416,
+    -95.678134,
+    39.040416
+],
+  "geometry": {"coordinates":[-95.678134,39.040416],"type":"Point"}
+}

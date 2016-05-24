@@ -1,0 +1,79 @@
+{
+  "id": 840603403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.593454,38.947951,-94.593454,38.947951",
+    "geom:latitude":38.947951,
+    "geom:longitude":-94.593454,
+    "iso:country":"US",
+    "sg:address":"210 W 99 Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 941 7919",
+    "sg:postcode":"64114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871953,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KwhOEGUDOdlOmAUQKXPfd_38.947951_-94.593454@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043742,
+    "wof:geomhash":"dfa2a55c337b9c9ca9e7c45061dd194f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871953,
+            "region_id":85688661,
+            "venue_id":840603403
+        }
+    ],
+    "wof:id":840603403,
+    "wof:lastmodified":1464043742,
+    "wof:name":"Shonuff Trucking LLC",
+    "wof:parent_id":85871953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.593454,
+    38.947951,
+    -94.593454,
+    38.947951
+],
+  "geometry": {"coordinates":[-94.59345399999999,38.947951],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840955241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.721726,37.411288,-94.721726,37.411288",
+    "geom:latitude":37.411288,
+    "geom:longitude":-94.721726,
+    "iso:country":"US",
+    "sg:address":"1008 W 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 9550",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HHaJ4IgAdIti1MtdR4Djx_37.411288_-94.721726@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051748,
+    "wof:geomhash":"deac098674be571d81e14a59faff6715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840955241
+        }
+    ],
+    "wof:id":840955241,
+    "wof:lastmodified":1464051748,
+    "wof:name":"Probation & Parole Ofc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -94.721726,
+    37.411288,
+    -94.721726,
+    37.411288
+],
+  "geometry": {"coordinates":[-94.721726,37.411288],"type":"Point"}
+}

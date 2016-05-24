@@ -1,0 +1,75 @@
+{
+  "id": 840625879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849463,37.824874,-96.849463,37.824874",
+    "geom:latitude":37.824874,
+    "geom:longitude":-96.849463,
+    "iso:country":"US",
+    "sg:address":"127 E 6th Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 322 7910",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hot",
+        "hamburger",
+        "dog",
+        "stand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JVYWs0h9Rb1kvzbTJQpz2_37.824874_-96.849463@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044320,
+    "wof:geomhash":"da6b81b612c075b95406840b65d731ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840625879
+        }
+    ],
+    "wof:id":840625879,
+    "wof:lastmodified":1464044320,
+    "wof:name":"Double D's",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hot",
+        "hamburger",
+        "dog",
+        "stand"
+    ]
+},
+  "bbox": [
+    -96.849463,
+    37.824874,
+    -96.849463,
+    37.824874
+],
+  "geometry": {"coordinates":[-96.849463,37.824874],"type":"Point"}
+}

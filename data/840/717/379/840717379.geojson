@@ -1,0 +1,66 @@
+{
+  "id": 840717379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.460858,37.722671,-97.460858,37.722671",
+    "geom:latitude":37.722671,
+    "geom:longitude":-97.460858,
+    "iso:country":"US",
+    "sg:address":"10221 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 2266",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1In06tCz0oof3FRTjqoBN9_37.722671_-97.460858@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046447,
+    "wof:geomhash":"538a50dc5db2461437b6e6c17ebab2a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840717379
+        }
+    ],
+    "wof:id":840717379,
+    "wof:lastmodified":1464046447,
+    "wof:name":"Jacob Liquor Exchange II",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.460858,
+    37.722671,
+    -97.460858,
+    37.722671
+],
+  "geometry": {"coordinates":[-97.460858,37.722671],"type":"Point"}
+}

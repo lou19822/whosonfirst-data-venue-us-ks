@@ -1,0 +1,71 @@
+{
+  "id": 840731655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.675462,39.084367,-95.675462,39.084367",
+    "geom:latitude":39.084367,
+    "geom:longitude":-95.675462,
+    "iso:country":"US",
+    "sg:address":"1906 NW Taylor St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 9031",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CdxEaPRaemO7NinwfK7W5_39.084367_-95.675462@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046734,
+    "wof:geomhash":"d50aa1c83e48b4eaef88666782a9794b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840731655
+        }
+    ],
+    "wof:id":840731655,
+    "wof:lastmodified":1464046734,
+    "wof:name":"Golden Goat Recycling",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -95.675462,
+    39.084367,
+    -95.675462,
+    39.084367
+],
+  "geometry": {"coordinates":[-95.675462,39.084367],"type":"Point"}
+}

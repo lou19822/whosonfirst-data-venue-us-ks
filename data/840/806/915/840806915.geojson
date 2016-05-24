@@ -1,0 +1,70 @@
+{
+  "id": 840806915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.301583,37.69369,-97.301583,37.69369",
+    "geom:latitude":37.69369,
+    "geom:longitude":-97.301583,
+    "iso:country":"US",
+    "sg:address":"2900 E Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 686 2500",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FbItD6yEC8nnTJJVS4o9N_37.693690_-97.301583@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048337,
+    "wof:geomhash":"7a64b6d1177ba3324a4712fb8c4596ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840806915
+        }
+    ],
+    "wof:id":840806915,
+    "wof:lastmodified":1464048337,
+    "wof:name":"Central Food Mart",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.301583,
+    37.69369,
+    -97.301583,
+    37.69369
+],
+  "geometry": {"coordinates":[-97.30158299999999,37.69369],"type":"Point"}
+}

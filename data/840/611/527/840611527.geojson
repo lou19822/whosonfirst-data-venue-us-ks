@@ -1,0 +1,73 @@
+{
+  "id": 840611527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.374108,37.65669,-97.374108,37.65669",
+    "geom:latitude":37.65669,
+    "geom:longitude":-97.374108,
+    "iso:country":"US",
+    "sg:address":"2055 S Edwards St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 9433",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7biu9lyS3FiOtF6lhrzwgN_37.656690_-97.374108@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043955,
+    "wof:geomhash":"c0f4e1569121ba143b9ff899f801baf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840611527
+        }
+    ],
+    "wof:id":840611527,
+    "wof:lastmodified":1464043955,
+    "wof:name":"Ast Masonry",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.374108,
+    37.65669,
+    -97.374108,
+    37.65669
+],
+  "geometry": {"coordinates":[-97.37410800000001,37.65669],"type":"Point"}
+}

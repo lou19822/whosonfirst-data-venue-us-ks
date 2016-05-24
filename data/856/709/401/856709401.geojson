@@ -1,0 +1,72 @@
+{
+  "id": 856709401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352647,37.649407,-97.352647,37.649407",
+    "geom:latitude":37.649407,
+    "geom:longitude":-97.352647,
+    "iso:country":"US",
+    "sg:address":"2525 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/118889-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 2754",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FF7jLs7k5Z7uGZlEUc5Ea_37.649407_-97.352647@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052254,
+    "wof:geomhash":"a4526ec59b95c6897efeec740755ac4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":856709401
+        }
+    ],
+    "wof:id":856709401,
+    "wof:lastmodified":1464052254,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -97.352647,
+    37.649407,
+    -97.352647,
+    37.649407
+],
+  "geometry": {"coordinates":[-97.352647,37.649407],"type":"Point"}
+}

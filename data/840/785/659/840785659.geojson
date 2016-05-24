@@ -1,0 +1,71 @@
+{
+  "id": 840785659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135339,37.650245,-97.135339,37.650245",
+    "geom:latitude":37.650245,
+    "geom:longitude":-97.135339,
+    "iso:country":"US",
+    "sg:address":"12183 SW Butler Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 9945",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64oqAcfARal1JgrHQzkL6C_37.650245_-97.135339@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047893,
+    "wof:geomhash":"1ff79d258c1d6382897dde5cad31bbe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840785659
+        }
+    ],
+    "wof:id":840785659,
+    "wof:lastmodified":1464047893,
+    "wof:name":"Remington Coach",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus"
+    ]
+},
+  "bbox": [
+    -97.135339,
+    37.650245,
+    -97.135339,
+    37.650245
+],
+  "geometry": {"coordinates":[-97.135339,37.650245],"type":"Point"}
+}

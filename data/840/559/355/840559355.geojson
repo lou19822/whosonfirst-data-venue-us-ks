@@ -1,0 +1,71 @@
+{
+  "id": 840559355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.271485,37.547636,-97.271485,37.547636",
+    "geom:latitude":37.547636,
+    "geom:longitude":-97.271485,
+    "iso:country":"US",
+    "sg:address":"503 N Buckner St",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 7563",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28ROTduT5ftNZPn4CzXQoR_37.547636_-97.271485@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042717,
+    "wof:geomhash":"85aac1c78d2b31f97ed910e81e566590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840559355
+        }
+    ],
+    "wof:id":840559355,
+    "wof:lastmodified":1464042717,
+    "wof:name":"Stonetree Enterprise",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.271485,
+    37.547636,
+    -97.271485,
+    37.547636
+],
+  "geometry": {"coordinates":[-97.271485,37.547636],"type":"Point"}
+}

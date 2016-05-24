@@ -1,0 +1,71 @@
+{
+  "id": 840892585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180056,38.407262,-96.180056,38.407262",
+    "geom:latitude":38.407262,
+    "geom:longitude":-96.180056,
+    "iso:country":"US",
+    "sg:address":"710 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6643",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YuBaIncdyqmhJceUugWqL_38.407262_-96.180056@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050336,
+    "wof:geomhash":"e35c51868ec80469f1f31acfe8a207ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840892585
+        }
+    ],
+    "wof:id":840892585,
+    "wof:lastmodified":1464050336,
+    "wof:name":"Stephen W Jones DDS",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.180056,
+    38.407262,
+    -96.180056,
+    38.407262
+],
+  "geometry": {"coordinates":[-96.18005599999999,38.407262],"type":"Point"}
+}

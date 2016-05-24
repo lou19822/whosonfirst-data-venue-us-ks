@@ -1,0 +1,77 @@
+{
+  "id": 840850671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704651,39.020804,-94.704651,39.020804",
+    "geom:latitude":39.020804,
+    "geom:longitude":-94.704651,
+    "iso:country":"US",
+    "sg:address":"10100 W 59th Ter",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 6104",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Uat4I8viEDHPHBaO3Tc00_39.020804_-94.704651@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049454,
+    "wof:geomhash":"146b550f109429e980a8e7366580c595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":840850671
+        }
+    ],
+    "wof:id":840850671,
+    "wof:lastmodified":1464049454,
+    "wof:name":"Blair Lock Pro",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -94.704651,
+    39.020804,
+    -94.704651,
+    39.020804
+],
+  "geometry": {"coordinates":[-94.704651,39.020804],"type":"Point"}
+}

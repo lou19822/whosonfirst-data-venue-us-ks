@@ -1,0 +1,77 @@
+{
+  "id": 840916673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.611806,39.056219,-94.611806,39.056219",
+    "geom:latitude":39.056219,
+    "geom:longitude":-94.611806,
+    "iso:country":"US",
+    "sg:address":"3901 Rainbow Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 588 5900",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871981,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JE6dvgapViF7Ja4dn75Wg_39.056219_-94.611806@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050928,
+    "wof:geomhash":"bc95e476c065290925df17f657b11bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85871981,
+            "region_id":85688555,
+            "venue_id":840916673
+        }
+    ],
+    "wof:id":840916673,
+    "wof:lastmodified":1464050928,
+    "wof:name":"Developmental Disability Ctr",
+    "wof:parent_id":85871981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.611806,
+    39.056219,
+    -94.611806,
+    39.056219
+],
+  "geometry": {"coordinates":[-94.611806,39.056219],"type":"Point"}
+}

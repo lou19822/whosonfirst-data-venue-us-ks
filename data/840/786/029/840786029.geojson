@@ -1,0 +1,71 @@
+{
+  "id": 840786029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.660069,39.087697,-95.660069,39.087697",
+    "geom:latitude":39.087697,
+    "geom:longitude":-95.660069,
+    "iso:country":"US",
+    "sg:address":"2023 N Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 2338",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_110SIHcvb0pgF8sZataa4U_39.087697_-95.660069@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047901,
+    "wof:geomhash":"42fa26253f0507b0b708f03ad767cb6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840786029
+        }
+    ],
+    "wof:id":840786029,
+    "wof:lastmodified":1464047901,
+    "wof:name":"Northside Transmission",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -95.660069,
+    39.087697,
+    -95.660069,
+    39.087697
+],
+  "geometry": {"coordinates":[-95.66006899999999,39.087697],"type":"Point"}
+}

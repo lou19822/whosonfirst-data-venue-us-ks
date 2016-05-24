@@ -1,0 +1,76 @@
+{
+  "id": 840945647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.740154,38.9275,-94.740154,38.9275",
+    "geom:latitude":38.9275,
+    "geom:longitude":-94.740154,
+    "iso:country":"US",
+    "sg:address":"13404 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 491 5252",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.minskys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xzE4AmqSGEcDV9WWtHNRY_38.927500_-94.740154@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051564,
+    "wof:geomhash":"47f0316875b1e56a9dded2e1485b7fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840945647
+        }
+    ],
+    "wof:id":840945647,
+    "wof:lastmodified":1464051564,
+    "wof:name":"Minsky's Pizza",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.740154,
+    38.9275,
+    -94.740154,
+    38.9275
+],
+  "geometry": {"coordinates":[-94.740154,38.9275],"type":"Point"}
+}

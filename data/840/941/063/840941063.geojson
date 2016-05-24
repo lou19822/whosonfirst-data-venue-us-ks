@@ -1,0 +1,78 @@
+{
+  "id": 840941063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.326649,37.697659,-97.326649,37.697659",
+    "geom:latitude":37.697659,
+    "geom:longitude":-97.326649,
+    "iso:country":"US",
+    "sg:address":"810 E Murdock St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 8005",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "sg:website":"www.cardinal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872805,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wiq2tsphEYTNfYJ8dkijI_37.697659_-97.326649@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051469,
+    "wof:geomhash":"80c3e14ac3dda20391dacfe6d3ddf735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872805,
+            "region_id":85688555,
+            "venue_id":840941063
+        }
+    ],
+    "wof:id":840941063,
+    "wof:lastmodified":1464051469,
+    "wof:name":"Cardinal Health",
+    "wof:parent_id":85872805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    -97.326649,
+    37.697659,
+    -97.326649,
+    37.697659
+],
+  "geometry": {"coordinates":[-97.326649,37.697659],"type":"Point"}
+}

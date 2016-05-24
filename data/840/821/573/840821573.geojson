@@ -1,0 +1,73 @@
+{
+  "id": 840821573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705004,37.410975,-94.705004,37.410975",
+    "geom:latitude":37.410975,
+    "geom:longitude":-94.705004,
+    "iso:country":"US",
+    "sg:address":"117 W 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1212",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "information",
+        "tourist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58tXjZw1L7Clryq5AfRqQd_37.410975_-94.705004@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048795,
+    "wof:geomhash":"df0519261ada9811a3dfc5e260ae6e68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840821573
+        }
+    ],
+    "wof:id":840821573,
+    "wof:lastmodified":1464048795,
+    "wof:name":"Crawford County Convention",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "tourist"
+    ]
+},
+  "bbox": [
+    -94.705004,
+    37.410975,
+    -94.705004,
+    37.410975
+],
+  "geometry": {"coordinates":[-94.705004,37.410975],"type":"Point"}
+}

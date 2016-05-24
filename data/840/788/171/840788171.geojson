@@ -1,0 +1,75 @@
+{
+  "id": 840788171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.650807,39.144547,-94.650807,39.144547",
+    "geom:latitude":39.144547,
+    "geom:longitude":-94.650807,
+    "iso:country":"US",
+    "sg:address":"3223 N 18 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 321 5100",
+    "sg:postcode":"66104",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878503,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TDU8GSJPZQVsvpeHbAtrY_39.144547_-94.650807@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047940,
+    "wof:geomhash":"44375e6af7d40d2faf90e13f5f80db80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878503,
+            "region_id":85688555,
+            "venue_id":840788171
+        }
+    ],
+    "wof:id":840788171,
+    "wof:lastmodified":1464047940,
+    "wof:name":"Memorial Park Cemetery",
+    "wof:parent_id":85878503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -94.650807,
+    39.144547,
+    -94.650807,
+    39.144547
+],
+  "geometry": {"coordinates":[-94.650807,39.144547],"type":"Point"}
+}

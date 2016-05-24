@@ -1,0 +1,71 @@
+{
+  "id": 840827743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389704,37.699959,-97.389704,37.699959",
+    "geom:latitude":37.699959,
+    "geom:longitude":-97.389704,
+    "iso:country":"US",
+    "sg:address":"817 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 4541",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eD7m6EMI4gVgPB8cURocm_37.699959_-97.389704@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048957,
+    "wof:geomhash":"663d7477c297a6b00ffade42d1d02d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840827743
+        }
+    ],
+    "wof:id":840827743,
+    "wof:lastmodified":1464048957,
+    "wof:name":"Friend's Club",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -97.389704,
+    37.699959,
+    -97.389704,
+    37.699959
+],
+  "geometry": {"coordinates":[-97.38970399999999,37.699959],"type":"Point"}
+}

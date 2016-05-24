@@ -1,0 +1,71 @@
+{
+  "id": 840768873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.317185,37.664442,-97.317185,37.664442",
+    "geom:latitude":37.664442,
+    "geom:longitude":-97.317185,
+    "iso:country":"US",
+    "sg:address":"1601 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 0082",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32qMl90Ay7awHrpgVxLGXg_37.664442_-97.317185@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047549,
+    "wof:geomhash":"ad39f4f0fc0c290778ec0d540401cb49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840768873
+        }
+    ],
+    "wof:id":840768873,
+    "wof:lastmodified":1464047549,
+    "wof:name":"Armstrong Land Survey",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -97.317185,
+    37.664442,
+    -97.317185,
+    37.664442
+],
+  "geometry": {"coordinates":[-97.31718499999999,37.664442],"type":"Point"}
+}

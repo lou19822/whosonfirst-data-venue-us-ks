@@ -1,0 +1,88 @@
+{
+  "id": 856704707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.644722,39.082249,-94.644722,39.082249",
+    "geom:latitude":39.082249,
+    "geom:longitude":-94.644722,
+    "iso:country":"US",
+    "sg:address":"1399 Pennsylvania Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/44683-california-pizza-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 561 2420",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pasta",
+        "californian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878487,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qkuGJznkxniPVsmTCA1Du_39.082249_-94.644722@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052165,
+    "wof:geomhash":"91cc9bac463cf630d148a11d640a6abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878487,
+            "region_id":85688555,
+            "venue_id":856704707
+        }
+    ],
+    "wof:id":856704707,
+    "wof:lastmodified":1464052165,
+    "wof:name":"California Pizza Kitchen",
+    "wof:parent_id":85878487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pasta",
+        "californian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.644722,
+    39.082249,
+    -94.644722,
+    39.082249
+],
+  "geometry": {"coordinates":[-94.644722,39.082249],"type":"Point"}
+}

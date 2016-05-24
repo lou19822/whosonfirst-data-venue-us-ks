@@ -1,0 +1,71 @@
+{
+  "id": 840935155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.697582,37.41303,-94.697582,37.41303",
+    "geom:latitude":37.41303,
+    "geom:longitude":-94.697582,
+    "iso:country":"US",
+    "sg:address":"504 N Smelter St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1520",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gEsqEBDVipc2hodpH7cEQ_37.413030_-94.697582@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051348,
+    "wof:geomhash":"37aebf793f6da81c9f8a56551d87aaf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840935155
+        }
+    ],
+    "wof:id":840935155,
+    "wof:lastmodified":1464051348,
+    "wof:name":"American Concrete Co",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    -94.697582,
+    37.41303,
+    -94.697582,
+    37.41303
+],
+  "geometry": {"coordinates":[-94.697582,37.41303],"type":"Point"}
+}

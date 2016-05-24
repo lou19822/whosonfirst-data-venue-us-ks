@@ -1,0 +1,71 @@
+{
+  "id": 840712107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.655376,39.129296,-95.655376,39.129296",
+    "geom:latitude":39.129296,
+    "geom:longitude":-95.655376,
+    "iso:country":"US",
+    "sg:address":"125 NE 46th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0262",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h4sNfvUARkYItg5J14oKE_39.129296_-95.655376@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046343,
+    "wof:geomhash":"4443e5260e8b884017e9774ef85a372b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840712107
+        }
+    ],
+    "wof:id":840712107,
+    "wof:lastmodified":1464046343,
+    "wof:name":"Public Works District Shop",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.655376,
+    39.129296,
+    -95.655376,
+    39.129296
+],
+  "geometry": {"coordinates":[-95.655376,39.129296],"type":"Point"}
+}

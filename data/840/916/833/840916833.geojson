@@ -1,0 +1,73 @@
+{
+  "id": 840916833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.195079,38.405123,-96.195079,38.405123",
+    "geom:latitude":38.405123,
+    "geom:longitude":-96.195079,
+    "iso:country":"US",
+    "sg:address":"1110 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6568",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qGSvoTSz5QBjamIwABMfi_38.405123_-96.195079@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050931,
+    "wof:geomhash":"01923600b2dee00303380cd47415688b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840916833
+        }
+    ],
+    "wof:id":840916833,
+    "wof:lastmodified":1464050931,
+    "wof:name":"Jackson Hewitt Tax Svc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -96.195079,
+    38.405123,
+    -96.195079,
+    38.405123
+],
+  "geometry": {"coordinates":[-96.19507900000001,38.405123],"type":"Point"}
+}

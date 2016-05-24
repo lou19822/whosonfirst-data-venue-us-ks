@@ -1,0 +1,78 @@
+{
+  "id": 856705323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.664305,38.91446,-94.664305,38.91446",
+    "geom:latitude":38.91446,
+    "geom:longitude":-94.664305,
+    "iso:country":"US",
+    "sg:address":"11701 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/186687-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 661 1680",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QZD4KgWAJkzp2n9r3YB0e_38.914460_-94.664305@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052175,
+    "wof:geomhash":"5e0c0f77955c48cea18cbcde49ff56fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":856705323
+        }
+    ],
+    "wof:id":856705323,
+    "wof:lastmodified":1464052175,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.664305,
+    38.91446,
+    -94.664305,
+    38.91446
+],
+  "geometry": {"coordinates":[-94.664305,38.91446],"type":"Point"}
+}

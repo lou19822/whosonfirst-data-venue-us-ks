@@ -1,0 +1,71 @@
+{
+  "id": 840643087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.235479,38.40601,-96.235479,38.40601",
+    "geom:latitude":38.40601,
+    "geom:longitude":-96.235479,
+    "iso:country":"US",
+    "sg:address":"700 Overlander St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2105",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1czPIcL9ysei82y2yxgq8Y_38.406010_-96.235479@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044741,
+    "wof:geomhash":"f71d7765c73f2663d406c5ffa401105e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840643087
+        }
+    ],
+    "wof:id":840643087,
+    "wof:lastmodified":1464044741,
+    "wof:name":"Kansas Motor Freight Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.235479,
+    38.40601,
+    -96.235479,
+    38.40601
+],
+  "geometry": {"coordinates":[-96.235479,38.40601],"type":"Point"}
+}

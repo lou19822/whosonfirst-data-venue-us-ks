@@ -1,0 +1,71 @@
+{
+  "id": 840534223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.313396,37.659358,-97.313396,37.659358",
+    "geom:latitude":37.659358,
+    "geom:longitude":-97.313396,
+    "iso:country":"US",
+    "sg:address":"1901 S Kansas St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 337 9191",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TUmccNHqVe4aBU5BIByJb_37.659358_-97.313396@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042078,
+    "wof:geomhash":"6d083c0693a9f45d4514e8b2e2d00f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840534223
+        }
+    ],
+    "wof:id":840534223,
+    "wof:lastmodified":1464042078,
+    "wof:name":"Linwood Recreation Ctr",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -97.313396,
+    37.659358,
+    -97.313396,
+    37.659358
+],
+  "geometry": {"coordinates":[-97.313396,37.659358],"type":"Point"}
+}

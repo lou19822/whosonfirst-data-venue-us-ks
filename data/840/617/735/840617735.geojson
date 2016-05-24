@@ -1,0 +1,66 @@
+{
+  "id": 840617735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.087345,39.109168,-95.087345,39.109168",
+    "geom:latitude":39.109168,
+    "geom:longitude":-95.087345,
+    "iso:country":"US",
+    "sg:address":"528 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2200",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01VeIj5SX3cwbExGgO00Xv_39.109168_-95.087345@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044113,
+    "wof:geomhash":"ca1483d02fd5b2fcf95fe8995a98897c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840617735
+        }
+    ],
+    "wof:id":840617735,
+    "wof:lastmodified":1464044113,
+    "wof:name":"Village Floral",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.087345,
+    39.109168,
+    -95.087345,
+    39.109168
+],
+  "geometry": {"coordinates":[-95.087345,39.109168],"type":"Point"}
+}

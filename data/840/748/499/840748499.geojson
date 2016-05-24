@@ -1,0 +1,76 @@
+{
+  "id": 840748499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.73286,38.96277,-94.73286,38.96277",
+    "geom:latitude":38.96277,
+    "geom:longitude":-94.73286,
+    "iso:country":"US",
+    "sg:address":"9125 Rosehill Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 894 5201",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "sg:website":"www.santafetowservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h8MjTjUZiAeVegX7NEeAN_38.962770_-94.732860@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047059,
+    "wof:geomhash":"e5b97399d107666e4f96405182d5c22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840748499
+        }
+    ],
+    "wof:id":840748499,
+    "wof:lastmodified":1464047059,
+    "wof:name":"Santa Fe Tow Svc",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.73286,
+    38.96277,
+    -94.73286,
+    38.96277
+],
+  "geometry": {"coordinates":[-94.73286,38.96277],"type":"Point"}
+}

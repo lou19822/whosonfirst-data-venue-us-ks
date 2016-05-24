@@ -1,0 +1,73 @@
+{
+  "id": 840744669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.698556,37.380302,-94.698556,37.380302",
+    "geom:latitude":37.380302,
+    "geom:longitude":-94.698556,
+    "iso:country":"US",
+    "sg:address":"2602 Omaha St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 6365",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48MPw68mITe4o1s7A3cmMl_37.380302_-94.698556@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046982,
+    "wof:geomhash":"f8252fa1780e92b2cdfb106f9b11ac1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840744669
+        }
+    ],
+    "wof:id":840744669,
+    "wof:lastmodified":1464046982,
+    "wof:name":"Avon",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -94.698556,
+    37.380302,
+    -94.698556,
+    37.380302
+],
+  "geometry": {"coordinates":[-94.698556,37.380302],"type":"Point"}
+}

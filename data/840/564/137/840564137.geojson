@@ -1,0 +1,73 @@
+{
+  "id": 840564137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.166429,38.401405,-96.166429,38.401405",
+    "geom:latitude":38.401405,
+    "geom:longitude":-96.166429,
+    "iso:country":"US",
+    "sg:address":"311 Peyton St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7200",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qaGp6JKFQL2WQYwyXeLp2_38.401405_-96.166429@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042827,
+    "wof:geomhash":"de1c3f9ff4cd02037ff52febcac223df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840564137
+        }
+    ],
+    "wof:id":840564137,
+    "wof:lastmodified":1464042827,
+    "wof:name":"S R Coffman Construction Inc",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.166429,
+    38.401405,
+    -96.166429,
+    38.401405
+],
+  "geometry": {"coordinates":[-96.16642899999999,38.401405],"type":"Point"}
+}

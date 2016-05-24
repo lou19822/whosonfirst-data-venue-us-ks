@@ -1,0 +1,71 @@
+{
+  "id": 840704599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.07802,39.101877,-95.07802,39.101877",
+    "geom:latitude":39.101877,
+    "geom:longitude":-95.07802,
+    "iso:country":"US",
+    "sg:address":"204 Washington St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2821",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nkuRZZRuS08L0BH7KRQNB_39.101877_-95.078020@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046194,
+    "wof:geomhash":"3c935aace48360eab4298f36893ed05c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840704599
+        }
+    ],
+    "wof:id":840704599,
+    "wof:lastmodified":1464046194,
+    "wof:name":"Tonganoxie Christian Church",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.07802,
+    39.101877,
+    -95.07802,
+    39.101877
+],
+  "geometry": {"coordinates":[-95.07802,39.101877],"type":"Point"}
+}

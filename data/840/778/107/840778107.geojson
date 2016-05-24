@@ -1,0 +1,71 @@
+{
+  "id": 840778107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.585734,39.029512,-95.585734,39.029512",
+    "geom:latitude":39.029512,
+    "geom:longitude":-95.585734,
+    "iso:country":"US",
+    "sg:address":"2642 SE Tecumseh Rd",
+    "sg:city":"Tecumseh",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 379 5346",
+    "sg:postcode":"66542",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5raSGYgwMfCPWjQQNANWgl_39.029512_-95.585734@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047721,
+    "wof:geomhash":"2126f7342384812cf6900aca66eb0ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840778107
+        }
+    ],
+    "wof:id":840778107,
+    "wof:lastmodified":1464047721,
+    "wof:name":"Midwest Trenching Svc",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.585734,
+    39.029512,
+    -95.585734,
+    39.029512
+],
+  "geometry": {"coordinates":[-95.585734,39.029512],"type":"Point"}
+}

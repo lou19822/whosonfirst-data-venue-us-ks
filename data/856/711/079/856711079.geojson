@@ -1,0 +1,87 @@
+{
+  "id": 856711079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686487,39.051368,-94.686487,39.051368",
+    "geom:latitude":39.051368,
+    "geom:longitude":-94.686487,
+    "iso:country":"US",
+    "sg:address":"2815 S 47th St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/161362-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 677 9915",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852833,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wk5uqzEZKrSReV4EO0vEn_39.051345_-94.686542@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052288,
+    "wof:geomhash":"0c11d3ca6922d33272a3dd7d76caa524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85852833,
+            "region_id":85688555,
+            "venue_id":856711079
+        }
+    ],
+    "wof:id":856711079,
+    "wof:lastmodified":1464052288,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85852833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -94.686487,
+    39.051368,
+    -94.686487,
+    39.051368
+],
+  "geometry": {"coordinates":[-94.686487,39.051368],"type":"Point"}
+}

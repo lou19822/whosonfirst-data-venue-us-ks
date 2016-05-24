@@ -1,0 +1,71 @@
+{
+  "id": 840601219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180025,38.411051,-96.180025,38.411051",
+    "geom:latitude":38.411051,
+    "geom:longitude":-96.180025,
+    "iso:country":"US",
+    "sg:address":"1002 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9842",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PRTEKqTVgBOyMAXoU9pc3_38.411051_-96.180025@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043685,
+    "wof:geomhash":"835e6b44fffe1a146a41a111e7e62da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840601219
+        }
+    ],
+    "wof:id":840601219,
+    "wof:lastmodified":1464043685,
+    "wof:name":"Emergency Cash & Loans",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -96.180025,
+    38.411051,
+    -96.180025,
+    38.411051
+],
+  "geometry": {"coordinates":[-96.180025,38.411051],"type":"Point"}
+}

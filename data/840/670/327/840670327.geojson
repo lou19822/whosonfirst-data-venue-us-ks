@@ -1,0 +1,71 @@
+{
+  "id": 840670327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.605378,39.006407,-95.605378,39.006407",
+    "geom:latitude":39.006407,
+    "geom:longitude":-95.605378,
+    "iso:country":"US",
+    "sg:address":"3927 SE 34th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 9673",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zMDjvBxuAy2hBoLDStrJd_39.006407_-95.605378@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045316,
+    "wof:geomhash":"990f4cd6560fa8973c443a8dbcc3f55b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840670327
+        }
+    ],
+    "wof:id":840670327,
+    "wof:lastmodified":1464045316,
+    "wof:name":"Market Truck Line Inc",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.605378,
+    39.006407,
+    -95.605378,
+    39.006407
+],
+  "geometry": {"coordinates":[-95.605378,39.006407],"type":"Point"}
+}

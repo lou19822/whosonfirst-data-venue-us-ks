@@ -1,0 +1,71 @@
+{
+  "id": 840634171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.168704,38.405221,-96.168704,38.405221",
+    "geom:latitude":38.405221,
+    "geom:longitude":-96.168704,
+    "iso:country":"US",
+    "sg:address":"621 Lakeview St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1124",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46mNz6yHPeoAKVO8zyer79_38.405221_-96.168704@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044545,
+    "wof:geomhash":"69702c75fbae20b81c6c30b06fa6ea2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840634171
+        }
+    ],
+    "wof:id":840634171,
+    "wof:lastmodified":1464044545,
+    "wof:name":"Lakeview Mobile Home Park",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -96.168704,
+    38.405221,
+    -96.168704,
+    38.405221
+],
+  "geometry": {"coordinates":[-96.16870400000001,38.405221],"type":"Point"}
+}

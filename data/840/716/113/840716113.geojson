@@ -1,0 +1,71 @@
+{
+  "id": 840716113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335635,37.649644,-97.335635,37.649644",
+    "geom:latitude":37.649644,
+    "geom:longitude":-97.335635,
+    "iso:country":"US",
+    "sg:address":"211 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 337 9200",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tIg5uhLQUmnq1mA4t7VvD_37.649644_-97.335635@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046422,
+    "wof:geomhash":"483073f5b7d04a34edb8b0e435f3af2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840716113
+        }
+    ],
+    "wof:id":840716113,
+    "wof:lastmodified":1464046422,
+    "wof:name":"Wichita Police Dept Patrol S",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -97.335635,
+    37.649644,
+    -97.335635,
+    37.649644
+],
+  "geometry": {"coordinates":[-97.335635,37.649644],"type":"Point"}
+}

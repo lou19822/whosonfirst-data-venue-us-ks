@@ -1,0 +1,71 @@
+{
+  "id": 840627429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.70503,37.394368,-94.70503,37.394368",
+    "geom:latitude":37.394368,
+    "geom:longitude":-94.70503,
+    "iso:country":"US",
+    "sg:address":"1402 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1312",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t8Xyvg4sxavm3rGlA9fhc_37.394368_-94.705030@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044365,
+    "wof:geomhash":"99fbc14c2b339b055675ad0a2093335e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840627429
+        }
+    ],
+    "wof:id":840627429,
+    "wof:lastmodified":1464044365,
+    "wof:name":"B JS Salon",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.70503,
+    37.394368,
+    -94.70503,
+    37.394368
+],
+  "geometry": {"coordinates":[-94.70502999999999,37.394368],"type":"Point"}
+}

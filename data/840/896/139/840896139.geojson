@@ -1,0 +1,71 @@
+{
+  "id": 840896139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.183415,38.418359,-96.183415,38.418359",
+    "geom:latitude":38.418359,
+    "geom:longitude":-96.183415,
+    "iso:country":"US",
+    "sg:address":"1622 Center St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4435",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7egxJviasGDoU99eaA1ime_38.418359_-96.183415@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050408,
+    "wof:geomhash":"e4485a71f48157b8a0143dd9b290c2c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840896139
+        }
+    ],
+    "wof:id":840896139,
+    "wof:lastmodified":1464050408,
+    "wof:name":"Parkview Apartments",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.183415,
+    38.418359,
+    -96.183415,
+    38.418359
+],
+  "geometry": {"coordinates":[-96.183415,38.418359],"type":"Point"}
+}

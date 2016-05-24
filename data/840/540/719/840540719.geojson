@@ -1,0 +1,73 @@
+{
+  "id": 840540719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.70174,37.410117,-94.70174,37.410117",
+    "geom:latitude":37.410117,
+    "geom:longitude":-94.70174,
+    "iso:country":"US",
+    "sg:address":"307 E 3rd St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 3180",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NmIF7GSVBkJnTsiJQmo8D_37.410117_-94.701740@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042242,
+    "wof:geomhash":"c3410437d3aed6e55af3b44b9a20cc25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840540719
+        }
+    ],
+    "wof:id":840540719,
+    "wof:lastmodified":1464042242,
+    "wof:name":"L & L Auto",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.70174,
+    37.410117,
+    -94.70174,
+    37.410117
+],
+  "geometry": {"coordinates":[-94.70174,37.410117],"type":"Point"}
+}

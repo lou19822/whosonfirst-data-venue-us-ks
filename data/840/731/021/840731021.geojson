@@ -1,0 +1,73 @@
+{
+  "id": 840731021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.612294,39.058773,-95.612294,39.058773",
+    "geom:latitude":39.058773,
+    "geom:longitude":-95.612294,
+    "iso:country":"US",
+    "sg:address":"3835 NE Seward Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 4716",
+    "sg:postcode":"66616",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r4RWu1qBxJiLzkkpDv2up_39.058773_-95.612294@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046723,
+    "wof:geomhash":"1ff431974c70285ef3a1cab37712009a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840731021
+        }
+    ],
+    "wof:id":840731021,
+    "wof:lastmodified":1464046723,
+    "wof:name":"Shaden Things",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -95.612294,
+    39.058773,
+    -95.612294,
+    39.058773
+],
+  "geometry": {"coordinates":[-95.61229400000001,39.058773],"type":"Point"}
+}

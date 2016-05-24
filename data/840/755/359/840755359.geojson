@@ -1,0 +1,75 @@
+{
+  "id": 840755359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.938361,39.139004,-94.938361,39.139004",
+    "geom:latitude":39.139004,
+    "geom:longitude":-94.938361,
+    "iso:country":"US",
+    "sg:address":"2705 N 155th St",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 1288",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eJ8WkUdAPdefhrqjEOCeV_39.139004_-94.938361@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047224,
+    "wof:geomhash":"11743f7db51dc31f8e775c40e883a18c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840755359
+        }
+    ],
+    "wof:id":840755359,
+    "wof:lastmodified":1464047224,
+    "wof:name":"Main Street Attraction",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [
+    -94.938361,
+    39.139004,
+    -94.938361,
+    39.139004
+],
+  "geometry": {"coordinates":[-94.938361,39.139004],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840697987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.715456,39.014844,-94.715456,39.014844",
+    "geom:latitude":39.014844,
+    "geom:longitude":-94.715456,
+    "iso:country":"US",
+    "sg:address":"11300 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 248 8185",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "sg:website":"www.boc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JX4Ewk6x9okKuw1BqWSrg_39.014844_-94.715456@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046031,
+    "wof:geomhash":"ed3d75ed84818f3f8c078c45e681db35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":840697987
+        }
+    ],
+    "wof:id":840697987,
+    "wof:lastmodified":1464046031,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -94.715456,
+    39.014844,
+    -94.715456,
+    39.014844
+],
+  "geometry": {"coordinates":[-94.715456,39.014844],"type":"Point"}
+}

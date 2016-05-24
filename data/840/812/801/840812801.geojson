@@ -1,0 +1,75 @@
+{
+  "id": 840812801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.330221,37.586266,-97.330221,37.586266",
+    "geom:latitude":37.586266,
+    "geom:longitude":-97.330221,
+    "iso:country":"US",
+    "sg:address":"700 E 59th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 0291",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yDTIlwS6UHXAlABvjiIIF_37.586266_-97.330221@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048533,
+    "wof:geomhash":"67208ff16ba246d860a31e325486b369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840812801
+        }
+    ],
+    "wof:id":840812801,
+    "wof:lastmodified":1464048533,
+    "wof:name":"Hebb's Automotive Machine",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.330221,
+    37.586266,
+    -97.330221,
+    37.586266
+],
+  "geometry": {"coordinates":[-97.33022099999999,37.586266],"type":"Point"}
+}

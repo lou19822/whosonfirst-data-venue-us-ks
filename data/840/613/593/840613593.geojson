@@ -1,0 +1,71 @@
+{
+  "id": 840613593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.958271,38.518562,-95.958271,38.518562",
+    "geom:latitude":38.518562,
+    "geom:longitude":-95.958271,
+    "iso:country":"US",
+    "sg:address":"121 Franklin St",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 699 3333",
+    "sg:postcode":"66868",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18hL0Dp5RGQLsMygFFj62a_38.518562_-95.958271@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044008,
+    "wof:geomhash":"2b5e3f1b881cf08ebe8d89f9af24bbc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840613593
+        }
+    ],
+    "wof:id":840613593,
+    "wof:lastmodified":1464044008,
+    "wof:name":"Jones Don Trucking Inc",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.958271,
+    38.518562,
+    -95.958271,
+    38.518562
+],
+  "geometry": {"coordinates":[-95.958271,38.518562],"type":"Point"}
+}

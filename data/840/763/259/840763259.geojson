@@ -1,0 +1,75 @@
+{
+  "id": 840763259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.222237,38.412343,-96.222237,38.412343",
+    "geom:latitude":38.412343,
+    "geom:longitude":-96.222237,
+    "iso:country":"US",
+    "sg:address":"1220 Hatcher St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 6339",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zh93pfDVn1byZOFDOcgRu_38.412343_-96.222237@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047414,
+    "wof:geomhash":"518d66b2e4cb7142c7b93fa8c94e3674",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840763259
+        }
+    ],
+    "wof:id":840763259,
+    "wof:lastmodified":1464047414,
+    "wof:name":"Emporia Public Works",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -96.222237,
+    38.412343,
+    -96.222237,
+    38.412343
+],
+  "geometry": {"coordinates":[-96.22223700000001,38.412343],"type":"Point"}
+}

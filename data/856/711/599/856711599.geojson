@@ -1,0 +1,81 @@
+{
+  "id": 856711599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.727845,39.043966,-95.727845,39.043966",
+    "geom:latitude":39.043966,
+    "geom:longitude":-95.727845,
+    "iso:country":"US",
+    "sg:address":"4016 SW Huntoon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/47078-skinnys-sports-bar--grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 1905",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ur1KMFh1JYk5YDksNbF6q_39.044013_-95.728119@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052298,
+    "wof:geomhash":"9cc6303d175744c6afbd78cee3424ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":856711599
+        }
+    ],
+    "wof:id":856711599,
+    "wof:lastmodified":1464052298,
+    "wof:name":"Skinny's Sports Bar & Grill",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -95.727845,
+    39.043966,
+    -95.727845,
+    39.043966
+],
+  "geometry": {"coordinates":[-95.727845,39.043966],"type":"Point"}
+}

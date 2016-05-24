@@ -1,0 +1,77 @@
+{
+  "id": 840820827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.697215,39.095008,-94.697215,39.095008",
+    "geom:latitude":39.095008,
+    "geom:longitude":-94.697215,
+    "iso:country":"US",
+    "sg:address":"5320 Speaker Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 621 6611",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ab9LMsT3f0nEL2lnvIYqZ_39.095008_-94.697215@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048773,
+    "wof:geomhash":"42111deaf27e085e31c21f77455d80d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840820827
+        }
+    ],
+    "wof:id":840820827,
+    "wof:lastmodified":1464048773,
+    "wof:name":"Pro Electric",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.697215,
+    39.095008,
+    -94.697215,
+    39.095008
+],
+  "geometry": {"coordinates":[-94.697215,39.095008],"type":"Point"}
+}

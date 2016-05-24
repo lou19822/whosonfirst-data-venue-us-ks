@@ -1,0 +1,73 @@
+{
+  "id": 856686639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.224744,38.405155,-96.224744,38.405155",
+    "geom:latitude":38.405155,
+    "geom:longitude":-96.224744,
+    "iso:country":"US",
+    "sg:address":"3220 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4440",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UqnJxofTKEWqTOZqmYFtB_38.405155_-96.224744@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051797,
+    "wof:geomhash":"c9bec482d0bb7df1f723746c767e3903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856686639
+        }
+    ],
+    "wof:id":856686639,
+    "wof:lastmodified":1464051797,
+    "wof:name":"Four Mile Carriage & Machine",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.224744,
+    38.405155,
+    -96.224744,
+    38.405155
+],
+  "geometry": {"coordinates":[-96.224744,38.405155],"type":"Point"}
+}

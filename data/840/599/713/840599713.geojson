@@ -1,0 +1,75 @@
+{
+  "id": 840599713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.358211,37.651561,-97.358211,37.651561",
+    "geom:latitude":37.651561,
+    "geom:longitude":-97.358211,
+    "iso:country":"US",
+    "sg:address":"1510 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 2473",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "finding",
+        "apartment",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tjncO4EnJnBZg2BMVQgNT_37.651561_-97.358211@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043654,
+    "wof:geomhash":"7d07c8d11c28567f51fab3f5df5751f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840599713
+        }
+    ],
+    "wof:id":840599713,
+    "wof:lastmodified":1464043654,
+    "wof:name":"Westway Apartments",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finding",
+        "apartment",
+        "rental"
+    ]
+},
+  "bbox": [
+    -97.358211,
+    37.651561,
+    -97.358211,
+    37.651561
+],
+  "geometry": {"coordinates":[-97.358211,37.651561],"type":"Point"}
+}

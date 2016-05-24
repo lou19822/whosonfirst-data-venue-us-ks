@@ -1,0 +1,73 @@
+{
+  "id": 840818891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.370926,37.654365,-97.370926,37.654365",
+    "geom:latitude":37.654365,
+    "geom:longitude":-97.370926,
+    "iso:country":"US",
+    "sg:address":"2201 S Meridian Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 7867",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N089AWiqFaADJdcJnNnWx_37.654365_-97.370926@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048719,
+    "wof:geomhash":"29304687c6944c2f0964feeec01bd15c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840818891
+        }
+    ],
+    "wof:id":840818891,
+    "wof:lastmodified":1464048719,
+    "wof:name":"E-Z Self Storage",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -97.370926,
+    37.654365,
+    -97.370926,
+    37.654365
+],
+  "geometry": {"coordinates":[-97.370926,37.654365],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840953251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.962393,38.518655,-95.962393,38.518655",
+    "geom:latitude":38.518655,
+    "geom:longitude":-95.962393,
+    "iso:country":"US",
+    "sg:address":"129 Walnut St",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 699 3447",
+    "sg:postcode":"66868",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WEsQOAmxCr3qtrMkf87yT_38.518655_-95.962393@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051714,
+    "wof:geomhash":"f31e1aadcdf90e7cc292ef2784899d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840953251
+        }
+    ],
+    "wof:id":840953251,
+    "wof:lastmodified":1464051714,
+    "wof:name":"Atchison Trucking",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.962393,
+    38.518655,
+    -95.962393,
+    38.518655
+],
+  "geometry": {"coordinates":[-95.96239300000001,38.518655],"type":"Point"}
+}

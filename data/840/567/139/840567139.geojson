@@ -1,0 +1,75 @@
+{
+  "id": 840567139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.313762,37.672406,-97.313762,37.672406",
+    "geom:latitude":37.672406,
+    "geom:longitude":-97.313762,
+    "iso:country":"US",
+    "sg:address":"1015 S Minnesota St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 383 7487",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53GL6AckJ9W12xtkJyK0Mk_37.672406_-97.313762@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042905,
+    "wof:geomhash":"b7877f2677c38cfe0a1bd5f7dfa4e260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840567139
+        }
+    ],
+    "wof:id":840567139,
+    "wof:lastmodified":1464042905,
+    "wof:name":"Juvenile Court Judges Chambers",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -97.313762,
+    37.672406,
+    -97.313762,
+    37.672406
+],
+  "geometry": {"coordinates":[-97.313762,37.672406],"type":"Point"}
+}

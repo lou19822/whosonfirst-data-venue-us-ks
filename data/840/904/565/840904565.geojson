@@ -1,0 +1,75 @@
+{
+  "id": 840904565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.994123,39.162249,-94.994123,39.162249",
+    "geom:latitude":39.162249,
+    "geom:longitude":-94.994123,
+    "iso:country":"US",
+    "sg:address":"21455 179th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 3211",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C41bbXL2O8ZG0I1iIP5nZ_39.162249_-94.994123@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050586,
+    "wof:geomhash":"b23e10fb52254fc3e0038ec1021c559d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840904565
+        }
+    ],
+    "wof:id":840904565,
+    "wof:lastmodified":1464050586,
+    "wof:name":"Herdman Trucking Co Inc",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.994123,
+    39.162249,
+    -94.994123,
+    39.162249
+],
+  "geometry": {"coordinates":[-94.994123,39.162249],"type":"Point"}
+}

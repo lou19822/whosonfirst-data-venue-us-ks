@@ -1,0 +1,80 @@
+{
+  "id": 856707145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.674591,39.048671,-95.674591,39.048671",
+    "geom:latitude":39.048671,
+    "geom:longitude":-95.674591,
+    "iso:country":"US",
+    "sg:address":"809 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/124668-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 5200",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05D4o0L4XUpPs5TsFge9sV_39.048671_-95.674591@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052210,
+    "wof:geomhash":"7eb70f353e51b11ef59168ef00032b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":856707145
+        }
+    ],
+    "wof:id":856707145,
+    "wof:lastmodified":1464052210,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.674591,
+    39.048671,
+    -95.674591,
+    39.048671
+],
+  "geometry": {"coordinates":[-95.67459100000001,39.048671],"type":"Point"}
+}

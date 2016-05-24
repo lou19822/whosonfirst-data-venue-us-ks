@@ -1,0 +1,71 @@
+{
+  "id": 840736751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.219389,38.412265,-96.219389,38.412265",
+    "geom:latitude":38.412265,
+    "geom:longitude":-96.219389,
+    "iso:country":"US",
+    "sg:address":"2921 W 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1119",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lnd3HHaJtwe8oRMBOdyHw_38.412265_-96.219389@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046832,
+    "wof:geomhash":"21f94e1e0fe822e5c6f08a0300b375da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840736751
+        }
+    ],
+    "wof:id":840736751,
+    "wof:lastmodified":1464046832,
+    "wof:name":"American Legion",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -96.219389,
+    38.412265,
+    -96.219389,
+    38.412265
+],
+  "geometry": {"coordinates":[-96.21938900000001,38.412265],"type":"Point"}
+}

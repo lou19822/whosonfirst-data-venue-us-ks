@@ -1,0 +1,84 @@
+{
+  "id": 840579905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.433481,37.738191,-97.433481,37.738191",
+    "geom:latitude":37.738191,
+    "geom:longitude":-97.433481,
+    "iso:country":"US",
+    "sg:address":"3108 N Tee Time St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 0055",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "analytical",
+        "instrument",
+        "aircraft",
+        "component",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26rryhptWnWPczJnQiqy4N_37.738191_-97.433481@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043202,
+    "wof:geomhash":"8ee42c12bb994727357709683abb3e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840579905
+        }
+    ],
+    "wof:id":840579905,
+    "wof:lastmodified":1464043202,
+    "wof:name":"Perkin Elmer Inc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "instrument",
+        "aircraft",
+        "component",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.433481,
+    37.738191,
+    -97.433481,
+    37.738191
+],
+  "geometry": {"coordinates":[-97.433481,37.738191],"type":"Point"}
+}

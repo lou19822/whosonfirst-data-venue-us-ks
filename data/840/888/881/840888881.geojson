@@ -1,0 +1,71 @@
+{
+  "id": 840888881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687863,38.979869,-95.687863,38.979869",
+    "geom:latitude":38.979869,
+    "geom:longitude":-95.687863,
+    "iso:country":"US",
+    "sg:address":"4824 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 8629",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rzEuftB0rePBJnoUUhZPO_38.979869_-95.687863@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050257,
+    "wof:geomhash":"eb4c652d202893832f27c48c45a44ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840888881
+        }
+    ],
+    "wof:id":840888881,
+    "wof:lastmodified":1464050257,
+    "wof:name":"Neale Painting & Spec Coatings",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -95.687863,
+    38.979869,
+    -95.687863,
+    38.979869
+],
+  "geometry": {"coordinates":[-95.68786299999999,38.979869],"type":"Point"}
+}

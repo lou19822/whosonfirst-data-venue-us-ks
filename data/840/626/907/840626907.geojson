@@ -1,0 +1,71 @@
+{
+  "id": 840626907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.711289,38.884308,-94.711289,38.884308",
+    "geom:latitude":38.884308,
+    "geom:longitude":-94.711289,
+    "iso:country":"US",
+    "sg:address":"13402 Ballentine St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 681 9716",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SJkNo7ba52Qr9BEaQkU54_38.884308_-94.711289@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044349,
+    "wof:geomhash":"fb16b17280e76105a676bea4998e2935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840626907
+        }
+    ],
+    "wof:id":840626907,
+    "wof:lastmodified":1464044349,
+    "wof:name":"Gateway Anesthesia Care PA",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -94.711289,
+    38.884308,
+    -94.711289,
+    38.884308
+],
+  "geometry": {"coordinates":[-94.71128899999999,38.884308],"type":"Point"}
+}

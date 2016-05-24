@@ -1,0 +1,69 @@
+{
+  "id": 840849805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.80149,37.833362,-96.80149,37.833362",
+    "geom:latitude":37.833362,
+    "geom:longitude":-96.80149,
+    "iso:country":"US",
+    "sg:address":"2710 NE Shady Creek Access Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 9974",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dCK2wZ8Iv6P60VahnQVpN_37.833362_-96.801490@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049433,
+    "wof:geomhash":"ecfef2302fda9517f4414200d2cd8f91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840849805
+        }
+    ],
+    "wof:id":840849805,
+    "wof:lastmodified":1464049433,
+    "wof:name":"US Army Corps Of Engineers",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -96.80149,
+    37.833362,
+    -96.80149,
+    37.833362
+],
+  "geometry": {"coordinates":[-96.80149,37.833362],"type":"Point"}
+}

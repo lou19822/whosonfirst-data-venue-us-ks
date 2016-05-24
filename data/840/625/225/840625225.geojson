@@ -1,0 +1,80 @@
+{
+  "id": 840625225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.761816,38.868058,-94.761816,38.868058",
+    "geom:latitude":38.868058,
+    "geom:longitude":-94.761816,
+    "iso:country":"US",
+    "sg:address":"14336 S Twilight Ln",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 254 1010",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "printer",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10NtPihPx7OIglcT1CVcCi_38.868058_-94.761816@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044298,
+    "wof:geomhash":"52a1eda841f45795c1064da9853d778a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840625225
+        }
+    ],
+    "wof:id":840625225,
+    "wof:lastmodified":1464044298,
+    "wof:name":"Prisma Graphics Inc",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "printer",
+        "design"
+    ]
+},
+  "bbox": [
+    -94.761816,
+    38.868058,
+    -94.761816,
+    38.868058
+],
+  "geometry": {"coordinates":[-94.761816,38.868058],"type":"Point"}
+}

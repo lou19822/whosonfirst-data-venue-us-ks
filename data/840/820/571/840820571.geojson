@@ -1,0 +1,73 @@
+{
+  "id": 840820571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.64827,39.045109,-95.64827,39.045109",
+    "geom:latitude":39.045109,
+    "geom:longitude":-95.64827,
+    "iso:country":"US",
+    "sg:address":"2121 SE 6th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 6841",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QEz9pn2EQKaLQR2W8CuI8_39.045109_-95.648270@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048768,
+    "wof:geomhash":"2679ae84acc405780609684b058eb00b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840820571
+        }
+    ],
+    "wof:id":840820571,
+    "wof:lastmodified":1464048768,
+    "wof:name":"Chatter Box Tavern",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -95.64827,
+    39.045109,
+    -95.64827,
+    39.045109
+],
+  "geometry": {"coordinates":[-95.64827,39.045109],"type":"Point"}
+}

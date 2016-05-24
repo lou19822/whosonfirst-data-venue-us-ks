@@ -1,0 +1,71 @@
+{
+  "id": 840716167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.137551,37.690547,-97.137551,37.690547",
+    "geom:latitude":37.690547,
+    "geom:longitude":-97.137551,
+    "iso:country":"US",
+    "sg:address":"328 W 2nd St",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 0658",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05WEiMMEPV8w2ADviH023E_37.690547_-97.137551@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046423,
+    "wof:geomhash":"1b440a4378f131846edf2a0ac62411d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840716167
+        }
+    ],
+    "wof:id":840716167,
+    "wof:lastmodified":1464046423,
+    "wof:name":"Sunflower Apartments-Andover",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.137551,
+    37.690547,
+    -97.137551,
+    37.690547
+],
+  "geometry": {"coordinates":[-97.137551,37.690547],"type":"Point"}
+}

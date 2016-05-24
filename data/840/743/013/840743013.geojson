@@ -1,0 +1,74 @@
+{
+  "id": 840743013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.447721,37.694108,-97.447721,37.694108",
+    "geom:latitude":37.694108,
+    "geom:longitude":-97.447721,
+    "iso:country":"US",
+    "sg:address":"8880 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 1302",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.scholfield.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NgstM1KNqOPar8bNAOgeB_37.694108_-97.447721@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046951,
+    "wof:geomhash":"5a28501f27798d289b239717f7988eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840743013
+        }
+    ],
+    "wof:id":840743013,
+    "wof:lastmodified":1464046951,
+    "wof:name":"Scholfield Honda",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.447721,
+    37.694108,
+    -97.447721,
+    37.694108
+],
+  "geometry": {"coordinates":[-97.447721,37.694108],"type":"Point"}
+}

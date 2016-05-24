@@ -1,0 +1,71 @@
+{
+  "id": 840868923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.66374,38.859668,-94.66374,38.859668",
+    "geom:latitude":38.859668,
+    "geom:longitude":-94.66374,
+    "iso:country":"US",
+    "sg:address":"6723 W 148th Ter",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 402 7465",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zXhdcsxNjZUvRLyT1dEeq_38.859668_-94.663740@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049834,
+    "wof:geomhash":"5babaa41a0fe6f714c9446bce047a668",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840868923
+        }
+    ],
+    "wof:id":840868923,
+    "wof:lastmodified":1464049834,
+    "wof:name":"Contract Consulting Svc",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -94.66374,
+    38.859668,
+    -94.66374,
+    38.859668
+],
+  "geometry": {"coordinates":[-94.66374,38.859668],"type":"Point"}
+}

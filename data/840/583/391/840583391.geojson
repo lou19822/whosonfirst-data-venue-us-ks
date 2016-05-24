@@ -1,0 +1,73 @@
+{
+  "id": 840583391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.713227,39.107366,-95.713227,39.107366",
+    "geom:latitude":39.107366,
+    "geom:longitude":-95.713227,
+    "iso:country":"US",
+    "sg:address":"3307 NW 34th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 0033",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rODStCBUJNAV4dPPHc7VC_39.107366_-95.713227@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043280,
+    "wof:geomhash":"6591ff3eca1e9d2cb9f57e472aa0e193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840583391
+        }
+    ],
+    "wof:id":840583391,
+    "wof:lastmodified":1464043280,
+    "wof:name":"Pl Trucking",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.713227,
+    39.107366,
+    -95.713227,
+    39.107366
+],
+  "geometry": {"coordinates":[-95.713227,39.107366],"type":"Point"}
+}

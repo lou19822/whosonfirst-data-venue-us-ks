@@ -1,0 +1,77 @@
+{
+  "id": 840799101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.665326,39.01576,-94.665326,39.01576",
+    "geom:latitude":39.01576,
+    "geom:longitude":-94.665326,
+    "iso:country":"US",
+    "sg:address":"6950 Squibb Rd",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 9528",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F1rHv0z1U2rNnTkEDRA1j_39.015760_-94.665326@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048183,
+    "wof:geomhash":"0c6892575ccd3bc2ba6ed54e4d376a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":840799101
+        }
+    ],
+    "wof:id":840799101,
+    "wof:lastmodified":1464048183,
+    "wof:name":"Maxim Healthcare Svc",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -94.665326,
+    39.01576,
+    -94.665326,
+    39.01576
+],
+  "geometry": {"coordinates":[-94.66532599999999,39.01576],"type":"Point"}
+}

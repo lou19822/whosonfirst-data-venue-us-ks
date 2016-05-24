@@ -1,0 +1,66 @@
+{
+  "id": 840699203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.734038,37.023745,-94.734038,37.023745",
+    "geom:latitude":37.023745,
+    "geom:longitude":-94.734038,
+    "iso:country":"US",
+    "sg:address":"202 E 12th St",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 5690",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BsnOqcNM52wT4kmiuiL7C_37.023745_-94.734038@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046070,
+    "wof:geomhash":"c1b1804fba6aba924cb2f1da2f08258a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840699203
+        }
+    ],
+    "wof:id":840699203,
+    "wof:lastmodified":1464046070,
+    "wof:name":"Fastrip",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.734038,
+    37.023745,
+    -94.734038,
+    37.023745
+],
+  "geometry": {"coordinates":[-94.734038,37.023745],"type":"Point"}
+}

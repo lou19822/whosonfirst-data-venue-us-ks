@@ -1,0 +1,71 @@
+{
+  "id": 840779943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352143,37.59355,-97.352143,37.59355",
+    "geom:latitude":37.59355,
+    "geom:longitude":-97.352143,
+    "iso:country":"US",
+    "sg:address":"1020 W 55th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 641 8820",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dfo4IZGnCaUPyewKRU8yB_37.593550_-97.352143@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047763,
+    "wof:geomhash":"c4c1a4340b20a99febc1055060790897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840779943
+        }
+    ],
+    "wof:id":840779943,
+    "wof:lastmodified":1464047763,
+    "wof:name":"Joe's Towing & Recovery",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -97.352143,
+    37.59355,
+    -97.352143,
+    37.59355
+],
+  "geometry": {"coordinates":[-97.352143,37.59355],"type":"Point"}
+}

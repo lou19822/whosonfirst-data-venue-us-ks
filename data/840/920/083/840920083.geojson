@@ -1,0 +1,71 @@
+{
+  "id": 840920083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.176327,38.392796,-96.176327,38.392796",
+    "geom:latitude":38.392796,
+    "geom:longitude":-96.176327,
+    "iso:country":"US",
+    "sg:address":"416 S Union St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2814",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "insecticide"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WnSUbYKYMxcG4p66Rm1uO_38.392796_-96.176327@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050992,
+    "wof:geomhash":"95f4bf0ac8838464daffc23929646f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840920083
+        }
+    ],
+    "wof:id":840920083,
+    "wof:lastmodified":1464050992,
+    "wof:name":"City Exterminating Co",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insecticide"
+    ]
+},
+  "bbox": [
+    -96.176327,
+    38.392796,
+    -96.176327,
+    38.392796
+],
+  "geometry": {"coordinates":[-96.176327,38.392796],"type":"Point"}
+}

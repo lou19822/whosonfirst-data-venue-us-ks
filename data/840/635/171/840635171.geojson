@@ -1,0 +1,77 @@
+{
+  "id": 840635171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.372694,37.651285,-97.372694,37.651285",
+    "geom:latitude":37.651285,
+    "geom:longitude":-97.372694,
+    "iso:country":"US",
+    "sg:address":"2527 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 4428",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cigarette",
+        "product",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36K8c0ZcgsCY2KZGXOVTMd_37.651285_-97.372694@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044568,
+    "wof:geomhash":"3af2cf95ff762cd007788fe2ac00b118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840635171
+        }
+    ],
+    "wof:id":840635171,
+    "wof:lastmodified":1464044568,
+    "wof:name":"Pete's Smoke Shop",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "product",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.372694,
+    37.651285,
+    -97.372694,
+    37.651285
+],
+  "geometry": {"coordinates":[-97.372694,37.651285],"type":"Point"}
+}

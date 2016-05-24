@@ -1,0 +1,71 @@
+{
+  "id": 840845599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.681851,38.883741,-94.681851,38.883741",
+    "geom:latitude":38.883741,
+    "geom:longitude":-94.681851,
+    "iso:country":"US",
+    "sg:address":"8640 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 000 1111",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3srgc7DXNKSznjFXZ6b3qf_38.883741_-94.681851@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049342,
+    "wof:geomhash":"e876fdf8eee4b67930898f9682a86bc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840845599
+        }
+    ],
+    "wof:id":840845599,
+    "wof:lastmodified":1464049342,
+    "wof:name":"Aldi",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.681851,
+    38.883741,
+    -94.681851,
+    38.883741
+],
+  "geometry": {"coordinates":[-94.68185099999999,38.883741],"type":"Point"}
+}

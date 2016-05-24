@@ -1,0 +1,75 @@
+{
+  "id": 840865777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352372,37.651629,-97.352372,37.651629",
+    "geom:latitude":37.651629,
+    "geom:longitude":-97.352372,
+    "iso:country":"US",
+    "sg:address":"1020 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 6653",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_597Q03C3PwqMK28w7nH6Aj_37.651629_-97.352372@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049775,
+    "wof:geomhash":"060bf120ac67bfe5be23be8faeeb0e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840865777
+        }
+    ],
+    "wof:id":840865777,
+    "wof:lastmodified":1464049775,
+    "wof:name":"Welcome Smokers",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.352372,
+    37.651629,
+    -97.352372,
+    37.651629
+],
+  "geometry": {"coordinates":[-97.352372,37.651629],"type":"Point"}
+}

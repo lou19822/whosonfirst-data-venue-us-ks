@@ -1,0 +1,73 @@
+{
+  "id": 840583693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.497929,37.681092,-97.497929,37.681092",
+    "geom:latitude":37.681092,
+    "geom:longitude":-97.497929,
+    "iso:country":"US",
+    "sg:address":"13523 Burton Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 4848",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l9G5vYHWzdbduLAPoPdnt_37.681092_-97.497929@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043286,
+    "wof:geomhash":"a4b4623c02e8fe42b0a2b0d38e756df6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840583693
+        }
+    ],
+    "wof:id":840583693,
+    "wof:lastmodified":1464043286,
+    "wof:name":"Pine Ridge",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.497929,
+    37.681092,
+    -97.497929,
+    37.681092
+],
+  "geometry": {"coordinates":[-97.497929,37.681092],"type":"Point"}
+}

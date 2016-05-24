@@ -1,0 +1,77 @@
+{
+  "id": 840628533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.832151,38.854745,-94.832151,38.854745",
+    "geom:latitude":38.854745,
+    "geom:longitude":-94.832151,
+    "iso:country":"US",
+    "sg:address":"21080 W 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 4001",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iHweyNb2wt8riWh5yc0hD_38.854745_-94.832151@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044393,
+    "wof:geomhash":"dfd4b1d6c7245ed8f4fd5d43a82dd9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840628533
+        }
+    ],
+    "wof:id":840628533,
+    "wof:lastmodified":1464044393,
+    "wof:name":"Olathe Ambulatory Surgery Ctr",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -94.832151,
+    38.854745,
+    -94.832151,
+    38.854745
+],
+  "geometry": {"coordinates":[-94.832151,38.854745],"type":"Point"}
+}

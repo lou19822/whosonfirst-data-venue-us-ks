@@ -1,0 +1,67 @@
+{
+  "id": 840542723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.370814,37.631755,-97.370814,37.631755",
+    "geom:latitude":37.631755,
+    "geom:longitude":-97.370814,
+    "iso:country":"US",
+    "sg:address":"3447 S Meridian Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 337 9119",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:website":"www.wichita.lib.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eZdEDKWV8eWLIEpF9tIxp_37.631755_-97.370814@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042289,
+    "wof:geomhash":"ffb19d1980ed5456b01fe740bc4a45c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840542723
+        }
+    ],
+    "wof:id":840542723,
+    "wof:lastmodified":1464042289,
+    "wof:name":"Alford Public Library",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.370814,
+    37.631755,
+    -97.370814,
+    37.631755
+],
+  "geometry": {"coordinates":[-97.370814,37.631755],"type":"Point"}
+}

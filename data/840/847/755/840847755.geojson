@@ -1,0 +1,71 @@
+{
+  "id": 840847755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.971455,37.696242,-96.971455,37.696242",
+    "geom:latitude":37.696242,
+    "geom:longitude":-96.971455,
+    "iso:country":"US",
+    "sg:address":"2105 Ohio St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 0022",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QJJRGvaCQIKGwryFc7Idh_37.696242_-96.971455@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049393,
+    "wof:geomhash":"60e18df04538bd00ca924bc696c669e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840847755
+        }
+    ],
+    "wof:id":840847755,
+    "wof:lastmodified":1464049393,
+    "wof:name":"Java'Nator",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -96.971455,
+    37.696242,
+    -96.971455,
+    37.696242
+],
+  "geometry": {"coordinates":[-96.97145500000001,37.696242],"type":"Point"}
+}

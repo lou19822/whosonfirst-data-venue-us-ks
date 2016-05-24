@@ -1,0 +1,73 @@
+{
+  "id": 840791791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687181,38.959773,-95.687181,38.959773",
+    "geom:latitude":38.959773,
+    "geom:longitude":-95.687181,
+    "iso:country":"US",
+    "sg:address":"6040 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 1800",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SwskxlPtQVBrl1Vt4pWyn_38.959773_-95.687181@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048018,
+    "wof:geomhash":"476e3a8520b5e117eca2fa52f607f421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840791791
+        }
+    ],
+    "wof:id":840791791,
+    "wof:lastmodified":1464048018,
+    "wof:name":"A 1 Auto Sales",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.687181,
+    38.959773,
+    -95.687181,
+    38.959773
+],
+  "geometry": {"coordinates":[-95.687181,38.959773],"type":"Point"}
+}

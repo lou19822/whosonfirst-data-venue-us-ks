@@ -1,0 +1,72 @@
+{
+  "id": 840782737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.828199,38.746801,-94.828199,38.746801",
+    "geom:latitude":38.746801,
+    "geom:longitude":-94.828199,
+    "iso:country":"US",
+    "sg:address":"302 N Jefferson St",
+    "sg:city":"Spring Hill",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 592 2700",
+    "sg:postcode":"66083",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.springhillks.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UQJRGZyt76an3tq72zbOY_38.746801_-94.828199@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047814,
+    "wof:geomhash":"8b2e2e811956da187a0d721d35652f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840782737
+        }
+    ],
+    "wof:id":840782737,
+    "wof:lastmodified":1464047814,
+    "wof:name":"Spring Hill Police Dept",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.828199,
+    38.746801,
+    -94.828199,
+    38.746801
+],
+  "geometry": {"coordinates":[-94.828199,38.746801],"type":"Point"}
+}

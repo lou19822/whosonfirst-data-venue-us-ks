@@ -1,0 +1,77 @@
+{
+  "id": 840574433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.712709,39.020213,-94.712709,39.020213",
+    "geom:latitude":39.020213,
+    "geom:longitude":-94.712709,
+    "iso:country":"US",
+    "sg:address":"11005 W 60th St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 7700",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59sHHTPJQxtC9xnXhe3VWf_39.020213_-94.712709@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043091,
+    "wof:geomhash":"a986d431ecb8076283f0100b0a341ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":840574433
+        }
+    ],
+    "wof:id":840574433,
+    "wof:lastmodified":1464043091,
+    "wof:name":"Thompson Eye Clinic",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.712709,
+    39.020213,
+    -94.712709,
+    39.020213
+],
+  "geometry": {"coordinates":[-94.712709,39.020213],"type":"Point"}
+}

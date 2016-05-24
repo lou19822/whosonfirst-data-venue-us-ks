@@ -1,0 +1,75 @@
+{
+  "id": 840724799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.727719,39.014686,-94.727719,39.014686",
+    "geom:latitude":39.014686,
+    "geom:longitude":-94.727719,
+    "iso:country":"US",
+    "sg:address":"12221 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 248 8200",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bagel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VwfCZKKjMX5PpO85QPN2X_39.014686_-94.727719@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046608,
+    "wof:geomhash":"8f0780013be2a1d6055e5a8ad8a431bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":840724799
+        }
+    ],
+    "wof:id":840724799,
+    "wof:lastmodified":1464046608,
+    "wof:name":"Einstein Bros",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel"
+    ]
+},
+  "bbox": [
+    -94.727719,
+    39.014686,
+    -94.727719,
+    39.014686
+],
+  "geometry": {"coordinates":[-94.72771899999999,39.014686],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856704149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.813588,38.858115,-94.813588,38.858115",
+    "geom:latitude":38.858115,
+    "geom:longitude":-94.813588,
+    "iso:country":"US",
+    "sg:address":"1560 S Hamilton Cir",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/174257-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 7590",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ApIkmS8xfLmwLxKd4KsVf_38.858115_-94.813588@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052154,
+    "wof:geomhash":"b31d5b0ed297ff4ab2080a9f2d14d730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704149
+        }
+    ],
+    "wof:id":856704149,
+    "wof:lastmodified":1464052154,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.813588,
+    38.858115,
+    -94.813588,
+    38.858115
+],
+  "geometry": {"coordinates":[-94.813588,38.858115],"type":"Point"}
+}

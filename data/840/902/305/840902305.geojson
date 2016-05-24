@@ -1,0 +1,72 @@
+{
+  "id": 840902305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180169,38.412,-96.180169,38.412",
+    "geom:latitude":38.412,
+    "geom:longitude":-96.180169,
+    "iso:country":"US",
+    "sg:address":"1121 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 8454",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.textbookcorner.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sYyJ4imY3QmaosWU0WiuI_38.412000_-96.180169@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050545,
+    "wof:geomhash":"507fecdac8c10c8e34e51c33b154d701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840902305
+        }
+    ],
+    "wof:id":840902305,
+    "wof:lastmodified":1464050545,
+    "wof:name":"Textbook Corner",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.180169,
+    38.412,
+    -96.180169,
+    38.412
+],
+  "geometry": {"coordinates":[-96.18016900000001,38.412],"type":"Point"}
+}

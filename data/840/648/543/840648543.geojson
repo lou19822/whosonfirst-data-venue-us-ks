@@ -1,0 +1,75 @@
+{
+  "id": 840648543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.64321,38.922938,-94.64321,38.922938",
+    "geom:latitude":38.922938,
+    "geom:longitude":-94.64321,
+    "iso:country":"US",
+    "sg:address":"5013 W 112th Ter",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 484 7012",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a1ehUwRWznGF8MsYH8oSI_38.922938_-94.643210@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044849,
+    "wof:geomhash":"0eeecad48b07738973b65c3720dedfee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840648543
+        }
+    ],
+    "wof:id":840648543,
+    "wof:lastmodified":1464044849,
+    "wof:name":"Animal Health Alternatives",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.64321,
+    38.922938,
+    -94.64321,
+    38.922938
+],
+  "geometry": {"coordinates":[-94.64321,38.922938],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856708473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.44379,37.724346,-97.44379,37.724346",
+    "geom:latitude":37.724346,
+    "geom:longitude":-97.44379,
+    "iso:country":"US",
+    "sg:address":"2240 N Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/71464-old-chicago/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 0002",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yeQR16GR3RNIdVTpGdrUY_37.724346_-97.443790@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052238,
+    "wof:geomhash":"e5b8a812b185df8c9a0dbfa29c325c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":856708473
+        }
+    ],
+    "wof:id":856708473,
+    "wof:lastmodified":1464052238,
+    "wof:name":"Old Chicago",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -97.44379,
+    37.724346,
+    -97.44379,
+    37.724346
+],
+  "geometry": {"coordinates":[-97.44379000000001,37.724346],"type":"Point"}
+}

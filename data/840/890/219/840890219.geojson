@@ -1,0 +1,76 @@
+{
+  "id": 840890219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.969269,37.691445,-96.969269,37.691445",
+    "geom:latitude":37.691445,
+    "geom:longitude":-96.969269,
+    "iso:country":"US",
+    "sg:address":"1611 Fairway Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 1000",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "sg:website":"www.assisted.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16J5ZsEfpyXW00lvLYIwZG_37.691445_-96.969269@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050290,
+    "wof:geomhash":"fbaa7de6e091d9a229a6a3ecd3b68af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840890219
+        }
+    ],
+    "wof:id":840890219,
+    "wof:lastmodified":1464050290,
+    "wof:name":"Fairways Of Augusta",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -96.969269,
+    37.691445,
+    -96.969269,
+    37.691445
+],
+  "geometry": {"coordinates":[-96.969269,37.691445],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856707065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.665398,39.085246,-95.665398,39.085246",
+    "geom:latitude":39.085246,
+    "geom:longitude":-95.665398,
+    "iso:country":"US",
+    "sg:address":"2001 NW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/186717-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 9081",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BpczZc4MydGie1Sf7QBCd_39.085246_-95.665398@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052209,
+    "wof:geomhash":"c555f06eddca8064b9441bfe741cb6b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":856707065
+        }
+    ],
+    "wof:id":856707065,
+    "wof:lastmodified":1464052209,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.665398,
+    39.085246,
+    -95.665398,
+    39.085246
+],
+  "geometry": {"coordinates":[-95.665398,39.085246],"type":"Point"}
+}

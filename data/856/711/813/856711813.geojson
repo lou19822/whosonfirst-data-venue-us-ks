@@ -1,0 +1,95 @@
+{
+  "id": 856711813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180153,38.410212,-96.180153,38.410212",
+    "geom:latitude":38.410212,
+    "geom:longitude":-96.180153,
+    "iso:country":"US",
+    "sg:address":"1028 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/230887-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6844",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EGkmoGPK7fBhgdYzqKOAj_38.410733_-96.180027@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052302,
+    "wof:geomhash":"84fcfa09d897b40ced9100f6aa63bc90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856711813
+        }
+    ],
+    "wof:id":856711813,
+    "wof:lastmodified":1464052302,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -96.180153,
+    38.410212,
+    -96.180153,
+    38.410212
+],
+  "geometry": {"coordinates":[-96.180153,38.410212],"type":"Point"}
+}

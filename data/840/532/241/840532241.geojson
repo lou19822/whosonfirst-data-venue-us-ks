@@ -1,0 +1,73 @@
+{
+  "id": 840532241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.731945,38.874187,-94.731945,38.874187",
+    "geom:latitude":38.874187,
+    "geom:longitude":-94.731945,
+    "iso:country":"US",
+    "sg:address":"14004 Westgate St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 215 3668",
+    "sg:postcode":"66221",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EFLFQGrylg21UGcdpcwP3_38.874187_-94.731945@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042030,
+    "wof:geomhash":"acd74f91a116edbd6bd6a502a5b24bed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840532241
+        }
+    ],
+    "wof:id":840532241,
+    "wof:lastmodified":1464042030,
+    "wof:name":"Mitchell Ford Construction Inc",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.731945,
+    38.874187,
+    -94.731945,
+    38.874187
+],
+  "geometry": {"coordinates":[-94.731945,38.874187],"type":"Point"}
+}

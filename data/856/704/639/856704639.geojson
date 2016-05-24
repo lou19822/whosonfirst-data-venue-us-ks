@@ -1,0 +1,82 @@
+{
+  "id": 856704639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.613056,39.066009,-94.613056,39.066009",
+    "geom:latitude":39.066009,
+    "geom:longitude":-94.613056,
+    "iso:country":"US",
+    "sg:address":"3404 Rainbow Ext",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/11044-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 4224",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866785,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Od3jekMsUWkigfNa3dzoh_39.066009_-94.613056@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052164,
+    "wof:geomhash":"3664a2fde0ac304e2cea36f289bc7662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":856704639
+        }
+    ],
+    "wof:id":856704639,
+    "wof:lastmodified":1464052164,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.613056,
+    39.066009,
+    -94.613056,
+    39.066009
+],
+  "geometry": {"coordinates":[-94.613056,39.066009],"type":"Point"}
+}

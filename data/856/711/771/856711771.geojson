@@ -1,0 +1,74 @@
+{
+  "id": 856711771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704883,37.401194,-94.704883,37.401194",
+    "geom:latitude":37.401194,
+    "geom:longitude":-94.704883,
+    "iso:country":"US",
+    "sg:address":"818 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/pittsburg/68587-mazzios-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 3535",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vpqJQ0RjQCmwWi82wMnBa_37.401160_-94.704968@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052301,
+    "wof:geomhash":"d7a7515fca3d867c48d15b237c0ef872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856711771
+        }
+    ],
+    "wof:id":856711771,
+    "wof:lastmodified":1464052301,
+    "wof:name":"Mazzio's Pizza",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.704883,
+    37.401194,
+    -94.704883,
+    37.401194
+],
+  "geometry": {"coordinates":[-94.704883,37.401194],"type":"Point"}
+}

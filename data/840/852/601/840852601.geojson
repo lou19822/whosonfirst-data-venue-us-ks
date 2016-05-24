@@ -1,0 +1,73 @@
+{
+  "id": 840852601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444501,37.693374,-97.444501,37.693374",
+    "geom:latitude":37.693374,
+    "geom:longitude":-97.444501,
+    "iso:country":"US",
+    "sg:address":"549 N Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 4631",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LFpIcwbYvJlx575VWm9DU_37.693374_-97.444501@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049502,
+    "wof:geomhash":"e2b8f750529e067c82d5662dbd7ce3f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840852601
+        }
+    ],
+    "wof:id":840852601,
+    "wof:lastmodified":1464049502,
+    "wof:name":"Joy's Service Ctr",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.444501,
+    37.693374,
+    -97.444501,
+    37.693374
+],
+  "geometry": {"coordinates":[-97.444501,37.693374],"type":"Point"}
+}

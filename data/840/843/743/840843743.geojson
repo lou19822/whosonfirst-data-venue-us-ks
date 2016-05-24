@@ -1,0 +1,71 @@
+{
+  "id": 840843743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.227839,38.41952,-96.227839,38.41952",
+    "geom:latitude":38.41952,
+    "geom:longitude":-96.227839,
+    "iso:country":"US",
+    "sg:address":"3601 W 18th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 0080",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V0pMW3pUSeq9jDBDP5YQS_38.419520_-96.227839@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049307,
+    "wof:geomhash":"1e8846677e2dc44408e4f45c651212e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840843743
+        }
+    ],
+    "wof:id":840843743,
+    "wof:lastmodified":1464049307,
+    "wof:name":"Chapel Ridge Apartments",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.227839,
+    38.41952,
+    -96.227839,
+    38.41952
+],
+  "geometry": {"coordinates":[-96.227839,38.41952],"type":"Point"}
+}

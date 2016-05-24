@@ -1,0 +1,74 @@
+{
+  "id": 856706313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.685004,38.884437,-94.685004,38.884437",
+    "geom:latitude":38.884437,
+    "geom:longitude":-94.685004,
+    "iso:country":"US",
+    "sg:address":"8600 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/182799-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 402 9777",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31E29YJKOV1UfgFklTTgKV_38.884437_-94.685004@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052192,
+    "wof:geomhash":"932ab9ba0c2d2b8eb2c7a0507bd45fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":856706313
+        }
+    ],
+    "wof:id":856706313,
+    "wof:lastmodified":1464052192,
+    "wof:name":"Culver's",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.685004,
+    38.884437,
+    -94.685004,
+    38.884437
+],
+  "geometry": {"coordinates":[-94.68500400000001,38.884437],"type":"Point"}
+}

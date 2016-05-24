@@ -1,0 +1,73 @@
+{
+  "id": 840846365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.211121,38.411015,-96.211121,38.411015",
+    "geom:latitude":38.411015,
+    "geom:longitude":-96.211121,
+    "iso:country":"US",
+    "sg:address":"1001 Henry St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3420",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "water",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0weIfSIzvXlzHvQxWW3xsH_38.411015_-96.211121@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049359,
+    "wof:geomhash":"6fc49b60710dd7f6a6ea6a1cf27d570b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840846365
+        }
+    ],
+    "wof:id":840846365,
+    "wof:lastmodified":1464049359,
+    "wof:name":"Krueger & Sullivan Boiler WRKS",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater"
+    ]
+},
+  "bbox": [
+    -96.211121,
+    38.411015,
+    -96.211121,
+    38.411015
+],
+  "geometry": {"coordinates":[-96.21112100000001,38.411015],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840703327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.438856,37.731963,-97.438856,37.731963",
+    "geom:latitude":37.731963,
+    "geom:longitude":-97.438856,
+    "iso:country":"US",
+    "sg:address":"2708 N Lake Ridge St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 7005",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TPIWrtnIVdZsATbt9e7Ai_37.731963_-97.438856@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046170,
+    "wof:geomhash":"ca85bea1d33eea8e226ba9bfa882b765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840703327
+        }
+    ],
+    "wof:id":840703327,
+    "wof:lastmodified":1464046170,
+    "wof:name":"Craig Stuart Homes Inc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.438856,
+    37.731963,
+    -97.438856,
+    37.731963
+],
+  "geometry": {"coordinates":[-97.438856,37.731963],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840584973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135122,37.694713,-97.135122,37.694713",
+    "geom:latitude":37.694713,
+    "geom:longitude":-97.135122,
+    "iso:country":"US",
+    "sg:address":"528 N Andover Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 0099",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62J0sRR0AyrPPDbJWqIcEe_37.694713_-97.135122@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043313,
+    "wof:geomhash":"b344f70d9c392073a6cf3558800cb92a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840584973
+        }
+    ],
+    "wof:id":840584973,
+    "wof:lastmodified":1464043313,
+    "wof:name":"Vic's Corn Popper",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -97.135122,
+    37.694713,
+    -97.135122,
+    37.694713
+],
+  "geometry": {"coordinates":[-97.135122,37.694713],"type":"Point"}
+}

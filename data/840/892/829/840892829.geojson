@@ -1,0 +1,69 @@
+{
+  "id": 840892829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.873892,37.824796,-96.873892,37.824796",
+    "geom:latitude":37.824796,
+    "geom:longitude":-96.873892,
+    "iso:country":"US",
+    "sg:address":"1820 W 6th Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 4917",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b10dTsXgCoFaTWAR2t59W_37.824796_-96.873892@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050342,
+    "wof:geomhash":"8e7000860d6e2fe1d7b4179467068dc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840892829
+        }
+    ],
+    "wof:id":840892829,
+    "wof:lastmodified":1464050342,
+    "wof:name":"JRS General Rental Ctr",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -96.873892,
+    37.824796,
+    -96.873892,
+    37.824796
+],
+  "geometry": {"coordinates":[-96.873892,37.824796],"type":"Point"}
+}

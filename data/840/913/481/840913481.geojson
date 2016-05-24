@@ -1,0 +1,75 @@
+{
+  "id": 840913481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.738,38.912781,-94.738,38.912781",
+    "geom:latitude":38.912781,
+    "geom:longitude":-94.738,
+    "iso:country":"US",
+    "sg:address":"11932 Gillette St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 599 8204",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ps8BNSkCFr68lDocUutdG_38.912781_-94.738000@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050833,
+    "wof:geomhash":"511fbfc15a087b3a5ad482171af8f0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840913481
+        }
+    ],
+    "wof:id":840913481,
+    "wof:lastmodified":1464050833,
+    "wof:name":"Foundation Engineering Specs",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -94.738,
+    38.912781,
+    -94.738,
+    38.912781
+],
+  "geometry": {"coordinates":[-94.738,38.912781],"type":"Point"}
+}

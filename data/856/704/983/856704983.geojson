@@ -1,0 +1,78 @@
+{
+  "id": 856704983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.715505,39.014385,-94.715505,39.014385",
+    "geom:latitude":39.014385,
+    "geom:longitude":-94.715505,
+    "iso:country":"US",
+    "sg:address":"11115 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/81125-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 268 9994",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66BFjR2v3aI6VKCdLHhQW9_39.014385_-94.715505@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052170,
+    "wof:geomhash":"e4708ce755c99ac6cd95ed0fed88f28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":856704983
+        }
+    ],
+    "wof:id":856704983,
+    "wof:lastmodified":1464052170,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.715505,
+    39.014385,
+    -94.715505,
+    39.014385
+],
+  "geometry": {"coordinates":[-94.71550499999999,39.014385],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840928461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.746069,39.105639,-95.746069,39.105639",
+    "geom:latitude":39.105639,
+    "geom:longitude":-95.746069,
+    "iso:country":"US",
+    "sg:address":"5200 NW 33rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 4800",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house",
+        "singly",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OxDswmzi09TcMfG6KUP9n_39.105639_-95.746069@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051216,
+    "wof:geomhash":"75e6919e56ea4343e212c8438731cd97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840928461
+        }
+    ],
+    "wof:id":840928461,
+    "wof:lastmodified":1464051216,
+    "wof:name":"Wooster Construction",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "singly",
+        "family"
+    ]
+},
+  "bbox": [
+    -95.746069,
+    39.105639,
+    -95.746069,
+    39.105639
+],
+  "geometry": {"coordinates":[-95.74606900000001,39.105639],"type":"Point"}
+}

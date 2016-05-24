@@ -1,0 +1,75 @@
+{
+  "id": 840679633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.728312,39.041567,-95.728312,39.041567",
+    "geom:latitude":39.041567,
+    "geom:longitude":-95.728312,
+    "iso:country":"US",
+    "sg:address":"1271 SW Woodhull St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 4770",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5upc4G9IGzlVc0EZ3YJNG3_39.041567_-95.728312@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045559,
+    "wof:geomhash":"ec606c64b147351ad2c613d8161823a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":840679633
+        }
+    ],
+    "wof:id":840679633,
+    "wof:lastmodified":1464045559,
+    "wof:name":"Gage Center Dental Group",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.728312,
+    39.041567,
+    -95.728312,
+    39.041567
+],
+  "geometry": {"coordinates":[-95.728312,39.041567],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856704715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.682943,39.089548,-94.682943,39.089548",
+    "geom:latitude":39.089548,
+    "geom:longitude":-94.682943,
+    "iso:country":"US",
+    "sg:address":"4500 Kansas Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/136299-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 8584",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GrdkOlI3QIpZFekL1P3h6_39.089548_-94.682943@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052165,
+    "wof:geomhash":"c536dd62b35d5be153cefc8d43c78d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":856704715
+        }
+    ],
+    "wof:id":856704715,
+    "wof:lastmodified":1464052165,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.682943,
+    39.089548,
+    -94.682943,
+    39.089548
+],
+  "geometry": {"coordinates":[-94.68294299999999,39.089548],"type":"Point"}
+}

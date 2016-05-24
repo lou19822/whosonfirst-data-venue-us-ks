@@ -1,0 +1,71 @@
+{
+  "id": 856689657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.422822,37.781251,-97.422822,37.781251",
+    "geom:latitude":37.781251,
+    "geom:longitude":-97.422822,
+    "iso:country":"US",
+    "sg:address":"6811 W 53rd St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 7119",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KR702sV3MmMHwsekJRL13_37.781251_-97.422822@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051860,
+    "wof:geomhash":"8a7a41ac78325cad0340f354c74d5530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":856689657
+        }
+    ],
+    "wof:id":856689657,
+    "wof:lastmodified":1464051860,
+    "wof:name":"G & W Custom Painting",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -97.422822,
+    37.781251,
+    -97.422822,
+    37.781251
+],
+  "geometry": {"coordinates":[-97.422822,37.781251],"type":"Point"}
+}

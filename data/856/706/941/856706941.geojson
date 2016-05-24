@@ -1,0 +1,78 @@
+{
+  "id": 856706941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.757193,39.043651,-95.757193,39.043651",
+    "geom:latitude":39.043651,
+    "geom:longitude":-95.757193,
+    "iso:country":"US",
+    "sg:address":"5901 SW Huntoon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/10486-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 7427",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CRFCIwp4TEOad8ZfnRVr6_39.043651_-95.757193@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052206,
+    "wof:geomhash":"f28ad05a0c75fad21309c60bcbff63d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706941
+        }
+    ],
+    "wof:id":856706941,
+    "wof:lastmodified":1464052206,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -95.757193,
+    39.043651,
+    -95.757193,
+    39.043651
+],
+  "geometry": {"coordinates":[-95.757193,39.043651],"type":"Point"}
+}

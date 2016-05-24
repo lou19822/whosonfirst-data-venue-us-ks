@@ -1,0 +1,71 @@
+{
+  "id": 840769075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.126644,38.055729,-97.126644,38.055729",
+    "geom:latitude":38.055729,
+    "geom:longitude":-97.126644,
+    "iso:country":"US",
+    "sg:address":"417 Main Ave",
+    "sg:city":"Elbing",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 799 2153",
+    "sg:postcode":"67041",
+    "sg:province":"KS",
+    "sg:tags":[
+        "livestock",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19MSZZySXZhGwaN0NiH9iA_38.055729_-97.126644@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047552,
+    "wof:geomhash":"961d4140a6dec5373cbe9e50b557afa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840769075
+        }
+    ],
+    "wof:id":840769075,
+    "wof:lastmodified":1464047552,
+    "wof:name":"Janzen Trucking",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -97.126644,
+    38.055729,
+    -97.126644,
+    38.055729
+],
+  "geometry": {"coordinates":[-97.126644,38.055729],"type":"Point"}
+}

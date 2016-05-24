@@ -1,0 +1,73 @@
+{
+  "id": 840550145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.06256,39.116171,-95.06256,39.116171",
+    "geom:latitude":39.116171,
+    "geom:longitude":-95.06256,
+    "iso:country":"US",
+    "sg:address":"20997 State Ave",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 7867",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2agfd0gU3JpTTxR7dxCdYc_39.116171_-95.062560@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042511,
+    "wof:geomhash":"73dc989a9b393a7357de9275e9c1076c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840550145
+        }
+    ],
+    "wof:id":840550145,
+    "wof:lastmodified":1464042511,
+    "wof:name":"Stack & Stuff Storage",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -95.06256,
+    39.116171,
+    -95.06256,
+    39.116171
+],
+  "geometry": {"coordinates":[-95.06256,39.116171],"type":"Point"}
+}

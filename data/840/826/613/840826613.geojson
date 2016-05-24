@@ -1,0 +1,79 @@
+{
+  "id": 840826613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687597,38.994734,-95.687597,38.994734",
+    "geom:latitude":38.994734,
+    "geom:longitude":-95.687597,
+    "iso:country":"US",
+    "sg:address":"3825 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 8700",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34IfSKeQ9LEovin9Gt92fT_38.994734_-95.687597@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048926,
+    "wof:geomhash":"48946838c6b73272e4d1a54dd00f755e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840826613
+        }
+    ],
+    "wof:id":840826613,
+    "wof:lastmodified":1464048926,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -95.687597,
+    38.994734,
+    -95.687597,
+    38.994734
+],
+  "geometry": {"coordinates":[-95.687597,38.994734],"type":"Point"}
+}

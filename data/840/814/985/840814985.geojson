@@ -1,0 +1,73 @@
+{
+  "id": 840814985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.370799,37.649644,-97.370799,37.649644",
+    "geom:latitude":37.649644,
+    "geom:longitude":-97.370799,
+    "iso:country":"US",
+    "sg:address":"2490 S Meridian Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 7744",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vXnYqKYtJGULO2Kz2xIvF_37.649644_-97.370799@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048615,
+    "wof:geomhash":"71f7431c846360fe529073ff6b16f0b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840814985
+        }
+    ],
+    "wof:id":840814985,
+    "wof:lastmodified":1464048615,
+    "wof:name":"Heartland Transmission",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.370799,
+    37.649644,
+    -97.370799,
+    37.649644
+],
+  "geometry": {"coordinates":[-97.37079900000001,37.649644],"type":"Point"}
+}

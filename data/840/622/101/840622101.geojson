@@ -1,0 +1,73 @@
+{
+  "id": 840622101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.680833,38.854653,-94.680833,38.854653",
+    "geom:latitude":38.854653,
+    "geom:longitude":-94.680833,
+    "iso:country":"US",
+    "sg:address":"8240 W 151st St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 685 3300",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26W0pDWihsVR7UgYYsRolf_38.854653_-94.680833@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044213,
+    "wof:geomhash":"870199fcf58b48e2c52ef35dd69b0ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840622101
+        }
+    ],
+    "wof:id":840622101,
+    "wof:lastmodified":1464044213,
+    "wof:name":"Gameco",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -94.680833,
+    38.854653,
+    -94.680833,
+    38.854653
+],
+  "geometry": {"coordinates":[-94.68083300000001,38.854653],"type":"Point"}
+}

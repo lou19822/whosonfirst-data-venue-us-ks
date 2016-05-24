@@ -1,0 +1,71 @@
+{
+  "id": 840556201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.22779,38.42368,-96.22779,38.42368",
+    "geom:latitude":38.42368,
+    "geom:longitude":-96.22779,
+    "iso:country":"US",
+    "sg:address":"2107 Mount Vernon Ter",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4350",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HluFjZYF4zfjsIJ5p5dJQ_38.423680_-96.227790@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042651,
+    "wof:geomhash":"483db472acbe1063e983db79f3766217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840556201
+        }
+    ],
+    "wof:id":840556201,
+    "wof:lastmodified":1464042651,
+    "wof:name":"Old To New Photos",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -96.22779,
+    38.42368,
+    -96.22779,
+    38.42368
+],
+  "geometry": {"coordinates":[-96.22779,38.42368],"type":"Point"}
+}

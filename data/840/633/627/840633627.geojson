@@ -1,0 +1,73 @@
+{
+  "id": 840633627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.277732,37.641253,-97.277732,37.641253",
+    "geom:latitude":37.641253,
+    "geom:longitude":-97.277732,
+    "iso:country":"US",
+    "sg:address":"2951 S George Washington Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 2120",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lqe3C8f9fhitc3YOr8zLp_37.641253_-97.277732@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044529,
+    "wof:geomhash":"098ccec0a3e454937d8b40c68f8e637c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840633627
+        }
+    ],
+    "wof:id":840633627,
+    "wof:lastmodified":1464044529,
+    "wof:name":"Auto Electric Svc By Ken",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -97.277732,
+    37.641253,
+    -97.277732,
+    37.641253
+],
+  "geometry": {"coordinates":[-97.277732,37.641253],"type":"Point"}
+}

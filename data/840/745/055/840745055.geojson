@@ -1,0 +1,75 @@
+{
+  "id": 840745055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180157,38.40499,-96.180157,38.40499",
+    "geom:latitude":38.40499,
+    "geom:longitude":-96.180157,
+    "iso:country":"US",
+    "sg:address":"1 US Hwy 50",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9370",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HWr2s7BHnEFrgdaKnMUdt_38.404990_-96.180157@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046989,
+    "wof:geomhash":"009f80659a3882e1a7ddf1e2bc35f4a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840745055
+        }
+    ],
+    "wof:id":840745055,
+    "wof:lastmodified":1464046989,
+    "wof:name":"LEV Auto Detailing",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -96.180157,
+    38.40499,
+    -96.180157,
+    38.40499
+],
+  "geometry": {"coordinates":[-96.18015699999999,38.40499],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840595625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.6889,39.022428,-95.6889,39.022428",
+    "geom:latitude":39.022428,
+    "geom:longitude":-95.6889,
+    "iso:country":"US",
+    "sg:address":"2601 SW Fillmore St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 9500",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881563,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4THiCIl1BrBEzwc03F4YG3_39.022428_-95.688900@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043555,
+    "wof:geomhash":"78237302e3422304963a1ebe6cc0d7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881563,
+            "region_id":85688555,
+            "venue_id":840595625
+        }
+    ],
+    "wof:id":840595625,
+    "wof:lastmodified":1464043555,
+    "wof:name":"Prout Painting",
+    "wof:parent_id":85881563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.6889,
+    39.022428,
+    -95.6889,
+    39.022428
+],
+  "geometry": {"coordinates":[-95.6889,39.022428],"type":"Point"}
+}

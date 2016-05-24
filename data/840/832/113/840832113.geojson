@@ -1,0 +1,71 @@
+{
+  "id": 840832113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.393758,37.694669,-97.393758,37.694669",
+    "geom:latitude":37.694669,
+    "geom:longitude":-97.393758,
+    "iso:country":"US",
+    "sg:address":"4331 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 9997",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m3zKlTSiVFjloQyUEwnHo_37.694669_-97.393758@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049045,
+    "wof:geomhash":"d6d2258e55d182dedc9720587918f85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840832113
+        }
+    ],
+    "wof:id":840832113,
+    "wof:lastmodified":1464049045,
+    "wof:name":"New Caesars Palace Bar",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -97.393758,
+    37.694669,
+    -97.393758,
+    37.694669
+],
+  "geometry": {"coordinates":[-97.39375800000001,37.694669],"type":"Point"}
+}

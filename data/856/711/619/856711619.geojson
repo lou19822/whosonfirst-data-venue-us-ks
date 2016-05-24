@@ -1,0 +1,80 @@
+{
+  "id": 856711619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651639,39.016369,-95.651639,39.016369",
+    "geom:latitude":39.016369,
+    "geom:longitude":-95.651639,
+    "iso:country":"US",
+    "sg:address":"2835 SE California Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/74679-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 6400",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881543,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rjyb8g4yJCCd6CRiyX9un_39.015807_-95.651717@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052298,
+    "wof:geomhash":"21656e9f4223070a2121df8f0d843558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881543,
+            "region_id":85688555,
+            "venue_id":856711619
+        }
+    ],
+    "wof:id":856711619,
+    "wof:lastmodified":1464052298,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85881543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.651639,
+    39.016369,
+    -95.651639,
+    39.016369
+],
+  "geometry": {"coordinates":[-95.651639,39.016369],"type":"Point"}
+}

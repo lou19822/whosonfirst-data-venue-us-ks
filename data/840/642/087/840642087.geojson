@@ -1,0 +1,71 @@
+{
+  "id": 840642087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704798,37.402649,-94.704798,37.402649",
+    "geom:latitude":37.402649,
+    "geom:longitude":-94.704798,
+    "iso:country":"US",
+    "sg:address":"671 US Hwy 69 Bus",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1574",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fHqgilraUKrLYYPJA1kqn_37.402649_-94.704798@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044722,
+    "wof:geomhash":"a9d66647406a04c173801bbb320efe07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840642087
+        }
+    ],
+    "wof:id":840642087,
+    "wof:lastmodified":1464044722,
+    "wof:name":"Crawford County Highway Dept",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -94.704798,
+    37.402649,
+    -94.704798,
+    37.402649
+],
+  "geometry": {"coordinates":[-94.704798,37.402649],"type":"Point"}
+}

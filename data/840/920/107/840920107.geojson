@@ -1,0 +1,71 @@
+{
+  "id": 840920107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.978864,37.676534,-96.978864,37.676534",
+    "geom:latitude":37.676534,
+    "geom:longitude":-96.978864,
+    "iso:country":"US",
+    "sg:address":"526 State St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 3222",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "escrow"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lyCAr7ixhoCeS47xyUcgJ_37.676534_-96.978864@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050992,
+    "wof:geomhash":"0a17acf6737a56a962c5050767e1e7d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840920107
+        }
+    ],
+    "wof:id":840920107,
+    "wof:lastmodified":1464050992,
+    "wof:name":"Augusta Escrows Inc",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "escrow"
+    ]
+},
+  "bbox": [
+    -96.978864,
+    37.676534,
+    -96.978864,
+    37.676534
+],
+  "geometry": {"coordinates":[-96.978864,37.676534],"type":"Point"}
+}

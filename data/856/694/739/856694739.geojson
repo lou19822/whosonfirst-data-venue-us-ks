@@ -1,0 +1,71 @@
+{
+  "id": 856694739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.68646,39.028805,-94.68646,39.028805",
+    "geom:latitude":39.028805,
+    "geom:longitude":-94.68646,
+    "iso:country":"US",
+    "sg:address":"5500 Antioch Rd",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 789 7038",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:website":"http://www.cinemark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879555,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TphOfgEbBEeyEwoNjTY8V_39.028698_-94.686450@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464051955,
+    "wof:geomhash":"76d718d0477453d5c63e12fa0c967876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":856694739
+        }
+    ],
+    "wof:id":856694739,
+    "wof:lastmodified":1464051955,
+    "wof:name":"Cinemark Tinseltown",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.68646,
+    39.028805,
+    -94.68646,
+    39.028805
+],
+  "geometry": {"coordinates":[-94.68646,39.028805],"type":"Point"}
+}

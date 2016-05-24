@@ -1,0 +1,71 @@
+{
+  "id": 840830541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664696,39.103754,-95.664696,39.103754",
+    "geom:latitude":39.103754,
+    "geom:longitude":-95.664696,
+    "iso:country":"US",
+    "sg:address":"3123 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 3214",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "doll"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RyRnB9e3U0V6aRhT71gWU_39.103754_-95.664696@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049016,
+    "wof:geomhash":"94c7ee13cdba52e072a1004a792062b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840830541
+        }
+    ],
+    "wof:id":840830541,
+    "wof:lastmodified":1464049016,
+    "wof:name":"Antique Doll House",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doll"
+    ]
+},
+  "bbox": [
+    -95.664696,
+    39.103754,
+    -95.664696,
+    39.103754
+],
+  "geometry": {"coordinates":[-95.66469600000001,39.103754],"type":"Point"}
+}

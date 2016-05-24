@@ -1,0 +1,75 @@
+{
+  "id": 840714321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.262531,37.856538,-97.262531,37.856538",
+    "geom:latitude":37.856538,
+    "geom:longitude":-97.262531,
+    "iso:country":"US",
+    "sg:address":"9426 N Woodlawn St",
+    "sg:city":"Valley Center",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 282 0102",
+    "sg:postcode":"67147",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945835,
+        102084203,
+        85803671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43TpGddkjzKz5jMuBwVlpj_37.856538_-97.262531@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046392,
+    "wof:geomhash":"024151ede4c21980e3c244a6da0084f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945835,
+            "neighbourhood_id":85803671,
+            "region_id":85688555,
+            "venue_id":840714321
+        }
+    ],
+    "wof:id":840714321,
+    "wof:lastmodified":1464046392,
+    "wof:name":"Whitewater Fire Sprinkler",
+    "wof:parent_id":85803671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    -97.262531,
+    37.856538,
+    -97.262531,
+    37.856538
+],
+  "geometry": {"coordinates":[-97.262531,37.856538],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856694287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704915,37.431421,-94.704915,37.431421",
+    "geom:latitude":37.431421,
+    "geom:longitude":-94.704915,
+    "iso:country":"US",
+    "sg:address":"2525 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 9240",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FyBTy5dWJfk8LkGra2Xon_37.430981_-94.704973@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464051946,
+    "wof:geomhash":"04a8630fdadd67c5424b29173493346f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856694287
+        }
+    ],
+    "wof:id":856694287,
+    "wof:lastmodified":1464051946,
+    "wof:name":"Broadway Chiropractic Clinic",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -94.704915,
+    37.431421,
+    -94.704915,
+    37.431421
+],
+  "geometry": {"coordinates":[-94.704915,37.431421],"type":"Point"}
+}

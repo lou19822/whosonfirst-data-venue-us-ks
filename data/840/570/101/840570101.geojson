@@ -1,0 +1,73 @@
+{
+  "id": 840570101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.453606,37.695862,-97.453606,37.695862",
+    "geom:latitude":37.695862,
+    "geom:longitude":-97.453606,
+    "iso:country":"US",
+    "sg:address":"9500 Delano St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 5300",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "consultant",
+        "dairy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vb7b1xmw8EshJZElzETH2_37.695862_-97.453606@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042988,
+    "wof:geomhash":"8398649a0b9e4d5704fae91007dbb45c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840570101
+        }
+    ],
+    "wof:id":840570101,
+    "wof:lastmodified":1464042988,
+    "wof:name":"Midwest Dairy Council",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "dairy"
+    ]
+},
+  "bbox": [
+    -97.453606,
+    37.695862,
+    -97.453606,
+    37.695862
+],
+  "geometry": {"coordinates":[-97.45360599999999,37.695862],"type":"Point"}
+}

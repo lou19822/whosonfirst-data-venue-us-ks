@@ -1,0 +1,79 @@
+{
+  "id": 840542281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.426771,37.654704,-97.426771,37.654704",
+    "geom:latitude":37.654704,
+    "geom:longitude":-97.426771,
+    "iso:country":"US",
+    "sg:address":"2236 S Airport Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 946 4444",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531803,
+        85852945,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LQ1hSWkViIME7hTIp2eLR_37.654704_-97.426771@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042279,
+    "wof:geomhash":"8f1f2b01d7256c8bf68455658f506000",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531803,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85852945,
+            "region_id":85688555,
+            "venue_id":840542281
+        }
+    ],
+    "wof:id":840542281,
+    "wof:lastmodified":1464042279,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":102531803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.426771,
+    37.654704,
+    -97.426771,
+    37.654704
+],
+  "geometry": {"coordinates":[-97.426771,37.654704],"type":"Point"}
+}

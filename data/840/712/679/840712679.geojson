@@ -1,0 +1,67 @@
+{
+  "id": 840712679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389447,37.696132,-97.389447,37.696132",
+    "geom:latitude":37.696132,
+    "geom:longitude":-97.389447,
+    "iso:country":"US",
+    "sg:address":"710 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 946 5546",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ocOGIAULUYtnszEbcKu0B_37.696132_-97.389447@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046355,
+    "wof:geomhash":"b2aa8f7837f0e371b47ac0c5492343c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840712679
+        }
+    ],
+    "wof:id":840712679,
+    "wof:lastmodified":1464046355,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.389447,
+    37.696132,
+    -97.389447,
+    37.696132
+],
+  "geometry": {"coordinates":[-97.389447,37.696132],"type":"Point"}
+}

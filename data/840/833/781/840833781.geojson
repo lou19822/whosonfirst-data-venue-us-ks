@@ -1,0 +1,71 @@
+{
+  "id": 840833781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.218764,38.412335,-96.218764,38.412335",
+    "geom:latitude":38.412335,
+    "geom:longitude":-96.218764,
+    "iso:country":"US",
+    "sg:address":"2909 W 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9929",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yX49528sRSPL2W7gn3qtH_38.412335_-96.218764@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049080,
+    "wof:geomhash":"cfa8a1e39b2fb7b7878900d04a942e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840833781
+        }
+    ],
+    "wof:id":840833781,
+    "wof:lastmodified":1464049080,
+    "wof:name":"New Beginnings Health Care PA",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.218764,
+    38.412335,
+    -96.218764,
+    38.412335
+],
+  "geometry": {"coordinates":[-96.21876399999999,38.412335],"type":"Point"}
+}

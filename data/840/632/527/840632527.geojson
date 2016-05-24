@@ -1,0 +1,75 @@
+{
+  "id": 840632527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.280376,37.64551,-97.280376,37.64551",
+    "geom:latitude":37.64551,
+    "geom:longitude":-97.280376,
+    "iso:country":"US",
+    "sg:address":"2616 S Oliver St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 685 8197",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kMMel5tOghGtv80Tda9Qu_37.645510_-97.280376@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044499,
+    "wof:geomhash":"a88c46d3d0d60b0d7512368fecce0478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840632527
+        }
+    ],
+    "wof:id":840632527,
+    "wof:lastmodified":1464044499,
+    "wof:name":"Vo's Auto Body Repair",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -97.280376,
+    37.64551,
+    -97.280376,
+    37.64551
+],
+  "geometry": {"coordinates":[-97.280376,37.64551],"type":"Point"}
+}

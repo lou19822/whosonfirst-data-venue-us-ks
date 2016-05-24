@@ -1,0 +1,77 @@
+{
+  "id": 840829355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.759865,39.143155,-94.759865,39.143155",
+    "geom:latitude":39.143155,
+    "geom:longitude":-94.759865,
+    "iso:country":"US",
+    "sg:address":"7850 Leavenworth Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 4631",
+    "sg:postcode":"66109",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805915,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18JhpTUHmOsx52MyQjRBES_39.143155_-94.759865@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048992,
+    "wof:geomhash":"9aac4b51c59384eb396b62be879f1c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85805915,
+            "region_id":85688555,
+            "venue_id":840829355
+        }
+    ],
+    "wof:id":840829355,
+    "wof:lastmodified":1464048992,
+    "wof:name":"Specialty Automotive & Shop",
+    "wof:parent_id":85805915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.759865,
+    39.143155,
+    -94.759865,
+    39.143155
+],
+  "geometry": {"coordinates":[-94.759865,39.143155],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840637981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.980642,37.690281,-96.980642,37.690281",
+    "geom:latitude":37.690281,
+    "geom:longitude":-96.980642,
+    "iso:country":"US",
+    "sg:address":"1503 Washington Ln",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 0700",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JJx63OWZodPRmtT59ZVi2_37.690281_-96.980642@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044637,
+    "wof:geomhash":"06d11aa165485608dde019c58913f67d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840637981
+        }
+    ],
+    "wof:id":840637981,
+    "wof:lastmodified":1464044637,
+    "wof:name":"P T Plus",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -96.980642,
+    37.690281,
+    -96.980642,
+    37.690281
+],
+  "geometry": {"coordinates":[-96.980642,37.690281],"type":"Point"}
+}

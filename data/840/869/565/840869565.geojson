@@ -1,0 +1,75 @@
+{
+  "id": 840869565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.305552,37.693735,-97.305552,37.693735",
+    "geom:latitude":37.693735,
+    "geom:longitude":-97.305552,
+    "iso:country":"US",
+    "sg:address":"2630 E Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 651 0420",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38n9jLNFXbFbRiVXdcziO4_37.693735_-97.305552@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049846,
+    "wof:geomhash":"f035b72edd75abd038deea1d5dc1c06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840869565
+        }
+    ],
+    "wof:id":840869565,
+    "wof:lastmodified":1464049846,
+    "wof:name":"American Cleaners",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -97.305552,
+    37.693735,
+    -97.305552,
+    37.693735
+],
+  "geometry": {"coordinates":[-97.30555200000001,37.693735],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840536783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.629125,39.146591,-94.629125,39.146591",
+    "geom:latitude":39.146591,
+    "geom:longitude":-94.629125,
+    "iso:country":"US",
+    "sg:address":"1001 Sunshine Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 5566",
+    "sg:postcode":"66115",
+    "sg:province":"KS",
+    "sg:tags":[
+        "brass",
+        "foundry",
+        "bronze"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878501,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fKO7VIO13qDtVhjZBB6J8_39.146591_-94.629125@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042131,
+    "wof:geomhash":"8164f1bd70e4d68508d754e06c3fa477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878501,
+            "region_id":85688555,
+            "venue_id":840536783
+        }
+    ],
+    "wof:id":840536783,
+    "wof:lastmodified":1464042131,
+    "wof:name":"Ace Foundry",
+    "wof:parent_id":85878501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brass",
+        "foundry",
+        "bronze"
+    ]
+},
+  "bbox": [
+    -94.629125,
+    39.146591,
+    -94.629125,
+    39.146591
+],
+  "geometry": {"coordinates":[-94.629125,39.146591],"type":"Point"}
+}

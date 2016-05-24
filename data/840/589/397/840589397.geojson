@@ -1,0 +1,73 @@
+{
+  "id": 840589397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.297413,37.660432,-97.297413,37.660432",
+    "geom:latitude":37.660432,
+    "geom:longitude":-97.297413,
+    "iso:country":"US",
+    "sg:address":"1768 George Washington Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 685 1215",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "stereo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JA97sEpN5HBvHVwXsP1qd_37.660432_-97.297413@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043409,
+    "wof:geomhash":"8ada5eb873f62d031c3a11791765c9ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840589397
+        }
+    ],
+    "wof:id":840589397,
+    "wof:lastmodified":1464043409,
+    "wof:name":"Eric's Electronics Inc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "stereo"
+    ]
+},
+  "bbox": [
+    -97.297413,
+    37.660432,
+    -97.297413,
+    37.660432
+],
+  "geometry": {"coordinates":[-97.29741300000001,37.660432],"type":"Point"}
+}

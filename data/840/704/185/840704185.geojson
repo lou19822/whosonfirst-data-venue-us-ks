@@ -1,0 +1,71 @@
+{
+  "id": 840704185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.859889,37.809427,-96.859889,37.809427",
+    "geom:latitude":37.809427,
+    "geom:longitude":-96.859889,
+    "iso:country":"US",
+    "sg:address":"911 S Topeka St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3328",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q8kjwvkplZmgR2jHq4xvy_37.809427_-96.859889@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046186,
+    "wof:geomhash":"67b106dfbef77c6aaf144d8cee042622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840704185
+        }
+    ],
+    "wof:id":840704185,
+    "wof:lastmodified":1464046186,
+    "wof:name":"Pete Knoop Backhoe",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.859889,
+    37.809427,
+    -96.859889,
+    37.809427
+],
+  "geometry": {"coordinates":[-96.859889,37.809427],"type":"Point"}
+}

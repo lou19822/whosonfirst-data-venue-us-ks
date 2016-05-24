@@ -1,0 +1,73 @@
+{
+  "id": 840621431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.407369,37.722091,-97.407369,37.722091",
+    "geom:latitude":37.722091,
+    "geom:longitude":-97.407369,
+    "iso:country":"US",
+    "sg:address":"2120 N Hoover Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 0446",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69bvWlAhsjrNnlbSuIzlE2_37.722091_-97.407369@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044200,
+    "wof:geomhash":"35709d790192e2d7c6c952881ad2b298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840621431
+        }
+    ],
+    "wof:id":840621431,
+    "wof:lastmodified":1464044200,
+    "wof:name":"U-Needa Self Storage",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -97.407369,
+    37.722091,
+    -97.407369,
+    37.722091
+],
+  "geometry": {"coordinates":[-97.407369,37.722091],"type":"Point"}
+}

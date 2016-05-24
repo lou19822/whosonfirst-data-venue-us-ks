@@ -1,0 +1,72 @@
+{
+  "id": 856711927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135292,37.683294,-97.135292,37.683294",
+    "geom:latitude":37.683294,
+    "geom:longitude":-97.135292,
+    "iso:country":"US",
+    "sg:address":"336 S Andover Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/bruno/208137-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 5562",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iyjry5luy5kPuBzhMkik5_37.682923_-97.135187@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052304,
+    "wof:geomhash":"c00cdf67a0ccc74888890672a1d99993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":856711927
+        }
+    ],
+    "wof:id":856711927,
+    "wof:lastmodified":1464052304,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -97.135292,
+    37.683294,
+    -97.135292,
+    37.683294
+],
+  "geometry": {"coordinates":[-97.13529200000001,37.683294],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840814207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.323779,37.653413,-97.323779,37.653413",
+    "geom:latitude":37.653413,
+    "geom:longitude":-97.323779,
+    "iso:country":"US",
+    "sg:address":"2246 Laura St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 5745",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gwRUFXr9w83dlYgQlmqSE_37.653413_-97.323779@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048585,
+    "wof:geomhash":"a5e2aba6810f2ca2fe7e86243adb6173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840814207
+        }
+    ],
+    "wof:id":840814207,
+    "wof:lastmodified":1464048585,
+    "wof:name":"Dm Masonry & Tile Inc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.323779,
+    37.653413,
+    -97.323779,
+    37.653413
+],
+  "geometry": {"coordinates":[-97.323779,37.653413],"type":"Point"}
+}

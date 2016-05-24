@@ -1,0 +1,73 @@
+{
+  "id": 840702833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.779442,38.802416,-94.779442,38.802416",
+    "geom:latitude":38.802416,
+    "geom:longitude":-94.779442,
+    "iso:country":"US",
+    "sg:address":"17975 S Renner Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 592 2541",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nTitkf52odlmtagUhXrAh_38.802416_-94.779442@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046161,
+    "wof:geomhash":"15bc62462642b2dfa38d901aadcd4d34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840702833
+        }
+    ],
+    "wof:id":840702833,
+    "wof:lastmodified":1464046161,
+    "wof:name":"Allen Boyce Excavating Inc",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.779442,
+    38.802416,
+    -94.779442,
+    38.802416
+],
+  "geometry": {"coordinates":[-94.779442,38.802416],"type":"Point"}
+}

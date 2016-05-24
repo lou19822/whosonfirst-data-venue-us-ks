@@ -1,0 +1,73 @@
+{
+  "id": 840835635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389103,37.637727,-97.389103,37.637727",
+    "geom:latitude":37.637727,
+    "geom:longitude":-97.389103,
+    "iso:country":"US",
+    "sg:address":"3140 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 946 0033",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LREuaSaXXDsOEwPQxEaTI_37.637727_-97.389103@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049124,
+    "wof:geomhash":"86fa4ab608ecb0e6f48033887ac5695d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840835635
+        }
+    ],
+    "wof:id":840835635,
+    "wof:lastmodified":1464049124,
+    "wof:name":"Means Motors Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [
+    -97.389103,
+    37.637727,
+    -97.389103,
+    37.637727
+],
+  "geometry": {"coordinates":[-97.38910300000001,37.637727],"type":"Point"}
+}

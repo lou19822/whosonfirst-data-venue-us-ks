@@ -1,0 +1,79 @@
+{
+  "id": 840630259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.678451,39.039893,-95.678451,39.039893",
+    "geom:latitude":39.039893,
+    "geom:longitude":-95.678451,
+    "iso:country":"US",
+    "sg:address":"1417 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 2030",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners",
+        "parts",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oXJ7XdWHWTq97sIxYjyI9_39.039893_-95.678451@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044447,
+    "wof:geomhash":"beb0c9ee8ea33608ce8c120b4e52b658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840630259
+        }
+    ],
+    "wof:id":840630259,
+    "wof:lastmodified":1464044447,
+    "wof:name":"Topeka Vacuum",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "parts",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -95.678451,
+    39.039893,
+    -95.678451,
+    39.039893
+],
+  "geometry": {"coordinates":[-95.678451,39.039893],"type":"Point"}
+}

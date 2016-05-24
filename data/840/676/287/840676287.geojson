@@ -1,0 +1,71 @@
+{
+  "id": 840676287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.142932,38.357632,-96.142932,38.357632",
+    "geom:latitude":38.357632,
+    "geom:longitude":-96.142932,
+    "iso:country":"US",
+    "sg:address":"1257 Rd 137",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3081",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ktRpXcghpIIu2FTaXmugY_38.357632_-96.142932@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045470,
+    "wof:geomhash":"ef441a54cb7926254e4682780fdd0fab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840676287
+        }
+    ],
+    "wof:id":840676287,
+    "wof:lastmodified":1464045470,
+    "wof:name":"Dave's Pumping Svc",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -96.142932,
+    38.357632,
+    -96.142932,
+    38.357632
+],
+  "geometry": {"coordinates":[-96.142932,38.357632],"type":"Point"}
+}

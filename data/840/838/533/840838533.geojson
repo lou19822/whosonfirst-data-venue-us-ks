@@ -1,0 +1,66 @@
+{
+  "id": 840838533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.043547,39.813114,-101.043547,39.813114",
+    "geom:latitude":39.813114,
+    "geom:longitude":-101.043547,
+    "iso:country":"US",
+    "sg:address":"604 N 3rd St",
+    "sg:city":"Atwood",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 626 3008",
+    "sg:postcode":"67730",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946369,
+        102084169,
+        85837215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SmRdaNBnjP3G4IYghW7uA_39.813114_-101.043547@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049182,
+    "wof:geomhash":"eb2c6566d2f55992ebb2757637c962a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084169,
+            "locality_id":85946369,
+            "neighbourhood_id":85837215,
+            "region_id":85688555,
+            "venue_id":840838533
+        }
+    ],
+    "wof:id":840838533,
+    "wof:lastmodified":1464049182,
+    "wof:name":"Miller's Beauty Shop",
+    "wof:parent_id":85837215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.043547,
+    39.813114,
+    -101.043547,
+    39.813114
+],
+  "geometry": {"coordinates":[-101.043547,39.813114],"type":"Point"}
+}

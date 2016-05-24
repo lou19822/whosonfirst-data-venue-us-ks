@@ -1,0 +1,71 @@
+{
+  "id": 840717647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.611987,39.000674,-95.611987,39.000674",
+    "geom:latitude":39.000674,
+    "geom:longitude":-95.611987,
+    "iso:country":"US",
+    "sg:address":"3634 SE 37th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 7550",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BNVDNfN7kmyaaEV2Zr5Yv_39.000674_-95.611987@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046452,
+    "wof:geomhash":"6bb90bd141d27fd61249394bbfafa8b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840717647
+        }
+    ],
+    "wof:id":840717647,
+    "wof:lastmodified":1464046452,
+    "wof:name":"Walnut View Christian Church",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.611987,
+    39.000674,
+    -95.611987,
+    39.000674
+],
+  "geometry": {"coordinates":[-95.611987,39.000674],"type":"Point"}
+}

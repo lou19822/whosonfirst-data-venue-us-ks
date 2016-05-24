@@ -1,0 +1,75 @@
+{
+  "id": 840615693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.381336,37.696064,-97.381336,37.696064",
+    "geom:latitude":37.696064,
+    "geom:longitude":-97.381336,
+    "iso:country":"US",
+    "sg:address":"3321 W Zoo Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 8842",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872823,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MaySaiw98zz12STBq0o4r_37.696064_-97.381336@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044056,
+    "wof:geomhash":"4ecaa5132be2df1dd4c50e55f644f62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872823,
+            "region_id":85688555,
+            "venue_id":840615693
+        }
+    ],
+    "wof:id":840615693,
+    "wof:lastmodified":1464044056,
+    "wof:name":"Zoo Boulevard Apartments",
+    "wof:parent_id":85872823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.381336,
+    37.696064,
+    -97.381336,
+    37.696064
+],
+  "geometry": {"coordinates":[-97.381336,37.696064],"type":"Point"}
+}

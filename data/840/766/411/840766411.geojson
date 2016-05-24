@@ -1,0 +1,69 @@
+{
+  "id": 840766411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.127226,37.726163,-97.127226,37.726163",
+    "geom:latitude":37.726163,
+    "geom:longitude":-97.127226,
+    "iso:country":"US",
+    "sg:address":"818 E Crestline Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 5300",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JDhRmKLMRc7JbpmISKVWE_37.726163_-97.127226@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047486,
+    "wof:geomhash":"77c5ebbc0fba0bd3f0276174857b0e74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840766411
+        }
+    ],
+    "wof:id":840766411,
+    "wof:lastmodified":1464047486,
+    "wof:name":"Dave's Hot Food Svc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -97.127226,
+    37.726163,
+    -97.127226,
+    37.726163
+],
+  "geometry": {"coordinates":[-97.12722599999999,37.726163],"type":"Point"}
+}

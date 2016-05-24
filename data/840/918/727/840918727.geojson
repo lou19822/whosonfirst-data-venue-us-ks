@@ -1,0 +1,71 @@
+{
+  "id": 840918727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.749541,39.105496,-95.749541,39.105496",
+    "geom:latitude":39.105496,
+    "geom:longitude":-95.749541,
+    "iso:country":"US",
+    "sg:address":"5450 NW 33rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2180",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_360WT01HpSmSIeKBqENToJ_39.105496_-95.749541@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050965,
+    "wof:geomhash":"d011810b728cc74aaa911b41f870e8a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840918727
+        }
+    ],
+    "wof:id":840918727,
+    "wof:lastmodified":1464050965,
+    "wof:name":"Skinner Electric",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.749541,
+    39.105496,
+    -95.749541,
+    39.105496
+],
+  "geometry": {"coordinates":[-95.74954099999999,39.105496],"type":"Point"}
+}

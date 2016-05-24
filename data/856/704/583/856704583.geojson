@@ -1,0 +1,74 @@
+{
+  "id": 856704583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.088616,39.109275,-95.088616,39.109275",
+    "geom:latitude":39.109275,
+    "geom:longitude":-95.088616,
+    "iso:country":"US",
+    "sg:address":"427 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/tonganoxie/224725-bichelmeyers-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 2337",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XPeXMeFQO6UAqEiKwrR3j_39.109275_-95.088616@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052162,
+    "wof:geomhash":"e47e8f7c15ebe1750aaf23dff42df09c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":856704583
+        }
+    ],
+    "wof:id":856704583,
+    "wof:lastmodified":1464052162,
+    "wof:name":"Bichelmeyer's Steakhouse",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -95.088616,
+    39.109275,
+    -95.088616,
+    39.109275
+],
+  "geometry": {"coordinates":[-95.088616,39.109275],"type":"Point"}
+}

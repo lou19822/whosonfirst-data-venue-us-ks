@@ -1,0 +1,74 @@
+{
+  "id": 840842625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687839,38.98435,-95.687839,38.98435",
+    "geom:latitude":38.98435,
+    "geom:longitude":-95.687839,
+    "iso:country":"US",
+    "sg:address":"4607 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 9999",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.ironhorseauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08em4jit8vkfm4InhErRCA_38.984350_-95.687839@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049285,
+    "wof:geomhash":"7a19b685560868ee33d97c3e1b342181",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840842625
+        }
+    ],
+    "wof:id":840842625,
+    "wof:lastmodified":1464049285,
+    "wof:name":"Ironhorse Auto Inc",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.687839,
+    38.98435,
+    -95.687839,
+    38.98435
+],
+  "geometry": {"coordinates":[-95.687839,38.98435],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 840720729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.556657,38.986083,-95.556657,38.986083",
+    "geom:latitude":38.986083,
+    "geom:longitude":-95.556657,
+    "iso:country":"US",
+    "sg:address":"4401 SE Shawnee Heights Rd",
+    "sg:city":"Tecumseh",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 379 5800",
+    "sg:postcode":"66542",
+    "sg:province":"KS",
+    "sg:website":"www.snh450.k12.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vlBRfSKei98DCI6Ei7bsq_38.986083_-95.556657@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046523,
+    "wof:geomhash":"2759ef2688ba76184a02819d65b5f46e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840720729
+        }
+    ],
+    "wof:id":840720729,
+    "wof:lastmodified":1464046523,
+    "wof:name":"Shawnee Heights Superintendent",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.556657,
+    38.986083,
+    -95.556657,
+    38.986083
+],
+  "geometry": {"coordinates":[-95.556657,38.986083],"type":"Point"}
+}

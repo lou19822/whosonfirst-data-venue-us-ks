@@ -1,0 +1,74 @@
+{
+  "id": 856707499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704935,37.398222,-94.704935,37.398222",
+    "geom:latitude":37.398222,
+    "geom:longitude":-94.704935,
+    "iso:country":"US",
+    "sg:address":"1103 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/pittsburg/115631-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4488",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51GVqBK4h4oAQFZvGZqmCG_37.398222_-94.704935@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052220,
+    "wof:geomhash":"962f3c8a5387a422a3f19a75be3cd175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856707499
+        }
+    ],
+    "wof:id":856707499,
+    "wof:lastmodified":1464052220,
+    "wof:name":"Subway",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.704935,
+    37.398222,
+    -94.704935,
+    37.398222
+],
+  "geometry": {"coordinates":[-94.70493500000001,37.398222],"type":"Point"}
+}

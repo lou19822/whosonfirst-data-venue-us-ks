@@ -1,0 +1,79 @@
+{
+  "id": 840666367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899861,39.273136,-94.899861,39.273136",
+    "geom:latitude":39.273136,
+    "geom:longitude":-94.899861,
+    "iso:country":"US",
+    "sg:address":"4616 S 4th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 5858",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844391,
+        102191575,
+        404504467,
+        85633793,
+        85945367,
+        102083429,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bbhf77J47lvK7wPTtBjIx_39.273136_-94.899861@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045240,
+    "wof:geomhash":"edc563672e3417d770041b4ccd60cdef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504467,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":840666367
+        }
+    ],
+    "wof:id":840666367,
+    "wof:lastmodified":1464045240,
+    "wof:name":"Butler's Muffler & Brake",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.899861,
+    39.273136,
+    -94.899861,
+    39.273136
+],
+  "geometry": {"coordinates":[-94.899861,39.273136],"type":"Point"}
+}

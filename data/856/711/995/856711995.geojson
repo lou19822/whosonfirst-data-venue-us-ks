@@ -1,0 +1,93 @@
+{
+  "id": 856711995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.866126,37.817361,-96.866126,37.817361",
+    "geom:latitude":37.817361,
+    "geom:longitude":-96.866126,
+    "iso:country":"US",
+    "sg:address":"1243 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/el-dorado/230939-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 621 0840",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gcspJinjGYPiFZ716b9sd_37.817321_-96.866375@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052305,
+    "wof:geomhash":"65c00c30f24d277a8f0055451a3a4f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":856711995
+        }
+    ],
+    "wof:id":856711995,
+    "wof:lastmodified":1464052305,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -96.866126,
+    37.817361,
+    -96.866126,
+    37.817361
+],
+  "geometry": {"coordinates":[-96.86612599999999,37.817361],"type":"Point"}
+}

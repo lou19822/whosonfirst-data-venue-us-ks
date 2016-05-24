@@ -1,0 +1,76 @@
+{
+  "id": 856704427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.776325,38.88416,-94.776325,38.88416",
+    "geom:latitude":38.88416,
+    "geom:longitude":-94.776325,
+    "iso:country":"US",
+    "sg:address":"16600 W 135th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/208180-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 1546",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VTLoacy4IwDdiBtcMxZbA_38.884160_-94.776325@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052158,
+    "wof:geomhash":"b227c0dd28793de0db3889c05b25b150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704427
+        }
+    ],
+    "wof:id":856704427,
+    "wof:lastmodified":1464052158,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.776325,
+    38.88416,
+    -94.776325,
+    38.88416
+],
+  "geometry": {"coordinates":[-94.776325,38.88416],"type":"Point"}
+}

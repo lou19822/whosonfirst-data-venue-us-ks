@@ -1,0 +1,73 @@
+{
+  "id": 840819325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.048868,37.679723,-97.048868,37.679723",
+    "geom:latitude":37.679723,
+    "geom:longitude":-97.048868,
+    "iso:country":"US",
+    "sg:address":"11234 SW US Hwy 54",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 7303",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MEeJPB9lcmve6xPXV3ji1_37.679723_-97.048868@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048734,
+    "wof:geomhash":"f34b0233179e65b3b560aad4b38a2fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840819325
+        }
+    ],
+    "wof:id":840819325,
+    "wof:lastmodified":1464048734,
+    "wof:name":"Ron Knepp Motors LLC",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.048868,
+    37.679723,
+    -97.048868,
+    37.679723
+],
+  "geometry": {"coordinates":[-97.048868,37.679723],"type":"Point"}
+}

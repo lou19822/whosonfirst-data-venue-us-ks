@@ -1,0 +1,70 @@
+{
+  "id": 840622121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.651732,39.125491,-94.651732,39.125491",
+    "geom:latitude":39.125491,
+    "geom:longitude":-94.651732,
+    "iso:country":"US",
+    "sg:address":"1839 Glendale Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 7538",
+    "sg:postcode":"66104",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878501,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gJunZLngcAwgEdDdKaj7j_39.125491_-94.651732@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044214,
+    "wof:geomhash":"fb487facf1147e5189bdb005d1725258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878501,
+            "region_id":85688555,
+            "venue_id":840622121
+        }
+    ],
+    "wof:id":840622121,
+    "wof:lastmodified":1464044214,
+    "wof:name":"Acme Pest Control",
+    "wof:parent_id":85878501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.651732,
+    39.125491,
+    -94.651732,
+    39.125491
+],
+  "geometry": {"coordinates":[-94.651732,39.125491],"type":"Point"}
+}

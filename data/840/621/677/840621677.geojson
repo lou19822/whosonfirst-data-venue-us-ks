@@ -1,0 +1,73 @@
+{
+  "id": 840621677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.643402,37.673155,-97.643402,37.673155",
+    "geom:latitude":37.673155,
+    "geom:longitude":-97.643402,
+    "iso:country":"US",
+    "sg:address":"1000 S 263rd St W",
+    "sg:city":"Garden Plain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 531 2642",
+    "sg:postcode":"67050",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zGNVktIjsx8bzOPyOx1uL_37.673155_-97.643402@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044204,
+    "wof:geomhash":"cd5d2c9edf116da6fb08cf5c3914d8ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840621677
+        }
+    ],
+    "wof:id":840621677,
+    "wof:lastmodified":1464044204,
+    "wof:name":"Allens Chimney Sweeps",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -97.643402,
+    37.673155,
+    -97.643402,
+    37.673155
+],
+  "geometry": {"coordinates":[-97.64340199999999,37.673155],"type":"Point"}
+}

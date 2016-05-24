@@ -1,0 +1,73 @@
+{
+  "id": 840718045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.647312,39.109799,-95.647312,39.109799",
+    "geom:latitude":39.109799,
+    "geom:longitude":-95.647312,
+    "iso:country":"US",
+    "sg:address":"410 NE 35th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 1777",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UOkX4KDxwaHuK94fKPapD_39.109799_-95.647312@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046459,
+    "wof:geomhash":"d674e24fb14bd77f8b2427137844c68b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840718045
+        }
+    ],
+    "wof:id":840718045,
+    "wof:lastmodified":1464046459,
+    "wof:name":"J D's Lawn & Garden",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.647312,
+    39.109799,
+    -95.647312,
+    39.109799
+],
+  "geometry": {"coordinates":[-95.647312,39.109799],"type":"Point"}
+}

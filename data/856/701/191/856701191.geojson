@@ -1,0 +1,78 @@
+{
+  "id": 856701191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.712396,37.41114,-94.712396,37.41114",
+    "geom:latitude":37.41114,
+    "geom:longitude":-94.712396,
+    "iso:country":"US",
+    "sg:address":"512 W 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4600",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "tune",
+        "automobile"
+    ],
+    "sg:website":"http://www.napaautocare.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xTH3lHwjCVBg2fm2dsaPZ_37.411170_-94.712094@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052083,
+    "wof:geomhash":"350d6301363ef1bc3824c25650376ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856701191
+        }
+    ],
+    "wof:id":856701191,
+    "wof:lastmodified":1464052083,
+    "wof:name":"King's Automotive",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "tune",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.712396,
+    37.41114,
+    -94.712396,
+    37.41114
+],
+  "geometry": {"coordinates":[-94.712396,37.41114],"type":"Point"}
+}

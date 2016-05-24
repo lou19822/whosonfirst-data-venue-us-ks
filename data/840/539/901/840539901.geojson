@@ -1,0 +1,73 @@
+{
+  "id": 840539901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.314212,37.571094,-97.314212,37.571094",
+    "geom:latitude":37.571094,
+    "geom:longitude":-97.314212,
+    "iso:country":"US",
+    "sg:address":"1855 E 68th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 3800",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48r2h5LYawF97GnKtDQL1i_37.571094_-97.314212@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042215,
+    "wof:geomhash":"8ad8c1433a27e56d8d6da648b1cd20e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840539901
+        }
+    ],
+    "wof:id":840539901,
+    "wof:lastmodified":1464042215,
+    "wof:name":"Big Jakes Truck & Auto",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.314212,
+    37.571094,
+    -97.314212,
+    37.571094
+],
+  "geometry": {"coordinates":[-97.314212,37.571094],"type":"Point"}
+}

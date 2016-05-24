@@ -1,0 +1,73 @@
+{
+  "id": 840684277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705029,37.437408,-94.705029,37.437408",
+    "geom:latitude":37.437408,
+    "geom:longitude":-94.705029,
+    "iso:country":"US",
+    "sg:address":"3001 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0831",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IepssaQDeRM4j5G6AgWLQ_37.437408_-94.705029@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045673,
+    "wof:geomhash":"b25257b0d7a29b4ffc8f54bafed106c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840684277
+        }
+    ],
+    "wof:id":840684277,
+    "wof:lastmodified":1464045673,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -94.705029,
+    37.437408,
+    -94.705029,
+    37.437408
+],
+  "geometry": {"coordinates":[-94.705029,37.437408],"type":"Point"}
+}

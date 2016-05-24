@@ -1,0 +1,73 @@
+{
+  "id": 840849905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.691254,37.45507,-94.691254,37.45507",
+    "geom:latitude":37.45507,
+    "geom:longitude":-94.691254,
+    "iso:country":"US",
+    "sg:address":"101 E McKay St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 8767",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VJERNxxKgmxpbpORc7aDt_37.455070_-94.691254@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049436,
+    "wof:geomhash":"9be50f08136dbfe1bc09255f9b917cb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840849905
+        }
+    ],
+    "wof:id":840849905,
+    "wof:lastmodified":1464049436,
+    "wof:name":"Burns Auto Repair",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.691254,
+    37.45507,
+    -94.691254,
+    37.45507
+],
+  "geometry": {"coordinates":[-94.691254,37.45507],"type":"Point"}
+}

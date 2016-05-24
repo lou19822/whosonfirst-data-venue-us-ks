@@ -1,0 +1,71 @@
+{
+  "id": 840593757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.614399,39.003075,-95.614399,39.003075",
+    "geom:latitude":39.003075,
+    "geom:longitude":-95.614399,
+    "iso:country":"US",
+    "sg:address":"3531 SE Croco Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 4266",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wIxX4XzoctQs9e1OlSgll_39.003075_-95.614399@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043507,
+    "wof:geomhash":"f64a80626e61f48a46415dfc42e41b06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840593757
+        }
+    ],
+    "wof:id":840593757,
+    "wof:lastmodified":1464043507,
+    "wof:name":"Marias Lunch Wagon",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -95.614399,
+    39.003075,
+    -95.614399,
+    39.003075
+],
+  "geometry": {"coordinates":[-95.61439900000001,39.003075],"type":"Point"}
+}

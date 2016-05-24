@@ -1,0 +1,78 @@
+{
+  "id": 856704621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.669238,39.116751,-94.669238,39.116751",
+    "geom:latitude":39.116751,
+    "geom:longitude":-94.669238,
+    "iso:country":"US",
+    "sg:address":"3610 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/166932-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 621 3131",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878497,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CUbWAqIEihhyvBIweApvt_39.116751_-94.669238@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052164,
+    "wof:geomhash":"54220cee57a16b4f3c4d35664caff24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878497,
+            "region_id":85688555,
+            "venue_id":856704621
+        }
+    ],
+    "wof:id":856704621,
+    "wof:lastmodified":1464052164,
+    "wof:name":"Burger King",
+    "wof:parent_id":85878497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.669238,
+    39.116751,
+    -94.669238,
+    39.116751
+],
+  "geometry": {"coordinates":[-94.66923800000001,39.116751],"type":"Point"}
+}

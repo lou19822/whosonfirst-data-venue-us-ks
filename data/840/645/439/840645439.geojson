@@ -1,0 +1,75 @@
+{
+  "id": 840645439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.34171,37.664358,-97.34171,37.664358",
+    "geom:latitude":37.664358,
+    "geom:longitude":-97.34171,
+    "iso:country":"US",
+    "sg:address":"324 W Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 6858",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872835,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10H4Z5O9XM7694H0JzJ7u0_37.664358_-97.341710@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044790,
+    "wof:geomhash":"a553ce4675a95fd62a8fd5b599581c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872835,
+            "region_id":85688555,
+            "venue_id":840645439
+        }
+    ],
+    "wof:id":840645439,
+    "wof:lastmodified":1464044790,
+    "wof:name":"San Miguel Grocery",
+    "wof:parent_id":85872835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -97.34171,
+    37.664358,
+    -97.34171,
+    37.664358
+],
+  "geometry": {"coordinates":[-97.34171000000001,37.664358],"type":"Point"}
+}

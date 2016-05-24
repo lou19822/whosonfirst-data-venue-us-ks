@@ -1,0 +1,71 @@
+{
+  "id": 840786733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.382247,37.639298,-97.382247,37.639298",
+    "geom:latitude":37.639298,
+    "geom:longitude":-97.382247,
+    "iso:country":"US",
+    "sg:address":"3010 All Hallows St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 5073",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xt1K7r0gsjZMBetvc979a_37.639298_-97.382247@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047915,
+    "wof:geomhash":"c15cb469505d453b810836e1c0929e06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840786733
+        }
+    ],
+    "wof:id":840786733,
+    "wof:lastmodified":1464047915,
+    "wof:name":"Law Co Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -97.382247,
+    37.639298,
+    -97.382247,
+    37.639298
+],
+  "geometry": {"coordinates":[-97.38224700000001,37.639298],"type":"Point"}
+}

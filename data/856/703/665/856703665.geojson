@@ -1,0 +1,80 @@
+{
+  "id": 856703665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.90716,38.813526,-94.90716,38.813526",
+    "geom:latitude":38.813526,
+    "geom:longitude":-94.90716,
+    "iso:country":"US",
+    "sg:address":"937 E Lincoln Ln",
+    "sg:city":"Gardner",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/gardner/74676-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 884 7200",
+    "sg:postcode":"66030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iDCXLiCZG76VKbFP5pBpZ_38.813526_-94.907160@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052143,
+    "wof:geomhash":"d450fcc7f0d046b6075875e3ff7ad8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856703665
+        }
+    ],
+    "wof:id":856703665,
+    "wof:lastmodified":1464052143,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.90716,
+    38.813526,
+    -94.90716,
+    38.813526
+],
+  "geometry": {"coordinates":[-94.90716,38.813526],"type":"Point"}
+}

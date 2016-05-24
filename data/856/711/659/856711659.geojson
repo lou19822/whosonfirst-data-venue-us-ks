@@ -1,0 +1,80 @@
+{
+  "id": 856711659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761107,39.014591,-95.761107,39.014591",
+    "geom:latitude":39.014591,
+    "geom:longitude":-95.761107,
+    "iso:country":"US",
+    "sg:address":"5967 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/124563-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 758 228 1500",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ivRFnrX6GzvnasAp7XNJT_39.014599_-95.760418@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052299,
+    "wof:geomhash":"6a8ce0fb9062c58ed9c76d67411239b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856711659
+        }
+    ],
+    "wof:id":856711659,
+    "wof:lastmodified":1464052299,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.761107,
+    39.014591,
+    -95.761107,
+    39.014591
+],
+  "geometry": {"coordinates":[-95.761107,39.014591],"type":"Point"}
+}

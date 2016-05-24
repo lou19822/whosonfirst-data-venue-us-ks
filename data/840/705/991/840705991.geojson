@@ -1,0 +1,76 @@
+{
+  "id": 840705991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.257529,37.55759,-97.257529,37.55759",
+    "geom:latitude":37.55759,
+    "geom:longitude":-97.257529,
+    "iso:country":"US",
+    "sg:address":"1228 N Patrick Henry St",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 1500",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46YSjctPabUhXWi0pMuEHK_37.557590_-97.257529@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046223,
+    "wof:geomhash":"e93d5140d7830f4b6362a511735ae85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840705991
+        }
+    ],
+    "wof:id":840705991,
+    "wof:lastmodified":1464046223,
+    "wof:name":"Miracle Crane Inc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -97.257529,
+    37.55759,
+    -97.257529,
+    37.55759
+],
+  "geometry": {"coordinates":[-97.25752900000001,37.55759],"type":"Point"}
+}

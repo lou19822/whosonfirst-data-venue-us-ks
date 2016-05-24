@@ -1,0 +1,77 @@
+{
+  "id": 840917179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.676377,39.044473,-95.676377,39.044473",
+    "geom:latitude":39.044473,
+    "geom:longitude":-95.676377,
+    "iso:country":"US",
+    "sg:address":"1000 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 1420",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rxewsrQJFpGMQUjtiJtTv_39.044473_-95.676377@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050937,
+    "wof:geomhash":"05d0da7a8b85e5571fbf3b797af27a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840917179
+        }
+    ],
+    "wof:id":840917179,
+    "wof:lastmodified":1464050937,
+    "wof:name":"Domme Dance Center",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -95.676377,
+    39.044473,
+    -95.676377,
+    39.044473
+],
+  "geometry": {"coordinates":[-95.676377,39.044473],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840764743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.894321,37.817401,-96.894321,37.817401",
+    "geom:latitude":37.817401,
+    "geom:longitude":-96.894321,
+    "iso:country":"US",
+    "sg:address":"2908 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3720",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ydmdg6SWDx0jSi6RmHzhT_37.817401_-96.894321@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047443,
+    "wof:geomhash":"c3a610fcfb811a971bddeec1c4939456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840764743
+        }
+    ],
+    "wof:id":840764743,
+    "wof:lastmodified":1464047443,
+    "wof:name":"Fenton Motors",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -96.894321,
+    37.817401,
+    -96.894321,
+    37.817401
+],
+  "geometry": {"coordinates":[-96.89432100000001,37.817401],"type":"Point"}
+}

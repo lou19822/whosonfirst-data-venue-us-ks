@@ -1,0 +1,71 @@
+{
+  "id": 840698653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.692832,37.389043,-94.692832,37.389043",
+    "geom:latitude":37.389043,
+    "geom:longitude":-94.692832,
+    "iso:country":"US",
+    "sg:address":"822 E Ford Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1472",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QBV7rOJXASVIobNoe55D3_37.389043_-94.692832@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046055,
+    "wof:geomhash":"0fce438b882423093322a6cbd1690958",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840698653
+        }
+    ],
+    "wof:id":840698653,
+    "wof:lastmodified":1464046055,
+    "wof:name":"Buttonwood Apartments",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.692832,
+    37.389043,
+    -94.692832,
+    37.389043
+],
+  "geometry": {"coordinates":[-94.692832,37.389043],"type":"Point"}
+}

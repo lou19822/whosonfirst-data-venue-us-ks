@@ -1,0 +1,77 @@
+{
+  "id": 840854155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.330372,37.622679,-97.330372,37.622679",
+    "geom:latitude":37.622679,
+    "geom:longitude":-97.330372,
+    "iso:country":"US",
+    "sg:address":"530 E Macarthur Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 1344",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834033,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kv5emtuP2YCqG6woayk8z_37.622679_-97.330372@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049528,
+    "wof:geomhash":"fcb2458d210af26c1f65ba43846dd4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85834033,
+            "region_id":85688555,
+            "venue_id":840854155
+        }
+    ],
+    "wof:id":840854155,
+    "wof:lastmodified":1464049528,
+    "wof:name":"AGD Svc & Repair",
+    "wof:parent_id":85834033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.330372,
+    37.622679,
+    -97.330372,
+    37.622679
+],
+  "geometry": {"coordinates":[-97.330372,37.622679],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840626635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135124,37.694422,-97.135124,37.694422",
+    "geom:latitude":37.694422,
+    "geom:longitude":-97.135124,
+    "iso:country":"US",
+    "sg:address":"546 N Andover Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 7887",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZYNg0rJBdfYYaYTS6V9Q3_37.694422_-97.135124@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044343,
+    "wof:geomhash":"e570db9c5eaa56920ad26175e9734521",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840626635
+        }
+    ],
+    "wof:id":840626635,
+    "wof:lastmodified":1464044343,
+    "wof:name":"Exotic Pets",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.135124,
+    37.694422,
+    -97.135124,
+    37.694422
+],
+  "geometry": {"coordinates":[-97.135124,37.694422],"type":"Point"}
+}

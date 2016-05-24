@@ -1,0 +1,69 @@
+{
+  "id": 840635993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.732968,39.090429,-95.732968,39.090429",
+    "geom:latitude":39.090429,
+    "geom:longitude":-95.732968,
+    "iso:country":"US",
+    "sg:address":"4425 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 3131",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QAAkWUpGTe7CEmyjaf9pz_39.090429_-95.732968@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044588,
+    "wof:geomhash":"fa2cccf6d52ed90476b865c3023b5892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840635993
+        }
+    ],
+    "wof:id":840635993,
+    "wof:lastmodified":1464044588,
+    "wof:name":"Hoyt's Truck Repair",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -95.732968,
+    39.090429,
+    -95.732968,
+    39.090429
+],
+  "geometry": {"coordinates":[-95.732968,39.090429],"type":"Point"}
+}

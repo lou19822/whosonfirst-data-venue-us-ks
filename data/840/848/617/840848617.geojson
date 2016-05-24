@@ -1,0 +1,73 @@
+{
+  "id": 840848617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.377308,37.774517,-97.377308,37.774517",
+    "geom:latitude":37.774517,
+    "geom:longitude":-97.377308,
+    "iso:country":"US",
+    "sg:address":"5037 N Sandkey Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 821 0936",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NFcaTgaXQZ7oYGFenb4Zh_37.774517_-97.377308@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049411,
+    "wof:geomhash":"7938424a3ce3331813d1aa4e85b8aeaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840848617
+        }
+    ],
+    "wof:id":840848617,
+    "wof:lastmodified":1464049411,
+    "wof:name":"Douglas A Engel",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.377308,
+    37.774517,
+    -97.377308,
+    37.774517
+],
+  "geometry": {"coordinates":[-97.377308,37.774517],"type":"Point"}
+}

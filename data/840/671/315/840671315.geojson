@@ -1,0 +1,73 @@
+{
+  "id": 840671315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.850524,37.824716,-96.850524,37.824716",
+    "geom:latitude":37.824716,
+    "geom:longitude":-96.850524,
+    "iso:country":"US",
+    "sg:address":"119 W 6th Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 2447",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RKR40YFxn1jbJbMoA4kt7_37.824716_-96.850524@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045342,
+    "wof:geomhash":"0d0c46b4db11b18f76246065f07f3968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840671315
+        }
+    ],
+    "wof:id":840671315,
+    "wof:lastmodified":1464045342,
+    "wof:name":"El Dorado Muffler Shop",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.850524,
+    37.824716,
+    -96.850524,
+    37.824716
+],
+  "geometry": {"coordinates":[-96.85052399999999,37.824716],"type":"Point"}
+}

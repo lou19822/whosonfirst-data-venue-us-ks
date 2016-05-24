@@ -1,0 +1,75 @@
+{
+  "id": 840882611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.216963,38.41749,-96.216963,38.41749",
+    "geom:latitude":38.41749,
+    "geom:longitude":-96.216963,
+    "iso:country":"US",
+    "sg:address":"1612 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0881",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lY4WsiTD84WJOYxkABurB_38.417490_-96.216963@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050122,
+    "wof:geomhash":"3948e4a1501ed138eb3513629d884d83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840882611
+        }
+    ],
+    "wof:id":840882611,
+    "wof:lastmodified":1464050122,
+    "wof:name":"US Navy Recruiting",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -96.216963,
+    38.41749,
+    -96.216963,
+    38.41749
+],
+  "geometry": {"coordinates":[-96.21696300000001,38.41749],"type":"Point"}
+}

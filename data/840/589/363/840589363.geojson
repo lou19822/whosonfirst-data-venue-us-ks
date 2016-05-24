@@ -1,0 +1,71 @@
+{
+  "id": 840589363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.725245,39.143335,-95.725245,39.143335",
+    "geom:latitude":39.143335,
+    "geom:longitude":-95.725245,
+    "iso:country":"US",
+    "sg:address":"5329 NW Lana Ct",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2588",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D7VcmzqCC8EU3426DXpbx_39.143335_-95.725245@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043409,
+    "wof:geomhash":"35ac514257d52c97461aec8cfd1045c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840589363
+        }
+    ],
+    "wof:id":840589363,
+    "wof:lastmodified":1464043409,
+    "wof:name":"Nations Home Builders Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -95.725245,
+    39.143335,
+    -95.725245,
+    39.143335
+],
+  "geometry": {"coordinates":[-95.725245,39.143335],"type":"Point"}
+}

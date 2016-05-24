@@ -1,0 +1,66 @@
+{
+  "id": 840899375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.012448,39.210944,-95.012448,39.210944",
+    "geom:latitude":39.210944,
+    "geom:longitude":-95.012448,
+    "iso:country":"US",
+    "sg:address":"23674 187th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 3200",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_162eLjINcNTyhID00Jq1uq_39.210944_-95.012448@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050476,
+    "wof:geomhash":"a767d89a6d481d7e317c9a7f822e1f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840899375
+        }
+    ],
+    "wof:id":840899375,
+    "wof:lastmodified":1464050476,
+    "wof:name":"Leavenworth County Weed Cntrl",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.012448,
+    39.210944,
+    -95.012448,
+    39.210944
+],
+  "geometry": {"coordinates":[-95.01244800000001,39.210944],"type":"Point"}
+}

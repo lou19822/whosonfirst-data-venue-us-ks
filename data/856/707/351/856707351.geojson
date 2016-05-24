@@ -1,0 +1,74 @@
+{
+  "id": 856707351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687503,38.960465,-95.687503,38.960465",
+    "geom:latitude":38.960465,
+    "geom:longitude":-95.687503,
+    "iso:country":"US",
+    "sg:address":"5916 SW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/115664-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 1429",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yUQiSkfTXxR9Bzlefbg4z_38.960465_-95.687503@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052217,
+    "wof:geomhash":"4c7292e870d5361583b7d820ee5e13cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":856707351
+        }
+    ],
+    "wof:id":856707351,
+    "wof:lastmodified":1464052217,
+    "wof:name":"Subway",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.687503,
+    38.960465,
+    -95.687503,
+    38.960465
+],
+  "geometry": {"coordinates":[-95.68750300000001,38.960465],"type":"Point"}
+}

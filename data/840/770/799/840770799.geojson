@@ -1,0 +1,79 @@
+{
+  "id": 840770799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.675062,39.036131,-95.675062,39.036131",
+    "geom:latitude":39.036131,
+    "geom:longitude":-95.675062,
+    "iso:country":"US",
+    "sg:address":"1701 SE Madison St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 3605",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bUbTGrYHPrQkZj3ibRsUa_39.036131_-95.675062@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047588,
+    "wof:geomhash":"faa119ce76b45f53f0be2317e49f858c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840770799
+        }
+    ],
+    "wof:id":840770799,
+    "wof:lastmodified":1464047588,
+    "wof:name":"Hammond Asphalt Co",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -95.675062,
+    39.036131,
+    -95.675062,
+    39.036131
+],
+  "geometry": {"coordinates":[-95.675062,39.036131],"type":"Point"}
+}

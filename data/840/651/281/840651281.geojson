@@ -1,0 +1,71 @@
+{
+  "id": 840651281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.207628,38.4221,-96.207628,38.4221",
+    "geom:latitude":38.4221,
+    "geom:longitude":-96.207628,
+    "iso:country":"US",
+    "sg:address":"2000 Prairie St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8317",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k8Z15Kdxv0FKdMYfK4Pwi_38.422100_-96.207628@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044916,
+    "wof:geomhash":"9d77d6f62fc72a041324dac562e8467e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840651281
+        }
+    ],
+    "wof:id":840651281,
+    "wof:lastmodified":1464044916,
+    "wof:name":"Maplewood Memorial Lawn Cmtrs",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -96.207628,
+    38.4221,
+    -96.207628,
+    38.4221
+],
+  "geometry": {"coordinates":[-96.207628,38.4221],"type":"Point"}
+}

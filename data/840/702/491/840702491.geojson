@@ -1,0 +1,71 @@
+{
+  "id": 840702491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700317,37.398484,-94.700317,37.398484",
+    "geom:latitude":37.398484,
+    "geom:longitude":-94.700317,
+    "iso:country":"US",
+    "sg:address":"411 E Madison St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 3228",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ia59nGWZkf1vyAoVcUU7J_37.398484_-94.700317@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046155,
+    "wof:geomhash":"97cf9313dec2c5cd3dedb36c365d4596",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840702491
+        }
+    ],
+    "wof:id":840702491,
+    "wof:lastmodified":1464046155,
+    "wof:name":"Family & Children Together Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -94.700317,
+    37.398484,
+    -94.700317,
+    37.398484
+],
+  "geometry": {"coordinates":[-94.700317,37.398484],"type":"Point"}
+}

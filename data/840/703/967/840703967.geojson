@@ -1,0 +1,73 @@
+{
+  "id": 840703967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.38625,37.636947,-97.38625,37.636947",
+    "geom:latitude":37.636947,
+    "geom:longitude":-97.38625,
+    "iso:country":"US",
+    "sg:address":"3842 W 31st St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 0240",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ACPqoD6PGuH0jkGH5uC1b_37.636947_-97.386250@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046182,
+    "wof:geomhash":"aef0b4b871bcb4e4116be916e4882290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840703967
+        }
+    ],
+    "wof:id":840703967,
+    "wof:lastmodified":1464046182,
+    "wof:name":"Del's Complete Auto Repair",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.38625,
+    37.636947,
+    -97.38625,
+    37.636947
+],
+  "geometry": {"coordinates":[-97.38625,37.636947],"type":"Point"}
+}

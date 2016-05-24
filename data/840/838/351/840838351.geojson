@@ -1,0 +1,71 @@
+{
+  "id": 840838351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.19924,38.405097,-96.19924,38.405097",
+    "geom:latitude":38.405097,
+    "geom:longitude":-96.19924,
+    "iso:country":"US",
+    "sg:address":"1512 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0103",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kk6PcPby7FlIH1fRcTkiC_38.405097_-96.199240@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049179,
+    "wof:geomhash":"f0ecfc40ad66a9f1f3eac0468da59cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840838351
+        }
+    ],
+    "wof:id":840838351,
+    "wof:lastmodified":1464049179,
+    "wof:name":"Habitat For Humanity",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -96.19924,
+    38.405097,
+    -96.19924,
+    38.405097
+],
+  "geometry": {"coordinates":[-96.19924,38.405097],"type":"Point"}
+}

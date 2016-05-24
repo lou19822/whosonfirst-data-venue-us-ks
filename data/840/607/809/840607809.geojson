@@ -1,0 +1,75 @@
+{
+  "id": 840607809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.678786,39.092453,-95.678786,39.092453",
+    "geom:latitude":39.092453,
+    "geom:longitude":-95.678786,
+    "iso:country":"US",
+    "sg:address":"2325 NW Clay St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 8987",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wUQ4MaanjdgkSvoMN4qXP_39.092453_-95.678786@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043861,
+    "wof:geomhash":"8b76193d84a7d6671cbb3aa09d13f34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840607809
+        }
+    ],
+    "wof:id":840607809,
+    "wof:lastmodified":1464043861,
+    "wof:name":"Double Diamond Insulation",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.678786,
+    39.092453,
+    -95.678786,
+    39.092453
+],
+  "geometry": {"coordinates":[-95.678786,39.092453],"type":"Point"}
+}

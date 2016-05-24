@@ -1,0 +1,82 @@
+{
+  "id": 856711103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.768406,39.116285,-94.768406,39.116285",
+    "geom:latitude":39.116285,
+    "geom:longitude":-94.768406,
+    "iso:country":"US",
+    "sg:address":"8145 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/94685-mr-goodcents-subs--pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 788 3800",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SigENlcPPKkOoJ3J8sAAq_39.116298_-94.768796@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052288,
+    "wof:geomhash":"ec7b56e019286e2e14c4c05b3d52deed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":856711103
+        }
+    ],
+    "wof:id":856711103,
+    "wof:lastmodified":1464052288,
+    "wof:name":"Mr. Goodcents Subs & Pasta",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.768406,
+    39.116285,
+    -94.768406,
+    39.116285
+],
+  "geometry": {"coordinates":[-94.768406,39.116285],"type":"Point"}
+}

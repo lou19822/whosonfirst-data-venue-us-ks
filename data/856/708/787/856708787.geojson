@@ -1,0 +1,78 @@
+{
+  "id": 856708787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.246563,37.66468,-97.246563,37.66468",
+    "geom:latitude":37.66468,
+    "geom:longitude":-97.246563,
+    "iso:country":"US",
+    "sg:address":"7815 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/115682-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 652 7770",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806685,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZZ84noFg00sLq2Eit8Tyz_37.664680_-97.246563@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052243,
+    "wof:geomhash":"261dfc5ec219b22e0fe79bcc61065847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85806685,
+            "region_id":85688555,
+            "venue_id":856708787
+        }
+    ],
+    "wof:id":856708787,
+    "wof:lastmodified":1464052243,
+    "wof:name":"Subway",
+    "wof:parent_id":85806685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -97.246563,
+    37.66468,
+    -97.246563,
+    37.66468
+],
+  "geometry": {"coordinates":[-97.24656299999999,37.66468],"type":"Point"}
+}

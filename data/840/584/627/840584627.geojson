@@ -1,0 +1,71 @@
+{
+  "id": 840584627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.821652,39.061272,-94.821652,39.061272",
+    "geom:latitude":39.061272,
+    "geom:longitude":-94.821652,
+    "iso:country":"US",
+    "sg:address":"104 S 4 St",
+    "sg:city":"Edwardsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 422 8573",
+    "sg:postcode":"66111",
+    "sg:province":"KS",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810945,
+        102191575,
+        404504873,
+        85633793,
+        85945799,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H4ppCD4u9VlUrmXdlPKOE_39.061272_-94.821652@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043303,
+    "wof:geomhash":"8780ef69e29ae37cad4c57a27cef2cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504873,
+            "locality_id":85945799,
+            "neighbourhood_id":85810945,
+            "region_id":85688555,
+            "venue_id":840584627
+        }
+    ],
+    "wof:id":840584627,
+    "wof:lastmodified":1464043303,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85810945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.821652,
+    39.061272,
+    -94.821652,
+    39.061272
+],
+  "geometry": {"coordinates":[-94.821652,39.061272],"type":"Point"}
+}

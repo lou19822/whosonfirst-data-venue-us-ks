@@ -1,0 +1,78 @@
+{
+  "id": 840680789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.622651,39.056983,-94.622651,39.056983",
+    "geom:latitude":39.056983,
+    "geom:longitude":-94.622651,
+    "iso:country":"US",
+    "sg:address":"4001 Mission Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 4949",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "sg:website":"www.williamscarver.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866785,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32MjoivEKvnAdEJPW0k0Uv_39.056983_-94.622651@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045596,
+    "wof:geomhash":"92d1d8abfb02a70c7cf5649bc69e40da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":840680789
+        }
+    ],
+    "wof:id":840680789,
+    "wof:lastmodified":1464045596,
+    "wof:name":"Williams-Carver Co",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.622651,
+    39.056983,
+    -94.622651,
+    39.056983
+],
+  "geometry": {"coordinates":[-94.622651,39.056983],"type":"Point"}
+}

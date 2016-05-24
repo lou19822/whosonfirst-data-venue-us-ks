@@ -1,0 +1,73 @@
+{
+  "id": 840624731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.131467,37.692072,-97.131467,37.692072",
+    "geom:latitude":37.692072,
+    "geom:longitude":-97.131467,
+    "iso:country":"US",
+    "sg:address":"305 Farmer Ave",
+    "sg:city":"Belle Plaine",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 488 2826",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f71hEGdkSysrBA8jKK2oS_37.692072_-97.131467@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044288,
+    "wof:geomhash":"1da800c3febb68d74e1e66f8cdb4ca3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840624731
+        }
+    ],
+    "wof:id":840624731,
+    "wof:lastmodified":1464044288,
+    "wof:name":"MFC Used Cars",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.131467,
+    37.692072,
+    -97.131467,
+    37.692072
+],
+  "geometry": {"coordinates":[-97.131467,37.692072],"type":"Point"}
+}

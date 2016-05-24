@@ -1,0 +1,77 @@
+{
+  "id": 840795629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.878647,39.065181,-94.878647,39.065181",
+    "geom:latitude":39.065181,
+    "geom:longitude":-94.878647,
+    "iso:country":"US",
+    "sg:address":"520 E Morse Ave",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 2515",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851431,
+        102191575,
+        404504871,
+        85633793,
+        85945359,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kum9kBjgiILozXqj0D21Z_39.065181_-94.878647@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048090,
+    "wof:geomhash":"5aa0987df1933a44c4315273c5dda349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504871,
+            "locality_id":85945359,
+            "neighbourhood_id":85851431,
+            "region_id":85688555,
+            "venue_id":840795629
+        }
+    ],
+    "wof:id":840795629,
+    "wof:lastmodified":1464048090,
+    "wof:name":"CLC",
+    "wof:parent_id":85851431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -94.878647,
+    39.065181,
+    -94.878647,
+    39.065181
+],
+  "geometry": {"coordinates":[-94.878647,39.065181],"type":"Point"}
+}

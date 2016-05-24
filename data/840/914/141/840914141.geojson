@@ -1,0 +1,71 @@
+{
+  "id": 840914141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.392222,37.660154,-97.392222,37.660154",
+    "geom:latitude":37.660154,
+    "geom:longitude":-97.392222,
+    "iso:country":"US",
+    "sg:address":"1950 S Florence St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 3444",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kv5EbTDGVoE2Xk2F69V2i_37.660154_-97.392222@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050854,
+    "wof:geomhash":"65922877182c2680b7148c52cd47fafe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840914141
+        }
+    ],
+    "wof:id":840914141,
+    "wof:lastmodified":1464050854,
+    "wof:name":"Shaw Environmental/Infrstrctr",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -97.392222,
+    37.660154,
+    -97.392222,
+    37.660154
+],
+  "geometry": {"coordinates":[-97.392222,37.660154],"type":"Point"}
+}

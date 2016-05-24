@@ -1,0 +1,75 @@
+{
+  "id": 840759629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.696929,39.044163,-95.696929,39.044163",
+    "geom:latitude":39.044163,
+    "geom:longitude":-95.696929,
+    "iso:country":"US",
+    "sg:address":"1400 SW Huntoon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 4114",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54d4vKJTar6UTH8NXUAYfY_39.044163_-95.696929@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047325,
+    "wof:geomhash":"4b3a97bdec04219ccce7fdffecce2337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840759629
+        }
+    ],
+    "wof:id":840759629,
+    "wof:lastmodified":1464047325,
+    "wof:name":"Dillon Store",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -95.696929,
+    39.044163,
+    -95.696929,
+    39.044163
+],
+  "geometry": {"coordinates":[-95.696929,39.044163],"type":"Point"}
+}

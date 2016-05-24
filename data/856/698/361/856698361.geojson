@@ -1,0 +1,77 @@
+{
+  "id": 856698361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.701603,37.411122,-94.701603,37.411122",
+    "geom:latitude":37.411122,
+    "geom:longitude":-94.701603,
+    "iso:country":"US",
+    "sg:address":"315 E 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 6230",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pqE00hQKjioQhA6Bv9aiD_37.411135_-94.701664@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052027,
+    "wof:geomhash":"7758348724467b230a82352f5eada6c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856698361
+        }
+    ],
+    "wof:id":856698361,
+    "wof:lastmodified":1464052027,
+    "wof:name":"Vietti Auto Body Shop",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.701603,
+    37.411122,
+    -94.701603,
+    37.411122
+],
+  "geometry": {"coordinates":[-94.70160300000001,37.411122],"type":"Point"}
+}

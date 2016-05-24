@@ -1,0 +1,73 @@
+{
+  "id": 840725035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.698103,37.400252,-94.698103,37.400252",
+    "geom:latitude":37.400252,
+    "geom:longitude":-94.698103,
+    "iso:country":"US",
+    "sg:address":"905 S Smelter St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 6695",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zFLYqShN00XpoI5UXmeTN_37.400252_-94.698103@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046617,
+    "wof:geomhash":"cfdc2dc83cfd56cc755150728ee6c936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840725035
+        }
+    ],
+    "wof:id":840725035,
+    "wof:lastmodified":1464046617,
+    "wof:name":"Four State Computer",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -94.698103,
+    37.400252,
+    -94.698103,
+    37.400252
+],
+  "geometry": {"coordinates":[-94.698103,37.400252],"type":"Point"}
+}

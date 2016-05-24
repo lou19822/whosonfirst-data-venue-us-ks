@@ -1,0 +1,81 @@
+{
+  "id": 840665661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.642856,38.97327,-94.642856,38.97327",
+    "geom:latitude":38.97327,
+    "geom:longitude":-94.642856,
+    "iso:country":"US",
+    "sg:address":"5001 W 86th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 642 3800",
+    "sg:postcode":"66207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "owner",
+        "building",
+        "apartment",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879545,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x4muZSgywKz1tFVt3oAYy_38.973270_-94.642856@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045225,
+    "wof:geomhash":"a204c85b67a5026c6ca241bded144503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879545,
+            "region_id":85688555,
+            "venue_id":840665661
+        }
+    ],
+    "wof:id":840665661,
+    "wof:lastmodified":1464045225,
+    "wof:name":"Spring Valley Apartments",
+    "wof:parent_id":85879545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owner",
+        "building",
+        "apartment",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -94.642856,
+    38.97327,
+    -94.642856,
+    38.97327
+],
+  "geometry": {"coordinates":[-94.64285599999999,38.97327],"type":"Point"}
+}

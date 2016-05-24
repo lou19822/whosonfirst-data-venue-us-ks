@@ -1,0 +1,75 @@
+{
+  "id": 840775163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.726914,37.4136,-94.726914,37.4136",
+    "geom:latitude":37.4136,
+    "geom:longitude":-94.726914,
+    "iso:country":"US",
+    "sg:address":"1902 N Main St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 3326",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bulk",
+        "storage",
+        "tank"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Fa1wwAhKEASF4qHD9uhe_37.413600_-94.726914@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047669,
+    "wof:geomhash":"59ada541611a0b0e66ebe90c70e837a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840775163
+        }
+    ],
+    "wof:id":840775163,
+    "wof:lastmodified":1464047669,
+    "wof:name":"Burke Oil Co Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "storage",
+        "tank"
+    ]
+},
+  "bbox": [
+    -94.726914,
+    37.4136,
+    -94.726914,
+    37.4136
+],
+  "geometry": {"coordinates":[-94.72691399999999,37.4136],"type":"Point"}
+}

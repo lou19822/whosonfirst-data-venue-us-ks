@@ -1,0 +1,71 @@
+{
+  "id": 840930591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.486678,37.699276,-97.486678,37.699276",
+    "geom:latitude":37.699276,
+    "geom:longitude":-97.486678,
+    "iso:country":"US",
+    "sg:address":"12506 Kenny Cir",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 6131",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "guard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xXFKYeCWlq24PHhzkRywH_37.699276_-97.486678@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051262,
+    "wof:geomhash":"3feae86ab768a0beb4898229c2374cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840930591
+        }
+    ],
+    "wof:id":840930591,
+    "wof:lastmodified":1464051262,
+    "wof:name":"Kevin Ternes",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard"
+    ]
+},
+  "bbox": [
+    -97.486678,
+    37.699276,
+    -97.486678,
+    37.699276
+],
+  "geometry": {"coordinates":[-97.486678,37.699276],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856691481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704965,37.392419,-94.704965,37.392419",
+    "geom:latitude":37.392419,
+    "geom:longitude":-94.704965,
+    "iso:country":"US",
+    "sg:address":"103 E Cleveland Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7000",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.psuvetmemorial.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kqE3QlBNCUOyxZWu1SSWa_37.392419_-94.704965@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051897,
+    "wof:geomhash":"d105e28b594a88c01c988529776f817a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856691481
+        }
+    ],
+    "wof:id":856691481,
+    "wof:lastmodified":1464051897,
+    "wof:name":"Pittsburg State University",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -94.704965,
+    37.392419,
+    -94.704965,
+    37.392419
+],
+  "geometry": {"coordinates":[-94.704965,37.392419],"type":"Point"}
+}

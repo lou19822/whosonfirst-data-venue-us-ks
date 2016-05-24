@@ -1,0 +1,77 @@
+{
+  "id": 840716639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.765841,39.013563,-95.765841,39.013563",
+    "geom:latitude":39.013563,
+    "geom:longitude":-95.765841,
+    "iso:country":"US",
+    "sg:address":"2901 SW Armstrong Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 228 1184",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L7LrBAch7Hz0nxgyXEo8N_39.013563_-95.765841@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046433,
+    "wof:geomhash":"f2802c952c9b91d04a505abe696ecc7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840716639
+        }
+    ],
+    "wof:id":840716639,
+    "wof:lastmodified":1464046433,
+    "wof:name":"Preferred Registry-Nurses",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -95.765841,
+    39.013563,
+    -95.765841,
+    39.013563
+],
+  "geometry": {"coordinates":[-95.76584099999999,39.013563],"type":"Point"}
+}

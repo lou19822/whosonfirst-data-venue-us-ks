@@ -1,0 +1,78 @@
+{
+  "id": 856706937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.708736,39.036935,-95.708736,39.036935",
+    "geom:latitude":39.036935,
+    "geom:longitude":-95.708736,
+    "iso:country":"US",
+    "sg:address":"2518 SW 17th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/115656-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 5400",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TSQEckcZXMQ7POSXiqK3U_39.036935_-95.708736@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052206,
+    "wof:geomhash":"efd71755fcaf06d8fa6dec3b4b4eb802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":856706937
+        }
+    ],
+    "wof:id":856706937,
+    "wof:lastmodified":1464052206,
+    "wof:name":"Subway",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.708736,
+    39.036935,
+    -95.708736,
+    39.036935
+],
+  "geometry": {"coordinates":[-95.708736,39.036935],"type":"Point"}
+}

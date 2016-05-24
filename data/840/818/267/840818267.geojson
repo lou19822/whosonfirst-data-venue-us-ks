@@ -1,0 +1,71 @@
+{
+  "id": 840818267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.168127,38.405066,-96.168127,38.405066",
+    "geom:latitude":38.405066,
+    "geom:longitude":-96.168127,
+    "iso:country":"US",
+    "sg:address":"812 E 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2111",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76XO5R1OLzhJzEnVY3xlJ1_38.405066_-96.168127@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048704,
+    "wof:geomhash":"fe55de97d4084f82c306b612dac6206b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840818267
+        }
+    ],
+    "wof:id":840818267,
+    "wof:lastmodified":1464048704,
+    "wof:name":"Short Stops",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.168127,
+    38.405066,
+    -96.168127,
+    38.405066
+],
+  "geometry": {"coordinates":[-96.168127,38.405066],"type":"Point"}
+}

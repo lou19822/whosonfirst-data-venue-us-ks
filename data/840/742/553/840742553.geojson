@@ -1,0 +1,77 @@
+{
+  "id": 840742553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.773751,39.116281,-94.773751,39.116281",
+    "geom:latitude":39.116281,
+    "geom:longitude":-94.773751,
+    "iso:country":"US",
+    "sg:address":"8345 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 2333",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HD05kzoqIDk4u5uFt2t9f_39.116281_-94.773751@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046942,
+    "wof:geomhash":"fcb998debe28aa230a9f185d74d68cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840742553
+        }
+    ],
+    "wof:id":840742553,
+    "wof:lastmodified":1464046942,
+    "wof:name":"Frank's Used Cars",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.773751,
+    39.116281,
+    -94.773751,
+    39.116281
+],
+  "geometry": {"coordinates":[-94.773751,39.116281],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840885627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.371505,37.737865,-97.371505,37.737865",
+    "geom:latitude":37.737865,
+    "geom:longitude":-97.371505,
+    "iso:country":"US",
+    "sg:address":"3030 N Meridian Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 1337",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77ACUVb7oPEzpPKJhS0PRK_37.737865_-97.371505@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050192,
+    "wof:geomhash":"a6a1c3e683ccf053ef0d3e37d22ce461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840885627
+        }
+    ],
+    "wof:id":840885627,
+    "wof:lastmodified":1464050192,
+    "wof:name":"Alcoholics Anonymous",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -97.371505,
+    37.737865,
+    -97.371505,
+    37.737865
+],
+  "geometry": {"coordinates":[-97.371505,37.737865],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840628657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.717525,39.130814,-95.717525,39.130814",
+    "geom:latitude":39.130814,
+    "geom:longitude":-95.717525,
+    "iso:country":"US",
+    "sg:address":"4700 NW Hunters Ridge Cir",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 4000",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S7htDoIYcrQ18yzmhVOY5_39.130814_-95.717525@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044397,
+    "wof:geomhash":"9c055aa944a864620d2b10d82a46b6a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840628657
+        }
+    ],
+    "wof:id":840628657,
+    "wof:lastmodified":1464044397,
+    "wof:name":"Indy Lube Oil Change Ctr",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -95.717525,
+    39.130814,
+    -95.717525,
+    39.130814
+],
+  "geometry": {"coordinates":[-95.71752499999999,39.130814],"type":"Point"}
+}

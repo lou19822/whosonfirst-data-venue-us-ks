@@ -1,0 +1,71 @@
+{
+  "id": 840932755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.862988,37.80518,-96.862988,37.80518",
+    "geom:latitude":37.80518,
+    "geom:longitude":-96.862988,
+    "iso:country":"US",
+    "sg:address":"1227 Ford St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 0658",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02HF2X3B4zZphV4ICpoxpq_37.805180_-96.862988@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051302,
+    "wof:geomhash":"7fad674212285a14b16630ce914b19ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840932755
+        }
+    ],
+    "wof:id":840932755,
+    "wof:lastmodified":1464051302,
+    "wof:name":"T Electric",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.862988,
+    37.80518,
+    -96.862988,
+    37.80518
+],
+  "geometry": {"coordinates":[-96.862988,37.80518],"type":"Point"}
+}

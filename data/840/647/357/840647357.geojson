@@ -1,0 +1,73 @@
+{
+  "id": 840647357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.976441,37.677909,-96.976441,37.677909",
+    "geom:latitude":37.677909,
+    "geom:longitude":-96.976441,
+    "iso:country":"US",
+    "sg:address":"620 Osage St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 6971",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vBJXSYPMgNR75xCpTLim7_37.677909_-96.976441@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044829,
+    "wof:geomhash":"c3e5c0d2daf83120aa87c17f863be598",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840647357
+        }
+    ],
+    "wof:id":840647357,
+    "wof:lastmodified":1464044829,
+    "wof:name":"Augusta Housing Authority",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -96.976441,
+    37.677909,
+    -96.976441,
+    37.677909
+],
+  "geometry": {"coordinates":[-96.97644099999999,37.677909],"type":"Point"}
+}

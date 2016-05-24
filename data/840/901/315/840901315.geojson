@@ -1,0 +1,71 @@
+{
+  "id": 840901315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.217091,38.416817,-96.217091,38.416817",
+    "geom:latitude":38.416817,
+    "geom:longitude":-96.217091,
+    "iso:country":"US",
+    "sg:address":"1525 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6811",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78T7hn4oLOYe6IXbpN0kNB_38.416817_-96.217091@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050526,
+    "wof:geomhash":"e6940f5b54405035be4a4e73d969d6a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840901315
+        }
+    ],
+    "wof:id":840901315,
+    "wof:lastmodified":1464050526,
+    "wof:name":"Interstate Brands Corp",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -96.217091,
+    38.416817,
+    -96.217091,
+    38.416817
+],
+  "geometry": {"coordinates":[-96.217091,38.416817],"type":"Point"}
+}

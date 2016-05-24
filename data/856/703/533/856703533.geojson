@@ -1,0 +1,74 @@
+{
+  "id": 856703533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.939768,39.116726,-94.939768,39.116726",
+    "geom:latitude":39.116726,
+    "geom:longitude":-94.939768,
+    "iso:country":"US",
+    "sg:address":"15516 State Ave",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/fairmount/207293-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 2194",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q0xvErxSMkbGZ21IOcWNg_39.116726_-94.939768@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052140,
+    "wof:geomhash":"17a8419fa5096b540ac58b2ae462967a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":856703533
+        }
+    ],
+    "wof:id":856703533,
+    "wof:lastmodified":1464052140,
+    "wof:name":"Sonic",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.939768,
+    39.116726,
+    -94.939768,
+    39.116726
+],
+  "geometry": {"coordinates":[-94.939768,39.116726],"type":"Point"}
+}

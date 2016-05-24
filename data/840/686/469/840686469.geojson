@@ -1,0 +1,73 @@
+{
+  "id": 840686469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.518981,37.857444,-97.518981,37.857444",
+    "geom:latitude":37.857444,
+    "geom:longitude":-97.518981,
+    "iso:country":"US",
+    "sg:address":"9757 N 151st St W",
+    "sg:city":"Sedgwick",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 1015",
+    "sg:postcode":"67135",
+    "sg:province":"KS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UTXLQgzIcZvwQ0lkbJT5Q_37.857444_-97.518981@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045731,
+    "wof:geomhash":"8a4af72d71ce7aa56a45355e144723cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840686469
+        }
+    ],
+    "wof:id":840686469,
+    "wof:lastmodified":1464045731,
+    "wof:name":"Jacob Farm",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.518981,
+    37.857444,
+    -97.518981,
+    37.857444
+],
+  "geometry": {"coordinates":[-97.518981,37.857444],"type":"Point"}
+}

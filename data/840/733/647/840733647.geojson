@@ -1,0 +1,73 @@
+{
+  "id": 840733647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.314271,37.5954,-97.314271,37.5954",
+    "geom:latitude":37.5954,
+    "geom:longitude":-97.314271,
+    "iso:country":"US",
+    "sg:address":"5471 S Minneapolis St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 4969",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5geB8LOvwegbd9MdZAMNGt_37.595400_-97.314271@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046775,
+    "wof:geomhash":"b0f084874c7191f8915f11bbfc1005ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840733647
+        }
+    ],
+    "wof:id":840733647,
+    "wof:lastmodified":1464046775,
+    "wof:name":"Keazac Security",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -97.314271,
+    37.5954,
+    -97.314271,
+    37.5954
+],
+  "geometry": {"coordinates":[-97.31427100000001,37.5954],"type":"Point"}
+}

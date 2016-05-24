@@ -1,0 +1,79 @@
+{
+  "id": 840851763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.743076,39.042841,-95.743076,39.042841",
+    "geom:latitude":39.042841,
+    "geom:longitude":-95.743076,
+    "iso:country":"US",
+    "sg:address":"1234 SW Fairlawn Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 5999",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ln6dCcheTFvQBjwdfskC3_39.042841_-95.743076@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049480,
+    "wof:geomhash":"0bb9ab199b7bd129318034220486507c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":840851763
+        }
+    ],
+    "wof:id":840851763,
+    "wof:lastmodified":1464049480,
+    "wof:name":"Children's Day Out",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -95.743076,
+    39.042841,
+    -95.743076,
+    39.042841
+],
+  "geometry": {"coordinates":[-95.743076,39.042841],"type":"Point"}
+}

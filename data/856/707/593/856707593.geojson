@@ -1,0 +1,74 @@
+{
+  "id": 856707593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180165,38.411224,-96.180165,38.411224",
+    "geom:latitude":38.411224,
+    "geom:longitude":-96.180165,
+    "iso:country":"US",
+    "sg:address":"1113 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/230792-wings/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9866",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KNXNcsnI11vFMw98hGh8i_38.411224_-96.180165@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052222,
+    "wof:geomhash":"661b8f3de05366bc4a7dc8cf445c1000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707593
+        }
+    ],
+    "wof:id":856707593,
+    "wof:lastmodified":1464052222,
+    "wof:name":"Wings",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -96.180165,
+    38.411224,
+    -96.180165,
+    38.411224
+],
+  "geometry": {"coordinates":[-96.180165,38.411224],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840823399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704751,37.416936,-94.704751,37.416936",
+    "geom:latitude":37.416936,
+    "geom:longitude":-94.704751,
+    "iso:country":"US",
+    "sg:address":"908 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 2333",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "parlor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hpqV0TnKJslRN8sd7nBSK_37.416936_-94.704751@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048858,
+    "wof:geomhash":"e2ca680a92976d4b634628ff1387be50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840823399
+        }
+    ],
+    "wof:id":840823399,
+    "wof:lastmodified":1464048858,
+    "wof:name":"Jayhawk Shoe Repair",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor"
+    ]
+},
+  "bbox": [
+    -94.704751,
+    37.416936,
+    -94.704751,
+    37.416936
+],
+  "geometry": {"coordinates":[-94.704751,37.416936],"type":"Point"}
+}

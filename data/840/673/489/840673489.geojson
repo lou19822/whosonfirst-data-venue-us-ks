@@ -1,0 +1,73 @@
+{
+  "id": 840673489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180032,38.409802,-96.180032,38.409802",
+    "geom:latitude":38.409802,
+    "geom:longitude":-96.180032,
+    "iso:country":"US",
+    "sg:address":"906 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9440",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house",
+        "construct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yvQF8V2eZfCrKEB4shjQZ_38.409802_-96.180032@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045401,
+    "wof:geomhash":"6260dda942b08fe83289d0c6442390ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840673489
+        }
+    ],
+    "wof:id":840673489,
+    "wof:lastmodified":1464045401,
+    "wof:name":"Advance Real Estate Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "construct"
+    ]
+},
+  "bbox": [
+    -96.180032,
+    38.409802,
+    -96.180032,
+    38.409802
+],
+  "geometry": {"coordinates":[-96.180032,38.409802],"type":"Point"}
+}

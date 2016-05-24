@@ -1,0 +1,77 @@
+{
+  "id": 840817327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.662209,39.075221,-94.662209,39.075221",
+    "geom:latitude":39.075221,
+    "geom:longitude":-94.662209,
+    "iso:country":"US",
+    "sg:address":"2900 Strong Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 403 9544",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a5Z3g5hDOBC7vY6HL8m3o_39.075221_-94.662209@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048670,
+    "wof:geomhash":"820e8eb64fcfcce71154c69ee568675f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840817327
+        }
+    ],
+    "wof:id":840817327,
+    "wof:lastmodified":1464048670,
+    "wof:name":"Los Paisanos Garage",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.662209,
+    39.075221,
+    -94.662209,
+    39.075221
+],
+  "geometry": {"coordinates":[-94.662209,39.075221],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840952383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.392559,37.752462,-97.392559,37.752462",
+    "geom:latitude":37.752462,
+    "geom:longitude":-97.392559,
+    "iso:country":"US",
+    "sg:address":"4300 W 37th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 4320",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K8zlIobEBA5u7pOoE1AWF_37.752462_-97.392559@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051695,
+    "wof:geomhash":"833140b8e57f96e3fb6bb29918480c24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840952383
+        }
+    ],
+    "wof:id":840952383,
+    "wof:lastmodified":1464051695,
+    "wof:name":"Waste Connections Inc Tranfer",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -97.392559,
+    37.752462,
+    -97.392559,
+    37.752462
+],
+  "geometry": {"coordinates":[-97.39255900000001,37.752462],"type":"Point"}
+}

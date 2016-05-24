@@ -1,0 +1,73 @@
+{
+  "id": 840871915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.740594,37.034859,-94.740594,37.034859",
+    "geom:latitude":37.034859,
+    "geom:longitude":-94.740594,
+    "iso:country":"US",
+    "sg:address":"145 Willow Ave",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 5339",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lZA8rDYCzCkW7ofRUbyFV_37.034859_-94.740594@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049894,
+    "wof:geomhash":"efd5fcdc067445ef9321c2ab9486b83e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840871915
+        }
+    ],
+    "wof:id":840871915,
+    "wof:lastmodified":1464049894,
+    "wof:name":"Lock Shop",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -94.740594,
+    37.034859,
+    -94.740594,
+    37.034859
+],
+  "geometry": {"coordinates":[-94.740594,37.034859],"type":"Point"}
+}

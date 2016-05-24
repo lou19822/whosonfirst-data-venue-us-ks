@@ -1,0 +1,92 @@
+{
+  "id": 840550151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.56789,39.089885,-94.56789,39.089885",
+    "geom:latitude":39.089885,
+    "geom:longitude":-94.56789,
+    "iso:country":"US",
+    "sg:address":"1219 E 19 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 472 0000",
+    "sg:postcode":"64108",
+    "sg:province":"KS",
+    "sg:tags":[
+        "installation",
+        "hauling",
+        "o",
+        "trucking",
+        "truck",
+        "operator",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872019,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v0I0tlwguzyua6a6PR6md_39.089885_-94.567890@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042511,
+    "wof:geomhash":"4cabab645c643b855c6a301d830ddb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872019,
+            "region_id":85688661,
+            "venue_id":840550151
+        }
+    ],
+    "wof:id":840550151,
+    "wof:lastmodified":1464042511,
+    "wof:name":"Belger Cartage Service Inc",
+    "wof:parent_id":85872019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "hauling",
+        "o",
+        "trucking",
+        "truck",
+        "operator",
+        "local"
+    ]
+},
+  "bbox": [
+    -94.56789,
+    39.089885,
+    -94.56789,
+    39.089885
+],
+  "geometry": {"coordinates":[-94.56789000000001,39.089885],"type":"Point"}
+}

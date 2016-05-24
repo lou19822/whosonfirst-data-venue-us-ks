@@ -1,0 +1,71 @@
+{
+  "id": 840700751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704937,37.422028,-94.704937,37.422028",
+    "geom:latitude":37.422028,
+    "geom:longitude":-94.704937,
+    "iso:country":"US",
+    "sg:address":"1511 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 2212",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kh1qkvhDqmuIbofqvBl4V_37.422028_-94.704937@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046100,
+    "wof:geomhash":"1eb5d867db1447cd33f41dc56ec73641",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840700751
+        }
+    ],
+    "wof:id":840700751,
+    "wof:lastmodified":1464046100,
+    "wof:name":"Tailwind Cyclists Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -94.704937,
+    37.422028,
+    -94.704937,
+    37.422028
+],
+  "geometry": {"coordinates":[-94.704937,37.422028],"type":"Point"}
+}

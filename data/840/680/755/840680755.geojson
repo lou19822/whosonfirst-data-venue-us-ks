@@ -1,0 +1,75 @@
+{
+  "id": 840680755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.289657,37.664713,-97.289657,37.664713",
+    "geom:latitude":37.664713,
+    "geom:longitude":-97.289657,
+    "iso:country":"US",
+    "sg:address":"3802 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 2568",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14cZTjIEemqlreIsqx1px1_37.664713_-97.289657@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045595,
+    "wof:geomhash":"0e3aa2fbc2a00e9fe1070c2986769463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840680755
+        }
+    ],
+    "wof:id":840680755,
+    "wof:lastmodified":1464045595,
+    "wof:name":"Smoker Friendly",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.289657,
+    37.664713,
+    -97.289657,
+    37.664713
+],
+  "geometry": {"coordinates":[-97.28965700000001,37.664713],"type":"Point"}
+}

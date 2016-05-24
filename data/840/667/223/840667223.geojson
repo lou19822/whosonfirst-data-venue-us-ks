@@ -1,0 +1,75 @@
+{
+  "id": 840667223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686506,39.051027,-94.686506,39.051027",
+    "geom:latitude":39.051027,
+    "geom:longitude":-94.686506,
+    "iso:country":"US",
+    "sg:address":"2803 S 47 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 5603",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852833,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vymPuiiJu1JcxIMeqX5nK_39.051027_-94.686506@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045258,
+    "wof:geomhash":"4aba624f09973811ab47aae4d07f1c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85852833,
+            "region_id":85688555,
+            "venue_id":840667223
+        }
+    ],
+    "wof:id":840667223,
+    "wof:lastmodified":1464045258,
+    "wof:name":"Apple Market Inc",
+    "wof:parent_id":85852833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.686506,
+    39.051027,
+    -94.686506,
+    39.051027
+],
+  "geometry": {"coordinates":[-94.68650599999999,39.051027],"type":"Point"}
+}

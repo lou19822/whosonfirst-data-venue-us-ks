@@ -1,0 +1,79 @@
+{
+  "id": 840805739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.643788,39.087332,-94.643788,39.087332",
+    "geom:latitude":39.087332,
+    "geom:longitude":-94.643788,
+    "iso:country":"US",
+    "sg:address":"1317 Kansas Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 9566",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878487,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OaQLl9B8jNyelRKQK2azX_39.087332_-94.643788@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048312,
+    "wof:geomhash":"70ebb85c8f46f254413cc310a3d85fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878487,
+            "region_id":85688555,
+            "venue_id":840805739
+        }
+    ],
+    "wof:id":840805739,
+    "wof:lastmodified":1464048312,
+    "wof:name":"KCK Muffler",
+    "wof:parent_id":85878487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.643788,
+    39.087332,
+    -94.643788,
+    39.087332
+],
+  "geometry": {"coordinates":[-94.643788,39.087332],"type":"Point"}
+}

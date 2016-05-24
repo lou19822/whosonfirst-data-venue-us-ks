@@ -1,0 +1,75 @@
+{
+  "id": 840948295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.221656,38.406402,-96.221656,38.406402",
+    "geom:latitude":38.406402,
+    "geom:longitude":-96.221656,
+    "iso:country":"US",
+    "sg:address":"820 Graham St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 1590",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hKsDhPq0EtXgecxrOI10G_38.406402_-96.221656@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051613,
+    "wof:geomhash":"4834dc0e6e5795f5caaaacb232e6289b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840948295
+        }
+    ],
+    "wof:id":840948295,
+    "wof:lastmodified":1464051613,
+    "wof:name":"Collision Body Shop Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.221656,
+    38.406402,
+    -96.221656,
+    38.406402
+],
+  "geometry": {"coordinates":[-96.221656,38.406402],"type":"Point"}
+}

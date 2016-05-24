@@ -1,0 +1,71 @@
+{
+  "id": 840955871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700525,37.394315,-94.700525,37.394315",
+    "geom:latitude":37.394315,
+    "geom:longitude":-94.700525,
+    "iso:country":"US",
+    "sg:address":"1501 S Joplin St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 4114",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69oIn353Q1zOG5TlD4XBxT_37.394315_-94.700525@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051759,
+    "wof:geomhash":"c214e7be7ef95fe2d09f66ea5129aa36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840955871
+        }
+    ],
+    "wof:id":840955871,
+    "wof:lastmodified":1464051759,
+    "wof:name":"MAMTC",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -94.700525,
+    37.394315,
+    -94.700525,
+    37.394315
+],
+  "geometry": {"coordinates":[-94.700525,37.394315],"type":"Point"}
+}

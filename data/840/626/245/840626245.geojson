@@ -1,0 +1,71 @@
+{
+  "id": 840626245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.258387,38.642928,-96.258387,38.642928",
+    "geom:latitude":38.642928,
+    "geom:longitude":-96.258387,
+    "iso:country":"US",
+    "sg:address":"223 Oak St",
+    "sg:city":"Allen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 443 5355",
+    "sg:postcode":"66833",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h7cyO1y3uOw98RwiCZTko_38.642928_-96.258387@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044327,
+    "wof:geomhash":"469ddc8a1c8ea9491e2fd7e527cf0583",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840626245
+        }
+    ],
+    "wof:id":840626245,
+    "wof:lastmodified":1464044327,
+    "wof:name":"Brownback Painting & Rmdlng",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.258387,
+    38.642928,
+    -96.258387,
+    38.642928
+],
+  "geometry": {"coordinates":[-96.258387,38.642928],"type":"Point"}
+}

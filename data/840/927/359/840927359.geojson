@@ -1,0 +1,71 @@
+{
+  "id": 840927359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.002924,37.795795,-97.002924,37.795795",
+    "geom:latitude":37.795795,
+    "geom:longitude":-97.002924,
+    "iso:country":"US",
+    "sg:address":"407 Main St",
+    "sg:city":"Towanda",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 541 2271",
+    "sg:postcode":"67144",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bDvaGOiKpohY0QZZkLlua_37.795795_-97.002924@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051194,
+    "wof:geomhash":"163ce8e1cbca4fa5bff01704a86d4a61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840927359
+        }
+    ],
+    "wof:id":840927359,
+    "wof:lastmodified":1464051194,
+    "wof:name":"Pyle's Automotive",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.002924,
+    37.795795,
+    -97.002924,
+    37.795795
+],
+  "geometry": {"coordinates":[-97.00292399999999,37.795795],"type":"Point"}
+}

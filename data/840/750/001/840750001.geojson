@@ -1,0 +1,73 @@
+{
+  "id": 840750001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.661132,39.087609,-95.661132,39.087609",
+    "geom:latitude":39.087609,
+    "geom:longitude":-95.661132,
+    "iso:country":"US",
+    "sg:address":"111 NW Lyman Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 7290",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NoGlb8uyOGXjvVaOZrhl6_39.087609_-95.661132@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047098,
+    "wof:geomhash":"75e8361b5872ec42e34dedf2ec614233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840750001
+        }
+    ],
+    "wof:id":840750001,
+    "wof:lastmodified":1464047098,
+    "wof:name":"Weathercraft Co Of Topeka",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.661132,
+    39.087609,
+    -95.661132,
+    39.087609
+],
+  "geometry": {"coordinates":[-95.66113199999999,39.087609],"type":"Point"}
+}

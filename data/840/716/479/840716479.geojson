@@ -1,0 +1,69 @@
+{
+  "id": 840716479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.882896,37.817261,-96.882896,37.817261",
+    "geom:latitude":37.817261,
+    "geom:longitude":-96.882896,
+    "iso:country":"US",
+    "sg:address":"2435 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 9100",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Js38jTWmZhE7wcQzOS0f6_37.817261_-96.882896@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046429,
+    "wof:geomhash":"939198d4a90297af64c7255aba1873a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840716479
+        }
+    ],
+    "wof:id":840716479,
+    "wof:lastmodified":1464046429,
+    "wof:name":"Trading Station",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -96.882896,
+    37.817261,
+    -96.882896,
+    37.817261
+],
+  "geometry": {"coordinates":[-96.882896,37.817261],"type":"Point"}
+}

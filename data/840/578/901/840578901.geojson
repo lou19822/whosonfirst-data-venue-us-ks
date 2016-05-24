@@ -1,0 +1,73 @@
+{
+  "id": 840578901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.556778,37.701186,-97.556778,37.701186",
+    "geom:latitude":37.701186,
+    "geom:longitude":-97.556778,
+    "iso:country":"US",
+    "sg:address":"18720 N Willow Creek Rd",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 304 9269",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "testing",
+        "flight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NmavOkJ0d3QMbAuuLahvn_37.701186_-97.556778@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043181,
+    "wof:geomhash":"4770460ca9e8f715e7fcd0fe6c428dd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840578901
+        }
+    ],
+    "wof:id":840578901,
+    "wof:lastmodified":1464043181,
+    "wof:name":"Ptr Aero LLC",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing",
+        "flight"
+    ]
+},
+  "bbox": [
+    -97.556778,
+    37.701186,
+    -97.556778,
+    37.701186
+],
+  "geometry": {"coordinates":[-97.55677799999999,37.701186],"type":"Point"}
+}

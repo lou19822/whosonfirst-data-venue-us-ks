@@ -1,0 +1,78 @@
+{
+  "id": 840597229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668472,38.915174,-94.668472,38.915174",
+    "geom:latitude":38.915174,
+    "geom:longitude":-94.668472,
+    "iso:country":"US",
+    "sg:address":"11501 Metcalf Ave",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 345 8383",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "sg:website":"www.banfield.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hb1D56EGjBY6KT5tHqyOA_38.915174_-94.668472@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043585,
+    "wof:geomhash":"142e30991d13217b4ed60312833ac98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":840597229
+        }
+    ],
+    "wof:id":840597229,
+    "wof:lastmodified":1464043585,
+    "wof:name":"Banfield The Pet Hospital",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.668472,
+    38.915174,
+    -94.668472,
+    38.915174
+],
+  "geometry": {"coordinates":[-94.66847199999999,38.915174],"type":"Point"}
+}

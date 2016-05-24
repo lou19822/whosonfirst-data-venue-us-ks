@@ -1,0 +1,73 @@
+{
+  "id": 840844061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.216766,38.39788,-96.216766,38.39788",
+    "geom:latitude":38.39788,
+    "geom:longitude":-96.216766,
+    "iso:country":"US",
+    "sg:address":"2700 W South Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 7155",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4978GjkKmzaO2Ju6Z7Mbm7_38.397880_-96.216766@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049312,
+    "wof:geomhash":"e08bf7b70bce718640d881c429a67f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840844061
+        }
+    ],
+    "wof:id":840844061,
+    "wof:lastmodified":1464049312,
+    "wof:name":"F & F Feeds Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -96.216766,
+    38.39788,
+    -96.216766,
+    38.39788
+],
+  "geometry": {"coordinates":[-96.21676600000001,38.39788],"type":"Point"}
+}

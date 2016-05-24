@@ -1,0 +1,71 @@
+{
+  "id": 840655495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848301,37.821323,-96.848301,37.821323",
+    "geom:latitude":37.821323,
+    "geom:longitude":-96.848301,
+    "iso:country":"US",
+    "sg:address":"420 N Vine St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 9616",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fLW6EsnX3aW5vmydOpBkK_37.821323_-96.848301@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045013,
+    "wof:geomhash":"0ffec61b9d09e62877b07dbc27de60f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840655495
+        }
+    ],
+    "wof:id":840655495,
+    "wof:lastmodified":1464045013,
+    "wof:name":"Concrete Materials Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -96.848301,
+    37.821323,
+    -96.848301,
+    37.821323
+],
+  "geometry": {"coordinates":[-96.84830100000001,37.821323],"type":"Point"}
+}

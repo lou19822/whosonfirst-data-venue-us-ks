@@ -1,0 +1,88 @@
+{
+  "id": 840677901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.587468,39.089199,-94.587468,39.089199",
+    "geom:latitude":39.089199,
+    "geom:longitude":-94.587468,
+    "iso:country":"US",
+    "sg:address":"1925 Central St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 842 5534",
+    "sg:postcode":"64108",
+    "sg:province":"KS",
+    "sg:tags":[
+        "counselor",
+        "environmental",
+        "design",
+        "graphic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872011,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pIzCqBOWMDrQgwgZXhU8n_39.089199_-94.587468@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045519,
+    "wof:geomhash":"2ca79dbd7519c87b48eee1df9adca1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872011,
+            "region_id":85688661,
+            "venue_id":840677901
+        }
+    ],
+    "wof:id":840677901,
+    "wof:lastmodified":1464045519,
+    "wof:name":"S & Co Design Inc",
+    "wof:parent_id":85872011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "environmental",
+        "design",
+        "graphic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -94.587468,
+    39.089199,
+    -94.587468,
+    39.089199
+],
+  "geometry": {"coordinates":[-94.587468,39.089199],"type":"Point"}
+}

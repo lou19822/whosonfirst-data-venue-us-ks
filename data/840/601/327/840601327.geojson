@@ -1,0 +1,75 @@
+{
+  "id": 840601327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667835,38.77354,-94.667835,38.77354",
+    "geom:latitude":38.77354,
+    "geom:longitude":-94.667835,
+    "iso:country":"US",
+    "sg:address":"19570 Metcalf Ave",
+    "sg:city":"Stilwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 897 3866",
+    "sg:postcode":"66085",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JNhjfI65KaRvAAD40jH5f_38.773540_-94.667835@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043687,
+    "wof:geomhash":"97ea7b154477048dadfd1e57916c649e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840601327
+        }
+    ],
+    "wof:id":840601327,
+    "wof:lastmodified":1464043687,
+    "wof:name":"Custom Alignment",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -94.667835,
+    38.77354,
+    -94.667835,
+    38.77354
+],
+  "geometry": {"coordinates":[-94.667835,38.77354],"type":"Point"}
+}

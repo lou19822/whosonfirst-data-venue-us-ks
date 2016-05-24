@@ -1,0 +1,70 @@
+{
+  "id": 856707933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.876008,37.81732,-96.876008,37.81732",
+    "geom:latitude":37.81732,
+    "geom:longitude":-96.876008,
+    "iso:country":"US",
+    "sg:address":"2005 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/el-dorado/245030-spangles/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3227",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K05M7u487tgUp62A1l0eZ_37.817320_-96.876008@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052228,
+    "wof:geomhash":"75cb3d2ff8bf1004e30c495a0bbaff31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":856707933
+        }
+    ],
+    "wof:id":856707933,
+    "wof:lastmodified":1464052228,
+    "wof:name":"Spangles",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.876008,
+    37.81732,
+    -96.876008,
+    37.81732
+],
+  "geometry": {"coordinates":[-96.876008,37.81732],"type":"Point"}
+}

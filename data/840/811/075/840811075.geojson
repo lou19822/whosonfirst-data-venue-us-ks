@@ -1,0 +1,71 @@
+{
+  "id": 840811075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.991256,38.368182,-95.991256,38.368182",
+    "geom:latitude":38.368182,
+    "geom:longitude":-95.991256,
+    "iso:country":"US",
+    "sg:address":"137 S Commercial St",
+    "sg:city":"Neosho Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4772",
+    "sg:postcode":"66864",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uOFqCAZv9nMnp2q2XLEpa_38.368182_-95.991256@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048461,
+    "wof:geomhash":"545162246cf035487556466329aa584e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840811075
+        }
+    ],
+    "wof:id":840811075,
+    "wof:lastmodified":1464048461,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.991256,
+    38.368182,
+    -95.991256,
+    38.368182
+],
+  "geometry": {"coordinates":[-95.99125600000001,38.368182],"type":"Point"}
+}

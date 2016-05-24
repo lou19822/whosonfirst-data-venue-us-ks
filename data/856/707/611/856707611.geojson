@@ -1,0 +1,72 @@
+{
+  "id": 856707611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.220325,38.420386,-96.220325,38.420386",
+    "geom:latitude":38.420386,
+    "geom:longitude":-96.220325,
+    "iso:country":"US",
+    "sg:address":"2807 Eaglecrest Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/208147-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8545",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WFtmxEBp4veHnTtCdhbyk_38.420386_-96.220325@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052222,
+    "wof:geomhash":"5b9474e93f8ecdd5218267c821c15898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707611
+        }
+    ],
+    "wof:id":856707611,
+    "wof:lastmodified":1464052222,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.220325,
+    38.420386,
+    -96.220325,
+    38.420386
+],
+  "geometry": {"coordinates":[-96.220325,38.420386],"type":"Point"}
+}

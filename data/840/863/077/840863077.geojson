@@ -1,0 +1,71 @@
+{
+  "id": 840863077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.782498,37.691788,-96.782498,37.691788",
+    "geom:latitude":37.691788,
+    "geom:longitude":-96.782498,
+    "iso:country":"US",
+    "sg:address":"612 N Olive St",
+    "sg:city":"Leon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 745 3374",
+    "sg:postcode":"67074",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WHvo0J5gd6ysC86zQkvhl_37.691788_-96.782498@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049717,
+    "wof:geomhash":"54ae38e2fbdaa46520d4be4bd6e7f787",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840863077
+        }
+    ],
+    "wof:id":840863077,
+    "wof:lastmodified":1464049717,
+    "wof:name":"G W Ball Electric Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.782498,
+    37.691788,
+    -96.782498,
+    37.691788
+],
+  "geometry": {"coordinates":[-96.782498,37.691788],"type":"Point"}
+}

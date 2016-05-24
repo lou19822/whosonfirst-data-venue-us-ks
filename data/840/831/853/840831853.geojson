@@ -1,0 +1,73 @@
+{
+  "id": 840831853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686543,37.45558,-94.686543,37.45558",
+    "geom:latitude":37.45558,
+    "geom:longitude":-94.686543,
+    "iso:country":"US",
+    "sg:address":"100 N Cayuga St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0809",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l14EajThVaChCyrGNqGJA_37.455580_-94.686543@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049040,
+    "wof:geomhash":"25cf63f7e97414be415fcd76775f8615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840831853
+        }
+    ],
+    "wof:id":840831853,
+    "wof:lastmodified":1464049040,
+    "wof:name":"Sponsel's Heating & Cooling",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.686543,
+    37.45558,
+    -94.686543,
+    37.45558
+],
+  "geometry": {"coordinates":[-94.686543,37.45558],"type":"Point"}
+}

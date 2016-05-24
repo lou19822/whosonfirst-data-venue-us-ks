@@ -1,0 +1,73 @@
+{
+  "id": 840705581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.84986,37.823455,-96.84986,37.823455",
+    "geom:latitude":37.823455,
+    "geom:longitude":-96.84986,
+    "iso:country":"US",
+    "sg:address":"607 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3180",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vp7dkDA1wNookcSmZnXFi_37.823455_-96.849860@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046216,
+    "wof:geomhash":"074961f11424413acf14e264289a4e70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840705581
+        }
+    ],
+    "wof:id":840705581,
+    "wof:lastmodified":1464046216,
+    "wof:name":"Buck's Boot Repair",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ]
+},
+  "bbox": [
+    -96.84986,
+    37.823455,
+    -96.84986,
+    37.823455
+],
+  "geometry": {"coordinates":[-96.84986000000001,37.823455],"type":"Point"}
+}

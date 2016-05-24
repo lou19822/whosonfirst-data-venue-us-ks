@@ -1,0 +1,73 @@
+{
+  "id": 840682277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687195,38.960975,-95.687195,38.960975",
+    "geom:latitude":38.960975,
+    "geom:longitude":-95.687195,
+    "iso:country":"US",
+    "sg:address":"5812 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 6557",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ag2u2URZrkOL5EzGqpoF_38.960975_-95.687195@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045631,
+    "wof:geomhash":"8612ee2280c574d04c7a98f242feb72c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840682277
+        }
+    ],
+    "wof:id":840682277,
+    "wof:lastmodified":1464045631,
+    "wof:name":"Russ Beall Electric",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.687195,
+    38.960975,
+    -95.687195,
+    38.960975
+],
+  "geometry": {"coordinates":[-95.687195,38.960975],"type":"Point"}
+}

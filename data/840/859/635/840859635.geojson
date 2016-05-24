@@ -1,0 +1,71 @@
+{
+  "id": 840859635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180221,38.405974,-96.180221,38.405974",
+    "geom:latitude":38.405974,
+    "geom:longitude":-96.180221,
+    "iso:country":"US",
+    "sg:address":"619 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2932",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79OZZpqy4Slgt9k7iKKue7_38.405974_-96.180221@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049649,
+    "wof:geomhash":"f6e1468160448938fdff428a66ef14dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840859635
+        }
+    ],
+    "wof:id":840859635,
+    "wof:lastmodified":1464049649,
+    "wof:name":"Stanley Jewelry",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -96.180221,
+    38.405974,
+    -96.180221,
+    38.405974
+],
+  "geometry": {"coordinates":[-96.180221,38.405974],"type":"Point"}
+}

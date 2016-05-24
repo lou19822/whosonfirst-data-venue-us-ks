@@ -1,0 +1,78 @@
+{
+  "id": 856711129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.664822,39.022251,-94.664822,39.022251",
+    "geom:latitude":39.022251,
+    "geom:longitude":-94.664822,
+    "iso:country":"US",
+    "sg:address":"6870 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/mission/12103-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 0060",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bQChFtFxPm7jWW03FOuwV_39.022309_-94.664495@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052289,
+    "wof:geomhash":"bfc4cb705fc0663d3d37d62d060268ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":856711129
+        }
+    ],
+    "wof:id":856711129,
+    "wof:lastmodified":1464052289,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -94.664822,
+    39.022251,
+    -94.664822,
+    39.022251
+],
+  "geometry": {"coordinates":[-94.664822,39.022251],"type":"Point"}
+}

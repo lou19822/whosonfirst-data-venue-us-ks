@@ -1,0 +1,80 @@
+{
+  "id": 856706137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.762288,38.970099,-94.762288,38.970099",
+    "geom:latitude":38.970099,
+    "geom:longitude":-94.762288,
+    "iso:country":"US",
+    "sg:address":"15221 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/103028-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 227 0700",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42NRXiu6kSvmaDum0apxmP_38.970099_-94.762288@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052189,
+    "wof:geomhash":"012254d7ccf6705103597720259648f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856706137
+        }
+    ],
+    "wof:id":856706137,
+    "wof:lastmodified":1464052189,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -94.762288,
+    38.970099,
+    -94.762288,
+    38.970099
+],
+  "geometry": {"coordinates":[-94.762288,38.970099],"type":"Point"}
+}

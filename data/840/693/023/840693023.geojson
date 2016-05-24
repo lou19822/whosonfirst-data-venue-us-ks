@@ -1,0 +1,77 @@
+{
+  "id": 840693023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.017909,37.753559,-100.017909,37.753559",
+    "geom:latitude":37.753559,
+    "geom:longitude":-100.017909,
+    "iso:country":"US",
+    "sg:address":"110 Gunsmoke St",
+    "sg:city":"Dodge City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 225 5222",
+    "sg:postcode":"67801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849601,
+        102191575,
+        404503629,
+        85633793,
+        85945215,
+        102082141,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eCm6lVggCI4GMoAPbTieT_37.753559_-100.017909@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045896,
+    "wof:geomhash":"de56d2d36b37aef83c29232bf0cae7fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082141,
+            "localadmin_id":404503629,
+            "locality_id":85945215,
+            "neighbourhood_id":85849601,
+            "region_id":85688555,
+            "venue_id":840693023
+        }
+    ],
+    "wof:id":840693023,
+    "wof:lastmodified":1464045896,
+    "wof:name":"Computek",
+    "wof:parent_id":85849601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -100.017909,
+    37.753559,
+    -100.017909,
+    37.753559
+],
+  "geometry": {"coordinates":[-100.017909,37.753559],"type":"Point"}
+}

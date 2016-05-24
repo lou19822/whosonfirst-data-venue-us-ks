@@ -1,0 +1,71 @@
+{
+  "id": 840875021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.70491,37.399338,-94.70491,37.399338",
+    "geom:latitude":37.399338,
+    "geom:longitude":-94.70491,
+    "iso:country":"US",
+    "sg:address":"1001 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 2626",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4audbluGNDPd5SmaHc2PVE_37.399338_-94.704910@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049950,
+    "wof:geomhash":"4027853494b9c58233092ce1182b265e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840875021
+        }
+    ],
+    "wof:id":840875021,
+    "wof:lastmodified":1464049950,
+    "wof:name":"Pitt Discount Liquor LLC",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -94.70491,
+    37.399338,
+    -94.70491,
+    37.399338
+],
+  "geometry": {"coordinates":[-94.70491,37.399338],"type":"Point"}
+}

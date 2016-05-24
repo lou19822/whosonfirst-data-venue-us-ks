@@ -1,0 +1,77 @@
+{
+  "id": 840953143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.678221,39.07315,-94.678221,39.07315",
+    "geom:latitude":39.07315,
+    "geom:longitude":-94.678221,
+    "iso:country":"US",
+    "sg:address":"4200 Metropolitan Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 6818",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852833,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sFb6kYaAT3FdAw2o9fNxc_39.073150_-94.678221@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051712,
+    "wof:geomhash":"9e9c2194e02ad077dcea21697dc5627a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85852833,
+            "region_id":85688555,
+            "venue_id":840953143
+        }
+    ],
+    "wof:id":840953143,
+    "wof:lastmodified":1464051712,
+    "wof:name":"Maple Hill Garage & Svc",
+    "wof:parent_id":85852833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.678221,
+    39.07315,
+    -94.678221,
+    39.07315
+],
+  "geometry": {"coordinates":[-94.67822099999999,39.07315],"type":"Point"}
+}

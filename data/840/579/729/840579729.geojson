@@ -1,0 +1,71 @@
+{
+  "id": 840579729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.694353,39.088242,-95.694353,39.088242",
+    "geom:latitude":39.088242,
+    "geom:longitude":-95.694353,
+    "iso:country":"US",
+    "sg:address":"2221 NW Vail Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 4282",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kDirzJAcU3BqV6I2a3lMx_39.088242_-95.694353@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043199,
+    "wof:geomhash":"d0d84b56b7bec6b2424ad451116ead72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840579729
+        }
+    ],
+    "wof:id":840579729,
+    "wof:lastmodified":1464043199,
+    "wof:name":"Independent Electric Mach Co",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -95.694353,
+    39.088242,
+    -95.694353,
+    39.088242
+],
+  "geometry": {"coordinates":[-95.69435300000001,39.088242],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840558683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.45914,37.709912,-97.45914,37.709912",
+    "geom:latitude":37.709912,
+    "geom:longitude":-97.45914,
+    "iso:country":"US",
+    "sg:address":"1488 N Valleyview Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 5655",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AcL8lvqsvDv5x2WEM4rav_37.709912_-97.459140@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042706,
+    "wof:geomhash":"2473de0f6069512fe0d7854a0c6675f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840558683
+        }
+    ],
+    "wof:id":840558683,
+    "wof:lastmodified":1464042706,
+    "wof:name":"Prime Electric Inc",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.45914,
+    37.709912,
+    -97.45914,
+    37.709912
+],
+  "geometry": {"coordinates":[-97.45914,37.709912],"type":"Point"}
+}

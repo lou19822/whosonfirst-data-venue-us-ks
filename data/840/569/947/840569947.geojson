@@ -1,0 +1,67 @@
+{
+  "id": 840569947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.191627,37.723101,-97.191627,37.723101",
+    "geom:latitude":37.723101,
+    "geom:longitude":-97.191627,
+    "iso:country":"US",
+    "sg:address":"12345 E 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 634 0909",
+    "sg:postcode":"67206",
+    "sg:province":"KS",
+    "sg:website":"www.trinityacademy.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85829403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43H0VK7GBylcTBVG4xDkUt_37.723101_-97.191627@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042983,
+    "wof:geomhash":"35c5f21bca92b9b6b8a7a3fde806e7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85829403,
+            "region_id":85688555,
+            "venue_id":840569947
+        }
+    ],
+    "wof:id":840569947,
+    "wof:lastmodified":1464042983,
+    "wof:name":"Trinity Academy",
+    "wof:parent_id":85829403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.191627,
+    37.723101,
+    -97.191627,
+    37.723101
+],
+  "geometry": {"coordinates":[-97.191627,37.723101],"type":"Point"}
+}

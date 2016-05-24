@@ -1,0 +1,82 @@
+{
+  "id": 840555123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.743818,38.971225,-94.743818,38.971225",
+    "geom:latitude":38.971225,
+    "geom:longitude":-94.743818,
+    "iso:country":"US",
+    "sg:address":"13630 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 3203",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tzsgWFgSNNsXXriEvw1cP_38.971225_-94.743818@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042629,
+    "wof:geomhash":"8040b2a1a73958e7a2dd211c63bf6811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840555123
+        }
+    ],
+    "wof:id":840555123,
+    "wof:lastmodified":1464042629,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -94.743818,
+    38.971225,
+    -94.743818,
+    38.971225
+],
+  "geometry": {"coordinates":[-94.743818,38.971225],"type":"Point"}
+}

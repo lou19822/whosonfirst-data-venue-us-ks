@@ -1,0 +1,75 @@
+{
+  "id": 840869561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.319732,37.693614,-97.319732,37.693614",
+    "geom:latitude":37.693614,
+    "geom:longitude":-97.319732,
+    "iso:country":"US",
+    "sg:address":"1516 E Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 6427",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872805,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gqUlkUBuYJhF0NLt7VPQ4_37.693614_-97.319732@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049846,
+    "wof:geomhash":"11830815f451ebc0ada1aaf605cbae97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872805,
+            "region_id":85688555,
+            "venue_id":840869561
+        }
+    ],
+    "wof:id":840869561,
+    "wof:lastmodified":1464049846,
+    "wof:name":"Bicycle Exchange",
+    "wof:parent_id":85872805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -97.319732,
+    37.693614,
+    -97.319732,
+    37.693614
+],
+  "geometry": {"coordinates":[-97.319732,37.693614],"type":"Point"}
+}

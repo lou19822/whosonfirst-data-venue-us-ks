@@ -1,0 +1,71 @@
+{
+  "id": 840553279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.280499,37.648337,-97.280499,37.648337",
+    "geom:latitude":37.648337,
+    "geom:longitude":-97.280499,
+    "iso:country":"US",
+    "sg:address":"2525 S Oliver St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 687 2727",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cIVDnWJy7sR8XsEFzmzY0_37.648337_-97.280499@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042580,
+    "wof:geomhash":"67c6b65872b0af83011b7616affb1822",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840553279
+        }
+    ],
+    "wof:id":840553279,
+    "wof:lastmodified":1464042580,
+    "wof:name":"Easy Money Pawn Shop",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -97.280499,
+    37.648337,
+    -97.280499,
+    37.648337
+],
+  "geometry": {"coordinates":[-97.28049900000001,37.648337],"type":"Point"}
+}

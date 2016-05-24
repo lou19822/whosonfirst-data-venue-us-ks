@@ -1,0 +1,71 @@
+{
+  "id": 840707683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.497362,37.717411,-97.497362,37.717411",
+    "geom:latitude":37.717411,
+    "geom:longitude":-97.497362,
+    "iso:country":"US",
+    "sg:address":"1945 N Shelly Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 2777",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UCHzRAqeAVH52RwmKCvII_37.717411_-97.497362@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046258,
+    "wof:geomhash":"86a3300ac312b57bd9695d0ffa626237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840707683
+        }
+    ],
+    "wof:id":840707683,
+    "wof:lastmodified":1464046258,
+    "wof:name":"Quality Appliance Svc",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -97.497362,
+    37.717411,
+    -97.497362,
+    37.717411
+],
+  "geometry": {"coordinates":[-97.497362,37.717411],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856711603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762277,39.030475,-95.762277,39.030475",
+    "geom:latitude":39.030475,
+    "geom:longitude":-95.762277,
+    "iso:country":"US",
+    "sg:address":"2011 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/127770-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 7302",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jr8THhPKSBVKAKDCJa31E_39.030228_-95.762270@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052298,
+    "wof:geomhash":"c7fbb01d5a7393ce097d55e837104618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856711603
+        }
+    ],
+    "wof:id":856711603,
+    "wof:lastmodified":1464052298,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.762277,
+    39.030475,
+    -95.762277,
+    39.030475
+],
+  "geometry": {"coordinates":[-95.762277,39.030475],"type":"Point"}
+}

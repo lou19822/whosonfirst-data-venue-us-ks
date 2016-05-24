@@ -1,0 +1,66 @@
+{
+  "id": 840936649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664622,39.09128,-95.664622,39.09128",
+    "geom:latitude":39.09128,
+    "geom:longitude":-95.664622,
+    "iso:country":"US",
+    "sg:address":"2707 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 8614",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b9HKin1VIYV3g83x3eeVg_39.091280_-95.664622@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051385,
+    "wof:geomhash":"ea5be4ebeba5cff3874e30c1903136cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840936649
+        }
+    ],
+    "wof:id":840936649,
+    "wof:lastmodified":1464051385,
+    "wof:name":"Tennant Chiropractic Clinic",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.664622,
+    39.09128,
+    -95.664622,
+    39.09128
+],
+  "geometry": {"coordinates":[-95.66462199999999,39.09128],"type":"Point"}
+}

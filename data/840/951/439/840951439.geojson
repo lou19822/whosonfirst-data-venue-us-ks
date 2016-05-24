@@ -1,0 +1,71 @@
+{
+  "id": 840951439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.182665,38.402677,-96.182665,38.402677",
+    "geom:latitude":38.402677,
+    "geom:longitude":-96.182665,
+    "iso:country":"US",
+    "sg:address":"104 W 4th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8153",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VeTrW1FMamjaGrFNfL2wb_38.402677_-96.182665@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051678,
+    "wof:geomhash":"db6ad43273cdefaf00ecfdd78911e6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840951439
+        }
+    ],
+    "wof:id":840951439,
+    "wof:lastmodified":1464051678,
+    "wof:name":"Hahn Rental & Material Co",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.182665,
+    38.402677,
+    -96.182665,
+    38.402677
+],
+  "geometry": {"coordinates":[-96.182665,38.402677],"type":"Point"}
+}

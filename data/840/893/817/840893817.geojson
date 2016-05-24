@@ -1,0 +1,71 @@
+{
+  "id": 840893817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180261,38.400923,-96.180261,38.400923",
+    "geom:latitude":38.400923,
+    "geom:longitude":-96.180261,
+    "iso:country":"US",
+    "sg:address":"217 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3682",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qisaQKiu63ZqqYYECqjTp_38.400923_-96.180261@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050360,
+    "wof:geomhash":"b74d882d574ba7b79a2a84c9fffde7c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840893817
+        }
+    ],
+    "wof:id":840893817,
+    "wof:lastmodified":1464050360,
+    "wof:name":"Stever Heating & Cooling LLC",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.180261,
+    38.400923,
+    -96.180261,
+    38.400923
+],
+  "geometry": {"coordinates":[-96.180261,38.400923],"type":"Point"}
+}

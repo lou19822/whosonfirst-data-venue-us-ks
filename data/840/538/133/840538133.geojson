@@ -1,0 +1,71 @@
+{
+  "id": 840538133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848548,37.813675,-96.848548,37.813675",
+    "geom:latitude":37.813675,
+    "geom:longitude":-96.848548,
+    "iso:country":"US",
+    "sg:address":"111 E Locust Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 1050",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MmfHkOfwae6ZcNUXIAb5l_37.813675_-96.848548@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042162,
+    "wof:geomhash":"21534728641ea154b18007c60a652fdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840538133
+        }
+    ],
+    "wof:id":840538133,
+    "wof:lastmodified":1464042162,
+    "wof:name":"El Dorado Animal Clinic",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -96.848548,
+    37.813675,
+    -96.848548,
+    37.813675
+],
+  "geometry": {"coordinates":[-96.84854799999999,37.813675],"type":"Point"}
+}

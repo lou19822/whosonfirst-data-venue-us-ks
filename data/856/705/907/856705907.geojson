@@ -1,0 +1,78 @@
+{
+  "id": 856705907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.724164,38.957198,-94.724164,38.957198",
+    "geom:latitude":38.957198,
+    "geom:longitude":-94.724164,
+    "iso:country":"US",
+    "sg:address":"9470 Quivira Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/65845-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 1727",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aODLkFov2k0s728qh1LrF_38.957198_-94.724164@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052185,
+    "wof:geomhash":"f9800204d7396354d285db04fd81c7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856705907
+        }
+    ],
+    "wof:id":856705907,
+    "wof:lastmodified":1464052185,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.724164,
+    38.957198,
+    -94.724164,
+    38.957198
+],
+  "geometry": {"coordinates":[-94.724164,38.957198],"type":"Point"}
+}

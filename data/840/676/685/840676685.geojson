@@ -1,0 +1,71 @@
+{
+  "id": 840676685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.194075,38.412373,-96.194075,38.412373",
+    "geom:latitude":38.412373,
+    "geom:longitude":-96.194075,
+    "iso:country":"US",
+    "sg:address":"1212 Chestnut St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8256",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VpAVmz7ZHhK52vIuID6dp_38.412373_-96.194075@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045479,
+    "wof:geomhash":"63f66fa8238b9b06af725493a0995e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840676685
+        }
+    ],
+    "wof:id":840676685,
+    "wof:lastmodified":1464045479,
+    "wof:name":"Thomas A Kriss DDS",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.194075,
+    38.412373,
+    -96.194075,
+    38.412373
+],
+  "geometry": {"coordinates":[-96.194075,38.412373],"type":"Point"}
+}

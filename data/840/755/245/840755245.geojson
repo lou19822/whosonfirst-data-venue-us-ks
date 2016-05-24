@@ -1,0 +1,71 @@
+{
+  "id": 840755245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.447344,37.693967,-97.447344,37.693967",
+    "geom:latitude":37.693967,
+    "geom:longitude":-97.447344,
+    "iso:country":"US",
+    "sg:address":"8929 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 0624",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kJb0885qnRV0iCd2rYeST_37.693967_-97.447344@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047222,
+    "wof:geomhash":"32617e842978a688ee17780e7e8113d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840755245
+        }
+    ],
+    "wof:id":840755245,
+    "wof:lastmodified":1464047222,
+    "wof:name":"Meyer Jewelers",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -97.447344,
+    37.693967,
+    -97.447344,
+    37.693967
+],
+  "geometry": {"coordinates":[-97.447344,37.693967],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840637293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.971454,37.680231,-96.971454,37.680231",
+    "geom:latitude":37.680231,
+    "geom:longitude":-96.971454,
+    "iso:country":"US",
+    "sg:address":"300 Main St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 6340",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05VsMFiFnRw9hiwvnzQEze_37.680231_-96.971454@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044619,
+    "wof:geomhash":"bd83c05791724192a8a7dd88a3bab153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840637293
+        }
+    ],
+    "wof:id":840637293,
+    "wof:lastmodified":1464044619,
+    "wof:name":"Augusta Fence",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -96.971454,
+    37.680231,
+    -96.971454,
+    37.680231
+],
+  "geometry": {"coordinates":[-96.97145399999999,37.680231],"type":"Point"}
+}

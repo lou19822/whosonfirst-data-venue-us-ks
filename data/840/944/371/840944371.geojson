@@ -1,0 +1,77 @@
+{
+  "id": 840944371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899861,39.273156,-94.899861,39.273156",
+    "geom:latitude":39.273156,
+    "geom:longitude":-94.899861,
+    "iso:country":"US",
+    "sg:address":"4614 S 4th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 2222",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844391,
+        102191575,
+        404504467,
+        85633793,
+        85945367,
+        102083429,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AeNoqtV0Mw4mzTd5a5x0Z_39.273156_-94.899861@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051540,
+    "wof:geomhash":"4455309e63522055451e4717f9276548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504467,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":840944371
+        }
+    ],
+    "wof:id":840944371,
+    "wof:lastmodified":1464051540,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.899861,
+    39.273156,
+    -94.899861,
+    39.273156
+],
+  "geometry": {"coordinates":[-94.899861,39.273156],"type":"Point"}
+}

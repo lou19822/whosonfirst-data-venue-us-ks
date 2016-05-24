@@ -1,0 +1,73 @@
+{
+  "id": 840949383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.822146,37.38253,-94.822146,37.38253",
+    "geom:latitude":37.38253,
+    "geom:longitude":-94.822146,
+    "iso:country":"US",
+    "sg:address":"152 E 530th Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 457 8891",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n7w18TwB5YBsucI6sp7ag_37.382530_-94.822146@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051638,
+    "wof:geomhash":"b177e29b807abd9e1e72ae66e3d89ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840949383
+        }
+    ],
+    "wof:id":840949383,
+    "wof:lastmodified":1464051638,
+    "wof:name":"Stevens Automotive",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.822146,
+    37.38253,
+    -94.822146,
+    37.38253
+],
+  "geometry": {"coordinates":[-94.822146,37.38253],"type":"Point"}
+}

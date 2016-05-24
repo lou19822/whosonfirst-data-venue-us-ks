@@ -1,0 +1,74 @@
+{
+  "id": 856707389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.735866,37.017014,-94.735866,37.017014",
+    "geom:latitude":37.017014,
+    "geom:longitude":-94.735866,
+    "iso:country":"US",
+    "sg:address":"1838 Military Ave",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/baxter-springs/207294-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 2369",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vRlSUTvorXeeYFua8I0Bx_37.017014_-94.735866@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052218,
+    "wof:geomhash":"f51e3b2ba6c25f314f286c76a985fe7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":856707389
+        }
+    ],
+    "wof:id":856707389,
+    "wof:lastmodified":1464052218,
+    "wof:name":"Sonic",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.735866,
+    37.017014,
+    -94.735866,
+    37.017014
+],
+  "geometry": {"coordinates":[-94.735866,37.017014],"type":"Point"}
+}

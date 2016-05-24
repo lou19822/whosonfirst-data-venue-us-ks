@@ -1,0 +1,82 @@
+{
+  "id": 840578519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.6733,39.116833,-94.6733,39.116833",
+    "geom:latitude":39.116833,
+    "geom:longitude":-94.6733,
+    "iso:country":"US",
+    "sg:address":"3720 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 0700",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.hollywoodvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878497,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UPsJORhZLcAM1M43ack8Z_39.116833_-94.673300@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043174,
+    "wof:geomhash":"013c74225703b41106cf5756beaa0cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878497,
+            "region_id":85688555,
+            "venue_id":840578519
+        }
+    ],
+    "wof:id":840578519,
+    "wof:lastmodified":1464043174,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85878497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -94.6733,
+    39.116833,
+    -94.6733,
+    39.116833
+],
+  "geometry": {"coordinates":[-94.6733,39.116833],"type":"Point"}
+}

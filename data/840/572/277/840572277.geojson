@@ -1,0 +1,88 @@
+{
+  "id": 840572277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.643848,38.988684,-94.643848,38.988684",
+    "geom:latitude":38.988684,
+    "geom:longitude":-94.643848,
+    "iso:country":"US",
+    "sg:address":"7700 Juniper Dr",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 649 1999",
+    "sg:postcode":"66208",
+    "sg:province":"KS",
+    "sg:tags":[
+        "builder",
+        "chimney",
+        "repairer",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879583,
+        102191575,
+        404504399,
+        85633793,
+        85945757,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fk7USHVuCVodpv1t3DVxA_38.988684_-94.643848@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043041,
+    "wof:geomhash":"7cab9fed17c3aaf78b6846b41db5a4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504399,
+            "locality_id":85945757,
+            "neighbourhood_id":85879583,
+            "region_id":85688555,
+            "venue_id":840572277
+        }
+    ],
+    "wof:id":840572277,
+    "wof:lastmodified":1464043041,
+    "wof:name":"Artful Duster Complete Chimney",
+    "wof:parent_id":85879583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "chimney",
+        "repairer",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.643848,
+    38.988684,
+    -94.643848,
+    38.988684
+],
+  "geometry": {"coordinates":[-94.64384800000001,38.988684],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840647525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704837,37.412917,-94.704837,37.412917",
+    "geom:latitude":37.412917,
+    "geom:longitude":-94.704837,
+    "iso:country":"US",
+    "sg:address":"517 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0250",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0woNoewslWTmE0nc7nDgKb_37.412917_-94.704837@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044832,
+    "wof:geomhash":"dcab898a79ec1a91d126bf2cc709c7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840647525
+        }
+    ],
+    "wof:id":840647525,
+    "wof:lastmodified":1464044832,
+    "wof:name":"Bargain Center",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.704837,
+    37.412917,
+    -94.704837,
+    37.412917
+],
+  "geometry": {"coordinates":[-94.704837,37.412917],"type":"Point"}
+}

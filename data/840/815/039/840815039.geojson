@@ -1,0 +1,73 @@
+{
+  "id": 840815039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.731399,37.440719,-94.731399,37.440719",
+    "geom:latitude":37.440719,
+    "geom:longitude":-94.731399,
+    "iso:country":"US",
+    "sg:address":"3412 Airport Rd",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 9102",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eMRApEcvj5DuOijF3oEUQ_37.440719_-94.731399@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048616,
+    "wof:geomhash":"7cd9ac4e1b38c6e069f2c9575eef6cfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840815039
+        }
+    ],
+    "wof:id":840815039,
+    "wof:lastmodified":1464048616,
+    "wof:name":"Mike's Aircraft Repair",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -94.731399,
+    37.440719,
+    -94.731399,
+    37.440719
+],
+  "geometry": {"coordinates":[-94.731399,37.440719],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856706923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762019,39.03938,-95.762019,39.03938",
+    "geom:latitude":39.03938,
+    "geom:longitude":-95.762019,
+    "iso:country":"US",
+    "sg:address":"1501 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/115667-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 8782",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wSfOCBelcUyY571F2YFNO_39.039380_-95.762019@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052205,
+    "wof:geomhash":"c9a36a65509a47e1445aa8c40deac7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706923
+        }
+    ],
+    "wof:id":856706923,
+    "wof:lastmodified":1464052205,
+    "wof:name":"Subway",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.762019,
+    39.03938,
+    -95.762019,
+    39.03938
+],
+  "geometry": {"coordinates":[-95.762019,39.03938],"type":"Point"}
+}

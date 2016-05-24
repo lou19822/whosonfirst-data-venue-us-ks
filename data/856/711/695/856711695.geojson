@@ -1,0 +1,74 @@
+{
+  "id": 856711695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.735833,37.017351,-94.735833,37.017351",
+    "geom:latitude":37.017351,
+    "geom:longitude":-94.735833,
+    "iso:country":"US",
+    "sg:address":"1802 Military Ave",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/baxter-springs/65950-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 2399",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mL8IM4SPT3FgnOXHB1N3H_37.017237_-94.735746@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052299,
+    "wof:geomhash":"681a190afc2509ebfbb0e09d551f82d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":856711695
+        }
+    ],
+    "wof:id":856711695,
+    "wof:lastmodified":1464052299,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.735833,
+    37.017351,
+    -94.735833,
+    37.017351
+],
+  "geometry": {"coordinates":[-94.735833,37.017351],"type":"Point"}
+}

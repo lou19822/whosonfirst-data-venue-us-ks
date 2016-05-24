@@ -1,0 +1,73 @@
+{
+  "id": 840822139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.171122,38.317972,-96.171122,38.317972",
+    "geom:latitude":38.317972,
+    "geom:longitude":-96.171122,
+    "iso:country":"US",
+    "sg:address":"1087 Rd L",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 1783",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R4qSrPrbOp6Zp3g5U735Z_38.317972_-96.171122@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048815,
+    "wof:geomhash":"e14dea3e74906dc113f4cb30d487ed7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840822139
+        }
+    ],
+    "wof:id":840822139,
+    "wof:lastmodified":1464048815,
+    "wof:name":"Twin Rivers Electric",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.171122,
+    38.317972,
+    -96.171122,
+    38.317972
+],
+  "geometry": {"coordinates":[-96.171122,38.317972],"type":"Point"}
+}

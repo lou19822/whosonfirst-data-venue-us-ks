@@ -1,0 +1,72 @@
+{
+  "id": 840770769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.689841,37.454958,-94.689841,37.454958",
+    "geom:latitude":37.454958,
+    "geom:longitude":-94.689841,
+    "iso:country":"US",
+    "sg:address":"230 E McKay St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7360",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "director"
+    ],
+    "sg:website":"www.friskel.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pz11toxgTmNaJbvtnB4le_37.454958_-94.689841@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047587,
+    "wof:geomhash":"ddde730e5f469a59b587d73091a68fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840770769
+        }
+    ],
+    "wof:id":840770769,
+    "wof:lastmodified":1464047587,
+    "wof:name":"Friskel Funeral Home",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -94.689841,
+    37.454958,
+    -94.689841,
+    37.454958
+],
+  "geometry": {"coordinates":[-94.689841,37.454958],"type":"Point"}
+}

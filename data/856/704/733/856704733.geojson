@@ -1,0 +1,78 @@
+{
+  "id": 856704733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.68086,39.052541,-94.68086,39.052541",
+    "geom:latitude":39.052541,
+    "geom:longitude":-94.68086,
+    "iso:country":"US",
+    "sg:address":"4401 Shawnee Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/198389-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 7590",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879579,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gm42ZdDFbULyhScAu8PXM_39.052541_-94.680860@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052165,
+    "wof:geomhash":"76177b2e5f5a84eee5828741f4edd2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85879579,
+            "region_id":85688555,
+            "venue_id":856704733
+        }
+    ],
+    "wof:id":856704733,
+    "wof:lastmodified":1464052165,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85879579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -94.68086,
+    39.052541,
+    -94.68086,
+    39.052541
+],
+  "geometry": {"coordinates":[-94.68086,39.052541],"type":"Point"}
+}

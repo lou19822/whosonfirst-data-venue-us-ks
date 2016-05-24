@@ -1,0 +1,71 @@
+{
+  "id": 840782701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.312672,37.649832,-97.312672,37.649832",
+    "geom:latitude":37.649832,
+    "geom:longitude":-97.312672,
+    "iso:country":"US",
+    "sg:address":"1919 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 4839",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7enfOlP3ENwBLlH9A4v75l_37.649832_-97.312672@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047813,
+    "wof:geomhash":"a0909499b8f5d1f55031051d45f4f528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840782701
+        }
+    ],
+    "wof:id":840782701,
+    "wof:lastmodified":1464047813,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.312672,
+    37.649832,
+    -97.312672,
+    37.649832
+],
+  "geometry": {"coordinates":[-97.31267200000001,37.649832],"type":"Point"}
+}

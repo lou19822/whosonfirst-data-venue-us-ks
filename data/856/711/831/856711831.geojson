@@ -1,0 +1,78 @@
+{
+  "id": 856711831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.157524,38.404991,-96.157524,38.404991",
+    "geom:latitude":38.404991,
+    "geom:longitude":-96.157524,
+    "iso:country":"US",
+    "sg:address":"1402 E 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/225462-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18QQ7c82RC4lPiTVDpblb4_38.405080_-96.157468@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052302,
+    "wof:geomhash":"217da28ddd63ba31ba7c844cfba8f80d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":856711831
+        }
+    ],
+    "wof:id":856711831,
+    "wof:lastmodified":1464052302,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.157524,
+    38.404991,
+    -96.157524,
+    38.404991
+],
+  "geometry": {"coordinates":[-96.157524,38.404991],"type":"Point"}
+}

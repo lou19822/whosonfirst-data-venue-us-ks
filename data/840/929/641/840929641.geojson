@@ -1,0 +1,71 @@
+{
+  "id": 840929641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.276827,37.771329,-97.276827,37.771329",
+    "geom:latitude":37.771329,
+    "geom:longitude":-97.276827,
+    "iso:country":"US",
+    "sg:address":"5251 E 48th St N",
+    "sg:city":"Bel Aire",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 744 2700",
+    "sg:postcode":"67220",
+    "sg:province":"KS",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945835,
+        102084203,
+        85803671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AlhGXU2dGezPkSAA1dzuh_37.771329_-97.276827@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051240,
+    "wof:geomhash":"c7ecaa76ffa812be8544819bacc9a31c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945835,
+            "neighbourhood_id":85803671,
+            "region_id":85688555,
+            "venue_id":840929641
+        }
+    ],
+    "wof:id":840929641,
+    "wof:lastmodified":1464051240,
+    "wof:name":"Bel Aire Recreation Complex",
+    "wof:parent_id":85803671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -97.276827,
+    37.771329,
+    -97.276827,
+    37.771329
+],
+  "geometry": {"coordinates":[-97.276827,37.771329],"type":"Point"}
+}

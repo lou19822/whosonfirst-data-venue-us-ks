@@ -1,0 +1,69 @@
+{
+  "id": 840835015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.967549,37.700361,-96.967549,37.700361",
+    "geom:latitude":37.700361,
+    "geom:longitude":-96.967549,
+    "iso:country":"US",
+    "sg:address":"2341 Leigh St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 7767",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15kwuXpRkpvH9aD97mKOIT_37.700361_-96.967549@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049112,
+    "wof:geomhash":"39a7a327df1a67b9552839fd9fc46b92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840835015
+        }
+    ],
+    "wof:id":840835015,
+    "wof:lastmodified":1464049112,
+    "wof:name":"Ron's Pump & Mechanical Svc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -96.967549,
+    37.700361,
+    -96.967549,
+    37.700361
+],
+  "geometry": {"coordinates":[-96.96754900000001,37.700361],"type":"Point"}
+}

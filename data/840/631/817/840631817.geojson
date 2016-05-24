@@ -1,0 +1,71 @@
+{
+  "id": 840631817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352649,37.649215,-97.352649,37.649215",
+    "geom:latitude":37.649215,
+    "geom:longitude":-97.352649,
+    "iso:country":"US",
+    "sg:address":"2401 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 2700",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hiDPrNLco5sVvMS69MLBq_37.649215_-97.352649@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044486,
+    "wof:geomhash":"fe6e11c3bd14ec70c04e44ce18093f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840631817
+        }
+    ],
+    "wof:id":840631817,
+    "wof:lastmodified":1464044486,
+    "wof:name":"Mr B's Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -97.352649,
+    37.649215,
+    -97.352649,
+    37.649215
+],
+  "geometry": {"coordinates":[-97.352649,37.649215],"type":"Point"}
+}

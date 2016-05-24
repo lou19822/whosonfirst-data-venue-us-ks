@@ -1,0 +1,71 @@
+{
+  "id": 840607203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.697735,37.421089,-94.697735,37.421089",
+    "geom:latitude":37.421089,
+    "geom:longitude":-94.697735,
+    "iso:country":"US",
+    "sg:address":"1405 N Smelter St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 9809",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vDvXf3SuolY713Qkb0pTQ_37.421089_-94.697735@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043835,
+    "wof:geomhash":"5e1ff2bf0b29f26c42add09f251fc963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840607203
+        }
+    ],
+    "wof:id":840607203,
+    "wof:lastmodified":1464043835,
+    "wof:name":"H&A Landscaping",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -94.697735,
+    37.421089,
+    -94.697735,
+    37.421089
+],
+  "geometry": {"coordinates":[-94.69773499999999,37.421089],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840576065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389739,37.705602,-97.389739,37.705602",
+    "geom:latitude":37.705602,
+    "geom:longitude":-97.389739,
+    "iso:country":"US",
+    "sg:address":"1211 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 0251",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vdeE2NpJzkYcf1C0wFfgK_37.705602_-97.389739@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043125,
+    "wof:geomhash":"6571d88bad1a11d124b8bc02f5bbdb27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840576065
+        }
+    ],
+    "wof:id":840576065,
+    "wof:lastmodified":1464043125,
+    "wof:name":"John N Bagley DDS",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -97.389739,
+    37.705602,
+    -97.389739,
+    37.705602
+],
+  "geometry": {"coordinates":[-97.38973900000001,37.705602],"type":"Point"}
+}

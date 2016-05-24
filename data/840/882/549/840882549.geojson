@@ -1,0 +1,67 @@
+{
+  "id": 840882549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.28036,37.6611,-97.28036,37.6611",
+    "geom:latitude":37.6611,
+    "geom:longitude":-97.28036,
+    "iso:country":"US",
+    "sg:address":"1650 S Oliver St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 685 3211",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:website":"www.howardsoptical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MugijbfJOq8LjKnswjEDE_37.661100_-97.280360@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050121,
+    "wof:geomhash":"f90d779aed71bb78ff6125b70ff582b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840882549
+        }
+    ],
+    "wof:id":840882549,
+    "wof:lastmodified":1464050121,
+    "wof:name":"Howard's Optical Dispensary",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.28036,
+    37.6611,
+    -97.28036,
+    37.6611
+],
+  "geometry": {"coordinates":[-97.28036,37.6611],"type":"Point"}
+}

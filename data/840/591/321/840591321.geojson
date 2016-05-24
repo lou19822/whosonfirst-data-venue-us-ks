@@ -1,0 +1,75 @@
+{
+  "id": 840591321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.333955,37.572648,-97.333955,37.572648",
+    "geom:latitude":37.572648,
+    "geom:longitude":-97.333955,
+    "iso:country":"US",
+    "sg:address":"6746 S Broadway Ave",
+    "sg:city":"Haysville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 0182",
+    "sg:postcode":"67060",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jkyU3QCpXWwuu0x44yYX4_37.572648_-97.333955@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043451,
+    "wof:geomhash":"e8e2d9699c40cb4efa36a41912f7b24c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840591321
+        }
+    ],
+    "wof:id":840591321,
+    "wof:lastmodified":1464043451,
+    "wof:name":"Buffy's Boarding",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -97.333955,
+    37.572648,
+    -97.333955,
+    37.572648
+],
+  "geometry": {"coordinates":[-97.333955,37.572648],"type":"Point"}
+}

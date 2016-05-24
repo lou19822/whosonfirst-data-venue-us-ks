@@ -1,0 +1,73 @@
+{
+  "id": 840733465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181516,38.403602,-96.181516,38.403602",
+    "geom:latitude":38.403602,
+    "geom:longitude":-96.181516,
+    "iso:country":"US",
+    "sg:address":"417 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 1520",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c6quMw3vnEtitQVtZ6xpf_38.403602_-96.181516@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046771,
+    "wof:geomhash":"007fe74eb5c271d5bf5d24d0d88b3f2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840733465
+        }
+    ],
+    "wof:id":840733465,
+    "wof:lastmodified":1464046771,
+    "wof:name":"Midwest Locksmiths",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -96.181516,
+    38.403602,
+    -96.181516,
+    38.403602
+],
+  "geometry": {"coordinates":[-96.181516,38.403602],"type":"Point"}
+}

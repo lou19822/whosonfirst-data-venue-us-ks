@@ -1,0 +1,75 @@
+{
+  "id": 840616889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.75079,39.014491,-95.75079,39.014491",
+    "geom:latitude":39.014491,
+    "geom:longitude":-95.75079,
+    "iso:country":"US",
+    "sg:address":"5604 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 0886",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FqfRJt5PKUvh3h20t2OjC_39.014491_-95.750790@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044090,
+    "wof:geomhash":"cf006d3bb975d1c2a56fe3d6c25be64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840616889
+        }
+    ],
+    "wof:id":840616889,
+    "wof:lastmodified":1464044090,
+    "wof:name":"Southwest Car Wash",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -95.75079,
+    39.014491,
+    -95.75079,
+    39.014491
+],
+  "geometry": {"coordinates":[-95.75078999999999,39.014491],"type":"Point"}
+}

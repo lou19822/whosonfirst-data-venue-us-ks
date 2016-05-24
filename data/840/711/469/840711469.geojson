@@ -1,0 +1,73 @@
+{
+  "id": 840711469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.711874,37.418341,-94.711874,37.418341",
+    "geom:latitude":37.418341,
+    "geom:longitude":-94.711874,
+    "iso:country":"US",
+    "sg:address":"1100 N Miles Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1100",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tQ4TcaHcoPzVOyIbV2EoY_37.418341_-94.711874@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046332,
+    "wof:geomhash":"031c342bc3b142052a81580f14fe2058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840711469
+        }
+    ],
+    "wof:id":840711469,
+    "wof:lastmodified":1464046332,
+    "wof:name":"YMCA",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -94.711874,
+    37.418341,
+    -94.711874,
+    37.418341
+],
+  "geometry": {"coordinates":[-94.71187399999999,37.418341],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856709549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.245326,37.747548,-97.245326,37.747548",
+    "geom:latitude":37.747548,
+    "geom:longitude":-97.245326,
+    "iso:country":"US",
+    "sg:address":"3527 N Rock Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/186748-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 636 5222",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BG0GQnExHvH8YBVR0fLG0_37.747548_-97.245326@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052256,
+    "wof:geomhash":"4d4e600888ce21b7b357ee1e9dcb14b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":856709549
+        }
+    ],
+    "wof:id":856709549,
+    "wof:lastmodified":1464052256,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.245326,
+    37.747548,
+    -97.245326,
+    37.747548
+],
+  "geometry": {"coordinates":[-97.24532600000001,37.747548],"type":"Point"}
+}

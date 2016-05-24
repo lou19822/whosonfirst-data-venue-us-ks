@@ -1,0 +1,78 @@
+{
+  "id": 840954657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723524,38.927439,-94.723524,38.927439",
+    "geom:latitude":38.927439,
+    "geom:longitude":-94.723524,
+    "iso:country":"US",
+    "sg:address":"12345 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 469 8500",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.jccc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yrt4kRLjNYY747qHbFho2_38.927439_-94.723524@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051738,
+    "wof:geomhash":"5ae37101538770ee98bc883f0f3a6fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":840954657
+        }
+    ],
+    "wof:id":840954657,
+    "wof:lastmodified":1464051738,
+    "wof:name":"Johnson Co Community College",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -94.723524,
+    38.927439,
+    -94.723524,
+    38.927439
+],
+  "geometry": {"coordinates":[-94.723524,38.927439],"type":"Point"}
+}

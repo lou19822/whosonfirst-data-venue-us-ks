@@ -1,0 +1,71 @@
+{
+  "id": 840801809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.13892,37.693947,-97.13892,37.693947",
+    "geom:latitude":37.693947,
+    "geom:longitude":-97.13892,
+    "iso:country":"US",
+    "sg:address":"109 W Central Ave",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 218 1166",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kEdEtaWAaLJhcQMWiI7r8_37.693947_-97.138920@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048238,
+    "wof:geomhash":"8bf37477744b3b179ec536a61672980d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840801809
+        }
+    ],
+    "wof:id":840801809,
+    "wof:lastmodified":1464048238,
+    "wof:name":"Hanna Nails",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -97.13892,
+    37.693947,
+    -97.13892,
+    37.693947
+],
+  "geometry": {"coordinates":[-97.13892,37.693947],"type":"Point"}
+}

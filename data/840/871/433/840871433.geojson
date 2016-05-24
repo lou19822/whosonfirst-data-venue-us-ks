@@ -1,0 +1,71 @@
+{
+  "id": 840871433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.663937,39.138315,-95.663937,39.138315",
+    "geom:latitude":39.138315,
+    "geom:longitude":-95.663937,
+    "iso:country":"US",
+    "sg:address":"5145 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 1886",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hEQ83FCaj3aFAu9A3jNp1_39.138315_-95.663937@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049885,
+    "wof:geomhash":"f57d455ebd54949ecc75bd7626d82ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840871433
+        }
+    ],
+    "wof:id":840871433,
+    "wof:lastmodified":1464049885,
+    "wof:name":"Richardson's Excavating",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.663937,
+    39.138315,
+    -95.663937,
+    39.138315
+],
+  "geometry": {"coordinates":[-95.663937,39.138315],"type":"Point"}
+}

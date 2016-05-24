@@ -1,0 +1,71 @@
+{
+  "id": 840683713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664825,39.087571,-95.664825,39.087571",
+    "geom:latitude":39.087571,
+    "geom:longitude":-95.664825,
+    "iso:country":"US",
+    "sg:address":"501 NW Lyman Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 1182",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jNAVQv6GRUJXc1ttrMJTv_39.087571_-95.664825@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045664,
+    "wof:geomhash":"f0f469e526600d644381474f827f6a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840683713
+        }
+    ],
+    "wof:id":840683713,
+    "wof:lastmodified":1464045664,
+    "wof:name":"Easy Times Lounge",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -95.664825,
+    39.087571,
+    -95.664825,
+    39.087571
+],
+  "geometry": {"coordinates":[-95.66482499999999,39.087571],"type":"Point"}
+}

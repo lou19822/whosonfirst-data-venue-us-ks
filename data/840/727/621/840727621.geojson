@@ -1,0 +1,71 @@
+{
+  "id": 840727621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.299855,37.631855,-97.299855,37.631855",
+    "geom:latitude":37.631855,
+    "geom:longitude":-97.299855,
+    "iso:country":"US",
+    "sg:address":"3299 Southeast Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 612 3366",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rLTGTOFa24Ul6bBVlRd40_37.631855_-97.299855@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046664,
+    "wof:geomhash":"7e41729cddae4b4f0c8b31866f159994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840727621
+        }
+    ],
+    "wof:id":840727621,
+    "wof:lastmodified":1464046664,
+    "wof:name":"Construction & Demolition Recy",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -97.299855,
+    37.631855,
+    -97.299855,
+    37.631855
+],
+  "geometry": {"coordinates":[-97.29985499999999,37.631855],"type":"Point"}
+}

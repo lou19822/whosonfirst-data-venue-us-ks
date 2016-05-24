@@ -1,0 +1,84 @@
+{
+  "id": 856706939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762282,39.03032,-95.762282,39.03032",
+    "geom:latitude":39.03032,
+    "geom:longitude":-95.762282,
+    "iso:country":"US",
+    "sg:address":"2021 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/110214-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 9777",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ANOhMw0Miahu3KXnzdPWr_39.030320_-95.762282@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052206,
+    "wof:geomhash":"62ec28a9d661ce9a4d5a6eb61ab8c5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706939
+        }
+    ],
+    "wof:id":856706939,
+    "wof:lastmodified":1464052206,
+    "wof:name":"Chili's",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -95.762282,
+    39.03032,
+    -95.762282,
+    39.03032
+],
+  "geometry": {"coordinates":[-95.762282,39.03032],"type":"Point"}
+}

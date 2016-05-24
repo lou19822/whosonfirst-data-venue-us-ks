@@ -1,0 +1,79 @@
+{
+  "id": 840703849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.696411,39.142993,-94.696411,39.142993",
+    "geom:latitude":39.142993,
+    "geom:longitude":-94.696411,
+    "iso:country":"US",
+    "sg:address":"5030 Leavenworth Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 7256",
+    "sg:postcode":"66104",
+    "sg:province":"KS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854995,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dWhPBWGdWAkbJCqGqQe19_39.142993_-94.696411@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046180,
+    "wof:geomhash":"9b4550cd56ccc18e0261c4d4d34d9e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85854995,
+            "region_id":85688555,
+            "venue_id":840703849
+        }
+    ],
+    "wof:id":840703849,
+    "wof:lastmodified":1464046180,
+    "wof:name":"Buz's Muffler Shop",
+    "wof:parent_id":85854995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.696411,
+    39.142993,
+    -94.696411,
+    39.142993
+],
+  "geometry": {"coordinates":[-94.696411,39.142993],"type":"Point"}
+}

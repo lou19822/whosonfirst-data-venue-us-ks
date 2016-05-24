@@ -1,0 +1,73 @@
+{
+  "id": 840832761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.516675,37.664947,-97.516675,37.664947",
+    "geom:latitude":37.664947,
+    "geom:longitude":-97.516675,
+    "iso:country":"US",
+    "sg:address":"1551 S 151st St W",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 0444",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IKOoQuSXFQJiyIZfvHQw3_37.664947_-97.516675@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049060,
+    "wof:geomhash":"126cf3480651250f0d110f7857e09bb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840832761
+        }
+    ],
+    "wof:id":840832761,
+    "wof:lastmodified":1464049060,
+    "wof:name":"Exotic Pets",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.516675,
+    37.664947,
+    -97.516675,
+    37.664947
+],
+  "geometry": {"coordinates":[-97.51667500000001,37.664947],"type":"Point"}
+}

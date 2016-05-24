@@ -1,0 +1,71 @@
+{
+  "id": 840718463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.950539,37.886826,-96.950539,37.886826",
+    "geom:latitude":37.886826,
+    "geom:longitude":-96.950539,
+    "iso:country":"US",
+    "sg:address":"4636 NW Shumway Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 752 3300",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M8iLvLjWag0ZaUacoUa6J_37.886826_-96.950539@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046471,
+    "wof:geomhash":"cbe49a2a55cb02a0721252af85794297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840718463
+        }
+    ],
+    "wof:id":840718463,
+    "wof:lastmodified":1464046471,
+    "wof:name":"Iron Mill",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.950539,
+    37.886826,
+    -96.950539,
+    37.886826
+],
+  "geometry": {"coordinates":[-96.95053900000001,37.886826],"type":"Point"}
+}

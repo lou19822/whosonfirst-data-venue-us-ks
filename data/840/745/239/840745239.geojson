@@ -1,0 +1,77 @@
+{
+  "id": 840745239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664749,39.071598,-95.664749,39.071598",
+    "geom:latitude":39.071598,
+    "geom:longitude":-95.664749,
+    "iso:country":"US",
+    "sg:address":"1101 N Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 5800",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838117,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aISy6w2Doh3K5UeH5CSOw_39.071598_-95.664749@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046992,
+    "wof:geomhash":"97571c5b5d3d8c4da5043daf59b1b10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85838117,
+            "region_id":85688555,
+            "venue_id":840745239
+        }
+    ],
+    "wof:id":840745239,
+    "wof:lastmodified":1464046992,
+    "wof:name":"Al's Auto Svc",
+    "wof:parent_id":85838117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.664749,
+    39.071598,
+    -95.664749,
+    39.071598
+],
+  "geometry": {"coordinates":[-95.664749,39.071598],"type":"Point"}
+}

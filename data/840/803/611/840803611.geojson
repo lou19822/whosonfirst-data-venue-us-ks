@@ -1,0 +1,73 @@
+{
+  "id": 840803611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.851143,37.385547,-94.851143,37.385547",
+    "geom:latitude":37.385547,
+    "geom:longitude":-94.851143,
+    "iso:country":"US",
+    "sg:address":"980 S 140th St",
+    "sg:city":"Cherokee",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 457 8662",
+    "sg:postcode":"66724",
+    "sg:province":"KS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SmSZs6DaFfL64uphdCh8B_37.385547_-94.851143@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048275,
+    "wof:geomhash":"a8e7220b934b8b96300cd0175e742f66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840803611
+        }
+    ],
+    "wof:id":840803611,
+    "wof:lastmodified":1464048275,
+    "wof:name":"Glen Peak",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.851143,
+    37.385547,
+    -94.851143,
+    37.385547
+],
+  "geometry": {"coordinates":[-94.85114299999999,37.385547],"type":"Point"}
+}

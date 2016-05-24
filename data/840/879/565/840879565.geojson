@@ -1,0 +1,75 @@
+{
+  "id": 840879565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.398142,37.671038,-97.398142,37.671038",
+    "geom:latitude":37.671038,
+    "geom:longitude":-97.398142,
+    "iso:country":"US",
+    "sg:address":"1350 S Anna St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 683 6600",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "motor",
+        "rebuilding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n6Bdxv1Inp6sFrAqCsLPd_37.671038_-97.398142@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050067,
+    "wof:geomhash":"532b717ee59aba8de54599e61ca0d407",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840879565
+        }
+    ],
+    "wof:id":840879565,
+    "wof:lastmodified":1464050067,
+    "wof:name":"American Engine Installations",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "motor",
+        "rebuilding"
+    ]
+},
+  "bbox": [
+    -97.398142,
+    37.671038,
+    -97.398142,
+    37.671038
+],
+  "geometry": {"coordinates":[-97.39814200000001,37.671038],"type":"Point"}
+}

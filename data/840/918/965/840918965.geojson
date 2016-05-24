@@ -1,0 +1,66 @@
+{
+  "id": 840918965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.213935,38.419578,-96.213935,38.419578",
+    "geom:latitude":38.419578,
+    "geom:longitude":-96.213935,
+    "iso:country":"US",
+    "sg:address":"2628 W 18th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3683",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jyCBruk90ZAyPQmYcyxnx_38.419578_-96.213935@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050970,
+    "wof:geomhash":"7251be4be6d36c4c5d5876af4429db40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840918965
+        }
+    ],
+    "wof:id":840918965,
+    "wof:lastmodified":1464050970,
+    "wof:name":"Stop-2-Shop",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.213935,
+    38.419578,
+    -96.213935,
+    38.419578
+],
+  "geometry": {"coordinates":[-96.21393500000001,38.419578],"type":"Point"}
+}

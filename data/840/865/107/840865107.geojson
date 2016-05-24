@@ -1,0 +1,73 @@
+{
+  "id": 840865107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.191367,38.402544,-96.191367,38.402544",
+    "geom:latitude":38.402544,
+    "geom:longitude":-96.191367,
+    "iso:country":"US",
+    "sg:address":"1001 W 4th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 5512",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eHJFqPVwh1XOhX7cs2uzy_38.402544_-96.191367@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049757,
+    "wof:geomhash":"88313fcc449a0e614bb084f4355c348e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840865107
+        }
+    ],
+    "wof:id":840865107,
+    "wof:lastmodified":1464049757,
+    "wof:name":"Builder's Choice Concrete",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -96.191367,
+    38.402544,
+    -96.191367,
+    38.402544
+],
+  "geometry": {"coordinates":[-96.191367,38.402544],"type":"Point"}
+}

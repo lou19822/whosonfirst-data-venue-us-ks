@@ -1,0 +1,73 @@
+{
+  "id": 840786267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.586242,39.009681,-95.586242,39.009681",
+    "geom:latitude":39.009681,
+    "geom:longitude":-95.586242,
+    "iso:country":"US",
+    "sg:address":"3045 SE Tecumseh Rd",
+    "sg:city":"Tecumseh",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 379 0587",
+    "sg:postcode":"66542",
+    "sg:province":"KS",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mJNwiaDcc9MRi68RG9EPG_39.009681_-95.586242@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047906,
+    "wof:geomhash":"e01c3381c520beedf82849dfaf7dc33e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840786267
+        }
+    ],
+    "wof:id":840786267,
+    "wof:lastmodified":1464047906,
+    "wof:name":"Tail Waggers Dog Training",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "dog"
+    ]
+},
+  "bbox": [
+    -95.586242,
+    39.009681,
+    -95.586242,
+    39.009681
+],
+  "geometry": {"coordinates":[-95.586242,39.009681],"type":"Point"}
+}

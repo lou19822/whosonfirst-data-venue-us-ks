@@ -1,0 +1,73 @@
+{
+  "id": 840592857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.32253,37.65985,-97.32253,37.65985",
+    "geom:latitude":37.65985,
+    "geom:longitude":-97.32253,
+    "iso:country":"US",
+    "sg:address":"1850 S Pattie St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 2705",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rh9alC8jBj7QhzQQHOVbo_37.659850_-97.322530@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043487,
+    "wof:geomhash":"58b9b7aca5f7d60b670a81d9d0d694ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840592857
+        }
+    ],
+    "wof:id":840592857,
+    "wof:lastmodified":1464043487,
+    "wof:name":"Electrical Systems Inc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.32253,
+    37.65985,
+    -97.32253,
+    37.65985
+],
+  "geometry": {"coordinates":[-97.32253,37.65985],"type":"Point"}
+}

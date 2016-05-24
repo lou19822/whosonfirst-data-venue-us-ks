@@ -1,0 +1,71 @@
+{
+  "id": 840765399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.95946,38.013332,-96.95946,38.013332",
+    "geom:latitude":38.013332,
+    "geom:longitude":-96.95946,
+    "iso:country":"US",
+    "sg:address":"6850 NW 130th St",
+    "sg:city":"Potwin",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 752 3520",
+    "sg:postcode":"67123",
+    "sg:province":"KS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MmWkzAbs90o1QGIsZlMdL_38.013332_-96.959460@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047462,
+    "wof:geomhash":"8b3699a754ac3f592734312ed007f5cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840765399
+        }
+    ],
+    "wof:id":840765399,
+    "wof:lastmodified":1464047462,
+    "wof:name":"Harvey Farms",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.95946,
+    38.013332,
+    -96.95946,
+    38.013332
+],
+  "geometry": {"coordinates":[-96.95946000000001,38.013332],"type":"Point"}
+}

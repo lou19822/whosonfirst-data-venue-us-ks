@@ -1,0 +1,71 @@
+{
+  "id": 840695457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.688142,39.141965,-95.688142,39.141965",
+    "geom:latitude":39.141965,
+    "geom:longitude":-95.688142,
+    "iso:country":"US",
+    "sg:address":"5340 NW Lincoln St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 8525",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gLhFecxjMhauArQnKpICA_39.141965_-95.688142@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045960,
+    "wof:geomhash":"f3890748e27f0a08fb0414657c15cf5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840695457
+        }
+    ],
+    "wof:id":840695457,
+    "wof:lastmodified":1464045960,
+    "wof:name":"John's Plumbing & Heating Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.688142,
+    39.141965,
+    -95.688142,
+    39.141965
+],
+  "geometry": {"coordinates":[-95.688142,39.141965],"type":"Point"}
+}

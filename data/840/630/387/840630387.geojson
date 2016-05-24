@@ -1,0 +1,73 @@
+{
+  "id": 840630387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.37151,37.649733,-97.37151,37.649733",
+    "geom:latitude":37.649733,
+    "geom:longitude":-97.37151,
+    "iso:country":"US",
+    "sg:address":"2605 Maxwell St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 3533",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rXMC4lbcBR2UmaeYeYFZS_37.649733_-97.371510@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044449,
+    "wof:geomhash":"e790343c59ed3aff542592c33dbf4b40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840630387
+        }
+    ],
+    "wof:id":840630387,
+    "wof:lastmodified":1464044449,
+    "wof:name":"Statdata",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -97.37151,
+    37.649733,
+    -97.37151,
+    37.649733
+],
+  "geometry": {"coordinates":[-97.37151,37.649733],"type":"Point"}
+}

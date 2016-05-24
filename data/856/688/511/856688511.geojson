@@ -1,0 +1,71 @@
+{
+  "id": 856688511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.642987,39.044183,-95.642987,39.044183",
+    "geom:latitude":39.044183,
+    "geom:longitude":-95.642987,
+    "iso:country":"US",
+    "sg:address":"2647 SE 6th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 7770",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZQNI2YblYLG2e6BcvoQta_39.044183_-95.642987@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051838,
+    "wof:geomhash":"f2dc37d947728ce140f4c770180f6adc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":856688511
+        }
+    ],
+    "wof:id":856688511,
+    "wof:lastmodified":1464051838,
+    "wof:name":"Smith Brothers Autmtc Transm",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -95.642987,
+    39.044183,
+    -95.642987,
+    39.044183
+],
+  "geometry": {"coordinates":[-95.64298700000001,39.044183],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840728711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389198,37.668507,-97.389198,37.668507",
+    "geom:latitude":37.668507,
+    "geom:longitude":-97.389198,
+    "iso:country":"US",
+    "sg:address":"1300 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 5252",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "yard"
+    ],
+    "sg:website":"www.ur.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0krqJkbrZZBtspH5EigMFS_37.668507_-97.389198@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046684,
+    "wof:geomhash":"f5626150ed593a99d55a0b4e0a50e3f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840728711
+        }
+    ],
+    "wof:id":840728711,
+    "wof:lastmodified":1464046684,
+    "wof:name":"United Rentals",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -97.389198,
+    37.668507,
+    -97.389198,
+    37.668507
+],
+  "geometry": {"coordinates":[-97.38919799999999,37.668507],"type":"Point"}
+}

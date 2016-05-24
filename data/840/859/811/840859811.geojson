@@ -1,0 +1,73 @@
+{
+  "id": 840859811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.371767,37.768204,-97.371767,37.768204",
+    "geom:latitude":37.768204,
+    "geom:longitude":-97.371767,
+    "iso:country":"US",
+    "sg:address":"4647 N Meridian Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 4440",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IJEmc6J31ARtZ9EJk6jeQ_37.768204_-97.371767@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049652,
+    "wof:geomhash":"10820f729b960971eee89b96987d7206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840859811
+        }
+    ],
+    "wof:id":840859811,
+    "wof:lastmodified":1464049652,
+    "wof:name":"North Lakes Realty",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -97.371767,
+    37.768204,
+    -97.371767,
+    37.768204
+],
+  "geometry": {"coordinates":[-97.37176700000001,37.768204],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840644663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.992008,39.121444,-94.992008,39.121444",
+    "geom:latitude":39.121444,
+    "geom:longitude":-94.992008,
+    "iso:country":"US",
+    "sg:address":"18985 178th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 728 2243",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jbOjs5EhO5HYkYO3MdxY9_39.121444_-94.992008@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044775,
+    "wof:geomhash":"795e0291479abc779a49eef02859f874",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840644663
+        }
+    ],
+    "wof:id":840644663,
+    "wof:lastmodified":1464044775,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -94.992008,
+    39.121444,
+    -94.992008,
+    39.121444
+],
+  "geometry": {"coordinates":[-94.992008,39.121444],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856704275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.767246,38.909213,-94.767246,38.909213",
+    "geom:latitude":38.909213,
+    "geom:longitude":-94.767246,
+    "iso:country":"US",
+    "sg:address":"11969 S Strang Line Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/71463-old-chicago/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 9850",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r5rCYrEVkx8lEjo3FBb4N_38.909213_-94.767246@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052155,
+    "wof:geomhash":"d8fb45df4344bff60b73ad9717a5cb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704275
+        }
+    ],
+    "wof:id":856704275,
+    "wof:lastmodified":1464052155,
+    "wof:name":"Old Chicago",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.767246,
+    38.909213,
+    -94.767246,
+    38.909213
+],
+  "geometry": {"coordinates":[-94.767246,38.909213],"type":"Point"}
+}

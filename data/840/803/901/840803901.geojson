@@ -1,0 +1,71 @@
+{
+  "id": 840803901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.109355,37.775672,-97.109355,37.775672",
+    "geom:latitude":37.775672,
+    "geom:longitude":-97.109355,
+    "iso:country":"US",
+    "sg:address":"3481 SW Shady Ln",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 778 1712",
+    "sg:postcode":"67017",
+    "sg:province":"KS",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32OajySoVIgpznl6zc6z7t_37.775672_-97.109355@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048281,
+    "wof:geomhash":"387c9b2de81a261ae5612be11f823ead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840803901
+        }
+    ],
+    "wof:id":840803901,
+    "wof:lastmodified":1464048281,
+    "wof:name":"Prairie Air Svc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "school"
+    ]
+},
+  "bbox": [
+    -97.109355,
+    37.775672,
+    -97.109355,
+    37.775672
+],
+  "geometry": {"coordinates":[-97.10935499999999,37.775672],"type":"Point"}
+}

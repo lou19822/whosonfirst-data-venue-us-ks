@@ -1,0 +1,77 @@
+{
+  "id": 840804133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.701341,39.021597,-95.701341,39.021597",
+    "geom:latitude":39.021597,
+    "geom:longitude":-95.701341,
+    "iso:country":"US",
+    "sg:address":"1916 SW Sieben Ct",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 1307",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "membership",
+        "broadcaster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q5NiDaAAsaAPhKV1vobpq_39.021597_-95.701341@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048285,
+    "wof:geomhash":"f12353b25bb2c49d7c162b0e457e0b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840804133
+        }
+    ],
+    "wof:id":840804133,
+    "wof:lastmodified":1464048285,
+    "wof:name":"Kansas Assn Of Broadcasters",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "broadcaster"
+    ]
+},
+  "bbox": [
+    -95.701341,
+    39.021597,
+    -95.701341,
+    39.021597
+],
+  "geometry": {"coordinates":[-95.701341,39.021597],"type":"Point"}
+}

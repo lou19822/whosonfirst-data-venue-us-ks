@@ -1,0 +1,73 @@
+{
+  "id": 840867411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.212251,38.419046,-96.212251,38.419046",
+    "geom:latitude":38.419046,
+    "geom:longitude":-96.212251,
+    "iso:country":"US",
+    "sg:address":"1620 Wheeler St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3280",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SWDCzmK9AlnxVAarAM5pM_38.419046_-96.212251@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049805,
+    "wof:geomhash":"c833502a66af2f1128d46b3c0dd575cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840867411
+        }
+    ],
+    "wof:id":840867411,
+    "wof:lastmodified":1464049805,
+    "wof:name":"Vintage Manor",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -96.212251,
+    38.419046,
+    -96.212251,
+    38.419046
+],
+  "geometry": {"coordinates":[-96.21225099999999,38.419046],"type":"Point"}
+}

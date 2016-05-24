@@ -1,0 +1,73 @@
+{
+  "id": 840942259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.468741,37.778631,-97.468741,37.778631",
+    "geom:latitude":37.778631,
+    "geom:longitude":-97.468741,
+    "iso:country":"US",
+    "sg:address":"110 N Park Ave",
+    "sg:city":"Maize",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 5178",
+    "sg:postcode":"67101",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VizmeY6OecHkInSsBCEJ8_37.778631_-97.468741@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051489,
+    "wof:geomhash":"8b647a34885d559c1e3f44c169ac469f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840942259
+        }
+    ],
+    "wof:id":840942259,
+    "wof:lastmodified":1464051489,
+    "wof:name":"D & R Motors",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.468741,
+    37.778631,
+    -97.468741,
+    37.778631
+],
+  "geometry": {"coordinates":[-97.46874099999999,37.778631],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840682823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667682,38.910956,-94.667682,38.910956",
+    "geom:latitude":38.910956,
+    "geom:longitude":-94.667682,
+    "iso:country":"US",
+    "sg:address":"12061 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 661 9199",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WE3QA90MFyQNOfX7qmzbl_38.910956_-94.667682@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045643,
+    "wof:geomhash":"0302bac06194b2b399ff265a63df29a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":840682823
+        }
+    ],
+    "wof:id":840682823,
+    "wof:lastmodified":1464045643,
+    "wof:name":"Maytag Store",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -94.667682,
+    38.910956,
+    -94.667682,
+    38.910956
+],
+  "geometry": {"coordinates":[-94.667682,38.910956],"type":"Point"}
+}

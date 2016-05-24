@@ -1,0 +1,71 @@
+{
+  "id": 840850885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.688573,38.803541,-94.688573,38.803541",
+    "geom:latitude":38.803541,
+    "geom:longitude":-94.688573,
+    "iso:country":"US",
+    "sg:address":"8909 W 179th St",
+    "sg:city":"Bucyrus",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"Botanical Garden",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 685 3604",
+    "sg:postcode":"66013",
+    "sg:province":"KS",
+    "sg:tags":[
+        "arboretum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eYrNPoycnCHVS1BEUwa8j_38.803541_-94.688573@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049458,
+    "wof:geomhash":"feb503be5eb41f9996b02d6b19236594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840850885
+        }
+    ],
+    "wof:id":840850885,
+    "wof:lastmodified":1464049458,
+    "wof:name":"Overland Park Arboretum",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arboretum"
+    ]
+},
+  "bbox": [
+    -94.688573,
+    38.803541,
+    -94.688573,
+    38.803541
+],
+  "geometry": {"coordinates":[-94.68857300000001,38.803541],"type":"Point"}
+}

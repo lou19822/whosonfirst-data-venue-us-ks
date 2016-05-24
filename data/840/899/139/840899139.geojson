@@ -1,0 +1,71 @@
+{
+  "id": 840899139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.124681,39.13342,-95.124681,39.13342",
+    "geom:latitude":39.13342,
+    "geom:longitude":-95.124681,
+    "iso:country":"US",
+    "sg:address":"20065 McLouth Rd",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 2952",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vw11Xkp0lc6KZKPqHU7xs_39.133420_-95.124681@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050472,
+    "wof:geomhash":"d266ae81512c757b4d9bee74802ea8a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840899139
+        }
+    ],
+    "wof:id":840899139,
+    "wof:lastmodified":1464050472,
+    "wof:name":"Charles H Welsh",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.124681,
+    39.13342,
+    -95.124681,
+    39.13342
+],
+  "geometry": {"coordinates":[-95.124681,39.13342],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 840737681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.461347,37.708402,-97.461347,37.708402",
+    "geom:latitude":37.708402,
+    "geom:longitude":-97.461347,
+    "iso:country":"US",
+    "sg:address":"10304 W 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 1840",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oVf0ehNHdU8OoB76TpEw9_37.708402_-97.461347@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046848,
+    "wof:geomhash":"664dcc60b602f24acf96f19e03b66f96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840737681
+        }
+    ],
+    "wof:id":840737681,
+    "wof:lastmodified":1464046848,
+    "wof:name":"Fleming",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.461347,
+    37.708402,
+    -97.461347,
+    37.708402
+],
+  "geometry": {"coordinates":[-97.461347,37.708402],"type":"Point"}
+}

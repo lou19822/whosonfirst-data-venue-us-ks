@@ -1,0 +1,71 @@
+{
+  "id": 840856305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389738,37.706032,-97.389738,37.706032",
+    "geom:latitude":37.706032,
+    "geom:longitude":-97.389738,
+    "iso:country":"US",
+    "sg:address":"1245 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 1010",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DVniQz94X2tgzqkag0DOe_37.706032_-97.389738@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049575,
+    "wof:geomhash":"b3138bef02891e39c9eb07f6dc272ab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840856305
+        }
+    ],
+    "wof:id":840856305,
+    "wof:lastmodified":1464049575,
+    "wof:name":"Truong Thanh",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -97.389738,
+    37.706032,
+    -97.389738,
+    37.706032
+],
+  "geometry": {"coordinates":[-97.38973799999999,37.706032],"type":"Point"}
+}

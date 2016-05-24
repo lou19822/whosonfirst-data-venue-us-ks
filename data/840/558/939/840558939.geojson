@@ -1,0 +1,73 @@
+{
+  "id": 840558939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.441885,37.699156,-97.441885,37.699156",
+    "geom:latitude":37.699156,
+    "geom:longitude":-97.441885,
+    "iso:country":"US",
+    "sg:address":"8418 W Murdock St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 5174",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cn1FPg3dQM61zO63duAMF_37.699156_-97.441885@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042710,
+    "wof:geomhash":"c9ada7b681f0776377f18e85359dd56c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840558939
+        }
+    ],
+    "wof:id":840558939,
+    "wof:lastmodified":1464042710,
+    "wof:name":"St Francis Of Assisi Covent",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -97.441885,
+    37.699156,
+    -97.441885,
+    37.699156
+],
+  "geometry": {"coordinates":[-97.441885,37.699156],"type":"Point"}
+}

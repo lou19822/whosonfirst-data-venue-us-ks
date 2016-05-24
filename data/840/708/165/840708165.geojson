@@ -1,0 +1,73 @@
+{
+  "id": 840708165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.167074,38.412294,-96.167074,38.412294",
+    "geom:latitude":38.412294,
+    "geom:longitude":-96.167074,
+    "iso:country":"US",
+    "sg:address":"906 E 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7373",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VPrLuzjckfnBBeKI8tAKd_38.412294_-96.167074@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046267,
+    "wof:geomhash":"ef9dddc02584749dbc7bccb108c7a869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840708165
+        }
+    ],
+    "wof:id":840708165,
+    "wof:lastmodified":1464046267,
+    "wof:name":"Old Rum's Liquor Store",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -96.167074,
+    38.412294,
+    -96.167074,
+    38.412294
+],
+  "geometry": {"coordinates":[-96.167074,38.412294],"type":"Point"}
+}

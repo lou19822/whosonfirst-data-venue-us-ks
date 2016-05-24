@@ -1,0 +1,78 @@
+{
+  "id": 856707549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704946,37.434933,-94.704946,37.434933",
+    "geom:latitude":37.434933,
+    "geom:longitude":-94.704946,
+    "iso:country":"US",
+    "sg:address":"2802 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/pittsburg/89789-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 3331",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RyQBk25N5Qf7pbr1jaBok_37.434933_-94.704946@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052221,
+    "wof:geomhash":"5f0ef53f4e81e466fdfe99c337ec5c03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856707549
+        }
+    ],
+    "wof:id":856707549,
+    "wof:lastmodified":1464052221,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.704946,
+    37.434933,
+    -94.704946,
+    37.434933
+],
+  "geometry": {"coordinates":[-94.70494600000001,37.434933],"type":"Point"}
+}

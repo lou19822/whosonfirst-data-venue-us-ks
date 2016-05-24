@@ -1,0 +1,71 @@
+{
+  "id": 840817241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.927715,37.676574,-96.927715,37.676574",
+    "geom:latitude":37.676574,
+    "geom:longitude":-96.927715,
+    "iso:country":"US",
+    "sg:address":"4453 SW 101st Ter",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 5223",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W0bpPKEEySEHaFFFDLcli_37.676574_-96.927715@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048667,
+    "wof:geomhash":"a13d7010672ad0f42e83b526e454f600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840817241
+        }
+    ],
+    "wof:id":840817241,
+    "wof:lastmodified":1464048667,
+    "wof:name":"Stephenson Trucking Inc",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.927715,
+    37.676574,
+    -96.927715,
+    37.676574
+],
+  "geometry": {"coordinates":[-96.92771500000001,37.676574],"type":"Point"}
+}

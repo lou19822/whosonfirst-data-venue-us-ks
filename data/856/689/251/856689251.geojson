@@ -1,0 +1,73 @@
+{
+  "id": 856689251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.876177,37.839275,-96.876177,37.839275",
+    "geom:latitude":37.839275,
+    "geom:longitude":-96.876177,
+    "iso:country":"US",
+    "sg:address":"2640 W Refinery Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 1366",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QeJpXkrTAalWFEXsUptJl_37.839275_-96.876177@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051852,
+    "wof:geomhash":"bf9da88ccafe83104db48d573f7325f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":856689251
+        }
+    ],
+    "wof:id":856689251,
+    "wof:lastmodified":1464051852,
+    "wof:name":"Oxy USA Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -96.876177,
+    37.839275,
+    -96.876177,
+    37.839275
+],
+  "geometry": {"coordinates":[-96.876177,37.839275],"type":"Point"}
+}

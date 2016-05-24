@@ -1,0 +1,71 @@
+{
+  "id": 840645877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705014,37.435723,-94.705014,37.435723",
+    "geom:latitude":37.435723,
+    "geom:longitude":-94.705014,
+    "iso:country":"US",
+    "sg:address":"2811 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1090",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0csGCyq5j0hZlT1wJWUon7_37.435723_-94.705014@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044798,
+    "wof:geomhash":"22c210b6c122cf2aeaf45880d0104c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840645877
+        }
+    ],
+    "wof:id":840645877,
+    "wof:lastmodified":1464044798,
+    "wof:name":"All-Quip Rental & Sales Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.705014,
+    37.435723,
+    -94.705014,
+    37.435723
+],
+  "geometry": {"coordinates":[-94.70501400000001,37.435723],"type":"Point"}
+}

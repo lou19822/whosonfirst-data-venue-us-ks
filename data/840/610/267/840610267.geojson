@@ -1,0 +1,79 @@
+{
+  "id": 840610267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.626428,39.087595,-94.626428,39.087595",
+    "geom:latitude":39.087595,
+    "geom:longitude":-94.626428,
+    "iso:country":"US",
+    "sg:address":"716 Kansas Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 342 3008",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878487,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WHfP6sqCqBCVMPf4eLb9s_39.087595_-94.626428@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043924,
+    "wof:geomhash":"8a12fcbe61e348b3958bde2995e39574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878487,
+            "region_id":85688555,
+            "venue_id":840610267
+        }
+    ],
+    "wof:id":840610267,
+    "wof:lastmodified":1464043924,
+    "wof:name":"KCK Automotive",
+    "wof:parent_id":85878487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.626428,
+    39.087595,
+    -94.626428,
+    39.087595
+],
+  "geometry": {"coordinates":[-94.626428,39.087595],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840592561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.721854,37.411289,-94.721854,37.411289",
+    "geom:latitude":37.411289,
+    "geom:longitude":-94.721854,
+    "iso:country":"US",
+    "sg:address":"1122 State Hwy 126",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 8137",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S1EVw3khjPwOPcgjng8o0_37.411289_-94.721854@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043480,
+    "wof:geomhash":"794ac5599785dbf71510984269cf4949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840592561
+        }
+    ],
+    "wof:id":840592561,
+    "wof:lastmodified":1464043480,
+    "wof:name":"Rural Water District",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -94.721854,
+    37.411289,
+    -94.721854,
+    37.411289
+],
+  "geometry": {"coordinates":[-94.72185399999999,37.411289],"type":"Point"}
+}

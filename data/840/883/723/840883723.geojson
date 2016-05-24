@@ -1,0 +1,71 @@
+{
+  "id": 840883723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.390278,37.669316,-97.390278,37.669316",
+    "geom:latitude":37.669316,
+    "geom:longitude":-97.390278,
+    "iso:country":"US",
+    "sg:address":"4111 W Walker St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 4224",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sNk1PuvXHLEsv4LEIdes5_37.669316_-97.390278@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050150,
+    "wof:geomhash":"03a74e5e24fe73d87332abf0f0375760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840883723
+        }
+    ],
+    "wof:id":840883723,
+    "wof:lastmodified":1464050150,
+    "wof:name":"River City Elevator",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -97.390278,
+    37.669316,
+    -97.390278,
+    37.669316
+],
+  "geometry": {"coordinates":[-97.390278,37.669316],"type":"Point"}
+}

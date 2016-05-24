@@ -1,0 +1,71 @@
+{
+  "id": 840829101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.670535,38.935696,-94.670535,38.935696",
+    "geom:latitude":38.935696,
+    "geom:longitude":-94.670535,
+    "iso:country":"US",
+    "sg:address":"10610 Marty St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 648 5555",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:website":"www.clubhouseinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879547,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41bG7y9mxAfVbMdpK9smBy_38.935696_-94.670535@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048988,
+    "wof:geomhash":"ca42d75dc363abd603b6b2c7a076e22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879547,
+            "region_id":85688555,
+            "venue_id":840829101
+        }
+    ],
+    "wof:id":840829101,
+    "wof:lastmodified":1464048988,
+    "wof:name":"Clubhouse Inn",
+    "wof:parent_id":85879547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.670535,
+    38.935696,
+    -94.670535,
+    38.935696
+],
+  "geometry": {"coordinates":[-94.670535,38.935696],"type":"Point"}
+}

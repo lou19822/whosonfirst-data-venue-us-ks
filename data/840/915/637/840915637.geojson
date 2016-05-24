@@ -1,0 +1,71 @@
+{
+  "id": 840915637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.603337,39.067525,-95.603337,39.067525",
+    "geom:latitude":39.067525,
+    "geom:longitude":-95.603337,
+    "iso:country":"US",
+    "sg:address":"736 NE Kincaid Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 8573",
+    "sg:postcode":"66616",
+    "sg:province":"KS",
+    "sg:tags":[
+        "alternator",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZcDm72z6hWKJ1CpcEouMg_39.067525_-95.603337@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050890,
+    "wof:geomhash":"3978bdd6761148b218c58cf306d162a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840915637
+        }
+    ],
+    "wof:id":840915637,
+    "wof:lastmodified":1464050890,
+    "wof:name":"Electrolife Starter/Alternator",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "generator"
+    ]
+},
+  "bbox": [
+    -95.603337,
+    39.067525,
+    -95.603337,
+    39.067525
+],
+  "geometry": {"coordinates":[-95.603337,39.067525],"type":"Point"}
+}

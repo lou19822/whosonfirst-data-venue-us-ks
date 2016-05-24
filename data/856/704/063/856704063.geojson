@@ -1,0 +1,78 @@
+{
+  "id": 856704063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.826047,38.88374,-94.826047,38.88374",
+    "geom:latitude":38.88374,
+    "geom:longitude":-94.826047,
+    "iso:country":"US",
+    "sg:address":"618 W Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/186674-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 1500",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YfqhdNOB9WgQmjkctYxQv_38.883740_-94.826047@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052152,
+    "wof:geomhash":"36091e689a840bea624472fb7d16aa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704063
+        }
+    ],
+    "wof:id":856704063,
+    "wof:lastmodified":1464052152,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.826047,
+    38.88374,
+    -94.826047,
+    38.88374
+],
+  "geometry": {"coordinates":[-94.826047,38.88374],"type":"Point"}
+}

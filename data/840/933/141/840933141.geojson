@@ -1,0 +1,75 @@
+{
+  "id": 840933141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.306636,37.561594,-97.306636,37.561594",
+    "geom:latitude":37.561594,
+    "geom:longitude":-97.306636,
+    "iso:country":"US",
+    "sg:address":"7415 S Grove St",
+    "sg:city":"Haysville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 807 7751",
+    "sg:postcode":"67060",
+    "sg:province":"KS",
+    "sg:tags":[
+        "horse",
+        "other",
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4boAozy04rVc9yL2ztCg5C_37.561594_-97.306636@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051310,
+    "wof:geomhash":"14bca04436ec5b4061d86353060240c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840933141
+        }
+    ],
+    "wof:id":840933141,
+    "wof:lastmodified":1464051310,
+    "wof:name":"Circle K Horses",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "other",
+        "equine"
+    ]
+},
+  "bbox": [
+    -97.306636,
+    37.561594,
+    -97.306636,
+    37.561594
+],
+  "geometry": {"coordinates":[-97.306636,37.561594],"type":"Point"}
+}

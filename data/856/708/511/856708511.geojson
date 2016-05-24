@@ -1,0 +1,74 @@
+{
+  "id": 856708511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.439549,37.722675,-97.439549,37.722675",
+    "geom:latitude":37.722675,
+    "geom:longitude":-97.439549,
+    "iso:country":"US",
+    "sg:address":"8385 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/161384-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 8385",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IWxlXbVqGghaHx1E80dhm_37.722675_-97.439549@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052238,
+    "wof:geomhash":"ce3c8806db5367f37314e5f620e63fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":856708511
+        }
+    ],
+    "wof:id":856708511,
+    "wof:lastmodified":1464052238,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.439549,
+    37.722675,
+    -97.439549,
+    37.722675
+],
+  "geometry": {"coordinates":[-97.439549,37.722675],"type":"Point"}
+}

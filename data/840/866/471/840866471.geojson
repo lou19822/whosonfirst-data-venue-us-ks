@@ -1,0 +1,71 @@
+{
+  "id": 840866471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.155362,38.41153,-96.155362,38.41153",
+    "geom:latitude":38.41153,
+    "geom:longitude":-96.155362,
+    "iso:country":"US",
+    "sg:address":"1042 Harcourt Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8653",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_548zfqCkeVeAi9ZefbbJXp_38.411530_-96.155362@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049788,
+    "wof:geomhash":"e12865488a0d075f8bff2134dc017cf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840866471
+        }
+    ],
+    "wof:id":840866471,
+    "wof:lastmodified":1464049788,
+    "wof:name":"Fg Gun Shop",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -96.155362,
+    38.41153,
+    -96.155362,
+    38.41153
+],
+  "geometry": {"coordinates":[-96.155362,38.41153],"type":"Point"}
+}

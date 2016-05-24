@@ -1,0 +1,71 @@
+{
+  "id": 840562739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180057,38.407189,-96.180057,38.407189",
+    "geom:latitude":38.407189,
+    "geom:longitude":-96.180057,
+    "iso:country":"US",
+    "sg:address":"716 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 9649",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KEvCzBGURlnSznvNnZkxG_38.407189_-96.180057@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042796,
+    "wof:geomhash":"45a403c66af29aadd11cd437be332088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840562739
+        }
+    ],
+    "wof:id":840562739,
+    "wof:lastmodified":1464042796,
+    "wof:name":"Town Crier Emporia",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.180057,
+    38.407189,
+    -96.180057,
+    38.407189
+],
+  "geometry": {"coordinates":[-96.18005700000001,38.407189],"type":"Point"}
+}

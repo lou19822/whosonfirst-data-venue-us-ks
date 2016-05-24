@@ -1,0 +1,77 @@
+{
+  "id": 840630217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.641912,39.054298,-94.641912,39.054298",
+    "geom:latitude":39.054298,
+    "geom:longitude":-94.641912,
+    "iso:country":"US",
+    "sg:address":"1270 Merriam Ln",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 677 0833",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "flea",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803445,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M77ruAavbqjaoubEoVGOl_39.054298_-94.641912@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044446,
+    "wof:geomhash":"30c3d0b125368f3041a13b002ad62c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85803445,
+            "region_id":85688555,
+            "venue_id":840630217
+        }
+    ],
+    "wof:id":840630217,
+    "wof:lastmodified":1464044446,
+    "wof:name":"Merriam Lane Flea Market",
+    "wof:parent_id":85803445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flea",
+        "market"
+    ]
+},
+  "bbox": [
+    -94.641912,
+    39.054298,
+    -94.641912,
+    39.054298
+],
+  "geometry": {"coordinates":[-94.641912,39.054298],"type":"Point"}
+}

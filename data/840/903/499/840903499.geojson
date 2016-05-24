@@ -1,0 +1,75 @@
+{
+  "id": 840903499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.682753,39.003936,-95.682753,39.003936",
+    "geom:latitude":39.003936,
+    "geom:longitude":-95.682753,
+    "iso:country":"US",
+    "sg:address":"3319 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 4437",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14gTm0hTogmUFkLgDLj9kK_39.003936_-95.682753@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050567,
+    "wof:geomhash":"e156bd3c290623b262a1c88f0addb1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840903499
+        }
+    ],
+    "wof:id":840903499,
+    "wof:lastmodified":1464050567,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -95.682753,
+    39.003936,
+    -95.682753,
+    39.003936
+],
+  "geometry": {"coordinates":[-95.68275300000001,39.003936],"type":"Point"}
+}

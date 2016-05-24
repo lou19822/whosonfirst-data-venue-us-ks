@@ -1,0 +1,71 @@
+{
+  "id": 840555841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.493709,37.707809,-97.493709,37.707809",
+    "geom:latitude":37.707809,
+    "geom:longitude":-97.493709,
+    "iso:country":"US",
+    "sg:address":"13100 W 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 0665",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72KfR7cNby2hdGM44dynHO_37.707809_-97.493709@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042645,
+    "wof:geomhash":"2a2909de2af0351edc51e0e26419451d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840555841
+        }
+    ],
+    "wof:id":840555841,
+    "wof:lastmodified":1464042645,
+    "wof:name":"Lakeside Church",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.493709,
+    37.707809,
+    -97.493709,
+    37.707809
+],
+  "geometry": {"coordinates":[-97.493709,37.707809],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840803925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180184,38.397726,-96.180184,38.397726",
+    "geom:latitude":38.397726,
+    "geom:longitude":-96.180184,
+    "iso:country":"US",
+    "sg:address":"1 S Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 364 5454",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electrolysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bfBVkW5A54CjgFjbBle8Y_38.397726_-96.180184@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048281,
+    "wof:geomhash":"3f8ba6cc9d58ed97fccfac784e1407cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840803925
+        }
+    ],
+    "wof:id":840803925,
+    "wof:lastmodified":1464048281,
+    "wof:name":"L S Electrolysis",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrolysis"
+    ]
+},
+  "bbox": [
+    -96.180184,
+    38.397726,
+    -96.180184,
+    38.397726
+],
+  "geometry": {"coordinates":[-96.180184,38.397726],"type":"Point"}
+}

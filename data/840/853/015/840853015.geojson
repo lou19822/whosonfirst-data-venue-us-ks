@@ -1,0 +1,73 @@
+{
+  "id": 840853015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.000203,38.361513,-96.000203,38.361513",
+    "geom:latitude":38.361513,
+    "geom:longitude":-96.000203,
+    "iso:country":"US",
+    "sg:address":"2022 Rd 140",
+    "sg:city":"Neosho Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9431",
+    "sg:postcode":"66864",
+    "sg:province":"KS",
+    "sg:tags":[
+        "ranch",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gRz9GEVTsiXDxZtI4N2t7_38.361513_-96.000203@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049509,
+    "wof:geomhash":"470c82cf7beeff7aff9365585fce8290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840853015
+        }
+    ],
+    "wof:id":840853015,
+    "wof:lastmodified":1464049509,
+    "wof:name":"Plumb Creek Ranch",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -96.000203,
+    38.361513,
+    -96.000203,
+    38.361513
+],
+  "geometry": {"coordinates":[-96.000203,38.361513],"type":"Point"}
+}

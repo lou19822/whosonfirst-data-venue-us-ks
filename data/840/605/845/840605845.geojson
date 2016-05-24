@@ -1,0 +1,71 @@
+{
+  "id": 840605845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.688898,37.455089,-94.688898,37.455089",
+    "geom:latitude":37.455089,
+    "geom:longitude":-94.688898,
+    "iso:country":"US",
+    "sg:address":"110 N Crawford St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0020",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DSFSkFX1qoUVS2EfdBtqu_37.455089_-94.688898@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043795,
+    "wof:geomhash":"41f0321c74f0189a488c51d150876cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840605845
+        }
+    ],
+    "wof:id":840605845,
+    "wof:lastmodified":1464043795,
+    "wof:name":"Graphic Forms Svc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -94.688898,
+    37.455089,
+    -94.688898,
+    37.455089
+],
+  "geometry": {"coordinates":[-94.68889799999999,37.455089],"type":"Point"}
+}

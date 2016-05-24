@@ -1,0 +1,71 @@
+{
+  "id": 840606321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180191,38.408632,-96.180191,38.408632",
+    "geom:latitude":38.408632,
+    "geom:longitude":-96.180191,
+    "iso:country":"US",
+    "sg:address":"805 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9600",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EPrkZPjzf4abSI8a3BORV_38.408632_-96.180191@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043806,
+    "wof:geomhash":"a0aca3ee591df69fc572e6d87003618c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840606321
+        }
+    ],
+    "wof:id":840606321,
+    "wof:lastmodified":1464043806,
+    "wof:name":"Sweet Granada",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -96.180191,
+    38.408632,
+    -96.180191,
+    38.408632
+],
+  "geometry": {"coordinates":[-96.18019099999999,38.408632],"type":"Point"}
+}

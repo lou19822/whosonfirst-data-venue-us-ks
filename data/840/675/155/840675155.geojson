@@ -1,0 +1,77 @@
+{
+  "id": 840675155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.298989,37.683194,-97.298989,37.683194",
+    "geom:latitude":37.683194,
+    "geom:longitude":-97.298989,
+    "iso:country":"US",
+    "sg:address":"223 S Hillside St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 683 2666",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N5baOhvDxE6r6UYEao3n7_37.683194_-97.298989@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045449,
+    "wof:geomhash":"e10bbc3e5e6487e88486bc79c8174501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840675155
+        }
+    ],
+    "wof:id":840675155,
+    "wof:lastmodified":1464045449,
+    "wof:name":"Womens Med Ctr",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.298989,
+    37.683194,
+    -97.298989,
+    37.683194
+],
+  "geometry": {"coordinates":[-97.29898900000001,37.683194],"type":"Point"}
+}

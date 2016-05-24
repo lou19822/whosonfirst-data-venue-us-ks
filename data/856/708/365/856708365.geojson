@@ -1,0 +1,72 @@
+{
+  "id": 856708365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.362693,37.721588,-97.362693,37.721588",
+    "geom:latitude":37.721588,
+    "geom:longitude":-97.362693,
+    "iso:country":"US",
+    "sg:address":"2166 N Amidon Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/118881-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 2804",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kRfsAQlF5zLAEoeotF0h4_37.721588_-97.362693@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052236,
+    "wof:geomhash":"be053e65a5e5ae653e237aa9deb9e0d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":856708365
+        }
+    ],
+    "wof:id":856708365,
+    "wof:lastmodified":1464052236,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -97.362693,
+    37.721588,
+    -97.362693,
+    37.721588
+],
+  "geometry": {"coordinates":[-97.36269299999999,37.721588],"type":"Point"}
+}

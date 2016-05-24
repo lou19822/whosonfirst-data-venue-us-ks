@@ -1,0 +1,75 @@
+{
+  "id": 840616239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.589653,39.016403,-95.589653,39.016403",
+    "geom:latitude":39.016403,
+    "geom:longitude":-95.589653,
+    "iso:country":"US",
+    "sg:address":"4630 SE 28th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 969 4635",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garment",
+        "direct",
+        "agent",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eAooTvPygZnjdFoElNrIt_39.016403_-95.589653@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044066,
+    "wof:geomhash":"ec41422fead12a30d4561ba3ac7341f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840616239
+        }
+    ],
+    "wof:id":840616239,
+    "wof:lastmodified":1464044066,
+    "wof:name":"D & B Unlimited Carpet Clg",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "direct",
+        "agent",
+        "sales"
+    ]
+},
+  "bbox": [
+    -95.589653,
+    39.016403,
+    -95.589653,
+    39.016403
+],
+  "geometry": {"coordinates":[-95.589653,39.016403],"type":"Point"}
+}

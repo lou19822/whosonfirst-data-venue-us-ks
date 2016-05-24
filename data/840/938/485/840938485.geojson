@@ -1,0 +1,71 @@
+{
+  "id": 840938485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181363,38.406082,-96.181363,38.406082",
+    "geom:latitude":38.406082,
+    "geom:longitude":-96.181363,
+    "iso:country":"US",
+    "sg:address":"610 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3919",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09HRjxeHCHphG30FjjPETp_38.406082_-96.181363@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051417,
+    "wof:geomhash":"24040950cf5489f0b2df0e96d0f734ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840938485
+        }
+    ],
+    "wof:id":840938485,
+    "wof:lastmodified":1464051417,
+    "wof:name":"Javacat 5",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.181363,
+    38.406082,
+    -96.181363,
+    38.406082
+],
+  "geometry": {"coordinates":[-96.181363,38.406082],"type":"Point"}
+}

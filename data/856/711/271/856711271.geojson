@@ -1,0 +1,76 @@
+{
+  "id": 856711271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.72203,38.927358,-94.72203,38.927358",
+    "geom:latitude":38.927358,
+    "geom:longitude":-94.72203,
+    "iso:country":"US",
+    "sg:address":"11801 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/209773-riccos-italian-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 469 8405",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mzmkC0l5DhWIGl5a4bIuA_38.927358_-94.721754@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052291,
+    "wof:geomhash":"8670e40c0d538ce926a88600d3e3971a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":856711271
+        }
+    ],
+    "wof:id":856711271,
+    "wof:lastmodified":1464052291,
+    "wof:name":"Ricco's Italian Bistro",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.72203,
+    38.927358,
+    -94.72203,
+    38.927358
+],
+  "geometry": {"coordinates":[-94.72203,38.927358],"type":"Point"}
+}

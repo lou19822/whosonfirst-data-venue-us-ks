@@ -1,0 +1,73 @@
+{
+  "id": 840796653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.541057,37.780968,-97.541057,37.780968",
+    "geom:latitude":37.780968,
+    "geom:longitude":-97.541057,
+    "iso:country":"US",
+    "sg:address":"201 S 5th St",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 0919",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WwhVsbWbAVoLkMD3Xhiqv_37.780968_-97.541057@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048112,
+    "wof:geomhash":"5e2251a1e8701adc6663319f26f97be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840796653
+        }
+    ],
+    "wof:id":840796653,
+    "wof:lastmodified":1464048112,
+    "wof:name":"Colwich Health Ctr",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -97.541057,
+    37.780968,
+    -97.541057,
+    37.780968
+],
+  "geometry": {"coordinates":[-97.541057,37.780968],"type":"Point"}
+}

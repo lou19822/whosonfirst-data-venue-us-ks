@@ -1,0 +1,71 @@
+{
+  "id": 840629609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180056,38.407311,-96.180056,38.407311",
+    "geom:latitude":38.407311,
+    "geom:longitude":-96.180056,
+    "iso:country":"US",
+    "sg:address":"706 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1819",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AIOdegwpaQUVh6YOsDL24_38.407311_-96.180056@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044425,
+    "wof:geomhash":"aa5703b911ac583a9cd097599e2701a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840629609
+        }
+    ],
+    "wof:id":840629609,
+    "wof:lastmodified":1464044425,
+    "wof:name":"Second Love",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.180056,
+    38.407311,
+    -96.180056,
+    38.407311
+],
+  "geometry": {"coordinates":[-96.18005599999999,38.407311],"type":"Point"}
+}

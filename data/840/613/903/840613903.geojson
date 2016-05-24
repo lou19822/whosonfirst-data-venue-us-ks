@@ -1,0 +1,74 @@
+{
+  "id": 840613903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.162569,38.405063,-96.162569,38.405063",
+    "geom:latitude":38.405063,
+    "geom:longitude":-96.162569,
+    "iso:country":"US",
+    "sg:address":"1114 E 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 2366",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "prod",
+        "made"
+    ],
+    "sg:website":"www.wamoyer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GOqqvGQkFGQbDOUulALyn_38.405063_-96.162569@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044016,
+    "wof:geomhash":"d69b4b1925989049edb2e1d6020cd605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840613903
+        }
+    ],
+    "wof:id":840613903,
+    "wof:lastmodified":1464044016,
+    "wof:name":"W A Moyer Co",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prod",
+        "made"
+    ]
+},
+  "bbox": [
+    -96.162569,
+    38.405063,
+    -96.162569,
+    38.405063
+],
+  "geometry": {"coordinates":[-96.162569,38.405063],"type":"Point"}
+}

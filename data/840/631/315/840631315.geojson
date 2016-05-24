@@ -1,0 +1,73 @@
+{
+  "id": 840631315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.272941,37.635575,-97.272941,37.635575",
+    "geom:latitude":37.635575,
+    "geom:longitude":-97.272941,
+    "iso:country":"US",
+    "sg:address":"3026 S George Washington Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 8064",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y3bQNgO6VOQylDfd3G1kt_37.635575_-97.272941@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044472,
+    "wof:geomhash":"48515d817306a6d6efd1ec7529572c6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840631315
+        }
+    ],
+    "wof:id":840631315,
+    "wof:lastmodified":1464044472,
+    "wof:name":"US Marine Corps Reserve Ctr",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -97.272941,
+    37.635575,
+    -97.272941,
+    37.635575
+],
+  "geometry": {"coordinates":[-97.272941,37.635575],"type":"Point"}
+}

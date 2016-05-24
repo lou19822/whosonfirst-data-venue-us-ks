@@ -1,0 +1,75 @@
+{
+  "id": 840731773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.017874,37.753556,-100.017874,37.753556",
+    "geom:latitude":37.753556,
+    "geom:longitude":-100.017874,
+    "iso:country":"US",
+    "sg:address":"114 Gunsmoke St",
+    "sg:city":"Dodge City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 225 8107",
+    "sg:postcode":"67801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849601,
+        102191575,
+        404503629,
+        85633793,
+        85945215,
+        102082141,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fHuAIRLFd0aGd9dUU7U41_37.753556_-100.017874@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046735,
+    "wof:geomhash":"dd2dbc4fc0f2f194a144ae26f77a1b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082141,
+            "localadmin_id":404503629,
+            "locality_id":85945215,
+            "neighbourhood_id":85849601,
+            "region_id":85688555,
+            "venue_id":840731773
+        }
+    ],
+    "wof:id":840731773,
+    "wof:lastmodified":1464046735,
+    "wof:name":"Dodge City Municipal Court",
+    "wof:parent_id":85849601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -100.017874,
+    37.753556,
+    -100.017874,
+    37.753556
+],
+  "geometry": {"coordinates":[-100.01787400000001,37.753556],"type":"Point"}
+}

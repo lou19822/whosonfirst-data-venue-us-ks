@@ -1,0 +1,77 @@
+{
+  "id": 840669077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.674135,39.045822,-95.674135,39.045822",
+    "geom:latitude":39.045822,
+    "geom:longitude":-95.674135,
+    "iso:country":"US",
+    "sg:address":"920 SE Quincy St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 3120",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rdRvofTcQOvi8KhsKADNC_39.045822_-95.674135@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045292,
+    "wof:geomhash":"060dcfd9d5a177624dbfbe34b1a8c9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840669077
+        }
+    ],
+    "wof:id":840669077,
+    "wof:lastmodified":1464045292,
+    "wof:name":"Oklahoma City Jct Rlwy Co OK",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -95.674135,
+    39.045822,
+    -95.674135,
+    39.045822
+],
+  "geometry": {"coordinates":[-95.67413500000001,39.045822],"type":"Point"}
+}

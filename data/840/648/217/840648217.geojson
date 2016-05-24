@@ -1,0 +1,71 @@
+{
+  "id": 840648217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.684457,39.090799,-95.684457,39.090799",
+    "geom:latitude":39.090799,
+    "geom:longitude":-95.684457,
+    "iso:country":"US",
+    "sg:address":"801 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 9000",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DUjKEZWMHkIx6TRSiuqR8_39.090799_-95.684457@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044843,
+    "wof:geomhash":"ae9b99e71dc9df8dbde0b6052182ed44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840648217
+        }
+    ],
+    "wof:id":840648217,
+    "wof:lastmodified":1464044843,
+    "wof:name":"Dalton Roofing",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.684457,
+    39.090799,
+    -95.684457,
+    39.090799
+],
+  "geometry": {"coordinates":[-95.68445699999999,39.090799],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 840549337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.720012,37.411261,-94.720012,37.411261",
+    "geom:latitude":37.411261,
+    "geom:longitude":-94.720012,
+    "iso:country":"US",
+    "sg:address":"914 W 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 2500",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JE8U06VCVHwgRi8uHtZKT_37.411261_-94.720012@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042494,
+    "wof:geomhash":"8111163b051646b44ccecd91ef4ee58b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840549337
+        }
+    ],
+    "wof:id":840549337,
+    "wof:lastmodified":1464042494,
+    "wof:name":"West Fourth Liquor",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.720012,
+    37.411261,
+    -94.720012,
+    37.411261
+],
+  "geometry": {"coordinates":[-94.720012,37.411261],"type":"Point"}
+}

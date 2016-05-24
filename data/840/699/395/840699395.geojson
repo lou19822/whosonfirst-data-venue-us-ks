@@ -1,0 +1,73 @@
+{
+  "id": 840699395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.308618,37.622668,-97.308618,37.622668",
+    "geom:latitude":37.622668,
+    "geom:longitude":-97.308618,
+    "iso:country":"US",
+    "sg:address":"1701 E Macarthur Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 0300",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DzUQYfOQsolK3EzzVi82u_37.622668_-97.308618@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046073,
+    "wof:geomhash":"c0c5af3ccc6a565b2e379cfba5a80932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840699395
+        }
+    ],
+    "wof:id":840699395,
+    "wof:lastmodified":1464046073,
+    "wof:name":"Maximum Performance Ctr",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.308618,
+    37.622668,
+    -97.308618,
+    37.622668
+],
+  "geometry": {"coordinates":[-97.308618,37.622668],"type":"Point"}
+}

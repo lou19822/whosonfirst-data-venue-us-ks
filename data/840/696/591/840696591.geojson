@@ -1,0 +1,73 @@
+{
+  "id": 840696591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.148797,37.679377,-97.148797,37.679377",
+    "geom:latitude":37.679377,
+    "geom:longitude":-97.148797,
+    "iso:country":"US",
+    "sg:address":"1105 W US Hwy 54",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 1322",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dG81rdfe1ZhGfknAFmNYo_37.679377_-97.148797@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045983,
+    "wof:geomhash":"302c43054619d89c3ebd3f7ae832b641",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840696591
+        }
+    ],
+    "wof:id":840696591,
+    "wof:lastmodified":1464045983,
+    "wof:name":"Tax Sense",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -97.148797,
+    37.679377,
+    -97.148797,
+    37.679377
+],
+  "geometry": {"coordinates":[-97.148797,37.679377],"type":"Point"}
+}

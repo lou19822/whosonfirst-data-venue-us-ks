@@ -1,0 +1,77 @@
+{
+  "id": 840570695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.190176,38.404956,-96.190176,38.404956",
+    "geom:latitude":38.404956,
+    "geom:longitude":-96.190176,
+    "iso:country":"US",
+    "sg:address":"737 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 5700",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kbQOUi4LCtOay4KU9L8gK_38.404956_-96.190176@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043004,
+    "wof:geomhash":"bd80573e18de6fb4cf6563f2a1d55ff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840570695
+        }
+    ],
+    "wof:id":840570695,
+    "wof:lastmodified":1464043004,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.190176,
+    38.404956,
+    -96.190176,
+    38.404956
+],
+  "geometry": {"coordinates":[-96.19017599999999,38.404956],"type":"Point"}
+}

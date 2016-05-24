@@ -1,0 +1,71 @@
+{
+  "id": 840661653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.624077,37.619859,-97.624077,37.619859",
+    "geom:latitude":37.619859,
+    "geom:longitude":-97.624077,
+    "iso:country":"US",
+    "sg:address":"24536 W 39th St S",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 8003",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fSx35brzBEXX5g1GX7zTX_37.619859_-97.624077@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045139,
+    "wof:geomhash":"8b0c4508c0f6733c6c34a93a140bfab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840661653
+        }
+    ],
+    "wof:id":840661653,
+    "wof:lastmodified":1464045139,
+    "wof:name":"Sheriff Firing Range",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -97.624077,
+    37.619859,
+    -97.624077,
+    37.619859
+],
+  "geometry": {"coordinates":[-97.624077,37.619859],"type":"Point"}
+}

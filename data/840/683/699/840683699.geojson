@@ -1,0 +1,72 @@
+{
+  "id": 840683699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.290695,37.606013,-97.290695,37.606013",
+    "geom:latitude":37.606013,
+    "geom:longitude":-97.290695,
+    "iso:country":"US",
+    "sg:address":"4218 Southeast Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 9196",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shelter"
+    ],
+    "sg:website":"www.kshumane.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IGSVgOaJigZhnjtDcn5KB_37.606013_-97.290695@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045664,
+    "wof:geomhash":"cd5cc0b1184de1b933e7afbca370a561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840683699
+        }
+    ],
+    "wof:id":840683699,
+    "wof:lastmodified":1464045664,
+    "wof:name":"Kansas Humane Society",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -97.290695,
+    37.606013,
+    -97.290695,
+    37.606013
+],
+  "geometry": {"coordinates":[-97.290695,37.606013],"type":"Point"}
+}

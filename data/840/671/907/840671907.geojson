@@ -1,0 +1,71 @@
+{
+  "id": 840671907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181345,38.410835,-96.181345,38.410835",
+    "geom:latitude":38.410835,
+    "geom:longitude":-96.181345,
+    "iso:country":"US",
+    "sg:address":"1020 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1461",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XYyCS3kaGd2v2EDXcQmth_38.410835_-96.181345@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045357,
+    "wof:geomhash":"8eb9113c2beff88f41b85ad574575e1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840671907
+        }
+    ],
+    "wof:id":840671907,
+    "wof:lastmodified":1464045357,
+    "wof:name":"Reeble Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.181345,
+    38.410835,
+    -96.181345,
+    38.410835
+],
+  "geometry": {"coordinates":[-96.18134499999999,38.410835],"type":"Point"}
+}

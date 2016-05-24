@@ -1,0 +1,73 @@
+{
+  "id": 840719863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.370464,37.636819,-97.370464,37.636819",
+    "geom:latitude":37.636819,
+    "geom:longitude":-97.370464,
+    "iso:country":"US",
+    "sg:address":"2337 W 31st St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 946 9453",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MoKm4TWyp8Htf9Gd4ll2k_37.636819_-97.370464@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046507,
+    "wof:geomhash":"a0e12b621ee6fd2a65c8940fed97f1be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840719863
+        }
+    ],
+    "wof:id":840719863,
+    "wof:lastmodified":1464046507,
+    "wof:name":"Rick's Carwash",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -97.370464,
+    37.636819,
+    -97.370464,
+    37.636819
+],
+  "geometry": {"coordinates":[-97.370464,37.636819],"type":"Point"}
+}

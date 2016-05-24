@@ -1,0 +1,77 @@
+{
+  "id": 840843985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.726959,38.930175,-94.726959,38.930175",
+    "geom:latitude":38.930175,
+    "geom:longitude":-94.726959,
+    "iso:country":"US",
+    "sg:address":"12000 W 110th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 469 0002",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O8IbRjS3OlrA94rAEyRTM_38.930175_-94.726959@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049311,
+    "wof:geomhash":"e3a9a13232f8eee13645523d22c60d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840843985
+        }
+    ],
+    "wof:id":840843985,
+    "wof:lastmodified":1464049311,
+    "wof:name":"Radiation Oncology Assoc Of KC",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.726959,
+    38.930175,
+    -94.726959,
+    38.930175
+],
+  "geometry": {"coordinates":[-94.72695899999999,38.930175],"type":"Point"}
+}

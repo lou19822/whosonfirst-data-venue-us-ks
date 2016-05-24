@@ -1,0 +1,76 @@
+{
+  "id": 856707011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.681744,39.015036,-95.681744,39.015036",
+    "geom:latitude":39.015036,
+    "geom:longitude":-95.681744,
+    "iso:country":"US",
+    "sg:address":"101 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/208195-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 3239",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881545,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4beD5v3D2Cla6FBil54Spf_39.015036_-95.681744@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052208,
+    "wof:geomhash":"0814f39e300d9709b99120b6507dc0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881545,
+            "region_id":85688555,
+            "venue_id":856707011
+        }
+    ],
+    "wof:id":856707011,
+    "wof:lastmodified":1464052208,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85881545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.681744,
+    39.015036,
+    -95.681744,
+    39.015036
+],
+  "geometry": {"coordinates":[-95.68174399999999,39.015036],"type":"Point"}
+}

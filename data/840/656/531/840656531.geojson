@@ -1,0 +1,71 @@
+{
+  "id": 840656531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.675602,39.086908,-95.675602,39.086908",
+    "geom:latitude":39.086908,
+    "geom:longitude":-95.675602,
+    "iso:country":"US",
+    "sg:address":"2035 NW Taylor St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 2424",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29RJP81voyqcCS6ZX5WLtO_39.086908_-95.675602@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045032,
+    "wof:geomhash":"de293cfd573dfdc9ac6c9b88a4d690d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840656531
+        }
+    ],
+    "wof:id":840656531,
+    "wof:lastmodified":1464045032,
+    "wof:name":"Barraclough's Better Homes",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -95.675602,
+    39.086908,
+    -95.675602,
+    39.086908
+],
+  "geometry": {"coordinates":[-95.675602,39.086908],"type":"Point"}
+}

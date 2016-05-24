@@ -1,0 +1,71 @@
+{
+  "id": 840770827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706291,39.10061,-95.706291,39.10061",
+    "geom:latitude":39.10061,
+    "geom:longitude":-95.706291,
+    "iso:country":"US",
+    "sg:address":"2801 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 8718",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pAqk25NUZvwnCsEhaHQja_39.100610_-95.706291@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047589,
+    "wof:geomhash":"52a9a117e094f796a9ec7e8104009a96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840770827
+        }
+    ],
+    "wof:id":840770827,
+    "wof:lastmodified":1464047589,
+    "wof:name":"Carney Construction Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.706291,
+    39.10061,
+    -95.706291,
+    39.10061
+],
+  "geometry": {"coordinates":[-95.70629099999999,39.10061],"type":"Point"}
+}

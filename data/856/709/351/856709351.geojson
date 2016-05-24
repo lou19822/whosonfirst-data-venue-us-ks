@@ -1,0 +1,82 @@
+{
+  "id": 856709351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.333272,37.608499,-97.333272,37.608499",
+    "geom:latitude":37.608499,
+    "geom:longitude":-97.333272,
+    "iso:country":"US",
+    "sg:address":"4760 S Broadway St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/89792-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 5525",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844955,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12ffO5jMz6djtYByOPp2Gi_37.608499_-97.333272@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052253,
+    "wof:geomhash":"27b7e746d790d8aa6cf51f5b4348d81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85844955,
+            "region_id":85688555,
+            "venue_id":856709351
+        }
+    ],
+    "wof:id":856709351,
+    "wof:lastmodified":1464052253,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85844955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -97.333272,
+    37.608499,
+    -97.333272,
+    37.608499
+],
+  "geometry": {"coordinates":[-97.33327199999999,37.608499],"type":"Point"}
+}

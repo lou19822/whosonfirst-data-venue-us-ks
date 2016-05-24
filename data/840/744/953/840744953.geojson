@@ -1,0 +1,71 @@
+{
+  "id": 840744953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.672967,39.113014,-95.672967,39.113014",
+    "geom:latitude":39.113014,
+    "geom:longitude":-95.672967,
+    "iso:country":"US",
+    "sg:address":"717 NW 37th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 231 6804",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RmfIzVHduZjTmCmASDxj7_39.113014_-95.672967@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046986,
+    "wof:geomhash":"d7441f99cb5b953cc9832875dafca738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840744953
+        }
+    ],
+    "wof:id":840744953,
+    "wof:lastmodified":1464046986,
+    "wof:name":"L P's Excavating Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.672967,
+    39.113014,
+    -95.672967,
+    39.113014
+],
+  "geometry": {"coordinates":[-95.672967,39.113014],"type":"Point"}
+}

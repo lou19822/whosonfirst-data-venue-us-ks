@@ -1,0 +1,71 @@
+{
+  "id": 840768193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.962191,37.690331,-96.962191,37.690331",
+    "geom:latitude":37.690331,
+    "geom:longitude":-96.962191,
+    "iso:country":"US",
+    "sg:address":"1604 Custer Ln",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 1113",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ORASEOVoEoXZKs7dwEaUp_37.690331_-96.962191@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047529,
+    "wof:geomhash":"affae354c9ea275b91b4527cb07ef0ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840768193
+        }
+    ],
+    "wof:id":840768193,
+    "wof:lastmodified":1464047529,
+    "wof:name":"Augusta Auto Salvage Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -96.962191,
+    37.690331,
+    -96.962191,
+    37.690331
+],
+  "geometry": {"coordinates":[-96.962191,37.690331],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840657243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.678572,39.071753,-95.678572,39.071753",
+    "geom:latitude":39.071753,
+    "geom:longitude":-95.678572,
+    "iso:country":"US",
+    "sg:address":"945 NW Clay St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 0775",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838117,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qaEaC8dqN2JUnR4UEmUa6_39.071753_-95.678572@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045048,
+    "wof:geomhash":"b2127dd532da1b77d7fdd1d64f358517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85838117,
+            "region_id":85688555,
+            "venue_id":840657243
+        }
+    ],
+    "wof:id":840657243,
+    "wof:lastmodified":1464045048,
+    "wof:name":"Lowe's Cleaning Svc",
+    "wof:parent_id":85838117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -95.678572,
+    39.071753,
+    -95.678572,
+    39.071753
+],
+  "geometry": {"coordinates":[-95.678572,39.071753],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840584185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.458331,37.72131,-97.458331,37.72131",
+    "geom:latitude":37.72131,
+    "geom:longitude":-97.458331,
+    "iso:country":"US",
+    "sg:address":"10202 W 20th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 6501",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uyr0adzAfKpsUiXIDKpbp_37.721310_-97.458331@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043296,
+    "wof:geomhash":"7bb13b53d01d7e5ddc7ad9b47fa2d299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840584185
+        }
+    ],
+    "wof:id":840584185,
+    "wof:lastmodified":1464043296,
+    "wof:name":"Hearthside Realty Inc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.458331,
+    37.72131,
+    -97.458331,
+    37.72131
+],
+  "geometry": {"coordinates":[-97.458331,37.72131],"type":"Point"}
+}

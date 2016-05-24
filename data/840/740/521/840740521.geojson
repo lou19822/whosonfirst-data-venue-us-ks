@@ -1,0 +1,70 @@
+{
+  "id": 840740521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.71425,39.131252,-95.71425,39.131252",
+    "geom:latitude":39.131252,
+    "geom:longitude":-95.71425,
+    "iso:country":"US",
+    "sg:address":"4646 NW Fielding Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 1500",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.rabctopeka.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Th8nhJAMgcWxtbCFNbaEx_39.131252_-95.714250@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046906,
+    "wof:geomhash":"1a88bd9b0efb49956f14d85fca490a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840740521
+        }
+    ],
+    "wof:id":840740521,
+    "wof:lastmodified":1464046906,
+    "wof:name":"Race Against Breast Cancer Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -95.71425,
+    39.131252,
+    -95.71425,
+    39.131252
+],
+  "geometry": {"coordinates":[-95.71425000000001,39.131252],"type":"Point"}
+}

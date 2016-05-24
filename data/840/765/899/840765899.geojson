@@ -1,0 +1,71 @@
+{
+  "id": 840765899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363115,37.744553,-97.363115,37.744553",
+    "geom:latitude":37.744553,
+    "geom:longitude":-97.363115,
+    "iso:country":"US",
+    "sg:address":"3318 N Amidon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 8182",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QF4KlmJfRvx6RLRGSsvO5_37.744553_-97.363115@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047473,
+    "wof:geomhash":"abb222a00083110541c19ec6df014f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840765899
+        }
+    ],
+    "wof:id":840765899,
+    "wof:lastmodified":1464047473,
+    "wof:name":"Amidon Street Baptist Church",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.363115,
+    37.744553,
+    -97.363115,
+    37.744553
+],
+  "geometry": {"coordinates":[-97.36311499999999,37.744553],"type":"Point"}
+}

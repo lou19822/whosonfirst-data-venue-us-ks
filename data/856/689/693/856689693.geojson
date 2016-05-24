@@ -1,0 +1,77 @@
+{
+  "id": 856689693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.330265,37.672383,-97.330265,37.672383",
+    "geom:latitude":37.672383,
+    "geom:longitude":-97.330265,
+    "iso:country":"US",
+    "sg:address":"1146 S Santa Fe",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 7904",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872835,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BNQ7Zd4jkeHgVlMngra1M_37.672383_-97.330265@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051861,
+    "wof:geomhash":"6ec0b12342b47f25e88ff044a27e7f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872835,
+            "region_id":85688555,
+            "venue_id":856689693
+        }
+    ],
+    "wof:id":856689693,
+    "wof:lastmodified":1464051861,
+    "wof:name":"Dave's Heating Cooling & Rfrg",
+    "wof:parent_id":85872835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.330265,
+    37.672383,
+    -97.330265,
+    37.672383
+],
+  "geometry": {"coordinates":[-97.330265,37.672383],"type":"Point"}
+}

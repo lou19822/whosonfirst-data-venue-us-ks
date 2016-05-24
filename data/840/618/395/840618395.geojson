@@ -1,0 +1,66 @@
+{
+  "id": 840618395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664544,39.088677,-95.664544,39.088677",
+    "geom:latitude":39.088677,
+    "geom:longitude":-95.664544,
+    "iso:country":"US",
+    "sg:address":"2104 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 1072",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42ChkzMDhRSqHyhDV3WyHy_39.088677_-95.664544@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044129,
+    "wof:geomhash":"3ea556c264339dae7807ba76d3cf31e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840618395
+        }
+    ],
+    "wof:id":840618395,
+    "wof:lastmodified":1464044129,
+    "wof:name":"Palace Retail Liquor",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.664544,
+    39.088677,
+    -95.664544,
+    39.088677
+],
+  "geometry": {"coordinates":[-95.66454400000001,39.088677],"type":"Point"}
+}

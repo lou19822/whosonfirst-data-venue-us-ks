@@ -1,0 +1,71 @@
+{
+  "id": 840924109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.260509,38.505783,-96.260509,38.505783",
+    "geom:latitude":38.505783,
+    "geom:longitude":-96.260509,
+    "iso:country":"US",
+    "sg:address":"506 5th St",
+    "sg:city":"Americus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 443 5364",
+    "sg:postcode":"66835",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_799AuDbIXPUemZkmCiNwrg_38.505783_-96.260509@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051103,
+    "wof:geomhash":"f9f42e99b8f71c8028b2e5ae716fa56c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840924109
+        }
+    ],
+    "wof:id":840924109,
+    "wof:lastmodified":1464051103,
+    "wof:name":"Tom Glass Construction",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.260509,
+    38.505783,
+    -96.260509,
+    38.505783
+],
+  "geometry": {"coordinates":[-96.260509,38.505783],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840683443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705004,37.396328,-94.705004,37.396328",
+    "geom:latitude":37.396328,
+    "geom:longitude":-94.705004,
+    "iso:country":"US",
+    "sg:address":"1304 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5030",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aqmgLcISDYRMY32v01TrD_37.396328_-94.705004@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045659,
+    "wof:geomhash":"9ee2c069950fa227beaf8aa60009f99d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840683443
+        }
+    ],
+    "wof:id":840683443,
+    "wof:lastmodified":1464045659,
+    "wof:name":"Broadway Lumber Co Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -94.705004,
+    37.396328,
+    -94.705004,
+    37.396328
+],
+  "geometry": {"coordinates":[-94.705004,37.396328],"type":"Point"}
+}

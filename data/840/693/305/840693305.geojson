@@ -1,0 +1,77 @@
+{
+  "id": 840693305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.675294,39.014945,-94.675294,39.014945",
+    "geom:latitude":39.014945,
+    "geom:longitude":-94.675294,
+    "iso:country":"US",
+    "sg:address":"7501 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 2926",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rN28z7xe4souBqtSeYN5z_39.014945_-94.675294@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045901,
+    "wof:geomhash":"17205a336c3eade593386147a8a5f754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":840693305
+        }
+    ],
+    "wof:id":840693305,
+    "wof:lastmodified":1464045901,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.675294,
+    39.014945,
+    -94.675294,
+    39.014945
+],
+  "geometry": {"coordinates":[-94.67529399999999,39.014945],"type":"Point"}
+}

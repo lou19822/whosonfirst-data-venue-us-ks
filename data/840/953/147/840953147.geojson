@@ -1,0 +1,71 @@
+{
+  "id": 840953147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.008575,37.51625,-97.008575,37.51625",
+    "geom:latitude":37.51625,
+    "geom:longitude":-97.008575,
+    "iso:country":"US",
+    "sg:address":"413 S Elm St",
+    "sg:city":"Douglass",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 747 2012",
+    "sg:postcode":"67039",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XskB7dzcvLzuglKaoJzTI_37.516250_-97.008575@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051712,
+    "wof:geomhash":"c0e72058f8607c86465732efc5bef113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840953147
+        }
+    ],
+    "wof:id":840953147,
+    "wof:lastmodified":1464051712,
+    "wof:name":"Maintenance Building",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -97.008575,
+    37.51625,
+    -97.008575,
+    37.51625
+],
+  "geometry": {"coordinates":[-97.00857499999999,37.51625],"type":"Point"}
+}

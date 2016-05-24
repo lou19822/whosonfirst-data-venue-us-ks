@@ -1,0 +1,71 @@
+{
+  "id": 840545669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.938533,39.136699,-94.938533,39.136699",
+    "geom:latitude":39.136699,
+    "geom:longitude":-94.938533,
+    "iso:country":"US",
+    "sg:address":"2624 N 155th St",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 4911",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rASuG3UyF8YNKqDq2NS18_39.136699_-94.938533@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042390,
+    "wof:geomhash":"e33cdba277f76dccc044b0a42934be24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840545669
+        }
+    ],
+    "wof:id":840545669,
+    "wof:lastmodified":1464042390,
+    "wof:name":"Basehor Fire Department",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.938533,
+    39.136699,
+    -94.938533,
+    39.136699
+],
+  "geometry": {"coordinates":[-94.93853300000001,39.136699],"type":"Point"}
+}

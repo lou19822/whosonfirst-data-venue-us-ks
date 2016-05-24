@@ -1,0 +1,79 @@
+{
+  "id": 840904555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.746042,39.05677,-95.746042,39.05677",
+    "geom:latitude":39.05677,
+    "geom:longitude":-95.746042,
+    "iso:country":"US",
+    "sg:address":"5219 SW 7th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 3138",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881539,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AO3ENiekYfKp7fLKX1ar5_39.056770_-95.746042@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050585,
+    "wof:geomhash":"2f6662aee52a2514555d6d62e63a1580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881539,
+            "region_id":85688555,
+            "venue_id":840904555
+        }
+    ],
+    "wof:id":840904555,
+    "wof:lastmodified":1464050585,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85881539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -95.746042,
+    39.05677,
+    -95.746042,
+    39.05677
+],
+  "geometry": {"coordinates":[-95.746042,39.05677],"type":"Point"}
+}

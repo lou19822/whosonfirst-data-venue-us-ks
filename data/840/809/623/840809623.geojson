@@ -1,0 +1,71 @@
+{
+  "id": 840809623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.469979,37.776388,-97.469979,37.776388",
+    "geom:latitude":37.776388,
+    "geom:longitude":-97.469979,
+    "iso:country":"US",
+    "sg:address":"123 S Khedive St",
+    "sg:city":"Maize",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 1433",
+    "sg:postcode":"67101",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QvefKAc7WNeXdOfmUCYLY_37.776388_-97.469979@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048408,
+    "wof:geomhash":"46a66594de83a6842a86c66a51bea23a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840809623
+        }
+    ],
+    "wof:id":840809623,
+    "wof:lastmodified":1464048408,
+    "wof:name":"Maize Police Dept",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -97.469979,
+    37.776388,
+    -97.469979,
+    37.776388
+],
+  "geometry": {"coordinates":[-97.469979,37.776388],"type":"Point"}
+}

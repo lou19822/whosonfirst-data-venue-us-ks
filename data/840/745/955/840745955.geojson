@@ -1,0 +1,76 @@
+{
+  "id": 840745955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.7795,38.92535,-94.7795,38.92535",
+    "geom:latitude":38.92535,
+    "geom:longitude":-94.7795,
+    "iso:country":"US",
+    "sg:address":"11274 Renner Blvd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 2224",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.ibtreflab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01bOaQqNmwpoUhRHgRQV7v_38.925350_-94.779500@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047004,
+    "wof:geomhash":"02656f47fd2d4d0e5812ff6a519beb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840745955
+        }
+    ],
+    "wof:id":840745955,
+    "wof:lastmodified":1464047004,
+    "wof:name":"IBT Reference Lab",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -94.7795,
+    38.92535,
+    -94.7795,
+    38.92535
+],
+  "geometry": {"coordinates":[-94.7795,38.92535],"type":"Point"}
+}

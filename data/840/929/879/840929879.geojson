@@ -1,0 +1,71 @@
+{
+  "id": 840929879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.373381,37.622458,-97.373381,37.622458",
+    "geom:latitude":37.622458,
+    "geom:longitude":-97.373381,
+    "iso:country":"US",
+    "sg:address":"3310 W Macarthur Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 8283",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33qqoeO61JY8mjgHfnQ5bf_37.622458_-97.373381@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051245,
+    "wof:geomhash":"0c344d821809290fd4295df2e95e553f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840929879
+        }
+    ],
+    "wof:id":840929879,
+    "wof:lastmodified":1464051245,
+    "wof:name":"Westside Freewill Baptist Chr",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.373381,
+    37.622458,
+    -97.373381,
+    37.622458
+],
+  "geometry": {"coordinates":[-97.37338099999999,37.622458],"type":"Point"}
+}

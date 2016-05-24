@@ -1,0 +1,71 @@
+{
+  "id": 840732715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.109947,37.596867,-97.109947,37.596867",
+    "geom:latitude":37.596867,
+    "geom:longitude":-97.109947,
+    "iso:country":"US",
+    "sg:address":"15810 SW Mulberry Rd",
+    "sg:city":"Rose Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 776 2398",
+    "sg:postcode":"67133",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iqhSzgTYpJRLFF8Q1grcg_37.596867_-97.109947@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046759,
+    "wof:geomhash":"df34ecc2030872be5649f8d7fe89dd1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840732715
+        }
+    ],
+    "wof:id":840732715,
+    "wof:lastmodified":1464046759,
+    "wof:name":"R & A Auto Truck Repair",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -97.109947,
+    37.596867,
+    -97.109947,
+    37.596867
+],
+  "geometry": {"coordinates":[-97.10994700000001,37.596867],"type":"Point"}
+}

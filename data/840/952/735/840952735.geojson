@@ -1,0 +1,73 @@
+{
+  "id": 840952735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.373898,37.654613,-97.373898,37.654613",
+    "geom:latitude":37.654613,
+    "geom:longitude":-97.373898,
+    "iso:country":"US",
+    "sg:address":"2124 S Edwards St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 5011",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "production",
+        "grinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CHQYrt01V7Zq3Ps7lWPPL_37.654613_-97.373898@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051701,
+    "wof:geomhash":"bb7d702090821368a3bc0126d0bb4d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840952735
+        }
+    ],
+    "wof:id":840952735,
+    "wof:lastmodified":1464051701,
+    "wof:name":"Nimco Centerless",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "production",
+        "grinding"
+    ]
+},
+  "bbox": [
+    -97.373898,
+    37.654613,
+    -97.373898,
+    37.654613
+],
+  "geometry": {"coordinates":[-97.373898,37.654613],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840625707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.380515,37.700255,-97.380515,37.700255",
+    "geom:latitude":37.700255,
+    "geom:longitude":-97.380515,
+    "iso:country":"US",
+    "sg:address":"803 N Sheridan St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 1406",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kh9aBeJYwEmOvQodaR0w6_37.700255_-97.380515@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044314,
+    "wof:geomhash":"cb5822271ef26ae79c3cf0c01bfcedbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840625707
+        }
+    ],
+    "wof:id":840625707,
+    "wof:lastmodified":1464044314,
+    "wof:name":"Sheridan West Town Houses",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.380515,
+    37.700255,
+    -97.380515,
+    37.700255
+],
+  "geometry": {"coordinates":[-97.380515,37.700255],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856704615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.73003,39.116673,-94.73003,39.116673",
+    "geom:latitude":39.116673,
+    "geom:longitude":-94.73003,
+    "iso:country":"US",
+    "sg:address":"6565 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/115563-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 2950",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878491,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vq37RK13rF2su9qlpwv3W_39.116673_-94.730030@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052164,
+    "wof:geomhash":"d3b4a918490ef7178dba23c0dc912545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878491,
+            "region_id":85688555,
+            "venue_id":856704615
+        }
+    ],
+    "wof:id":856704615,
+    "wof:lastmodified":1464052164,
+    "wof:name":"Subway",
+    "wof:parent_id":85878491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.73003,
+    39.116673,
+    -94.73003,
+    39.116673
+],
+  "geometry": {"coordinates":[-94.73003,39.116673],"type":"Point"}
+}

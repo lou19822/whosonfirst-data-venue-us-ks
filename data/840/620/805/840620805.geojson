@@ -1,0 +1,73 @@
+{
+  "id": 840620805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181361,38.406008,-96.181361,38.406008",
+    "geom:latitude":38.406008,
+    "geom:longitude":-96.181361,
+    "iso:country":"US",
+    "sg:address":"616 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4607",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w1909SrfCFvhNdcFuhmGu_38.406008_-96.181361@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044181,
+    "wof:geomhash":"343d0566381f5e76d82e729ec504c41f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840620805
+        }
+    ],
+    "wof:id":840620805,
+    "wof:lastmodified":1464044181,
+    "wof:name":"Eckan Inc",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.181361,
+    38.406008,
+    -96.181361,
+    38.406008
+],
+  "geometry": {"coordinates":[-96.181361,38.406008],"type":"Point"}
+}

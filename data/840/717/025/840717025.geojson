@@ -1,0 +1,71 @@
+{
+  "id": 840717025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.950727,37.913158,-96.950727,37.913158",
+    "geom:latitude":37.913158,
+    "geom:longitude":-96.950727,
+    "iso:country":"US",
+    "sg:address":"6537 NW Shumway Rd",
+    "sg:city":"Potwin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 752 3130",
+    "sg:postcode":"67123",
+    "sg:province":"KS",
+    "sg:tags":[
+        "breeder",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PcHoaG6lXI7xGetCyAe0r_37.913158_-96.950727@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046440,
+    "wof:geomhash":"030fe08afe3c7b1884ffad96165f7f29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840717025
+        }
+    ],
+    "wof:id":840717025,
+    "wof:lastmodified":1464046440,
+    "wof:name":"Rikli Ranch Foundation Quarter",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse"
+    ]
+},
+  "bbox": [
+    -96.950727,
+    37.913158,
+    -96.950727,
+    37.913158
+],
+  "geometry": {"coordinates":[-96.950727,37.913158],"type":"Point"}
+}

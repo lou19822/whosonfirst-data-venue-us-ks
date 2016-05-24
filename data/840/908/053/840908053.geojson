@@ -1,0 +1,73 @@
+{
+  "id": 840908053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.667969,39.08476,-95.667969,39.08476",
+    "geom:latitude":39.08476,
+    "geom:longitude":-95.667969,
+    "iso:country":"US",
+    "sg:address":"435 NW Independence Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 4352",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fTxYoaEluahO22ylOXbwQ_39.084760_-95.667969@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050666,
+    "wof:geomhash":"abdad9ba593b420133e9fb10dad7beec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840908053
+        }
+    ],
+    "wof:id":840908053,
+    "wof:lastmodified":1464050666,
+    "wof:name":"Fuzion School Of Dance",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -95.667969,
+    39.08476,
+    -95.667969,
+    39.08476
+],
+  "geometry": {"coordinates":[-95.667969,39.08476],"type":"Point"}
+}

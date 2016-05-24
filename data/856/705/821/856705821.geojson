@@ -1,0 +1,78 @@
+{
+  "id": 856705821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.713,38.992554,-94.713,38.992554",
+    "geom:latitude":38.992554,
+    "geom:longitude":-94.713,
+    "iso:country":"US",
+    "sg:address":"11005 W 75th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/186709-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 3488",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SNckUNrq8f9LxGU9qhpe2_38.992554_-94.713000@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052183,
+    "wof:geomhash":"1c11356cb1aac5faac027a8597089292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":856705821
+        }
+    ],
+    "wof:id":856705821,
+    "wof:lastmodified":1464052183,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.713,
+    38.992554,
+    -94.713,
+    38.992554
+],
+  "geometry": {"coordinates":[-94.71299999999999,38.992554],"type":"Point"}
+}

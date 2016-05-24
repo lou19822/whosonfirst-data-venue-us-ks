@@ -1,0 +1,71 @@
+{
+  "id": 840687203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.572703,37.825126,-97.572703,37.825126",
+    "geom:latitude":37.825126,
+    "geom:longitude":-97.572703,
+    "iso:country":"US",
+    "sg:address":"18505 W 77th St N",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 0197",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72AKK1ol7jxdABYwrlktM9_37.825126_-97.572703@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045758,
+    "wof:geomhash":"94075888abb28f6fa0f69865dede69d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840687203
+        }
+    ],
+    "wof:id":840687203,
+    "wof:lastmodified":1464045758,
+    "wof:name":"Seiler Forming",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    -97.572703,
+    37.825126,
+    -97.572703,
+    37.825126
+],
+  "geometry": {"coordinates":[-97.572703,37.825126],"type":"Point"}
+}

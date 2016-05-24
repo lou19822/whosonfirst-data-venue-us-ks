@@ -1,0 +1,80 @@
+{
+  "id": 856707169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762258,39.028499,-95.762258,39.028499",
+    "geom:latitude":39.028499,
+    "geom:longitude":-95.762258,
+    "iso:country":"US",
+    "sg:address":"2130 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/10344-planet-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 6230",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UqYfgEbDSea3Lf7GOAoNp_39.028499_-95.762258@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052211,
+    "wof:geomhash":"d8ccd621c23e8861f18e0d6af6cbe095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856707169
+        }
+    ],
+    "wof:id":856707169,
+    "wof:lastmodified":1464052211,
+    "wof:name":"Planet Sub",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.762258,
+    39.028499,
+    -95.762258,
+    39.028499
+],
+  "geometry": {"coordinates":[-95.762258,39.028499],"type":"Point"}
+}

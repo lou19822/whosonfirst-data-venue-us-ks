@@ -1,0 +1,73 @@
+{
+  "id": 840810423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.534191,37.678493,-97.534191,37.678493",
+    "geom:latitude":37.678493,
+    "geom:longitude":-97.534191,
+    "iso:country":"US",
+    "sg:address":"16727 W Maple St",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 2945",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_514O1eWmEWdPYsj2qpXSz8_37.678493_-97.534191@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048436,
+    "wof:geomhash":"c23eeccb6d60f3fc2f6d32fc7b0d6e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840810423
+        }
+    ],
+    "wof:id":840810423,
+    "wof:lastmodified":1464048436,
+    "wof:name":"Taton Machine Shop",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.534191,
+    37.678493,
+    -97.534191,
+    37.678493
+],
+  "geometry": {"coordinates":[-97.53419100000001,37.678493],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856689173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.07357,37.825139,-97.07357,37.825139",
+    "geom:latitude":37.825139,
+    "geom:longitude":-97.07357,
+    "iso:country":"US",
+    "sg:address":"12233 SW Parallel St",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 778 1041",
+    "sg:postcode":"67017",
+    "sg:province":"KS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NlLUZPfbUmmxo5WEv7pn4_37.825139_-97.073570@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051851,
+    "wof:geomhash":"ad46e78231b032848218818e602156f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":856689173
+        }
+    ],
+    "wof:id":856689173,
+    "wof:lastmodified":1464051851,
+    "wof:name":"Steve's Tractor Work",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.07357,
+    37.825139,
+    -97.07357,
+    37.825139
+],
+  "geometry": {"coordinates":[-97.07357,37.825139],"type":"Point"}
+}

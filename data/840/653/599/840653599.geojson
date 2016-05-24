@@ -1,0 +1,69 @@
+{
+  "id": 840653599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.837113,37.817403,-96.837113,37.817403",
+    "geom:latitude":37.817403,
+    "geom:longitude":-96.837113,
+    "iso:country":"US",
+    "sg:address":"925 SE River Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 5518",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5chdI5KeIEUFbGzn6DAu4N_37.817403_-96.837113@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044971,
+    "wof:geomhash":"639f4e9e34a95dc2269791a7a47ecc7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840653599
+        }
+    ],
+    "wof:id":840653599,
+    "wof:lastmodified":1464044971,
+    "wof:name":"Walnut River Residence",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.837113,
+    37.817403,
+    -96.837113,
+    37.817403
+],
+  "geometry": {"coordinates":[-96.837113,37.817403],"type":"Point"}
+}

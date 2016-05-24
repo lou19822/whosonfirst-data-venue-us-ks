@@ -1,0 +1,73 @@
+{
+  "id": 840852949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352682,37.638207,-97.352682,37.638207",
+    "geom:latitude":37.638207,
+    "geom:longitude":-97.352682,
+    "iso:country":"US",
+    "sg:address":"3129 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 554 8095",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HqeOYDsKBm3DwGbq2a8hq_37.638207_-97.352682@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049508,
+    "wof:geomhash":"e2009e60e7aff4475582a056c6630d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840852949
+        }
+    ],
+    "wof:id":840852949,
+    "wof:lastmodified":1464049508,
+    "wof:name":"Check 'n Go",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -97.352682,
+    37.638207,
+    -97.352682,
+    37.638207
+],
+  "geometry": {"coordinates":[-97.352682,37.638207],"type":"Point"}
+}

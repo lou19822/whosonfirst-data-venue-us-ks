@@ -1,0 +1,78 @@
+{
+  "id": 856704081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.815041,38.85777,-94.815041,38.85777",
+    "geom:latitude":38.85777,
+    "geom:longitude":-94.815041,
+    "iso:country":"US",
+    "sg:address":"1600 S Hamilton Cir",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/186673-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 768 7431",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JPi8BMSiRv1NxpPL9eNll_38.857770_-94.815041@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052152,
+    "wof:geomhash":"0330b3224bed9552f9d6a328f3763e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704081
+        }
+    ],
+    "wof:id":856704081,
+    "wof:lastmodified":1464052152,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.815041,
+    38.85777,
+    -94.815041,
+    38.85777
+],
+  "geometry": {"coordinates":[-94.81504099999999,38.85777],"type":"Point"}
+}

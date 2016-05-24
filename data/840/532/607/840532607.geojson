@@ -1,0 +1,71 @@
+{
+  "id": 840532607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180233,38.404673,-96.180233,38.404673",
+    "geom:latitude":38.404673,
+    "geom:longitude":-96.180233,
+    "iso:country":"US",
+    "sg:address":"527 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6579",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ywXfY6czsdL4G9ng4pcNg_38.404673_-96.180233@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042043,
+    "wof:geomhash":"f6c7866391b62f7b72fcbc108635c55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840532607
+        }
+    ],
+    "wof:id":840532607,
+    "wof:lastmodified":1464042043,
+    "wof:name":"Pamela Franks",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -96.180233,
+    38.404673,
+    -96.180233,
+    38.404673
+],
+  "geometry": {"coordinates":[-96.180233,38.404673],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840665535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.369473,37.72283,-97.369473,37.72283",
+    "geom:latitude":37.72283,
+    "geom:longitude":-97.369473,
+    "iso:country":"US",
+    "sg:address":"2211 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 1900",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nygqUdHImqC9o0nz8g4ZB_37.722830_-97.369473@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045221,
+    "wof:geomhash":"75d67108613f78682867013ed048f060",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840665535
+        }
+    ],
+    "wof:id":840665535,
+    "wof:lastmodified":1464045221,
+    "wof:name":"Autozone",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -97.369473,
+    37.72283,
+    -97.369473,
+    37.72283
+],
+  "geometry": {"coordinates":[-97.369473,37.72283],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840621963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.704786,39.038478,-95.704786,39.038478",
+    "geom:latitude":39.038478,
+    "geom:longitude":-95.704786,
+    "iso:country":"US",
+    "sg:address":"1505 SW Plass Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 7927",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vDL6wsmg7Jbe0tfvtyoC9_39.038478_-95.704786@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044209,
+    "wof:geomhash":"a8bc824befb70b447bfff8024149d96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840621963
+        }
+    ],
+    "wof:id":840621963,
+    "wof:lastmodified":1464044209,
+    "wof:name":"W Walter Menninger",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -95.704786,
+    39.038478,
+    -95.704786,
+    39.038478
+],
+  "geometry": {"coordinates":[-95.704786,39.038478],"type":"Point"}
+}

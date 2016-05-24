@@ -1,0 +1,75 @@
+{
+  "id": 840605089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95605,38.308064,-95.95605,38.308064",
+    "geom:latitude":38.308064,
+    "geom:longitude":-95.95605,
+    "iso:country":"US",
+    "sg:address":"315 College St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 392 5570",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OkkimaWLlEt36kWm2psdy_38.308064_-95.956050@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043781,
+    "wof:geomhash":"550afd0e47e17173e2ba6c6b65f5c5e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840605089
+        }
+    ],
+    "wof:id":840605089,
+    "wof:lastmodified":1464043781,
+    "wof:name":"Hartford Senior Citizens Ctr",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -95.95605,
+    38.308064,
+    -95.95605,
+    38.308064
+],
+  "geometry": {"coordinates":[-95.95605,38.308064],"type":"Point"}
+}

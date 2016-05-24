@@ -1,0 +1,75 @@
+{
+  "id": 840845631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.779486,38.895588,-94.779486,38.895588",
+    "geom:latitude":38.895588,
+    "geom:longitude":-94.779486,
+    "iso:country":"US",
+    "sg:address":"801 N Mur-Len Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 451 2253",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DNqTGY6hwlsT4nyf5l9F2_38.895588_-94.779486@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049343,
+    "wof:geomhash":"cd2404d4e65f1b155b94decfb1e2c888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840845631
+        }
+    ],
+    "wof:id":840845631,
+    "wof:lastmodified":1464049343,
+    "wof:name":"Covenant Healthcare",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.779486,
+    38.895588,
+    -94.779486,
+    38.895588
+],
+  "geometry": {"coordinates":[-94.77948600000001,38.895588],"type":"Point"}
+}

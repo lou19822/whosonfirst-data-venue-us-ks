@@ -1,0 +1,75 @@
+{
+  "id": 840624001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.714545,39.011683,-94.714545,39.011683",
+    "geom:latitude":39.011683,
+    "geom:longitude":-94.714545,
+    "iso:country":"US",
+    "sg:address":"6447 Nieman Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 962 9797",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rRzX8tT0MFES75ZkvFN4p_39.011683_-94.714545@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044269,
+    "wof:geomhash":"b966c93dbf2923bfa32ed16ed0d0978a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":840624001
+        }
+    ],
+    "wof:id":840624001,
+    "wof:lastmodified":1464044269,
+    "wof:name":"Dinner Dujour",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -94.714545,
+    39.011683,
+    -94.714545,
+    39.011683
+],
+  "geometry": {"coordinates":[-94.714545,39.011683],"type":"Point"}
+}

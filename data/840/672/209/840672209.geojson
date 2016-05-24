@@ -1,0 +1,73 @@
+{
+  "id": 840672209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704878,37.40236,-94.704878,37.40236",
+    "geom:latitude":37.40236,
+    "geom:longitude":-94.704878,
+    "iso:country":"US",
+    "sg:address":"701 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5540",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UWu3LdQWORH2vrRCtQFgn_37.402360_-94.704878@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045368,
+    "wof:geomhash":"85c745ef2661ac392c8d3196918a6910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840672209
+        }
+    ],
+    "wof:id":840672209,
+    "wof:lastmodified":1464045368,
+    "wof:name":"Neptune Radiator & Car Wash",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.704878,
+    37.40236,
+    -94.704878,
+    37.40236
+],
+  "geometry": {"coordinates":[-94.70487799999999,37.40236],"type":"Point"}
+}

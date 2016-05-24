@@ -1,0 +1,71 @@
+{
+  "id": 840617597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335606,37.650227,-97.335606,37.650227",
+    "geom:latitude":37.650227,
+    "geom:longitude":-97.335606,
+    "iso:country":"US",
+    "sg:address":"2325 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 4479",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PCjG1C6gan4TeLa02xsv1_37.650227_-97.335606@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044111,
+    "wof:geomhash":"070da8693ab7097db9a792e2e20d808b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840617597
+        }
+    ],
+    "wof:id":840617597,
+    "wof:lastmodified":1464044111,
+    "wof:name":"Model Motel",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -97.335606,
+    37.650227,
+    -97.335606,
+    37.650227
+],
+  "geometry": {"coordinates":[-97.335606,37.650227],"type":"Point"}
+}

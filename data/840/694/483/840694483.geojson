@@ -1,0 +1,77 @@
+{
+  "id": 840694483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.336972,37.725137,-97.336972,37.725137",
+    "geom:latitude":37.725137,
+    "geom:longitude":-97.336972,
+    "iso:country":"US",
+    "sg:address":"2358 N Market St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 9558",
+    "sg:postcode":"67219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872827,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IPjBpCzwkNSNnEwLiD3jo_37.725137_-97.336972@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045934,
+    "wof:geomhash":"9dc99c06287b0f5ef3f83f0721365ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872827,
+            "region_id":85688555,
+            "venue_id":840694483
+        }
+    ],
+    "wof:id":840694483,
+    "wof:lastmodified":1464045934,
+    "wof:name":"Tejeda Electric",
+    "wof:parent_id":85872827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.336972,
+    37.725137,
+    -97.336972,
+    37.725137
+],
+  "geometry": {"coordinates":[-97.336972,37.725137],"type":"Point"}
+}

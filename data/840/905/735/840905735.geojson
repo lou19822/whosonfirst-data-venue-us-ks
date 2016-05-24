@@ -1,0 +1,77 @@
+{
+  "id": 840905735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.727989,39.044014,-95.727989,39.044014",
+    "geom:latitude":39.044014,
+    "geom:longitude":-95.727989,
+    "iso:country":"US",
+    "sg:address":"4036 SW Huntoon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 9941",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33KU1XWoIefkjL7srxYOfU_39.044014_-95.727989@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050607,
+    "wof:geomhash":"443b19c93d809c5f1f17fb546982d163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":840905735
+        }
+    ],
+    "wof:id":840905735,
+    "wof:lastmodified":1464050607,
+    "wof:name":"Margie's Java Cafe",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -95.727989,
+    39.044014,
+    -95.727989,
+    39.044014
+],
+  "geometry": {"coordinates":[-95.72798899999999,39.044014],"type":"Point"}
+}

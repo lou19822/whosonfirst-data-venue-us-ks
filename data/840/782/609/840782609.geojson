@@ -1,0 +1,71 @@
+{
+  "id": 840782609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.085022,39.110024,-95.085022,39.110024",
+    "geom:latitude":39.110024,
+    "geom:longitude":-95.085022,
+    "iso:country":"US",
+    "sg:address":"316 S Main St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2640",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DDtEYxcwH4Rs1KXzgYFPM_39.110024_-95.085022@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047812,
+    "wof:geomhash":"1770fd33d62de93b2a5ae578bc3f5b53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840782609
+        }
+    ],
+    "wof:id":840782609,
+    "wof:lastmodified":1464047812,
+    "wof:name":"Tonganoxie Maintenance Shop",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -95.085022,
+    39.110024,
+    -95.085022,
+    39.110024
+],
+  "geometry": {"coordinates":[-95.085022,39.110024],"type":"Point"}
+}

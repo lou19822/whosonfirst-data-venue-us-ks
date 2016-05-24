@@ -1,0 +1,71 @@
+{
+  "id": 840588569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.317196,37.641762,-97.317196,37.641762",
+    "geom:latitude":37.641762,
+    "geom:longitude":-97.317196,
+    "iso:country":"US",
+    "sg:address":"2831 S Hydraulic St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 554 0876",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "comic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BH8Hsq05ToUYPRHgkwJxs_37.641762_-97.317196@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043392,
+    "wof:geomhash":"35910562979eecbc6cc206dc78564c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840588569
+        }
+    ],
+    "wof:id":840588569,
+    "wof:lastmodified":1464043392,
+    "wof:name":"Excalibur Gaming",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "comic"
+    ]
+},
+  "bbox": [
+    -97.317196,
+    37.641762,
+    -97.317196,
+    37.641762
+],
+  "geometry": {"coordinates":[-97.317196,37.641762],"type":"Point"}
+}

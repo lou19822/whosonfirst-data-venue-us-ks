@@ -1,0 +1,77 @@
+{
+  "id": 840619441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.882077,39.056776,-94.882077,39.056776",
+    "geom:latitude":39.056776,
+    "geom:longitude":-94.882077,
+    "iso:country":"US",
+    "sg:address":"107 E 2 St",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 6348",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851431,
+        102191575,
+        404504871,
+        85633793,
+        85945359,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CziYtQ5eBMmBBIkcgtnu9_39.056776_-94.882077@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044152,
+    "wof:geomhash":"7efd58d1bad0170ff7da6b32f66dadc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504871,
+            "locality_id":85945359,
+            "neighbourhood_id":85851431,
+            "region_id":85688555,
+            "venue_id":840619441
+        }
+    ],
+    "wof:id":840619441,
+    "wof:lastmodified":1464044152,
+    "wof:name":"Luke Heating & Air Cond",
+    "wof:parent_id":85851431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.882077,
+    39.056776,
+    -94.882077,
+    39.056776
+],
+  "geometry": {"coordinates":[-94.882077,39.056776],"type":"Point"}
+}

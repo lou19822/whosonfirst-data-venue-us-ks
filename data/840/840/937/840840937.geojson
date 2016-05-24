@@ -1,0 +1,71 @@
+{
+  "id": 840840937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724639,39.060699,-95.724639,39.060699",
+    "geom:latitude":39.060699,
+    "geom:longitude":-95.724639,
+    "iso:country":"US",
+    "sg:address":"401 SW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 5210",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:website":"www.haydenhigh.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881541,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jAykxMFa0yJPg5EYsd2vg_39.060699_-95.724639@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049238,
+    "wof:geomhash":"c2c8e3259b068a682cd20072485899ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881541,
+            "region_id":85688555,
+            "venue_id":840840937
+        }
+    ],
+    "wof:id":840840937,
+    "wof:lastmodified":1464049238,
+    "wof:name":"Hayden Catholic High School",
+    "wof:parent_id":85881541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.724639,
+    39.060699,
+    -95.724639,
+    39.060699
+],
+  "geometry": {"coordinates":[-95.724639,39.060699],"type":"Point"}
+}

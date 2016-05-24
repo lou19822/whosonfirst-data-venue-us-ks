@@ -1,0 +1,73 @@
+{
+  "id": 840546479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444782,37.755321,-97.444782,37.755321",
+    "geom:latitude":37.755321,
+    "geom:longitude":-97.444782,
+    "iso:country":"US",
+    "sg:address":"3901 N Tyler Rd",
+    "sg:city":"Maize",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 4693",
+    "sg:postcode":"67101",
+    "sg:province":"KS",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eFuwxdnFuUBYamo1pcIsM_37.755321_-97.444782@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042419,
+    "wof:geomhash":"7c21280c0bd1e8c1bff61d391922b0b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840546479
+        }
+    ],
+    "wof:id":840546479,
+    "wof:lastmodified":1464042419,
+    "wof:name":"Jim Loehr Masonry Construction",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.444782,
+    37.755321,
+    -97.444782,
+    37.755321
+],
+  "geometry": {"coordinates":[-97.444782,37.755321],"type":"Point"}
+}

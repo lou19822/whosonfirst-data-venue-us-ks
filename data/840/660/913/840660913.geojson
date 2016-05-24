@@ -1,0 +1,75 @@
+{
+  "id": 840660913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.671622,39.070113,-95.671622,39.070113",
+    "geom:latitude":39.070113,
+    "geom:longitude":-95.671622,
+    "iso:country":"US",
+    "sg:address":"926 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 2222",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838117,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nfq9FXuwjeVpdq3yTtLQQ_39.070113_-95.671622@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045125,
+    "wof:geomhash":"6a4677316fedf8e3cf8641dbf606c60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85838117,
+            "region_id":85688555,
+            "venue_id":840660913
+        }
+    ],
+    "wof:id":840660913,
+    "wof:lastmodified":1464045125,
+    "wof:name":"Kansas Rental Inc",
+    "wof:parent_id":85838117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -95.671622,
+    39.070113,
+    -95.671622,
+    39.070113
+],
+  "geometry": {"coordinates":[-95.671622,39.070113],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840653341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.759748,39.143005,-94.759748,39.143005",
+    "geom:latitude":39.143005,
+    "geom:longitude":-94.759748,
+    "iso:country":"US",
+    "sg:address":"7857 Leavenworth Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 2072",
+    "sg:postcode":"66109",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805915,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1weRWl3zgPITfEE972XLHy_39.143005_-94.759748@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044963,
+    "wof:geomhash":"9140b8bc158ba29372b82ab34a7253de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85805915,
+            "region_id":85688555,
+            "venue_id":840653341
+        }
+    ],
+    "wof:id":840653341,
+    "wof:lastmodified":1464044963,
+    "wof:name":"S & M Auto Body Shop",
+    "wof:parent_id":85805915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.759748,
+    39.143005,
+    -94.759748,
+    39.143005
+],
+  "geometry": {"coordinates":[-94.759748,39.143005],"type":"Point"}
+}

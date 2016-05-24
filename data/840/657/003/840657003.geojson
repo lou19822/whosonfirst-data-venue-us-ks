@@ -1,0 +1,77 @@
+{
+  "id": 840657003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.748144,38.934686,-94.748144,38.934686",
+    "geom:latitude":38.934686,
+    "geom:longitude":-94.748144,
+    "iso:country":"US",
+    "sg:address":"14128 W 107th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 491 8355",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JOjtSE5pk5rIGxOKf1w22_38.934686_-94.748144@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045041,
+    "wof:geomhash":"50e06f77657427451dce80875f5e00f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840657003
+        }
+    ],
+    "wof:id":840657003,
+    "wof:lastmodified":1464045041,
+    "wof:name":"G & H Electric",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.748144,
+    38.934686,
+    -94.748144,
+    38.934686
+],
+  "geometry": {"coordinates":[-94.748144,38.934686],"type":"Point"}
+}

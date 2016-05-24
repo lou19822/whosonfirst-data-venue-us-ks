@@ -1,0 +1,77 @@
+{
+  "id": 840610473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.695622,39.039946,-95.695622,39.039946",
+    "geom:latitude":39.039946,
+    "geom:longitude":-95.695622,
+    "iso:country":"US",
+    "sg:address":"1401 SW Lane St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 3636",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YgobvSkMxKWV0CZcr2UiV_39.039946_-95.695622@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043929,
+    "wof:geomhash":"7e09ba8cfa17499b4af64701ff30d463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840610473
+        }
+    ],
+    "wof:id":840610473,
+    "wof:lastmodified":1464043929,
+    "wof:name":"Roto-Rooter Plumbing & Drain",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.695622,
+    39.039946,
+    -95.695622,
+    39.039946
+],
+  "geometry": {"coordinates":[-95.695622,39.039946],"type":"Point"}
+}

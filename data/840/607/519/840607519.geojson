@@ -1,0 +1,69 @@
+{
+  "id": 840607519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.7164,39.132064,-95.7164,39.132064",
+    "geom:latitude":39.132064,
+    "geom:longitude":-95.7164,
+    "iso:country":"US",
+    "sg:address":"4731 NW Hunters Ridge Cir",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 3800",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IJEo7oi5OVcIYgu06vlla_39.132064_-95.716400@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043847,
+    "wof:geomhash":"1be14c2e77f814efe0d11dcb1c33303b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840607519
+        }
+    ],
+    "wof:id":840607519,
+    "wof:lastmodified":1464043847,
+    "wof:name":"Glory Days Pizza",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.7164,
+    39.132064,
+    -95.7164,
+    39.132064
+],
+  "geometry": {"coordinates":[-95.71639999999999,39.132064],"type":"Point"}
+}

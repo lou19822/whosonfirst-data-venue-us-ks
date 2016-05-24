@@ -1,0 +1,83 @@
+{
+  "id": 856711669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.712917,39.015066,-95.712917,39.015066",
+    "geom:latitude":39.015066,
+    "geom:longitude":-95.712917,
+    "iso:country":"US",
+    "sg:address":"2833 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/47063-boss-hawgs-barbeque-co/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 7300",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881549,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lqaqtyH22uodXlOZXFdkc_39.014965_-95.713033@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052299,
+    "wof:geomhash":"de049e6d9c7c77cef9c0f042e8df7144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":856711669
+        }
+    ],
+    "wof:id":856711669,
+    "wof:lastmodified":1464052299,
+    "wof:name":"Boss Hawg's Barbeque Co.",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.712917,
+    39.015066,
+    -95.712917,
+    39.015066
+],
+  "geometry": {"coordinates":[-95.712917,39.015066],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 840954291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.351891,37.637061,-97.351891,37.637061",
+    "geom:latitude":37.637061,
+    "geom:longitude":-97.351891,
+    "iso:country":"US",
+    "sg:address":"1010 W 31st St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 1368",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "food",
+        "merchandise",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05K1XgxSdRI69lFGBVctWH_37.637061_-97.351891@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051732,
+    "wof:geomhash":"2cb69f0db26fb9f1e18aa7381f4cf9f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840954291
+        }
+    ],
+    "wof:id":840954291,
+    "wof:lastmodified":1464051732,
+    "wof:name":"One Stop Pet Shop",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "merchandise",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.351891,
+    37.637061,
+    -97.351891,
+    37.637061
+],
+  "geometry": {"coordinates":[-97.35189099999999,37.637061],"type":"Point"}
+}

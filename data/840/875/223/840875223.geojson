@@ -1,0 +1,79 @@
+{
+  "id": 840875223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.751222,39.029127,-95.751222,39.029127",
+    "geom:latitude":39.029127,
+    "geom:longitude":-95.751222,
+    "iso:country":"US",
+    "sg:address":"5711 SW 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 6600",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mwaXJrMzno2q5TEjfo9fu_39.029127_-95.751222@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049954,
+    "wof:geomhash":"7339cc6bc9c736e2b4f280648233c878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840875223
+        }
+    ],
+    "wof:id":840875223,
+    "wof:lastmodified":1464049954,
+    "wof:name":"Bob's Janitorial Svc",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -95.751222,
+    39.029127,
+    -95.751222,
+    39.029127
+],
+  "geometry": {"coordinates":[-95.751222,39.029127],"type":"Point"}
+}

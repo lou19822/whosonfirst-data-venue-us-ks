@@ -1,0 +1,75 @@
+{
+  "id": 840631415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.185276,38.407086,-96.185276,38.407086",
+    "geom:latitude":38.407086,
+    "geom:longitude":-96.185276,
+    "iso:country":"US",
+    "sg:address":"727 State St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 0448",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IRzhamdbO8JSIfQ3y3lPZ_38.407086_-96.185276@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044474,
+    "wof:geomhash":"5d1079777239aadd5fe7643aa96776df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840631415
+        }
+    ],
+    "wof:id":840631415,
+    "wof:lastmodified":1464044474,
+    "wof:name":"Communication Advisors",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.185276,
+    38.407086,
+    -96.185276,
+    38.407086
+],
+  "geometry": {"coordinates":[-96.185276,38.407086],"type":"Point"}
+}

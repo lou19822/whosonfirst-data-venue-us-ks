@@ -1,0 +1,71 @@
+{
+  "id": 840635067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.357211,37.593391,-97.357211,37.593391",
+    "geom:latitude":37.593391,
+    "geom:longitude":-97.357211,
+    "iso:country":"US",
+    "sg:address":"1155 W 55th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 4980",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L1a9fv58NBZEpOYC5Ae9f_37.593391_-97.357211@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044567,
+    "wof:geomhash":"ca4eb55d270078aa3e3fa46901dd5bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840635067
+        }
+    ],
+    "wof:id":840635067,
+    "wof:lastmodified":1464044567,
+    "wof:name":"Ray's Interior-Exterior Pntg",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -97.357211,
+    37.593391,
+    -97.357211,
+    37.593391
+],
+  "geometry": {"coordinates":[-97.35721100000001,37.593391],"type":"Point"}
+}

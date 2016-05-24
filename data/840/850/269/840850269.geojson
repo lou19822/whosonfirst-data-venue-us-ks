@@ -1,0 +1,71 @@
+{
+  "id": 840850269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.862292,37.68521,-96.862292,37.68521",
+    "geom:latitude":37.68521,
+    "geom:longitude":-96.862292,
+    "iso:country":"US",
+    "sg:address":"9741 SW Walnut Valley Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 2849",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pqVbKiLBIR7hxGg4O91DG_37.685210_-96.862292@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049445,
+    "wof:geomhash":"abde8b116e6c41fb46a5c34788c432c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840850269
+        }
+    ],
+    "wof:id":840850269,
+    "wof:lastmodified":1464049445,
+    "wof:name":"Express Septic Tank Svc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -96.862292,
+    37.68521,
+    -96.862292,
+    37.68521
+],
+  "geometry": {"coordinates":[-96.862292,37.68521],"type":"Point"}
+}

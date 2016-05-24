@@ -1,0 +1,71 @@
+{
+  "id": 840641579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180238,38.40372,-96.180238,38.40372",
+    "geom:latitude":38.40372,
+    "geom:longitude":-96.180238,
+    "iso:country":"US",
+    "sg:address":"407 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 0405",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f7znZdQzQAfpyl7D8dmHu_38.403720_-96.180238@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044711,
+    "wof:geomhash":"6261d164a0ff895e73a3572db657b517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840641579
+        }
+    ],
+    "wof:id":840641579,
+    "wof:lastmodified":1464044711,
+    "wof:name":"Joyeria Jasmin",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -96.180238,
+    38.40372,
+    -96.180238,
+    38.40372
+],
+  "geometry": {"coordinates":[-96.180238,38.40372],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840726407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.65027,39.088365,-95.65027,39.088365",
+    "geom:latitude":39.088365,
+    "geom:longitude":-95.65027,
+    "iso:country":"US",
+    "sg:address":"2201 NE Meriden Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 6767",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lhrQE5omZw34ulZB5D3nI_39.088365_-95.650270@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046644,
+    "wof:geomhash":"0437cb8538e8556dc34ea9be76122013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840726407
+        }
+    ],
+    "wof:id":840726407,
+    "wof:lastmodified":1464046644,
+    "wof:name":"Research Information Svc",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -95.65027,
+    39.088365,
+    -95.65027,
+    39.088365
+],
+  "geometry": {"coordinates":[-95.65027000000001,39.088365],"type":"Point"}
+}

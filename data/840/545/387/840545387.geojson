@@ -1,0 +1,75 @@
+{
+  "id": 840545387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.08128,39.109127,-95.08128,39.109127",
+    "geom:latitude":39.109127,
+    "geom:longitude":-95.08128,
+    "iso:country":"US",
+    "sg:address":"922 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 3193",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RKDuul20VSRSDFKiPbq2j_39.109127_-95.081280@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042379,
+    "wof:geomhash":"ede49fc0236d3a4b82cee9eacf21987a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840545387
+        }
+    ],
+    "wof:id":840545387,
+    "wof:lastmodified":1464042379,
+    "wof:name":"S & S Body Shop",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.08128,
+    39.109127,
+    -95.08128,
+    39.109127
+],
+  "geometry": {"coordinates":[-95.08128000000001,39.109127],"type":"Point"}
+}

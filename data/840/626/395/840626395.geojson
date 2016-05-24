@@ -1,0 +1,71 @@
+{
+  "id": 840626395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.187497,38.383316,-96.187497,38.383316",
+    "geom:latitude":38.383316,
+    "geom:longitude":-96.187497,
+    "iso:country":"US",
+    "sg:address":"1012 Rd 155",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6066",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jne0SqrJ0SdHrI3LwQ6Sx_38.383316_-96.187497@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044332,
+    "wof:geomhash":"82074ac2abcbcc2b39188912569619ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840626395
+        }
+    ],
+    "wof:id":840626395,
+    "wof:lastmodified":1464044332,
+    "wof:name":"Pauls Productions",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.187497,
+    38.383316,
+    -96.187497,
+    38.383316
+],
+  "geometry": {"coordinates":[-96.18749699999999,38.383316],"type":"Point"}
+}

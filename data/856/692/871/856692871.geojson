@@ -1,0 +1,73 @@
+{
+  "id": 856692871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.685001,37.410867,-94.685001,37.410867",
+    "geom:latitude":37.410867,
+    "geom:longitude":-94.685001,
+    "iso:country":"US",
+    "sg:address":"1214 E 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 9776",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tLN5oJNib5zN2OlFEYDzx_37.410867_-94.685001@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051922,
+    "wof:geomhash":"695fc743c78f927313b82c10a21ec949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856692871
+        }
+    ],
+    "wof:id":856692871,
+    "wof:lastmodified":1464051922,
+    "wof:name":"J & J Auto Repair",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.685001,
+    37.410867,
+    -94.685001,
+    37.410867
+],
+  "geometry": {"coordinates":[-94.685001,37.410867],"type":"Point"}
+}

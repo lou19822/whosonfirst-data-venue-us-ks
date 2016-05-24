@@ -1,0 +1,78 @@
+{
+  "id": 840584851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.654945,39.023097,-94.654945,39.023097",
+    "geom:latitude":39.023097,
+    "geom:longitude":-94.654945,
+    "iso:country":"US",
+    "sg:address":"5850 Dearborn St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 2450",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.sailorsauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879597,
+        102191575,
+        404504389,
+        85633793,
+        85945747,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c2uQoV8nafmPKXK2yb9hZ_39.023097_-94.654945@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043310,
+    "wof:geomhash":"5d967438e6a3effa8c4a7a5caa58f365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504389,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":840584851
+        }
+    ],
+    "wof:id":840584851,
+    "wof:lastmodified":1464043310,
+    "wof:name":"Sailors Auto Care Clinic",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.654945,
+    39.023097,
+    -94.654945,
+    39.023097
+],
+  "geometry": {"coordinates":[-94.654945,39.023097],"type":"Point"}
+}

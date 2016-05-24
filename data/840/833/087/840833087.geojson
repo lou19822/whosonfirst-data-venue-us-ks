@@ -1,0 +1,73 @@
+{
+  "id": 840833087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.177494,38.404823,-96.177494,38.404823",
+    "geom:latitude":38.404823,
+    "geom:longitude":-96.177494,
+    "iso:country":"US",
+    "sg:address":"512 Market St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3355",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "rehab",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UdaFFnHskcVZsijipsUbT_38.404823_-96.177494@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049066,
+    "wof:geomhash":"bd8d2d2535b4361b20c7c227bd559417",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840833087
+        }
+    ],
+    "wof:id":840833087,
+    "wof:lastmodified":1464049066,
+    "wof:name":"Job Service Resource Ctr",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "government"
+    ]
+},
+  "bbox": [
+    -96.177494,
+    38.404823,
+    -96.177494,
+    38.404823
+],
+  "geometry": {"coordinates":[-96.177494,38.404823],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856704765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.765953,39.116303,-94.765953,39.116303",
+    "geom:latitude":39.116303,
+    "geom:longitude":-94.765953,
+    "iso:country":"US",
+    "sg:address":"8017 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/11824-go-chicken-go/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 8606",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TUiHlpEROIVJKTKxUQJL4_39.116303_-94.765953@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052166,
+    "wof:geomhash":"1aa069163c402192f60ad1b2a025ceee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":856704765
+        }
+    ],
+    "wof:id":856704765,
+    "wof:lastmodified":1464052166,
+    "wof:name":"Go Chicken Go",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.765953,
+    39.116303,
+    -94.765953,
+    39.116303
+],
+  "geometry": {"coordinates":[-94.765953,39.116303],"type":"Point"}
+}

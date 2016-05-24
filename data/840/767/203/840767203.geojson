@@ -1,0 +1,69 @@
+{
+  "id": 840767203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.70414,39.09481,-95.70414,39.09481",
+    "geom:latitude":39.09481,
+    "geom:longitude":-95.70414,
+    "iso:country":"US",
+    "sg:address":"2818 NW 25th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 4400",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MsAydiRG7XU2Lv9yeoOBY_39.094810_-95.704140@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047510,
+    "wof:geomhash":"ca1433bd7b484b5ddc274fbcb53c6b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840767203
+        }
+    ],
+    "wof:id":840767203,
+    "wof:lastmodified":1464047510,
+    "wof:name":"Kaw Tire Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -95.70414,
+    39.09481,
+    -95.70414,
+    39.09481
+],
+  "geometry": {"coordinates":[-95.70414,39.09481],"type":"Point"}
+}

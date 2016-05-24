@@ -1,0 +1,73 @@
+{
+  "id": 840586975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.469572,37.71293,-97.469572,37.71293",
+    "geom:latitude":37.71293,
+    "geom:longitude":-97.469572,
+    "iso:country":"US",
+    "sg:address":"1526 N Prescott Cir",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 0781",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "industry",
+        "aerospace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yvbMYMwsXBLQQxcSIGKaS_37.712930_-97.469572@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043361,
+    "wof:geomhash":"532df94009560d25a41b9c3e60c87b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840586975
+        }
+    ],
+    "wof:id":840586975,
+    "wof:lastmodified":1464043361,
+    "wof:name":"KTM Aerospace",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "aerospace"
+    ]
+},
+  "bbox": [
+    -97.469572,
+    37.71293,
+    -97.469572,
+    37.71293
+],
+  "geometry": {"coordinates":[-97.469572,37.71293],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840796037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.280348,37.656159,-97.280348,37.656159",
+    "geom:latitude":37.656159,
+    "geom:longitude":-97.280348,
+    "iso:country":"US",
+    "sg:address":"2004 S Oliver St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 684 4445",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72eAxSJXRPvwHpy089ibeA_37.656159_-97.280348@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048097,
+    "wof:geomhash":"2bf26e3e8177a724e299706b8d6d5500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840796037
+        }
+    ],
+    "wof:id":840796037,
+    "wof:lastmodified":1464048097,
+    "wof:name":"American Muffler Shop",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -97.280348,
+    37.656159,
+    -97.280348,
+    37.656159
+],
+  "geometry": {"coordinates":[-97.280348,37.656159],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840748161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.450809,37.694063,-97.450809,37.694063",
+    "geom:latitude":37.694063,
+    "geom:longitude":-97.450809,
+    "iso:country":"US",
+    "sg:address":"9518 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 4001",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VjJj7HWX9NuioBgzdNUME_37.694063_-97.450809@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047050,
+    "wof:geomhash":"4ee416d2d611c0f053f4ba8a36e3eaeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840748161
+        }
+    ],
+    "wof:id":840748161,
+    "wof:lastmodified":1464047050,
+    "wof:name":"Westlink Amoco",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -97.450809,
+    37.694063,
+    -97.450809,
+    37.694063
+],
+  "geometry": {"coordinates":[-97.45080900000001,37.694063],"type":"Point"}
+}

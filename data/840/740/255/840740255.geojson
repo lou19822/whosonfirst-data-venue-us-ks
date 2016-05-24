@@ -1,0 +1,71 @@
+{
+  "id": 840740255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.060565,37.846874,-97.060565,37.846874",
+    "geom:latitude":37.846874,
+    "geom:longitude":-97.060565,
+    "iso:country":"US",
+    "sg:address":"1019 NW Tawakoni Rd",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 752 3634",
+    "sg:postcode":"67017",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dd9uq8YdLa4MJw66uwmHK_37.846874_-97.060565@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046900,
+    "wof:geomhash":"8c72ee975a12744df3773b909f9f7037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840740255
+        }
+    ],
+    "wof:id":840740255,
+    "wof:lastmodified":1464046900,
+    "wof:name":"Enchantables",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -97.060565,
+    37.846874,
+    -97.060565,
+    37.846874
+],
+  "geometry": {"coordinates":[-97.060565,37.846874],"type":"Point"}
+}

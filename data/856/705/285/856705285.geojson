@@ -1,0 +1,76 @@
+{
+  "id": 856705285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.722907,38.926537,-94.722907,38.926537",
+    "geom:latitude":38.926537,
+    "geom:longitude":-94.722907,
+    "iso:country":"US",
+    "sg:address":"11817 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/44675-tequila-harrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 469 6644",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2erxvL1zA3u0AFvgvCqLGy_38.926537_-94.722907@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052174,
+    "wof:geomhash":"03a567a2e314477ad0f02589024df5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":856705285
+        }
+    ],
+    "wof:id":856705285,
+    "wof:lastmodified":1464052174,
+    "wof:name":"Tequila Harry's",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.722907,
+    38.926537,
+    -94.722907,
+    38.926537
+],
+  "geometry": {"coordinates":[-94.72290700000001,38.926537],"type":"Point"}
+}

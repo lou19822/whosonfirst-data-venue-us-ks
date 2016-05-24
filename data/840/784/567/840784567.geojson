@@ -1,0 +1,73 @@
+{
+  "id": 840784567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.615995,39.002406,-95.615995,39.002406",
+    "geom:latitude":39.002406,
+    "geom:longitude":-95.615995,
+    "iso:country":"US",
+    "sg:address":"3529 SE 36th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 3965",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "liquor",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11QEA6zljsZC62mQfD04kp_39.002406_-95.615995@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047849,
+    "wof:geomhash":"9529d3f4e5f832ae7616de9e337176a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840784567
+        }
+    ],
+    "wof:id":840784567,
+    "wof:lastmodified":1464047849,
+    "wof:name":"Jim Beam Brands Company",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -95.615995,
+    39.002406,
+    -95.615995,
+    39.002406
+],
+  "geometry": {"coordinates":[-95.615995,39.002406],"type":"Point"}
+}

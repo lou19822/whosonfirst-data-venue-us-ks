@@ -1,0 +1,73 @@
+{
+  "id": 840542145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.7366,37.01946,-94.7366,37.01946",
+    "geom:latitude":37.01946,
+    "geom:longitude":-94.7366,
+    "iso:country":"US",
+    "sg:address":"130 W 16th St",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 5200",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UWh8YL96xLJOiKN02KeNy_37.019460_-94.736600@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042276,
+    "wof:geomhash":"4b9b94e6dde4fec4a628d8bc88a6c8e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840542145
+        }
+    ],
+    "wof:id":840542145,
+    "wof:lastmodified":1464042276,
+    "wof:name":"Municipal Pool",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -94.7366,
+    37.01946,
+    -94.7366,
+    37.01946
+],
+  "geometry": {"coordinates":[-94.7366,37.01946],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840749125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.822864,38.882096,-94.822864,38.882096",
+    "geom:latitude":38.882096,
+    "geom:longitude":-94.822864,
+    "iso:country":"US",
+    "sg:address":"300 W Park St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 2247",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SdH0hUL2ZlJusAUmK48gK_38.882096_-94.822864@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047076,
+    "wof:geomhash":"5e7b98409b09fe692cff04ce75b57b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840749125
+        }
+    ],
+    "wof:id":840749125,
+    "wof:lastmodified":1464047076,
+    "wof:name":"Dale's Body Shop",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.822864,
+    38.882096,
+    -94.822864,
+    38.882096
+],
+  "geometry": {"coordinates":[-94.822864,38.882096],"type":"Point"}
+}

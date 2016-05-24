@@ -1,0 +1,75 @@
+{
+  "id": 840653851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.640997,39.102624,-95.640997,39.102624",
+    "geom:latitude":39.102624,
+    "geom:longitude":-95.640997,
+    "iso:country":"US",
+    "sg:address":"3210 NE Meriden Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 1775",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jj0gATSJUPxAZYIz8fQcm_39.102624_-95.640997@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044978,
+    "wof:geomhash":"7fdaadabbf44b3b6a869244257cd7828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840653851
+        }
+    ],
+    "wof:id":840653851,
+    "wof:lastmodified":1464044978,
+    "wof:name":"Capital Insulation Inc",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.640997,
+    39.102624,
+    -95.640997,
+    39.102624
+],
+  "geometry": {"coordinates":[-95.640997,39.102624],"type":"Point"}
+}

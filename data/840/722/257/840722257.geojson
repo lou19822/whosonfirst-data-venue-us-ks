@@ -1,0 +1,72 @@
+{
+  "id": 840722257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706127,39.103023,-95.706127,39.103023",
+    "geom:latitude":39.103023,
+    "geom:longitude":-95.706127,
+    "iso:country":"US",
+    "sg:address":"2548 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 6040",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.kelley-construction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qc2eWXYe71j4MzjTy95RZ_39.103023_-95.706127@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046553,
+    "wof:geomhash":"637728d694f289104e6d9797eaf2d080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840722257
+        }
+    ],
+    "wof:id":840722257,
+    "wof:lastmodified":1464046553,
+    "wof:name":"Kelley Construction",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.706127,
+    39.103023,
+    -95.706127,
+    39.103023
+],
+  "geometry": {"coordinates":[-95.706127,39.103023],"type":"Point"}
+}

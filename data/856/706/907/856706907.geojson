@@ -1,0 +1,78 @@
+{
+  "id": 856706907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762222,39.032005,-95.762222,39.032005",
+    "geom:latitude":39.032005,
+    "geom:longitude":-95.762222,
+    "iso:country":"US",
+    "sg:address":"1915 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/98591-longhorn-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 228 9900",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o9SOM8V4kda92imAsjTRI_39.032005_-95.762222@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052204,
+    "wof:geomhash":"5ff9df90c5f3118a9a92543fa0ad8998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706907
+        }
+    ],
+    "wof:id":856706907,
+    "wof:lastmodified":1464052204,
+    "wof:name":"LongHorn Steakhouse",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -95.762222,
+    39.032005,
+    -95.762222,
+    39.032005
+],
+  "geometry": {"coordinates":[-95.76222199999999,39.032005],"type":"Point"}
+}

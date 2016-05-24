@@ -1,0 +1,71 @@
+{
+  "id": 840563881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.398516,37.692862,-97.398516,37.692862",
+    "geom:latitude":37.692862,
+    "geom:longitude":-97.398516,
+    "iso:country":"US",
+    "sg:address":"502 N Anna St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 9377",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o7wyZMENPTfd75Vtk3PWI_37.692862_-97.398516@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042820,
+    "wof:geomhash":"9b78e531c2cb91d949d40d92ca074a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840563881
+        }
+    ],
+    "wof:id":840563881,
+    "wof:lastmodified":1464042820,
+    "wof:name":"Mark's Transmission Exchange",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -97.398516,
+    37.692862,
+    -97.398516,
+    37.692862
+],
+  "geometry": {"coordinates":[-97.398516,37.692862],"type":"Point"}
+}

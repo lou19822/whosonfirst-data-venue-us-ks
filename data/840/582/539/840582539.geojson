@@ -1,0 +1,71 @@
+{
+  "id": 840582539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.539662,37.78354,-97.539662,37.78354",
+    "geom:latitude":37.78354,
+    "geom:longitude":-97.539662,
+    "iso:country":"US",
+    "sg:address":"124 N Colorado Ave",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 0409",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64VASiLYL83gbXj35EVJJL_37.783540_-97.539662@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043266,
+    "wof:geomhash":"76bf1ff9c8c504bda2045a812a5bee7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840582539
+        }
+    ],
+    "wof:id":840582539,
+    "wof:lastmodified":1464043266,
+    "wof:name":"Tim's Appliance Svc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -97.539662,
+    37.78354,
+    -97.539662,
+    37.78354
+],
+  "geometry": {"coordinates":[-97.53966200000001,37.78354],"type":"Point"}
+}

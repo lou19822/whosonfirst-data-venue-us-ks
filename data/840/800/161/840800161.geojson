@@ -1,0 +1,73 @@
+{
+  "id": 840800161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352624,37.629075,-97.352624,37.629075",
+    "geom:latitude":37.629075,
+    "geom:longitude":-97.352624,
+    "iso:country":"US",
+    "sg:address":"3615 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 9493",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wNOJSN1lLnv92tdP7LxgF_37.629075_-97.352624@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048205,
+    "wof:geomhash":"9b9cd1701355a8c9c92f9292028e0295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840800161
+        }
+    ],
+    "wof:id":840800161,
+    "wof:lastmodified":1464048205,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -97.352624,
+    37.629075,
+    -97.352624,
+    37.629075
+],
+  "geometry": {"coordinates":[-97.35262400000001,37.629075],"type":"Point"}
+}

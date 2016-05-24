@@ -1,0 +1,71 @@
+{
+  "id": 840930423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.73733,37.011248,-94.73733,37.011248",
+    "geom:latitude":37.011248,
+    "geom:longitude":-94.73733,
+    "iso:country":"US",
+    "sg:address":"2401 Park Ave",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 2666",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rADtPqja9fj2TJR6UZk2l_37.011248_-94.737330@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051259,
+    "wof:geomhash":"5d938b4777b7c02c14b8e43b9999fbc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840930423
+        }
+    ],
+    "wof:id":840930423,
+    "wof:lastmodified":1464051259,
+    "wof:name":"Springs",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.73733,
+    37.011248,
+    -94.73733,
+    37.011248
+],
+  "geometry": {"coordinates":[-94.73733,37.011248],"type":"Point"}
+}

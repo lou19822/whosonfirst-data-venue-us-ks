@@ -1,0 +1,77 @@
+{
+  "id": 840584105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.677611,39.041829,-95.677611,39.041829",
+    "geom:latitude":39.041829,
+    "geom:longitude":-95.677611,
+    "iso:country":"US",
+    "sg:address":"1205 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 2202",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "flea",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W7fsnbwj0E565gsEcr5F3_39.041829_-95.677611@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043294,
+    "wof:geomhash":"d77a84cb755143dc6e3d4bc43b22f7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840584105
+        }
+    ],
+    "wof:id":840584105,
+    "wof:lastmodified":1464043294,
+    "wof:name":"Flea Market",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flea",
+        "market"
+    ]
+},
+  "bbox": [
+    -95.677611,
+    39.041829,
+    -95.677611,
+    39.041829
+],
+  "geometry": {"coordinates":[-95.677611,39.041829],"type":"Point"}
+}

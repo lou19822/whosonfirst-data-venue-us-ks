@@ -1,0 +1,73 @@
+{
+  "id": 840562441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.152632,38.397776,-96.152632,38.397776",
+    "geom:latitude":38.397776,
+    "geom:longitude":-96.152632,
+    "iso:country":"US",
+    "sg:address":"1 S Weaver St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2684",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49FifikB2QkssZHRpuHME8_38.397776_-96.152632@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042791,
+    "wof:geomhash":"f7d9acbeef2378ce359b58f5dc1b40df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840562441
+        }
+    ],
+    "wof:id":840562441,
+    "wof:lastmodified":1464042791,
+    "wof:name":"Emporia Roofing Co",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.152632,
+    38.397776,
+    -96.152632,
+    38.397776
+],
+  "geometry": {"coordinates":[-96.152632,38.397776],"type":"Point"}
+}

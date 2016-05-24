@@ -1,0 +1,71 @@
+{
+  "id": 840600123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.192775,38.259602,-96.192775,38.259602",
+    "geom:latitude":38.259602,
+    "geom:longitude":-96.192775,
+    "iso:country":"US",
+    "sg:address":"682 Rd K",
+    "sg:city":"Olpe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 3165",
+    "sg:postcode":"66865",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ptO8A8InyNqhpgW19OyyI_38.259602_-96.192775@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043665,
+    "wof:geomhash":"df46e7e4564c77e6c1ff88c4077a1479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840600123
+        }
+    ],
+    "wof:id":840600123,
+    "wof:lastmodified":1464043665,
+    "wof:name":"Bruce Davis Construction",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -96.192775,
+    38.259602,
+    -96.192775,
+    38.259602
+],
+  "geometry": {"coordinates":[-96.192775,38.259602],"type":"Point"}
+}

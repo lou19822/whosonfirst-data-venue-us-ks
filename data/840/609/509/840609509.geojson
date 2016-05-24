@@ -1,0 +1,71 @@
+{
+  "id": 840609509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849881,37.816784,-96.849881,37.816784",
+    "geom:latitude":37.816784,
+    "geom:longitude":-96.849881,
+    "iso:country":"US",
+    "sg:address":"117 S Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3132",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YnQvRMDfZQTtjbHRrsQTf_37.816784_-96.849881@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043907,
+    "wof:geomhash":"3fbeaab1886dfe4aaf64d456bd784030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840609509
+        }
+    ],
+    "wof:id":840609509,
+    "wof:lastmodified":1464043907,
+    "wof:name":"Spencer Wernli Financial Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -96.849881,
+    37.816784,
+    -96.849881,
+    37.816784
+],
+  "geometry": {"coordinates":[-96.849881,37.816784],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856707635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.214955,38.407459,-96.214955,38.407459",
+    "geom:latitude":38.407459,
+    "geom:longitude":-96.214955,
+    "iso:country":"US",
+    "sg:address":"2711 W Us Highway 50",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/159244-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6322",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T7sK0idW9QmxTk8fND8Ij_38.407459_-96.214955@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052223,
+    "wof:geomhash":"cb4bdd3107a70b2de2042be4d556ab99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707635
+        }
+    ],
+    "wof:id":856707635,
+    "wof:lastmodified":1464052223,
+    "wof:name":"Arby's",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.214955,
+    38.407459,
+    -96.214955,
+    38.407459
+],
+  "geometry": {"coordinates":[-96.214955,38.407459],"type":"Point"}
+}

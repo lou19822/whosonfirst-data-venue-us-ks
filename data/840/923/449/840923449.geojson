@@ -1,0 +1,71 @@
+{
+  "id": 840923449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.877229,37.82589,-96.877229,37.82589",
+    "geom:latitude":37.82589,
+    "geom:longitude":-96.877229,
+    "iso:country":"US",
+    "sg:address":"724 Oil Hill Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 3626",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FxwllIKBB39ich5N2qUNw_37.825890_-96.877229@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051090,
+    "wof:geomhash":"dfde64fc0f12c401bd26f2d60acef011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840923449
+        }
+    ],
+    "wof:id":840923449,
+    "wof:lastmodified":1464051090,
+    "wof:name":"Anderson Trash Svc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -96.877229,
+    37.82589,
+    -96.877229,
+    37.82589
+],
+  "geometry": {"coordinates":[-96.877229,37.82589],"type":"Point"}
+}

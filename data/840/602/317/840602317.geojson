@@ -1,0 +1,73 @@
+{
+  "id": 840602317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.2714,37.551848,-97.2714,37.551848",
+    "geom:latitude":37.551848,
+    "geom:longitude":-97.2714,
+    "iso:country":"US",
+    "sg:address":"945 N K-15 Hwy",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 789 0130",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tmZF6V30Y8JPbFNb7iaax_37.551848_-97.271400@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043710,
+    "wof:geomhash":"72ad065e64e9fc8f9e63527892139abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840602317
+        }
+    ],
+    "wof:id":840602317,
+    "wof:lastmodified":1464043710,
+    "wof:name":"Safelite Auto Glass",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.2714,
+    37.551848,
+    -97.2714,
+    37.551848
+],
+  "geometry": {"coordinates":[-97.2714,37.551848],"type":"Point"}
+}

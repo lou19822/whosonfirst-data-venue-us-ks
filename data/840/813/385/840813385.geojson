@@ -1,0 +1,75 @@
+{
+  "id": 840813385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.216963,38.417517,-96.216963,38.417517",
+    "geom:latitude":38.417517,
+    "geom:longitude":-96.216963,
+    "iso:country":"US",
+    "sg:address":"1610 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 0741",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KwqKZcV1emdjpThgqerUe_38.417517_-96.216963@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048557,
+    "wof:geomhash":"375c5d66428d4dcbb9f84419dfcc1809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840813385
+        }
+    ],
+    "wof:id":840813385,
+    "wof:lastmodified":1464048557,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -96.216963,
+    38.417517,
+    -96.216963,
+    38.417517
+],
+  "geometry": {"coordinates":[-96.21696300000001,38.417517],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856705919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.739202,38.971446,-94.739202,38.971446",
+    "geom:latitude":38.971446,
+    "geom:longitude":-94.739202,
+    "iso:country":"US",
+    "sg:address":"13218 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/118857-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 5690",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E46GMUBrASu6AONS4YUM4_38.971446_-94.739202@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052185,
+    "wof:geomhash":"61c89d1871bb5ab075946281e017b43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856705919
+        }
+    ],
+    "wof:id":856705919,
+    "wof:lastmodified":1464052185,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.739202,
+    38.971446,
+    -94.739202,
+    38.971446
+],
+  "geometry": {"coordinates":[-94.73920200000001,38.971446],"type":"Point"}
+}

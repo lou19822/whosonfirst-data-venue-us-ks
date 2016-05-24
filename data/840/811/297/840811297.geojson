@@ -1,0 +1,76 @@
+{
+  "id": 840811297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.815881,38.846393,-94.815881,38.846393",
+    "geom:latitude":38.846393,
+    "geom:longitude":-94.815881,
+    "iso:country":"US",
+    "sg:address":"15580 US Hwy 169",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 6606",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.kcfreightliner.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24DG7ARQRFBvNhvXQuVPRI_38.846393_-94.815881@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048469,
+    "wof:geomhash":"04b3ada091b77639f5939b6f7b50cd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840811297
+        }
+    ],
+    "wof:id":840811297,
+    "wof:lastmodified":1464048469,
+    "wof:name":"Kansas City Freightliner",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -94.815881,
+    38.846393,
+    -94.815881,
+    38.846393
+],
+  "geometry": {"coordinates":[-94.815881,38.846393],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840822995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.074994,37.606748,-97.074994,37.606748",
+    "geom:latitude":37.606748,
+    "geom:longitude":-97.074994,
+    "iso:country":"US",
+    "sg:address":"12321 SW 150th St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 776 0349",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kAiYwkfM0xV9OiJ9DvmuX_37.606748_-97.074994@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048845,
+    "wof:geomhash":"a04532a233cdde1a0a1db2fa41f91f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840822995
+        }
+    ],
+    "wof:id":840822995,
+    "wof:lastmodified":1464048845,
+    "wof:name":"Hoffman Appraisal Svc",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -97.074994,
+    37.606748,
+    -97.074994,
+    37.606748
+],
+  "geometry": {"coordinates":[-97.074994,37.606748],"type":"Point"}
+}

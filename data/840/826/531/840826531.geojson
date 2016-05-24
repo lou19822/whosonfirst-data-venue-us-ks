@@ -1,0 +1,77 @@
+{
+  "id": 840826531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.820623,38.877849,-94.820623,38.877849",
+    "geom:latitude":38.877849,
+    "geom:longitude":-94.820623,
+    "iso:country":"US",
+    "sg:address":"314 S Kansas Ave",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 768 4417",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XeRZH82c6iZcdgyEm6Afj_38.877849_-94.820623@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048924,
+    "wof:geomhash":"a0124bf582eb87d030feb13b3f3e5a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840826531
+        }
+    ],
+    "wof:id":840826531,
+    "wof:lastmodified":1464048924,
+    "wof:name":"Southgate Auto Svc",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.820623,
+    38.877849,
+    -94.820623,
+    38.877849
+],
+  "geometry": {"coordinates":[-94.820623,38.877849],"type":"Point"}
+}

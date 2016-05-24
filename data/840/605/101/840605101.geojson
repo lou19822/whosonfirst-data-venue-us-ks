@@ -1,0 +1,75 @@
+{
+  "id": 840605101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.897137,39.257859,-94.897137,39.257859",
+    "geom:latitude":39.257859,
+    "geom:longitude":-94.897137,
+    "iso:country":"US",
+    "sg:address":"400 Santa Fe Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 1700",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844391,
+        102191575,
+        404504467,
+        85633793,
+        85945367,
+        102083429,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00U6dYTlAQbmWCzsaJvdaA_39.257859_-94.897137@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043781,
+    "wof:geomhash":"b29b819d3ada3bf031de02d99987717a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504467,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":840605101
+        }
+    ],
+    "wof:id":840605101,
+    "wof:lastmodified":1464043781,
+    "wof:name":"City Garage",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -94.897137,
+    39.257859,
+    -94.897137,
+    39.257859
+],
+  "geometry": {"coordinates":[-94.897137,39.257859],"type":"Point"}
+}

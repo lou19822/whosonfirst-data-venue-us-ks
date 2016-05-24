@@ -1,0 +1,71 @@
+{
+  "id": 840654187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135206,37.707416,-97.135206,37.707416",
+    "geom:latitude":37.707416,
+    "geom:longitude":-97.135206,
+    "iso:country":"US",
+    "sg:address":"1237 N Andover Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 686 6589",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RmruMei4kSz5KRLm9zu8L_37.707416_-97.135206@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044984,
+    "wof:geomhash":"b24e5555fffa2dbca5659151facf2dae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840654187
+        }
+    ],
+    "wof:id":840654187,
+    "wof:lastmodified":1464044984,
+    "wof:name":"Bob's Fence & Deck",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.135206,
+    37.707416,
+    -97.135206,
+    37.707416
+],
+  "geometry": {"coordinates":[-97.135206,37.707416],"type":"Point"}
+}

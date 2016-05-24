@@ -1,0 +1,73 @@
+{
+  "id": 840763523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.701843,38.95006,-95.701843,38.95006",
+    "geom:latitude":38.95006,
+    "geom:longitude":-95.701843,
+    "iso:country":"US",
+    "sg:address":"1836 SW 65th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 3900",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XvKRqBbeciJYDr1yLlgGe_38.950060_-95.701843@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047419,
+    "wof:geomhash":"e21734a229b3108ba78137cd569474e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840763523
+        }
+    ],
+    "wof:id":840763523,
+    "wof:lastmodified":1464047419,
+    "wof:name":"Champion Builders",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.701843,
+    38.95006,
+    -95.701843,
+    38.95006
+],
+  "geometry": {"coordinates":[-95.701843,38.95006],"type":"Point"}
+}

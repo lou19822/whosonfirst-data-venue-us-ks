@@ -1,0 +1,71 @@
+{
+  "id": 840713775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.212429,38.406984,-96.212429,38.406984",
+    "geom:latitude":38.406984,
+    "geom:longitude":-96.212429,
+    "iso:country":"US",
+    "sg:address":"710 Anderson St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6515",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dRnslGdi8e3gjFq0UWHR6_38.406984_-96.212429@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046379,
+    "wof:geomhash":"9721356b73c3ee9e441be86241535bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840713775
+        }
+    ],
+    "wof:id":840713775,
+    "wof:lastmodified":1464046379,
+    "wof:name":"Emporia Veterinary Hospital",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -96.212429,
+    38.406984,
+    -96.212429,
+    38.406984
+],
+  "geometry": {"coordinates":[-96.212429,38.406984],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840744865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.681734,39.070602,-94.681734,39.070602",
+    "geom:latitude":39.070602,
+    "geom:longitude":-94.681734,
+    "iso:country":"US",
+    "sg:address":"1545 S 45 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 789 7373",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852833,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wt8ky2VJDs2d4wEN44kX6_39.070602_-94.681734@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046985,
+    "wof:geomhash":"9ce8978179a7aec0025514850232c0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85852833,
+            "region_id":85688555,
+            "venue_id":840744865
+        }
+    ],
+    "wof:id":840744865,
+    "wof:lastmodified":1464046985,
+    "wof:name":"Bagel Works Catering Co",
+    "wof:parent_id":85852833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -94.681734,
+    39.070602,
+    -94.681734,
+    39.070602
+],
+  "geometry": {"coordinates":[-94.68173400000001,39.070602],"type":"Point"}
+}

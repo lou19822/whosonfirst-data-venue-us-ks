@@ -1,0 +1,72 @@
+{
+  "id": 840797951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.355937,37.651576,-97.355937,37.651576",
+    "geom:latitude":37.651576,
+    "geom:longitude":-97.355937,
+    "iso:country":"US",
+    "sg:address":"1224 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 5553",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.dollartree.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h4h25ORYpWYRuzEgppbEm_37.651576_-97.355937@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048153,
+    "wof:geomhash":"b1245bbdd960a0f0fc579810aa6af185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840797951
+        }
+    ],
+    "wof:id":840797951,
+    "wof:lastmodified":1464048153,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.355937,
+    37.651576,
+    -97.355937,
+    37.651576
+],
+  "geometry": {"coordinates":[-97.355937,37.651576],"type":"Point"}
+}

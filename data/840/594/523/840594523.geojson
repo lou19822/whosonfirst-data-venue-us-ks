@@ -1,0 +1,71 @@
+{
+  "id": 840594523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180065,38.402516,-96.180065,38.402516",
+    "geom:latitude":38.402516,
+    "geom:longitude":-96.180065,
+    "iso:country":"US",
+    "sg:address":"11 E 4th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9234",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GcbAQrVyqauim0Bc0OIpf_38.402516_-96.180065@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043526,
+    "wof:geomhash":"03b2525b26c78fa195c4f21551e59d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840594523
+        }
+    ],
+    "wof:id":840594523,
+    "wof:lastmodified":1464043526,
+    "wof:name":"Home Care Specialist",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -96.180065,
+    38.402516,
+    -96.180065,
+    38.402516
+],
+  "geometry": {"coordinates":[-96.180065,38.402516],"type":"Point"}
+}

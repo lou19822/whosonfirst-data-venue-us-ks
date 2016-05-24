@@ -1,0 +1,74 @@
+{
+  "id": 856701643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704948,37.433222,-94.704948,37.433222",
+    "geom:latitude":37.433222,
+    "geom:longitude":-94.704948,
+    "iso:country":"US",
+    "sg:address":"2720 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 8280",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "saving"
+    ],
+    "sg:website":"http://www.commerceonline.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6akjL2hEmS1PUYis98uetf_37.433776_-94.704842@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052095,
+    "wof:geomhash":"045f5b4044cbc135c7ec0976543098e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856701643
+        }
+    ],
+    "wof:id":856701643,
+    "wof:lastmodified":1464052095,
+    "wof:name":"Commerce Bank",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "saving"
+    ]
+},
+  "bbox": [
+    -94.704948,
+    37.433222,
+    -94.704948,
+    37.433222
+],
+  "geometry": {"coordinates":[-94.704948,37.433222],"type":"Point"}
+}

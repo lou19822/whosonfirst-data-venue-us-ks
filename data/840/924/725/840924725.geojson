@@ -1,0 +1,71 @@
+{
+  "id": 840924725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.648355,38.986081,-95.648355,38.986081",
+    "geom:latitude":38.986081,
+    "geom:longitude":-95.648355,
+    "iso:country":"US",
+    "sg:address":"2009 SE 45th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 1704",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "firework"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E9ToHStCSXKTE3QkYTs5e_38.986081_-95.648355@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051133,
+    "wof:geomhash":"6aafb474adccad9e8f710df888eb0546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840924725
+        }
+    ],
+    "wof:id":840924725,
+    "wof:lastmodified":1464051133,
+    "wof:name":"Jake's Fireworks",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firework"
+    ]
+},
+  "bbox": [
+    -95.648355,
+    38.986081,
+    -95.648355,
+    38.986081
+],
+  "geometry": {"coordinates":[-95.648355,38.986081],"type":"Point"}
+}

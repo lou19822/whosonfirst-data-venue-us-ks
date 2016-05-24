@@ -1,0 +1,73 @@
+{
+  "id": 840919825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.164565,38.408693,-96.164565,38.408693",
+    "geom:latitude":38.408693,
+    "geom:longitude":-96.164565,
+    "iso:country":"US",
+    "sg:address":"1130 E 9th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1553",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UWHhEKBnRIUDCrV9s6IRm_38.408693_-96.164565@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050986,
+    "wof:geomhash":"7c1f42bc63564b94bd3df7177fcbbbe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840919825
+        }
+    ],
+    "wof:id":840919825,
+    "wof:lastmodified":1464050986,
+    "wof:name":"Eagles Aerie",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -96.164565,
+    38.408693,
+    -96.164565,
+    38.408693
+],
+  "geometry": {"coordinates":[-96.164565,38.408693],"type":"Point"}
+}

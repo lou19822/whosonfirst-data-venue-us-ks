@@ -1,0 +1,77 @@
+{
+  "id": 840839709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.672703,39.060594,-95.672703,39.060594",
+    "geom:latitude":39.060594,
+    "geom:longitude":-95.672703,
+    "iso:country":"US",
+    "sg:address":"127 NW Van Buren St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 7408",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gg7VKdtSISGlhsqrvqSZe_39.060594_-95.672703@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049204,
+    "wof:geomhash":"5900481970cdb23b7c8f33421a0ea01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840839709
+        }
+    ],
+    "wof:id":840839709,
+    "wof:lastmodified":1464049204,
+    "wof:name":"Beisecker Mini-Max Storage",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -95.672703,
+    39.060594,
+    -95.672703,
+    39.060594
+],
+  "geometry": {"coordinates":[-95.672703,39.060594],"type":"Point"}
+}

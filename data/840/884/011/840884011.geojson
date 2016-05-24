@@ -1,0 +1,72 @@
+{
+  "id": 840884011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.685283,39.09079,-95.685283,39.09079",
+    "geom:latitude":39.09079,
+    "geom:longitude":-95.685283,
+    "iso:country":"US",
+    "sg:address":"725 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 4013",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "sg:website":"www.centralmechanical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Aeq5kKq1x8CgaHK7ins6s_39.090790_-95.685283@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050156,
+    "wof:geomhash":"517430da4fe0b8a31f2f31402e2e90a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840884011
+        }
+    ],
+    "wof:id":840884011,
+    "wof:lastmodified":1464050156,
+    "wof:name":"Central Mechanical Constr Co",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.685283,
+    39.09079,
+    -95.685283,
+    39.09079
+],
+  "geometry": {"coordinates":[-95.685283,39.09079],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840932111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.690681,39.110583,-95.690681,39.110583",
+    "geom:latitude":39.110583,
+    "geom:longitude":-95.690681,
+    "iso:country":"US",
+    "sg:address":"1710 NW Fredith Ln",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0337",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "photo",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sODonFaxpa355KkZx4PFD_39.110583_-95.690681@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051290,
+    "wof:geomhash":"91313b0fb1976890ba6c6f418a11591b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840932111
+        }
+    ],
+    "wof:id":840932111,
+    "wof:lastmodified":1464051290,
+    "wof:name":"Wallace & Wallace Color Svc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -95.690681,
+    39.110583,
+    -95.690681,
+    39.110583
+],
+  "geometry": {"coordinates":[-95.690681,39.110583],"type":"Point"}
+}

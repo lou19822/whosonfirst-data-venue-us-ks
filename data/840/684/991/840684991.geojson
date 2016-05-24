@@ -1,0 +1,73 @@
+{
+  "id": 840684991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.410019,37.726937,-97.410019,37.726937",
+    "geom:latitude":37.726937,
+    "geom:longitude":-97.410019,
+    "iso:country":"US",
+    "sg:address":"5725 W 23rd St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 0344",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4magEVgohvhD4cpuVSB8vw_37.726937_-97.410019@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045685,
+    "wof:geomhash":"540be2b146726b4c974e91e725ed7841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840684991
+        }
+    ],
+    "wof:id":840684991,
+    "wof:lastmodified":1464045685,
+    "wof:name":"Mobile Service Inc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -97.410019,
+    37.726937,
+    -97.410019,
+    37.726937
+],
+  "geometry": {"coordinates":[-97.41001900000001,37.726937],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840796273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.666231,39.053343,-95.666231,39.053343",
+    "geom:latitude":39.053343,
+    "geom:longitude":-95.666231,
+    "iso:country":"US",
+    "sg:address":"324 SE Jefferson St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 368 4000",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.topeka.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DlJa7b0dJLzzAn12OGhA0_39.053343_-95.666231@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048102,
+    "wof:geomhash":"e5395484775582ec3e4f3f38a31f3c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840796273
+        }
+    ],
+    "wof:id":840796273,
+    "wof:lastmodified":1464048102,
+    "wof:name":"Topeka Fire Dept",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.666231,
+    39.053343,
+    -95.666231,
+    39.053343
+],
+  "geometry": {"coordinates":[-95.666231,39.053343],"type":"Point"}
+}

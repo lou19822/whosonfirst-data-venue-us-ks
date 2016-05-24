@@ -1,0 +1,71 @@
+{
+  "id": 840873073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.818723,38.750876,-94.818723,38.750876",
+    "geom:latitude":38.750876,
+    "geom:longitude":-94.818723,
+    "iso:country":"US",
+    "sg:address":"702 N Lincoln St",
+    "sg:city":"Spring Hill",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 592 3878",
+    "sg:postcode":"66083",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ukGVI8sCjpwPUtUbnWhIW_38.750876_-94.818723@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049916,
+    "wof:geomhash":"4798d9edcb2980d336a682fd2b5dfb0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840873073
+        }
+    ],
+    "wof:id":840873073,
+    "wof:lastmodified":1464049916,
+    "wof:name":"Trans Services Inc",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.818723,
+    38.750876,
+    -94.818723,
+    38.750876
+],
+  "geometry": {"coordinates":[-94.81872300000001,38.750876],"type":"Point"}
+}

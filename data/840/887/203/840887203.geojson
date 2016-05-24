@@ -1,0 +1,78 @@
+{
+  "id": 840887203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.860126,38.978541,-94.860126,38.978541",
+    "geom:latitude":38.978541,
+    "geom:longitude":-94.860126,
+    "iso:country":"US",
+    "sg:address":"8245 Cole Pkwy",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 7387",
+    "sg:postcode":"66227",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "sg:website":"www.petsense.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835005,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10sJhSo04pbny9XVuvATuP_38.978541_-94.860126@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050223,
+    "wof:geomhash":"5e417477f6129c7864239f6601cfaab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85835005,
+            "region_id":85688555,
+            "venue_id":840887203
+        }
+    ],
+    "wof:id":840887203,
+    "wof:lastmodified":1464050223,
+    "wof:name":"Pet Sense Veterinary Ctr",
+    "wof:parent_id":85835005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.860126,
+    38.978541,
+    -94.860126,
+    38.978541
+],
+  "geometry": {"coordinates":[-94.86012599999999,38.978541],"type":"Point"}
+}

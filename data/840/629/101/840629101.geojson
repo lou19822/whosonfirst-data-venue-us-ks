@@ -1,0 +1,71 @@
+{
+  "id": 840629101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849806,37.81828,-96.849806,37.81828",
+    "geom:latitude":37.81828,
+    "geom:longitude":-96.849806,
+    "iso:country":"US",
+    "sg:address":"120 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 322 8418",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RnUTjqIWnpVp2pt69MjN3_37.818280_-96.849806@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044414,
+    "wof:geomhash":"615325b087545f3ccbc8b08b6e818287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840629101
+        }
+    ],
+    "wof:id":840629101,
+    "wof:lastmodified":1464044414,
+    "wof:name":"Katlan Enterprise",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.849806,
+    37.81828,
+    -96.849806,
+    37.81828
+],
+  "geometry": {"coordinates":[-96.849806,37.81828],"type":"Point"}
+}

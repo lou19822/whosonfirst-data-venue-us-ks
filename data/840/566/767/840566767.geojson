@@ -1,0 +1,73 @@
+{
+  "id": 840566767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.457651,37.725162,-97.457651,37.725162",
+    "geom:latitude":37.725162,
+    "geom:longitude":-97.457651,
+    "iso:country":"US",
+    "sg:address":"2314 N Valleyview St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 7767",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dP5939W664Pfb6hjFWZcG_37.725162_-97.457651@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042891,
+    "wof:geomhash":"967cbe8a95e0db2f0a28f7a6329779e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840566767
+        }
+    ],
+    "wof:id":840566767,
+    "wof:lastmodified":1464042891,
+    "wof:name":"Electrical Automation Svc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.457651,
+    37.725162,
+    -97.457651,
+    37.725162
+],
+  "geometry": {"coordinates":[-97.457651,37.725162],"type":"Point"}
+}

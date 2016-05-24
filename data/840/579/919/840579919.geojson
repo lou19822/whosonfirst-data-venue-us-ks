@@ -1,0 +1,71 @@
+{
+  "id": 840579919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848687,37.81992,-96.848687,37.81992",
+    "geom:latitude":37.81992,
+    "geom:longitude":-96.848687,
+    "iso:country":"US",
+    "sg:address":"123 E 2nd Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 7763",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ilognrFDf7do61pSQXpVR_37.819920_-96.848687@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043203,
+    "wof:geomhash":"c62ccd8059614e5e5a0a548b8a841098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840579919
+        }
+    ],
+    "wof:id":840579919,
+    "wof:lastmodified":1464043203,
+    "wof:name":"Big Brothers & Big Sisters",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.848687,
+    37.81992,
+    -96.848687,
+    37.81992
+],
+  "geometry": {"coordinates":[-96.848687,37.81992],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840845239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.691929,37.393131,-94.691929,37.393131",
+    "geom:latitude":37.393131,
+    "geom:longitude":-94.691929,
+    "iso:country":"US",
+    "sg:address":"702 Twin Lakes Dr",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 6006",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ecrNlgAefHnGW6PAQZFSK_37.393131_-94.691929@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049334,
+    "wof:geomhash":"e3758c4eadca3325e4266d7261be97ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840845239
+        }
+    ],
+    "wof:id":840845239,
+    "wof:lastmodified":1464049334,
+    "wof:name":"A & M Rentals Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rental"
+    ]
+},
+  "bbox": [
+    -94.691929,
+    37.393131,
+    -94.691929,
+    37.393131
+],
+  "geometry": {"coordinates":[-94.691929,37.393131],"type":"Point"}
+}

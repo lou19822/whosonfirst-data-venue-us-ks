@@ -1,0 +1,73 @@
+{
+  "id": 840791731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389734,37.701006,-97.389734,37.701006",
+    "geom:latitude":37.701006,
+    "geom:longitude":-97.389734,
+    "iso:country":"US",
+    "sg:address":"941 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 5431",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67FEkOQrcLJUz7datBKWpI_37.701006_-97.389734@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048017,
+    "wof:geomhash":"83862d846b94923e13bfd8eaf722e294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840791731
+        }
+    ],
+    "wof:id":840791731,
+    "wof:lastmodified":1464048017,
+    "wof:name":"B & J Television Svc",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -97.389734,
+    37.701006,
+    -97.389734,
+    37.701006
+],
+  "geometry": {"coordinates":[-97.389734,37.701006],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856705011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.702748,38.992656,-94.702748,38.992656",
+    "geom:latitude":38.992656,
+    "geom:longitude":-94.702748,
+    "iso:country":"US",
+    "sg:address":"10075 W 75th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/207372-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 7371",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879543,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MMPCYeooy2ZlQGnM3OERK_38.992656_-94.702748@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052170,
+    "wof:geomhash":"7611540ba5e97c754715c5babf763049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879543,
+            "region_id":85688555,
+            "venue_id":856705011
+        }
+    ],
+    "wof:id":856705011,
+    "wof:lastmodified":1464052170,
+    "wof:name":"Sonic",
+    "wof:parent_id":85879543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.702748,
+    38.992656,
+    -94.702748,
+    38.992656
+],
+  "geometry": {"coordinates":[-94.702748,38.992656],"type":"Point"}
+}

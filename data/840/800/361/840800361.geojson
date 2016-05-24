@@ -1,0 +1,71 @@
+{
+  "id": 840800361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686264,38.843669,-94.686264,38.843669",
+    "geom:latitude":38.843669,
+    "geom:longitude":-94.686264,
+    "iso:country":"US",
+    "sg:address":"15701 Antioch Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 814 9712",
+    "sg:postcode":"66221",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DiBTiaO8TEIVZha95IwCO_38.843669_-94.686264@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048210,
+    "wof:geomhash":"c1be2bcf275609ba586fe059dba0055b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840800361
+        }
+    ],
+    "wof:id":840800361,
+    "wof:lastmodified":1464048210,
+    "wof:name":"Wheatley",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -94.686264,
+    38.843669,
+    -94.686264,
+    38.843669
+],
+  "geometry": {"coordinates":[-94.68626399999999,38.843669],"type":"Point"}
+}

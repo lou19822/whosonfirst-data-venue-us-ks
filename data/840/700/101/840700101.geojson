@@ -1,0 +1,71 @@
+{
+  "id": 840700101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.723969,39.078229,-95.723969,39.078229",
+    "geom:latitude":39.078229,
+    "geom:longitude":-95.723969,
+    "iso:country":"US",
+    "sg:address":"1505 NW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 0454",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_575rHWFhW83nQlTIBYrt5n_39.078229_-95.723969@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046087,
+    "wof:geomhash":"26e79e169327cf4e00ed53d8dd590910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840700101
+        }
+    ],
+    "wof:id":840700101,
+    "wof:lastmodified":1464046087,
+    "wof:name":"A & M Mini Storage",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -95.723969,
+    39.078229,
+    -95.723969,
+    39.078229
+],
+  "geometry": {"coordinates":[-95.723969,39.078229],"type":"Point"}
+}

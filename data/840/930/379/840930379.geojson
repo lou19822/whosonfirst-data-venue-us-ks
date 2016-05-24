@@ -1,0 +1,77 @@
+{
+  "id": 840930379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687693,38.992049,-95.687693,38.992049",
+    "geom:latitude":38.992049,
+    "geom:longitude":-95.687693,
+    "iso:country":"US",
+    "sg:address":"4100 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 7301",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ubxX2b3hoIamBkmDGrxN2_38.992049_-95.687693@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051258,
+    "wof:geomhash":"d2acf957cb65c528333cbfa7002c2f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840930379
+        }
+    ],
+    "wof:id":840930379,
+    "wof:lastmodified":1464051258,
+    "wof:name":"South Topeka Blvd Auto Sales",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.687693,
+    38.992049,
+    -95.687693,
+    38.992049
+],
+  "geometry": {"coordinates":[-95.687693,38.992049],"type":"Point"}
+}

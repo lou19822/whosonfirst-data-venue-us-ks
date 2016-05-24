@@ -1,0 +1,84 @@
+{
+  "id": 856704481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.770749,38.884441,-94.770749,38.884441",
+    "geom:latitude":38.884441,
+    "geom:longitude":-94.770749,
+    "iso:country":"US",
+    "sg:address":"16180 W 135th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/149636-einstein-bros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 768 7900",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tsy2af7sTwfVJ3lnOOHMl_38.884441_-94.770749@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052159,
+    "wof:geomhash":"35c394285c876fb606a93cff5e9f357e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704481
+        }
+    ],
+    "wof:id":856704481,
+    "wof:lastmodified":1464052159,
+    "wof:name":"Einstein Bros",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -94.770749,
+    38.884441,
+    -94.770749,
+    38.884441
+],
+  "geometry": {"coordinates":[-94.770749,38.884441],"type":"Point"}
+}

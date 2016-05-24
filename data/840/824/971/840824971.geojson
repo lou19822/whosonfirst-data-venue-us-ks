@@ -1,0 +1,69 @@
+{
+  "id": 840824971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.86376,37.823187,-96.86376,37.823187",
+    "geom:latitude":37.823187,
+    "geom:longitude":-96.86376,
+    "iso:country":"US",
+    "sg:address":"515 N Summit St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 9623",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xo20mwQWEzoaRmlcr0rND_37.823187_-96.863760@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048891,
+    "wof:geomhash":"3e76bb2d6953506435835b147be1566c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840824971
+        }
+    ],
+    "wof:id":840824971,
+    "wof:lastmodified":1464048891,
+    "wof:name":"Flint Hlls Fire Rscue Appratus",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -96.86376,
+    37.823187,
+    -96.86376,
+    37.823187
+],
+  "geometry": {"coordinates":[-96.86376,37.823187],"type":"Point"}
+}

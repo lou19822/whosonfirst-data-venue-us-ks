@@ -1,0 +1,73 @@
+{
+  "id": 840918029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.706272,37.421249,-94.706272,37.421249",
+    "geom:latitude":37.421249,
+    "geom:longitude":-94.706272,
+    "iso:country":"US",
+    "sg:address":"108 W 15th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7500",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zCm8tSUdAxhYBha5rhPXU_37.421249_-94.706272@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050953,
+    "wof:geomhash":"4f18122f9b97b846b34111244662f9f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840918029
+        }
+    ],
+    "wof:id":840918029,
+    "wof:lastmodified":1464050953,
+    "wof:name":"Precision Driveline & Machine",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.706272,
+    37.421249,
+    -94.706272,
+    37.421249
+],
+  "geometry": {"coordinates":[-94.706272,37.421249],"type":"Point"}
+}

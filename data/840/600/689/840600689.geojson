@@ -1,0 +1,71 @@
+{
+  "id": 840600689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.429023,37.7813,-97.429023,37.7813",
+    "geom:latitude":37.7813,
+    "geom:longitude":-97.429023,
+    "iso:country":"US",
+    "sg:address":"7718 W 53rd St N",
+    "sg:city":"Maize",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 4214",
+    "sg:postcode":"67101",
+    "sg:province":"KS",
+    "sg:tags":[
+        "meter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s0h6PhJHC16mxDzMODEPU_37.781300_-97.429023@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043675,
+    "wof:geomhash":"8f6a758fe18f67857645265cb327dca6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840600689
+        }
+    ],
+    "wof:id":840600689,
+    "wof:lastmodified":1464043675,
+    "wof:name":"Meter Engineers",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meter"
+    ]
+},
+  "bbox": [
+    -97.429023,
+    37.7813,
+    -97.429023,
+    37.7813
+],
+  "geometry": {"coordinates":[-97.429023,37.7813],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840668959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.672759,39.09088,-95.672759,39.09088",
+    "geom:latitude":39.09088,
+    "geom:longitude":-95.672759,
+    "iso:country":"US",
+    "sg:address":"625 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 5188",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UBCSevRId1ZCvwUbLpwvF_39.090880_-95.672759@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045290,
+    "wof:geomhash":"3ea515d7da3de02c42820c36615fd084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840668959
+        }
+    ],
+    "wof:id":840668959,
+    "wof:lastmodified":1464045290,
+    "wof:name":"Animal Clinic Of North Topeka",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -95.672759,
+    39.09088,
+    -95.672759,
+    39.09088
+],
+  "geometry": {"coordinates":[-95.672759,39.09088],"type":"Point"}
+}

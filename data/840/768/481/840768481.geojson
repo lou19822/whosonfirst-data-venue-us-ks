@@ -1,0 +1,77 @@
+{
+  "id": 840768481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664693,39.090179,-95.664693,39.090179",
+    "geom:latitude":39.090179,
+    "geom:longitude":-95.664693,
+    "iso:country":"US",
+    "sg:address":"2315 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 2122",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aX9OiRSwnQC7UZF1FhqtB_39.090179_-95.664693@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047537,
+    "wof:geomhash":"e9813f3350ad33c60a4113b513f82bd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840768481
+        }
+    ],
+    "wof:id":840768481,
+    "wof:lastmodified":1464047537,
+    "wof:name":"After Dark Video",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.664693,
+    39.090179,
+    -95.664693,
+    39.090179
+],
+  "geometry": {"coordinates":[-95.664693,39.090179],"type":"Point"}
+}

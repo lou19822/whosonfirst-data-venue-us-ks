@@ -1,0 +1,71 @@
+{
+  "id": 840611725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.590366,39.05504,-95.590366,39.05504",
+    "geom:latitude":39.05504,
+    "geom:longitude":-95.590366,
+    "iso:country":"US",
+    "sg:address":"290 NE Goodell Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 379 5099",
+    "sg:postcode":"66616",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pallet",
+        "skid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5luf5OQ0sQbRBxIg56G2ZE_39.055040_-95.590366@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043959,
+    "wof:geomhash":"3074ebc6eee327b8f6585680f106a09c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840611725
+        }
+    ],
+    "wof:id":840611725,
+    "wof:lastmodified":1464043959,
+    "wof:name":"Capital City Pallet",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pallet",
+        "skid"
+    ]
+},
+  "bbox": [
+    -95.590366,
+    39.05504,
+    -95.590366,
+    39.05504
+],
+  "geometry": {"coordinates":[-95.590366,39.05504],"type":"Point"}
+}

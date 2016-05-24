@@ -1,0 +1,75 @@
+{
+  "id": 840910115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.385763,37.639049,-97.385763,37.639049",
+    "geom:latitude":37.639049,
+    "geom:longitude":-97.385763,
+    "iso:country":"US",
+    "sg:address":"3700 W 30th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 946 5740",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LmmIOVnky1GRZ7fmKy3PG_37.639049_-97.385763@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050732,
+    "wof:geomhash":"8928cbbce37a3af4d217308ab0e848a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840910115
+        }
+    ],
+    "wof:id":840910115,
+    "wof:lastmodified":1464050732,
+    "wof:name":"Trimac Transportation",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.385763,
+    37.639049,
+    -97.385763,
+    37.639049
+],
+  "geometry": {"coordinates":[-97.385763,37.639049],"type":"Point"}
+}

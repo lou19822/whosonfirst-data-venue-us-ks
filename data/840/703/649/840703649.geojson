@@ -1,0 +1,79 @@
+{
+  "id": 840703649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.76332,39.021378,-95.76332,39.021378",
+    "geom:latitude":39.021378,
+    "geom:longitude":-95.76332,
+    "iso:country":"US",
+    "sg:address":"6054 SW 25th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 9206",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LPS0BO4FLhlgacnT7Do4Z_39.021378_-95.763320@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046175,
+    "wof:geomhash":"e1eef78cbc5cb1b574f942c6ac1b6f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840703649
+        }
+    ],
+    "wof:id":840703649,
+    "wof:lastmodified":1464046175,
+    "wof:name":"Wietharn Trucking",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.76332,
+    39.021378,
+    -95.76332,
+    39.021378
+],
+  "geometry": {"coordinates":[-95.76331999999999,39.021378],"type":"Point"}
+}

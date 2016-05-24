@@ -1,0 +1,71 @@
+{
+  "id": 840665993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.462593,37.719956,-97.462593,37.719956",
+    "geom:latitude":37.719956,
+    "geom:longitude":-97.462593,
+    "iso:country":"US",
+    "sg:address":"2018 N Maize Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 7755",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DUDWGYp9o006fYe594C6h_37.719956_-97.462593@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045231,
+    "wof:geomhash":"5a9eb08d764f8dfff800646de0a49f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840665993
+        }
+    ],
+    "wof:id":840665993,
+    "wof:lastmodified":1464045231,
+    "wof:name":"Kingdom Hall-Jehovah's",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.462593,
+    37.719956,
+    -97.462593,
+    37.719956
+],
+  "geometry": {"coordinates":[-97.462593,37.719956],"type":"Point"}
+}

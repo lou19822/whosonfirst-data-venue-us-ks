@@ -1,0 +1,75 @@
+{
+  "id": 840754223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.794081,38.883627,-94.794081,38.883627",
+    "geom:latitude":38.883627,
+    "geom:longitude":-94.794081,
+    "iso:country":"US",
+    "sg:address":"105 N Chester St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 5352",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aM38MeavhboZ89QeuszGD_38.883627_-94.794081@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047203,
+    "wof:geomhash":"68f21ae1ae44a2d8f3c3ae85b2ab778c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840754223
+        }
+    ],
+    "wof:id":840754223,
+    "wof:lastmodified":1464047203,
+    "wof:name":"Asian Food Market",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.794081,
+    38.883627,
+    -94.794081,
+    38.883627
+],
+  "geometry": {"coordinates":[-94.79408100000001,38.883627],"type":"Point"}
+}

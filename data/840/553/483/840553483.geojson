@@ -1,0 +1,73 @@
+{
+  "id": 840553483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.385998,37.701947,-97.385998,37.701947",
+    "geom:latitude":37.701947,
+    "geom:longitude":-97.385998,
+    "iso:country":"US",
+    "sg:address":"1011 Verda St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 946 5538",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xMYLGekQ51j01EbHruYWK_37.701947_-97.385998@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042584,
+    "wof:geomhash":"393bde23e25451556fd6eefc2d99e669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840553483
+        }
+    ],
+    "wof:id":840553483,
+    "wof:lastmodified":1464042584,
+    "wof:name":"IPC Security",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -97.385998,
+    37.701947,
+    -97.385998,
+    37.701947
+],
+  "geometry": {"coordinates":[-97.385998,37.701947],"type":"Point"}
+}

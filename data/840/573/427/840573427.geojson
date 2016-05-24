@@ -1,0 +1,71 @@
+{
+  "id": 840573427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.176841,38.932024,-95.176841,38.932024",
+    "geom:latitude":38.932024,
+    "geom:longitude":-95.176841,
+    "iso:country":"US",
+    "sg:address":"1323 E 1750 Rd",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 843 7930",
+    "sg:postcode":"66046",
+    "sg:province":"KS",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85837065,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0br7Z1eNjXisNCczvWjNqd_38.932024_-95.176841@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043071,
+    "wof:geomhash":"65946379631245cfbbf8a92fde0a4869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085347,
+            "neighbourhood_id":85837065,
+            "region_id":85688555,
+            "venue_id":840573427
+        }
+    ],
+    "wof:id":840573427,
+    "wof:lastmodified":1464043071,
+    "wof:name":"LRM Industries",
+    "wof:parent_id":85837065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -95.176841,
+    38.932024,
+    -95.176841,
+    38.932024
+],
+  "geometry": {"coordinates":[-95.176841,38.932024],"type":"Point"}
+}

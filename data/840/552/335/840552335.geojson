@@ -1,0 +1,75 @@
+{
+  "id": 840552335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.860767,37.563296,-96.860767,37.563296",
+    "geom:latitude":37.563296,
+    "geom:longitude":-96.860767,
+    "iso:country":"US",
+    "sg:address":"716 SW 180th St",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 947 0240",
+    "sg:postcode":"67074",
+    "sg:province":"KS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yi1ONrhSCGUiWeX4VYURJ_37.563296_-96.860767@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042564,
+    "wof:geomhash":"a34beec7b50426938ce8d4aef2156579",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840552335
+        }
+    ],
+    "wof:id":840552335,
+    "wof:lastmodified":1464042564,
+    "wof:name":"Peters Cattle Co",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -96.860767,
+    37.563296,
+    -96.860767,
+    37.563296
+],
+  "geometry": {"coordinates":[-96.860767,37.563296],"type":"Point"}
+}

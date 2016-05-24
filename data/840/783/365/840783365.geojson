@@ -1,0 +1,71 @@
+{
+  "id": 840783365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.702477,37.393315,-94.702477,37.393315",
+    "geom:latitude":37.393315,
+    "geom:longitude":-94.702477,
+    "iso:country":"US",
+    "sg:address":"201 E Williams Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 8911",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xd35oyWB6sXtpirNH2nOY_37.393315_-94.702477@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047826,
+    "wof:geomhash":"605bc66b2461e3395345466ca07c1ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840783365
+        }
+    ],
+    "wof:id":840783365,
+    "wof:lastmodified":1464047826,
+    "wof:name":"Aids Resource Network",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -94.702477,
+    37.393315,
+    -94.702477,
+    37.393315
+],
+  "geometry": {"coordinates":[-94.702477,37.393315],"type":"Point"}
+}

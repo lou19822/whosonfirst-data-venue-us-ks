@@ -1,0 +1,71 @@
+{
+  "id": 840839529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352787,37.65759,-97.352787,37.65759",
+    "geom:latitude":37.65759,
+    "geom:longitude":-97.352787,
+    "iso:country":"US",
+    "sg:address":"2017 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 5198",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jkmmcERd7AspTrR9sOcz8_37.657590_-97.352787@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049201,
+    "wof:geomhash":"a4735ae2d7ab22664d7b62f8457fdd08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840839529
+        }
+    ],
+    "wof:id":840839529,
+    "wof:lastmodified":1464049201,
+    "wof:name":"Hawaiian Touch Tanning Salon",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -97.352787,
+    37.65759,
+    -97.352787,
+    37.65759
+],
+  "geometry": {"coordinates":[-97.35278700000001,37.65759],"type":"Point"}
+}

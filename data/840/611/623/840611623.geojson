@@ -1,0 +1,75 @@
+{
+  "id": 840611623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.317195,37.641521,-97.317195,37.641521",
+    "geom:latitude":37.641521,
+    "geom:longitude":-97.317195,
+    "iso:country":"US",
+    "sg:address":"2821 S Hydraulic St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 7411",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CrUlSLaBS0yQJMSSPVM6R_37.641521_-97.317195@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043957,
+    "wof:geomhash":"c93895d6b8fe7ddd82b3141623e9cd7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840611623
+        }
+    ],
+    "wof:id":840611623,
+    "wof:lastmodified":1464043957,
+    "wof:name":"Alcoholics Anonymous",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -97.317195,
+    37.641521,
+    -97.317195,
+    37.641521
+],
+  "geometry": {"coordinates":[-97.317195,37.641521],"type":"Point"}
+}

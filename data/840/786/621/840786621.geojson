@@ -1,0 +1,73 @@
+{
+  "id": 840786621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.407421,37.636582,-97.407421,37.636582",
+    "geom:latitude":37.636582,
+    "geom:longitude":-97.407421,
+    "iso:country":"US",
+    "sg:address":"3301 S Hoover Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 0111",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b1vzcQAuehNEp3EDlPfJj_37.636582_-97.407421@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047913,
+    "wof:geomhash":"d6d04a244e74b9ec199ad930b007f2ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840786621
+        }
+    ],
+    "wof:id":840786621,
+    "wof:lastmodified":1464047913,
+    "wof:name":"CNH Wichita",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "construction"
+    ]
+},
+  "bbox": [
+    -97.407421,
+    37.636582,
+    -97.407421,
+    37.636582
+],
+  "geometry": {"coordinates":[-97.407421,37.636582],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840950951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.743215,38.859093,-94.743215,38.859093",
+    "geom:latitude":38.859093,
+    "geom:longitude":-94.743215,
+    "iso:country":"US",
+    "sg:address":"14944 S Summit St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 254 7322",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47J8HWodv6YXJACiRuVzcV_38.859093_-94.743215@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051670,
+    "wof:geomhash":"80f35f42ae7ef6854fc4c8c870d7d3cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840950951
+        }
+    ],
+    "wof:id":840950951,
+    "wof:lastmodified":1464051670,
+    "wof:name":"Kinderdance",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -94.743215,
+    38.859093,
+    -94.743215,
+    38.859093
+],
+  "geometry": {"coordinates":[-94.74321500000001,38.859093],"type":"Point"}
+}

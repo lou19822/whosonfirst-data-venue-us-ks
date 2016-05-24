@@ -1,0 +1,71 @@
+{
+  "id": 840805981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.39448,37.680148,-97.39448,37.680148",
+    "geom:latitude":37.680148,
+    "geom:longitude":-97.39448,
+    "iso:country":"US",
+    "sg:address":"4601 W Maple St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 4723",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qGCgzGFsn0CrAstgGNVns_37.680148_-97.394480@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048317,
+    "wof:geomhash":"a3c6b7f5b5a9ed1f92483677e432bb2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840805981
+        }
+    ],
+    "wof:id":840805981,
+    "wof:lastmodified":1464048317,
+    "wof:name":"Christ The King",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.39448,
+    37.680148,
+    -97.39448,
+    37.680148
+],
+  "geometry": {"coordinates":[-97.39448,37.680148],"type":"Point"}
+}

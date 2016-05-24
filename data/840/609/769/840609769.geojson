@@ -1,0 +1,73 @@
+{
+  "id": 840609769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.386682,37.694725,-97.386682,37.694725",
+    "geom:latitude":37.694725,
+    "geom:longitude":-97.386682,
+    "iso:country":"US",
+    "sg:address":"3729 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 8020",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JRWu1IBN9T6DS9tGwPwCs_37.694725_-97.386682@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043914,
+    "wof:geomhash":"3e5d3b78c6c644ad9b0692513bc7c2ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840609769
+        }
+    ],
+    "wof:id":840609769,
+    "wof:lastmodified":1464043914,
+    "wof:name":"Theracare",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -97.386682,
+    37.694725,
+    -97.386682,
+    37.694725
+],
+  "geometry": {"coordinates":[-97.38668199999999,37.694725],"type":"Point"}
+}

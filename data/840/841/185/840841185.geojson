@@ -1,0 +1,73 @@
+{
+  "id": 840841185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.093408,39.119554,-95.093408,39.119554",
+    "geom:latitude":39.119554,
+    "geom:longitude":-95.093408,
+    "iso:country":"US",
+    "sg:address":"515 Smiley Rd",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 3105",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E5UhOGwSGwRrmM3789GnC_39.119554_-95.093408@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049252,
+    "wof:geomhash":"5887b82ff2830bf0a93d894632d46584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840841185
+        }
+    ],
+    "wof:id":840841185,
+    "wof:lastmodified":1464049252,
+    "wof:name":"Bailey Electric Inc",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.093408,
+    39.119554,
+    -95.093408,
+    39.119554
+],
+  "geometry": {"coordinates":[-95.093408,39.119554],"type":"Point"}
+}

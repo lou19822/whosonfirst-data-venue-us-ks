@@ -1,0 +1,73 @@
+{
+  "id": 840932839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.451208,37.714214,-97.451208,37.714214",
+    "geom:latitude":37.714214,
+    "geom:longitude":-97.451208,
+    "iso:country":"US",
+    "sg:address":"9344 W 16th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 260 6426",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "vending"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q032S0uxP1XK4qCJ5hnms_37.714214_-97.451208@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051304,
+    "wof:geomhash":"490dd2566fe819dbbe16f35c36fe3852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840932839
+        }
+    ],
+    "wof:id":840932839,
+    "wof:lastmodified":1464051304,
+    "wof:name":"SC Vending Comp",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "vending"
+    ]
+},
+  "bbox": [
+    -97.451208,
+    37.714214,
+    -97.451208,
+    37.714214
+],
+  "geometry": {"coordinates":[-97.45120799999999,37.714214],"type":"Point"}
+}

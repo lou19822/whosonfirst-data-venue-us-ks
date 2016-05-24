@@ -1,0 +1,73 @@
+{
+  "id": 840906487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.189196,38.417539,-96.189196,38.417539",
+    "geom:latitude":38.417539,
+    "geom:longitude":-96.189196,
+    "iso:country":"US",
+    "sg:address":"1501 West St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9287",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WSbdlCoF5SziWCFbY0INH_38.417539_-96.189196@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050621,
+    "wof:geomhash":"2ba8a360a9a2c4750c3cd37eb0385e06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840906487
+        }
+    ],
+    "wof:id":840906487,
+    "wof:lastmodified":1464050621,
+    "wof:name":"Scott Rentals",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -96.189196,
+    38.417539,
+    -96.189196,
+    38.417539
+],
+  "geometry": {"coordinates":[-96.189196,38.417539],"type":"Point"}
+}

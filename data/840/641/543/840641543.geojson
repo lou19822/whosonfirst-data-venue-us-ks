@@ -1,0 +1,71 @@
+{
+  "id": 840641543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.214926,38.415876,-96.214926,38.415876",
+    "geom:latitude":38.415876,
+    "geom:longitude":-96.214926,
+    "iso:country":"US",
+    "sg:address":"2721 W 15th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4564",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fXRnWJQojVyh5aq1PwkjL_38.415876_-96.214926@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044710,
+    "wof:geomhash":"66c0b9b07f8979d82f38dd944c500377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840641543
+        }
+    ],
+    "wof:id":840641543,
+    "wof:lastmodified":1464044710,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.214926,
+    38.415876,
+    -96.214926,
+    38.415876
+],
+  "geometry": {"coordinates":[-96.21492600000001,38.415876],"type":"Point"}
+}

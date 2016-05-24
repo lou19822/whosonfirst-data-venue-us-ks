@@ -1,0 +1,86 @@
+{
+  "id": 840664235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.607996,38.964034,-94.607996,38.964034",
+    "geom:latitude":38.964034,
+    "geom:longitude":-94.607996,
+    "iso:country":"US",
+    "sg:address":"1717 W 91 Pl",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 361 5522",
+    "sg:postcode":"64114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "food",
+        "packaging",
+        "material",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871969,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fruxNhVqGd25rO8o44yuA_38.964034_-94.607996@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045193,
+    "wof:geomhash":"2c8024b56e053e86b7588818dba59a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871969,
+            "region_id":85688661,
+            "venue_id":840664235
+        }
+    ],
+    "wof:id":840664235,
+    "wof:lastmodified":1464045193,
+    "wof:name":"D Thomas & Associates Inc",
+    "wof:parent_id":85871969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "packaging",
+        "material",
+        "broker"
+    ]
+},
+  "bbox": [
+    -94.607996,
+    38.964034,
+    -94.607996,
+    38.964034
+],
+  "geometry": {"coordinates":[-94.607996,38.964034],"type":"Point"}
+}

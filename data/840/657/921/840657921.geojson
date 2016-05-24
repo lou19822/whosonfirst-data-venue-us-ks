@@ -1,0 +1,75 @@
+{
+  "id": 840657921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.643965,38.912994,-94.643965,38.912994",
+    "geom:latitude":38.912994,
+    "geom:longitude":-94.643965,
+    "iso:country":"US",
+    "sg:address":"4872 W 119th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 663 1121",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s78VDlTTLlFft9JIqSiMU_38.912994_-94.643965@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045065,
+    "wof:geomhash":"d85fba499e03a3f452cb6aade622c623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840657921
+        }
+    ],
+    "wof:id":840657921,
+    "wof:lastmodified":1464045065,
+    "wof:name":"Commercial Building Maint",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -94.643965,
+    38.912994,
+    -94.643965,
+    38.912994
+],
+  "geometry": {"coordinates":[-94.64396499999999,38.912994],"type":"Point"}
+}

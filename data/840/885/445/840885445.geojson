@@ -1,0 +1,72 @@
+{
+  "id": 840885445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352614,37.643314,-97.352614,37.643314",
+    "geom:latitude":37.643314,
+    "geom:longitude":-97.352614,
+    "iso:country":"US",
+    "sg:address":"2801 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 2383",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stannewichita.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fYNj4ByVDv6EnFKW4aftb_37.643314_-97.352614@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050187,
+    "wof:geomhash":"b2e7a8def7f93eca5b8557d05d89fa04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840885445
+        }
+    ],
+    "wof:id":840885445,
+    "wof:lastmodified":1464050187,
+    "wof:name":"St Anne Church",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.352614,
+    37.643314,
+    -97.352614,
+    37.643314
+],
+  "geometry": {"coordinates":[-97.352614,37.643314],"type":"Point"}
+}

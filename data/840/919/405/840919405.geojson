@@ -1,0 +1,81 @@
+{
+  "id": 840919405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.670115,39.059585,-94.670115,39.059585",
+    "geom:latitude":39.059585,
+    "geom:longitude":-94.670115,
+    "iso:country":"US",
+    "sg:address":"3609 Victoria Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 6438",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "operator",
+        "vending",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803445,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tn48EcuqbMp9dLCJLhy8z_39.059585_-94.670115@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050978,
+    "wof:geomhash":"80f5529bfefad97c739d8c07e2653c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85803445,
+            "region_id":85688555,
+            "venue_id":840919405
+        }
+    ],
+    "wof:id":840919405,
+    "wof:lastmodified":1464050978,
+    "wof:name":"Meyer Vending",
+    "wof:parent_id":85803445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "operator",
+        "vending",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -94.670115,
+    39.059585,
+    -94.670115,
+    39.059585
+],
+  "geometry": {"coordinates":[-94.670115,39.059585],"type":"Point"}
+}

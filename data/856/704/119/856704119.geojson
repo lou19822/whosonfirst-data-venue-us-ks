@@ -1,0 +1,76 @@
+{
+  "id": 856704119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.83008,38.851,-94.83008,38.851",
+    "geom:latitude":38.851,
+    "geom:longitude":-94.83008,
+    "iso:country":"US",
+    "sg:address":"21300 W 153rd St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/8631-red-robin/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 390 1400",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yo5fNIM785wndPTEfJVHm_38.851000_-94.830080@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052153,
+    "wof:geomhash":"e25413ee2cdc44bd0c79c2020baabdca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704119
+        }
+    ],
+    "wof:id":856704119,
+    "wof:lastmodified":1464052153,
+    "wof:name":"Red Robin",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.83008,
+    38.851,
+    -94.83008,
+    38.851
+],
+  "geometry": {"coordinates":[-94.83008,38.851],"type":"Point"}
+}

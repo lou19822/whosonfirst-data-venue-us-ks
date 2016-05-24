@@ -1,0 +1,71 @@
+{
+  "id": 840560021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.732736,39.144099,-95.732736,39.144099",
+    "geom:latitude":39.144099,
+    "geom:longitude":-95.732736,
+    "iso:country":"US",
+    "sg:address":"4846 NW 54th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 1200",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rbVRqlL7rtuV0Lpg8JUr7_39.144099_-95.732736@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042736,
+    "wof:geomhash":"6496049989fbc48096944784caaa1fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840560021
+        }
+    ],
+    "wof:id":840560021,
+    "wof:lastmodified":1464042736,
+    "wof:name":"Heritage Home Improvement Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -95.732736,
+    39.144099,
+    -95.732736,
+    39.144099
+],
+  "geometry": {"coordinates":[-95.732736,39.144099],"type":"Point"}
+}

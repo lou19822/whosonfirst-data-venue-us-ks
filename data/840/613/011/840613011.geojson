@@ -1,0 +1,73 @@
+{
+  "id": 840613011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.916553,39.131176,-94.916553,39.131176",
+    "geom:latitude":39.131176,
+    "geom:longitude":-94.916553,
+    "iso:country":"US",
+    "sg:address":"14510 Parallel Ln",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 7400",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QJGt8yTq6rQe0u3WBKYkt_39.131176_-94.916553@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043997,
+    "wof:geomhash":"bf965707be28cd57ae627f65a8d30e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840613011
+        }
+    ],
+    "wof:id":840613011,
+    "wof:lastmodified":1464043997,
+    "wof:name":"Midwest Concrete Placement",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.916553,
+    39.131176,
+    -94.916553,
+    39.131176
+],
+  "geometry": {"coordinates":[-94.91655299999999,39.131176],"type":"Point"}
+}

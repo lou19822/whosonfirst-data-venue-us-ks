@@ -1,0 +1,71 @@
+{
+  "id": 840754677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180273,38.399604,-96.180273,38.399604",
+    "geom:latitude":38.399604,
+    "geom:longitude":-96.180273,
+    "iso:country":"US",
+    "sg:address":"115 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 0158",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wUXv21IH0MQTqUFzGoRET_38.399604_-96.180273@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047213,
+    "wof:geomhash":"b303e2da92415af9fb960dc8bcf7bbc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840754677
+        }
+    ],
+    "wof:id":840754677,
+    "wof:lastmodified":1464047213,
+    "wof:name":"Reeble's",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -96.180273,
+    38.399604,
+    -96.180273,
+    38.399604
+],
+  "geometry": {"coordinates":[-96.180273,38.399604],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840783763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.737476,37.02783,-94.737476,37.02783",
+    "geom:latitude":37.02783,
+    "geom:longitude":-94.737476,
+    "iso:country":"US",
+    "sg:address":"217 W 8th St",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 3955",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vnTILAdwWyQS658OxLla4_37.027830_-94.737476@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047834,
+    "wof:geomhash":"5b93bd5baad8751315aa0fa2a984c8af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840783763
+        }
+    ],
+    "wof:id":840783763,
+    "wof:lastmodified":1464047834,
+    "wof:name":"Church Of The Nazarene",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.737476,
+    37.02783,
+    -94.737476,
+    37.02783
+],
+  "geometry": {"coordinates":[-94.737476,37.02783],"type":"Point"}
+}

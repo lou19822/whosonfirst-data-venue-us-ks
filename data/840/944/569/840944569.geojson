@@ -1,0 +1,79 @@
+{
+  "id": 840944569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.768774,39.044512,-95.768774,39.044512",
+    "geom:latitude":39.044512,
+    "geom:longitude":-95.768774,
+    "iso:country":"US",
+    "sg:address":"1201 SW Executive Dr",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 2720",
+    "sg:postcode":"66615",
+    "sg:province":"KS",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BWxZT6jNCSS96vbWg2S4M_39.044512_-95.768774@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051543,
+    "wof:geomhash":"aacd7d51e80220a004b92baac494a63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840944569
+        }
+    ],
+    "wof:id":840944569,
+    "wof:lastmodified":1464051543,
+    "wof:name":"USDA Rural Development",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -95.768774,
+    39.044512,
+    -95.768774,
+    39.044512
+],
+  "geometry": {"coordinates":[-95.76877399999999,39.044512],"type":"Point"}
+}

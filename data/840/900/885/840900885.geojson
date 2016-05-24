@@ -1,0 +1,71 @@
+{
+  "id": 840900885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.870527,37.817466,-96.870527,37.817466",
+    "geom:latitude":37.817466,
+    "geom:longitude":-96.870527,
+    "iso:country":"US",
+    "sg:address":"1624 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 0030",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G7j5yryP3Eu4UtH3XQZBZ_37.817466_-96.870527@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050515,
+    "wof:geomhash":"2f215c22dbafa66154f347eaf2a59ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840900885
+        }
+    ],
+    "wof:id":840900885,
+    "wof:lastmodified":1464050515,
+    "wof:name":"Leather Works",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -96.870527,
+    37.817466,
+    -96.870527,
+    37.817466
+],
+  "geometry": {"coordinates":[-96.870527,37.817466],"type":"Point"}
+}

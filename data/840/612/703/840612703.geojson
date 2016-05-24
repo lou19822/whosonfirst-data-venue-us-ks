@@ -1,0 +1,71 @@
+{
+  "id": 840612703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.642932,39.005033,-95.642932,39.005033",
+    "geom:latitude":39.005033,
+    "geom:longitude":-95.642932,
+    "iso:country":"US",
+    "sg:address":"3436 SE Highland Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 7604",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t0BlF7fEXfkHXTRkdAfLB_39.005033_-95.642932@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043986,
+    "wof:geomhash":"15ec163b0eae701df2d7f9980e71e75c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840612703
+        }
+    ],
+    "wof:id":840612703,
+    "wof:lastmodified":1464043986,
+    "wof:name":"Patterson Investigations",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -95.642932,
+    39.005033,
+    -95.642932,
+    39.005033
+],
+  "geometry": {"coordinates":[-95.642932,39.005033],"type":"Point"}
+}

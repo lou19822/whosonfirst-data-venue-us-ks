@@ -1,0 +1,67 @@
+{
+  "id": 840640849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.087367,39.109169,-95.087367,39.109169",
+    "geom:latitude":39.109169,
+    "geom:longitude":-95.087367,
+    "iso:country":"US",
+    "sg:address":"526 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2230",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28H0ugApf6S1cnTV4XNEx8_39.109169_-95.087367@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044695,
+    "wof:geomhash":"e5d21bf78f81aaaa514d0382e98cbdb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840640849
+        }
+    ],
+    "wof:id":840640849,
+    "wof:lastmodified":1464044695,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.087367,
+    39.109169,
+    -95.087367,
+    39.109169
+],
+  "geometry": {"coordinates":[-95.087367,39.109169],"type":"Point"}
+}

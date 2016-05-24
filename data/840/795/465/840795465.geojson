@@ -1,0 +1,80 @@
+{
+  "id": 840795465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.675859,39.049387,-95.675859,39.049387",
+    "geom:latitude":39.049387,
+    "geom:longitude":-95.675859,
+    "iso:country":"US",
+    "sg:address":"714 SW Jackson St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 296 4213",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "sg:website":"www.ksjja.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XUaWRcosj0Pw0pHfVTpro_39.049387_-95.675859@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048087,
+    "wof:geomhash":"d1d5d0b64f0197085f9611e831d8c269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840795465
+        }
+    ],
+    "wof:id":840795465,
+    "wof:lastmodified":1464048087,
+    "wof:name":"Kansas Juvenile Justice Auth",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -95.675859,
+    39.049387,
+    -95.675859,
+    39.049387
+],
+  "geometry": {"coordinates":[-95.675859,39.049387],"type":"Point"}
+}

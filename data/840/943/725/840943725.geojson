@@ -1,0 +1,73 @@
+{
+  "id": 840943725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.748289,39.088923,-95.748289,39.088923",
+    "geom:latitude":39.088923,
+    "geom:longitude":-95.748289,
+    "iso:country":"US",
+    "sg:address":"1731 NW Menoken Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 6612",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r6iJfO8sRP2xRETZVIgv3_39.088923_-95.748289@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051529,
+    "wof:geomhash":"eea4d0a734799063a10d62f6ece5f890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840943725
+        }
+    ],
+    "wof:id":840943725,
+    "wof:lastmodified":1464051529,
+    "wof:name":"Holly Lane Kennels",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -95.748289,
+    39.088923,
+    -95.748289,
+    39.088923
+],
+  "geometry": {"coordinates":[-95.748289,39.088923],"type":"Point"}
+}

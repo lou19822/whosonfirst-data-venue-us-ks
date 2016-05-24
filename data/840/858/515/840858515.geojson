@@ -1,0 +1,71 @@
+{
+  "id": 840858515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.170894,38.405043,-96.170894,38.405043",
+    "geom:latitude":38.405043,
+    "geom:longitude":-96.170894,
+    "iso:country":"US",
+    "sg:address":"702 E 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9980",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xpxsedynVhINQZrvjOe2W_38.405043_-96.170894@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049628,
+    "wof:geomhash":"483b76c3414506ee0efab5a405582b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840858515
+        }
+    ],
+    "wof:id":840858515,
+    "wof:lastmodified":1464049628,
+    "wof:name":"Dennis Auto Sales",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -96.170894,
+    38.405043,
+    -96.170894,
+    38.405043
+],
+  "geometry": {"coordinates":[-96.170894,38.405043],"type":"Point"}
+}

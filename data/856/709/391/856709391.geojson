@@ -1,0 +1,76 @@
+{
+  "id": 856709391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352232,37.648926,-97.352232,37.648926",
+    "geom:latitude":37.648926,
+    "geom:longitude":-97.352232,
+    "iso:country":"US",
+    "sg:address":"2504 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/174304-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 8377",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yd3evtjfYukqLlbwsE2vE_37.648926_-97.352232@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052254,
+    "wof:geomhash":"dd1cddf1444fc22e81fdc21d2ebcab4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":856709391
+        }
+    ],
+    "wof:id":856709391,
+    "wof:lastmodified":1464052254,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -97.352232,
+    37.648926,
+    -97.352232,
+    37.648926
+],
+  "geometry": {"coordinates":[-97.352232,37.648926],"type":"Point"}
+}

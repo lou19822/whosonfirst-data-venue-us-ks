@@ -1,0 +1,77 @@
+{
+  "id": 840852739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724519,39.065035,-95.724519,39.065035",
+    "geom:latitude":39.065035,
+    "geom:longitude":-95.724519,
+    "iso:country":"US",
+    "sg:address":"220 SW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 296 3102",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "patrol",
+        "highway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881541,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f5rfEyXOXy15GJrMGR5Na_39.065035_-95.724519@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049504,
+    "wof:geomhash":"49a10298e246aa5544ad7d53d84a6e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881541,
+            "region_id":85688555,
+            "venue_id":840852739
+        }
+    ],
+    "wof:id":840852739,
+    "wof:lastmodified":1464049504,
+    "wof:name":"Troop B",
+    "wof:parent_id":85881541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "patrol",
+        "highway"
+    ]
+},
+  "bbox": [
+    -95.724519,
+    39.065035,
+    -95.724519,
+    39.065035
+],
+  "geometry": {"coordinates":[-95.724519,39.065035],"type":"Point"}
+}

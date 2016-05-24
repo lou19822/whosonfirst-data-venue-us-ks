@@ -1,0 +1,77 @@
+{
+  "id": 840848471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.408629,37.798955,-97.408629,37.798955",
+    "geom:latitude":37.798955,
+    "geom:longitude":-97.408629,
+    "iso:country":"US",
+    "sg:address":"6327 N Hoover Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 755 0900",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "supply",
+        "contractor",
+        "welding",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DWKKOKn3OAuRd2lMFcLyW_37.798955_-97.408629@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049408,
+    "wof:geomhash":"e06f76e4240b24f759dfcc2e64e0f6d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840848471
+        }
+    ],
+    "wof:id":840848471,
+    "wof:lastmodified":1464049408,
+    "wof:name":"S&W Welding & Repair",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "contractor",
+        "welding",
+        "trade"
+    ]
+},
+  "bbox": [
+    -97.408629,
+    37.798955,
+    -97.408629,
+    37.798955
+],
+  "geometry": {"coordinates":[-97.408629,37.798955],"type":"Point"}
+}

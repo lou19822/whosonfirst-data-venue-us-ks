@@ -1,0 +1,71 @@
+{
+  "id": 840886241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.373285,37.70886,-97.373285,37.70886",
+    "geom:latitude":37.70886,
+    "geom:longitude":-97.373285,
+    "iso:country":"US",
+    "sg:address":"2526 W 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 304 1006",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "preparation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TP52lIbZA1ntn4El0s6oG_37.708860_-97.373285@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050204,
+    "wof:geomhash":"0fa421d048bedc1082f137cb3c597b50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840886241
+        }
+    ],
+    "wof:id":840886241,
+    "wof:lastmodified":1464050204,
+    "wof:name":"Healy Food Products LTD",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation"
+    ]
+},
+  "bbox": [
+    -97.373285,
+    37.70886,
+    -97.373285,
+    37.70886
+],
+  "geometry": {"coordinates":[-97.373285,37.70886],"type":"Point"}
+}

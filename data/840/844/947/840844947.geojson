@@ -1,0 +1,79 @@
+{
+  "id": 840844947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.257846,37.707665,-97.257846,37.707665",
+    "geom:latitude":37.707665,
+    "geom:longitude":-97.257846,
+    "iso:country":"US",
+    "sg:address":"1307 N Armour St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 612 0648",
+    "sg:postcode":"67206",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834565,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oIz3ZSRT88OYsnU0jWuJ0_37.707665_-97.257846@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049329,
+    "wof:geomhash":"10c5d781117f2b87246b58368bbcc88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85834565,
+            "region_id":85688555,
+            "venue_id":840844947
+        }
+    ],
+    "wof:id":840844947,
+    "wof:lastmodified":1464049329,
+    "wof:name":"Tracey's Pet Grooming",
+    "wof:parent_id":85834565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -97.257846,
+    37.707665,
+    -97.257846,
+    37.707665
+],
+  "geometry": {"coordinates":[-97.257846,37.707665],"type":"Point"}
+}

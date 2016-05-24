@@ -1,0 +1,71 @@
+{
+  "id": 840689645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.216986,38.425677,-96.216986,38.425677",
+    "geom:latitude":38.425677,
+    "geom:longitude":-96.216986,
+    "iso:country":"US",
+    "sg:address":"2300 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 1453",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xmJvnRHV87zQ4iYnyTkV7_38.425677_-96.216986@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045807,
+    "wof:geomhash":"f0f2e6486351567848079bafd247598f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840689645
+        }
+    ],
+    "wof:id":840689645,
+    "wof:lastmodified":1464045807,
+    "wof:name":"Jones Health Ctr",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.216986,
+    38.425677,
+    -96.216986,
+    38.425677
+],
+  "geometry": {"coordinates":[-96.21698600000001,38.425677],"type":"Point"}
+}

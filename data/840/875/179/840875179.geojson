@@ -1,0 +1,71 @@
+{
+  "id": 840875179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705702,37.381708,-94.705702,37.381708",
+    "geom:latitude":37.381708,
+    "geom:longitude":-94.705702,
+    "iso:country":"US",
+    "sg:address":"107 W Centennial Dr",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 2215",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qJD7ysQId4p1x5Nc5EcFq_37.381708_-94.705702@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049953,
+    "wof:geomhash":"b1076a9fa65f2074b8845771a8859f41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840875179
+        }
+    ],
+    "wof:id":840875179,
+    "wof:lastmodified":1464049953,
+    "wof:name":"Regional Care Hospice Pittsbrg",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -94.705702,
+    37.381708,
+    -94.705702,
+    37.381708
+],
+  "geometry": {"coordinates":[-94.705702,37.381708],"type":"Point"}
+}

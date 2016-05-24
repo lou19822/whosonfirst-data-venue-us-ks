@@ -1,0 +1,74 @@
+{
+  "id": 856708379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.36471,37.72313,-97.36471,37.72313",
+    "geom:latitude":37.72313,
+    "geom:longitude":-97.36471,
+    "iso:country":"US",
+    "sg:address":"2090 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/200392-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 1761",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zGtdOivfTrg5nho8gcYvH_37.723130_-97.364710@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052236,
+    "wof:geomhash":"774c28821779f4b7362bedbf9e60400c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":856708379
+        }
+    ],
+    "wof:id":856708379,
+    "wof:lastmodified":1464052236,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.36471,
+    37.72313,
+    -97.36471,
+    37.72313
+],
+  "geometry": {"coordinates":[-97.36471,37.72313],"type":"Point"}
+}

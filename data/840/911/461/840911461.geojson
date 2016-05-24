@@ -1,0 +1,77 @@
+{
+  "id": 840911461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.236872,37.655327,-97.236872,37.655327",
+    "geom:latitude":37.655327,
+    "geom:longitude":-97.236872,
+    "iso:country":"US",
+    "sg:address":"8649 Cherry Creek Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 687 1100",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806685,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fL94nxxCGwUnve1dBNK7D_37.655327_-97.236872@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050774,
+    "wof:geomhash":"1790eb6ed2ddf9aa74a6c3632fc197bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85806685,
+            "region_id":85688555,
+            "venue_id":840911461
+        }
+    ],
+    "wof:id":840911461,
+    "wof:lastmodified":1464050774,
+    "wof:name":"Robert P Norris MD",
+    "wof:parent_id":85806685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.236872,
+    37.655327,
+    -97.236872,
+    37.655327
+],
+  "geometry": {"coordinates":[-97.23687200000001,37.655327],"type":"Point"}
+}

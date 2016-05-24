@@ -1,0 +1,79 @@
+{
+  "id": 840855935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.732121,39.014862,-94.732121,39.014862",
+    "geom:latitude":39.014862,
+    "geom:longitude":-94.732121,
+    "iso:country":"US",
+    "sg:address":"12692 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 268 7226",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22yDf3XcvmtvopkoeUEyIF_39.014862_-94.732121@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049567,
+    "wof:geomhash":"d4014f943d7fad23a714f790c7959d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":840855935
+        }
+    ],
+    "wof:id":840855935,
+    "wof:lastmodified":1464049567,
+    "wof:name":"Accu-Screen Inc",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -94.732121,
+    39.014862,
+    -94.732121,
+    39.014862
+],
+  "geometry": {"coordinates":[-94.73212100000001,39.014862],"type":"Point"}
+}

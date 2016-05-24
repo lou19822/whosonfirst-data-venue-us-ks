@@ -1,0 +1,73 @@
+{
+  "id": 840929761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389253,37.637943,-97.389253,37.637943",
+    "geom:latitude":37.637943,
+    "geom:longitude":-97.389253,
+    "iso:country":"US",
+    "sg:address":"3151 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 3838",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "boring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e57RsS6oUuXU1y51cJnpY_37.637943_-97.389253@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051242,
+    "wof:geomhash":"34eb9e3bf174cd2a75d4df1e07219d15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840929761
+        }
+    ],
+    "wof:id":840929761,
+    "wof:lastmodified":1464051242,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.389253,
+    37.637943,
+    -97.389253,
+    37.637943
+],
+  "geometry": {"coordinates":[-97.389253,37.637943],"type":"Point"}
+}

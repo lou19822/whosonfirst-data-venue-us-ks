@@ -1,0 +1,73 @@
+{
+  "id": 840908999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.291615,37.64494,-97.291615,37.64494",
+    "geom:latitude":37.64494,
+    "geom:longitude":-97.291615,
+    "iso:country":"US",
+    "sg:address":"2783 S Roosevelt St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 683 4881",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DfbppUYHkUohQfpl8YpLh_37.644940_-97.291615@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050696,
+    "wof:geomhash":"508c971fc12e000ccc65a1c69935f58d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840908999
+        }
+    ],
+    "wof:id":840908999,
+    "wof:lastmodified":1464050696,
+    "wof:name":"Production Drill & Tap",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.291615,
+    37.64494,
+    -97.291615,
+    37.64494
+],
+  "geometry": {"coordinates":[-97.29161499999999,37.64494],"type":"Point"}
+}

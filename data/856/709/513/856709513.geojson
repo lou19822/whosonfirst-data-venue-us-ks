@@ -1,0 +1,78 @@
+{
+  "id": 856709513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.261739,37.751,-97.261739,37.751",
+    "geom:latitude":37.751,
+    "geom:longitude":-97.261739,
+    "iso:country":"US",
+    "sg:address":"3750 N Woodlawn Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/219416-two-brothers-bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 691 8950",
+    "sg:postcode":"67220",
+    "sg:province":"KS",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e4zCBlwIHDXFPMMmJd0oh_37.751000_-97.261739@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052255,
+    "wof:geomhash":"7c7b95fe79f0c8c019d7587a552b0331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":856709513
+        }
+    ],
+    "wof:id":856709513,
+    "wof:lastmodified":1464052255,
+    "wof:name":"Two Brothers Bbq",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.261739,
+    37.751,
+    -97.261739,
+    37.751
+],
+  "geometry": {"coordinates":[-97.26173900000001,37.751],"type":"Point"}
+}

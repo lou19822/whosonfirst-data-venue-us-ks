@@ -1,0 +1,71 @@
+{
+  "id": 840889609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.386816,37.639048,-97.386816,37.639048",
+    "geom:latitude":37.639048,
+    "geom:longitude":-97.386816,
+    "iso:country":"US",
+    "sg:address":"3624 W 30th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 5438",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19wGtIyaxGFPgy9a5VY6Nx_37.639048_-97.386816@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050274,
+    "wof:geomhash":"d66ea027f06218f8521ae0415a4bc75d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840889609
+        }
+    ],
+    "wof:id":840889609,
+    "wof:lastmodified":1464050274,
+    "wof:name":"High Reach Equipment LLC",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.386816,
+    37.639048,
+    -97.386816,
+    37.639048
+],
+  "geometry": {"coordinates":[-97.386816,37.639048],"type":"Point"}
+}

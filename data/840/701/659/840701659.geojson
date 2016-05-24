@@ -1,0 +1,73 @@
+{
+  "id": 840701659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664421,38.958135,-95.664421,38.958135",
+    "geom:latitude":38.958135,
+    "geom:longitude":-95.664421,
+    "iso:country":"US",
+    "sg:address":"5620 SE Adams St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 4400",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QiIfCEPw5c2wnr3QOxOuI_38.958135_-95.664421@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046121,
+    "wof:geomhash":"22c10b28d7890f85e58bc4edb92e3b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840701659
+        }
+    ],
+    "wof:id":840701659,
+    "wof:lastmodified":1464046121,
+    "wof:name":"Cronister & Co",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.664421,
+    38.958135,
+    -95.664421,
+    38.958135
+],
+  "geometry": {"coordinates":[-95.664421,38.958135],"type":"Point"}
+}

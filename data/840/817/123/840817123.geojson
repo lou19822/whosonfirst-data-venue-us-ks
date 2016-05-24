@@ -1,0 +1,74 @@
+{
+  "id": 840817123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.005787,37.514756,-97.005787,37.514756",
+    "geom:latitude":37.514756,
+    "geom:longitude":-97.005787,
+    "iso:country":"US",
+    "sg:address":"619 US Hwy 77",
+    "sg:city":"Douglass",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 747 2157",
+    "sg:postcode":"67039",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.medicalodges.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ostRDJ92SsqFcKK0TtvL7_37.514756_-97.005787@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048664,
+    "wof:geomhash":"26ab532d0b7a16b2c6fe6f7acb0d230b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840817123
+        }
+    ],
+    "wof:id":840817123,
+    "wof:lastmodified":1464048664,
+    "wof:name":"Medicalodge Of Douglass",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -97.005787,
+    37.514756,
+    -97.005787,
+    37.514756
+],
+  "geometry": {"coordinates":[-97.005787,37.514756],"type":"Point"}
+}

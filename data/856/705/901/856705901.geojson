@@ -1,0 +1,78 @@
+{
+  "id": 856705901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.742612,38.970708,-94.742612,38.970708",
+    "geom:latitude":38.970708,
+    "geom:longitude":-94.742612,
+    "iso:country":"US",
+    "sg:address":"13501 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/87451-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 894 9000",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XYFiGnf54LQimlSc14Ynb_38.970708_-94.742612@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052185,
+    "wof:geomhash":"8fcc26d2225dc5b5be8acacf17a97428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856705901
+        }
+    ],
+    "wof:id":856705901,
+    "wof:lastmodified":1464052185,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.742612,
+    38.970708,
+    -94.742612,
+    38.970708
+],
+  "geometry": {"coordinates":[-94.74261199999999,38.970708],"type":"Point"}
+}

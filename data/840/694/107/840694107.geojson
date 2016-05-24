@@ -1,0 +1,71 @@
+{
+  "id": 840694107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.187601,38.419088,-96.187601,38.419088",
+    "geom:latitude":38.419088,
+    "geom:longitude":-96.187601,
+    "iso:country":"US",
+    "sg:address":"1732 Rural St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 6494",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0woKRq0TPi8us831iAgGnL_38.419088_-96.187601@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045925,
+    "wof:geomhash":"43231ee11b63909cbb9cca4d950bd9d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840694107
+        }
+    ],
+    "wof:id":840694107,
+    "wof:lastmodified":1464045925,
+    "wof:name":"Stan Riggs Painting",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.187601,
+    38.419088,
+    -96.187601,
+    38.419088
+],
+  "geometry": {"coordinates":[-96.187601,38.419088],"type":"Point"}
+}

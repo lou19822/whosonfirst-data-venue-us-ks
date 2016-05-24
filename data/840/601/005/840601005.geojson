@@ -1,0 +1,69 @@
+{
+  "id": 840601005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.148131,37.962658,-97.148131,37.962658",
+    "geom:latitude":37.962658,
+    "geom:longitude":-97.148131,
+    "iso:country":"US",
+    "sg:address":"201 S Elm St",
+    "sg:city":"Whitewater",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 799 2445",
+    "sg:postcode":"67154",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AixTjDUhM1GBefYAIv9j4_37.962658_-97.148131@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043681,
+    "wof:geomhash":"c4b92a15caedb1ac245c7510c59448c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840601005
+        }
+    ],
+    "wof:id":840601005,
+    "wof:lastmodified":1464043681,
+    "wof:name":"Whitewater Fire Dept",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -97.148131,
+    37.962658,
+    -97.148131,
+    37.962658
+],
+  "geometry": {"coordinates":[-97.14813100000001,37.962658],"type":"Point"}
+}

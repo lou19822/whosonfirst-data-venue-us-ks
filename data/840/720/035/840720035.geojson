@@ -1,0 +1,72 @@
+{
+  "id": 840720035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.45853,37.693763,-97.45853,37.693763",
+    "geom:latitude":37.693763,
+    "geom:longitude":-97.45853,
+    "iso:country":"US",
+    "sg:address":"10025 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 1111",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.westlinkchurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YDffINCf5fmasNSs94JLG_37.693763_-97.458530@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046509,
+    "wof:geomhash":"b35480a40482b8858238b34c0f00debd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840720035
+        }
+    ],
+    "wof:id":840720035,
+    "wof:lastmodified":1464046509,
+    "wof:name":"Westlink Church Of Christ",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.45853,
+    37.693763,
+    -97.45853,
+    37.693763
+],
+  "geometry": {"coordinates":[-97.45853,37.693763],"type":"Point"}
+}

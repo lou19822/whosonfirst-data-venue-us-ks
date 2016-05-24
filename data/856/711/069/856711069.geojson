@@ -1,0 +1,78 @@
+{
+  "id": 856711069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.640921,39.102862,-94.640921,39.102862",
+    "geom:latitude":39.102862,
+    "geom:longitude":-94.640921,
+    "iso:country":"US",
+    "sg:address":"1222 Central Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/13184-churchs-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 342 9273",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878505,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XHf83TnGWBUSJnon7r4LI_39.102557_-94.640103@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052288,
+    "wof:geomhash":"1438c6f217ecc5658cf1dd1467313fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878505,
+            "region_id":85688555,
+            "venue_id":856711069
+        }
+    ],
+    "wof:id":856711069,
+    "wof:lastmodified":1464052288,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85878505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -94.640921,
+    39.102862,
+    -94.640921,
+    39.102862
+],
+  "geometry": {"coordinates":[-94.64092100000001,39.102862],"type":"Point"}
+}

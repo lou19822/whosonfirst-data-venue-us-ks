@@ -1,0 +1,69 @@
+{
+  "id": 840951221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135067,37.714132,-97.135067,37.714132",
+    "geom:latitude":37.714132,
+    "geom:longitude":-97.135067,
+    "iso:country":"US",
+    "sg:address":"1606 N Andover Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 2723",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TGjcpcIolRlHRcWypvWCS_37.714132_-97.135067@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051675,
+    "wof:geomhash":"a18271ddeccf6b7c48d1b00633b3bc0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840951221
+        }
+    ],
+    "wof:id":840951221,
+    "wof:lastmodified":1464051675,
+    "wof:name":"Maintenance Shop",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -97.135067,
+    37.714132,
+    -97.135067,
+    37.714132
+],
+  "geometry": {"coordinates":[-97.13506700000001,37.714132],"type":"Point"}
+}

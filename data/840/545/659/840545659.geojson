@@ -1,0 +1,71 @@
+{
+  "id": 840545659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.216834,38.412396,-96.216834,38.412396",
+    "geom:latitude":38.412396,
+    "geom:longitude":-96.216834,
+    "iso:country":"US",
+    "sg:address":"1414 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8282",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53M2a5feb6mMI212ow455f_38.412396_-96.216834@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042390,
+    "wof:geomhash":"60042fef49880f30a1065f111c887de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840545659
+        }
+    ],
+    "wof:id":840545659,
+    "wof:lastmodified":1464042390,
+    "wof:name":"Color Tyme",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -96.216834,
+    38.412396,
+    -96.216834,
+    38.412396
+],
+  "geometry": {"coordinates":[-96.21683400000001,38.412396],"type":"Point"}
+}

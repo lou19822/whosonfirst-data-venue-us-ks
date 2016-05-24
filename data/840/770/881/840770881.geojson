@@ -1,0 +1,71 @@
+{
+  "id": 840770881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.18026,38.401066,-96.18026,38.401066",
+    "geom:latitude":38.401066,
+    "geom:longitude":-96.18026,
+    "iso:country":"US",
+    "sg:address":"203 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 2255",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MWhjC6hnFDR6khnSYsBlH_38.401066_-96.180260@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047590,
+    "wof:geomhash":"0557969a415884f3f3ec840a73bbedd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840770881
+        }
+    ],
+    "wof:id":840770881,
+    "wof:lastmodified":1464047590,
+    "wof:name":"Huong Viet Oriental Food Mkt",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.18026,
+    38.401066,
+    -96.18026,
+    38.401066
+],
+  "geometry": {"coordinates":[-96.18026,38.401066],"type":"Point"}
+}

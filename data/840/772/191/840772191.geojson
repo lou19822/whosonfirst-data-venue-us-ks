@@ -1,0 +1,71 @@
+{
+  "id": 840772191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.349285,37.655227,-97.349285,37.655227",
+    "geom:latitude":37.655227,
+    "geom:longitude":-97.349285,
+    "iso:country":"US",
+    "sg:address":"1825 S McLean Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 7221",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16P6FZUUVcTPyBOGaD8gWM_37.655227_-97.349285@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047614,
+    "wof:geomhash":"caa77d12924912570f495a9f0315f882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840772191
+        }
+    ],
+    "wof:id":840772191,
+    "wof:lastmodified":1464047614,
+    "wof:name":"Taxicab Licensing Dept",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -97.349285,
+    37.655227,
+    -97.349285,
+    37.655227
+],
+  "geometry": {"coordinates":[-97.34928499999999,37.655227],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840619093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.732504,37.023758,-94.732504,37.023758",
+    "geom:latitude":37.023758,
+    "geom:longitude":-94.732504,
+    "iso:country":"US",
+    "sg:address":"328 E 12th St",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 2345",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aWb70MlcxOhZrcmnF6y4Z_37.023758_-94.732504@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044142,
+    "wof:geomhash":"910c82e217ca622e9fab8233de8d44cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840619093
+        }
+    ],
+    "wof:id":840619093,
+    "wof:lastmodified":1464044142,
+    "wof:name":"Derfalt's Baxter Chapel",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -94.732504,
+    37.023758,
+    -94.732504,
+    37.023758
+],
+  "geometry": {"coordinates":[-94.73250400000001,37.023758],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840946231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.723277,39.07679,-95.723277,39.07679",
+    "geom:latitude":39.07679,
+    "geom:longitude":-95.723277,
+    "iso:country":"US",
+    "sg:address":"3840 NW 14th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 9194",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EXN4MYlc4D6ZJtDDJiFfJ_39.076790_-95.723277@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051575,
+    "wof:geomhash":"6ed723576a52804745493054ad9d3e58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840946231
+        }
+    ],
+    "wof:id":840946231,
+    "wof:lastmodified":1464051575,
+    "wof:name":"Oroweat Baking Co",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -95.723277,
+    39.07679,
+    -95.723277,
+    39.07679
+],
+  "geometry": {"coordinates":[-95.723277,39.07679],"type":"Point"}
+}

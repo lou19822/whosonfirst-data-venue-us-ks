@@ -1,0 +1,78 @@
+{
+  "id": 840755555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723751,39.010045,-94.723751,39.010045",
+    "geom:latitude":39.010045,
+    "geom:longitude":-94.723751,
+    "iso:country":"US",
+    "sg:address":"6535 Quivira Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 2150",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "sg:website":"www.cityofshawnee.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nO4LR0UnDv6lamk6NeK5h_39.010045_-94.723751@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047228,
+    "wof:geomhash":"64f5372432614d13496b12af59b6c939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":840755555
+        }
+    ],
+    "wof:id":840755555,
+    "wof:lastmodified":1464047228,
+    "wof:name":"Shawnee Police Department",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -94.723751,
+    39.010045,
+    -94.723751,
+    39.010045
+],
+  "geometry": {"coordinates":[-94.72375099999999,39.010045],"type":"Point"}
+}

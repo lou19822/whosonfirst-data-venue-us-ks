@@ -1,0 +1,73 @@
+{
+  "id": 840779893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.70497,37.429898,-94.70497,37.429898",
+    "geom:latitude":37.429898,
+    "geom:longitude":-94.70497,
+    "iso:country":"US",
+    "sg:address":"2405 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 2277",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sb7gOpA3P19VCWltgyAXU_37.429898_-94.704970@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047762,
+    "wof:geomhash":"6f947ebdb239be61e16e915200218419",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840779893
+        }
+    ],
+    "wof:id":840779893,
+    "wof:lastmodified":1464047762,
+    "wof:name":"Rent Way",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -94.70497,
+    37.429898,
+    -94.70497,
+    37.429898
+],
+  "geometry": {"coordinates":[-94.70497,37.429898],"type":"Point"}
+}

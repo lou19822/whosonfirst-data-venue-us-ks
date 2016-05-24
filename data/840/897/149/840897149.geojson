@@ -1,0 +1,79 @@
+{
+  "id": 840897149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.018003,37.753492,-100.018003,37.753492",
+    "geom:latitude":37.753492,
+    "geom:longitude":-100.018003,
+    "iso:country":"US",
+    "sg:address":"100 Gunsmoke St",
+    "sg:city":"Dodge City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 227 4739",
+    "sg:postcode":"67801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "county",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849601,
+        102191575,
+        404503629,
+        85633793,
+        85945215,
+        102082141,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P42RELsNdLDCgrRXRsLfb_37.753492_-100.018003@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050433,
+    "wof:geomhash":"c8bcf3a4936b64fc01d142bd3f2a869b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082141,
+            "localadmin_id":404503629,
+            "locality_id":85945215,
+            "neighbourhood_id":85849601,
+            "region_id":85688555,
+            "venue_id":840897149
+        }
+    ],
+    "wof:id":840897149,
+    "wof:lastmodified":1464050433,
+    "wof:name":"Ford County Planning & Zoning",
+    "wof:parent_id":85849601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -100.018003,
+    37.753492,
+    -100.018003,
+    37.753492
+],
+  "geometry": {"coordinates":[-100.01800299999999,37.753492],"type":"Point"}
+}

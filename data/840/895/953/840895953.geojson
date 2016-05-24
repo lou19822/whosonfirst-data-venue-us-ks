@@ -1,0 +1,79 @@
+{
+  "id": 840895953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.75014,39.014418,-95.75014,39.014418",
+    "geom:latitude":39.014418,
+    "geom:longitude":-95.75014,
+    "iso:country":"US",
+    "sg:address":"5648 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 228 3800",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vX8c0HwjfA2oMGM4QeIY5_39.014418_-95.750140@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050405,
+    "wof:geomhash":"69ecf7e43150808fe7ddab950c6d51ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840895953
+        }
+    ],
+    "wof:id":840895953,
+    "wof:lastmodified":1464050405,
+    "wof:name":"Topeka Imaging",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -95.75014,
+    39.014418,
+    -95.75014,
+    39.014418
+],
+  "geometry": {"coordinates":[-95.75014,39.014418],"type":"Point"}
+}

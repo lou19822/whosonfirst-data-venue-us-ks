@@ -1,0 +1,85 @@
+{
+  "id": 840559289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.602764,38.961808,-94.602764,38.961808",
+    "geom:latitude":38.961808,
+    "geom:longitude":-94.602764,
+    "iso:country":"US",
+    "sg:address":"9200 Ward Pkwy S",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 444 4611",
+    "sg:postcode":"64114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospice",
+        "home",
+        "skilled"
+    ],
+    "sg:website":"www.gracehospicekc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871969,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vd7nay8lRzPMBGM2yryhC_38.961808_-94.602764@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042716,
+    "wof:geomhash":"fdf298f18fbed3333d6924970e98d2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871969,
+            "region_id":85688661,
+            "venue_id":840559289
+        }
+    ],
+    "wof:id":840559289,
+    "wof:lastmodified":1464042716,
+    "wof:name":"Grace Hospice LLC",
+    "wof:parent_id":85871969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice",
+        "home",
+        "skilled"
+    ]
+},
+  "bbox": [
+    -94.602764,
+    38.961808,
+    -94.602764,
+    38.961808
+],
+  "geometry": {"coordinates":[-94.60276399999999,38.961808],"type":"Point"}
+}

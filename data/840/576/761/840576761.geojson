@@ -1,0 +1,67 @@
+{
+  "id": 840576761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.472841,37.722624,-97.472841,37.722624",
+    "geom:latitude":37.722624,
+    "geom:longitude":-97.472841,
+    "iso:country":"US",
+    "sg:address":"11330 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 634 1600",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:website":"www.communitybankwichita.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0poQeAvbpBhtVg2JzxGjn6_37.722624_-97.472841@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043137,
+    "wof:geomhash":"9b412f589a561fd94806a1e5bfeb6146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840576761
+        }
+    ],
+    "wof:id":840576761,
+    "wof:lastmodified":1464043137,
+    "wof:name":"Community Bank Of Wichita",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.472841,
+    37.722624,
+    -97.472841,
+    37.722624
+],
+  "geometry": {"coordinates":[-97.472841,37.722624],"type":"Point"}
+}

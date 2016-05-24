@@ -1,0 +1,77 @@
+{
+  "id": 840690209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.779641,38.970917,-94.779641,38.970917",
+    "geom:latitude":38.970917,
+    "geom:longitude":-94.779641,
+    "iso:country":"US",
+    "sg:address":"9101 Renner Blvd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 888 8700",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812711,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qe8hRQnmmHI640Gp6F1kz_38.970917_-94.779641@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045821,
+    "wof:geomhash":"68514283540dab16a82ff6d97235f91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85812711,
+            "region_id":85688555,
+            "venue_id":840690209
+        }
+    ],
+    "wof:id":840690209,
+    "wof:lastmodified":1464045821,
+    "wof:name":"Reserve",
+    "wof:parent_id":85812711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.779641,
+    38.970917,
+    -94.779641,
+    38.970917
+],
+  "geometry": {"coordinates":[-94.779641,38.970917],"type":"Point"}
+}

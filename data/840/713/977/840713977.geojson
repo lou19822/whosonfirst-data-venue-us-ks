@@ -1,0 +1,77 @@
+{
+  "id": 840713977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.65017,39.02394,-94.65017,39.02394",
+    "geom:latitude":39.02394,
+    "geom:longitude":-94.65017,
+    "iso:country":"US",
+    "sg:address":"5555 W 58th St",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 2080",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879597,
+        102191575,
+        404504389,
+        85633793,
+        85945747,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_362Lrd9jZkryPTxzkrSGU2_39.023940_-94.650170@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046383,
+    "wof:geomhash":"93affaf6494d5b8cd34f1758e3ec6a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504389,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":840713977
+        }
+    ],
+    "wof:id":840713977,
+    "wof:lastmodified":1464046383,
+    "wof:name":"Sunflower Medical Group",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.65017,
+    39.02394,
+    -94.65017,
+    39.02394
+],
+  "geometry": {"coordinates":[-94.65017,39.02394],"type":"Point"}
+}

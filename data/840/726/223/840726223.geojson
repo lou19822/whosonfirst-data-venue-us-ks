@@ -1,0 +1,73 @@
+{
+  "id": 840726223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.673531,37.410896,-94.673531,37.410896",
+    "geom:latitude":37.410896,
+    "geom:longitude":-94.673531,
+    "iso:country":"US",
+    "sg:address":"1978 E 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 2056",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vkX6z5yQwL6aeNHaEyJad_37.410896_-94.673531@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046640,
+    "wof:geomhash":"b4a45d8f4a5330107449c22919ff218d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840726223
+        }
+    ],
+    "wof:id":840726223,
+    "wof:lastmodified":1464046640,
+    "wof:name":"Acme Broadcasting LLC",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -94.673531,
+    37.410896,
+    -94.673531,
+    37.410896
+],
+  "geometry": {"coordinates":[-94.673531,37.410896],"type":"Point"}
+}

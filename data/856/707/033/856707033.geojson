@@ -1,0 +1,78 @@
+{
+  "id": 856707033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651499,39.015106,-95.651499,39.015106",
+    "geom:latitude":39.015106,
+    "geom:longitude":-95.651499,
+    "iso:country":"US",
+    "sg:address":"2007 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/65822-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 2000",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881543,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xOFAAOF1xpPQEoESpcIoK_39.015106_-95.651499@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052209,
+    "wof:geomhash":"3006b78672faf03dcfba04028cc16545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881543,
+            "region_id":85688555,
+            "venue_id":856707033
+        }
+    ],
+    "wof:id":856707033,
+    "wof:lastmodified":1464052209,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85881543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.651499,
+    39.015106,
+    -95.651499,
+    39.015106
+],
+  "geometry": {"coordinates":[-95.651499,39.015106],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840876063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.821668,38.854538,-94.821668,38.854538",
+    "geom:latitude":38.854538,
+    "geom:longitude":-94.821668,
+    "iso:country":"US",
+    "sg:address":"20375 W 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 3073",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.olatheobgyn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67xj1OAnuir8H0FtdiVtPu_38.854538_-94.821668@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049969,
+    "wof:geomhash":"41c7e27f5b98e32f49b4416fc198308d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840876063
+        }
+    ],
+    "wof:id":840876063,
+    "wof:lastmodified":1464049969,
+    "wof:name":"Olathe Obstetrics & Gynecology",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.821668,
+    38.854538,
+    -94.821668,
+    38.854538
+],
+  "geometry": {"coordinates":[-94.821668,38.854538],"type":"Point"}
+}

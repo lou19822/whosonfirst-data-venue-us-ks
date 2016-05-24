@@ -1,0 +1,66 @@
+{
+  "id": 840860221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.373028,37.651281,-97.373028,37.651281",
+    "geom:latitude":37.651281,
+    "geom:longitude":-97.373028,
+    "iso:country":"US",
+    "sg:address":"2509 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 9263",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k1woPbSHkVCEwsUApYfyl_37.651281_-97.373028@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049660,
+    "wof:geomhash":"787b04918857c7143f8ee9b1647d8d9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840860221
+        }
+    ],
+    "wof:id":840860221,
+    "wof:lastmodified":1464049660,
+    "wof:name":"Uncle Happy's Spirits & Such",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.373028,
+    37.651281,
+    -97.373028,
+    37.651281
+],
+  "geometry": {"coordinates":[-97.37302800000001,37.651281],"type":"Point"}
+}

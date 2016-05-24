@@ -1,0 +1,81 @@
+{
+  "id": 840593453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.834546,38.880822,-94.834546,38.880822",
+    "geom:latitude":38.880822,
+    "geom:longitude":-94.834546,
+    "iso:country":"US",
+    "sg:address":"117 S Parker St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 8612",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DHWgD544ck3Nq4gRIfJxf_38.880822_-94.834546@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043499,
+    "wof:geomhash":"8ae550a6716d0cb341624a7c3f031dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840593453
+        }
+    ],
+    "wof:id":840593453,
+    "wof:lastmodified":1464043499,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -94.834546,
+    38.880822,
+    -94.834546,
+    38.880822
+],
+  "geometry": {"coordinates":[-94.834546,38.880822],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840610455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899849,39.274144,-94.899849,39.274144",
+    "geom:latitude":39.274144,
+    "geom:longitude":-94.899849,
+    "iso:country":"US",
+    "sg:address":"4510 S 4th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 1702",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844391,
+        102191575,
+        404504467,
+        85633793,
+        85945367,
+        102083429,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BII0dLVQmQBXKNNa4dkxr_39.274144_-94.899849@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043929,
+    "wof:geomhash":"ea546a615b32ff6e2b00fb2b293ac6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504467,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":840610455
+        }
+    ],
+    "wof:id":840610455,
+    "wof:lastmodified":1464043929,
+    "wof:name":"Physical Therapy Ctr",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -94.899849,
+    39.274144,
+    -94.899849,
+    39.274144
+],
+  "geometry": {"coordinates":[-94.899849,39.274144],"type":"Point"}
+}

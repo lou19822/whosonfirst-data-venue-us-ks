@@ -1,0 +1,77 @@
+{
+  "id": 840727561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.782442,38.917902,-94.782442,38.917902",
+    "geom:latitude":38.917902,
+    "geom:longitude":-94.782442,
+    "iso:country":"US",
+    "sg:address":"16945 W 116th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 859 9611",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cwhd39sLXpMZaBGNM4fF5_38.917902_-94.782442@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046663,
+    "wof:geomhash":"11a58d1b4ff5aa90d6c70d4102b86650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840727561
+        }
+    ],
+    "wof:id":840727561,
+    "wof:lastmodified":1464046663,
+    "wof:name":"A Z Automotive Corp",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.782442,
+    38.917902,
+    -94.782442,
+    38.917902
+],
+  "geometry": {"coordinates":[-94.782442,38.917902],"type":"Point"}
+}

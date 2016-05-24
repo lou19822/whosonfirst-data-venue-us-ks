@@ -1,0 +1,71 @@
+{
+  "id": 840851519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.979014,37.676562,-96.979014,37.676562",
+    "geom:latitude":37.676562,
+    "geom:longitude":-96.979014,
+    "iso:country":"US",
+    "sg:address":"529 State St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 7661",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "watch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hUZQPK9HbrvJMvYBOoFVV_37.676562_-96.979014@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049475,
+    "wof:geomhash":"0d7f1687a5f5c42e664bc1069182f4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840851519
+        }
+    ],
+    "wof:id":840851519,
+    "wof:lastmodified":1464049475,
+    "wof:name":"Mccullough Jewelry",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch"
+    ]
+},
+  "bbox": [
+    -96.979014,
+    37.676562,
+    -96.979014,
+    37.676562
+],
+  "geometry": {"coordinates":[-96.97901400000001,37.676562],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840605675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.18136,38.405984,-96.18136,38.405984",
+    "geom:latitude":38.405984,
+    "geom:longitude":-96.18136,
+    "iso:country":"US",
+    "sg:address":"618 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2851",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h7NSxvRcgxn6gD35rJU3v_38.405984_-96.181360@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043791,
+    "wof:geomhash":"3e8b84529e8310ad05b99563ff04e31a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840605675
+        }
+    ],
+    "wof:id":840605675,
+    "wof:lastmodified":1464043791,
+    "wof:name":"Huyen's Oriental Food Market",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.18136,
+    38.405984,
+    -96.18136,
+    38.405984
+],
+  "geometry": {"coordinates":[-96.18136,38.405984],"type":"Point"}
+}

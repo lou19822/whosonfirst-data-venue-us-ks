@@ -1,0 +1,73 @@
+{
+  "id": 840635521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.279359,37.663605,-97.279359,37.663605",
+    "geom:latitude":37.663605,
+    "geom:longitude":-97.279359,
+    "iso:country":"US",
+    "sg:address":"1741 S Glendale St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 5335",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27RWlWHTwdLqNKL99m7zCc_37.663605_-97.279359@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044577,
+    "wof:geomhash":"841355f71837c1baa80a5e2df2d819cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840635521
+        }
+    ],
+    "wof:id":840635521,
+    "wof:lastmodified":1464044577,
+    "wof:name":"Prairie Avian & Exotic Animal",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -97.279359,
+    37.663605,
+    -97.279359,
+    37.663605
+],
+  "geometry": {"coordinates":[-97.279359,37.663605],"type":"Point"}
+}

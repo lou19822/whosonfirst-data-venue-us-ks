@@ -1,0 +1,71 @@
+{
+  "id": 840823719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.64817,39.044284,-95.64817,39.044284",
+    "geom:latitude":39.044284,
+    "geom:longitude":-95.64817,
+    "iso:country":"US",
+    "sg:address":"607 SE Market St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 2576",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3njiqZ3vRQqgS6tCiyHDPL_39.044284_-95.648170@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048864,
+    "wof:geomhash":"9f2c24a4d33b4ab61adce37a37ef791b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840823719
+        }
+    ],
+    "wof:id":840823719,
+    "wof:lastmodified":1464048864,
+    "wof:name":"Ventilation Engineering",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -95.64817,
+    39.044284,
+    -95.64817,
+    39.044284
+],
+  "geometry": {"coordinates":[-95.64816999999999,39.044284],"type":"Point"}
+}

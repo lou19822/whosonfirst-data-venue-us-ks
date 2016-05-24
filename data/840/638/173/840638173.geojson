@@ -1,0 +1,73 @@
+{
+  "id": 840638173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687335,38.936778,-95.687335,38.936778",
+    "geom:latitude":38.936778,
+    "geom:longitude":-95.687335,
+    "iso:country":"US",
+    "sg:address":"7215 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 1806",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jPZxrdKczgqyOjL7LZyTM_38.936778_-95.687335@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044640,
+    "wof:geomhash":"1eccd9ec6a8d245157b808fe7367dab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840638173
+        }
+    ],
+    "wof:id":840638173,
+    "wof:lastmodified":1464044640,
+    "wof:name":"Medventures Inc",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.687335,
+    38.936778,
+    -95.687335,
+    38.936778
+],
+  "geometry": {"coordinates":[-95.687335,38.936778],"type":"Point"}
+}

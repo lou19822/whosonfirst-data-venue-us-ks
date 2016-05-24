@@ -1,0 +1,71 @@
+{
+  "id": 840774327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.344583,37.646496,-97.344583,37.646496",
+    "geom:latitude":37.646496,
+    "geom:longitude":-97.344583,
+    "iso:country":"US",
+    "sg:address":"2658 S Exchange St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 5004",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZdNegJwFIeavSqNrVoAdh_37.646496_-97.344583@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047655,
+    "wof:geomhash":"1088540cdf92c7af3283a68895030f20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840774327
+        }
+    ],
+    "wof:id":840774327,
+    "wof:lastmodified":1464047655,
+    "wof:name":"First Free Will Baptist Church",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.344583,
+    37.646496,
+    -97.344583,
+    37.646496
+],
+  "geometry": {"coordinates":[-97.344583,37.646496],"type":"Point"}
+}

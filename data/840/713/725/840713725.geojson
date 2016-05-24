@@ -1,0 +1,73 @@
+{
+  "id": 840713725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.221642,38.408948,-96.221642,38.408948",
+    "geom:latitude":38.408948,
+    "geom:longitude":-96.221642,
+    "iso:country":"US",
+    "sg:address":"910 Graham St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9449",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64C9psNIa0mfKvWoaSAD83_38.408948_-96.221642@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046379,
+    "wof:geomhash":"66d8c54150a237b3e99fa68131058e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840713725
+        }
+    ],
+    "wof:id":840713725,
+    "wof:lastmodified":1464046379,
+    "wof:name":"Troy's Transmission & Auto Rpr",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.221642,
+    38.408948,
+    -96.221642,
+    38.408948
+],
+  "geometry": {"coordinates":[-96.221642,38.408948],"type":"Point"}
+}

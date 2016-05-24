@@ -1,0 +1,78 @@
+{
+  "id": 856693959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.374723,37.651342,-97.374723,37.651342",
+    "geom:latitude":37.651342,
+    "geom:longitude":-97.374723,
+    "iso:country":"US",
+    "sg:address":"2811 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 5888",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "control",
+        "electric",
+        "motor",
+        "contractor"
+    ],
+    "sg:website":"http://www.creekelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05s5j5U6AsHtLTjKqYR9vG_37.651268_-97.374787@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464051940,
+    "wof:geomhash":"82f3ece5ed8f8b14c29f417fc59e1011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":856693959
+        }
+    ],
+    "wof:id":856693959,
+    "wof:lastmodified":1464051940,
+    "wof:name":"Creek Electric",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "electric",
+        "motor",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.374723,
+    37.651342,
+    -97.374723,
+    37.651342
+],
+  "geometry": {"coordinates":[-97.374723,37.651342],"type":"Point"}
+}

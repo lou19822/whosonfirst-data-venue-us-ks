@@ -1,0 +1,71 @@
+{
+  "id": 840600053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.647988,37.810452,-96.647988,37.810452",
+    "geom:latitude":37.810452,
+    "geom:longitude":-96.647988,
+    "iso:country":"US",
+    "sg:address":"10539 SE US Hwy 54",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 2171",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ogVRiHYqBMERZ6cxAYTZD_37.810452_-96.647988@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043664,
+    "wof:geomhash":"d41ec1480ef888b6f3d8548429eb6465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840600053
+        }
+    ],
+    "wof:id":840600053,
+    "wof:lastmodified":1464043664,
+    "wof:name":"Simmon's Well Svc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.647988,
+    37.810452,
+    -96.647988,
+    37.810452
+],
+  "geometry": {"coordinates":[-96.647988,37.810452],"type":"Point"}
+}

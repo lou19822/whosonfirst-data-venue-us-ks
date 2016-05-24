@@ -1,0 +1,75 @@
+{
+  "id": 840552303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048733,38.195518,-96.048733,38.195518",
+    "geom:latitude":38.195518,
+    "geom:longitude":-96.048733,
+    "iso:country":"US",
+    "sg:address":"210 Rd U",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 437 6593",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a6JTwCKKmclsFsZDY9iUq_38.195518_-96.048733@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042563,
+    "wof:geomhash":"540b9146963f60600560d21870ffd8cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840552303
+        }
+    ],
+    "wof:id":840552303,
+    "wof:lastmodified":1464042563,
+    "wof:name":"Emporia Alarm",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.048733,
+    38.195518,
+    -96.048733,
+    38.195518
+],
+  "geometry": {"coordinates":[-96.048733,38.195518],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840692785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.18547,38.41594,-96.18547,38.41594",
+    "geom:latitude":38.41594,
+    "geom:longitude":-96.18547,
+    "iso:country":"US",
+    "sg:address":"420 W 15th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4864",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.flinthillshealth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VOck5qPIY1plJUBYDFd4i_38.415940_-96.185470@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045891,
+    "wof:geomhash":"71cd3806a0b3c5f14525601dd5189eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840692785
+        }
+    ],
+    "wof:id":840692785,
+    "wof:lastmodified":1464045891,
+    "wof:name":"Flint Hills Community Health",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.18547,
+    38.41594,
+    -96.18547,
+    38.41594
+],
+  "geometry": {"coordinates":[-96.18547,38.41594],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840678091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.655813,39.01509,-95.655813,39.01509",
+    "geom:latitude":39.01509,
+    "geom:longitude":-95.655813,
+    "iso:country":"US",
+    "sg:address":"1605 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 9100",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881543,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42uY6VZkyIOlRCybPA50jC_39.015090_-95.655813@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045524,
+    "wof:geomhash":"a3d2e68a541f6e0ca4b71f3e0de0e846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881543,
+            "region_id":85688555,
+            "venue_id":840678091
+        }
+    ],
+    "wof:id":840678091,
+    "wof:lastmodified":1464045524,
+    "wof:name":"East Topeka Dental Assoc",
+    "wof:parent_id":85881543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.655813,
+    39.01509,
+    -95.655813,
+    39.01509
+],
+  "geometry": {"coordinates":[-95.65581299999999,39.01509],"type":"Point"}
+}

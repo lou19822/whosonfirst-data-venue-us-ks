@@ -1,0 +1,71 @@
+{
+  "id": 840895025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.67353,38.875721,-94.67353,38.875721",
+    "geom:latitude":38.875721,
+    "geom:longitude":-94.67353,
+    "iso:country":"US",
+    "sg:address":"13900 Newton St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 681 1572",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iOtgpKVlfEKIFX7q1sLL2_38.875721_-94.673530@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050385,
+    "wof:geomhash":"c573a9194eac0e88f06cf9ace48de48e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840895025
+        }
+    ],
+    "wof:id":840895025,
+    "wof:lastmodified":1464050385,
+    "wof:name":"Plaza Gardens",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.67353,
+    38.875721,
+    -94.67353,
+    38.875721
+],
+  "geometry": {"coordinates":[-94.67353,38.875721],"type":"Point"}
+}

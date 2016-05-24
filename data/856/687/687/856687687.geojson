@@ -1,0 +1,75 @@
+{
+  "id": 856687687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.322637,37.664347,-97.322637,37.664347",
+    "geom:latitude":37.664347,
+    "geom:longitude":-97.322637,
+    "iso:country":"US",
+    "sg:address":"1221 E Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 2270",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FMAiKQuc3oW6Von9fTZmw_37.664347_-97.322637@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051817,
+    "wof:geomhash":"e8ac6d5aa00e6edda5dd89568f7b30f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":856687687
+        }
+    ],
+    "wof:id":856687687,
+    "wof:lastmodified":1464051817,
+    "wof:name":"A Z Window Tinting",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -97.322637,
+    37.664347,
+    -97.322637,
+    37.664347
+],
+  "geometry": {"coordinates":[-97.322637,37.664347],"type":"Point"}
+}

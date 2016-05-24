@@ -1,0 +1,71 @@
+{
+  "id": 840547091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.174949,38.404934,-96.174949,38.404934",
+    "geom:latitude":38.404934,
+    "geom:longitude":-96.174949,
+    "iso:country":"US",
+    "sg:address":"502 Exchange St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6905",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wo4zlrQJILUOuvLqsSPsC_38.404934_-96.174949@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042437,
+    "wof:geomhash":"c683dc5c39660532c045637ae356629b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840547091
+        }
+    ],
+    "wof:id":840547091,
+    "wof:lastmodified":1464042437,
+    "wof:name":"Payless Moving Co",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -96.174949,
+    38.404934,
+    -96.174949,
+    38.404934
+],
+  "geometry": {"coordinates":[-96.174949,38.404934],"type":"Point"}
+}

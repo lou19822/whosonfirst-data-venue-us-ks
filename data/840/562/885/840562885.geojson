@@ -1,0 +1,71 @@
+{
+  "id": 840562885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.086356,39.112124,-95.086356,39.112124",
+    "geom:latitude":39.112124,
+    "geom:longitude":-95.086356,
+    "iso:country":"US",
+    "sg:address":"110 Delaware St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 0066",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gHDGjNuOKi7MAqfiyXkcT_39.112124_-95.086356@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042799,
+    "wof:geomhash":"67a8e975761d4b690a15d4212e4736da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840562885
+        }
+    ],
+    "wof:id":840562885,
+    "wof:lastmodified":1464042799,
+    "wof:name":"Colonial Park Apartments",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.086356,
+    39.112124,
+    -95.086356,
+    39.112124
+],
+  "geometry": {"coordinates":[-95.08635599999999,39.112124],"type":"Point"}
+}

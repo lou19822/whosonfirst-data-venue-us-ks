@@ -1,0 +1,71 @@
+{
+  "id": 840696117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.395533,37.787501,-97.395533,37.787501",
+    "geom:latitude":37.787501,
+    "geom:longitude":-97.395533,
+    "iso:country":"US",
+    "sg:address":"4320 W Gustafson St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 0091",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xI8LlzbVKsZEQv3n6ch7M_37.787501_-97.395533@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045974,
+    "wof:geomhash":"b3599cd247e20ceb2a5545c5e49e55a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840696117
+        }
+    ],
+    "wof:id":840696117,
+    "wof:lastmodified":1464045974,
+    "wof:name":"Vern's Sanitation & Sewer Svc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -97.395533,
+    37.787501,
+    -97.395533,
+    37.787501
+],
+  "geometry": {"coordinates":[-97.395533,37.787501],"type":"Point"}
+}

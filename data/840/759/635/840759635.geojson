@@ -1,0 +1,71 @@
+{
+  "id": 840759635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.698904,37.421118,-94.698904,37.421118",
+    "geom:latitude":37.421118,
+    "geom:longitude":-94.698904,
+    "iso:country":"US",
+    "sg:address":"1402 N Grand St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1258",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kUb7oW7x2jcv10zMxmuB3_37.421118_-94.698904@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047325,
+    "wof:geomhash":"520b8454278120ea2c93b01497c59ff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840759635
+        }
+    ],
+    "wof:id":840759635,
+    "wof:lastmodified":1464047325,
+    "wof:name":"Ashmore Auction Svc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -94.698904,
+    37.421118,
+    -94.698904,
+    37.421118
+],
+  "geometry": {"coordinates":[-94.698904,37.421118],"type":"Point"}
+}

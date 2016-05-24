@@ -1,0 +1,71 @@
+{
+  "id": 840716563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.739844,39.080234,-95.739844,39.080234",
+    "geom:latitude":39.080234,
+    "geom:longitude":-95.739844,
+    "iso:country":"US",
+    "sg:address":"5224 NW 17th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 8622",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sVvDp876VFJpCfTYnpDu8_39.080234_-95.739844@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046431,
+    "wof:geomhash":"24b48d566be846f2cff9288c1741db95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840716563
+        }
+    ],
+    "wof:id":840716563,
+    "wof:lastmodified":1464046431,
+    "wof:name":"Foster's Auto & Truck Repair",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.739844,
+    39.080234,
+    -95.739844,
+    39.080234
+],
+  "geometry": {"coordinates":[-95.73984400000001,39.080234],"type":"Point"}
+}

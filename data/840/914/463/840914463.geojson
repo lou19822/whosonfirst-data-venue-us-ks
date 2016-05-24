@@ -1,0 +1,71 @@
+{
+  "id": 840914463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664353,39.12412,-95.664353,39.12412",
+    "geom:latitude":39.12412,
+    "geom:longitude":-95.664353,
+    "iso:country":"US",
+    "sg:address":"700 NW 43rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 1866",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gGXVJHI0dG5vfbpUKmHJx_39.124120_-95.664353@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050861,
+    "wof:geomhash":"bc4ff6ab57c06eae6a1d5313d0c5e40b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840914463
+        }
+    ],
+    "wof:id":840914463,
+    "wof:lastmodified":1464050861,
+    "wof:name":"Gary's Tile Svc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.664353,
+    39.12412,
+    -95.664353,
+    39.12412
+],
+  "geometry": {"coordinates":[-95.66435300000001,39.12412],"type":"Point"}
+}

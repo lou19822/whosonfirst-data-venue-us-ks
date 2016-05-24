@@ -1,0 +1,77 @@
+{
+  "id": 840660683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.797207,38.88481,-94.797207,38.88481",
+    "geom:latitude":38.88481,
+    "geom:longitude":-94.797207,
+    "iso:country":"US",
+    "sg:address":"350 N Ridgeview Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 1377",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PUV072DpJ2A3xNIHaOpF0_38.884810_-94.797207@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045121,
+    "wof:geomhash":"bc76b20f0b32717418ad86d3e3318522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840660683
+        }
+    ],
+    "wof:id":840660683,
+    "wof:lastmodified":1464045121,
+    "wof:name":"Olympic Carwash",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.797207,
+    38.88481,
+    -94.797207,
+    38.88481
+],
+  "geometry": {"coordinates":[-94.797207,38.88481],"type":"Point"}
+}

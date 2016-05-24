@@ -1,0 +1,71 @@
+{
+  "id": 840759713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.446787,37.694131,-97.446787,37.694131",
+    "geom:latitude":37.694131,
+    "geom:longitude":-97.446787,
+    "iso:country":"US",
+    "sg:address":"9000 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 4000",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00T1VTm7D1ybDz2tKQztgo_37.694131_-97.446787@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047328,
+    "wof:geomhash":"615c4633a95a6bb94e2cb4b222c0127a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840759713
+        }
+    ],
+    "wof:id":840759713,
+    "wof:lastmodified":1464047328,
+    "wof:name":"Via Christi Riverside Family",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -97.446787,
+    37.694131,
+    -97.446787,
+    37.694131
+],
+  "geometry": {"coordinates":[-97.446787,37.694131],"type":"Point"}
+}

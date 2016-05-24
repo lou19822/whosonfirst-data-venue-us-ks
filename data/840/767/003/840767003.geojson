@@ -1,0 +1,71 @@
+{
+  "id": 840767003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.650101,39.08978,-95.650101,39.08978",
+    "geom:latitude":39.08978,
+    "geom:longitude":-95.650101,
+    "iso:country":"US",
+    "sg:address":"2108 NE Meriden Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 1108",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vgt7hEMvn7mhSzgAr3K3b_39.089780_-95.650101@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047502,
+    "wof:geomhash":"985865e27a0d4f6b4bd29e57893d9744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840767003
+        }
+    ],
+    "wof:id":840767003,
+    "wof:lastmodified":1464047502,
+    "wof:name":"Gilmore Crane Corp",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -95.650101,
+    39.08978,
+    -95.650101,
+    39.08978
+],
+  "geometry": {"coordinates":[-95.65010100000001,39.08978],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840702291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762362,39.02333,-95.762362,39.02333",
+    "geom:latitude":39.02333,
+    "geom:longitude":-95.762362,
+    "iso:country":"US",
+    "sg:address":"2445 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 1300",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21gyEijO87rvi2PS4TuEzD_39.023330_-95.762362@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046151,
+    "wof:geomhash":"594bd3a71dfd39b76f51c7045af3593d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840702291
+        }
+    ],
+    "wof:id":840702291,
+    "wof:lastmodified":1464046151,
+    "wof:name":"Piper Jaffray Co",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -95.762362,
+    39.02333,
+    -95.762362,
+    39.02333
+],
+  "geometry": {"coordinates":[-95.762362,39.02333],"type":"Point"}
+}

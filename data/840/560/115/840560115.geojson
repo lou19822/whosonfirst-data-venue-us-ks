@@ -1,0 +1,71 @@
+{
+  "id": 840560115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.424922,37.694332,-97.424922,37.694332",
+    "geom:latitude":37.694332,
+    "geom:longitude":-97.424922,
+    "iso:country":"US",
+    "sg:address":"7011 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 9449",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:website":"www.gordmans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833555,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39p53cbR2CDPasO1JoqZpW_37.694332_-97.424922@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042738,
+    "wof:geomhash":"fcdfde59a28cc74138f2a15bb21db952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85833555,
+            "region_id":85688555,
+            "venue_id":840560115
+        }
+    ],
+    "wof:id":840560115,
+    "wof:lastmodified":1464042738,
+    "wof:name":"Gordmans",
+    "wof:parent_id":85833555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.424922,
+    37.694332,
+    -97.424922,
+    37.694332
+],
+  "geometry": {"coordinates":[-97.424922,37.694332],"type":"Point"}
+}

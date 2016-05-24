@@ -1,0 +1,71 @@
+{
+  "id": 840570025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180248,38.402356,-96.180248,38.402356",
+    "geom:latitude":38.402356,
+    "geom:longitude":-96.180248,
+    "iso:country":"US",
+    "sg:address":"323 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 8629",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u5UGlfPbmQDeleFF7OZBL_38.402356_-96.180248@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042986,
+    "wof:geomhash":"fd518281908034958d774ee4c6111e54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840570025
+        }
+    ],
+    "wof:id":840570025,
+    "wof:lastmodified":1464042986,
+    "wof:name":"Lariat Lounge",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -96.180248,
+    38.402356,
+    -96.180248,
+    38.402356
+],
+  "geometry": {"coordinates":[-96.18024800000001,38.402356],"type":"Point"}
+}

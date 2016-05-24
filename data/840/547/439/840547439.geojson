@@ -1,0 +1,74 @@
+{
+  "id": 840547439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.392334,37.665672,-97.392334,37.665672",
+    "geom:latitude":37.665672,
+    "geom:longitude":-97.392334,
+    "iso:country":"US",
+    "sg:address":"4203 W Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 946 5900",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "aircraft",
+        "component"
+    ],
+    "sg:website":"www.burnhamcomposites.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h293wUac00ekeQQLAWHjR_37.665672_-97.392334@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042443,
+    "wof:geomhash":"6278e66bba516329b08c2e0353766464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840547439
+        }
+    ],
+    "wof:id":840547439,
+    "wof:lastmodified":1464042443,
+    "wof:name":"Burnham Composites Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "component"
+    ]
+},
+  "bbox": [
+    -97.392334,
+    37.665672,
+    -97.392334,
+    37.665672
+],
+  "geometry": {"coordinates":[-97.39233400000001,37.665672],"type":"Point"}
+}

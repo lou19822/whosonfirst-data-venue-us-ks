@@ -1,0 +1,77 @@
+{
+  "id": 840783635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723609,38.936724,-94.723609,38.936724",
+    "geom:latitude":38.936724,
+    "geom:longitude":-94.723609,
+    "iso:country":"US",
+    "sg:address":"10500 Quivira Rd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 541 5417",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41Z6HvcFqd0Dw9pazYD2YZ_38.936724_-94.723609@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047830,
+    "wof:geomhash":"9273e90b92fa51ad172772be5fa2592f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":840783635
+        }
+    ],
+    "wof:id":840783635,
+    "wof:lastmodified":1464047830,
+    "wof:name":"United Imaging Consultants",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.723609,
+    38.936724,
+    -94.723609,
+    38.936724
+],
+  "geometry": {"coordinates":[-94.723609,38.936724],"type":"Point"}
+}

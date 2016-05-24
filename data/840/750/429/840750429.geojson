@@ -1,0 +1,73 @@
+{
+  "id": 840750429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.316059,37.648314,-97.316059,37.648314",
+    "geom:latitude":37.648314,
+    "geom:longitude":-97.316059,
+    "iso:country":"US",
+    "sg:address":"1731 Carson St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 1449",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MAWSkzo9vEeYpirkNT9w3_37.648314_-97.316059@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047111,
+    "wof:geomhash":"ed82578c39e1db1e72035711116c5df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840750429
+        }
+    ],
+    "wof:id":840750429,
+    "wof:lastmodified":1464047111,
+    "wof:name":"Justins Designs",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -97.316059,
+    37.648314,
+    -97.316059,
+    37.648314
+],
+  "geometry": {"coordinates":[-97.316059,37.648314],"type":"Point"}
+}

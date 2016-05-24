@@ -1,0 +1,77 @@
+{
+  "id": 840649799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686449,39.002756,-94.686449,39.002756",
+    "geom:latitude":39.002756,
+    "geom:longitude":-94.686449,
+    "iso:country":"US",
+    "sg:address":"6900 Antioch Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 677 2176",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gAxqtVGUNPVbsRr6RdZxb_39.002756_-94.686449@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044877,
+    "wof:geomhash":"32b3b636b71bdde4d0a525a2a1df6003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":840649799
+        }
+    ],
+    "wof:id":840649799,
+    "wof:lastmodified":1464044877,
+    "wof:name":"Import Shop",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.686449,
+    39.002756,
+    -94.686449,
+    39.002756
+],
+  "geometry": {"coordinates":[-94.686449,39.002756],"type":"Point"}
+}

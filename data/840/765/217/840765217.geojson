@@ -1,0 +1,75 @@
+{
+  "id": 840765217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.021718,37.679515,-97.021718,37.679515",
+    "geom:latitude":37.679515,
+    "geom:longitude":-97.021718,
+    "iso:country":"US",
+    "sg:address":"9273 SW US Hwy 54",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 2336",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QSTmcKLyrcznvSwSSrXqV_37.679515_-97.021718@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047458,
+    "wof:geomhash":"57bf1653f4d8d2a25873425106f491ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840765217
+        }
+    ],
+    "wof:id":840765217,
+    "wof:lastmodified":1464047458,
+    "wof:name":"Rolled's",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -97.021718,
+    37.679515,
+    -97.021718,
+    37.679515
+],
+  "geometry": {"coordinates":[-97.02171800000001,37.679515],"type":"Point"}
+}

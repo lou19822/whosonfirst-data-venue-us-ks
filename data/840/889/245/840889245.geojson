@@ -1,0 +1,75 @@
+{
+  "id": 840889245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706027,39.059998,-95.706027,39.059998",
+    "geom:latitude":39.059998,
+    "geom:longitude":-95.706027,
+    "iso:country":"US",
+    "sg:address":"400 SW Macvicar Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 228 9595",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881541,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GZHwZyyy9fuwmbIdmPr6e_39.059998_-95.706027@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050265,
+    "wof:geomhash":"a41aa61abd315b71356075d605925fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881541,
+            "region_id":85688555,
+            "venue_id":840889245
+        }
+    ],
+    "wof:id":840889245,
+    "wof:lastmodified":1464050265,
+    "wof:name":"Aspen Apartments",
+    "wof:parent_id":85881541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.706027,
+    39.059998,
+    -95.706027,
+    39.059998
+],
+  "geometry": {"coordinates":[-95.70602700000001,39.059998],"type":"Point"}
+}

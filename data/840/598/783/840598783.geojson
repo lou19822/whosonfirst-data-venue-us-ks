@@ -1,0 +1,82 @@
+{
+  "id": 840598783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.782648,38.883682,-94.782648,38.883682",
+    "geom:latitude":38.883682,
+    "geom:longitude":-94.782648,
+    "iso:country":"US",
+    "sg:address":"2001 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 768 0900",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tL71ZX02ck7QM8a9mxYAN_38.883682_-94.782648@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043629,
+    "wof:geomhash":"53e28dfbac217207176345f656bce7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840598783
+        }
+    ],
+    "wof:id":840598783,
+    "wof:lastmodified":1464043629,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -94.782648,
+    38.883682,
+    -94.782648,
+    38.883682
+],
+  "geometry": {"coordinates":[-94.78264799999999,38.883682],"type":"Point"}
+}

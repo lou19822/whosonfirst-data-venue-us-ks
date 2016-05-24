@@ -1,0 +1,71 @@
+{
+  "id": 840956321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.668083,39.091173,-95.668083,39.091173",
+    "geom:latitude":39.091173,
+    "geom:longitude":-95.668083,
+    "iso:country":"US",
+    "sg:address":"612 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 8393",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sqws2kMaphrcNeDGMwe2l_39.091173_-95.668083@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051767,
+    "wof:geomhash":"a27541cb719ff2fe8c94f6e0c9f5587e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840956321
+        }
+    ],
+    "wof:id":840956321,
+    "wof:lastmodified":1464051767,
+    "wof:name":"Lardner Monuments",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -95.668083,
+    39.091173,
+    -95.668083,
+    39.091173
+],
+  "geometry": {"coordinates":[-95.668083,39.091173],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840812129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352772,37.666094,-97.352772,37.666094",
+    "geom:latitude":37.666094,
+    "geom:longitude":-97.352772,
+    "iso:country":"US",
+    "sg:address":"1002 W Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 0659",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872823,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53gS8tob84Gjks8qDlKCtU_37.666094_-97.352772@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048507,
+    "wof:geomhash":"b0e046ef697e7e1dbfab58518016bf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872823,
+            "region_id":85688555,
+            "venue_id":840812129
+        }
+    ],
+    "wof:id":840812129,
+    "wof:lastmodified":1464048507,
+    "wof:name":"Allrite Import Svc",
+    "wof:parent_id":85872823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.352772,
+    37.666094,
+    -97.352772,
+    37.666094
+],
+  "geometry": {"coordinates":[-97.352772,37.666094],"type":"Point"}
+}

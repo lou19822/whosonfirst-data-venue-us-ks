@@ -1,0 +1,71 @@
+{
+  "id": 840742863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.565852,38.980944,-95.565852,38.980944",
+    "geom:latitude":38.980944,
+    "geom:longitude":-95.565852,
+    "iso:country":"US",
+    "sg:address":"4830 SE Dupont Rd",
+    "sg:city":"Berryton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 379 5259",
+    "sg:postcode":"66409",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mRpi58HtaSD0sMLtxqzxD_38.980944_-95.565852@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046948,
+    "wof:geomhash":"1798d44a0f45a7db5293bf8fa9edf947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840742863
+        }
+    ],
+    "wof:id":840742863,
+    "wof:lastmodified":1464046948,
+    "wof:name":"Childers Wesley",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.565852,
+    38.980944,
+    -95.565852,
+    38.980944
+],
+  "geometry": {"coordinates":[-95.56585200000001,38.980944],"type":"Point"}
+}

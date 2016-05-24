@@ -1,0 +1,75 @@
+{
+  "id": 840820891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180261,38.400984,-96.180261,38.400984",
+    "geom:latitude":38.400984,
+    "geom:longitude":-96.180261,
+    "iso:country":"US",
+    "sg:address":"211 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 0070",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mV9Hfw0ylkW41Ea9h6IXi_38.400984_-96.180261@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048774,
+    "wof:geomhash":"4656447cbdbfe3ddbdbc27f6f0d36b34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840820891
+        }
+    ],
+    "wof:id":840820891,
+    "wof:lastmodified":1464048774,
+    "wof:name":"Rigo's Automotive",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.180261,
+    38.400984,
+    -96.180261,
+    38.400984
+],
+  "geometry": {"coordinates":[-96.180261,38.400984],"type":"Point"}
+}

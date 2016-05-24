@@ -1,0 +1,75 @@
+{
+  "id": 840851263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.673364,39.055148,-95.673364,39.055148",
+    "geom:latitude":39.055148,
+    "geom:longitude":-95.673364,
+    "iso:country":"US",
+    "sg:address":"318 SW Jackson St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 4480",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26oA4mGjRozyr3os70rEeP_39.055148_-95.673364@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049469,
+    "wof:geomhash":"a79214ea8a3122399c42dcd29c6c8080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840851263
+        }
+    ],
+    "wof:id":840851263,
+    "wof:lastmodified":1464049469,
+    "wof:name":"Topeka Foundry & Iron",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -95.673364,
+    39.055148,
+    -95.673364,
+    39.055148
+],
+  "geometry": {"coordinates":[-95.67336400000001,39.055148],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840644555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848569,37.813825,-96.848569,37.813825",
+    "geom:latitude":37.813825,
+    "geom:longitude":-96.848569,
+    "iso:country":"US",
+    "sg:address":"112 E Locust Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3888",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25l62gYv5x8lGr9GlALrWs_37.813825_-96.848569@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044774,
+    "wof:geomhash":"ea74ba53ff723c5a58339618dc5c034b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840644555
+        }
+    ],
+    "wof:id":840644555,
+    "wof:lastmodified":1464044774,
+    "wof:name":"Demo Construction LLC",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.848569,
+    37.813825,
+    -96.848569,
+    37.813825
+],
+  "geometry": {"coordinates":[-96.848569,37.813825],"type":"Point"}
+}

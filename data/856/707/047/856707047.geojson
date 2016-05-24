@@ -1,0 +1,74 @@
+{
+  "id": 856707047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.617072,39.015111,-95.617072,39.015111",
+    "geom:latitude":39.015111,
+    "geom:longitude":-95.617072,
+    "iso:country":"US",
+    "sg:address":"3520 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/tecumseh/207394-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 0173",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hRB24KQTWyK1HSPBJaoxw_39.015111_-95.617072@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052209,
+    "wof:geomhash":"d973ad29a503f3dc13f585708e6b551d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":856707047
+        }
+    ],
+    "wof:id":856707047,
+    "wof:lastmodified":1464052209,
+    "wof:name":"Sonic",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.617072,
+    39.015111,
+    -95.617072,
+    39.015111
+],
+  "geometry": {"coordinates":[-95.61707199999999,39.015111],"type":"Point"}
+}

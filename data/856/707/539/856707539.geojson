@@ -1,0 +1,72 @@
+{
+  "id": 856707539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704944,37.435413,-94.704944,37.435413",
+    "geom:latitude":37.435413,
+    "geom:longitude":-94.704944,
+    "iso:country":"US",
+    "sg:address":"2828 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/pittsburg/118874-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 230 0419",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g5CDPwlt1iOo0zqi105OY_37.435413_-94.704944@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052220,
+    "wof:geomhash":"f9aa375d46b62a9fc37305a19a2b173b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856707539
+        }
+    ],
+    "wof:id":856707539,
+    "wof:lastmodified":1464052220,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.704944,
+    37.435413,
+    -94.704944,
+    37.435413
+],
+  "geometry": {"coordinates":[-94.704944,37.435413],"type":"Point"}
+}

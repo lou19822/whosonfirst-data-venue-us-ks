@@ -1,0 +1,77 @@
+{
+  "id": 840892251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.68759,39.001346,-95.68759,39.001346",
+    "geom:latitude":39.001346,
+    "geom:longitude":-95.68759,
+    "iso:country":"US",
+    "sg:address":"3642 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 0604",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PWeQa0b2TThpdeO7I1QDR_39.001346_-95.687590@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050328,
+    "wof:geomhash":"7d217ffd044bf32e215ae9f59ea1797d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840892251
+        }
+    ],
+    "wof:id":840892251,
+    "wof:lastmodified":1464050328,
+    "wof:name":"Center Stage Dance World",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -95.68759,
+    39.001346,
+    -95.68759,
+    39.001346
+],
+  "geometry": {"coordinates":[-95.68759,39.001346],"type":"Point"}
+}

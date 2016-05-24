@@ -1,0 +1,71 @@
+{
+  "id": 840724991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.618191,39.002823,-95.618191,39.002823",
+    "geom:latitude":39.002823,
+    "geom:longitude":-95.618191,
+    "iso:country":"US",
+    "sg:address":"3427 SE 36th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 3535",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WuDiQllJzYY8StkbZppUO_39.002823_-95.618191@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046611,
+    "wof:geomhash":"c6a76d3511c6ff2e9f2577f0bbbebe25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840724991
+        }
+    ],
+    "wof:id":840724991,
+    "wof:lastmodified":1464046611,
+    "wof:name":"Steuart Construction Co",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.618191,
+    39.002823,
+    -95.618191,
+    39.002823
+],
+  "geometry": {"coordinates":[-95.618191,39.002823],"type":"Point"}
+}

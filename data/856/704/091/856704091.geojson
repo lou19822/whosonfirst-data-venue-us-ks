@@ -1,0 +1,76 @@
+{
+  "id": 856704091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.815717,38.869063,-94.815717,38.869063",
+    "geom:latitude":38.869063,
+    "geom:longitude":-94.815717,
+    "iso:country":"US",
+    "sg:address":"1000 S Harrison St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/11822-go-chicken-go/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 5900",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vv2iNlmplc72oiaw6t5K1_38.869063_-94.815717@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052153,
+    "wof:geomhash":"5c0de572ad0b5b242deaa61f839ea0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704091
+        }
+    ],
+    "wof:id":856704091,
+    "wof:lastmodified":1464052153,
+    "wof:name":"Go Chicken Go",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.815717,
+    38.869063,
+    -94.815717,
+    38.869063
+],
+  "geometry": {"coordinates":[-94.81571700000001,38.869063],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840662555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.620616,39.003087,-95.620616,39.003087",
+    "geom:latitude":39.003087,
+    "geom:longitude":-95.620616,
+    "iso:country":"US",
+    "sg:address":"3520 SE Tomahawk Ct",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 5583",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uke6AGu2WoZJSp4750l7T_39.003087_-95.620616@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045156,
+    "wof:geomhash":"c250ee18af28c07e4c3aef842d799afa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840662555
+        }
+    ],
+    "wof:id":840662555,
+    "wof:lastmodified":1464045156,
+    "wof:name":"Kringle Konsulting LLC",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -95.620616,
+    39.003087,
+    -95.620616,
+    39.003087
+],
+  "geometry": {"coordinates":[-95.620616,39.003087],"type":"Point"}
+}

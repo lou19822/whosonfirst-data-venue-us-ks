@@ -1,0 +1,75 @@
+{
+  "id": 840559413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.082041,37.679681,-97.082041,37.679681",
+    "geom:latitude":37.679681,
+    "geom:longitude":-97.082041,
+    "iso:country":"US",
+    "sg:address":"13910 SW US Hwy 54",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 6650",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7edt4l0JEE8idPjK9kd8jf_37.679681_-97.082041@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042719,
+    "wof:geomhash":"fbbbfe618ff7ab50d6c092d667f9e58e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840559413
+        }
+    ],
+    "wof:id":840559413,
+    "wof:lastmodified":1464042719,
+    "wof:name":"Andover All Storage",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.082041,
+    37.679681,
+    -97.082041,
+    37.679681
+],
+  "geometry": {"coordinates":[-97.082041,37.679681],"type":"Point"}
+}

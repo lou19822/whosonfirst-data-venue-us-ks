@@ -1,0 +1,71 @@
+{
+  "id": 840654895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.635735,39.088856,-95.635735,39.088856",
+    "geom:latitude":39.088856,
+    "geom:longitude":-95.635735,
+    "iso:country":"US",
+    "sg:address":"2600 NE Grantville Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 8990",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "frozen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pJQZF3hJLIXX7Ix3Dc4fo_39.088856_-95.635735@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045001,
+    "wof:geomhash":"ca8d9dfa5f83e9c467750c187ffd3f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840654895
+        }
+    ],
+    "wof:id":840654895,
+    "wof:lastmodified":1464045001,
+    "wof:name":"Schwan's Sales Enterprises",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen"
+    ]
+},
+  "bbox": [
+    -95.635735,
+    39.088856,
+    -95.635735,
+    39.088856
+],
+  "geometry": {"coordinates":[-95.635735,39.088856],"type":"Point"}
+}

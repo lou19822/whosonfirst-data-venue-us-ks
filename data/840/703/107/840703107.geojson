@@ -1,0 +1,71 @@
+{
+  "id": 840703107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.2603,38.507918,-96.2603,38.507918",
+    "geom:latitude":38.507918,
+    "geom:longitude":-96.2603,
+    "iso:country":"US",
+    "sg:address":"705 5th St",
+    "sg:city":"Americus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 443 5345",
+    "sg:postcode":"66835",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z3ZUYaZ8EsW7NNrb4NtGO_38.507918_-96.260300@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046166,
+    "wof:geomhash":"8bf98baa1a6d54c347ce68069eab6e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840703107
+        }
+    ],
+    "wof:id":840703107,
+    "wof:lastmodified":1464046166,
+    "wof:name":"RBG Painting",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.2603,
+    38.507918,
+    -96.2603,
+    38.507918
+],
+  "geometry": {"coordinates":[-96.2603,38.507918],"type":"Point"}
+}

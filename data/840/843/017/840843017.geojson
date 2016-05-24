@@ -1,0 +1,73 @@
+{
+  "id": 840843017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.223908,38.407899,-96.223908,38.407899",
+    "geom:latitude":38.407899,
+    "geom:longitude":-96.223908,
+    "iso:country":"US",
+    "sg:address":"706 Lantern Ln",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 7063",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wPqxcKlAFwizc6lpnbOAa_38.407899_-96.223908@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049291,
+    "wof:geomhash":"1229f24c47f02a3b2e1602b9218db516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840843017
+        }
+    ],
+    "wof:id":840843017,
+    "wof:lastmodified":1464049291,
+    "wof:name":"Unruh Automotive",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.223908,
+    38.407899,
+    -96.223908,
+    38.407899
+],
+  "geometry": {"coordinates":[-96.22390799999999,38.407899],"type":"Point"}
+}

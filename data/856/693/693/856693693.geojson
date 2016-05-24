@@ -1,0 +1,71 @@
+{
+  "id": 856693693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.332808,37.650174,-97.332808,37.650174",
+    "geom:latitude":37.650174,
+    "geom:longitude":-97.332808,
+    "iso:country":"US",
+    "sg:address":"2324 S Emporia St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 2882",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "blind"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52KjhGXWOVJ3jxu6RAyn5s_37.650174_-97.332808@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051936,
+    "wof:geomhash":"6e9985c4c94f5a3511573f8e6688720e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":856693693
+        }
+    ],
+    "wof:id":856693693,
+    "wof:lastmodified":1464051936,
+    "wof:name":"National Federation-The Blind",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blind"
+    ]
+},
+  "bbox": [
+    -97.332808,
+    37.650174,
+    -97.332808,
+    37.650174
+],
+  "geometry": {"coordinates":[-97.332808,37.650174],"type":"Point"}
+}

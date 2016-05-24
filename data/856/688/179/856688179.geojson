@@ -1,0 +1,81 @@
+{
+  "id": 856688179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.663657,39.022231,-94.663657,39.022231",
+    "geom:latitude":39.022231,
+    "geom:longitude":-94.663657,
+    "iso:country":"US",
+    "sg:address":"6600 Johnson Dr",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 831 4152",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57vinmrwRfgStmUYKqJ2pB_39.022231_-94.663657@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051832,
+    "wof:geomhash":"40a617b7c833655badb097de9e27d344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":856688179
+        }
+    ],
+    "wof:id":856688179,
+    "wof:lastmodified":1464051832,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -94.663657,
+    39.022231,
+    -94.663657,
+    39.022231
+],
+  "geometry": {"coordinates":[-94.663657,39.022231],"type":"Point"}
+}

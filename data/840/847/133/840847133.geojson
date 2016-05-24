@@ -1,0 +1,71 @@
+{
+  "id": 840847133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.166427,38.398686,-96.166427,38.398686",
+    "geom:latitude":38.398686,
+    "geom:longitude":-96.166427,
+    "iso:country":"US",
+    "sg:address":"17 Peyton St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3121",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZCvM1PQNZy3GzxNIdYiib_38.398686_-96.166427@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049379,
+    "wof:geomhash":"1dae5182936ebfcc8a18df2bbebfc63c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840847133
+        }
+    ],
+    "wof:id":840847133,
+    "wof:lastmodified":1464049379,
+    "wof:name":"Done Right Construction",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.166427,
+    38.398686,
+    -96.166427,
+    38.398686
+],
+  "geometry": {"coordinates":[-96.166427,38.398686],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840922575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.740696,38.96034,-94.740696,38.96034",
+    "geom:latitude":38.96034,
+    "geom:longitude":-94.740696,
+    "iso:country":"US",
+    "sg:address":"13311 Walnut St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 8290",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67yzWUl123ZGUFXFrCSc42_38.960340_-94.740696@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051073,
+    "wof:geomhash":"3d19fe9b878f22020d0a88a3ab0f2476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840922575
+        }
+    ],
+    "wof:id":840922575,
+    "wof:lastmodified":1464051073,
+    "wof:name":"LENEXA Automotive",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.740696,
+    38.96034,
+    -94.740696,
+    38.96034
+],
+  "geometry": {"coordinates":[-94.740696,38.96034],"type":"Point"}
+}

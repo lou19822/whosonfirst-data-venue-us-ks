@@ -1,0 +1,73 @@
+{
+  "id": 840679637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.687826,37.379829,-94.687826,37.379829",
+    "geom:latitude":37.379829,
+    "geom:longitude":-94.687826,
+    "iso:country":"US",
+    "sg:address":"1014 Mount Carmel Pl",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 1500",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UULQz7iKdfrGnE6YhfRyG_37.379829_-94.687826@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045559,
+    "wof:geomhash":"5a2e9df250ed06bb3edd37430f6760b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840679637
+        }
+    ],
+    "wof:id":840679637,
+    "wof:lastmodified":1464045559,
+    "wof:name":"Pinamonti Physical Therapy PA",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -94.687826,
+    37.379829,
+    -94.687826,
+    37.379829
+],
+  "geometry": {"coordinates":[-94.687826,37.379829],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840569497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.712315,39.022983,-94.712315,39.022983",
+    "geom:latitude":39.022983,
+    "geom:longitude":-94.712315,
+    "iso:country":"US",
+    "sg:address":"5802 Bluejacket St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 7515",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.dmskc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xAkEtvZzeIHlRI3hykdUm_39.022983_-94.712315@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042970,
+    "wof:geomhash":"8ec5fcc33bc4ef409bacba256924cf3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":840569497
+        }
+    ],
+    "wof:id":840569497,
+    "wof:lastmodified":1464042970,
+    "wof:name":"Direct Messenger Svc",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -94.712315,
+    39.022983,
+    -94.712315,
+    39.022983
+],
+  "geometry": {"coordinates":[-94.712315,39.022983],"type":"Point"}
+}

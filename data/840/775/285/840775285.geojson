@@ -1,0 +1,77 @@
+{
+  "id": 840775285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.630447,39.018838,-94.630447,39.018838",
+    "geom:latitude":39.018838,
+    "geom:longitude":-94.630447,
+    "iso:country":"US",
+    "sg:address":"6014 Mission Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 7611",
+    "sg:postcode":"66205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879597,
+        102191575,
+        404504389,
+        85633793,
+        85945747,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48QaPPW8j2eKWXJddxtQ64_39.018838_-94.630447@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047672,
+    "wof:geomhash":"a622898c25e339ab30ec5113d8a4c3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504389,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":840775285
+        }
+    ],
+    "wof:id":840775285,
+    "wof:lastmodified":1464047672,
+    "wof:name":"Fairway Animal Hospital",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.630447,
+    39.018838,
+    -94.630447,
+    39.018838
+],
+  "geometry": {"coordinates":[-94.630447,39.018838],"type":"Point"}
+}

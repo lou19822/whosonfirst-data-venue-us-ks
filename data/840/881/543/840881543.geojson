@@ -1,0 +1,73 @@
+{
+  "id": 840881543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.742128,37.440461,-94.742128,37.440461",
+    "geom:latitude":37.440461,
+    "geom:longitude":-94.742128,
+    "iso:country":"US",
+    "sg:address":"596 E 570th Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 7440",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KI6e4RT2rmxTEA145lKzH_37.440461_-94.742128@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050104,
+    "wof:geomhash":"0faee9ec1bf473021ed1a93d2c89727b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840881543
+        }
+    ],
+    "wof:id":840881543,
+    "wof:lastmodified":1464050104,
+    "wof:name":"Curt's Cars",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.742128,
+    37.440461,
+    -94.742128,
+    37.440461
+],
+  "geometry": {"coordinates":[-94.74212799999999,37.440461],"type":"Point"}
+}

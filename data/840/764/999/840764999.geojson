@@ -1,0 +1,81 @@
+{
+  "id": 840764999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.420865,37.694407,-97.420865,37.694407",
+    "geom:latitude":37.694407,
+    "geom:longitude":-97.420865,
+    "iso:country":"US",
+    "sg:address":"6617 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 6710",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833555,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gs6kTD6NdGMFkcArAVipH_37.694407_-97.420865@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047452,
+    "wof:geomhash":"2a829bf2435af6945e2874e0c3eb340d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85833555,
+            "region_id":85688555,
+            "venue_id":840764999
+        }
+    ],
+    "wof:id":840764999,
+    "wof:lastmodified":1464047452,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85833555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -97.420865,
+    37.694407,
+    -97.420865,
+    37.694407
+],
+  "geometry": {"coordinates":[-97.42086500000001,37.694407],"type":"Point"}
+}

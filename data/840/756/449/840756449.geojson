@@ -1,0 +1,75 @@
+{
+  "id": 840756449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.696115,39.116669,-94.696115,39.116669",
+    "geom:latitude":39.116669,
+    "geom:longitude":-94.696115,
+    "iso:country":"US",
+    "sg:address":"5050 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 3742",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878491,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rsfVK5JJyHIptOT0GEeOf_39.116669_-94.696115@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047252,
+    "wof:geomhash":"503116e4395a53ffece8332390da3040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878491,
+            "region_id":85688555,
+            "venue_id":840756449
+        }
+    ],
+    "wof:id":840756449,
+    "wof:lastmodified":1464047252,
+    "wof:name":"Apollo Transmission Parts Div",
+    "wof:parent_id":85878491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -94.696115,
+    39.116669,
+    -94.696115,
+    39.116669
+],
+  "geometry": {"coordinates":[-94.69611500000001,39.116669],"type":"Point"}
+}

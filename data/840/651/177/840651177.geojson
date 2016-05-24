@@ -1,0 +1,72 @@
+{
+  "id": 840651177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706086,39.093335,-95.706086,39.093335",
+    "geom:latitude":39.093335,
+    "geom:longitude":-95.706086,
+    "iso:country":"US",
+    "sg:address":"2420 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 4309",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.ferrellconstr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38PgM4ucBEW1UhoupkGRsQ_39.093335_-95.706086@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044913,
+    "wof:geomhash":"5dbc5bbf67ae3a030435e00fe1666811",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840651177
+        }
+    ],
+    "wof:id":840651177,
+    "wof:lastmodified":1464044913,
+    "wof:name":"Ferrell Construction Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.706086,
+    39.093335,
+    -95.706086,
+    39.093335
+],
+  "geometry": {"coordinates":[-95.706086,39.093335],"type":"Point"}
+}

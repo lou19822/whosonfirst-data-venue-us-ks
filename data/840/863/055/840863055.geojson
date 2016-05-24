@@ -1,0 +1,71 @@
+{
+  "id": 840863055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.279411,37.770976,-97.279411,37.770976",
+    "geom:latitude":37.770976,
+    "geom:longitude":-97.279411,
+    "iso:country":"US",
+    "sg:address":"4819 N Glendale St",
+    "sg:city":"Bel Aire",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 744 3159",
+    "sg:postcode":"67220",
+    "sg:province":"KS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945835,
+        102084203,
+        85803671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35JaaQqavgvDvXvRtp1LJP_37.770976_-97.279411@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049716,
+    "wof:geomhash":"44111e9422289d5378507b2e48dca0c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945835,
+            "neighbourhood_id":85803671,
+            "region_id":85688555,
+            "venue_id":840863055
+        }
+    ],
+    "wof:id":840863055,
+    "wof:lastmodified":1464049716,
+    "wof:name":"A-1 Home Wiring",
+    "wof:parent_id":85803671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -97.279411,
+    37.770976,
+    -97.279411,
+    37.770976
+],
+  "geometry": {"coordinates":[-97.279411,37.770976],"type":"Point"}
+}

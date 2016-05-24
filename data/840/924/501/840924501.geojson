@@ -1,0 +1,73 @@
+{
+  "id": 840924501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.630819,37.463744,-94.630819,37.463744",
+    "geom:latitude":37.463744,
+    "geom:longitude":-94.630819,
+    "iso:country":"US",
+    "sg:address":"437 S 260th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 6427",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B1LK3shjRxXvhgrVmJyL0_37.463744_-94.630819@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051120,
+    "wof:geomhash":"9ca56977682063a443c658dc0afb4af0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840924501
+        }
+    ],
+    "wof:id":840924501,
+    "wof:lastmodified":1464051120,
+    "wof:name":"Watco Mechanical Dept",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.630819,
+    37.463744,
+    -94.630819,
+    37.463744
+],
+  "geometry": {"coordinates":[-94.630819,37.463744],"type":"Point"}
+}

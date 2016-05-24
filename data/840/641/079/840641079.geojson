@@ -1,0 +1,71 @@
+{
+  "id": 840641079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.356127,37.631997,-97.356127,37.631997",
+    "geom:latitude":37.631997,
+    "geom:longitude":-97.356127,
+    "iso:country":"US",
+    "sg:address":"1408 W 34th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 6891",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XlWYiN5iPj0oEd4oQGMT2_37.631997_-97.356127@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044701,
+    "wof:geomhash":"522c3e97b87b86999a75f2f99fb1b209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840641079
+        }
+    ],
+    "wof:id":840641079,
+    "wof:lastmodified":1464044701,
+    "wof:name":"Faith Baptist Church",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.356127,
+    37.631997,
+    -97.356127,
+    37.631997
+],
+  "geometry": {"coordinates":[-97.356127,37.631997],"type":"Point"}
+}

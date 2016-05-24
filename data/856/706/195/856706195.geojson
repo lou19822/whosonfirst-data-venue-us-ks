@@ -1,0 +1,74 @@
+{
+  "id": 856706195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.723085,38.88508,-94.723085,38.88508",
+    "geom:latitude":38.88508,
+    "geom:longitude":-94.723085,
+    "iso:country":"US",
+    "sg:address":"11850 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/186680-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 685 9898",
+    "sg:postcode":"66221",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cRXPfrZovt8Q0rqcPXDCi_38.885080_-94.723085@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052190,
+    "wof:geomhash":"690b97dda1cf81e86170495648334577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":856706195
+        }
+    ],
+    "wof:id":856706195,
+    "wof:lastmodified":1464052190,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.723085,
+    38.88508,
+    -94.723085,
+    38.88508
+],
+  "geometry": {"coordinates":[-94.723085,38.88508],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840922291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.867338,39.026843,-94.867338,39.026843",
+    "geom:latitude":39.026843,
+    "geom:longitude":-94.867338,
+    "iso:country":"US",
+    "sg:address":"5781 Belmont St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 422 9525",
+    "sg:postcode":"66226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835005,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YftdW1AuDCwa4EU4fNu27_39.026843_-94.867338@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051068,
+    "wof:geomhash":"a607c0d35702904d3af5a2bce9de3237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85835005,
+            "region_id":85688555,
+            "venue_id":840922291
+        }
+    ],
+    "wof:id":840922291,
+    "wof:lastmodified":1464051068,
+    "wof:name":"Heritage Financial",
+    "wof:parent_id":85835005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -94.867338,
+    39.026843,
+    -94.867338,
+    39.026843
+],
+  "geometry": {"coordinates":[-94.867338,39.026843],"type":"Point"}
+}

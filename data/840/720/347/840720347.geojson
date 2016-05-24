@@ -1,0 +1,73 @@
+{
+  "id": 840720347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664554,39.09719,-95.664554,39.09719",
+    "geom:latitude":39.09719,
+    "geom:longitude":-95.664554,
+    "iso:country":"US",
+    "sg:address":"2636 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 5002",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vrHL3JMDtmkWn7umzWBgp_39.097190_-95.664554@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046517,
+    "wof:geomhash":"14fc100cdf353a3c59433eba50bd5b31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840720347
+        }
+    ],
+    "wof:id":840720347,
+    "wof:lastmodified":1464046517,
+    "wof:name":"Charlie Auto Sales",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.664554,
+    39.09719,
+    -95.664554,
+    39.09719
+],
+  "geometry": {"coordinates":[-95.664554,39.09719],"type":"Point"}
+}

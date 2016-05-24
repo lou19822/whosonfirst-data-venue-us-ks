@@ -1,0 +1,81 @@
+{
+  "id": 840792359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687519,39.03015,-95.687519,39.03015",
+    "geom:latitude":39.03015,
+    "geom:longitude":-95.687519,
+    "iso:country":"US",
+    "sg:address":"2044 SW Western Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 0120",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "executive"
+    ],
+    "sg:website":"www.co.shawnee.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cM3lwa6xllBQwz6lhJQE2_39.030150_-95.687519@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048029,
+    "wof:geomhash":"d52871aa8f1b7a5195b8ba97c7e8622e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840792359
+        }
+    ],
+    "wof:id":840792359,
+    "wof:lastmodified":1464048029,
+    "wof:name":"Shawnee County Noxious Weed",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -95.687519,
+    39.03015,
+    -95.687519,
+    39.03015
+],
+  "geometry": {"coordinates":[-95.68751899999999,39.03015],"type":"Point"}
+}

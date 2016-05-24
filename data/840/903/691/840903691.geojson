@@ -1,0 +1,77 @@
+{
+  "id": 840903691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.702627,38.987386,-94.702627,38.987386",
+    "geom:latitude":38.987386,
+    "geom:longitude":-94.702627,
+    "iso:country":"US",
+    "sg:address":"7899 Frontage Rd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 831 4000",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879543,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46HgmVXVzOHKXsYLPgIuWl_38.987386_-94.702627@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050570,
+    "wof:geomhash":"e551f6dfa18dba2c7b3e6c28b79841ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879543,
+            "region_id":85688555,
+            "venue_id":840903691
+        }
+    ],
+    "wof:id":840903691,
+    "wof:lastmodified":1464050570,
+    "wof:name":"All Star Rent A Car",
+    "wof:parent_id":85879543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.702627,
+    38.987386,
+    -94.702627,
+    38.987386
+],
+  "geometry": {"coordinates":[-94.70262700000001,38.987386],"type":"Point"}
+}

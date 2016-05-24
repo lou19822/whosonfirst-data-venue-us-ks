@@ -1,0 +1,69 @@
+{
+  "id": 840917499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664504,39.129621,-95.664504,39.129621",
+    "geom:latitude":39.129621,
+    "geom:longitude":-95.664504,
+    "iso:country":"US",
+    "sg:address":"600 NW 46th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2123",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EwGQ8NwP3AKmSnpzBDIxL_39.129621_-95.664504@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050943,
+    "wof:geomhash":"f6c5eb4cd09d2c6f0118eb756f14ca89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840917499
+        }
+    ],
+    "wof:id":840917499,
+    "wof:lastmodified":1464050943,
+    "wof:name":"Soldier Twp Fire Dept",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.664504,
+    39.129621,
+    -95.664504,
+    39.129621
+],
+  "geometry": {"coordinates":[-95.66450399999999,39.129621],"type":"Point"}
+}

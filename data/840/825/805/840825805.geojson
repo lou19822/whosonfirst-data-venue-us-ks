@@ -1,0 +1,69 @@
+{
+  "id": 840825805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.882331,37.817269,-96.882331,37.817269",
+    "geom:latitude":37.817269,
+    "geom:longitude":-96.882331,
+    "iso:country":"US",
+    "sg:address":"2401 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 322 7730",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PzZBgJBh519thw4IodI3w_37.817269_-96.882331@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048905,
+    "wof:geomhash":"5b83e71e70ff9ce50c9035e32310f359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840825805
+        }
+    ],
+    "wof:id":840825805,
+    "wof:lastmodified":1464048905,
+    "wof:name":"Wonder Hostess Bakery Outlet",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -96.882331,
+    37.817269,
+    -96.882331,
+    37.817269
+],
+  "geometry": {"coordinates":[-96.88233099999999,37.817269],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840893317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.367714,37.727431,-97.367714,37.727431",
+    "geom:latitude":37.727431,
+    "geom:longitude":-97.367714,
+    "iso:country":"US",
+    "sg:address":"2225 W 24th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 2331",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nyAMPyxDDgtuq06lLWFlU_37.727431_-97.367714@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050352,
+    "wof:geomhash":"455d9acdd0afc0184672a98c470bac2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840893317
+        }
+    ],
+    "wof:id":840893317,
+    "wof:lastmodified":1464050352,
+    "wof:name":"Auto Trends",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -97.367714,
+    37.727431,
+    -97.367714,
+    37.727431
+],
+  "geometry": {"coordinates":[-97.36771400000001,37.727431],"type":"Point"}
+}

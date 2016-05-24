@@ -1,0 +1,71 @@
+{
+  "id": 840869159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.1801,38.411076,-96.1801,38.411076",
+    "geom:latitude":38.411076,
+    "geom:longitude":-96.1801,
+    "iso:country":"US",
+    "sg:address":"1001 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 6789",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lZFsX9glmjGkCAQcnuTwa_38.411076_-96.180100@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049839,
+    "wof:geomhash":"401ccc96088b24fb707420d4db6ffa87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840869159
+        }
+    ],
+    "wof:id":840869159,
+    "wof:lastmodified":1464049839,
+    "wof:name":"Essdack Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -96.1801,
+    38.411076,
+    -96.1801,
+    38.411076
+],
+  "geometry": {"coordinates":[-96.1801,38.411076],"type":"Point"}
+}

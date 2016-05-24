@@ -1,0 +1,82 @@
+{
+  "id": 856705415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668678,38.928935,-94.668678,38.928935",
+    "geom:latitude":38.928935,
+    "geom:longitude":-94.668678,
+    "iso:country":"US",
+    "sg:address":"11000 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/89786-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 661 0441",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879547,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QbLoBcmcdDhtguLSncfwn_38.928935_-94.668678@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052177,
+    "wof:geomhash":"b5c1baeec2b339e6d074434c9e163622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879547,
+            "region_id":85688555,
+            "venue_id":856705415
+        }
+    ],
+    "wof:id":856705415,
+    "wof:lastmodified":1464052177,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85879547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.668678,
+    38.928935,
+    -94.668678,
+    38.928935
+],
+  "geometry": {"coordinates":[-94.668678,38.928935],"type":"Point"}
+}

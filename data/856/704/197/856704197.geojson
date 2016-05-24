@@ -1,0 +1,80 @@
+{
+  "id": 856704197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.805278,38.883402,-94.805278,38.883402",
+    "geom:latitude":38.883402,
+    "geom:longitude":-94.805278,
+    "iso:country":"US",
+    "sg:address":"705 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/74677-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 6311",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IXQgUe4KRZJPSLFu7zhfy_38.883402_-94.805278@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052154,
+    "wof:geomhash":"acd0722afb4d93031fdff8174ac7427a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704197
+        }
+    ],
+    "wof:id":856704197,
+    "wof:lastmodified":1464052154,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.805278,
+    38.883402,
+    -94.805278,
+    38.883402
+],
+  "geometry": {"coordinates":[-94.805278,38.883402],"type":"Point"}
+}

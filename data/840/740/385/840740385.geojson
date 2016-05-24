@@ -1,0 +1,79 @@
+{
+  "id": 840740385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.698713,39.007663,-94.698713,39.007663",
+    "geom:latitude":39.007663,
+    "geom:longitude":-94.698713,
+    "iso:country":"US",
+    "sg:address":"9808 W 67th St",
+    "sg:city":"Merriam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 384 6565",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CA98SEt59Kd4Y2n9Or0JW_39.007663_-94.698713@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046902,
+    "wof:geomhash":"244a5e1cf942a3a93567c7e3b45a4c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":840740385
+        }
+    ],
+    "wof:id":840740385,
+    "wof:lastmodified":1464046902,
+    "wof:name":"Merriam Leasing & Rental",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -94.698713,
+    39.007663,
+    -94.698713,
+    39.007663
+],
+  "geometry": {"coordinates":[-94.698713,39.007663],"type":"Point"}
+}

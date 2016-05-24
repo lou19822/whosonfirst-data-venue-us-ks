@@ -1,0 +1,73 @@
+{
+  "id": 840767875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.951864,38.309283,-95.951864,38.309283",
+    "geom:latitude":38.309283,
+    "geom:longitude":-95.951864,
+    "iso:country":"US",
+    "sg:address":"211 Neosho St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 392 5713",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "residential",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sCviCiigHTL4EhoMP16Yh_38.309283_-95.951864@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047523,
+    "wof:geomhash":"5a99fe2d42323e914683bc4807563490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840767875
+        }
+    ],
+    "wof:id":840767875,
+    "wof:lastmodified":1464047523,
+    "wof:name":"Twin Pnes Rsdntial Care Fcilty",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -95.951864,
+    38.309283,
+    -95.951864,
+    38.309283
+],
+  "geometry": {"coordinates":[-95.951864,38.309283],"type":"Point"}
+}

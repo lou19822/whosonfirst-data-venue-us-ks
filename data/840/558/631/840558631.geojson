@@ -1,0 +1,71 @@
+{
+  "id": 840558631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.069642,37.636073,-97.069642,37.636073",
+    "geom:latitude":37.636073,
+    "geom:longitude":-97.069642,
+    "iso:country":"US",
+    "sg:address":"12056 SW 130th St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 5967",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pcIhO5NFm5I4BSMBCUOUI_37.636073_-97.069642@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042705,
+    "wof:geomhash":"10b6907a5f019ef52218a8cc151834ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840558631
+        }
+    ],
+    "wof:id":840558631,
+    "wof:lastmodified":1464042705,
+    "wof:name":"Gerbitz Plumbing",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.069642,
+    37.636073,
+    -97.069642,
+    37.636073
+],
+  "geometry": {"coordinates":[-97.069642,37.636073],"type":"Point"}
+}

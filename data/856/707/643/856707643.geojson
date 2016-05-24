@@ -1,0 +1,74 @@
+{
+  "id": 856707643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.21514,38.424194,-96.21514,38.424194",
+    "geom:latitude":38.424194,
+    "geom:longitude":-96.21514,
+    "iso:country":"US",
+    "sg:address":"2613 Candlewood Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/198362-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 9999",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ey1EXEeMUMJzo7cQA3EwU_38.424194_-96.215140@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052223,
+    "wof:geomhash":"af8f0e592e865aba98e17e76360e9367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707643
+        }
+    ],
+    "wof:id":856707643,
+    "wof:lastmodified":1464052223,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -96.21514,
+    38.424194,
+    -96.21514,
+    38.424194
+],
+  "geometry": {"coordinates":[-96.21514000000001,38.424194],"type":"Point"}
+}

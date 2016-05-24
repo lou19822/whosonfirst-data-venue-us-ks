@@ -1,0 +1,71 @@
+{
+  "id": 840830063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.759739,37.353512,-94.759739,37.353512",
+    "geom:latitude":37.353512,
+    "geom:longitude":-94.759739,
+    "iso:country":"US",
+    "sg:address":"1132 S 190th St",
+    "sg:city":"Weir",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 2768",
+    "sg:postcode":"66781",
+    "sg:province":"KS",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lMHe9nBVjQe671cSRBVx7_37.353512_-94.759739@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049008,
+    "wof:geomhash":"4dd58dc03b0acfca6cb7084b29492443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840830063
+        }
+    ],
+    "wof:id":840830063,
+    "wof:lastmodified":1464049008,
+    "wof:name":"Madl Construction",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -94.759739,
+    37.353512,
+    -94.759739,
+    37.353512
+],
+  "geometry": {"coordinates":[-94.759739,37.353512],"type":"Point"}
+}

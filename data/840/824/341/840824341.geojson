@@ -1,0 +1,70 @@
+{
+  "id": 840824341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.019434,37.745868,-100.019434,37.745868",
+    "geom:latitude":37.745868,
+    "geom:longitude":-100.019434,
+    "iso:country":"US",
+    "sg:address":"200 S 2nd Ave",
+    "sg:city":"Dodge City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 227 8817",
+    "sg:postcode":"67801",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849601,
+        102191575,
+        404503629,
+        85633793,
+        85945215,
+        102082141,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qTErbgWv7LMuLnbdhVfdS_37.745868_-100.019434@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048879,
+    "wof:geomhash":"5cbc04e13c11522bc674d84f85d6a3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082141,
+            "localadmin_id":404503629,
+            "locality_id":85945215,
+            "neighbourhood_id":85849601,
+            "region_id":85688555,
+            "venue_id":840824341
+        }
+    ],
+    "wof:id":840824341,
+    "wof:lastmodified":1464048879,
+    "wof:name":"Glen's Barber Shop",
+    "wof:parent_id":85849601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.019434,
+    37.745868,
+    -100.019434,
+    37.745868
+],
+  "geometry": {"coordinates":[-100.019434,37.745868],"type":"Point"}
+}

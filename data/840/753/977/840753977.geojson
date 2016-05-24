@@ -1,0 +1,73 @@
+{
+  "id": 840753977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.989854,37.519496,-96.989854,37.519496",
+    "geom:latitude":37.519496,
+    "geom:longitude":-96.989854,
+    "iso:country":"US",
+    "sg:address":"7879 SW 210th St",
+    "sg:city":"Douglass",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 746 2386",
+    "sg:postcode":"67039",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pcIoA5peeL6P2g2MAgnqu_37.519496_-96.989854@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047195,
+    "wof:geomhash":"8d510d10316951ea654580335fc679ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840753977
+        }
+    ],
+    "wof:id":840753977,
+    "wof:lastmodified":1464047195,
+    "wof:name":"Bucher Sales",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -96.989854,
+    37.519496,
+    -96.989854,
+    37.519496
+],
+  "geometry": {"coordinates":[-96.98985399999999,37.519496],"type":"Point"}
+}

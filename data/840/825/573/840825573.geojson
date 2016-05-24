@@ -1,0 +1,74 @@
+{
+  "id": 840825573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.362927,37.722813,-97.362927,37.722813",
+    "geom:latitude":37.722813,
+    "geom:longitude":-97.362927,
+    "iso:country":"US",
+    "sg:address":"1810 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 2660",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.rapidbrake.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cR268TbUsfuIGa653eTnf_37.722813_-97.362927@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048902,
+    "wof:geomhash":"f9b560b09038692d2d4e19753c0cf373",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840825573
+        }
+    ],
+    "wof:id":840825573,
+    "wof:lastmodified":1464048902,
+    "wof:name":"Rapid Brake & Muffler",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.362927,
+    37.722813,
+    -97.362927,
+    37.722813
+],
+  "geometry": {"coordinates":[-97.362927,37.722813],"type":"Point"}
+}

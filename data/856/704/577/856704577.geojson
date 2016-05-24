@@ -1,0 +1,74 @@
+{
+  "id": 856704577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.826158,38.749403,-94.826158,38.749403",
+    "geom:latitude":38.749403,
+    "geom:longitude":-94.826158,
+    "iso:country":"US",
+    "sg:address":"607 N Webster St",
+    "sg:city":"Spring Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/spring-hill/225530-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 686 2100",
+    "sg:postcode":"66083",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V3eRYEj0f4YyC0pctmhNA_38.749403_-94.826158@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052162,
+    "wof:geomhash":"68a9a00c17e04e00c4e01ea7f57506e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":856704577
+        }
+    ],
+    "wof:id":856704577,
+    "wof:lastmodified":1464052162,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.826158,
+    38.749403,
+    -94.826158,
+    38.749403
+],
+  "geometry": {"coordinates":[-94.82615800000001,38.749403],"type":"Point"}
+}

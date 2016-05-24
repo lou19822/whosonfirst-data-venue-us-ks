@@ -1,0 +1,75 @@
+{
+  "id": 840903473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.670625,38.834642,-94.670625,38.834642",
+    "geom:latitude":38.834642,
+    "geom:longitude":-94.670625,
+    "iso:country":"US",
+    "sg:address":"7380 W 162nd St",
+    "sg:city":"Stilwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 897 2293",
+    "sg:postcode":"66085",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b6iVNu6efpeo7kCGb1Dli_38.834642_-94.670625@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050567,
+    "wof:geomhash":"5aab29a5bc8e92df821a4e733307b0d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840903473
+        }
+    ],
+    "wof:id":840903473,
+    "wof:lastmodified":1464050567,
+    "wof:name":"Country Side Auto Body",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.670625,
+    38.834642,
+    -94.670625,
+    38.834642
+],
+  "geometry": {"coordinates":[-94.670625,38.834642],"type":"Point"}
+}

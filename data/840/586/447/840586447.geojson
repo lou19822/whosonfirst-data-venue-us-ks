@@ -1,0 +1,82 @@
+{
+  "id": 840586447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668535,39.139189,-94.668535,39.139189",
+    "geom:latitude":39.139189,
+    "geom:longitude":-94.668535,
+    "iso:country":"US",
+    "sg:address":"3021 N 34 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 281 0700",
+    "sg:postcode":"66104",
+    "sg:province":"KS",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878503,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EmSR5i7CjyUX6tLvRsDuF_39.139189_-94.668535@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043347,
+    "wof:geomhash":"bd322ceeb16fab293adea7335639c3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878503,
+            "region_id":85688555,
+            "venue_id":840586447
+        }
+    ],
+    "wof:id":840586447,
+    "wof:lastmodified":1464043347,
+    "wof:name":"Woodward Welding",
+    "wof:parent_id":85878503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.668535,
+    39.139189,
+    -94.668535,
+    39.139189
+],
+  "geometry": {"coordinates":[-94.66853500000001,39.139189],"type":"Point"}
+}

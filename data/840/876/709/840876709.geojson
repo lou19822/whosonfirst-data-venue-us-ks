@@ -1,0 +1,71 @@
+{
+  "id": 840876709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.71467,37.440281,-94.71467,37.440281",
+    "geom:latitude":37.440281,
+    "geom:longitude":-94.71467,
+    "iso:country":"US",
+    "sg:address":"621 W Atkinson Rd",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7535",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58F6VNclBL0FOnMcQjOQSM_37.440281_-94.714670@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049986,
+    "wof:geomhash":"846965057077192dd906c7d2f86cdd43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840876709
+        }
+    ],
+    "wof:id":840876709,
+    "wof:lastmodified":1464049986,
+    "wof:name":"Residential Garage Door Svc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -94.71467,
+    37.440281,
+    -94.71467,
+    37.440281
+],
+  "geometry": {"coordinates":[-94.71467,37.440281],"type":"Point"}
+}

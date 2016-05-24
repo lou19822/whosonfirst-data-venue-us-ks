@@ -1,0 +1,77 @@
+{
+  "id": 840953333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.751586,39.01617,-95.751586,39.01617",
+    "geom:latitude":39.01617,
+    "geom:longitude":-95.751586,
+    "iso:country":"US",
+    "sg:address":"5649 SW Barrington Ct S",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 221 2975",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h0cmuFw5eoQCFeuqig1b6_39.016170_-95.751586@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051716,
+    "wof:geomhash":"9b9e2b97b11ed025069920127ea4e78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840953333
+        }
+    ],
+    "wof:id":840953333,
+    "wof:lastmodified":1464051716,
+    "wof:name":"Car Craft",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -95.751586,
+    39.01617,
+    -95.751586,
+    39.01617
+],
+  "geometry": {"coordinates":[-95.751586,39.01617],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856687679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.635125,39.080675,-94.635125,39.080675",
+    "geom:latitude":39.080675,
+    "geom:longitude":-94.635125,
+    "iso:country":"US",
+    "sg:address":"940 Cheyenne Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 1734",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873441,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_480bkEJ73zJOx7sv6opgFa_39.080675_-94.635125@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051817,
+    "wof:geomhash":"dba833281707ec69a0949e6bb6d5db47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85873441,
+            "region_id":85688555,
+            "venue_id":856687679
+        }
+    ],
+    "wof:id":856687679,
+    "wof:lastmodified":1464051817,
+    "wof:name":"JCLL Trucking Co",
+    "wof:parent_id":85873441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.635125,
+    39.080675,
+    -94.635125,
+    39.080675
+],
+  "geometry": {"coordinates":[-94.635125,39.080675],"type":"Point"}
+}

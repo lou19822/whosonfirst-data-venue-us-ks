@@ -1,0 +1,79 @@
+{
+  "id": 840809895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.153829,38.397693,-96.153829,38.397693",
+    "geom:latitude":38.397693,
+    "geom:longitude":-96.153829,
+    "iso:country":"US",
+    "sg:address":"1701 E South Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9236",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "sg:website":"www.norfolkiron.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DeKV7QYnRfzu6c7huzdAm_38.397693_-96.153829@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048417,
+    "wof:geomhash":"59d9e43909403131ba7256980e8567e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840809895
+        }
+    ],
+    "wof:id":840809895,
+    "wof:lastmodified":1464048417,
+    "wof:name":"Norfolk Iron & Metal Co",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -96.153829,
+    38.397693,
+    -96.153829,
+    38.397693
+],
+  "geometry": {"coordinates":[-96.153829,38.397693],"type":"Point"}
+}

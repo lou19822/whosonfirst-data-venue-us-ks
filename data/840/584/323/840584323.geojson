@@ -1,0 +1,80 @@
+{
+  "id": 840584323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.701964,39.116688,-94.701964,39.116688",
+    "geom:latitude":39.116688,
+    "geom:longitude":-94.701964,
+    "iso:country":"US",
+    "sg:address":"5200 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 1327",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.uhaul.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878491,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AQRFz88AeS4fZnLxyeEzt_39.116688_-94.701964@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043298,
+    "wof:geomhash":"de940821262179b31b01fb2f99185e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878491,
+            "region_id":85688555,
+            "venue_id":840584323
+        }
+    ],
+    "wof:id":840584323,
+    "wof:lastmodified":1464043298,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85878491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -94.701964,
+    39.116688,
+    -94.701964,
+    39.116688
+],
+  "geometry": {"coordinates":[-94.701964,39.116688],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 840913215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687573,38.96505,-95.687573,38.96505",
+    "geom:latitude":38.96505,
+    "geom:longitude":-95.687573,
+    "iso:country":"US",
+    "sg:address":"5341 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 2428",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xSBgEhWjIFvi2KOTps3mE_38.965050_-95.687573@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050826,
+    "wof:geomhash":"009b01a104d77705b9607e983d4ba9c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840913215
+        }
+    ],
+    "wof:id":840913215,
+    "wof:lastmodified":1464050826,
+    "wof:name":"Edwards Retail Liquor",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.687573,
+    38.96505,
+    -95.687573,
+    38.96505
+],
+  "geometry": {"coordinates":[-95.687573,38.96505],"type":"Point"}
+}

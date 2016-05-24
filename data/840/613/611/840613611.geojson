@@ -1,0 +1,73 @@
+{
+  "id": 840613611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.747377,37.414655,-94.747377,37.414655",
+    "geom:latitude":37.414655,
+    "geom:longitude":-94.747377,
+    "iso:country":"US",
+    "sg:address":"757 S 196th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5559",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46LuRJEyuVJW7spZmfnte5_37.414655_-94.747377@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044008,
+    "wof:geomhash":"ee64a0023db30dfe2e9f64edc35b0e24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840613611
+        }
+    ],
+    "wof:id":840613611,
+    "wof:lastmodified":1464044008,
+    "wof:name":"Norris Trash Svc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -94.747377,
+    37.414655,
+    -94.747377,
+    37.414655
+],
+  "geometry": {"coordinates":[-94.747377,37.414655],"type":"Point"}
+}

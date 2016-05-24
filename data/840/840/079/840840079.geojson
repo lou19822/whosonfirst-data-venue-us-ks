@@ -1,0 +1,78 @@
+{
+  "id": 840840079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.787851,38.906164,-94.787851,38.906164",
+    "geom:latitude":38.906164,
+    "geom:longitude":-94.787851,
+    "iso:country":"US",
+    "sg:address":"1802 E 123rd St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 663 1200",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.heritage-electric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CO3VeAf01D3WJbQiwWfBr_38.906164_-94.787851@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049215,
+    "wof:geomhash":"a05432830d0553cc317d33c7782dcde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840840079
+        }
+    ],
+    "wof:id":840840079,
+    "wof:lastmodified":1464049215,
+    "wof:name":"Heritage Electric",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.787851,
+    38.906164,
+    -94.787851,
+    38.906164
+],
+  "geometry": {"coordinates":[-94.787851,38.906164],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840574217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687649,39.004717,-95.687649,39.004717",
+    "geom:latitude":39.004717,
+    "geom:longitude":-95.687649,
+    "iso:country":"US",
+    "sg:address":"3612 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 4455",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36uw2tOjGYgFqG2eGSAxns_39.004717_-95.687649@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043088,
+    "wof:geomhash":"43705b55398fa39d9b1f61b00e765031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840574217
+        }
+    ],
+    "wof:id":840574217,
+    "wof:lastmodified":1464043088,
+    "wof:name":"Popcorn City",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.687649,
+    39.004717,
+    -95.687649,
+    39.004717
+],
+  "geometry": {"coordinates":[-95.68764899999999,39.004717],"type":"Point"}
+}

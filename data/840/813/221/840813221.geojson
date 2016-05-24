@@ -1,0 +1,71 @@
+{
+  "id": 840813221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.94591,39.138185,-94.94591,39.138185",
+    "geom:latitude":39.138185,
+    "geom:longitude":-94.94591,
+    "iso:country":"US",
+    "sg:address":"15900 Hickory St",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 1130",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N6zGOaLNwSixSqdBmqq5O_39.138185_-94.945910@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048549,
+    "wof:geomhash":"f0d181af988441ad48614344b0327e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840813221
+        }
+    ],
+    "wof:id":840813221,
+    "wof:lastmodified":1464048549,
+    "wof:name":"Baker's Tow Svc",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.94591,
+    39.138185,
+    -94.94591,
+    39.138185
+],
+  "geometry": {"coordinates":[-94.94591,39.138185],"type":"Point"}
+}

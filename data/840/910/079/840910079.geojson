@@ -1,0 +1,73 @@
+{
+  "id": 840910079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.66643,39.090985,-95.66643,39.090985",
+    "geom:latitude":39.090985,
+    "geom:longitude":-95.66643,
+    "iso:country":"US",
+    "sg:address":"417 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 6644",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y2Nlx8KYHkEznRp7Jkp0c_39.090985_-95.666430@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050730,
+    "wof:geomhash":"fa1201d39105f35a0cb9b458b1ce913a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840910079
+        }
+    ],
+    "wof:id":840910079,
+    "wof:lastmodified":1464050730,
+    "wof:name":"North Valley Animal Hospital",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -95.66643,
+    39.090985,
+    -95.66643,
+    39.090985
+],
+  "geometry": {"coordinates":[-95.66643000000001,39.090985],"type":"Point"}
+}

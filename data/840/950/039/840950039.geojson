@@ -1,0 +1,73 @@
+{
+  "id": 840950039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.207844,38.405274,-96.207844,38.405274",
+    "geom:latitude":38.405274,
+    "geom:longitude":-96.207844,
+    "iso:country":"US",
+    "sg:address":"616 Prairie St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 5750",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tjIHGoGBQ3e06is0LwGde_38.405274_-96.207844@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051651,
+    "wof:geomhash":"7909a1f32bd38a095ca97286e0beff5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840950039
+        }
+    ],
+    "wof:id":840950039,
+    "wof:lastmodified":1464051651,
+    "wof:name":"Henning Automotive",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.207844,
+    38.405274,
+    -96.207844,
+    38.405274
+],
+  "geometry": {"coordinates":[-96.20784399999999,38.405274],"type":"Point"}
+}

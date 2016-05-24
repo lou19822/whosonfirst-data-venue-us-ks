@@ -1,0 +1,81 @@
+{
+  "id": 840872135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.696929,39.116514,-94.696929,39.116514",
+    "geom:latitude":39.116514,
+    "geom:longitude":-94.696929,
+    "iso:country":"US",
+    "sg:address":"5001 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 596 1060",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878491,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bscL4DiWHn3eCa6u2Q0tr_39.116514_-94.696929@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049898,
+    "wof:geomhash":"a9508dbbccf801fec5af6c83c2ec408c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878491,
+            "region_id":85688555,
+            "venue_id":840872135
+        }
+    ],
+    "wof:id":840872135,
+    "wof:lastmodified":1464049898,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85878491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -94.696929,
+    39.116514,
+    -94.696929,
+    39.116514
+],
+  "geometry": {"coordinates":[-94.696929,39.116514],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840851605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.919166,39.11616,-94.919166,39.11616",
+    "geom:latitude":39.11616,
+    "geom:longitude":-94.919166,
+    "iso:country":"US",
+    "sg:address":"14600 State Ave",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 4901",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2znBf58vDKKVePPZaa5aaq_39.116160_-94.919166@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049477,
+    "wof:geomhash":"4be4121181517612cfe783542d9edcfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840851605
+        }
+    ],
+    "wof:id":840851605,
+    "wof:lastmodified":1464049477,
+    "wof:name":"Nick's Greenhouse",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -94.919166,
+    39.11616,
+    -94.919166,
+    39.11616
+],
+  "geometry": {"coordinates":[-94.919166,39.11616],"type":"Point"}
+}

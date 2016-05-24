@@ -1,0 +1,71 @@
+{
+  "id": 840661193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.207739,38.412365,-96.207739,38.412365",
+    "geom:latitude":38.412365,
+    "geom:longitude":-96.207739,
+    "iso:country":"US",
+    "sg:address":"2044 W 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 7013",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zRmk9J9U7LerhUWpWIjRu_38.412365_-96.207739@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045130,
+    "wof:geomhash":"54c55661a8675341b15ae6d7b210155a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840661193
+        }
+    ],
+    "wof:id":840661193,
+    "wof:lastmodified":1464045130,
+    "wof:name":"American Tree Care",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -96.207739,
+    38.412365,
+    -96.207739,
+    38.412365
+],
+  "geometry": {"coordinates":[-96.207739,38.412365],"type":"Point"}
+}

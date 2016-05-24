@@ -1,0 +1,75 @@
+{
+  "id": 840780875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.735214,37.026293,-94.735214,37.026293",
+    "geom:latitude":37.026293,
+    "geom:longitude":-94.735214,
+    "iso:country":"US",
+    "sg:address":"945 Military Ave",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 3003",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1afR2ko2UrU19ChO6pK0Qi_37.026293_-94.735214@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047781,
+    "wof:geomhash":"7d25cd4a3697110ae45352edfed89e03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840780875
+        }
+    ],
+    "wof:id":840780875,
+    "wof:lastmodified":1464047781,
+    "wof:name":"Sharp's Body Shop",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.735214,
+    37.026293,
+    -94.735214,
+    37.026293
+],
+  "geometry": {"coordinates":[-94.735214,37.026293],"type":"Point"}
+}

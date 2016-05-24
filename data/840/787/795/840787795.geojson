@@ -1,0 +1,71 @@
+{
+  "id": 840787795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.161682,39.132515,-95.161682,39.132515",
+    "geom:latitude":39.132515,
+    "geom:longitude":-95.161682,
+    "iso:country":"US",
+    "sg:address":"19748 251st St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 8784",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "blacksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ya5QDtDb4LTyJykZWDcR3_39.132515_-95.161682@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047934,
+    "wof:geomhash":"2da47116cc96b0e34ae0bd315152cb68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840787795
+        }
+    ],
+    "wof:id":840787795,
+    "wof:lastmodified":1464047934,
+    "wof:name":"Flying G Horseshoeing",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith"
+    ]
+},
+  "bbox": [
+    -95.161682,
+    39.132515,
+    -95.161682,
+    39.132515
+],
+  "geometry": {"coordinates":[-95.161682,39.132515],"type":"Point"}
+}

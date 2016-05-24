@@ -1,0 +1,71 @@
+{
+  "id": 840622173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.462776,37.687735,-97.462776,37.687735",
+    "geom:latitude":37.687735,
+    "geom:longitude":-97.462776,
+    "iso:country":"US",
+    "sg:address":"429 N Maize Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 1085",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B20lKB7SnXqAGompD6hRu_37.687735_-97.462776@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044215,
+    "wof:geomhash":"7232825da57ac5e960fd80858549f63d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840622173
+        }
+    ],
+    "wof:id":840622173,
+    "wof:lastmodified":1464044215,
+    "wof:name":"Bogue Animal Hospital West",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -97.462776,
+    37.687735,
+    -97.462776,
+    37.687735
+],
+  "geometry": {"coordinates":[-97.46277600000001,37.687735],"type":"Point"}
+}

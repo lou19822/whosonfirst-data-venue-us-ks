@@ -1,0 +1,71 @@
+{
+  "id": 840759103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.366499,37.727061,-97.366499,37.727061",
+    "geom:latitude":37.727061,
+    "geom:longitude":-97.366499,
+    "iso:country":"US",
+    "sg:address":"2434 N Clarence St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 8800",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wasQadpCB54u0oDWo04Zy_37.727061_-97.366499@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047311,
+    "wof:geomhash":"8206836a32f94db33bf55f1755078336",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840759103
+        }
+    ],
+    "wof:id":840759103,
+    "wof:lastmodified":1464047311,
+    "wof:name":"Kansas Court Reporters Assoc",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting"
+    ]
+},
+  "bbox": [
+    -97.366499,
+    37.727061,
+    -97.366499,
+    37.727061
+],
+  "geometry": {"coordinates":[-97.366499,37.727061],"type":"Point"}
+}

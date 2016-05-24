@@ -1,0 +1,75 @@
+{
+  "id": 840664123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.298894,37.689245,-97.298894,37.689245",
+    "geom:latitude":37.689245,
+    "geom:longitude":-97.298894,
+    "iso:country":"US",
+    "sg:address":"244 N Hillside St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 618 8881",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wrCWcieqmPtbu0k2qS8k8_37.689245_-97.298894@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045190,
+    "wof:geomhash":"77bf18a27fa26d653f3e51eb53e07144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840664123
+        }
+    ],
+    "wof:id":840664123,
+    "wof:lastmodified":1464045190,
+    "wof:name":"College Hill Animal Hospital",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -97.298894,
+    37.689245,
+    -97.298894,
+    37.689245
+],
+  "geometry": {"coordinates":[-97.298894,37.689245],"type":"Point"}
+}

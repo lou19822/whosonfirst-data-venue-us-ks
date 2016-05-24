@@ -1,0 +1,71 @@
+{
+  "id": 840752165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.317101,37.633604,-97.317101,37.633604",
+    "geom:latitude":37.633604,
+    "geom:longitude":-97.317101,
+    "iso:country":"US",
+    "sg:address":"1502 Berkeley St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 0074",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IPm3Ynv9Bc4jvEBW1OLvl_37.633604_-97.317101@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047151,
+    "wof:geomhash":"f3f1cefcad158f77b067af388e965d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840752165
+        }
+    ],
+    "wof:id":840752165,
+    "wof:lastmodified":1464047151,
+    "wof:name":"Mental Health Assoc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -97.317101,
+    37.633604,
+    -97.317101,
+    37.633604
+],
+  "geometry": {"coordinates":[-97.31710099999999,37.633604],"type":"Point"}
+}

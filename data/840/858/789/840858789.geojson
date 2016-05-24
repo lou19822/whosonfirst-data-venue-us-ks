@@ -1,0 +1,73 @@
+{
+  "id": 840858789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.973973,37.678322,-96.973973,37.678322",
+    "geom:latitude":37.678322,
+    "geom:longitude":-96.973973,
+    "iso:country":"US",
+    "sg:address":"602 Santa Fe St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 7374",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pt1lqL42IVGfkN3TylodQ_37.678322_-96.973973@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049633,
+    "wof:geomhash":"b3163b66b075a7610171607e28f3a741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840858789
+        }
+    ],
+    "wof:id":840858789,
+    "wof:lastmodified":1464049633,
+    "wof:name":"Miracle Drywall",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.973973,
+    37.678322,
+    -96.973973,
+    37.678322
+],
+  "geometry": {"coordinates":[-96.973973,37.678322],"type":"Point"}
+}

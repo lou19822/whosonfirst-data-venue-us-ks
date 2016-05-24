@@ -1,0 +1,77 @@
+{
+  "id": 840703785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.860303,39.021483,-94.860303,39.021483",
+    "geom:latitude":39.021483,
+    "geom:longitude":-94.860303,
+    "iso:country":"US",
+    "sg:address":"23609 W 59th St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 671 8960",
+    "sg:postcode":"66226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835005,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EvvBO1yGoKENXPLERMWkV_39.021483_-94.860303@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046178,
+    "wof:geomhash":"e3412323697ffc18ce194b6858f77b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85835005,
+            "region_id":85688555,
+            "venue_id":840703785
+        }
+    ],
+    "wof:id":840703785,
+    "wof:lastmodified":1464046178,
+    "wof:name":"Dan E Electric",
+    "wof:parent_id":85835005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.860303,
+    39.021483,
+    -94.860303,
+    39.021483
+],
+  "geometry": {"coordinates":[-94.860303,39.021483],"type":"Point"}
+}

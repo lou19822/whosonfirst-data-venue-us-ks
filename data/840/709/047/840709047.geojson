@@ -1,0 +1,73 @@
+{
+  "id": 840709047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.688982,38.825539,-94.688982,38.825539",
+    "geom:latitude":38.825539,
+    "geom:longitude":-94.688982,
+    "iso:country":"US",
+    "sg:address":"9040 W 167th St",
+    "sg:city":"Stilwell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 681 2365",
+    "sg:postcode":"66085",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zsZ0aPkueDy30nybIaaKH_38.825539_-94.688982@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046283,
+    "wof:geomhash":"e0277a614f0bcfce44ae51b6ba42915c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840709047
+        }
+    ],
+    "wof:id":840709047,
+    "wof:lastmodified":1464046283,
+    "wof:name":"Jim Hoerl Construction",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.688982,
+    38.825539,
+    -94.688982,
+    38.825539
+],
+  "geometry": {"coordinates":[-94.688982,38.825539],"type":"Point"}
+}

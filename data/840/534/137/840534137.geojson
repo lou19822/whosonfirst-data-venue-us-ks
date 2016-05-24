@@ -1,0 +1,75 @@
+{
+  "id": 840534137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.177527,38.400799,-96.177527,38.400799",
+    "geom:latitude":38.400799,
+    "geom:longitude":-96.177527,
+    "iso:country":"US",
+    "sg:address":"228 Market St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9360",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N5i0KGCpeK5wNDjsFKu7w_38.400799_-96.177527@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042076,
+    "wof:geomhash":"4bb17738c6e6440339dbb68db35fb428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840534137
+        }
+    ],
+    "wof:id":840534137,
+    "wof:lastmodified":1464042076,
+    "wof:name":"Penske Truck Leasing",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.177527,
+    38.400799,
+    -96.177527,
+    38.400799
+],
+  "geometry": {"coordinates":[-96.177527,38.400799],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840559621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.429925,37.781276,-97.429925,37.781276",
+    "geom:latitude":37.781276,
+    "geom:longitude":-97.429925,
+    "iso:country":"US",
+    "sg:address":"7633 W 53rd St N",
+    "sg:city":"Maize",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 648 4478",
+    "sg:postcode":"67101",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hH2CIgLLOG0NCyBzt6sja_37.781276_-97.429925@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042729,
+    "wof:geomhash":"9197b4b3076a5c28946b7e2b40d40c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840559621
+        }
+    ],
+    "wof:id":840559621,
+    "wof:lastmodified":1464042729,
+    "wof:name":"Worthey's Painting & Remodel",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -97.429925,
+    37.781276,
+    -97.429925,
+    37.781276
+],
+  "geometry": {"coordinates":[-97.429925,37.781276],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840607009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.688895,37.401098,-94.688895,37.401098",
+    "geom:latitude":37.401098,
+    "geom:longitude":-94.688895,
+    "iso:country":"US",
+    "sg:address":"1002 E Adams St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0010",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "school",
+        "supply"
+    ],
+    "sg:website":"www.pitsco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vzRFjQ80hFjIw7KRmGDs5_37.401098_-94.688895@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043826,
+    "wof:geomhash":"16a4cf0d0e62d177ab648e3594d5cc57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840607009
+        }
+    ],
+    "wof:id":840607009,
+    "wof:lastmodified":1464043826,
+    "wof:name":"PITSCO Catalog Div",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.688895,
+    37.401098,
+    -94.688895,
+    37.401098
+],
+  "geometry": {"coordinates":[-94.688895,37.401098],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 840533179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.325116,37.664846,-97.325116,37.664846",
+    "geom:latitude":37.664846,
+    "geom:longitude":-97.325116,
+    "iso:country":"US",
+    "sg:address":"1549 S Ida St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 269 9888",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67VQpIP6jhWXodxbzQ6Htf_37.664846_-97.325116@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042052,
+    "wof:geomhash":"d216b6f5979d9c406ad0a15fea2dac6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840533179
+        }
+    ],
+    "wof:id":840533179,
+    "wof:lastmodified":1464042052,
+    "wof:name":"Matt & Julia's Restaurant",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.325116,
+    37.664846,
+    -97.325116,
+    37.664846
+],
+  "geometry": {"coordinates":[-97.32511599999999,37.664846],"type":"Point"}
+}

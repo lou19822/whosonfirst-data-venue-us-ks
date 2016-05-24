@@ -1,0 +1,75 @@
+{
+  "id": 840661733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335635,37.686882,-97.335635,37.686882",
+    "geom:latitude":37.686882,
+    "geom:longitude":-97.335635,
+    "iso:country":"US",
+    "sg:address":"155 N Broadway St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 3623",
+    "sg:postcode":"67202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872811,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Flewxfi7iCu0osjMDFGUL_37.686882_-97.335635@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045142,
+    "wof:geomhash":"9446eba0ff8f2d392ce5f7aae233309c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872811,
+            "region_id":85688555,
+            "venue_id":840661733
+        }
+    ],
+    "wof:id":840661733,
+    "wof:lastmodified":1464045142,
+    "wof:name":"Broadway Auto Park",
+    "wof:parent_id":85872811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -97.335635,
+    37.686882,
+    -97.335635,
+    37.686882
+],
+  "geometry": {"coordinates":[-97.335635,37.686882],"type":"Point"}
+}

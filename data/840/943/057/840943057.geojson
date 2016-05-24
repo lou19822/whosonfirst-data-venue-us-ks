@@ -1,0 +1,73 @@
+{
+  "id": 840943057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.334037,37.573063,-97.334037,37.573063",
+    "geom:latitude":37.573063,
+    "geom:longitude":-97.334037,
+    "iso:country":"US",
+    "sg:address":"6731 S Broadway Ave",
+    "sg:city":"Haysville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 3100",
+    "sg:postcode":"67060",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uj6ohCtzlU0QHTib57THW_37.573063_-97.334037@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051511,
+    "wof:geomhash":"dd9742241a3a073db6a03180265f1d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840943057
+        }
+    ],
+    "wof:id":840943057,
+    "wof:lastmodified":1464051511,
+    "wof:name":"Park Avenue Storage",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -97.334037,
+    37.573063,
+    -97.334037,
+    37.573063
+],
+  "geometry": {"coordinates":[-97.334037,37.573063],"type":"Point"}
+}

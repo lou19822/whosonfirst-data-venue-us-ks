@@ -1,0 +1,73 @@
+{
+  "id": 840710189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.678689,39.0907,-95.678689,39.0907",
+    "geom:latitude":39.0907,
+    "geom:longitude":-95.678689,
+    "iso:country":"US",
+    "sg:address":"2225 NW Clay St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 7863",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55w7bkiobTIIzV8UhhBZAm_39.090700_-95.678689@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046308,
+    "wof:geomhash":"d2c4c4d2524e085b67b9fa4deb977178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840710189
+        }
+    ],
+    "wof:id":840710189,
+    "wof:lastmodified":1464046308,
+    "wof:name":"Doud's Auto Repair",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.678689,
+    39.0907,
+    -95.678689,
+    39.0907
+],
+  "geometry": {"coordinates":[-95.67868900000001,39.0907],"type":"Point"}
+}

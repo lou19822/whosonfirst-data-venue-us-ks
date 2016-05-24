@@ -1,0 +1,71 @@
+{
+  "id": 840618741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.222237,38.415425,-96.222237,38.415425",
+    "geom:latitude":38.415425,
+    "geom:longitude":-96.222237,
+    "iso:country":"US",
+    "sg:address":"1417 Hatcher St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3227",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MQ7WltLfXBdWFYeRROqMj_38.415425_-96.222237@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044136,
+    "wof:geomhash":"2c1be8566e002d3a562738c3d9f0a656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840618741
+        }
+    ],
+    "wof:id":840618741,
+    "wof:lastmodified":1464044136,
+    "wof:name":"Rainbo Baking Co",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -96.222237,
+    38.415425,
+    -96.222237,
+    38.415425
+],
+  "geometry": {"coordinates":[-96.22223700000001,38.415425],"type":"Point"}
+}

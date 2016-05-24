@@ -1,0 +1,75 @@
+{
+  "id": 840721191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.861955,37.655278,-96.861955,37.655278",
+    "geom:latitude":37.655278,
+    "geom:longitude":-96.861955,
+    "iso:country":"US",
+    "sg:address":"11175 SW Walnut Valley Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 1545",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z64mIUMHuKont2LwFPtkH_37.655278_-96.861955@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046533,
+    "wof:geomhash":"16d5d0b1d5b605ebf18d85a52e71b056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840721191
+        }
+    ],
+    "wof:id":840721191,
+    "wof:lastmodified":1464046533,
+    "wof:name":"Knapp Electric Inc",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.861955,
+    37.655278,
+    -96.861955,
+    37.655278
+],
+  "geometry": {"coordinates":[-96.86195499999999,37.655278],"type":"Point"}
+}

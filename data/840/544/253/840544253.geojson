@@ -1,0 +1,69 @@
+{
+  "id": 840544253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.563544,39.051457,-95.563544,39.051457",
+    "geom:latitude":39.051457,
+    "geom:longitude":-95.563544,
+    "iso:country":"US",
+    "sg:address":"5731 SE 2nd St",
+    "sg:city":"Tecumseh",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 379 0463",
+    "sg:postcode":"66542",
+    "sg:province":"KS",
+    "sg:tags":[
+        "project"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jNiH0xZB2xqhHKREhfNOK_39.051457_-95.563544@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042338,
+    "wof:geomhash":"c2acdce51144fa1e347656abac91e44b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840544253
+        }
+    ],
+    "wof:id":840544253,
+    "wof:lastmodified":1464042338,
+    "wof:name":"ABBCE Svc",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "project"
+    ]
+},
+  "bbox": [
+    -95.563544,
+    39.051457,
+    -95.563544,
+    39.051457
+],
+  "geometry": {"coordinates":[-95.56354399999999,39.051457],"type":"Point"}
+}

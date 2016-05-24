@@ -1,0 +1,73 @@
+{
+  "id": 840566779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.5372,37.784254,-97.5372,37.784254",
+    "geom:latitude":37.784254,
+    "geom:longitude":-97.5372,
+    "iso:country":"US",
+    "sg:address":"145 N 2nd St",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 1514",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lwyozf2WAER1JwlDxsvhg_37.784254_-97.537200@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042891,
+    "wof:geomhash":"f079e3a34ad6f693ae7e01e2580843f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840566779
+        }
+    ],
+    "wof:id":840566779,
+    "wof:lastmodified":1464042891,
+    "wof:name":"Colwich Outside Storage",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -97.5372,
+    37.784254,
+    -97.5372,
+    37.784254
+],
+  "geometry": {"coordinates":[-97.5372,37.784254],"type":"Point"}
+}

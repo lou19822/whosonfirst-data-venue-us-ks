@@ -1,0 +1,77 @@
+{
+  "id": 840562735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.696652,39.029626,-95.696652,39.029626",
+    "geom:latitude":39.029626,
+    "geom:longitude":-95.696652,
+    "iso:country":"US",
+    "sg:address":"1501 SW 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 7439",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "skateboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OTXrr6sgn9LH72nKfJLNe_39.029626_-95.696652@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042796,
+    "wof:geomhash":"190712ec92d1398acd83bc5c7369dd20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840562735
+        }
+    ],
+    "wof:id":840562735,
+    "wof:lastmodified":1464042796,
+    "wof:name":"Midwest Skate",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skateboard"
+    ]
+},
+  "bbox": [
+    -95.696652,
+    39.029626,
+    -95.696652,
+    39.029626
+],
+  "geometry": {"coordinates":[-95.696652,39.029626],"type":"Point"}
+}

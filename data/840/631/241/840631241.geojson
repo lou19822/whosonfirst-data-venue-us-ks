@@ -1,0 +1,73 @@
+{
+  "id": 840631241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.314169,37.64997,-97.314169,37.64997",
+    "geom:latitude":37.64997,
+    "geom:longitude":-97.314169,
+    "iso:country":"US",
+    "sg:address":"2100 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 3408",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SuiYVlqPoo5K9yMySZb5j_37.649970_-97.314169@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044470,
+    "wof:geomhash":"6ad59a5fde9932f65abb72249fe54691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840631241
+        }
+    ],
+    "wof:id":840631241,
+    "wof:lastmodified":1464044470,
+    "wof:name":"Rick's Carwash",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -97.314169,
+    37.64997,
+    -97.314169,
+    37.64997
+],
+  "geometry": {"coordinates":[-97.31416900000001,37.64997],"type":"Point"}
+}

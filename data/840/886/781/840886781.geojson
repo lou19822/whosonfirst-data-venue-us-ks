@@ -1,0 +1,71 @@
+{
+  "id": 840886781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.194128,38.414743,-96.194128,38.414743",
+    "geom:latitude":38.414743,
+    "geom:longitude":-96.194128,
+    "iso:country":"US",
+    "sg:address":"1301 Chestnut St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 7071",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tZOC9duKpv4CtayEHySXm_38.414743_-96.194128@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050215,
+    "wof:geomhash":"e57fa1d627916678e70d541aaed0944e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840886781
+        }
+    ],
+    "wof:id":840886781,
+    "wof:lastmodified":1464050215,
+    "wof:name":"Birch Telecom",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -96.194128,
+    38.414743,
+    -96.194128,
+    38.414743
+],
+  "geometry": {"coordinates":[-96.19412800000001,38.414743],"type":"Point"}
+}

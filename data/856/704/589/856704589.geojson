@@ -1,0 +1,73 @@
+{
+  "id": 856704589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.093498,39.112311,-95.093498,39.112311",
+    "geom:latitude":39.112311,
+    "geom:longitude":-95.093498,
+    "iso:country":"US",
+    "sg:address":"220 West St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/tonganoxie/225531-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nYAJSit1ZC6j5DK8SSSJ2_39.112311_-95.093498@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052163,
+    "wof:geomhash":"92f6595c73f382f47bdbc5bc095d7473",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":856704589
+        }
+    ],
+    "wof:id":856704589,
+    "wof:lastmodified":1464052163,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.093498,
+    39.112311,
+    -95.093498,
+    39.112311
+],
+  "geometry": {"coordinates":[-95.093498,39.112311],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840835349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.648893,38.923386,-94.648893,38.923386",
+    "geom:latitude":38.923386,
+    "geom:longitude":-94.648893,
+    "iso:country":"US",
+    "sg:address":"11213 Nall Ave",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 327 7175",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B4BfmVpGHZzl84QVcuN18_38.923386_-94.648893@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049117,
+    "wof:geomhash":"0da40cee3230f1d28ac74a4f6496e5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840835349
+        }
+    ],
+    "wof:id":840835349,
+    "wof:lastmodified":1464049117,
+    "wof:name":"Midwest Medical Aesthetics",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.648893,
+    38.923386,
+    -94.648893,
+    38.923386
+],
+  "geometry": {"coordinates":[-94.648893,38.923386],"type":"Point"}
+}

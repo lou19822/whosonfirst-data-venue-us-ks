@@ -1,0 +1,75 @@
+{
+  "id": 840639589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.059422,39.15005,-95.059422,39.15005",
+    "geom:latitude":39.15005,
+    "geom:longitude":-95.059422,
+    "iso:country":"US",
+    "sg:address":"20031 207th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 5000",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XTrZnpU4GzHWeRk1WeJUp_39.150050_-95.059422@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044669,
+    "wof:geomhash":"46df014028c14d808ecf91c15193634f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840639589
+        }
+    ],
+    "wof:id":840639589,
+    "wof:lastmodified":1464044669,
+    "wof:name":"Southern Central Gas Pipeline",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -95.059422,
+    39.15005,
+    -95.059422,
+    39.15005
+],
+  "geometry": {"coordinates":[-95.059422,39.15005],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856705357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.721272,38.926669,-94.721272,38.926669",
+    "geom:latitude":38.926669,
+    "geom:longitude":-94.721272,
+    "iso:country":"US",
+    "sg:address":"11719 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/65847-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 663 2288",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vQ7OK7J7bO4pDCiolNmQI_38.926669_-94.721272@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052175,
+    "wof:geomhash":"0b17049c30808333aa60a31bc4489a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":856705357
+        }
+    ],
+    "wof:id":856705357,
+    "wof:lastmodified":1464052175,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.721272,
+    38.926669,
+    -94.721272,
+    38.926669
+],
+  "geometry": {"coordinates":[-94.721272,38.926669],"type":"Point"}
+}

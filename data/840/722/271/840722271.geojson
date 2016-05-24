@@ -1,0 +1,71 @@
+{
+  "id": 840722271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.182653,38.403725,-96.182653,38.403725",
+    "geom:latitude":38.403725,
+    "geom:longitude":-96.182653,
+    "iso:country":"US",
+    "sg:address":"105 W 5th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 6220",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64SXthWSB27J7NRR2rGReW_38.403725_-96.182653@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046553,
+    "wof:geomhash":"9af6e650dd5197004ebee55b22412382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840722271
+        }
+    ],
+    "wof:id":840722271,
+    "wof:lastmodified":1464046553,
+    "wof:name":"CBCS Inc",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -96.182653,
+    38.403725,
+    -96.182653,
+    38.403725
+],
+  "geometry": {"coordinates":[-96.182653,38.403725],"type":"Point"}
+}

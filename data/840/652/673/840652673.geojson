@@ -1,0 +1,71 @@
+{
+  "id": 840652673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.66461,39.087171,-95.66461,39.087171",
+    "geom:latitude":39.087171,
+    "geom:longitude":-95.66461,
+    "iso:country":"US",
+    "sg:address":"2042 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 6590",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fuGgrgFD8AwgINP8ofKBH_39.087171_-95.664610@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044947,
+    "wof:geomhash":"bfe43e26ad62f622a2b4f0661cbfc0d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840652673
+        }
+    ],
+    "wof:id":840652673,
+    "wof:lastmodified":1464044947,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.66461,
+    39.087171,
+    -95.66461,
+    39.087171
+],
+  "geometry": {"coordinates":[-95.66461,39.087171],"type":"Point"}
+}

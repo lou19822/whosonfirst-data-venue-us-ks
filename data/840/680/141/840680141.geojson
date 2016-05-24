@@ -1,0 +1,75 @@
+{
+  "id": 840680141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.763851,38.856544,-94.763851,38.856544",
+    "geom:latitude":38.856544,
+    "geom:longitude":-94.763851,
+    "iso:country":"US",
+    "sg:address":"15322 W 150th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 0313",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xwQbL6B7bsdrQOglXVtLk_38.856544_-94.763851@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045573,
+    "wof:geomhash":"58db258a5ae2ae00bfea9c42bbcbdca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840680141
+        }
+    ],
+    "wof:id":840680141,
+    "wof:lastmodified":1464045573,
+    "wof:name":"Fidelity Bank",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -94.763851,
+    38.856544,
+    -94.763851,
+    38.856544
+],
+  "geometry": {"coordinates":[-94.763851,38.856544],"type":"Point"}
+}

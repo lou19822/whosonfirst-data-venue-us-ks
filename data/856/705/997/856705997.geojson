@@ -1,0 +1,76 @@
+{
+  "id": 856705997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.741533,39.015404,-94.741533,39.015404",
+    "geom:latitude":39.015404,
+    "geom:longitude":-94.741533,
+    "iso:country":"US",
+    "sg:address":"13410 W 62nd Ter",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/11972-johnnys-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 962 5777",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rGFu2RlvZzRmT4Dl74hY1_39.015404_-94.741533@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052186,
+    "wof:geomhash":"12dd2d2c26bf84e6952d6aaaf07cf211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":856705997
+        }
+    ],
+    "wof:id":856705997,
+    "wof:lastmodified":1464052186,
+    "wof:name":"Johnny's Tavern",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.741533,
+    39.015404,
+    -94.741533,
+    39.015404
+],
+  "geometry": {"coordinates":[-94.741533,39.015404],"type":"Point"}
+}

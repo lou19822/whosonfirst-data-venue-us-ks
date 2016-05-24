@@ -1,0 +1,71 @@
+{
+  "id": 840817331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.80786,38.840103,-94.80786,38.840103",
+    "geom:latitude":38.840103,
+    "geom:longitude":-94.80786,
+    "iso:country":"US",
+    "sg:address":"19700 W 159th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 2596",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vfNG5KtD5W8hiCeXXYQU8_38.840103_-94.807860@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048670,
+    "wof:geomhash":"b046c9583000c4507f008dea09153c7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840817331
+        }
+    ],
+    "wof:id":840817331,
+    "wof:lastmodified":1464048670,
+    "wof:name":"Joco Outside Storage",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -94.80786,
+    38.840103,
+    -94.80786,
+    38.840103
+],
+  "geometry": {"coordinates":[-94.80786000000001,38.840103],"type":"Point"}
+}

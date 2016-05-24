@@ -1,0 +1,75 @@
+{
+  "id": 840637343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.638105,38.934905,-94.638105,38.934905",
+    "geom:latitude":38.934905,
+    "geom:longitude":-94.638105,
+    "iso:country":"US",
+    "sg:address":"4454 W 107th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 381 2500",
+    "sg:postcode":"66207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zPUgfPJg0al5an7IgIoUm_38.934905_-94.638105@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044621,
+    "wof:geomhash":"7864468b03a0e6fc186c4091c4f0b510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840637343
+        }
+    ],
+    "wof:id":840637343,
+    "wof:lastmodified":1464044621,
+    "wof:name":"Fox Hill Veterinary Clinic",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.638105,
+    38.934905,
+    -94.638105,
+    38.934905
+],
+  "geometry": {"coordinates":[-94.638105,38.934905],"type":"Point"}
+}

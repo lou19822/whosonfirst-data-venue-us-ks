@@ -1,0 +1,73 @@
+{
+  "id": 840944827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.964404,37.682004,-96.964404,37.682004",
+    "geom:latitude":37.682004,
+    "geom:longitude":-96.964404,
+    "iso:country":"US",
+    "sg:address":"907 Industrial Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 3538",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QJqT89wnImGUKgp278XUd_37.682004_-96.964404@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051548,
+    "wof:geomhash":"31f4d87585f115f6274ba6f04b31bcce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840944827
+        }
+    ],
+    "wof:id":840944827,
+    "wof:lastmodified":1464051548,
+    "wof:name":"Homeland Roofing Warehouse",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.964404,
+    37.682004,
+    -96.964404,
+    37.682004
+],
+  "geometry": {"coordinates":[-96.964404,37.682004],"type":"Point"}
+}

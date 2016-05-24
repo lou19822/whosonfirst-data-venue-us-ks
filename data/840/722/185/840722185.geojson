@@ -1,0 +1,71 @@
+{
+  "id": 840722185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956925,38.51963,-95.956925,38.51963",
+    "geom:latitude":38.51963,
+    "geom:longitude":-95.956925,
+    "iso:country":"US",
+    "sg:address":"413 1st St",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 699 3870",
+    "sg:postcode":"66868",
+    "sg:province":"KS",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z64CJD19GhpKyBnFudsXy_38.519630_-95.956925@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046552,
+    "wof:geomhash":"21f611d1f8e2f31556833ae8887c8d21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840722185
+        }
+    ],
+    "wof:id":840722185,
+    "wof:lastmodified":1464046552,
+    "wof:name":"Reading City Hall",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -95.956925,
+    38.51963,
+    -95.956925,
+    38.51963
+],
+  "geometry": {"coordinates":[-95.956925,38.51963],"type":"Point"}
+}

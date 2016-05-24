@@ -1,0 +1,71 @@
+{
+  "id": 840840951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.72468,39.117035,-95.72468,39.117035",
+    "geom:latitude":39.117035,
+    "geom:longitude":-95.72468,
+    "iso:country":"US",
+    "sg:address":"3930 NW Brickyard Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2766",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01XvjevuYDJyH2ySD9GH0x_39.117035_-95.724680@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049238,
+    "wof:geomhash":"958ac98770a29cf344e545bf6f19c314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840840951
+        }
+    ],
+    "wof:id":840840951,
+    "wof:lastmodified":1464049238,
+    "wof:name":"Bill Lesser Electric Co",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.72468,
+    39.117035,
+    -95.72468,
+    39.117035
+],
+  "geometry": {"coordinates":[-95.72468000000001,39.117035],"type":"Point"}
+}

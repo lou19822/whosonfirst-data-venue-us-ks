@@ -1,0 +1,77 @@
+{
+  "id": 840940797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.719917,38.883764,-94.719917,38.883764",
+    "geom:latitude":38.883764,
+    "geom:longitude":-94.719917,
+    "iso:country":"US",
+    "sg:address":"11890 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 851 2495",
+    "sg:postcode":"66221",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64KWMBXsIJ82ZabufBYvLT_38.883764_-94.719917@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051464,
+    "wof:geomhash":"ea103c0451d25075ac8330342525dcdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840940797
+        }
+    ],
+    "wof:id":840940797,
+    "wof:lastmodified":1464051464,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -94.719917,
+    38.883764,
+    -94.719917,
+    38.883764
+],
+  "geometry": {"coordinates":[-94.719917,38.883764],"type":"Point"}
+}

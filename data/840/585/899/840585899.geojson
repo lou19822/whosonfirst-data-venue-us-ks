@@ -1,0 +1,66 @@
+{
+  "id": 840585899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.039671,39.807591,-101.039671,39.807591",
+    "geom:latitude":39.807591,
+    "geom:longitude":-101.039671,
+    "iso:country":"US",
+    "sg:address":"102 S 6th St",
+    "sg:city":"Atwood",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 626 3805",
+    "sg:postcode":"67730",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946369,
+        102084169,
+        85837215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rE1IpHLUjmOkairmkAqbV_39.807591_-101.039671@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043336,
+    "wof:geomhash":"3216bf9d55c08024421d0be6328e86a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084169,
+            "locality_id":85946369,
+            "neighbourhood_id":85837215,
+            "region_id":85688555,
+            "venue_id":840585899
+        }
+    ],
+    "wof:id":840585899,
+    "wof:lastmodified":1464043336,
+    "wof:name":"Atwood City Library",
+    "wof:parent_id":85837215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.039671,
+    39.807591,
+    -101.039671,
+    39.807591
+],
+  "geometry": {"coordinates":[-101.039671,39.807591],"type":"Point"}
+}

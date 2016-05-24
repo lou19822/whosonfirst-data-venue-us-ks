@@ -1,0 +1,76 @@
+{
+  "id": 856706901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762231,39.031805,-95.762231,39.031805",
+    "geom:latitude":39.031805,
+    "geom:longitude":-95.762231,
+    "iso:country":"US",
+    "sg:address":"1925 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/14056-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 7526",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iKZVYfHD0BFAPPIb3pgHl_39.031805_-95.762231@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052204,
+    "wof:geomhash":"6238f079b0c7dfb43ab7073776665f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706901
+        }
+    ],
+    "wof:id":856706901,
+    "wof:lastmodified":1464052204,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -95.762231,
+    39.031805,
+    -95.762231,
+    39.031805
+],
+  "geometry": {"coordinates":[-95.762231,39.031805],"type":"Point"}
+}

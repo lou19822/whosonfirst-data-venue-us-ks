@@ -1,0 +1,79 @@
+{
+  "id": 840652537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686905,38.99302,-94.686905,38.99302",
+    "geom:latitude":38.99302,
+    "geom:longitude":-94.686905,
+    "iso:country":"US",
+    "sg:address":"8877 W 75th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 901 9988",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879543,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pwmbNNOpGZJdo9sis0EEf_38.993020_-94.686905@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044944,
+    "wof:geomhash":"4052f8c9e69dffab31455d2f47b6a8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879543,
+            "region_id":85688555,
+            "venue_id":840652537
+        }
+    ],
+    "wof:id":840652537,
+    "wof:lastmodified":1464044944,
+    "wof:name":"Shawnee Mission Open MRI",
+    "wof:parent_id":85879543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -94.686905,
+    38.99302,
+    -94.686905,
+    38.99302
+],
+  "geometry": {"coordinates":[-94.686905,38.99302],"type":"Point"}
+}

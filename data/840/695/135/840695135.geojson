@@ -1,0 +1,71 @@
+{
+  "id": 840695135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.12125,39.045027,-95.12125,39.045027",
+    "geom:latitude":39.045027,
+    "geom:longitude":-95.12125,
+    "iso:country":"US",
+    "sg:address":"15170 234th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2387",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79fh33OgKEL8lqRYkKKqVo_39.045027_-95.121250@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045950,
+    "wof:geomhash":"7f9f61f0867ec2a6aad86cbb74909ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840695135
+        }
+    ],
+    "wof:id":840695135,
+    "wof:lastmodified":1464045950,
+    "wof:name":"Thorne's Tree Svc",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -95.12125,
+    39.045027,
+    -95.12125,
+    39.045027
+],
+  "geometry": {"coordinates":[-95.12125,39.045027],"type":"Point"}
+}

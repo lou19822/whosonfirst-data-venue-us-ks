@@ -1,0 +1,70 @@
+{
+  "id": 840802073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.696438,39.143621,-94.696438,39.143621",
+    "geom:latitude":39.143621,
+    "geom:longitude":-94.696438,
+    "iso:country":"US",
+    "sg:address":"3115 N 51 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 7165",
+    "sg:postcode":"66104",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854995,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_745VIc080bRex9jPOez47t_39.143621_-94.696438@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048246,
+    "wof:geomhash":"1422a6a820da3bb6e4a56e68c7f58b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85854995,
+            "region_id":85688555,
+            "venue_id":840802073
+        }
+    ],
+    "wof:id":840802073,
+    "wof:lastmodified":1464048246,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85854995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.696438,
+    39.143621,
+    -94.696438,
+    39.143621
+],
+  "geometry": {"coordinates":[-94.696438,39.143621],"type":"Point"}
+}

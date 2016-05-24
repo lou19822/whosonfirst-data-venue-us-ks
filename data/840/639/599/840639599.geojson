@@ -1,0 +1,73 @@
+{
+  "id": 840639599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.679727,38.862267,-94.679727,38.862267",
+    "geom:latitude":38.862267,
+    "geom:longitude":-94.679727,
+    "iso:country":"US",
+    "sg:address":"8217 W 146th Ter",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 851 3039",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rikt2ho1Qadwp6Dma44oo_38.862267_-94.679727@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044669,
+    "wof:geomhash":"8c551bc80551a94923f13e24ca538531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840639599
+        }
+    ],
+    "wof:id":840639599,
+    "wof:lastmodified":1464044669,
+    "wof:name":"American Dental Alliance Plans",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.679727,
+    38.862267,
+    -94.679727,
+    38.862267
+],
+  "geometry": {"coordinates":[-94.679727,38.862267],"type":"Point"}
+}

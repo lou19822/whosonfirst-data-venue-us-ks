@@ -1,0 +1,71 @@
+{
+  "id": 840693639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.447756,37.729137,-97.447756,37.729137",
+    "geom:latitude":37.729137,
+    "geom:longitude":-97.447756,
+    "iso:country":"US",
+    "sg:address":"2529 Watersedge Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 4224",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f5zmzPYosSyJ57dtK5hdv_37.729137_-97.447756@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045910,
+    "wof:geomhash":"97ab9467787f0d0ce871bd05e1388946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840693639
+        }
+    ],
+    "wof:id":840693639,
+    "wof:lastmodified":1464045910,
+    "wof:name":"Bill Hosman",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -97.447756,
+    37.729137,
+    -97.447756,
+    37.729137
+],
+  "geometry": {"coordinates":[-97.447756,37.729137],"type":"Point"}
+}

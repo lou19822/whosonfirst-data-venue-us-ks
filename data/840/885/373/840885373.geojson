@@ -1,0 +1,76 @@
+{
+  "id": 840885373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.72123,38.990789,-94.72123,38.990789",
+    "geom:latitude":38.990789,
+    "geom:longitude":-94.72123,
+    "iso:country":"US",
+    "sg:address":"7530 Cody St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 2100",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.carlyle-apts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65OmeLszqFMjf84p3yFkpM_38.990789_-94.721230@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050185,
+    "wof:geomhash":"d5627d2c05da85c4b0793bdd9e90d450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":840885373
+        }
+    ],
+    "wof:id":840885373,
+    "wof:lastmodified":1464050185,
+    "wof:name":"Carlyle Apartments",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.72123,
+    38.990789,
+    -94.72123,
+    38.990789
+],
+  "geometry": {"coordinates":[-94.72123000000001,38.990789],"type":"Point"}
+}

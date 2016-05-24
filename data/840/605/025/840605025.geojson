@@ -1,0 +1,73 @@
+{
+  "id": 840605025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.218646,38.420972,-96.218646,38.420972",
+    "geom:latitude":38.420972,
+    "geom:longitude":-96.218646,
+    "iso:country":"US",
+    "sg:address":"2916 Eaglecrest Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0289",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mc5RgcTu3u96HvBNdiBtu_38.420972_-96.218646@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043780,
+    "wof:geomhash":"fca12c0e1b3e58a7c3da8600a564e590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840605025
+        }
+    ],
+    "wof:id":840605025,
+    "wof:lastmodified":1464043780,
+    "wof:name":"Starbucks",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -96.218646,
+    38.420972,
+    -96.218646,
+    38.420972
+],
+  "geometry": {"coordinates":[-96.21864600000001,38.420972],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840765011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.766461,38.915659,-94.766461,38.915659",
+    "geom:latitude":38.915659,
+    "geom:longitude":-94.766461,
+    "iso:country":"US",
+    "sg:address":"15500 W 117th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 6381",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ntNIr2ufhd3XeWzDHLgno_38.915659_-94.766461@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047453,
+    "wof:geomhash":"d5acf85b9d1fc1cb242c71335e0484f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840765011
+        }
+    ],
+    "wof:id":840765011,
+    "wof:lastmodified":1464047453,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.766461,
+    38.915659,
+    -94.766461,
+    38.915659
+],
+  "geometry": {"coordinates":[-94.76646100000001,38.915659],"type":"Point"}
+}

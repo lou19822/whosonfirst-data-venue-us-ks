@@ -1,0 +1,69 @@
+{
+  "id": 840909665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.615048,39.031427,-95.615048,39.031427",
+    "geom:latitude":39.031427,
+    "geom:longitude":-95.615048,
+    "iso:country":"US",
+    "sg:address":"3526 SE 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 7471",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xoSkAV08KxqSfldLuoiVN_39.031427_-95.615048@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050713,
+    "wof:geomhash":"005ea43729408ccfd378de7746321c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840909665
+        }
+    ],
+    "wof:id":840909665,
+    "wof:lastmodified":1464050713,
+    "wof:name":"Dr Pepper Seven-Up Bottling Co",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -95.615048,
+    39.031427,
+    -95.615048,
+    39.031427
+],
+  "geometry": {"coordinates":[-95.615048,39.031427],"type":"Point"}
+}

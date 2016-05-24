@@ -1,0 +1,74 @@
+{
+  "id": 856711821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.164897,38.41224,-96.164897,38.41224",
+    "geom:latitude":38.41224,
+    "geom:longitude":-96.164897,
+    "iso:country":"US",
+    "sg:address":"1126 E 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/155855-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6166",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12nLwcjSHaBwsRqdtNQ0Y1_38.412302_-96.165404@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052302,
+    "wof:geomhash":"daaf8c3eb4d3168dd87c523401833dd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":856711821
+        }
+    ],
+    "wof:id":856711821,
+    "wof:lastmodified":1464052302,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.164897,
+    38.41224,
+    -96.164897,
+    38.41224
+],
+  "geometry": {"coordinates":[-96.164897,38.41224],"type":"Point"}
+}

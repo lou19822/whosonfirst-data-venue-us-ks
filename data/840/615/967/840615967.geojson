@@ -1,0 +1,70 @@
+{
+  "id": 840615967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.664598,39.07506,-94.664598,39.07506",
+    "geom:latitude":39.07506,
+    "geom:longitude":-94.664598,
+    "iso:country":"US",
+    "sg:address":"3017 Strong Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 831 1500",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_243SZOMlUc6cWNvM72ffCw_39.075060_-94.664598@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044061,
+    "wof:geomhash":"db09365880dd9d46ce25e3a196e85809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840615967
+        }
+    ],
+    "wof:id":840615967,
+    "wof:lastmodified":1464044061,
+    "wof:name":"Bond Pharmacy",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.664598,
+    39.07506,
+    -94.664598,
+    39.07506
+],
+  "geometry": {"coordinates":[-94.664598,39.07506],"type":"Point"}
+}

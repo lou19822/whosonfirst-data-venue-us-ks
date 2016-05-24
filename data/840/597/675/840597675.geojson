@@ -1,0 +1,75 @@
+{
+  "id": 840597675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.797235,38.893292,-94.797235,38.893292",
+    "geom:latitude":38.893292,
+    "geom:longitude":-94.797235,
+    "iso:country":"US",
+    "sg:address":"816 N Ridgeview Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 0078",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LmQsnQU7qhQuRd3zBY2SN_38.893292_-94.797235@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043597,
+    "wof:geomhash":"ce10f29d2c95f270e8f57389de5d50a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840597675
+        }
+    ],
+    "wof:id":840597675,
+    "wof:lastmodified":1464043597,
+    "wof:name":"Ridgeview Animal Hospital",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.797235,
+    38.893292,
+    -94.797235,
+    38.893292
+],
+  "geometry": {"coordinates":[-94.797235,38.893292],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856705533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.702228,38.970803,-94.702228,38.970803",
+    "geom:latitude":38.970803,
+    "geom:longitude":-94.702228,
+    "iso:country":"US",
+    "sg:address":"10081 W 87th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/115618-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 227 0520",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879599,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rom37sJTHZuWEPQ5LWGPh_38.970803_-94.702228@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052179,
+    "wof:geomhash":"b64d35fbc92767e6d4f978afeb869048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879599,
+            "region_id":85688555,
+            "venue_id":856705533
+        }
+    ],
+    "wof:id":856705533,
+    "wof:lastmodified":1464052179,
+    "wof:name":"Subway",
+    "wof:parent_id":85879599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.702228,
+    38.970803,
+    -94.702228,
+    38.970803
+],
+  "geometry": {"coordinates":[-94.70222800000001,38.970803],"type":"Point"}
+}

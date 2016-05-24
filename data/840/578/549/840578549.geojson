@@ -1,0 +1,71 @@
+{
+  "id": 840578549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.044327,39.813213,-101.044327,39.813213",
+    "geom:latitude":39.813213,
+    "geom:longitude":-101.044327,
+    "iso:country":"US",
+    "sg:address":"205 Grant St",
+    "sg:city":"Atwood",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 626 9615",
+    "sg:postcode":"67730",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946369,
+        102084169,
+        85837215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zk3FEUjbaVJoK9VN5slJP_39.813213_-101.044327@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043175,
+    "wof:geomhash":"a92d4ba9cc3492bc3b98fed4d7493c7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084169,
+            "locality_id":85946369,
+            "neighbourhood_id":85837215,
+            "region_id":85688555,
+            "venue_id":840578549
+        }
+    ],
+    "wof:id":840578549,
+    "wof:lastmodified":1464043175,
+    "wof:name":"Lakeside Motel",
+    "wof:parent_id":85837215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -101.044327,
+    39.813213,
+    -101.044327,
+    39.813213
+],
+  "geometry": {"coordinates":[-101.044327,39.813213],"type":"Point"}
+}

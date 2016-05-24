@@ -1,0 +1,75 @@
+{
+  "id": 840731497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.156044,38.390485,-96.156044,38.390485",
+    "geom:latitude":38.390485,
+    "geom:longitude":-96.156044,
+    "iso:country":"US",
+    "sg:address":"1503 E Logan Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 5453",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "welcoming",
+        "newcomer",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c6opUGe6t53SPAodmZxkt_38.390485_-96.156044@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046731,
+    "wof:geomhash":"5c3d89e11203b2abbb24050f0366e71d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840731497
+        }
+    ],
+    "wof:id":840731497,
+    "wof:lastmodified":1464046731,
+    "wof:name":"Emporia Welcome",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welcoming",
+        "newcomer",
+        "for"
+    ]
+},
+  "bbox": [
+    -96.156044,
+    38.390485,
+    -96.156044,
+    38.390485
+],
+  "geometry": {"coordinates":[-96.15604399999999,38.390485],"type":"Point"}
+}

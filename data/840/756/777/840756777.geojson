@@ -1,0 +1,71 @@
+{
+  "id": 840756777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.298808,37.663394,-97.298808,37.663394",
+    "geom:latitude":37.663394,
+    "geom:longitude":-97.298808,
+    "iso:country":"US",
+    "sg:address":"1601 S Hillside St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 681 1516",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "jewelry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LdLLoz5TPQZdSGuANUBeO_37.663394_-97.298808@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047257,
+    "wof:geomhash":"359e93a0103be6bb0fe263daf9cbc7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840756777
+        }
+    ],
+    "wof:id":840756777,
+    "wof:lastmodified":1464047257,
+    "wof:name":"One Day Jewelry Repair",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jewelry"
+    ]
+},
+  "bbox": [
+    -97.298808,
+    37.663394,
+    -97.298808,
+    37.663394
+],
+  "geometry": {"coordinates":[-97.29880799999999,37.663394],"type":"Point"}
+}

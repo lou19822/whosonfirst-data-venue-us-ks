@@ -1,0 +1,73 @@
+{
+  "id": 840634231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.17493,38.412054,-96.17493,38.412054",
+    "geom:latitude":38.412054,
+    "geom:longitude":-96.17493,
+    "iso:country":"US",
+    "sg:address":"1114 Exchange St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6738",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P2AYznnEFwg6VSJX7s7Yr_38.412054_-96.174930@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044547,
+    "wof:geomhash":"f905d4f3546b3b3ef7f3ae57152d0310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840634231
+        }
+    ],
+    "wof:id":840634231,
+    "wof:lastmodified":1464044547,
+    "wof:name":"Murray Electric",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.17493,
+    38.412054,
+    -96.17493,
+    38.412054
+],
+  "geometry": {"coordinates":[-96.17493,38.412054],"type":"Point"}
+}

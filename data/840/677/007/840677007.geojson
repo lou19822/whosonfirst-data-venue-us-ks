@@ -1,0 +1,71 @@
+{
+  "id": 840677007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.462592,37.725834,-97.462592,37.725834",
+    "geom:latitude":37.725834,
+    "geom:longitude":-97.462592,
+    "iso:country":"US",
+    "sg:address":"2330 N Maize Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 9028",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15NK9L5mthwwPSuXslMsXz_37.725834_-97.462592@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045491,
+    "wof:geomhash":"f3bcd10f3fca6af828fc4280e50a2797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840677007
+        }
+    ],
+    "wof:id":840677007,
+    "wof:lastmodified":1464045491,
+    "wof:name":"Mesa Homes Inc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.462592,
+    37.725834,
+    -97.462592,
+    37.725834
+],
+  "geometry": {"coordinates":[-97.462592,37.725834],"type":"Point"}
+}

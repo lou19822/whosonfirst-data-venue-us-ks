@@ -1,0 +1,78 @@
+{
+  "id": 840749191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.674302,39.014884,-94.674302,39.014884",
+    "geom:latitude":39.014884,
+    "geom:longitude":-94.674302,
+    "iso:country":"US",
+    "sg:address":"7601 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 3435",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.midwestmuffler.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nS9N9x1LT64WNuSAxg3uF_39.014884_-94.674302@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047077,
+    "wof:geomhash":"8d204e1cf7b650e33dfe0699f25e750d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":840749191
+        }
+    ],
+    "wof:id":840749191,
+    "wof:lastmodified":1464047077,
+    "wof:name":"Midwest Autocare",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.674302,
+    39.014884,
+    -94.674302,
+    39.014884
+],
+  "geometry": {"coordinates":[-94.674302,39.014884],"type":"Point"}
+}

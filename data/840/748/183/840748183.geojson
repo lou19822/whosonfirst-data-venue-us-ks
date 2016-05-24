@@ -1,0 +1,71 @@
+{
+  "id": 840748183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.244191,38.41494,-96.244191,38.41494",
+    "geom:latitude":38.41494,
+    "geom:longitude":-96.244191,
+    "iso:country":"US",
+    "sg:address":"1767 Rd G",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4070",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lse5Q08OdGqodKWCVQKnN_38.414940_-96.244191@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047051,
+    "wof:geomhash":"a0c7e5aa162fb5478772c2507fb853de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840748183
+        }
+    ],
+    "wof:id":840748183,
+    "wof:lastmodified":1464047051,
+    "wof:name":"GXI",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.244191,
+    38.41494,
+    -96.244191,
+    38.41494
+],
+  "geometry": {"coordinates":[-96.244191,38.41494],"type":"Point"}
+}

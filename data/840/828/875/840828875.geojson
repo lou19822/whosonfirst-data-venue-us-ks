@@ -1,0 +1,71 @@
+{
+  "id": 840828875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.701952,37.425703,-94.701952,37.425703",
+    "geom:latitude":37.425703,
+    "geom:longitude":-94.701952,
+    "iso:country":"US",
+    "sg:address":"1903 N Elm St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5586",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t0SO3dYOvlBHKvAwxbk8N_37.425703_-94.701952@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048979,
+    "wof:geomhash":"0015ddfa2dfd7aa48cd62ed1493a078d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840828875
+        }
+    ],
+    "wof:id":840828875,
+    "wof:lastmodified":1464048979,
+    "wof:name":"Grace United Methodist Church",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.701952,
+    37.425703,
+    -94.701952,
+    37.425703
+],
+  "geometry": {"coordinates":[-94.70195200000001,37.425703],"type":"Point"}
+}

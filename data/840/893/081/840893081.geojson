@@ -1,0 +1,79 @@
+{
+  "id": 840893081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.677937,39.035486,-95.677937,39.035486",
+    "geom:latitude":39.035486,
+    "geom:longitude":-95.677937,
+    "iso:country":"US",
+    "sg:address":"119 SE 18th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 8154",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18dRwcH39Xucf5B3tWB2Qh_39.035486_-95.677937@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050347,
+    "wof:geomhash":"6464b201bf55ef50293de4b28a86f002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840893081
+        }
+    ],
+    "wof:id":840893081,
+    "wof:lastmodified":1464050347,
+    "wof:name":"Johnny Reb's Cylinder Head Rpr",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.677937,
+    39.035486,
+    -95.677937,
+    39.035486
+],
+  "geometry": {"coordinates":[-95.677937,39.035486],"type":"Point"}
+}

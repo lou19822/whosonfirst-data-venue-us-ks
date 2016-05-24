@@ -1,0 +1,76 @@
+{
+  "id": 856704867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686463,39.022749,-94.686463,39.022749",
+    "geom:latitude":39.022749,
+    "geom:longitude":-94.686463,
+    "iso:country":"US",
+    "sg:address":"5870 Antioch Rd",
+    "sg:city":"Merriam",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/merriam/246787-bob-evans-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 4747",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879555,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VkRfX3rPj6JAHCp07jH1u_39.022749_-94.686463@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052168,
+    "wof:geomhash":"593a9510877fbeb8174531ba5c224636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":856704867
+        }
+    ],
+    "wof:id":856704867,
+    "wof:lastmodified":1464052168,
+    "wof:name":"Bob Evans Restaurant",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.686463,
+    39.022749,
+    -94.686463,
+    39.022749
+],
+  "geometry": {"coordinates":[-94.686463,39.022749],"type":"Point"}
+}

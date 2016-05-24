@@ -1,0 +1,82 @@
+{
+  "id": 840653979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.718903,38.96866,-94.718903,38.96866",
+    "geom:latitude":38.96866,
+    "geom:longitude":-94.718903,
+    "iso:country":"US",
+    "sg:address":"8829 Bond St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 1230",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "communication",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d7T3d2CRzw7qV0rpwAR63_38.968660_-94.718903@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044980,
+    "wof:geomhash":"215bd55f79b2101bc85fb765c69124c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840653979
+        }
+    ],
+    "wof:id":840653979,
+    "wof:lastmodified":1464044980,
+    "wof:name":"Cinergy Communications",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -94.718903,
+    38.96866,
+    -94.718903,
+    38.96866
+],
+  "geometry": {"coordinates":[-94.718903,38.96866],"type":"Point"}
+}

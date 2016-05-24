@@ -1,0 +1,76 @@
+{
+  "id": 856711363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.724108,38.954148,-94.724108,38.954148",
+    "geom:latitude":38.954148,
+    "geom:longitude":-94.724108,
+    "iso:country":"US",
+    "sg:address":"9600 Quivira Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/208168-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 599 1309",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879589,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nonVWo6pwGa0vxH91iCiJ_38.954241_-94.723671@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052293,
+    "wof:geomhash":"06545370c192457cee79ffcb5707fece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879589,
+            "region_id":85688555,
+            "venue_id":856711363
+        }
+    ],
+    "wof:id":856711363,
+    "wof:lastmodified":1464052293,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85879589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.724108,
+    38.954148,
+    -94.724108,
+    38.954148
+],
+  "geometry": {"coordinates":[-94.724108,38.954148],"type":"Point"}
+}

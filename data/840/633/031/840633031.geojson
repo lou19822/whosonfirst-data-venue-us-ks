@@ -1,0 +1,66 @@
+{
+  "id": 840633031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687196,38.961251,-95.687196,38.961251",
+    "geom:latitude":38.961251,
+    "geom:longitude":-95.687196,
+    "iso:country":"US",
+    "sg:address":"5826 Topeka Blvd",
+    "sg:city":"Pauline",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 000 1111",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_736glzlwFD2Yo9XI6SuUSi_38.961251_-95.687196@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044510,
+    "wof:geomhash":"fd3ab3201d1c2a09a18d40f59a903c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840633031
+        }
+    ],
+    "wof:id":840633031,
+    "wof:lastmodified":1464044510,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.687196,
+    38.961251,
+    -95.687196,
+    38.961251
+],
+  "geometry": {"coordinates":[-95.687196,38.961251],"type":"Point"}
+}

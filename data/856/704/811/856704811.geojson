@@ -1,0 +1,78 @@
+{
+  "id": 856704811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.753423,39.116565,-94.753423,39.116565",
+    "geom:latitude":39.116565,
+    "geom:longitude":-94.753423,
+    "iso:country":"US",
+    "sg:address":"7530 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/186640-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 1400",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46EWfuUz7mC7PWFOucQnOC_39.116565_-94.753423@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052167,
+    "wof:geomhash":"165d4e92f01a632da305604020780641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":856704811
+        }
+    ],
+    "wof:id":856704811,
+    "wof:lastmodified":1464052167,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.753423,
+    39.116565,
+    -94.753423,
+    39.116565
+],
+  "geometry": {"coordinates":[-94.753423,39.116565],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840860029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.774123,39.050669,-95.774123,39.050669",
+    "geom:latitude":39.050669,
+    "geom:longitude":-95.774123,
+    "iso:country":"US",
+    "sg:address":"6600 SW 10th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 9966",
+    "sg:postcode":"66615",
+    "sg:province":"KS",
+    "sg:website":"www.landkansas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49GJy4aGiHlhb0oKCDuYS8_39.050669_-95.774123@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049656,
+    "wof:geomhash":"cc02dfb466ea8148b394f60d38e648a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840860029
+        }
+    ],
+    "wof:id":840860029,
+    "wof:lastmodified":1464049656,
+    "wof:name":"Land Kansas Real Estate",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.774123,
+    39.050669,
+    -95.774123,
+    39.050669
+],
+  "geometry": {"coordinates":[-95.774123,39.050669],"type":"Point"}
+}

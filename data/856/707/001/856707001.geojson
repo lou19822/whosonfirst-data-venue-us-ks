@@ -1,0 +1,80 @@
+{
+  "id": 856707001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761966,39.040792,-95.761966,39.040792",
+    "geom:latitude":39.040792,
+    "geom:longitude":-95.761966,
+    "iso:country":"US",
+    "sg:address":"1421 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/103039-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 2100",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3seHNyCpLjdnT9TOFqDwjc_39.040792_-95.761966@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052208,
+    "wof:geomhash":"33a0925802317b1abf26d1ed17bcd1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856707001
+        }
+    ],
+    "wof:id":856707001,
+    "wof:lastmodified":1464052208,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -95.761966,
+    39.040792,
+    -95.761966,
+    39.040792
+],
+  "geometry": {"coordinates":[-95.761966,39.040792],"type":"Point"}
+}

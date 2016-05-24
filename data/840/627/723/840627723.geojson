@@ -1,0 +1,80 @@
+{
+  "id": 840627723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.32636,37.681586,-97.32636,37.681586",
+    "geom:latitude":37.681586,
+    "geom:longitude":-97.32636,
+    "iso:country":"US",
+    "sg:address":"307 S Washington St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 0211",
+    "sg:postcode":"67202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.kammererautobody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872805,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HKDPUkoYt1KhM2zaAghbM_37.681586_-97.326360@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044373,
+    "wof:geomhash":"22ba89498854545f3ada691fc4f05cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872805,
+            "region_id":85688555,
+            "venue_id":840627723
+        }
+    ],
+    "wof:id":840627723,
+    "wof:lastmodified":1464044373,
+    "wof:name":"Kammerer Auto Body & Paint",
+    "wof:parent_id":85872805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -97.32636,
+    37.681586,
+    -97.32636,
+    37.681586
+],
+  "geometry": {"coordinates":[-97.32635999999999,37.681586],"type":"Point"}
+}

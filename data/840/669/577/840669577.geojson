@@ -1,0 +1,71 @@
+{
+  "id": 840669577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.764264,39.000003,-95.764264,39.000003",
+    "geom:latitude":39.000003,
+    "geom:longitude":-95.764264,
+    "iso:country":"US",
+    "sg:address":"6031 SW 37th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 5225",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:website":"www.kansasbeef.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rlQpYI4O81elBP5i47kwf_39.000003_-95.764264@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045300,
+    "wof:geomhash":"e2ad9b25f7a6ecc257917ca022a7d80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840669577
+        }
+    ],
+    "wof:id":840669577,
+    "wof:lastmodified":1464045300,
+    "wof:name":"Kansas Beef Council",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.764264,
+    39.000003,
+    -95.764264,
+    39.000003
+],
+  "geometry": {"coordinates":[-95.764264,39.000003],"type":"Point"}
+}

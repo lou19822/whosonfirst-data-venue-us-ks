@@ -1,0 +1,66 @@
+{
+  "id": 840540655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.29459,37.601332,-97.29459,37.601332",
+    "geom:latitude":37.601332,
+    "geom:longitude":-97.29459,
+    "iso:country":"US",
+    "sg:address":"5156 Hemlock Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 7401",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tWYFiPAV6Tx62xc9AUHkn_37.601332_-97.294590@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042241,
+    "wof:geomhash":"563efc997e84f069e2240bcc9a893ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840540655
+        }
+    ],
+    "wof:id":840540655,
+    "wof:lastmodified":1464042241,
+    "wof:name":"Great Plains Taxidermy",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.29459,
+    37.601332,
+    -97.29459,
+    37.601332
+],
+  "geometry": {"coordinates":[-97.29459,37.601332],"type":"Point"}
+}

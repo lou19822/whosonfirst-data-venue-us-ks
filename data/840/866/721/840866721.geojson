@@ -1,0 +1,70 @@
+{
+  "id": 840866721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.669159,39.07512,-94.669159,39.07512",
+    "geom:latitude":39.07512,
+    "geom:longitude":-94.669159,
+    "iso:country":"US",
+    "sg:address":"3400 Strong Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 789 8153",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iLgODPJuXfLW2j8UrEzaK_39.075120_-94.669159@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049792,
+    "wof:geomhash":"d2bcb0a91218022a9bdce8b86ed2dbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840866721
+        }
+    ],
+    "wof:id":840866721,
+    "wof:lastmodified":1464049792,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.669159,
+    39.07512,
+    -94.669159,
+    39.07512
+],
+  "geometry": {"coordinates":[-94.66915899999999,39.07512],"type":"Point"}
+}

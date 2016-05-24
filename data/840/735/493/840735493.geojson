@@ -1,0 +1,71 @@
+{
+  "id": 840735493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.086213,39.110088,-95.086213,39.110088",
+    "geom:latitude":39.110088,
+    "geom:longitude":-95.086213,
+    "iso:country":"US",
+    "sg:address":"311 Delaware St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2904",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "synagogue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jURTkX5dEW3jXxyztqSbK_39.110088_-95.086213@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046810,
+    "wof:geomhash":"2c4a91ba3ccef3280d606610befc114a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840735493
+        }
+    ],
+    "wof:id":840735493,
+    "wof:lastmodified":1464046810,
+    "wof:name":"Masonic Temple",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synagogue"
+    ]
+},
+  "bbox": [
+    -95.086213,
+    39.110088,
+    -95.086213,
+    39.110088
+],
+  "geometry": {"coordinates":[-95.086213,39.110088],"type":"Point"}
+}

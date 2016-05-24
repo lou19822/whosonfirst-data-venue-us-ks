@@ -1,0 +1,71 @@
+{
+  "id": 840694111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.979026,37.674858,-96.979026,37.674858",
+    "geom:latitude":37.674858,
+    "geom:longitude":-96.979026,
+    "iso:country":"US",
+    "sg:address":"303 State St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 5655",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73C5Flx7cA3MTVrK7mPxfo_37.674858_-96.979026@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045925,
+    "wof:geomhash":"e365d48f04ce45d7638297dfa7e5eadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840694111
+        }
+    ],
+    "wof:id":840694111,
+    "wof:lastmodified":1464045925,
+    "wof:name":"Augusta Historical Museum",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -96.979026,
+    37.674858,
+    -96.979026,
+    37.674858
+],
+  "geometry": {"coordinates":[-96.979026,37.674858],"type":"Point"}
+}

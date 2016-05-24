@@ -1,0 +1,71 @@
+{
+  "id": 840942467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686454,37.458574,-94.686454,37.458574",
+    "geom:latitude":37.458574,
+    "geom:longitude":-94.686454,
+    "iso:country":"US",
+    "sg:address":"228 N Cayuga St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 9350",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yn4pZWQefOHdqmfUc2InU_37.458574_-94.686454@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051493,
+    "wof:geomhash":"49cee109c99aa23f5ec3203d4f812713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840942467
+        }
+    ],
+    "wof:id":840942467,
+    "wof:lastmodified":1464051493,
+    "wof:name":"Frontenac Garage",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.686454,
+    37.458574,
+    -94.686454,
+    37.458574
+],
+  "geometry": {"coordinates":[-94.686454,37.458574],"type":"Point"}
+}

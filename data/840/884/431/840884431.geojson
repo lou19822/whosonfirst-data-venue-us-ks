@@ -1,0 +1,71 @@
+{
+  "id": 840884431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.315886,37.589908,-97.315886,37.589908",
+    "geom:latitude":37.589908,
+    "geom:longitude":-97.315886,
+    "iso:country":"US",
+    "sg:address":"5959 S Hydraulic St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 0630",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QpomuGiyS7H8WBpRczwcl_37.589908_-97.315886@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050166,
+    "wof:geomhash":"0d12326e7faa1e4b11b20342ab953f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840884431
+        }
+    ],
+    "wof:id":840884431,
+    "wof:lastmodified":1464050166,
+    "wof:name":"Ron Becker Trucking Inc",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.315886,
+    37.589908,
+    -97.315886,
+    37.589908
+],
+  "geometry": {"coordinates":[-97.31588600000001,37.589908],"type":"Point"}
+}

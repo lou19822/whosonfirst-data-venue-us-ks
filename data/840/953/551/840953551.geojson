@@ -1,0 +1,66 @@
+{
+  "id": 840953551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.362993,37.62248,-97.362993,37.62248",
+    "geom:latitude":37.62248,
+    "geom:longitude":-97.362993,
+    "iso:country":"US",
+    "sg:address":"1922 W Macarthur Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 6461",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BbatLlVe6U0beGCYDGiCh_37.622480_-97.362993@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051720,
+    "wof:geomhash":"6242873edf2f3518b1eb424f552ba329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840953551
+        }
+    ],
+    "wof:id":840953551,
+    "wof:lastmodified":1464051720,
+    "wof:name":"Macarthur Laundry",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.362993,
+    37.62248,
+    -97.362993,
+    37.62248
+],
+  "geometry": {"coordinates":[-97.362993,37.62248],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840823671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.969718,37.710695,-96.969718,37.710695",
+    "geom:latitude":37.710695,
+    "geom:longitude":-96.969718,
+    "iso:country":"US",
+    "sg:address":"10 Flanagan Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 2175",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V1RJeI0HmoYBLfi8Y3dS8_37.710695_-96.969718@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048863,
+    "wof:geomhash":"488b8097f82d1c4453745b929b11b55c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840823671
+        }
+    ],
+    "wof:id":840823671,
+    "wof:lastmodified":1464048863,
+    "wof:name":"Meals On Wheels of Augusta",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -96.969718,
+    37.710695,
+    -96.969718,
+    37.710695
+],
+  "geometry": {"coordinates":[-96.969718,37.710695],"type":"Point"}
+}

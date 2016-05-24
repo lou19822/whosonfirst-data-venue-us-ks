@@ -1,0 +1,73 @@
+{
+  "id": 840763133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.384366,37.651371,-97.384366,37.651371",
+    "geom:latitude":37.651371,
+    "geom:longitude":-97.384366,
+    "iso:country":"US",
+    "sg:address":"3512 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 8425",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b1uc5iGZV2VU3ayCrEOBC_37.651371_-97.384366@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047412,
+    "wof:geomhash":"e69f4a373ba86c16f433828c4423fb81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840763133
+        }
+    ],
+    "wof:id":840763133,
+    "wof:lastmodified":1464047412,
+    "wof:name":"Diamond Engineering Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.384366,
+    37.651371,
+    -97.384366,
+    37.651371
+],
+  "geometry": {"coordinates":[-97.384366,37.651371],"type":"Point"}
+}

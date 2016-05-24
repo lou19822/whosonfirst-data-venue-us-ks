@@ -1,0 +1,75 @@
+{
+  "id": 840826571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640597,38.041837,-96.640597,38.041837",
+    "geom:latitude":38.041837,
+    "geom:longitude":-96.640597,
+    "iso:country":"US",
+    "sg:address":"219 Lincoln St",
+    "sg:city":"Cassoday",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 735 4421",
+    "sg:postcode":"66842",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B8Qvl70MqqnmsYlF0uFwf_38.041837_-96.640597@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048925,
+    "wof:geomhash":"36aa2a8d3af61b07c206ebd1ca2c3421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840826571
+        }
+    ],
+    "wof:id":840826571,
+    "wof:lastmodified":1464048925,
+    "wof:name":"Central Auto Transport",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ]
+},
+  "bbox": [
+    -96.640597,
+    38.041837,
+    -96.640597,
+    38.041837
+],
+  "geometry": {"coordinates":[-96.640597,38.041837],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840659501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.407251,37.650488,-97.407251,37.650488",
+    "geom:latitude":37.650488,
+    "geom:longitude":-97.407251,
+    "iso:country":"US",
+    "sg:address":"2550 S Hoover Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 4214",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ikpc4FbKuzDsdkMjghWoZ_37.650488_-97.407251@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045094,
+    "wof:geomhash":"30649cfd50b5769b8a4dc363f7eb5ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840659501
+        }
+    ],
+    "wof:id":840659501,
+    "wof:lastmodified":1464045094,
+    "wof:name":"W B Carter Construction Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.407251,
+    37.650488,
+    -97.407251,
+    37.650488
+],
+  "geometry": {"coordinates":[-97.407251,37.650488],"type":"Point"}
+}

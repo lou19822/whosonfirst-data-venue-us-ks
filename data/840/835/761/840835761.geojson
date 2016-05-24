@@ -1,0 +1,74 @@
+{
+  "id": 840835761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.283373,37.605932,-97.283373,37.605932",
+    "geom:latitude":37.605932,
+    "geom:longitude":-97.283373,
+    "iso:country":"US",
+    "sg:address":"4501 E 47th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 978 6647",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.cowleycollege.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QVBee8MplmOYrPfWHKs1y_37.605932_-97.283373@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049126,
+    "wof:geomhash":"816c26531422f43e05a44510baf177ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840835761
+        }
+    ],
+    "wof:id":840835761,
+    "wof:lastmodified":1464049126,
+    "wof:name":"Cowley County Community Clg",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -97.283373,
+    37.605932,
+    -97.283373,
+    37.605932
+],
+  "geometry": {"coordinates":[-97.283373,37.605932],"type":"Point"}
+}

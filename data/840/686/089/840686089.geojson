@@ -1,0 +1,71 @@
+{
+  "id": 840686089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761628,39.049139,-95.761628,39.049139",
+    "geom:latitude":39.049139,
+    "geom:longitude":-95.761628,
+    "iso:country":"US",
+    "sg:address":"1050 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 2920",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:website":"www.vistadrivein.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EwqMuoh6NvYt7bnfjxygu_39.049139_-95.761628@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045711,
+    "wof:geomhash":"0d78c005bf0d94cd058704f0a61b28b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840686089
+        }
+    ],
+    "wof:id":840686089,
+    "wof:lastmodified":1464045711,
+    "wof:name":"Vista Drive In Restaurant",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.761628,
+    39.049139,
+    -95.761628,
+    39.049139
+],
+  "geometry": {"coordinates":[-95.761628,39.049139],"type":"Point"}
+}

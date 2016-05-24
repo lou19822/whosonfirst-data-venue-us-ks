@@ -1,0 +1,78 @@
+{
+  "id": 856705897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.724354,38.957609,-94.724354,38.957609",
+    "geom:latitude":38.957609,
+    "geom:longitude":-94.724354,
+    "iso:country":"US",
+    "sg:address":"9460 Quivira Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/166938-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 3467",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06CkksYwo22dpUhOOYxWQM_38.957609_-94.724354@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052185,
+    "wof:geomhash":"e432e915c2a12514d478a4b1dfaee22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856705897
+        }
+    ],
+    "wof:id":856705897,
+    "wof:lastmodified":1464052185,
+    "wof:name":"Burger King",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.724354,
+    38.957609,
+    -94.724354,
+    38.957609
+],
+  "geometry": {"coordinates":[-94.72435400000001,38.957609],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840804267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.207642,38.433336,-96.207642,38.433336",
+    "geom:latitude":38.433336,
+    "geom:longitude":-96.207642,
+    "iso:country":"US",
+    "sg:address":"2806 Sonora Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 1094",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FSYnf1Z5kUX8yyd7Xu9N2_38.433336_-96.207642@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048287,
+    "wof:geomhash":"3efd34f076dabd00a5ba67190805b174",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840804267
+        }
+    ],
+    "wof:id":840804267,
+    "wof:lastmodified":1464048287,
+    "wof:name":"Schaefer Plumbing",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.207642,
+    38.433336,
+    -96.207642,
+    38.433336
+],
+  "geometry": {"coordinates":[-96.20764200000001,38.433336],"type":"Point"}
+}

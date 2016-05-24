@@ -1,0 +1,88 @@
+{
+  "id": 856708827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.24491,37.66033,-97.24491,37.66033",
+    "geom:latitude":37.66033,
+    "geom:longitude":-97.24491,
+    "iso:country":"US",
+    "sg:address":"1845 S Rock Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/230992-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 681 1920",
+    "sg:postcode":"67207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806685,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T0yzHMEECnZ9B9jUJlGTN_37.660330_-97.244910@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052244,
+    "wof:geomhash":"153c40719c51e5a08d5ef866288c594c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85806685,
+            "region_id":85688555,
+            "venue_id":856708827
+        }
+    ],
+    "wof:id":856708827,
+    "wof:lastmodified":1464052244,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85806685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -97.24491,
+    37.66033,
+    -97.24491,
+    37.66033
+],
+  "geometry": {"coordinates":[-97.24491,37.66033],"type":"Point"}
+}

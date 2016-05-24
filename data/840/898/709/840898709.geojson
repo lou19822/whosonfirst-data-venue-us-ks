@@ -1,0 +1,75 @@
+{
+  "id": 840898709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706041,39.00047,-95.706041,39.00047",
+    "geom:latitude":39.00047,
+    "geom:longitude":-95.706041,
+    "iso:country":"US",
+    "sg:address":"3715 SW Burlingame Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 1012",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881549,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n2HbvW4z01rChvjeq0xDe_39.000470_-95.706041@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050464,
+    "wof:geomhash":"287601ea224a5c05420d815a2db9789c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":840898709
+        }
+    ],
+    "wof:id":840898709,
+    "wof:lastmodified":1464050464,
+    "wof:name":"Burlingame Rd Animal Hospital",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -95.706041,
+    39.00047,
+    -95.706041,
+    39.00047
+],
+  "geometry": {"coordinates":[-95.706041,39.00047],"type":"Point"}
+}

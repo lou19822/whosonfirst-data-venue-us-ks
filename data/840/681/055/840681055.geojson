@@ -1,0 +1,77 @@
+{
+  "id": 840681055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.674983,39.047603,-95.674983,39.047603",
+    "geom:latitude":39.047603,
+    "geom:longitude":-95.674983,
+    "iso:country":"US",
+    "sg:address":"818 S Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 575 6300",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nzoHSD6Y3301Ot8fpQhjG_39.047603_-95.674983@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045600,
+    "wof:geomhash":"e24695e622f1137fe9b1100dd0afb2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840681055
+        }
+    ],
+    "wof:id":840681055,
+    "wof:lastmodified":1464045600,
+    "wof:name":"Westar Generating Inc",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "utility"
+    ]
+},
+  "bbox": [
+    -95.674983,
+    39.047603,
+    -95.674983,
+    39.047603
+],
+  "geometry": {"coordinates":[-95.674983,39.047603],"type":"Point"}
+}

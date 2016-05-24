@@ -1,0 +1,74 @@
+{
+  "id": 840826217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700272,37.431718,-94.700272,37.431718",
+    "geom:latitude":37.431718,
+    "geom:longitude":-94.700272,
+    "iso:country":"US",
+    "sg:address":"2614 N Joplin St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 3970",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.medicalodges.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q1e9605klmU9LZQafbvG3_37.431718_-94.700272@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048916,
+    "wof:geomhash":"75f19ec154174e194985373a3af159b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840826217
+        }
+    ],
+    "wof:id":840826217,
+    "wof:lastmodified":1464048916,
+    "wof:name":"Medicalodge North",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -94.700272,
+    37.431718,
+    -94.700272,
+    37.431718
+],
+  "geometry": {"coordinates":[-94.700272,37.431718],"type":"Point"}
+}

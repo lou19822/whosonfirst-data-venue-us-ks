@@ -1,0 +1,74 @@
+{
+  "id": 840917269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.462591,37.725648,-97.462591,37.725648",
+    "geom:latitude":37.725648,
+    "geom:longitude":-97.462591,
+    "iso:country":"US",
+    "sg:address":"2340 N Maize Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 4803",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.lousoilspot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TtQcZZGQQaGfyuzrtwqmU_37.725648_-97.462591@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050939,
+    "wof:geomhash":"a03abd048a5b5ffb3fb984bed6578561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840917269
+        }
+    ],
+    "wof:id":840917269,
+    "wof:lastmodified":1464050939,
+    "wof:name":"Lou's Oil Spot",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.462591,
+    37.725648,
+    -97.462591,
+    37.725648
+],
+  "geometry": {"coordinates":[-97.462591,37.725648],"type":"Point"}
+}

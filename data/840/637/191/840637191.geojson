@@ -1,0 +1,77 @@
+{
+  "id": 840637191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.232297,37.749386,-97.232297,37.749386",
+    "geom:latitude":37.749386,
+    "geom:longitude":-97.232297,
+    "iso:country":"US",
+    "sg:address":"9350 E 35th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 858 5000",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kqg6DyUmzsavOYBe1QoDu_37.749386_-97.232297@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044617,
+    "wof:geomhash":"975ad2083acbff2be1e260e1297a2f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":840637191
+        }
+    ],
+    "wof:id":840637191,
+    "wof:lastmodified":1464044617,
+    "wof:name":"Wichita Surgical Specialists",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.232297,
+    37.749386,
+    -97.232297,
+    37.749386
+],
+  "geometry": {"coordinates":[-97.232297,37.749386],"type":"Point"}
+}

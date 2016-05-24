@@ -1,0 +1,76 @@
+{
+  "id": 840692959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.613409,39.090165,-94.613409,39.090165",
+    "geom:latitude":39.090165,
+    "geom:longitude":-94.613409,
+    "iso:country":"US",
+    "sg:address":"47 Kansas Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 281 2589",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trailer"
+    ],
+    "sg:website":"www.planetkc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872009,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lcZPJ5bCikmE3VpDtVZsI_39.090165_-94.613409@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045895,
+    "wof:geomhash":"d8d8cdf4aada55146c6f4c4d713d735e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85872009,
+            "region_id":85688555,
+            "venue_id":840692959
+        }
+    ],
+    "wof:id":840692959,
+    "wof:lastmodified":1464045895,
+    "wof:name":"Contract Trailer Svc",
+    "wof:parent_id":85872009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -94.613409,
+    39.090165,
+    -94.613409,
+    39.090165
+],
+  "geometry": {"coordinates":[-94.613409,39.090165],"type":"Point"}
+}

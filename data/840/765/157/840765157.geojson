@@ -1,0 +1,78 @@
+{
+  "id": 840765157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.745037,38.971235,-94.745037,38.971235",
+    "geom:latitude":38.971235,
+    "geom:longitude":-94.745037,
+    "iso:country":"US",
+    "sg:address":"13520 W 87th Street Pkwy",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 859 0022",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "sg:website":"www.jiffylube.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h4m3EXEyYWofSuhOGpLSs_38.971235_-94.745037@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047457,
+    "wof:geomhash":"63cbccade37d040cbcb6129345bab122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840765157
+        }
+    ],
+    "wof:id":840765157,
+    "wof:lastmodified":1464047457,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -94.745037,
+    38.971235,
+    -94.745037,
+    38.971235
+],
+  "geometry": {"coordinates":[-94.745037,38.971235],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840587397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181356,38.405861,-96.181356,38.405861",
+    "geom:latitude":38.405861,
+    "geom:longitude":-96.181356,
+    "iso:country":"US",
+    "sg:address":"628 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 9078",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oh4kx8CEB603wVpg64HuY_38.405861_-96.181356@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043371,
+    "wof:geomhash":"04711368f60da002e7b5782c67c5b46e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840587397
+        }
+    ],
+    "wof:id":840587397,
+    "wof:lastmodified":1464043371,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.181356,
+    38.405861,
+    -96.181356,
+    38.405861
+],
+  "geometry": {"coordinates":[-96.18135599999999,38.405861],"type":"Point"}
+}

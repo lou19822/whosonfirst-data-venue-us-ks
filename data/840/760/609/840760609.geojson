@@ -1,0 +1,71 @@
+{
+  "id": 840760609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.399285,37.707299,-97.399285,37.707299",
+    "geom:latitude":37.707299,
+    "geom:longitude":-97.399285,
+    "iso:country":"US",
+    "sg:address":"1312 N Anna St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 4403",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ye7Y2RkludyhxuwBbbRao_37.707299_-97.399285@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047358,
+    "wof:geomhash":"37423c3d080ce99e3219fc43642c35f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840760609
+        }
+    ],
+    "wof:id":840760609,
+    "wof:lastmodified":1464047358,
+    "wof:name":"Rick Wirths Constuction",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -97.399285,
+    37.707299,
+    -97.399285,
+    37.707299
+],
+  "geometry": {"coordinates":[-97.39928500000001,37.707299],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840795491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.219658,38.4095,-96.219658,38.4095",
+    "geom:latitude":38.4095,
+    "geom:longitude":-96.219658,
+    "iso:country":"US",
+    "sg:address":"2929 US Hwy 50",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1652",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b2ZdqOZ3STkr76irbxWuq_38.409500_-96.219658@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048087,
+    "wof:geomhash":"18fc0371875a6ac4f14e15b25767d23a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840795491
+        }
+    ],
+    "wof:id":840795491,
+    "wof:lastmodified":1464048087,
+    "wof:name":"Conoco Food Mart",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.219658,
+    38.4095,
+    -96.219658,
+    38.4095
+],
+  "geometry": {"coordinates":[-96.219658,38.4095],"type":"Point"}
+}

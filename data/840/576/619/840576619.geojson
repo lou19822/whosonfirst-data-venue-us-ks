@@ -1,0 +1,73 @@
+{
+  "id": 840576619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.209382,38.42499,-96.209382,38.42499",
+    "geom:latitude":38.42499,
+    "geom:longitude":-96.209382,
+    "iso:country":"US",
+    "sg:address":"2328 Hillcrest Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8332",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01UalfnHurKtXVeEDK6cI7_38.424990_-96.209382@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043134,
+    "wof:geomhash":"9dfa0bb99454832a32261f4fd32e4dcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840576619
+        }
+    ],
+    "wof:id":840576619,
+    "wof:lastmodified":1464043134,
+    "wof:name":"LMC Svc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.209382,
+    38.42499,
+    -96.209382,
+    38.42499
+],
+  "geometry": {"coordinates":[-96.20938200000001,38.42499],"type":"Point"}
+}

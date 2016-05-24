@@ -1,0 +1,71 @@
+{
+  "id": 840568115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180239,38.403671,-96.180239,38.403671",
+    "geom:latitude":38.403671,
+    "geom:longitude":-96.180239,
+    "iso:country":"US",
+    "sg:address":"411 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 8368",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46ApSlEh6srLes9gn17VOa_38.403671_-96.180239@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042933,
+    "wof:geomhash":"f23461be682e268b8efe7a007156be7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840568115
+        }
+    ],
+    "wof:id":840568115,
+    "wof:lastmodified":1464042933,
+    "wof:name":"W Irving Shaw Law Office",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -96.180239,
+    38.403671,
+    -96.180239,
+    38.403671
+],
+  "geometry": {"coordinates":[-96.180239,38.403671],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840847123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.842812,38.753028,-94.842812,38.753028",
+    "geom:latitude":38.753028,
+    "geom:longitude":-94.842812,
+    "iso:country":"US",
+    "sg:address":"22400 207th St",
+    "sg:city":"Spring Hill",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 592 3781",
+    "sg:postcode":"66083",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IrOqqwuEZhky5QfavStf6_38.753028_-94.842812@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049379,
+    "wof:geomhash":"f980f9c03419301d17ef5b9f2a58c7a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840847123
+        }
+    ],
+    "wof:id":840847123,
+    "wof:lastmodified":1464049379,
+    "wof:name":"Spring Hill Water Plant",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -94.842812,
+    38.753028,
+    -94.842812,
+    38.753028
+],
+  "geometry": {"coordinates":[-94.842812,38.753028],"type":"Point"}
+}

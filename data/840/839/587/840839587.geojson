@@ -1,0 +1,77 @@
+{
+  "id": 840839587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.823707,38.916056,-94.823707,38.916056",
+    "geom:latitude":38.916056,
+    "geom:longitude":-94.823707,
+    "iso:country":"US",
+    "sg:address":"11705 S Pine St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 2115",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v9sxpEcPtp8gZVckIvjUU_38.916056_-94.823707@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049202,
+    "wof:geomhash":"8192286f1484081a39f5b2e8cfb670aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840839587
+        }
+    ],
+    "wof:id":840839587,
+    "wof:lastmodified":1464049202,
+    "wof:name":"Copley Plumbing",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.823707,
+    38.916056,
+    -94.823707,
+    38.916056
+],
+  "geometry": {"coordinates":[-94.823707,38.916056],"type":"Point"}
+}

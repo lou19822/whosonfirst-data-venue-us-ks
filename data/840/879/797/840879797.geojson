@@ -1,0 +1,71 @@
+{
+  "id": 840879797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.686607,39.075793,-95.686607,39.075793",
+    "geom:latitude":39.075793,
+    "geom:longitude":-95.686607,
+    "iso:country":"US",
+    "sg:address":"1828 NW Gordon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 3379",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vZ9CI8gtf6Wml7socYhkX_39.075793_-95.686607@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050072,
+    "wof:geomhash":"c68a3a2e196ec1e84ab6364ce70a98b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840879797
+        }
+    ],
+    "wof:id":840879797,
+    "wof:lastmodified":1464050072,
+    "wof:name":"Bennett's Garage",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.686607,
+    39.075793,
+    -95.686607,
+    39.075793
+],
+  "geometry": {"coordinates":[-95.686607,39.075793],"type":"Point"}
+}

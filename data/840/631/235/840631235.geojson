@@ -1,0 +1,66 @@
+{
+  "id": 840631235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.176937,38.405041,-96.176937,38.405041",
+    "geom:latitude":38.405041,
+    "geom:longitude":-96.176937,
+    "iso:country":"US",
+    "sg:address":"202 E 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4066",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N2aprUVeTU3EXUmFUnNbi_38.405041_-96.176937@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044470,
+    "wof:geomhash":"55c81e830c2ea8e2550b7c84927eebae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840631235
+        }
+    ],
+    "wof:id":840631235,
+    "wof:lastmodified":1464044470,
+    "wof:name":"Scotty's Midtown",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.176937,
+    38.405041,
+    -96.176937,
+    38.405041
+],
+  "geometry": {"coordinates":[-96.176937,38.405041],"type":"Point"}
+}

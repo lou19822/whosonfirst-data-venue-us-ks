@@ -1,0 +1,74 @@
+{
+  "id": 856708387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.388978,37.692845,-97.388978,37.692845",
+    "geom:latitude":37.692845,
+    "geom:longitude":-97.388978,
+    "iso:country":"US",
+    "sg:address":"550 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/65923-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 3000",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IMIZ3XpEvFYv4pArVyWzZ_37.692845_-97.388978@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052236,
+    "wof:geomhash":"2e5997654bec2af809fafa590f6f0d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":856708387
+        }
+    ],
+    "wof:id":856708387,
+    "wof:lastmodified":1464052236,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -97.388978,
+    37.692845,
+    -97.388978,
+    37.692845
+],
+  "geometry": {"coordinates":[-97.38897799999999,37.692845],"type":"Point"}
+}

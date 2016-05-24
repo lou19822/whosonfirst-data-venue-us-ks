@@ -1,0 +1,66 @@
+{
+  "id": 840675035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.351974,37.651634,-97.351974,37.651634",
+    "geom:latitude":37.651634,
+    "geom:longitude":-97.351974,
+    "iso:country":"US",
+    "sg:address":"1048 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 3131",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3txkfFLCDqfF1klXSD1q0N_37.651634_-97.351974@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045447,
+    "wof:geomhash":"049201cbc884d72a856b215beb1cd542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840675035
+        }
+    ],
+    "wof:id":840675035,
+    "wof:lastmodified":1464045447,
+    "wof:name":"Lamar's Liquor Stop",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.351974,
+    37.651634,
+    -97.351974,
+    37.651634
+],
+  "geometry": {"coordinates":[-97.351974,37.651634],"type":"Point"}
+}

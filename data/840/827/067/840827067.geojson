@@ -1,0 +1,73 @@
+{
+  "id": 840827067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700275,37.432783,-94.700275,37.432783",
+    "geom:latitude":37.432783,
+    "geom:longitude":-94.700275,
+    "iso:country":"US",
+    "sg:address":"2724 N Joplin St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7190",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x7XI9luaogSMm78r2rHiE_37.432783_-94.700275@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048941,
+    "wof:geomhash":"76f826ae68be1615c2dcd73ed9cc169e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840827067
+        }
+    ],
+    "wof:id":840827067,
+    "wof:lastmodified":1464048941,
+    "wof:name":"Gellender's Clinic",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.700275,
+    37.432783,
+    -94.700275,
+    37.432783
+],
+  "geometry": {"coordinates":[-94.700275,37.432783],"type":"Point"}
+}

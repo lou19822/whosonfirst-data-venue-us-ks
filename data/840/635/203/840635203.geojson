@@ -1,0 +1,71 @@
+{
+  "id": 840635203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.346668,37.647727,-97.346668,37.647727",
+    "geom:latitude":37.647727,
+    "geom:longitude":-97.346668,
+    "iso:country":"US",
+    "sg:address":"2621 S Sycamore St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 1610",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29esvFdNWOYhmfpN9kdYc9_37.647727_-97.346668@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044569,
+    "wof:geomhash":"3ebd00a9cfc40a333bf9ff8b79570361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840635203
+        }
+    ],
+    "wof:id":840635203,
+    "wof:lastmodified":1464044569,
+    "wof:name":"T D Svc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -97.346668,
+    37.647727,
+    -97.346668,
+    37.647727
+],
+  "geometry": {"coordinates":[-97.34666799999999,37.647727],"type":"Point"}
+}

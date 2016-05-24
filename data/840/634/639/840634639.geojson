@@ -1,0 +1,71 @@
+{
+  "id": 840634639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.537176,37.779864,-97.537176,37.779864",
+    "geom:latitude":37.779864,
+    "geom:longitude":-97.537176,
+    "iso:country":"US",
+    "sg:address":"310 S 2nd St",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 1714",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xHTJtOvP5laev1zJNAx0B_37.779864_-97.537176@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044558,
+    "wof:geomhash":"1694c803ef8f503581aae9e64e77c848",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840634639
+        }
+    ],
+    "wof:id":840634639,
+    "wof:lastmodified":1464044558,
+    "wof:name":"Colwich City Meeting Room",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -97.537176,
+    37.779864,
+    -97.537176,
+    37.779864
+],
+  "geometry": {"coordinates":[-97.537176,37.779864],"type":"Point"}
+}

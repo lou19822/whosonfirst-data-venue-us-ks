@@ -1,0 +1,73 @@
+{
+  "id": 840545511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.290713,38.41961,-96.290713,38.41961",
+    "geom:latitude":38.41961,
+    "geom:longitude":-96.290713,
+    "iso:country":"US",
+    "sg:address":"455 Rd 180",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8215",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s3BLBLtgM1V2JPNNZdeZM_38.419610_-96.290713@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042384,
+    "wof:geomhash":"05f55ae306e9f72a4449260519239351",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840545511
+        }
+    ],
+    "wof:id":840545511,
+    "wof:lastmodified":1464042384,
+    "wof:name":"Al's Electric",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.290713,
+    38.41961,
+    -96.290713,
+    38.41961
+],
+  "geometry": {"coordinates":[-96.290713,38.41961],"type":"Point"}
+}

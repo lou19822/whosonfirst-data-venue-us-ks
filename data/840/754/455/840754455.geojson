@@ -1,0 +1,73 @@
+{
+  "id": 840754455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.326289,37.666471,-97.326289,37.666471",
+    "geom:latitude":37.666471,
+    "geom:longitude":-97.326289,
+    "iso:country":"US",
+    "sg:address":"1428 S Washington St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 2576",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automotive",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jcL84VvUT75aVHLT1vq44_37.666471_-97.326289@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047209,
+    "wof:geomhash":"06551e8aa8ce37a1a4c12742ff4dc947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840754455
+        }
+    ],
+    "wof:id":840754455,
+    "wof:lastmodified":1464047209,
+    "wof:name":"Daves Motorcycle Shop",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "used"
+    ]
+},
+  "bbox": [
+    -97.326289,
+    37.666471,
+    -97.326289,
+    37.666471
+],
+  "geometry": {"coordinates":[-97.326289,37.666471],"type":"Point"}
+}

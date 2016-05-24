@@ -1,0 +1,66 @@
+{
+  "id": 840880137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687564,38.964397,-95.687564,38.964397",
+    "geom:latitude":38.964397,
+    "geom:longitude":-95.687564,
+    "iso:country":"US",
+    "sg:address":"5305 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 5100",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ta6QsStWFy0J5BWyfdZd5_38.964397_-95.687564@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050077,
+    "wof:geomhash":"ade14e6d30980709e5566eb906fc285b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840880137
+        }
+    ],
+    "wof:id":840880137,
+    "wof:lastmodified":1464050077,
+    "wof:name":"Market",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.687564,
+    38.964397,
+    -95.687564,
+    38.964397
+],
+  "geometry": {"coordinates":[-95.68756399999999,38.964397],"type":"Point"}
+}

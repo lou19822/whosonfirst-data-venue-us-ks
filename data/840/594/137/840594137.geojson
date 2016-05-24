@@ -1,0 +1,73 @@
+{
+  "id": 840594137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668151,38.833296,-94.668151,38.833296",
+    "geom:latitude":38.833296,
+    "geom:longitude":-94.668151,
+    "iso:country":"US",
+    "sg:address":"7230 W 162nd Ter",
+    "sg:city":"Stilwell",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 897 1700",
+    "sg:postcode":"66085",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OUY67lrwekFV1poRC2VZJ_38.833296_-94.668151@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043516,
+    "wof:geomhash":"ce3b994bb85ea95143689d84e81055f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840594137
+        }
+    ],
+    "wof:id":840594137,
+    "wof:lastmodified":1464043516,
+    "wof:name":"Denise's Dance Academy",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -94.668151,
+    38.833296,
+    -94.668151,
+    38.833296
+],
+  "geometry": {"coordinates":[-94.66815099999999,38.833296],"type":"Point"}
+}

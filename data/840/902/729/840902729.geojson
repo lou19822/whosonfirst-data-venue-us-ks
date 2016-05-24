@@ -1,0 +1,75 @@
+{
+  "id": 840902729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.692384,39.02941,-94.692384,39.02941",
+    "geom:latitude":39.02941,
+    "geom:longitude":-94.692384,
+    "iso:country":"US",
+    "sg:address":"5535 Merriam Dr",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 4555",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879555,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DuQws5GBsDhlVM1j3qXFz_39.029410_-94.692384@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050553,
+    "wof:geomhash":"dcf2d7539680e74c0b0e69be77652995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":840902729
+        }
+    ],
+    "wof:id":840902729,
+    "wof:lastmodified":1464050553,
+    "wof:name":"Green Dot Preformance Transmis",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -94.692384,
+    39.02941,
+    -94.692384,
+    39.02941
+],
+  "geometry": {"coordinates":[-94.692384,39.02941],"type":"Point"}
+}

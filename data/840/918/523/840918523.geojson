@@ -1,0 +1,75 @@
+{
+  "id": 840918523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.616675,39.08613,-94.616675,39.08613",
+    "geom:latitude":39.08613,
+    "geom:longitude":-94.616675,
+    "iso:country":"US",
+    "sg:address":"124 Shawnee Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 321 4445",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872009,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66h5EFnLKIe0OuVgVr2ewh_39.086130_-94.616675@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050962,
+    "wof:geomhash":"46f456e1debf7b24532623cf7e8a9f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85872009,
+            "region_id":85688555,
+            "venue_id":840918523
+        }
+    ],
+    "wof:id":840918523,
+    "wof:lastmodified":1464050962,
+    "wof:name":"Lanter Co",
+    "wof:parent_id":85872009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -94.616675,
+    39.08613,
+    -94.616675,
+    39.08613
+],
+  "geometry": {"coordinates":[-94.616675,39.08613],"type":"Point"}
+}

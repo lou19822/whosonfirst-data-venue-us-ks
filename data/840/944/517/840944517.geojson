@@ -1,0 +1,69 @@
+{
+  "id": 840944517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135217,37.714558,-97.135217,37.714558",
+    "geom:latitude":37.714558,
+    "geom:longitude":-97.135217,
+    "iso:country":"US",
+    "sg:address":"1627 N Andover Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 4122",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OEb0JE1bVsFOwYzBfRyYL_37.714558_-97.135217@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051542,
+    "wof:geomhash":"a7e5b1d4f9faa465ec6a91fcfe0a174c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840944517
+        }
+    ],
+    "wof:id":840944517,
+    "wof:lastmodified":1464051542,
+    "wof:name":"Glens Specialized Service",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -97.135217,
+    37.714558,
+    -97.135217,
+    37.714558
+],
+  "geometry": {"coordinates":[-97.135217,37.714558],"type":"Point"}
+}

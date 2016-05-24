@@ -1,0 +1,73 @@
+{
+  "id": 840632403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.398383,37.661589,-97.398383,37.661589",
+    "geom:latitude":37.661589,
+    "geom:longitude":-97.398383,
+    "iso:country":"US",
+    "sg:address":"1831 S Anna St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 3206",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OJlKZ6ohMxh0kCfEduIi9_37.661589_-97.398383@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044497,
+    "wof:geomhash":"5c6361e28092d7a168f6df3778c009a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840632403
+        }
+    ],
+    "wof:id":840632403,
+    "wof:lastmodified":1464044497,
+    "wof:name":"Simpson & Assoc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.398383,
+    37.661589,
+    -97.398383,
+    37.661589
+],
+  "geometry": {"coordinates":[-97.398383,37.661589],"type":"Point"}
+}

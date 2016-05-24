@@ -1,0 +1,77 @@
+{
+  "id": 840628009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.697739,39.051802,-95.697739,39.051802",
+    "geom:latitude":39.051802,
+    "geom:longitude":-95.697739,
+    "iso:country":"US",
+    "sg:address":"923 SW Garfield Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 9154",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881567,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vK1ml1XCxnd6ATm1wAyu7_39.051802_-95.697739@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044379,
+    "wof:geomhash":"e30e79bb0eb8d07e9d483925ffb2424c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881567,
+            "region_id":85688555,
+            "venue_id":840628009
+        }
+    ],
+    "wof:id":840628009,
+    "wof:lastmodified":1464044379,
+    "wof:name":"Asthma Allergy & Rheumatology",
+    "wof:parent_id":85881567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.697739,
+    39.051802,
+    -95.697739,
+    39.051802
+],
+  "geometry": {"coordinates":[-95.697739,39.051802],"type":"Point"}
+}

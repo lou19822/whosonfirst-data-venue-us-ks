@@ -1,0 +1,73 @@
+{
+  "id": 840737231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.141053,39.084168,-95.141053,39.084168",
+    "geom:latitude":39.084168,
+    "geom:longitude":-95.141053,
+    "iso:country":"US",
+    "sg:address":"16988 242nd St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 8999",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FjmP7nvbnXVwXqOD9oAr7_39.084168_-95.141053@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046840,
+    "wof:geomhash":"6e60771bf2c6d9409a20f850dab9dade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840737231
+        }
+    ],
+    "wof:id":840737231,
+    "wof:lastmodified":1464046840,
+    "wof:name":"Honey Creek Disposal",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -95.141053,
+    39.084168,
+    -95.141053,
+    39.084168
+],
+  "geometry": {"coordinates":[-95.141053,39.084168],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840801589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.663269,39.091203,-95.663269,39.091203",
+    "geom:latitude":39.091203,
+    "geom:longitude":-95.663269,
+    "iso:country":"US",
+    "sg:address":"350 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 0026",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yviE3Kblw0cQh4BsdC2DG_39.091203_-95.663269@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048234,
+    "wof:geomhash":"3ca93e6db22aa3c66c487a42f78ba19f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840801589
+        }
+    ],
+    "wof:id":840801589,
+    "wof:lastmodified":1464048234,
+    "wof:name":"North Topeka Golf Ctr",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -95.663269,
+    39.091203,
+    -95.663269,
+    39.091203
+],
+  "geometry": {"coordinates":[-95.663269,39.091203],"type":"Point"}
+}

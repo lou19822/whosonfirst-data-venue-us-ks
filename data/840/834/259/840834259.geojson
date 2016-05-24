@@ -1,0 +1,77 @@
+{
+  "id": 840834259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.802977,38.879649,-94.802977,38.879649",
+    "geom:latitude":38.879649,
+    "geom:longitude":-94.802977,
+    "iso:country":"US",
+    "sg:address":"235 S Church St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 390 9331",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O2OPP3UmsAvG7FEpdS4Oq_38.879649_-94.802977@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049096,
+    "wof:geomhash":"f51a3016d832e55f6948c3228083841b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840834259
+        }
+    ],
+    "wof:id":840834259,
+    "wof:lastmodified":1464049096,
+    "wof:name":"Environmental Recycling Svc",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -94.802977,
+    38.879649,
+    -94.802977,
+    38.879649
+],
+  "geometry": {"coordinates":[-94.802977,38.879649],"type":"Point"}
+}

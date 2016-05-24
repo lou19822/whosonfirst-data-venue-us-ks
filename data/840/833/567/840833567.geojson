@@ -1,0 +1,75 @@
+{
+  "id": 840833567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687522,38.960947,-95.687522,38.960947",
+    "geom:latitude":38.960947,
+    "geom:longitude":-95.687522,
+    "iso:country":"US",
+    "sg:address":"5800 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 0429",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DE69YXXATqj1BmdryFfRC_38.960947_-95.687522@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049075,
+    "wof:geomhash":"8c1ad1d93feaafda211e998a83cf02bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840833567
+        }
+    ],
+    "wof:id":840833567,
+    "wof:lastmodified":1464049075,
+    "wof:name":"Rippe Enterprises",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.687522,
+    38.960947,
+    -95.687522,
+    38.960947
+],
+  "geometry": {"coordinates":[-95.687522,38.960947],"type":"Point"}
+}

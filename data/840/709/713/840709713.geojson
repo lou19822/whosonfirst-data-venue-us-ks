@@ -1,0 +1,71 @@
+{
+  "id": 840709713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.322458,37.648057,-97.322458,37.648057",
+    "geom:latitude":37.648057,
+    "geom:longitude":-97.322458,
+    "iso:country":"US",
+    "sg:address":"2409 S Pattie St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 8740",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YILXvdtHmgerz1Tw7BArs_37.648057_-97.322458@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046298,
+    "wof:geomhash":"55748f9256e80ad9a41b632608150ad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840709713
+        }
+    ],
+    "wof:id":840709713,
+    "wof:lastmodified":1464046298,
+    "wof:name":"New Hope Community Church",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.322458,
+    37.648057,
+    -97.322458,
+    37.648057
+],
+  "geometry": {"coordinates":[-97.322458,37.648057],"type":"Point"}
+}

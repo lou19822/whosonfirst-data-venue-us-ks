@@ -1,0 +1,75 @@
+{
+  "id": 840684705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.647672,38.922521,-94.647672,38.922521",
+    "geom:latitude":38.922521,
+    "geom:longitude":-94.647672,
+    "iso:country":"US",
+    "sg:address":"11313 Ash St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 498 1780",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77kFQpoeNYXQSBeeQaBRpJ_38.922521_-94.647672@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045680,
+    "wof:geomhash":"13c39037f8524eb75b9b8d93f977cd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840684705
+        }
+    ],
+    "wof:id":840684705,
+    "wof:lastmodified":1464045680,
+    "wof:name":"BMA-Leawood",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.647672,
+    38.922521,
+    -94.647672,
+    38.922521
+],
+  "geometry": {"coordinates":[-94.647672,38.922521],"type":"Point"}
+}

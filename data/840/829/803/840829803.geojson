@@ -1,0 +1,72 @@
+{
+  "id": 840829803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704752,37.416956,-94.704752,37.416956",
+    "geom:latitude":37.416956,
+    "geom:longitude":-94.704752,
+    "iso:country":"US",
+    "sg:address":"906 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 2302",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.cpol.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41PnM22dePYbJNlC6vDRz3_37.416956_-94.704752@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049004,
+    "wof:geomhash":"ba479948ce76951754b7689598fd20ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840829803
+        }
+    ],
+    "wof:id":840829803,
+    "wof:lastmodified":1464049004,
+    "wof:name":"Computing Plus",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -94.704752,
+    37.416956,
+    -94.704752,
+    37.416956
+],
+  "geometry": {"coordinates":[-94.704752,37.416956],"type":"Point"}
+}

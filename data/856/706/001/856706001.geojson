@@ -1,0 +1,78 @@
+{
+  "id": 856706001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.724927,39.015283,-94.724927,39.015283",
+    "geom:latitude":39.015283,
+    "geom:longitude":-94.724927,
+    "iso:country":"US",
+    "sg:address":"11910 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/87457-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 268 0953",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_225Am7OUW79DhFmXk60kgk_39.015283_-94.724927@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052187,
+    "wof:geomhash":"d803e33c46257b03124540df3af9db47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":856706001
+        }
+    ],
+    "wof:id":856706001,
+    "wof:lastmodified":1464052187,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.724927,
+    39.015283,
+    -94.724927,
+    39.015283
+],
+  "geometry": {"coordinates":[-94.72492699999999,39.015283],"type":"Point"}
+}

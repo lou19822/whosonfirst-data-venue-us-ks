@@ -1,0 +1,71 @@
+{
+  "id": 840580485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.542087,37.721643,-97.542087,37.721643",
+    "geom:latitude":37.721643,
+    "geom:longitude":-97.542087,
+    "iso:country":"US",
+    "sg:address":"17520 W 21st St N",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 648 3138",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X99lXVHLRn7xbFl0GN1x3_37.721643_-97.542087@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043218,
+    "wof:geomhash":"dc63627e2deaccd011ff15efb82dc102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840580485
+        }
+    ],
+    "wof:id":840580485,
+    "wof:lastmodified":1464043218,
+    "wof:name":"Ace Delivery",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -97.542087,
+    37.721643,
+    -97.542087,
+    37.721643
+],
+  "geometry": {"coordinates":[-97.542087,37.721643],"type":"Point"}
+}

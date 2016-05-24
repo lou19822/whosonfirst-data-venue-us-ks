@@ -1,0 +1,75 @@
+{
+  "id": 840810973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.420794,37.723229,-97.420794,37.723229",
+    "geom:latitude":37.723229,
+    "geom:longitude":-97.420794,
+    "iso:country":"US",
+    "sg:address":"6501 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 0192",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "public",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DcdouogzIhD27b621Bww1_37.723229_-97.420794@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048458,
+    "wof:geomhash":"f76e6e25167b8df9ab69995495f4fd31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840810973
+        }
+    ],
+    "wof:id":840810973,
+    "wof:lastmodified":1464048458,
+    "wof:name":"Sedgwick County Park",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "public",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -97.420794,
+    37.723229,
+    -97.420794,
+    37.723229
+],
+  "geometry": {"coordinates":[-97.420794,37.723229],"type":"Point"}
+}

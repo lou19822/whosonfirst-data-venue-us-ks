@@ -1,0 +1,77 @@
+{
+  "id": 840925417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.580522,39.10545,-94.580522,39.10545",
+    "geom:latitude":39.10545,
+    "geom:longitude":-94.580522,
+    "iso:country":"US",
+    "sg:address":"600 Grand Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 842 4700",
+    "sg:postcode":"64108",
+    "sg:province":"KS",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867019,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rEkqVdCVOY3KzQOCrzEMy_39.105450_-94.580522@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051150,
+    "wof:geomhash":"3602327d4a334058dfeb4cc11ed9be9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867019,
+            "region_id":85688661,
+            "venue_id":840925417
+        }
+    ],
+    "wof:id":840925417,
+    "wof:lastmodified":1464051150,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85867019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -94.580522,
+    39.10545,
+    -94.580522,
+    39.10545
+],
+  "geometry": {"coordinates":[-94.580522,39.10545],"type":"Point"}
+}

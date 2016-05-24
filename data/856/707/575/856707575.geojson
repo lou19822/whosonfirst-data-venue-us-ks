@@ -1,0 +1,74 @@
+{
+  "id": 856707575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.216929,38.414765,-96.216929,38.414765",
+    "geom:latitude":38.414765,
+    "geom:longitude":-96.216929,
+    "iso:country":"US",
+    "sg:address":"1406 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/65851-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 0333",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02dazuO0KcLcO14zR5dSzQ_38.414765_-96.216929@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052221,
+    "wof:geomhash":"23edcb29ea0d6b8d89b8bb5373822886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707575
+        }
+    ],
+    "wof:id":856707575,
+    "wof:lastmodified":1464052221,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.216929,
+    38.414765,
+    -96.216929,
+    38.414765
+],
+  "geometry": {"coordinates":[-96.21692899999999,38.414765],"type":"Point"}
+}

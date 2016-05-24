@@ -1,0 +1,71 @@
+{
+  "id": 840692741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.24884,37.55973,-97.24884,37.55973",
+    "geom:latitude":37.55973,
+    "geom:longitude":-97.24884,
+    "iso:country":"US",
+    "sg:address":"1349 Broadmoor St",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 2861",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iFWgNdf9kA90sX94epcqQ_37.559730_-97.248840@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045890,
+    "wof:geomhash":"f07d88211b5eb22a6088dd23c578fce6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840692741
+        }
+    ],
+    "wof:id":840692741,
+    "wof:lastmodified":1464045890,
+    "wof:name":"Moore Memories Photography",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -97.24884,
+    37.55973,
+    -97.24884,
+    37.55973
+],
+  "geometry": {"coordinates":[-97.24884,37.55973],"type":"Point"}
+}

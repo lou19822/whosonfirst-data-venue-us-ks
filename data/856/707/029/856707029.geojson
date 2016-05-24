@@ -1,0 +1,78 @@
+{
+  "id": 856707029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651565,39.015104,-95.651565,39.015104",
+    "geom:latitude":39.015104,
+    "geom:longitude":-95.651565,
+    "iso:country":"US",
+    "sg:address":"2003 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/115659-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 2220",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881543,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YX6WmfxEZ6WRQsXC6NOwm_39.015104_-95.651565@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052209,
+    "wof:geomhash":"278b86c1f23170c96600e7a326ec2bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881543,
+            "region_id":85688555,
+            "venue_id":856707029
+        }
+    ],
+    "wof:id":856707029,
+    "wof:lastmodified":1464052209,
+    "wof:name":"Subway",
+    "wof:parent_id":85881543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.651565,
+    39.015104,
+    -95.651565,
+    39.015104
+],
+  "geometry": {"coordinates":[-95.65156500000001,39.015104],"type":"Point"}
+}

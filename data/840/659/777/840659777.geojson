@@ -1,0 +1,71 @@
+{
+  "id": 840659777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.244634,37.544903,-97.244634,37.544903",
+    "geom:latitude":37.544903,
+    "geom:longitude":-97.244634,
+    "iso:country":"US",
+    "sg:address":"1720 Osage Rd",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 789 8222",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30iPGVMcp97klPLNCJYEip_37.544903_-97.244634@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045098,
+    "wof:geomhash":"697d6e3d962d438abad74cde248f57c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840659777
+        }
+    ],
+    "wof:id":840659777,
+    "wof:lastmodified":1464045098,
+    "wof:name":"Wichita Clinic",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -97.244634,
+    37.544903,
+    -97.244634,
+    37.544903
+],
+  "geometry": {"coordinates":[-97.244634,37.544903],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840644211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.571808,37.627928,-97.571808,37.627928",
+    "geom:latitude":37.627928,
+    "geom:longitude":-97.571808,
+    "iso:country":"US",
+    "sg:address":"3626 S 199th St W",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 7999",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fu6dLcchvXrihxfUVDsrc_37.627928_-97.571808@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044768,
+    "wof:geomhash":"a2316b358741ba0fc6bbe03e4d176812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840644211
+        }
+    ],
+    "wof:id":840644211,
+    "wof:lastmodified":1464044768,
+    "wof:name":"Heartland Painting Inc",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -97.571808,
+    37.627928,
+    -97.571808,
+    37.627928
+],
+  "geometry": {"coordinates":[-97.571808,37.627928],"type":"Point"}
+}

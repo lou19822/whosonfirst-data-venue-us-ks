@@ -1,0 +1,73 @@
+{
+  "id": 840716497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.387164,37.708723,-97.387164,37.708723",
+    "geom:latitude":37.708723,
+    "geom:longitude":-97.387164,
+    "iso:country":"US",
+    "sg:address":"3827 W 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 4666",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hNjEWhbxD5Tpu2akDzay1_37.708723_-97.387164@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046429,
+    "wof:geomhash":"4a512b97532c9eb10f4c4c7079b1a3b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840716497
+        }
+    ],
+    "wof:id":840716497,
+    "wof:lastmodified":1464046429,
+    "wof:name":"Scotch & Soda",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -97.387164,
+    37.708723,
+    -97.387164,
+    37.708723
+],
+  "geometry": {"coordinates":[-97.387164,37.708723],"type":"Point"}
+}

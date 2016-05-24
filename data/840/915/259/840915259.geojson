@@ -1,0 +1,75 @@
+{
+  "id": 840915259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.82187,38.85454,-94.82187,38.85454",
+    "geom:latitude":38.85454,
+    "geom:longitude":-94.82187,
+    "iso:country":"US",
+    "sg:address":"20321 W 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 393 2063",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63D5SOl5odokU3zGb6p8A2_38.854540_-94.821870@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050876,
+    "wof:geomhash":"fbe77fe99ddd69433437700762ee6f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840915259
+        }
+    ],
+    "wof:id":840915259,
+    "wof:lastmodified":1464050876,
+    "wof:name":"Foozles Bookstore",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.82187,
+    38.85454,
+    -94.82187,
+    38.85454
+],
+  "geometry": {"coordinates":[-94.82187,38.85454],"type":"Point"}
+}

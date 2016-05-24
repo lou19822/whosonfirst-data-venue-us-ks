@@ -1,0 +1,71 @@
+{
+  "id": 840945593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848893,37.830091,-96.848893,37.830091",
+    "geom:latitude":37.830091,
+    "geom:longitude":-96.848893,
+    "iso:country":"US",
+    "sg:address":"1130 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 4557",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WI435dhLRiojOHsRvJ79L_37.830091_-96.848893@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051563,
+    "wof:geomhash":"7fe4e5ce855e4340a05fdb9defc8fd9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840945593
+        }
+    ],
+    "wof:id":840945593,
+    "wof:lastmodified":1464051563,
+    "wof:name":"Mr CS Styling Center",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -96.848893,
+    37.830091,
+    -96.848893,
+    37.830091
+],
+  "geometry": {"coordinates":[-96.848893,37.830091],"type":"Point"}
+}

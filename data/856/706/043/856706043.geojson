@@ -1,0 +1,76 @@
+{
+  "id": 856706043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.72807,39.022379,-94.72807,39.022379",
+    "geom:latitude":39.022379,
+    "geom:longitude":-94.72807,
+    "iso:country":"US",
+    "sg:address":"12200 Johnson Dr",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/12019-margaritas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 5553",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MTEFAfzYvPUdd3Hrf9jQO_39.022379_-94.728070@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052187,
+    "wof:geomhash":"7d8e5285c88a2d4379b610b7f81c80b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":856706043
+        }
+    ],
+    "wof:id":856706043,
+    "wof:lastmodified":1464052187,
+    "wof:name":"Margarita's",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.72807,
+    39.022379,
+    -94.72807,
+    39.022379
+],
+  "geometry": {"coordinates":[-94.72807,39.022379],"type":"Point"}
+}

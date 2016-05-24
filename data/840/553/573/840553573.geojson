@@ -1,0 +1,71 @@
+{
+  "id": 840553573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706137,39.099414,-95.706137,39.099414",
+    "geom:latitude":39.099414,
+    "geom:longitude":-95.706137,
+    "iso:country":"US",
+    "sg:address":"2700 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 2773",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70hsP8KjpZbInCqvErLXPY_39.099414_-95.706137@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042587,
+    "wof:geomhash":"1bdbd4454980a8f25b135758db716dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840553573
+        }
+    ],
+    "wof:id":840553573,
+    "wof:lastmodified":1464042587,
+    "wof:name":"Arrow Stage Lines",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -95.706137,
+    39.099414,
+    -95.706137,
+    39.099414
+],
+  "geometry": {"coordinates":[-95.706137,39.099414],"type":"Point"}
+}

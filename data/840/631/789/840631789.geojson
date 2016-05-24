@@ -1,0 +1,71 @@
+{
+  "id": 840631789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.188511,38.405103,-96.188511,38.405103",
+    "geom:latitude":38.405103,
+    "geom:longitude":-96.188511,
+    "iso:country":"US",
+    "sg:address":"602 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3890",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40fKjfQ9J2w39yWPZJ6jbu_38.405103_-96.188511@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044485,
+    "wof:geomhash":"b42d7e2299b1a2c4c923030b765b405f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840631789
+        }
+    ],
+    "wof:id":840631789,
+    "wof:lastmodified":1464044485,
+    "wof:name":"Gold Nugget Custom Jewelry",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -96.188511,
+    38.405103,
+    -96.188511,
+    38.405103
+],
+  "geometry": {"coordinates":[-96.18851100000001,38.405103],"type":"Point"}
+}

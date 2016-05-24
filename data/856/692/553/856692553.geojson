@@ -1,0 +1,69 @@
+{
+  "id": 856692553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.881008,37.831473,-96.881008,37.831473",
+    "geom:latitude":37.831473,
+    "geom:longitude":-96.881008,
+    "iso:country":"US",
+    "sg:address":"1213 N Haverhill Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 2866",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "valve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CgKNDTbv0YWGKeRTeqbr5_37.831473_-96.881008@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051917,
+    "wof:geomhash":"888a613c60964480a8ecb45f04fa6121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":856692553
+        }
+    ],
+    "wof:id":856692553,
+    "wof:lastmodified":1464051917,
+    "wof:name":"Southwest Valve Svc Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve"
+    ]
+},
+  "bbox": [
+    -96.881008,
+    37.831473,
+    -96.881008,
+    37.831473
+],
+  "geometry": {"coordinates":[-96.88100799999999,37.831473],"type":"Point"}
+}

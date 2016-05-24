@@ -1,0 +1,74 @@
+{
+  "id": 856707647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.217048,38.425353,-96.217048,38.425353",
+    "geom:latitude":38.425353,
+    "geom:longitude":-96.217048,
+    "iso:country":"US",
+    "sg:address":"2301 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/115531-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0633",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HJz0IpBojrlQ9aPloeeKu_38.425353_-96.217048@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052223,
+    "wof:geomhash":"df4d1c83aa49aefe6de4e8029bd71f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707647
+        }
+    ],
+    "wof:id":856707647,
+    "wof:lastmodified":1464052223,
+    "wof:name":"Subway",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.217048,
+    38.425353,
+    -96.217048,
+    38.425353
+],
+  "geometry": {"coordinates":[-96.21704800000001,38.425353],"type":"Point"}
+}

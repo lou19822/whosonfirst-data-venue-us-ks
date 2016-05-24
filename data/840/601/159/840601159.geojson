@@ -1,0 +1,73 @@
+{
+  "id": 840601159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.178769,38.403714,-96.178769,38.403714",
+    "geom:latitude":38.403714,
+    "geom:longitude":-96.178769,
+    "iso:country":"US",
+    "sg:address":"406 Mechanic St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3122",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nb5WRap9hQ0J0tbYtUVb1_38.403714_-96.178769@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043684,
+    "wof:geomhash":"ce1aab78743f5deb770d101b529464d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840601159
+        }
+    ],
+    "wof:id":840601159,
+    "wof:lastmodified":1464043684,
+    "wof:name":"Thompson Auto Repair",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.178769,
+    38.403714,
+    -96.178769,
+    38.403714
+],
+  "geometry": {"coordinates":[-96.178769,38.403714],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840756625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848298,37.813823,-96.848298,37.813823",
+    "geom:latitude":37.813823,
+    "geom:longitude":-96.848298,
+    "iso:country":"US",
+    "sg:address":"222 E Locust Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 322 8877",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QObYjOR2TJ1tHELef6l5Y_37.813823_-96.848298@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047254,
+    "wof:geomhash":"ad4d43f4b5f4f7f0c619b8464515b03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840756625
+        }
+    ],
+    "wof:id":840756625,
+    "wof:lastmodified":1464047254,
+    "wof:name":"El Dorado City Recycle Ctr",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -96.848298,
+    37.813823,
+    -96.848298,
+    37.813823
+],
+  "geometry": {"coordinates":[-96.848298,37.813823],"type":"Point"}
+}

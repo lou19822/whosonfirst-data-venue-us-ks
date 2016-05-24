@@ -1,0 +1,75 @@
+{
+  "id": 840925929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352515,37.651628,-97.352515,37.651628",
+    "geom:latitude":37.651628,
+    "geom:longitude":-97.352515,
+    "iso:country":"US",
+    "sg:address":"1010 W Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 4424",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6180WOFn6tBesQiOnQ279U_37.651628_-97.352515@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051164,
+    "wof:geomhash":"cb6b169295ac39e0dfb0b88f37b5d7a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840925929
+        }
+    ],
+    "wof:id":840925929,
+    "wof:lastmodified":1464051164,
+    "wof:name":"P Service Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -97.352515,
+    37.651628,
+    -97.352515,
+    37.651628
+],
+  "geometry": {"coordinates":[-97.352515,37.651628],"type":"Point"}
+}

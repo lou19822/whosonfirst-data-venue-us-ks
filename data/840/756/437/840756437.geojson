@@ -1,0 +1,72 @@
+{
+  "id": 840756437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848953,37.829751,-96.848953,37.829751",
+    "geom:latitude":37.829751,
+    "geom:longitude":-96.848953,
+    "iso:country":"US",
+    "sg:address":"1100 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 6230",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.carlisleinc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76k7Vk3zMCx1Mmdq8XVXNr_37.829751_-96.848953@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047252,
+    "wof:geomhash":"aba1640cca2e87e860398ac65c4a06c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840756437
+        }
+    ],
+    "wof:id":840756437,
+    "wof:lastmodified":1464047252,
+    "wof:name":"Carlisle Heating & Air Cond",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.848953,
+    37.829751,
+    -96.848953,
+    37.829751
+],
+  "geometry": {"coordinates":[-96.84895299999999,37.829751],"type":"Point"}
+}

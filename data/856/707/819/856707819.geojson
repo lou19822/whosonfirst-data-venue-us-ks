@@ -1,0 +1,72 @@
+{
+  "id": 856707819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.986797,37.679408,-96.986797,37.679408",
+    "geom:latitude":37.679408,
+    "geom:longitude":-96.986797,
+    "iso:country":"US",
+    "sg:address":"620 W 7th Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/augusta/208139-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 0400",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kjNQbxTFbpo0hZ5yOGSkB_37.679408_-96.986797@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052226,
+    "wof:geomhash":"6e3c8d7cc4404cba805e3214f4cfc65b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":856707819
+        }
+    ],
+    "wof:id":856707819,
+    "wof:lastmodified":1464052226,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.986797,
+    37.679408,
+    -96.986797,
+    37.679408
+],
+  "geometry": {"coordinates":[-96.986797,37.679408],"type":"Point"}
+}

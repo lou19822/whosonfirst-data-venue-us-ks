@@ -1,0 +1,71 @@
+{
+  "id": 840688863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.26059,38.500606,-96.26059,38.500606",
+    "geom:latitude":38.500606,
+    "geom:longitude":-96.26059,
+    "iso:country":"US",
+    "sg:address":"409 Oak St",
+    "sg:city":"Americus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 443 5619",
+    "sg:postcode":"66835",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lEAKokF9W6LbSE7qXhBHy_38.500606_-96.260590@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045793,
+    "wof:geomhash":"9174546a136fa35481d16838e84e74f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840688863
+        }
+    ],
+    "wof:id":840688863,
+    "wof:lastmodified":1464045793,
+    "wof:name":"Birchmier Business",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.26059,
+    38.500606,
+    -96.26059,
+    38.500606
+],
+  "geometry": {"coordinates":[-96.26058999999999,38.500606],"type":"Point"}
+}

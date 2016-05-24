@@ -1,0 +1,73 @@
+{
+  "id": 840691869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704624,37.417091,-94.704624,37.417091",
+    "geom:latitude":37.417091,
+    "geom:longitude":-94.704624,
+    "iso:country":"US",
+    "sg:address":"117 E 10th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 0564",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PtYG6UtLoFXlKgr67Uc5Q_37.417091_-94.704624@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045858,
+    "wof:geomhash":"f485470d525468f2c9c3d0a99d215cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840691869
+        }
+    ],
+    "wof:id":840691869,
+    "wof:lastmodified":1464045858,
+    "wof:name":"St Mary's Good Will Ctr",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -94.704624,
+    37.417091,
+    -94.704624,
+    37.417091
+],
+  "geometry": {"coordinates":[-94.704624,37.417091],"type":"Point"}
+}

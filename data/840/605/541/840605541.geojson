@@ -1,0 +1,73 @@
+{
+  "id": 840605541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.176353,38.400098,-96.176353,38.400098",
+    "geom:latitude":38.400098,
+    "geom:longitude":-96.176353,
+    "iso:country":"US",
+    "sg:address":"101 Union St",
+    "sg:city":"Cottonwood Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 273 8693",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kXTpgE99XTnCJXAYP7Re0_38.400098_-96.176353@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043789,
+    "wof:geomhash":"dfc95831905c48d7b48a0c53f86d4859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840605541
+        }
+    ],
+    "wof:id":840605541,
+    "wof:lastmodified":1464043789,
+    "wof:name":"Charlie's Auto Repair",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.176353,
+    38.400098,
+    -96.176353,
+    38.400098
+],
+  "geometry": {"coordinates":[-96.17635300000001,38.400098],"type":"Point"}
+}

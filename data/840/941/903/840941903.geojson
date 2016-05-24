@@ -1,0 +1,71 @@
+{
+  "id": 840941903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.60807,39.022442,-95.60807,39.022442",
+    "geom:latitude":39.022442,
+    "geom:longitude":-95.60807,
+    "iso:country":"US",
+    "sg:address":"3810 SE 25th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 9095",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ggm0ASglnML9bwRju9XNk_39.022442_-95.608070@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051484,
+    "wof:geomhash":"a962264bdd620ddaaeb43934175981d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840941903
+        }
+    ],
+    "wof:id":840941903,
+    "wof:lastmodified":1464051484,
+    "wof:name":"Bobbis Christian Daycare",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -95.60807,
+    39.022442,
+    -95.60807,
+    39.022442
+],
+  "geometry": {"coordinates":[-95.60807,39.022442],"type":"Point"}
+}

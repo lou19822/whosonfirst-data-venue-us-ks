@@ -1,0 +1,71 @@
+{
+  "id": 840812119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135194,37.695168,-97.135194,37.695168",
+    "geom:latitude":37.695168,
+    "geom:longitude":-97.135194,
+    "iso:country":"US",
+    "sg:address":"640 N Andover Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 9772",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yS7vrIc8DTyS0UKODmzNh_37.695168_-97.135194@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048506,
+    "wof:geomhash":"65fe97c7fc2b8d9014f033846be5f30e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840812119
+        }
+    ],
+    "wof:id":840812119,
+    "wof:lastmodified":1464048506,
+    "wof:name":"Andover Paint Ctr Inc",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -97.135194,
+    37.695168,
+    -97.135194,
+    37.695168
+],
+  "geometry": {"coordinates":[-97.135194,37.695168],"type":"Point"}
+}

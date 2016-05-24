@@ -1,0 +1,71 @@
+{
+  "id": 840552533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.494489,37.682452,-97.494489,37.682452",
+    "geom:latitude":37.682452,
+    "geom:longitude":-97.494489,
+    "iso:country":"US",
+    "sg:address":"117 S Forestview St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 9446",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XRfikORoSMV0KkywxT0HS_37.682452_-97.494489@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042567,
+    "wof:geomhash":"9ddeb9a0fc91eff2e79526a06c54aaf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840552533
+        }
+    ],
+    "wof:id":840552533,
+    "wof:lastmodified":1464042567,
+    "wof:name":"Plumbing Systems",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.494489,
+    37.682452,
+    -97.494489,
+    37.682452
+],
+  "geometry": {"coordinates":[-97.494489,37.682452],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840835541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.207367,38.666214,-96.207367,38.666214",
+    "geom:latitude":38.666214,
+    "geom:longitude":-96.207367,
+    "iso:country":"US",
+    "sg:address":"884 Rd 350",
+    "sg:city":"Allen",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 528 3246",
+    "sg:postcode":"66833",
+    "sg:province":"KS",
+    "sg:tags":[
+        "feeding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hNEL80kIyp3klpKGWxly8_38.666214_-96.207367@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049122,
+    "wof:geomhash":"bac61a4a1d74a70478f56226b9fab1ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840835541
+        }
+    ],
+    "wof:id":840835541,
+    "wof:lastmodified":1464049122,
+    "wof:name":"Stoneman Cattle Co",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feeding"
+    ]
+},
+  "bbox": [
+    -96.207367,
+    38.666214,
+    -96.207367,
+    38.666214
+],
+  "geometry": {"coordinates":[-96.207367,38.666214],"type":"Point"}
+}

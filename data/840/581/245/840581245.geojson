@@ -1,0 +1,69 @@
+{
+  "id": 840581245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.732968,39.090429,-95.732968,39.090429",
+    "geom:latitude":39.090429,
+    "geom:longitude":-95.732968,
+    "iso:country":"US",
+    "sg:address":"4425 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 7111",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VJo3IRO08mPoDHpYLXJr5_39.090429_-95.732968@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043239,
+    "wof:geomhash":"fa2cccf6d52ed90476b865c3023b5892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840581245
+        }
+    ],
+    "wof:id":840581245,
+    "wof:lastmodified":1464043239,
+    "wof:name":"MHC Kenworth Topeka",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -95.732968,
+    39.090429,
+    -95.732968,
+    39.090429
+],
+  "geometry": {"coordinates":[-95.732968,39.090429],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840926431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.18007,38.406022,-96.18007,38.406022",
+    "geom:latitude":38.406022,
+    "geom:longitude":-96.18007,
+    "iso:country":"US",
+    "sg:address":"614 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 9866",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sf1sNcgb4AbLHBqjVzpj3_38.406022_-96.180070@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051174,
+    "wof:geomhash":"866e36709e33559cb000e50de3d40677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840926431
+        }
+    ],
+    "wof:id":840926431,
+    "wof:lastmodified":1464051174,
+    "wof:name":"Commercial Street Diner",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -96.18007,
+    38.406022,
+    -96.18007,
+    38.406022
+],
+  "geometry": {"coordinates":[-96.18007,38.406022],"type":"Point"}
+}

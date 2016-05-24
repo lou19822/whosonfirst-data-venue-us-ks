@@ -1,0 +1,73 @@
+{
+  "id": 840938329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.617803,39.015145,-95.617803,39.015145",
+    "geom:latitude":39.015145,
+    "geom:longitude":-95.617803,
+    "iso:country":"US",
+    "sg:address":"3615 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 2769",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JkIXhn8hA5mIMZOlD4QaD_39.015145_-95.617803@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051413,
+    "wof:geomhash":"82ca1afac0e92bbaca9a359e15087ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840938329
+        }
+    ],
+    "wof:id":840938329,
+    "wof:lastmodified":1464051413,
+    "wof:name":"Arrow Financial Svc",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -95.617803,
+    39.015145,
+    -95.617803,
+    39.015145
+],
+  "geometry": {"coordinates":[-95.61780299999999,39.015145],"type":"Point"}
+}

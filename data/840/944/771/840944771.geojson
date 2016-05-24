@@ -1,0 +1,77 @@
+{
+  "id": 840944771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.6902,39.1284,-94.6902,39.1284",
+    "geom:latitude":39.1284,
+    "geom:longitude":-94.6902,
+    "iso:country":"US",
+    "sg:address":"4805 Parallel Pkwy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 2896",
+    "sg:postcode":"66104",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878491,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KolLmvLP5x6gawVqNLOng_39.128400_-94.690200@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051547,
+    "wof:geomhash":"2820fb2156daf3de443591a95b48d7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878491,
+            "region_id":85688555,
+            "venue_id":840944771
+        }
+    ],
+    "wof:id":840944771,
+    "wof:lastmodified":1464051547,
+    "wof:name":"Precision Tune Auto Care",
+    "wof:parent_id":85878491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.6902,
+    39.1284,
+    -94.6902,
+    39.1284
+],
+  "geometry": {"coordinates":[-94.6902,39.1284],"type":"Point"}
+}

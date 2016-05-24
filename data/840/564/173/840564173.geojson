@@ -1,0 +1,73 @@
+{
+  "id": 840564173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.165235,38.406896,-96.165235,38.406896",
+    "geom:latitude":38.406896,
+    "geom:longitude":-96.165235,
+    "iso:country":"US",
+    "sg:address":"742 Watson St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7127",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PkQBbyBKHioWv6VV1ogE0_38.406896_-96.165235@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042828,
+    "wof:geomhash":"d330ab2470dff94f475645f94c4cbadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840564173
+        }
+    ],
+    "wof:id":840564173,
+    "wof:lastmodified":1464042828,
+    "wof:name":"CTR Construction",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.165235,
+    38.406896,
+    -96.165235,
+    38.406896
+],
+  "geometry": {"coordinates":[-96.165235,38.406896],"type":"Point"}
+}

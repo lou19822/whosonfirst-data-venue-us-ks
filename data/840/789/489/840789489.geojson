@@ -1,0 +1,73 @@
+{
+  "id": 840789489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.217596,38.408717,-96.217596,38.408717",
+    "geom:latitude":38.408717,
+    "geom:longitude":-96.217596,
+    "iso:country":"US",
+    "sg:address":"2810 US Hwy 50",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1266",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CIm3N2QqMtoEWB3ZOb90L_38.408717_-96.217596@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047970,
+    "wof:geomhash":"593221fa433af86efdaf6d3670863c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840789489
+        }
+    ],
+    "wof:id":840789489,
+    "wof:lastmodified":1464047970,
+    "wof:name":"Snapshot Photo",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -96.217596,
+    38.408717,
+    -96.217596,
+    38.408717
+],
+  "geometry": {"coordinates":[-96.217596,38.408717],"type":"Point"}
+}

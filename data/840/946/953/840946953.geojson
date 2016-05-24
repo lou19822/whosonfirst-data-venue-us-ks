@@ -1,0 +1,71 @@
+{
+  "id": 840946953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.799352,37.810203,-96.799352,37.810203",
+    "geom:latitude":37.810203,
+    "geom:longitude":-96.799352,
+    "iso:country":"US",
+    "sg:address":"2190 SE US Hwy 54",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 4525",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fvfzkKMKqlzXdPcRj84Eq_37.810203_-96.799352@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051588,
+    "wof:geomhash":"44b670e9e1e78b9800ca6b6249f6f6e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840946953
+        }
+    ],
+    "wof:id":840946953,
+    "wof:lastmodified":1464051588,
+    "wof:name":"Lakeside Storage",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -96.799352,
+    37.810203,
+    -96.799352,
+    37.810203
+],
+  "geometry": {"coordinates":[-96.799352,37.810203],"type":"Point"}
+}

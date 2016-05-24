@@ -1,0 +1,71 @@
+{
+  "id": 840725727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.365957,37.722885,-97.365957,37.722885",
+    "geom:latitude":37.722885,
+    "geom:longitude":-97.365957,
+    "iso:country":"US",
+    "sg:address":"2070 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 0861",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tr6icwPGz5Pyos8qzPDH4_37.722885_-97.365957@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046632,
+    "wof:geomhash":"ffd1b6668378b3066b4aa4c957a9c68e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840725727
+        }
+    ],
+    "wof:id":840725727,
+    "wof:lastmodified":1464046632,
+    "wof:name":"Sweetbriar Veterinary Clinic",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -97.365957,
+    37.722885,
+    -97.365957,
+    37.722885
+],
+  "geometry": {"coordinates":[-97.36595699999999,37.722885],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 856706129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.778233,38.955022,-94.778233,38.955022",
+    "geom:latitude":38.955022,
+    "geom:longitude":-94.778233,
+    "iso:country":"US",
+    "sg:address":"9601 Renner Blvd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/233984-natures-table/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 859 8675",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "smoothy",
+        "sandwich",
+        "salad",
+        "juice",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36eBHVZBBauFj8RIG8hoPZ_38.955022_-94.778233@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052189,
+    "wof:geomhash":"9cf660b79801a6fb01783e2416797edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856706129
+        }
+    ],
+    "wof:id":856706129,
+    "wof:lastmodified":1464052189,
+    "wof:name":"Nature's Table",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "sandwich",
+        "salad",
+        "juice",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -94.778233,
+    38.955022,
+    -94.778233,
+    38.955022
+],
+  "geometry": {"coordinates":[-94.778233,38.955022],"type":"Point"}
+}

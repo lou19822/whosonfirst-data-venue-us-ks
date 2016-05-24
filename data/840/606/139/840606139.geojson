@@ -1,0 +1,77 @@
+{
+  "id": 840606139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.882787,39.131522,-94.882787,39.131522",
+    "geom:latitude":39.131522,
+    "geom:longitude":-94.882787,
+    "iso:country":"US",
+    "sg:address":"2330 N 131st St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 721 2988",
+    "sg:postcode":"66109",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853771,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XXtimYmSX7Onk3hco0yQa_39.131522_-94.882787@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043801,
+    "wof:geomhash":"af200b24191d5adc1f4037b457fd51ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85853771,
+            "region_id":85688555,
+            "venue_id":840606139
+        }
+    ],
+    "wof:id":840606139,
+    "wof:lastmodified":1464043801,
+    "wof:name":"M C Electric",
+    "wof:parent_id":85853771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.882787,
+    39.131522,
+    -94.882787,
+    39.131522
+],
+  "geometry": {"coordinates":[-94.88278699999999,39.131522],"type":"Point"}
+}

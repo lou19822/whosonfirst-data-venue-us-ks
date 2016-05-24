@@ -1,0 +1,71 @@
+{
+  "id": 840701591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.659925,39.102525,-95.659925,39.102525",
+    "geom:latitude":39.102525,
+    "geom:longitude":-95.659925,
+    "iso:country":"US",
+    "sg:address":"3312 N Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0269",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SCrsWtgQIK6xupt4PYniw_39.102525_-95.659925@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046120,
+    "wof:geomhash":"1cecc55ce212dcf8b527c563e2a179df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840701591
+        }
+    ],
+    "wof:id":840701591,
+    "wof:lastmodified":1464046120,
+    "wof:name":"Schoolhouse Apartments",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.659925,
+    39.102525,
+    -95.659925,
+    39.102525
+],
+  "geometry": {"coordinates":[-95.659925,39.102525],"type":"Point"}
+}

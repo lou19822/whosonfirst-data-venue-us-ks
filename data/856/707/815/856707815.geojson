@@ -1,0 +1,73 @@
+{
+  "id": 856707815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.971438,37.689229,-96.971438,37.689229",
+    "geom:latitude":37.689229,
+    "geom:longitude":-96.971438,
+    "iso:country":"US",
+    "sg:address":"1411 Ohio St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/augusta/225440-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42kNFixSFdPpPueugpeeB6_37.689229_-96.971438@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052226,
+    "wof:geomhash":"d94ba8999e7d3f566d0fa63afcdcffc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":856707815
+        }
+    ],
+    "wof:id":856707815,
+    "wof:lastmodified":1464052226,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.971438,
+    37.689229,
+    -96.971438,
+    37.689229
+],
+  "geometry": {"coordinates":[-96.97143800000001,37.689229],"type":"Point"}
+}

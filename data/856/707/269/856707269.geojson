@@ -1,0 +1,78 @@
+{
+  "id": 856707269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724911,39.014735,-95.724911,39.014735",
+    "geom:latitude":39.014735,
+    "geom:longitude":-95.724911,
+    "iso:country":"US",
+    "sg:address":"3820 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/207396-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 6271",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881549,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16oeuAIEHDj45NjK4pVBim_39.014735_-95.724911@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052212,
+    "wof:geomhash":"459c5566f1744393d70f45af4065bc96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":856707269
+        }
+    ],
+    "wof:id":856707269,
+    "wof:lastmodified":1464052212,
+    "wof:name":"Sonic",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.724911,
+    39.014735,
+    -95.724911,
+    39.014735
+],
+  "geometry": {"coordinates":[-95.72491100000001,39.014735],"type":"Point"}
+}

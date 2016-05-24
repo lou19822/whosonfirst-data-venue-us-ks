@@ -1,0 +1,75 @@
+{
+  "id": 840815545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.407341,37.637392,-97.407341,37.637392",
+    "geom:latitude":37.637392,
+    "geom:longitude":-97.407341,
+    "iso:country":"US",
+    "sg:address":"2928 S Hoover Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 7965",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FoXYinChz9NEhYlqHX5jM_37.637392_-97.407341@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048628,
+    "wof:geomhash":"41ea04a92b8b067a795259fdeea88f64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840815545
+        }
+    ],
+    "wof:id":840815545,
+    "wof:lastmodified":1464048628,
+    "wof:name":"Lubbers Body Shop",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -97.407341,
+    37.637392,
+    -97.407341,
+    37.637392
+],
+  "geometry": {"coordinates":[-97.407341,37.637392],"type":"Point"}
+}

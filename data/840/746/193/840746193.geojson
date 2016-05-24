@@ -1,0 +1,84 @@
+{
+  "id": 840746193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.726328,39.033677,-95.726328,39.033677",
+    "geom:latitude":39.033677,
+    "geom:longitude":-95.726328,
+    "iso:country":"US",
+    "sg:address":"1731 SW Mission Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 8423",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "ornamental",
+        "work",
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k0VKFUjRTTdwuMasRHV0i_39.033677_-95.726328@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047011,
+    "wof:geomhash":"e1c6c9abffa64b73dcffff7de3c23f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":840746193
+        }
+    ],
+    "wof:id":840746193,
+    "wof:lastmodified":1464047011,
+    "wof:name":"Aspen Fence Co",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "work",
+        "fence"
+    ]
+},
+  "bbox": [
+    -95.726328,
+    39.033677,
+    -95.726328,
+    39.033677
+],
+  "geometry": {"coordinates":[-95.726328,39.033677],"type":"Point"}
+}

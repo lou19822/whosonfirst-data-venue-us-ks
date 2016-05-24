@@ -1,0 +1,78 @@
+{
+  "id": 856709655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.266082,37.340535,-95.266082,37.340535",
+    "geom:latitude":37.340535,
+    "geom:longitude":-95.266082,
+    "iso:country":"US",
+    "sg:address":"2010 Main St",
+    "sg:city":"Parsons",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/parsons/115627-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 421 0677",
+    "sg:postcode":"67357",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858383,
+        102191575,
+        404502729,
+        85633793,
+        85945457,
+        102083423,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lk8NTymVs3JvYzE6Ke4gj_37.340535_-95.266082@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052260,
+    "wof:geomhash":"af687f4051bc9827f3fc08c12a7359e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083423,
+            "localadmin_id":404502729,
+            "locality_id":85945457,
+            "neighbourhood_id":85858383,
+            "region_id":85688555,
+            "venue_id":856709655
+        }
+    ],
+    "wof:id":856709655,
+    "wof:lastmodified":1464052260,
+    "wof:name":"Subway",
+    "wof:parent_id":85858383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.266082,
+    37.340535,
+    -95.266082,
+    37.340535
+],
+  "geometry": {"coordinates":[-95.266082,37.340535],"type":"Point"}
+}

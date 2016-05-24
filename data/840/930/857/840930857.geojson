@@ -1,0 +1,71 @@
+{
+  "id": 840930857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.900362,37.679391,-96.900362,37.679391",
+    "geom:latitude":37.679391,
+    "geom:longitude":-96.900362,
+    "iso:country":"US",
+    "sg:address":"3082 SW 100th St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 2785",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UY7d2zWrA1IM6a8eTJn0k_37.679391_-96.900362@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051267,
+    "wof:geomhash":"2b8381db4c41e0cfdbf0c4ea37bafb84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840930857
+        }
+    ],
+    "wof:id":840930857,
+    "wof:lastmodified":1464051267,
+    "wof:name":"B & D Body Shop",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -96.900362,
+    37.679391,
+    -96.900362,
+    37.679391
+],
+  "geometry": {"coordinates":[-96.900362,37.679391],"type":"Point"}
+}

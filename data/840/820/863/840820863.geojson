@@ -1,0 +1,73 @@
+{
+  "id": 840820863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.462598,37.70926,-97.462598,37.70926",
+    "geom:latitude":37.70926,
+    "geom:longitude":-97.462598,
+    "iso:country":"US",
+    "sg:address":"1452 N Maize Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 9595",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hzAUg02aftnhWhuFwkh6m_37.709260_-97.462598@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048774,
+    "wof:geomhash":"91c4252bfcc36c5255569964a4b9b0e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840820863
+        }
+    ],
+    "wof:id":840820863,
+    "wof:lastmodified":1464048774,
+    "wof:name":"Kansasland Tire Co-Goodyear",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.462598,
+    37.70926,
+    -97.462598,
+    37.70926
+],
+  "geometry": {"coordinates":[-97.462598,37.70926],"type":"Point"}
+}

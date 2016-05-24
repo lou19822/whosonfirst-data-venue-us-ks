@@ -1,0 +1,71 @@
+{
+  "id": 840881173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335016,37.640811,-97.335016,37.640811",
+    "geom:latitude":37.640811,
+    "geom:longitude":-97.335016,
+    "iso:country":"US",
+    "sg:address":"3020 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 7100",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "prefab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mqplGWGRCIyQwVqsS2Y24_37.640811_-97.335016@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050097,
+    "wof:geomhash":"147e8379e9503d3afa5904fc191e3fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840881173
+        }
+    ],
+    "wof:id":840881173,
+    "wof:lastmodified":1464050097,
+    "wof:name":"Southside Homes",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prefab"
+    ]
+},
+  "bbox": [
+    -97.335016,
+    37.640811,
+    -97.335016,
+    37.640811
+],
+  "geometry": {"coordinates":[-97.335016,37.640811],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840815931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.393951,37.673773,-97.393951,37.673773",
+    "geom:latitude":37.673773,
+    "geom:longitude":-97.393951,
+    "iso:country":"US",
+    "sg:address":"4500 W Kellogg Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 5030",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pier1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79mcqRzCZm2Yn0paShMSAo_37.673773_-97.393951@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048635,
+    "wof:geomhash":"7131ceb62727557223b69ed86846d815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840815931
+        }
+    ],
+    "wof:id":840815931,
+    "wof:lastmodified":1464048635,
+    "wof:name":"Pier 1 Imports",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.393951,
+    37.673773,
+    -97.393951,
+    37.673773
+],
+  "geometry": {"coordinates":[-97.393951,37.673773],"type":"Point"}
+}

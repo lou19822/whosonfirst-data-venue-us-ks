@@ -1,0 +1,71 @@
+{
+  "id": 840734465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.026326,39.11623,-95.026326,39.11623",
+    "geom:latitude":39.11623,
+    "geom:longitude":-95.026326,
+    "iso:country":"US",
+    "sg:address":"19501 State Ave",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 9304",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qA9PyeVLQwOUY71b2jPWR_39.116230_-95.026326@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046791,
+    "wof:geomhash":"9433f90a87cf31ce2154f10c191fb565",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840734465
+        }
+    ],
+    "wof:id":840734465,
+    "wof:lastmodified":1464046791,
+    "wof:name":"Stranger Fire Dept",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.026326,
+    39.11623,
+    -95.026326,
+    39.11623
+],
+  "geometry": {"coordinates":[-95.026326,39.11623],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840851349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706104,39.096374,-95.706104,39.096374",
+    "geom:latitude":39.096374,
+    "geom:longitude":-95.706104,
+    "iso:country":"US",
+    "sg:address":"2828 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 1524",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fabricator",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03aWzmOX53iQmjp7Qb9XcQ_39.096374_-95.706104@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049472,
+    "wof:geomhash":"6c1cfe0d706c492c1575ac09fc07c32e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840851349
+        }
+    ],
+    "wof:id":840851349,
+    "wof:lastmodified":1464049472,
+    "wof:name":"HME Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "metal"
+    ]
+},
+  "bbox": [
+    -95.706104,
+    39.096374,
+    -95.706104,
+    39.096374
+],
+  "geometry": {"coordinates":[-95.706104,39.096374],"type":"Point"}
+}

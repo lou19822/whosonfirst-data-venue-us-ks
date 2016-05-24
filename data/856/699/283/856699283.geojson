@@ -1,0 +1,78 @@
+{
+  "id": 856699283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704829,37.417221,-94.704829,37.417221",
+    "geom:latitude":37.417221,
+    "geom:longitude":-94.704829,
+    "iso:country":"US",
+    "sg:address":"1018 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1530",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "used",
+        "leasing",
+        "automobile"
+    ],
+    "sg:website":"http://www.bitnermotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IOkcXlyJkSgF69d4idfzT_37.417322_-94.704756@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052044,
+    "wof:geomhash":"dd597413633bb09edeaf5aa2e7d821c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856699283
+        }
+    ],
+    "wof:id":856699283,
+    "wof:lastmodified":1464052044,
+    "wof:name":"Bitner Motors",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "leasing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.704829,
+    37.417221,
+    -94.704829,
+    37.417221
+],
+  "geometry": {"coordinates":[-94.704829,37.417221],"type":"Point"}
+}

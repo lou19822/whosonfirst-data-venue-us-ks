@@ -1,0 +1,73 @@
+{
+  "id": 840670475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.212454,38.405487,-96.212454,38.405487",
+    "geom:latitude":38.405487,
+    "geom:longitude":-96.212454,
+    "iso:country":"US",
+    "sg:address":"620 Anderson St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3823",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AAAdPqGMwhqZ0ot3MrPGn_38.405487_-96.212454@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045319,
+    "wof:geomhash":"ea321774154a044d2ef36d6a93d85ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840670475
+        }
+    ],
+    "wof:id":840670475,
+    "wof:lastmodified":1464045319,
+    "wof:name":"Thomson Brake & Alignment",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.212454,
+    38.405487,
+    -96.212454,
+    38.405487
+],
+  "geometry": {"coordinates":[-96.21245399999999,38.405487],"type":"Point"}
+}

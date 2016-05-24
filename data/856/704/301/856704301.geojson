@@ -1,0 +1,78 @@
+{
+  "id": 856704301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.821532,38.849251,-94.821532,38.849251",
+    "geom:latitude":38.849251,
+    "geom:longitude":-94.821532,
+    "iso:country":"US",
+    "sg:address":"15430 S Rogers Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/12111-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 9222",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Knwwop8dAjkOPVv4BgwM_38.849251_-94.821532@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052156,
+    "wof:geomhash":"610254def0d459c51fabf2d7abd4b001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704301
+        }
+    ],
+    "wof:id":856704301,
+    "wof:lastmodified":1464052156,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -94.821532,
+    38.849251,
+    -94.821532,
+    38.849251
+],
+  "geometry": {"coordinates":[-94.821532,38.849251],"type":"Point"}
+}

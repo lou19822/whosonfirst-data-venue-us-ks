@@ -1,0 +1,78 @@
+{
+  "id": 856705031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.666097,38.992584,-94.666097,38.992584",
+    "geom:latitude":38.992584,
+    "geom:longitude":-94.666097,
+    "iso:country":"US",
+    "sg:address":"6957 W 75th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/115616-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 385 7827",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879567,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53HmxnjhB3RAbGvN8RMXUJ_38.992584_-94.666097@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052170,
+    "wof:geomhash":"1e632e87273a7d4c64cb3cc17db0fe27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879567,
+            "region_id":85688555,
+            "venue_id":856705031
+        }
+    ],
+    "wof:id":856705031,
+    "wof:lastmodified":1464052170,
+    "wof:name":"Subway",
+    "wof:parent_id":85879567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.666097,
+    38.992584,
+    -94.666097,
+    38.992584
+],
+  "geometry": {"coordinates":[-94.66609699999999,38.992584],"type":"Point"}
+}

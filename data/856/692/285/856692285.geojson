@@ -1,0 +1,75 @@
+{
+  "id": 856692285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.076396,39.115013,-95.076396,39.115013",
+    "geom:latitude":39.115013,
+    "geom:longitude":-95.076396,
+    "iso:country":"US",
+    "sg:address":"304 Ridge St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 0900",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JAepIk4YdZejUHbWRKu4Q_39.115013_-95.076396@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051913,
+    "wof:geomhash":"dad80e8d57b1f2de810a5092dc3bd74b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":856692285
+        }
+    ],
+    "wof:id":856692285,
+    "wof:lastmodified":1464051913,
+    "wof:name":"Mark's Auto Body Inc",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.076396,
+    39.115013,
+    -95.076396,
+    39.115013
+],
+  "geometry": {"coordinates":[-95.076396,39.115013],"type":"Point"}
+}

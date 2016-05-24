@@ -1,0 +1,67 @@
+{
+  "id": 840605281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.228475,37.566129,-97.228475,37.566129",
+    "geom:latitude":37.566129,
+    "geom:longitude":-97.228475,
+    "iso:country":"US",
+    "sg:address":"618 N Derby",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 3151",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:website":"www.stmarysderby.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VJclP0JO6p4aKSLQez3CQ_37.566129_-97.228475@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043784,
+    "wof:geomhash":"cceb1323191aa6aa24bfa5bcbc5a4a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840605281
+        }
+    ],
+    "wof:id":840605281,
+    "wof:lastmodified":1464043784,
+    "wof:name":"St Mary's School",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.228475,
+    37.566129,
+    -97.228475,
+    37.566129
+],
+  "geometry": {"coordinates":[-97.228475,37.566129],"type":"Point"}
+}

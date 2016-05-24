@@ -1,0 +1,73 @@
+{
+  "id": 840790495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.499053,37.737192,-97.499053,37.737192",
+    "geom:latitude":37.737192,
+    "geom:longitude":-97.499053,
+    "iso:country":"US",
+    "sg:address":"3500 N 135th St W",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 9166",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hazardous",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cwCYQeTB9RQuV3xYgeKNv_37.737192_-97.499053@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047988,
+    "wof:geomhash":"8a0e58dddd4cedd47924dbfc243e94d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840790495
+        }
+    ],
+    "wof:id":840790495,
+    "wof:lastmodified":1464047988,
+    "wof:name":"David Matthew",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hazardous",
+        "material"
+    ]
+},
+  "bbox": [
+    -97.499053,
+    37.737192,
+    -97.499053,
+    37.737192
+],
+  "geometry": {"coordinates":[-97.499053,37.737192],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840954341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.634485,39.146777,-94.634485,39.146777",
+    "geom:latitude":39.146777,
+    "geom:longitude":-94.634485,
+    "iso:country":"US",
+    "sg:address":"1100 Sunshine Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 621 3570",
+    "sg:postcode":"66115",
+    "sg:province":"KS",
+    "sg:tags":[
+        "railroad",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878501,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pe624pJULqCJ9TefGmfgy_39.146777_-94.634485@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051733,
+    "wof:geomhash":"3e35feeccd4ba157aaea7a92f946375d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878501,
+            "region_id":85688555,
+            "venue_id":840954341
+        }
+    ],
+    "wof:id":840954341,
+    "wof:lastmodified":1464051733,
+    "wof:name":"Rail Car Svc",
+    "wof:parent_id":85878501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.634485,
+    39.146777,
+    -94.634485,
+    39.146777
+],
+  "geometry": {"coordinates":[-94.634485,39.146777],"type":"Point"}
+}

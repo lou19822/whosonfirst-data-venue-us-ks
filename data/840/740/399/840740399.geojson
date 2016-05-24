@@ -1,0 +1,66 @@
+{
+  "id": 840740399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.736645,37.024429,-94.736645,37.024429",
+    "geom:latitude":37.024429,
+    "geom:longitude":-94.736645,
+    "iso:country":"US",
+    "sg:address":"1131 Park Ave",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 2110",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jcZPMUAx6OZO3JzJEJ1Gy_37.024429_-94.736645@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046902,
+    "wof:geomhash":"c266be61aa4726670da7c748fa7c7d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840740399
+        }
+    ],
+    "wof:id":840740399,
+    "wof:lastmodified":1464046902,
+    "wof:name":"Steve's Deli Mart",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.736645,
+    37.024429,
+    -94.736645,
+    37.024429
+],
+  "geometry": {"coordinates":[-94.736645,37.024429],"type":"Point"}
+}

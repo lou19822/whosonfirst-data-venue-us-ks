@@ -1,0 +1,67 @@
+{
+  "id": 840874177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.308042,37.655539,-97.308042,37.655539",
+    "geom:latitude":37.655539,
+    "geom:longitude":-97.308042,
+    "iso:country":"US",
+    "sg:address":"2009 S Grove St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 0158",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:website":"www.cogcu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KUH5RytORXfE99HbNY8HC_37.655539_-97.308042@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049936,
+    "wof:geomhash":"d91cc5f8ec351f42f00eca85faa34abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840874177
+        }
+    ],
+    "wof:id":840874177,
+    "wof:lastmodified":1464049936,
+    "wof:name":"COG Credit Union",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.308042,
+    37.655539,
+    -97.308042,
+    37.655539
+],
+  "geometry": {"coordinates":[-97.308042,37.655539],"type":"Point"}
+}

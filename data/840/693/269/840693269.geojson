@@ -1,0 +1,77 @@
+{
+  "id": 840693269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.629851,39.057822,-94.629851,39.057822",
+    "geom:latitude":39.057822,
+    "geom:longitude":-94.629851,
+    "iso:country":"US",
+    "sg:address":"2425 S Early St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 2605",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866785,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tBud9OCT5npcQqa7t206j_39.057822_-94.629851@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045901,
+    "wof:geomhash":"5ea62ca6c6c57f83e9e53ea932016cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":840693269
+        }
+    ],
+    "wof:id":840693269,
+    "wof:lastmodified":1464045901,
+    "wof:name":"Executive Coffee & Beverage",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -94.629851,
+    39.057822,
+    -94.629851,
+    39.057822
+],
+  "geometry": {"coordinates":[-94.629851,39.057822],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840825563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899849,39.274125,-94.899849,39.274125",
+    "geom:latitude":39.274125,
+    "geom:longitude":-94.899849,
+    "iso:country":"US",
+    "sg:address":"4512 S 4th St",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 682 5588",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844391,
+        102191575,
+        404504467,
+        85633793,
+        85945367,
+        102083429,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VNOKg4f2SDIp7AVhem7u8_39.274125_-94.899849@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048901,
+    "wof:geomhash":"5b78768fdd4d0d62daa5288fea1033b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504467,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":840825563
+        }
+    ],
+    "wof:id":840825563,
+    "wof:lastmodified":1464048901,
+    "wof:name":"United Medical Group",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.899849,
+    39.274125,
+    -94.899849,
+    39.274125
+],
+  "geometry": {"coordinates":[-94.899849,39.274125],"type":"Point"}
+}

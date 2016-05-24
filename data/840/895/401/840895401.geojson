@@ -1,0 +1,69 @@
+{
+  "id": 840895401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849865,37.818945,-96.849865,37.818945",
+    "geom:latitude":37.818945,
+    "geom:longitude":-96.849865,
+    "iso:country":"US",
+    "sg:address":"211 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 9523",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V7CG4XGPD0GwhFXpH1lBE_37.818945_-96.849865@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050393,
+    "wof:geomhash":"5e360ec3e5fbbbaf92d6fe9cf734d504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840895401
+        }
+    ],
+    "wof:id":840895401,
+    "wof:lastmodified":1464050393,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -96.849865,
+    37.818945,
+    -96.849865,
+    37.818945
+],
+  "geometry": {"coordinates":[-96.84986499999999,37.818945],"type":"Point"}
+}

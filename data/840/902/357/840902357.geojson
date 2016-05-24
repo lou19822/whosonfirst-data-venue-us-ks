@@ -1,0 +1,66 @@
+{
+  "id": 840902357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.660147,39.087293,-95.660147,39.087293",
+    "geom:latitude":39.087293,
+    "geom:longitude":-95.660147,
+    "iso:country":"US",
+    "sg:address":"2045 N Kansas Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 6000",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PUUKcjFN0IBZdLMoY8eic_39.087293_-95.660147@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050546,
+    "wof:geomhash":"9214db13bdf92c54ea458e51064b5a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840902357
+        }
+    ],
+    "wof:id":840902357,
+    "wof:lastmodified":1464050546,
+    "wof:name":"Conoco Food Mart",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.660147,
+    39.087293,
+    -95.660147,
+    39.087293
+],
+  "geometry": {"coordinates":[-95.66014699999999,39.087293],"type":"Point"}
+}

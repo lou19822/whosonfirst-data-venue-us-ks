@@ -1,0 +1,78 @@
+{
+  "id": 856706989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761997,39.037541,-95.761997,39.037541",
+    "geom:latitude":39.037541,
+    "geom:longitude":-95.761997,
+    "iso:country":"US",
+    "sg:address":"1625 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/103618-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 9129",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lWk60ecbJpIZYKAEUG3j6_39.037541_-95.761997@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052208,
+    "wof:geomhash":"e105a80b59dd626fdd1f214ed0cff8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706989
+        }
+    ],
+    "wof:id":856706989,
+    "wof:lastmodified":1464052208,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.761997,
+    39.037541,
+    -95.761997,
+    39.037541
+],
+  "geometry": {"coordinates":[-95.76199699999999,39.037541],"type":"Point"}
+}

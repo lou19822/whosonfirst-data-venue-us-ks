@@ -1,0 +1,73 @@
+{
+  "id": 840573547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.21119,38.422744,-96.21119,38.422744",
+    "geom:latitude":38.422744,
+    "geom:longitude":-96.21119,
+    "iso:country":"US",
+    "sg:address":"2307 W 21st Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0831",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70yLbrUyPniIWdqpMtpNY7_38.422744_-96.211190@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043073,
+    "wof:geomhash":"d70764825d28e3cc4168ccfa87d93797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840573547
+        }
+    ],
+    "wof:id":840573547,
+    "wof:lastmodified":1464043073,
+    "wof:name":"Sunflower Gymnastics",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -96.21119,
+    38.422744,
+    -96.21119,
+    38.422744
+],
+  "geometry": {"coordinates":[-96.21119,38.422744],"type":"Point"}
+}

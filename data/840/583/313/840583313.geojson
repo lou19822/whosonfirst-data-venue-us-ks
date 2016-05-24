@@ -1,0 +1,75 @@
+{
+  "id": 840583313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.765107,39.014502,-95.765107,39.014502",
+    "geom:latitude":39.014502,
+    "geom:longitude":-95.765107,
+    "iso:country":"US",
+    "sg:address":"6032 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 9400",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lMTjXTK4vWzW3vQ9mMonJ_39.014502_-95.765107@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043279,
+    "wof:geomhash":"da9a9e982efab5c480b32791ef9b5b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840583313
+        }
+    ],
+    "wof:id":840583313,
+    "wof:lastmodified":1464043279,
+    "wof:name":"Kansas City Star",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -95.765107,
+    39.014502,
+    -95.765107,
+    39.014502
+],
+  "geometry": {"coordinates":[-95.765107,39.014502],"type":"Point"}
+}

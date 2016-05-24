@@ -1,0 +1,71 @@
+{
+  "id": 840639529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.10376,38.644453,-96.10376,38.644453",
+    "geom:latitude":38.644453,
+    "geom:longitude":-96.10376,
+    "iso:country":"US",
+    "sg:address":"101 N Main St",
+    "sg:city":"Lost Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 983 4438",
+    "sg:postcode":"66830",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SOO3iWABF4KIAPDTm7PQs_38.644453_-96.103760@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044668,
+    "wof:geomhash":"226708c06c5f8975c274f26b2c3cb98d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840639529
+        }
+    ],
+    "wof:id":840639529,
+    "wof:lastmodified":1464044668,
+    "wof:name":"Hajek Truckline Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.10376,
+    38.644453,
+    -96.10376,
+    38.644453
+],
+  "geometry": {"coordinates":[-96.10375999999999,38.644453],"type":"Point"}
+}

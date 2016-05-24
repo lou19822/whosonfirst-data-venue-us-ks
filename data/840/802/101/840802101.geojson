@@ -1,0 +1,66 @@
+{
+  "id": 840802101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.040472,39.807669,-101.040472,39.807669",
+    "geom:latitude":39.807669,
+    "geom:longitude":-101.040472,
+    "iso:country":"US",
+    "sg:address":"503 Main St",
+    "sg:city":"Atwood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 626 3740",
+    "sg:postcode":"67730",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946369,
+        102084169,
+        85837215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TpVxdYb62efZFaSQfZo0o_39.807669_-101.040472@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048246,
+    "wof:geomhash":"3696913f765b1227ebc8d9b60c8d864a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084169,
+            "locality_id":85946369,
+            "neighbourhood_id":85837215,
+            "region_id":85688555,
+            "venue_id":840802101
+        }
+    ],
+    "wof:id":840802101,
+    "wof:lastmodified":1464048246,
+    "wof:name":"Aberdeen Steak House",
+    "wof:parent_id":85837215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.040472,
+    39.807669,
+    -101.040472,
+    39.807669
+],
+  "geometry": {"coordinates":[-101.04047199999999,39.807669],"type":"Point"}
+}

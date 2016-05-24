@@ -1,0 +1,86 @@
+{
+  "id": 856704499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.787272,38.884088,-94.787272,38.884088",
+    "geom:latitude":38.884088,
+    "geom:longitude":-94.787272,
+    "iso:country":"US",
+    "sg:address":"1828 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/102045-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 7288",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vUNl6ath5UFMIT4MnuwkJ_38.884088_-94.787272@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052160,
+    "wof:geomhash":"758bedb5a45e88b6df8e6298304b449b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704499
+        }
+    ],
+    "wof:id":856704499,
+    "wof:lastmodified":1464052160,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -94.787272,
+    38.884088,
+    -94.787272,
+    38.884088
+],
+  "geometry": {"coordinates":[-94.787272,38.884088],"type":"Point"}
+}

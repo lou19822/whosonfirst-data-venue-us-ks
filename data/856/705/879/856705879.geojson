@@ -1,0 +1,78 @@
+{
+  "id": 856705879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.718219,38.953925,-94.718219,38.953925",
+    "geom:latitude":38.953925,
+    "geom:longitude":-94.718219,
+    "iso:country":"US",
+    "sg:address":"11525 W 95th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/207374-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 1215",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879589,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5djUIyNq8hGrZ8Usfe8D6D_38.953925_-94.718219@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052184,
+    "wof:geomhash":"9d78bc36907e0461c309662069a1eeaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879589,
+            "region_id":85688555,
+            "venue_id":856705879
+        }
+    ],
+    "wof:id":856705879,
+    "wof:lastmodified":1464052184,
+    "wof:name":"Sonic",
+    "wof:parent_id":85879589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.718219,
+    38.953925,
+    -94.718219,
+    38.953925
+],
+  "geometry": {"coordinates":[-94.718219,38.953925],"type":"Point"}
+}

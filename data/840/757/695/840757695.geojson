@@ -1,0 +1,71 @@
+{
+  "id": 840757695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.912556,37.81989,-96.912556,37.81989",
+    "geom:latitude":37.81989,
+    "geom:longitude":-96.912556,
+    "iso:country":"US",
+    "sg:address":"419 N Industrial Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 5424",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jjp3YdYhPqOk6b9QyvYh6_37.819890_-96.912556@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047278,
+    "wof:geomhash":"2e38267d896f34b38f5584d6fbb2ff3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840757695
+        }
+    ],
+    "wof:id":840757695,
+    "wof:lastmodified":1464047278,
+    "wof:name":"R & D Electric Co",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.912556,
+    37.81989,
+    -96.912556,
+    37.81989
+],
+  "geometry": {"coordinates":[-96.912556,37.81989],"type":"Point"}
+}

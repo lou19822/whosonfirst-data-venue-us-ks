@@ -1,0 +1,75 @@
+{
+  "id": 840886303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.53396,37.655351,-96.53396,37.655351",
+    "geom:latitude":37.655351,
+    "geom:longitude":-96.53396,
+    "iso:country":"US",
+    "sg:address":"11609 SE Wale St",
+    "sg:city":"Beaumont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 843 2449",
+    "sg:postcode":"67012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HoqhEONZnTWzrAFMd3uzz_37.655351_-96.533960@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050205,
+    "wof:geomhash":"c21c9013941fbf4fbc41e10caf7cd146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840886303
+        }
+    ],
+    "wof:id":840886303,
+    "wof:lastmodified":1464050205,
+    "wof:name":"Beaumont Cycle Works",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -96.53396,
+    37.655351,
+    -96.53396,
+    37.655351
+],
+  "geometry": {"coordinates":[-96.53395999999999,37.655351],"type":"Point"}
+}

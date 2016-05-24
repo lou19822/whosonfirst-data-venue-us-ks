@@ -1,0 +1,78 @@
+{
+  "id": 856704783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.757477,39.127322,-94.757477,39.127322",
+    "geom:latitude":39.127322,
+    "geom:longitude":-94.757477,
+    "iso:country":"US",
+    "sg:address":"1930 N 77th St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/65843-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 788 2882",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yJhzzxAgeNI3jWwB5rNXU_39.127322_-94.757477@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052166,
+    "wof:geomhash":"9f42e93922ed63db2ad8ab1b39b58d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":856704783
+        }
+    ],
+    "wof:id":856704783,
+    "wof:lastmodified":1464052166,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.757477,
+    39.127322,
+    -94.757477,
+    39.127322
+],
+  "geometry": {"coordinates":[-94.75747699999999,39.127322],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840842607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.002298,37.825014,-97.002298,37.825014",
+    "geom:latitude":37.825014,
+    "geom:longitude":-97.002298,
+    "iso:country":"US",
+    "sg:address":"8550 NW Parallel St",
+    "sg:city":"Towanda",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 541 2450",
+    "sg:postcode":"67144",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hyNfQupjdGwFPAmnqtI7y_37.825014_-97.002298@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049284,
+    "wof:geomhash":"7f373fa80d56ad71277aabb19e55f3cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840842607
+        }
+    ],
+    "wof:id":840842607,
+    "wof:lastmodified":1464049284,
+    "wof:name":"Relph Construction Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.002298,
+    37.825014,
+    -97.002298,
+    37.825014
+],
+  "geometry": {"coordinates":[-97.002298,37.825014],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840743695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687855,38.972053,-95.687855,38.972053",
+    "geom:latitude":38.972053,
+    "geom:longitude":-95.687855,
+    "iso:country":"US",
+    "sg:address":"5125 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 0092",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i8XlXfUCqUE59gFCX26D6_38.972053_-95.687855@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046963,
+    "wof:geomhash":"efeb225316c648b49e35b96b29da3471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840743695
+        }
+    ],
+    "wof:id":840743695,
+    "wof:lastmodified":1464046963,
+    "wof:name":"Shawnee Auto Towing",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -95.687855,
+    38.972053,
+    -95.687855,
+    38.972053
+],
+  "geometry": {"coordinates":[-95.687855,38.972053],"type":"Point"}
+}

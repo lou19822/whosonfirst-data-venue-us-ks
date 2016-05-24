@@ -1,0 +1,72 @@
+{
+  "id": 856700409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.673083,37.411013,-94.673083,37.411013",
+    "geom:latitude":37.411013,
+    "geom:longitude":-94.673083,
+    "iso:country":"US",
+    "sg:address":"1978 E 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 3200",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "high"
+    ],
+    "sg:website":"http://www.usd250.k12.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ecAaOgmE2UHfy7CUHMx5O_37.410896_-94.673531@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052063,
+    "wof:geomhash":"ab78874ce3ee717cb1582e293b8517b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856700409
+        }
+    ],
+    "wof:id":856700409,
+    "wof:lastmodified":1464052063,
+    "wof:name":"Pittsburg High School",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -94.673083,
+    37.411013,
+    -94.673083,
+    37.411013
+],
+  "geometry": {"coordinates":[-94.67308300000001,37.411013],"type":"Point"}
+}

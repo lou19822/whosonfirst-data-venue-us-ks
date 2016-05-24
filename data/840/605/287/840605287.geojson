@@ -1,0 +1,77 @@
+{
+  "id": 840605287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.280382,37.671795,-97.280382,37.671795",
+    "geom:latitude":37.671795,
+    "geom:longitude":-97.280382,
+    "iso:country":"US",
+    "sg:address":"980 S Oliver St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 689 8472",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0usbGMeBQ6js2iMFLGn6k4_37.671795_-97.280382@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043785,
+    "wof:geomhash":"e30b5853d206b705f8438836f31b8d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840605287
+        }
+    ],
+    "wof:id":840605287,
+    "wof:lastmodified":1464043785,
+    "wof:name":"Basham Rental",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -97.280382,
+    37.671795,
+    -97.280382,
+    37.671795
+],
+  "geometry": {"coordinates":[-97.280382,37.671795],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840741721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664572,39.0876,-95.664572,39.0876",
+    "geom:latitude":39.0876,
+    "geom:longitude":-95.664572,
+    "iso:country":"US",
+    "sg:address":"2022 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 4288",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KlIxgG5Rf5jy31jYoDnNB_39.087600_-95.664572@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046929,
+    "wof:geomhash":"52e2ea0b39ca22e868d0a6b1e845da26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840741721
+        }
+    ],
+    "wof:id":840741721,
+    "wof:lastmodified":1464046929,
+    "wof:name":"Taste Of China",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -95.664572,
+    39.0876,
+    -95.664572,
+    39.0876
+],
+  "geometry": {"coordinates":[-95.66457200000001,39.0876],"type":"Point"}
+}

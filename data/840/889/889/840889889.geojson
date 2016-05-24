@@ -1,0 +1,75 @@
+{
+  "id": 840889889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.649327,39.099584,-94.649327,39.099584",
+    "geom:latitude":39.099584,
+    "geom:longitude":-94.649327,
+    "iso:country":"US",
+    "sg:address":"155 S 18 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 788 9292",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878487,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73F4zFR9vMudjKZO53KTyw_39.099584_-94.649327@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050282,
+    "wof:geomhash":"84845c6ea5802e36bfdbeeba22954f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878487,
+            "region_id":85688555,
+            "venue_id":840889889
+        }
+    ],
+    "wof:id":840889889,
+    "wof:lastmodified":1464050282,
+    "wof:name":"Metropolitan Internal Medicine",
+    "wof:parent_id":85878487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.649327,
+    39.099584,
+    -94.649327,
+    39.099584
+],
+  "geometry": {"coordinates":[-94.649327,39.099584],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856706171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.725176,38.884248,-94.725176,38.884248",
+    "geom:latitude":38.884248,
+    "geom:longitude":-94.725176,
+    "iso:country":"US",
+    "sg:address":"12094 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/124063-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 402 4780",
+    "sg:postcode":"66221",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vozsHIdJtNTOsKN02c9GN_38.884248_-94.725176@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052189,
+    "wof:geomhash":"fd70c80a1b1a67a05e3f4d8dca060284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":856706171
+        }
+    ],
+    "wof:id":856706171,
+    "wof:lastmodified":1464052189,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.725176,
+    38.884248,
+    -94.725176,
+    38.884248
+],
+  "geometry": {"coordinates":[-94.725176,38.884248],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840919381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.592035,37.837535,-97.592035,37.837535",
+    "geom:latitude":37.837535,
+    "geom:longitude":-97.592035,
+    "iso:country":"US",
+    "sg:address":"8210 N 215th St W",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 661 2101",
+    "sg:postcode":"67108",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aDxB4THEwLG9mZcfS1siT_37.837535_-97.592035@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050978,
+    "wof:geomhash":"04a98403768f6ec1b3eba81a9f2e845a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840919381
+        }
+    ],
+    "wof:id":840919381,
+    "wof:lastmodified":1464050978,
+    "wof:name":"Horsch Electric Co",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.592035,
+    37.837535,
+    -97.592035,
+    37.837535
+],
+  "geometry": {"coordinates":[-97.592035,37.837535],"type":"Point"}
+}

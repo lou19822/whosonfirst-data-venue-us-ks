@@ -1,0 +1,75 @@
+{
+  "id": 840942757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.671175,39.044982,-94.671175,39.044982",
+    "geom:latitude":39.044982,
+    "geom:longitude":-94.671175,
+    "iso:country":"US",
+    "sg:address":"3121 S 37 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 262 9216",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879579,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PDEgR7Co51v32SkvgUT4w_39.044982_-94.671175@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051500,
+    "wof:geomhash":"5660a5fe2eedd9be5a40d7d089564a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85879579,
+            "region_id":85688555,
+            "venue_id":840942757
+        }
+    ],
+    "wof:id":840942757,
+    "wof:lastmodified":1464051500,
+    "wof:name":"Bobs Auto Service",
+    "wof:parent_id":85879579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -94.671175,
+    39.044982,
+    -94.671175,
+    39.044982
+],
+  "geometry": {"coordinates":[-94.67117500000001,39.044982],"type":"Point"}
+}

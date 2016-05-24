@@ -1,0 +1,67 @@
+{
+  "id": 840889505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.247978,37.550084,-97.247978,37.550084",
+    "geom:latitude":37.550084,
+    "geom:longitude":-97.247978,
+    "iso:country":"US",
+    "sg:address":"611 N Mulberry Rd",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 0760",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:website":"www.derbylibrary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EYAsPGBkeibkgZrTsJJvY_37.550084_-97.247978@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050272,
+    "wof:geomhash":"e79044d0e3b04070e4c69ae1710e4db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840889505
+        }
+    ],
+    "wof:id":840889505,
+    "wof:lastmodified":1464050272,
+    "wof:name":"Derby Public Library",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.247978,
+    37.550084,
+    -97.247978,
+    37.550084
+],
+  "geometry": {"coordinates":[-97.247978,37.550084],"type":"Point"}
+}

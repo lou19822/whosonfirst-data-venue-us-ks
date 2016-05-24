@@ -1,0 +1,66 @@
+{
+  "id": 840617623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352576,37.64836,-97.352576,37.64836",
+    "geom:latitude":37.64836,
+    "geom:longitude":-97.352576,
+    "iso:country":"US",
+    "sg:address":"2548 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 5421",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K6xCdSGCT2lNbvESVp20s_37.648360_-97.352576@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044111,
+    "wof:geomhash":"73071715a24f1b722cc695317f64779f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840617623
+        }
+    ],
+    "wof:id":840617623,
+    "wof:lastmodified":1464044111,
+    "wof:name":"Payless Shoe Source",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.352576,
+    37.64836,
+    -97.352576,
+    37.64836
+],
+  "geometry": {"coordinates":[-97.352576,37.64836],"type":"Point"}
+}

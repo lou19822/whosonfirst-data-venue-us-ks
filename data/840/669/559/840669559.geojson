@@ -1,0 +1,77 @@
+{
+  "id": 840669559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.64289,39.131978,-94.64289,39.131978",
+    "geom:latitude":39.131978,
+    "geom:longitude":-94.64289,
+    "iso:country":"US",
+    "sg:address":"2211 N 13 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 321 4000",
+    "sg:postcode":"66104",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878501,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zohUnGlMbMIMnB2t79pa6_39.131978_-94.642890@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045300,
+    "wof:geomhash":"2f6e5652a7cba55476791bb60533964f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878501,
+            "region_id":85688555,
+            "venue_id":840669559
+        }
+    ],
+    "wof:id":840669559,
+    "wof:lastmodified":1464045300,
+    "wof:name":"Northside Clinic",
+    "wof:parent_id":85878501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.64289,
+    39.131978,
+    -94.64289,
+    39.131978
+],
+  "geometry": {"coordinates":[-94.64288999999999,39.131978],"type":"Point"}
+}

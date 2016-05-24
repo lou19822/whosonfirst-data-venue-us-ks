@@ -1,0 +1,71 @@
+{
+  "id": 840892505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.441847,37.839635,-97.441847,37.839635",
+    "geom:latitude":37.839635,
+    "geom:longitude":-97.441847,
+    "iso:country":"US",
+    "sg:address":"8600 W 85th St N",
+    "sg:city":"Valley Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 772 0067",
+    "sg:postcode":"67147",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06Ad8yRgVKU7Kmdsd2QcNy_37.839635_-97.441847@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050333,
+    "wof:geomhash":"58be74116b4e85e07c37de40e9378143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840892505
+        }
+    ],
+    "wof:id":840892505,
+    "wof:lastmodified":1464050333,
+    "wof:name":"Tom & Ernest Painting",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -97.441847,
+    37.839635,
+    -97.441847,
+    37.839635
+],
+  "geometry": {"coordinates":[-97.441847,37.839635],"type":"Point"}
+}

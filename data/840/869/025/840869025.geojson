@@ -1,0 +1,71 @@
+{
+  "id": 840869025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.699024,37.414055,-94.699024,37.414055",
+    "geom:latitude":37.414055,
+    "geom:longitude":-94.699024,
+    "iso:country":"US",
+    "sg:address":"501 E 7th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 9370",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YOD4DbYcP2O3IntV292yT_37.414055_-94.699024@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049836,
+    "wof:geomhash":"0daf831da16c0d3f1fa62da5ffe78ca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840869025
+        }
+    ],
+    "wof:id":840869025,
+    "wof:lastmodified":1464049836,
+    "wof:name":"Pat's Lounge",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -94.699024,
+    37.414055,
+    -94.699024,
+    37.414055
+],
+  "geometry": {"coordinates":[-94.69902399999999,37.414055],"type":"Point"}
+}

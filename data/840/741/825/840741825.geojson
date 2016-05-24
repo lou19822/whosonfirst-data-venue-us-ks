@@ -1,0 +1,71 @@
+{
+  "id": 840741825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664725,39.112138,-95.664725,39.112138",
+    "geom:latitude":39.112138,
+    "geom:longitude":-95.664725,
+    "iso:country":"US",
+    "sg:address":"521 NW Sunny Knoll Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0410",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f2v0VB2a7bjZ3V1k8G65b_39.112138_-95.664725@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046930,
+    "wof:geomhash":"56118091563e876dbf4008e1ab425e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840741825
+        }
+    ],
+    "wof:id":840741825,
+    "wof:lastmodified":1464046930,
+    "wof:name":"Cornerstone Construction Corp",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.664725,
+    39.112138,
+    -95.664725,
+    39.112138
+],
+  "geometry": {"coordinates":[-95.664725,39.112138],"type":"Point"}
+}

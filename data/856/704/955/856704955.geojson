@@ -1,0 +1,80 @@
+{
+  "id": 856704955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.719035,39.015276,-94.719035,39.015276",
+    "geom:latitude":39.015276,
+    "geom:longitude":-94.719035,
+    "iso:country":"US",
+    "sg:address":"11450 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/174267-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 5333",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xlIS7kPzqPMS8Kg9F5ldk_39.015276_-94.719035@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052169,
+    "wof:geomhash":"07c1a8223129b1647ade2c075d8cb4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":856704955
+        }
+    ],
+    "wof:id":856704955,
+    "wof:lastmodified":1464052169,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.719035,
+    39.015276,
+    -94.719035,
+    39.015276
+],
+  "geometry": {"coordinates":[-94.71903500000001,39.015276],"type":"Point"}
+}

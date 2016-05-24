@@ -1,0 +1,73 @@
+{
+  "id": 840851099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.999775,39.172259,-94.999775,39.172259",
+    "geom:latitude":39.172259,
+    "geom:longitude":-94.999775,
+    "iso:country":"US",
+    "sg:address":"17940 Hollingsworth Rd",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 3334",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C5SVxnztAuaR4yk6s1zF0_39.172259_-94.999775@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049464,
+    "wof:geomhash":"95b0fd324605ec7fe4fb147b299d991c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840851099
+        }
+    ],
+    "wof:id":840851099,
+    "wof:lastmodified":1464049464,
+    "wof:name":"CMC Plumbing",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.999775,
+    39.172259,
+    -94.999775,
+    39.172259
+],
+  "geometry": {"coordinates":[-94.999775,39.172259],"type":"Point"}
+}

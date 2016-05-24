@@ -1,0 +1,74 @@
+{
+  "id": 856707073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664588,39.089083,-95.664588,39.089083",
+    "geom:latitude":39.089083,
+    "geom:longitude":-95.664588,
+    "iso:country":"US",
+    "sg:address":"2300 NW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/155864-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 2554",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nn6RnQxuIOWU9KkxpYId3_39.089083_-95.664588@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052209,
+    "wof:geomhash":"91a526379d72bcb35ea62d3cbcc22a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":856707073
+        }
+    ],
+    "wof:id":856707073,
+    "wof:lastmodified":1464052209,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.664588,
+    39.089083,
+    -95.664588,
+    39.089083
+],
+  "geometry": {"coordinates":[-95.66458799999999,39.089083],"type":"Point"}
+}

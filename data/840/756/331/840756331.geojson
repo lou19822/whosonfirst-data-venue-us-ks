@@ -1,0 +1,73 @@
+{
+  "id": 840756331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.929924,39.116071,-94.929924,39.116071",
+    "geom:latitude":39.116071,
+    "geom:longitude":-94.929924,
+    "iso:country":"US",
+    "sg:address":"15063 State Ave",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 1934",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BJfxX2lrRU7nDHEOmzlsU_39.116071_-94.929924@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047247,
+    "wof:geomhash":"4bb1474f825e60d2865dba17be011dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840756331
+        }
+    ],
+    "wof:id":840756331,
+    "wof:lastmodified":1464047247,
+    "wof:name":"Miles Excavating",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.929924,
+    39.116071,
+    -94.929924,
+    39.116071
+],
+  "geometry": {"coordinates":[-94.929924,39.116071],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840954805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.088764,39.109171,-95.088764,39.109171",
+    "geom:latitude":39.109171,
+    "geom:longitude":-95.088764,
+    "iso:country":"US",
+    "sg:address":"414 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2047",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5spQP0xc1lhkSpNtUSw2bL_39.109171_-95.088764@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051741,
+    "wof:geomhash":"722813f506209384d51ec72470516c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840954805
+        }
+    ],
+    "wof:id":840954805,
+    "wof:lastmodified":1464051741,
+    "wof:name":"Studio",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.088764,
+    39.109171,
+    -95.088764,
+    39.109171
+],
+  "geometry": {"coordinates":[-95.088764,39.109171],"type":"Point"}
+}

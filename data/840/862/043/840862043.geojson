@@ -1,0 +1,71 @@
+{
+  "id": 840862043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.08996,39.109162,-95.08996,39.109162",
+    "geom:latitude":39.109162,
+    "geom:longitude":-95.08996,
+    "iso:country":"US",
+    "sg:address":"328 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2814",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qRXzcorif7KIbcfVRsm3A_39.109162_-95.089960@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049695,
+    "wof:geomhash":"03606646d89266231d8842a503bf0ecf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840862043
+        }
+    ],
+    "wof:id":840862043,
+    "wof:lastmodified":1464049695,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.08996,
+    39.109162,
+    -95.08996,
+    39.109162
+],
+  "geometry": {"coordinates":[-95.08996,39.109162],"type":"Point"}
+}

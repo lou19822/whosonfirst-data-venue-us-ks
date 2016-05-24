@@ -1,0 +1,73 @@
+{
+  "id": 840630059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.867514,37.802768,-96.867514,37.802768",
+    "geom:latitude":37.802768,
+    "geom:longitude":-96.867514,
+    "iso:country":"US",
+    "sg:address":"1309 Sunset Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3730",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DBX2Qv7KTnwvwLRBJlznf_37.802768_-96.867514@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044438,
+    "wof:geomhash":"d32a20e3ad5e5b247a2d6e0045daef4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840630059
+        }
+    ],
+    "wof:id":840630059,
+    "wof:lastmodified":1464044438,
+    "wof:name":"Magellan Pipeline Co",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -96.867514,
+    37.802768,
+    -96.867514,
+    37.802768
+],
+  "geometry": {"coordinates":[-96.867514,37.802768],"type":"Point"}
+}

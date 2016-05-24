@@ -1,0 +1,69 @@
+{
+  "id": 840708211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.727003,39.125222,-95.727003,39.125222",
+    "geom:latitude":39.125222,
+    "geom:longitude":-95.727003,
+    "iso:country":"US",
+    "sg:address":"4307 NW Morley Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2948",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GbEk4aPS0FiNb6VpZltGM_39.125222_-95.727003@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046267,
+    "wof:geomhash":"6219454c74d92cd92b0edcbaf20359e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840708211
+        }
+    ],
+    "wof:id":840708211,
+    "wof:lastmodified":1464046267,
+    "wof:name":"Al Wildeman",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -95.727003,
+    39.125222,
+    -95.727003,
+    39.125222
+],
+  "geometry": {"coordinates":[-95.727003,39.125222],"type":"Point"}
+}

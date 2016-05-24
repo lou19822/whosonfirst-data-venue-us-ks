@@ -1,0 +1,79 @@
+{
+  "id": 840558125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.655525,39.078769,-94.655525,39.078769",
+    "geom:latitude":39.078769,
+    "geom:longitude":-94.655525,
+    "iso:country":"US",
+    "sg:address":"2201 Argentine Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 551 4830",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "equipment",
+        "railroad",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yddqsvr2NgyuiHXGM7ZrO_39.078769_-94.655525@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042696,
+    "wof:geomhash":"e93541571ce15b015efe32668daf9399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840558125
+        }
+    ],
+    "wof:id":840558125,
+    "wof:lastmodified":1464042696,
+    "wof:name":"Argentine",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "railroad",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -94.655525,
+    39.078769,
+    -94.655525,
+    39.078769
+],
+  "geometry": {"coordinates":[-94.655525,39.078769],"type":"Point"}
+}

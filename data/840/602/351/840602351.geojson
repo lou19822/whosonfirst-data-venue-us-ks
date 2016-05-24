@@ -1,0 +1,71 @@
+{
+  "id": 840602351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.261736,37.75919,-97.261736,37.75919",
+    "geom:latitude":37.75919,
+    "geom:longitude":-97.261736,
+    "iso:country":"US",
+    "sg:address":"6622 E Rodeo Dr",
+    "sg:city":"Bel Aire",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 1000",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945835,
+        102084203,
+        85803671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aazWoHslzyqtGqZSqm2Nl_37.759190_-97.261736@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043711,
+    "wof:geomhash":"d56e053e7171a2274a28b10ac6a1459c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945835,
+            "neighbourhood_id":85803671,
+            "region_id":85688555,
+            "venue_id":840602351
+        }
+    ],
+    "wof:id":840602351,
+    "wof:lastmodified":1464043711,
+    "wof:name":"Integrated Voice Technologies",
+    "wof:parent_id":85803671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -97.261736,
+    37.75919,
+    -97.261736,
+    37.75919
+],
+  "geometry": {"coordinates":[-97.261736,37.75919],"type":"Point"}
+}

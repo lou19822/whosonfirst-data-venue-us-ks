@@ -1,0 +1,78 @@
+{
+  "id": 856705135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.651627,38.956535,-94.651627,38.956535",
+    "geom:latitude":38.956535,
+    "geom:longitude":-94.651627,
+    "iso:country":"US",
+    "sg:address":"5665 W 95th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/81122-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 341 5699",
+    "sg:postcode":"66207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jWspil8jmU6gU1E7ZOSdf_38.956535_-94.651627@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052172,
+    "wof:geomhash":"3e1f238a6fee2f8ec6110e1d64e3ac6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":856705135
+        }
+    ],
+    "wof:id":856705135,
+    "wof:lastmodified":1464052172,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.651627,
+    38.956535,
+    -94.651627,
+    38.956535
+],
+  "geometry": {"coordinates":[-94.651627,38.956535],"type":"Point"}
+}

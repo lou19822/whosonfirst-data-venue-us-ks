@@ -1,0 +1,70 @@
+{
+  "id": 840780815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.299179,37.70819,-97.299179,37.70819",
+    "geom:latitude":37.70819,
+    "geom:longitude":-97.299179,
+    "iso:country":"US",
+    "sg:address":"3115 E 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 687 0052",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IhzpPEHro66y2ija6Pafi_37.708190_-97.299179@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047780,
+    "wof:geomhash":"65a3612fb774f64c7e0007d1da394d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840780815
+        }
+    ],
+    "wof:id":840780815,
+    "wof:lastmodified":1464047780,
+    "wof:name":"Chuck's Barbershop",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.299179,
+    37.70819,
+    -97.299179,
+    37.70819
+],
+  "geometry": {"coordinates":[-97.299179,37.70819],"type":"Point"}
+}

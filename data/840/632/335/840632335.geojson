@@ -1,0 +1,71 @@
+{
+  "id": 840632335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.298518,37.61354,-97.298518,37.61354",
+    "geom:latitude":37.61354,
+    "geom:longitude":-97.298518,
+    "iso:country":"US",
+    "sg:address":"4403 Greenhaven St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 0100",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BSNOPH92JYQcfLRayqIIc_37.613540_-97.298518@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044495,
+    "wof:geomhash":"1df6c5e728d573abb2623d868a827c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840632335
+        }
+    ],
+    "wof:id":840632335,
+    "wof:lastmodified":1464044495,
+    "wof:name":"Oakview Christian Church",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.298518,
+    37.61354,
+    -97.298518,
+    37.61354
+],
+  "geometry": {"coordinates":[-97.298518,37.61354],"type":"Point"}
+}

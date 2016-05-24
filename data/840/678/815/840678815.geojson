@@ -1,0 +1,71 @@
+{
+  "id": 840678815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.198615,38.406794,-96.198615,38.406794",
+    "geom:latitude":38.406794,
+    "geom:longitude":-96.198615,
+    "iso:country":"US",
+    "sg:address":"603 Lincoln St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7041",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qlDwL7kUMbtF0Ir00GNOD_38.406794_-96.198615@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045540,
+    "wof:geomhash":"452dea98339ecae3ad5737e293b4726f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840678815
+        }
+    ],
+    "wof:id":840678815,
+    "wof:lastmodified":1464045540,
+    "wof:name":"Eastern Kansas Economic Group",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -96.198615,
+    38.406794,
+    -96.198615,
+    38.406794
+],
+  "geometry": {"coordinates":[-96.198615,38.406794],"type":"Point"}
+}

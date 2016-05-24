@@ -1,0 +1,71 @@
+{
+  "id": 840575827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389732,37.700894,-97.389732,37.700894",
+    "geom:latitude":37.700894,
+    "geom:longitude":-97.389732,
+    "iso:country":"US",
+    "sg:address":"949 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 2887",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pWIY7EAF4MmfLn2a1sXnV_37.700894_-97.389732@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043121,
+    "wof:geomhash":"9a23329464988f1c7cc78188d4d76f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840575827
+        }
+    ],
+    "wof:id":840575827,
+    "wof:lastmodified":1464043121,
+    "wof:name":"West Alterations",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment"
+    ]
+},
+  "bbox": [
+    -97.389732,
+    37.700894,
+    -97.389732,
+    37.700894
+],
+  "geometry": {"coordinates":[-97.389732,37.700894],"type":"Point"}
+}

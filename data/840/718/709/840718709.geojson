@@ -1,0 +1,72 @@
+{
+  "id": 840718709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.18064,38.94737,-95.18064,38.94737",
+    "geom:latitude":38.94737,
+    "geom:longitude":-95.18064,
+    "iso:country":"US",
+    "sg:address":"3841 Greenway Cir",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 842 7674",
+    "sg:postcode":"66046",
+    "sg:province":"KS",
+    "sg:tags":[
+        "foil",
+        "product"
+    ],
+    "sg:website":"www.api-foils.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85837065,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cNlBMnHHmRPwn0ivD7NIc_38.947370_-95.180640@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046474,
+    "wof:geomhash":"7db217e59b395145e82c00cfbbfd5e56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085347,
+            "neighbourhood_id":85837065,
+            "region_id":85688555,
+            "venue_id":840718709
+        }
+    ],
+    "wof:id":840718709,
+    "wof:lastmodified":1464046474,
+    "wof:name":"API Foils",
+    "wof:parent_id":85837065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foil",
+        "product"
+    ]
+},
+  "bbox": [
+    -95.18064,
+    38.94737,
+    -95.18064,
+    38.94737
+],
+  "geometry": {"coordinates":[-95.18064,38.94737],"type":"Point"}
+}

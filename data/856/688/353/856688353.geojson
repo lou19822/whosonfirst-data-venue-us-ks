@@ -1,0 +1,71 @@
+{
+  "id": 856688353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704856,37.39599,-94.704856,37.39599",
+    "geom:latitude":37.39599,
+    "geom:longitude":-94.704856,
+    "iso:country":"US",
+    "sg:address":"1321 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5970",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VflbUSqR53XyQnRvFSFAE_37.395990_-94.704856@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051835,
+    "wof:geomhash":"23852f061e24b147351d4ba83e3526f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856688353
+        }
+    ],
+    "wof:id":856688353,
+    "wof:lastmodified":1464051835,
+    "wof:name":"Broadway Animal Hospital",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.704856,
+    37.39599,
+    -94.704856,
+    37.39599
+],
+  "geometry": {"coordinates":[-94.70485600000001,37.39599],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840905143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.445349,37.693997,-97.445349,37.693997",
+    "geom:latitude":37.693997,
+    "geom:longitude":-97.445349,
+    "iso:country":"US",
+    "sg:address":"9121 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 7338",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K7AOMc5R4LLkt0n3yG4qN_37.693997_-97.445349@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050597,
+    "wof:geomhash":"5cee182d8d1403f9f887602d387413d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840905143
+        }
+    ],
+    "wof:id":840905143,
+    "wof:lastmodified":1464050597,
+    "wof:name":"South End Sewing Center",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -97.445349,
+    37.693997,
+    -97.445349,
+    37.693997
+],
+  "geometry": {"coordinates":[-97.44534899999999,37.693997],"type":"Point"}
+}

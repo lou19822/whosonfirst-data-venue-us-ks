@@ -1,0 +1,78 @@
+{
+  "id": 856705605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668323,38.939633,-94.668323,38.939633",
+    "geom:latitude":38.939633,
+    "geom:longitude":-94.668323,
+    "iso:country":"US",
+    "sg:address":"10390 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/121887-krispy-kreme/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 341 4643",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879547,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_564l71PqNEU8ibkOrzauLf_38.939633_-94.668323@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052180,
+    "wof:geomhash":"e98c442c3077d1f223bc9ee5da7785f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879547,
+            "region_id":85688555,
+            "venue_id":856705605
+        }
+    ],
+    "wof:id":856705605,
+    "wof:lastmodified":1464052180,
+    "wof:name":"Krispy Kreme",
+    "wof:parent_id":85879547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -94.668323,
+    38.939633,
+    -94.668323,
+    38.939633
+],
+  "geometry": {"coordinates":[-94.668323,38.939633],"type":"Point"}
+}

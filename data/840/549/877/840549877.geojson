@@ -1,0 +1,75 @@
+{
+  "id": 840549877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.295508,37.630519,-97.295508,37.630519",
+    "geom:latitude":37.630519,
+    "geom:longitude":-97.295508,
+    "iso:country":"US",
+    "sg:address":"3501 Crystal St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 618 0099",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E4us3Fi0V3JCDZFM6xd2g_37.630519_-97.295508@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042504,
+    "wof:geomhash":"91d591d8e7623a661e745b26c20ef2f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840549877
+        }
+    ],
+    "wof:id":840549877,
+    "wof:lastmodified":1464042504,
+    "wof:name":"A & D Mobile Home Setting",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -97.295508,
+    37.630519,
+    -97.295508,
+    37.630519
+],
+  "geometry": {"coordinates":[-97.295508,37.630519],"type":"Point"}
+}

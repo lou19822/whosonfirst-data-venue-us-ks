@@ -1,0 +1,71 @@
+{
+  "id": 840738299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.695008,37.413103,-94.695008,37.413103",
+    "geom:latitude":37.413103,
+    "geom:longitude":-94.695008,
+    "iso:country":"US",
+    "sg:address":"725 E 6th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 230 5656",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6joOWS7PiXZaSniPMgTXNR_37.413103_-94.695008@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046861,
+    "wof:geomhash":"86836145ec5c4449094b759521102183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840738299
+        }
+    ],
+    "wof:id":840738299,
+    "wof:lastmodified":1464046861,
+    "wof:name":"Schlanger Park Community Ctr",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -94.695008,
+    37.413103,
+    -94.695008,
+    37.413103
+],
+  "geometry": {"coordinates":[-94.695008,37.413103],"type":"Point"}
+}

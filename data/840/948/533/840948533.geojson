@@ -1,0 +1,73 @@
+{
+  "id": 840948533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.204371,38.405029,-96.204371,38.405029",
+    "geom:latitude":38.405029,
+    "geom:longitude":-96.204371,
+    "iso:country":"US",
+    "sg:address":"1901 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3456",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rNolwgS31yolU1zQx1JrT_38.405029_-96.204371@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051617,
+    "wof:geomhash":"7779d9c6d515554e5e7b03367f261b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840948533
+        }
+    ],
+    "wof:id":840948533,
+    "wof:lastmodified":1464051617,
+    "wof:name":"Thrifty Car Wash",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.204371,
+    38.405029,
+    -96.204371,
+    38.405029
+],
+  "geometry": {"coordinates":[-96.20437099999999,38.405029],"type":"Point"}
+}

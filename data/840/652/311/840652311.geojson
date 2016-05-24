@@ -1,0 +1,72 @@
+{
+  "id": 840652311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.194786,38.412309,-96.194786,38.412309",
+    "geom:latitude":38.412309,
+    "geom:longitude":-96.194786,
+    "iso:country":"US",
+    "sg:address":"1201 W 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 6177",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospice"
+    ],
+    "sg:website":"www.handinhandhospice.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KVAItRvrtMEU65wGr2bD1_38.412309_-96.194786@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044937,
+    "wof:geomhash":"28f31c4bd75696d35b7f39cb1953ff3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840652311
+        }
+    ],
+    "wof:id":840652311,
+    "wof:lastmodified":1464044937,
+    "wof:name":"Hand In Hand Homecare",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -96.194786,
+    38.412309,
+    -96.194786,
+    38.412309
+],
+  "geometry": {"coordinates":[-96.19478599999999,38.412309],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840944911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.451481,37.700343,-97.451481,37.700343",
+    "geom:latitude":37.700343,
+    "geom:longitude":-97.451481,
+    "iso:country":"US",
+    "sg:address":"979 Murray St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 5054",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PPSgSnRdpyrEJPhdcwhCc_37.700343_-97.451481@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051550,
+    "wof:geomhash":"8269ffd767de66250144ee680956090d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840944911
+        }
+    ],
+    "wof:id":840944911,
+    "wof:lastmodified":1464051550,
+    "wof:name":"Piano Shop",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -97.451481,
+    37.700343,
+    -97.451481,
+    37.700343
+],
+  "geometry": {"coordinates":[-97.451481,37.700343],"type":"Point"}
+}

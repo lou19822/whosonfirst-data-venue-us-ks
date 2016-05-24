@@ -1,0 +1,71 @@
+{
+  "id": 840933295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.985276,37.687407,-96.985276,37.687407",
+    "geom:latitude":37.687407,
+    "geom:longitude":-96.985276,
+    "iso:country":"US",
+    "sg:address":"1325 Money St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 5690",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1szSM5WghXlDmeZo2h7IQ7_37.687407_-96.985276@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051313,
+    "wof:geomhash":"bd55079dfb70e99c4c2277a9f8ba328b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840933295
+        }
+    ],
+    "wof:id":840933295,
+    "wof:lastmodified":1464051313,
+    "wof:name":"Garden Walk Apartments-Augusta",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.985276,
+    37.687407,
+    -96.985276,
+    37.687407
+],
+  "geometry": {"coordinates":[-96.985276,37.687407],"type":"Point"}
+}

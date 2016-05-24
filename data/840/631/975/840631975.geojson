@@ -1,0 +1,73 @@
+{
+  "id": 840631975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.379235,37.727739,-97.379235,37.727739",
+    "geom:latitude":37.727739,
+    "geom:longitude":-97.379235,
+    "iso:country":"US",
+    "sg:address":"2331 Cardinal Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 5909",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iLpHSVSfxioRxvHYmqNFr_37.727739_-97.379235@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044489,
+    "wof:geomhash":"eb2ebe4d2bca6b87bf1a03cd3f8b43d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840631975
+        }
+    ],
+    "wof:id":840631975,
+    "wof:lastmodified":1464044489,
+    "wof:name":"C & G Properties",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.379235,
+    37.727739,
+    -97.379235,
+    37.727739
+],
+  "geometry": {"coordinates":[-97.37923499999999,37.727739],"type":"Point"}
+}

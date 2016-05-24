@@ -1,0 +1,72 @@
+{
+  "id": 856707337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.714797,39.129318,-95.714797,39.129318",
+    "geom:latitude":39.129318,
+    "geom:longitude":-95.714797,
+    "iso:country":"US",
+    "sg:address":"3530 NW 46th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/soldier/186721-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 1555",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UXwRLLaoWIsIqJFYOy8vw_39.129318_-95.714797@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052217,
+    "wof:geomhash":"350d993ea1383d374ac8c93e1d308c1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":856707337
+        }
+    ],
+    "wof:id":856707337,
+    "wof:lastmodified":1464052217,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.714797,
+    39.129318,
+    -95.714797,
+    39.129318
+],
+  "geometry": {"coordinates":[-95.714797,39.129318],"type":"Point"}
+}

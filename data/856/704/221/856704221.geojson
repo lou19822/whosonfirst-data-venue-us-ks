@@ -1,0 +1,80 @@
+{
+  "id": 856704221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.79998,38.88393,-94.79998,38.88393",
+    "geom:latitude":38.88393,
+    "geom:longitude":-94.79998,
+    "iso:country":"US",
+    "sg:address":"1110 E Santa Fe St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/174258-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 5829",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HWwQaF5DtGxdRX1w18oXZ_38.883930_-94.799980@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052155,
+    "wof:geomhash":"eb4631fd3ed4835002c0db1dbce68e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704221
+        }
+    ],
+    "wof:id":856704221,
+    "wof:lastmodified":1464052155,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.79998,
+    38.88393,
+    -94.79998,
+    38.88393
+],
+  "geometry": {"coordinates":[-94.79998000000001,38.88393],"type":"Point"}
+}

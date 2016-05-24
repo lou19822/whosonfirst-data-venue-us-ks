@@ -1,0 +1,71 @@
+{
+  "id": 840624681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.851023,37.815485,-96.851023,37.815485",
+    "geom:latitude":37.815485,
+    "geom:longitude":-96.851023,
+    "iso:country":"US",
+    "sg:address":"111 W Ash Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 6373",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MwGRbGSQEa4nHXmi1ohic_37.815485_-96.851023@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044287,
+    "wof:geomhash":"bf02f2c6b28f5bc4fc7d66d41ee70097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840624681
+        }
+    ],
+    "wof:id":840624681,
+    "wof:lastmodified":1464044287,
+    "wof:name":"Mid-Kansas Community Action",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.851023,
+    37.815485,
+    -96.851023,
+    37.815485
+],
+  "geometry": {"coordinates":[-96.851023,37.815485],"type":"Point"}
+}

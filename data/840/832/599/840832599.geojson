@@ -1,0 +1,71 @@
+{
+  "id": 840832599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.369483,37.738749,-97.369483,37.738749",
+    "geom:latitude":37.738749,
+    "geom:longitude":-97.369483,
+    "iso:country":"US",
+    "sg:address":"3015 N Saint Clair St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 5533",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CVdFps0eHV7bi2SaUQ4f8_37.738749_-97.369483@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049055,
+    "wof:geomhash":"416c498941775bd3a0b6eab77f4c7a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840832599
+        }
+    ],
+    "wof:id":840832599,
+    "wof:lastmodified":1464049055,
+    "wof:name":"American Dental Arts",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -97.369483,
+    37.738749,
+    -97.369483,
+    37.738749
+],
+  "geometry": {"coordinates":[-97.369483,37.738749],"type":"Point"}
+}

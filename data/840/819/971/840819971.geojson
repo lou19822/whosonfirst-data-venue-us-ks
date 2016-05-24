@@ -1,0 +1,71 @@
+{
+  "id": 840819971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.765245,38.854831,-94.765245,38.854831",
+    "geom:latitude":38.854831,
+    "geom:longitude":-94.765245,
+    "iso:country":"US",
+    "sg:address":"15101 W 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 6436",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LqvCuYmG6FPfxX87pKEmI_38.854831_-94.765245@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048756,
+    "wof:geomhash":"4a3a111dadb87734ab6d8c2e76967792",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840819971
+        }
+    ],
+    "wof:id":840819971,
+    "wof:lastmodified":1464048756,
+    "wof:name":"Shell",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -94.765245,
+    38.854831,
+    -94.765245,
+    38.854831
+],
+  "geometry": {"coordinates":[-94.76524499999999,38.854831],"type":"Point"}
+}

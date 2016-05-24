@@ -1,0 +1,71 @@
+{
+  "id": 840805807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705428,37.412141,-94.705428,37.412141",
+    "geom:latitude":37.412141,
+    "geom:longitude":-94.705428,
+    "iso:country":"US",
+    "sg:address":"112 W 5th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 3630",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vjPdCu5V8iSXfiFK7Ezgp_37.412141_-94.705428@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048313,
+    "wof:geomhash":"c2bb47d53a353dd535b81340e3ce3e54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840805807
+        }
+    ],
+    "wof:id":840805807,
+    "wof:lastmodified":1464048313,
+    "wof:name":"Lighthouse Tabernacle",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.705428,
+    37.412141,
+    -94.705428,
+    37.412141
+],
+  "geometry": {"coordinates":[-94.705428,37.412141],"type":"Point"}
+}

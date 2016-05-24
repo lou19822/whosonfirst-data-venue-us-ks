@@ -1,0 +1,77 @@
+{
+  "id": 840651051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.568507,37.664407,-97.568507,37.664407",
+    "geom:latitude":37.664407,
+    "geom:longitude":-97.568507,
+    "iso:country":"US",
+    "sg:address":"19931 W Kellogg Dr",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 3533",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZpK8vVzvngeICOx2ecPon_37.664407_-97.568507@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044909,
+    "wof:geomhash":"48bc9ec5a356af9ef85116dec744ab62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840651051
+        }
+    ],
+    "wof:id":840651051,
+    "wof:lastmodified":1464044909,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -97.568507,
+    37.664407,
+    -97.568507,
+    37.664407
+],
+  "geometry": {"coordinates":[-97.568507,37.664407],"type":"Point"}
+}

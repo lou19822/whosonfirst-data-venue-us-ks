@@ -1,0 +1,73 @@
+{
+  "id": 840655931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444289,37.700004,-97.444289,37.700004",
+    "geom:latitude":37.700004,
+    "geom:longitude":-97.444289,
+    "iso:country":"US",
+    "sg:address":"940 N Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 2500",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V77XBiaWcO5aeSr1nHrlx_37.700004_-97.444289@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045021,
+    "wof:geomhash":"2562380465cf887f16190b385ac63c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840655931
+        }
+    ],
+    "wof:id":840655931,
+    "wof:lastmodified":1464045021,
+    "wof:name":"Allied Home Mortgage Capital",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -97.444289,
+    37.700004,
+    -97.444289,
+    37.700004
+],
+  "geometry": {"coordinates":[-97.444289,37.700004],"type":"Point"}
+}

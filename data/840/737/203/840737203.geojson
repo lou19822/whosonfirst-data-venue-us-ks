@@ -1,0 +1,71 @@
+{
+  "id": 840737203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705453,37.412141,-94.705453,37.412141",
+    "geom:latitude":37.412141,
+    "geom:longitude":-94.705453,
+    "iso:country":"US",
+    "sg:address":"110 W 5th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4180",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25m3Lr9HR2mqcddOpDYkX7_37.412141_-94.705453@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046840,
+    "wof:geomhash":"14761f7cde38c686a0637f6a84542e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840737203
+        }
+    ],
+    "wof:id":840737203,
+    "wof:lastmodified":1464046840,
+    "wof:name":"Mirza Temple",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -94.705453,
+    37.412141,
+    -94.705453,
+    37.412141
+],
+  "geometry": {"coordinates":[-94.70545300000001,37.412141],"type":"Point"}
+}

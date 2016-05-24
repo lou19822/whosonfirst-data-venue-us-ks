@@ -1,0 +1,76 @@
+{
+  "id": 856707599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.210742,38.405566,-96.210742,38.405566",
+    "geom:latitude":38.405566,
+    "geom:longitude":-96.210742,
+    "iso:country":"US",
+    "sg:address":"2144 W US-50",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/105410-carlos-okellys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3130",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LIIcB46ZhBoQSWRKUCEW2_38.405566_-96.210742@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052222,
+    "wof:geomhash":"eb014a37771dc3f935ba155f2e27f5e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707599
+        }
+    ],
+    "wof:id":856707599,
+    "wof:lastmodified":1464052222,
+    "wof:name":"Carlos O'Kelly's",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -96.210742,
+    38.405566,
+    -96.210742,
+    38.405566
+],
+  "geometry": {"coordinates":[-96.210742,38.405566],"type":"Point"}
+}

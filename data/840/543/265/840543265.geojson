@@ -1,0 +1,75 @@
+{
+  "id": 840543265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.321863,37.693525,-97.321863,37.693525",
+    "geom:latitude":37.693525,
+    "geom:longitude":-97.321863,
+    "iso:country":"US",
+    "sg:address":"1300 E Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 7228",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872805,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09ddRcB2FE4frKFKJ12b5Y_37.693525_-97.321863@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042308,
+    "wof:geomhash":"829d2f50e353b4d11095d2a5a37b4e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872805,
+            "region_id":85688555,
+            "venue_id":840543265
+        }
+    ],
+    "wof:id":840543265,
+    "wof:lastmodified":1464042308,
+    "wof:name":"Alan Appliance Svc Inc",
+    "wof:parent_id":85872805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -97.321863,
+    37.693525,
+    -97.321863,
+    37.693525
+],
+  "geometry": {"coordinates":[-97.32186299999999,37.693525],"type":"Point"}
+}

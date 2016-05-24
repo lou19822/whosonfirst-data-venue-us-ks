@@ -1,0 +1,77 @@
+{
+  "id": 840830747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.714584,39.02128,-94.714584,39.02128",
+    "geom:latitude":39.02128,
+    "geom:longitude":-94.714584,
+    "iso:country":"US",
+    "sg:address":"5949 Nieman Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 6114",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Xl9ykEkFOweOLVRexbyn_39.021280_-94.714584@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049020,
+    "wof:geomhash":"45ccac54477f27beefa29592aac66d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":840830747
+        }
+    ],
+    "wof:id":840830747,
+    "wof:lastmodified":1464049020,
+    "wof:name":"Shawnee Family Care",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.714584,
+    39.02128,
+    -94.714584,
+    39.02128
+],
+  "geometry": {"coordinates":[-94.714584,39.02128],"type":"Point"}
+}

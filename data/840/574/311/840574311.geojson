@@ -1,0 +1,71 @@
+{
+  "id": 840574311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.31562,37.647153,-97.31562,37.647153",
+    "geom:latitude":37.647153,
+    "geom:longitude":-97.31562,
+    "iso:country":"US",
+    "sg:address":"1719 Scott St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 3609",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Wed81IGHOKXH8K52mW0D_37.647153_-97.315620@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043089,
+    "wof:geomhash":"fb2e2731958b29483e79b03cc854f2b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840574311
+        }
+    ],
+    "wof:id":840574311,
+    "wof:lastmodified":1464043089,
+    "wof:name":"Paradise Cleaning Svc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -97.31562,
+    37.647153,
+    -97.31562,
+    37.647153
+],
+  "geometry": {"coordinates":[-97.31562,37.647153],"type":"Point"}
+}

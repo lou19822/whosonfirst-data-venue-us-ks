@@ -1,0 +1,77 @@
+{
+  "id": 840808741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.978881,37.674478,-96.978881,37.674478",
+    "geom:latitude":37.674478,
+    "geom:longitude":-96.978881,
+    "iso:country":"US",
+    "sg:address":"330 State St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 9989",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hot",
+        "hamburger",
+        "dog",
+        "stand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CSSLpuEfPmSoY80TNwx7z_37.674478_-96.978881@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048377,
+    "wof:geomhash":"4d812f75382b4c987e0cd6964e234f92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840808741
+        }
+    ],
+    "wof:id":840808741,
+    "wof:lastmodified":1464048377,
+    "wof:name":"Miller's Five Drive-In",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hot",
+        "hamburger",
+        "dog",
+        "stand"
+    ]
+},
+  "bbox": [
+    -96.978881,
+    37.674478,
+    -96.978881,
+    37.674478
+],
+  "geometry": {"coordinates":[-96.978881,37.674478],"type":"Point"}
+}

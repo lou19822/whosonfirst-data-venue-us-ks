@@ -1,0 +1,78 @@
+{
+  "id": 840909989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761959,39.034237,-95.761959,39.034237",
+    "geom:latitude":39.034237,
+    "geom:longitude":-95.761959,
+    "iso:country":"US",
+    "sg:address":"1830 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 1699",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "sg:website":"www.jiffylube.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MZ8Ol2uSzA8CaSNrDiRL6_39.034237_-95.761959@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050727,
+    "wof:geomhash":"a944ba501be01ce62c8b225bab31f665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840909989
+        }
+    ],
+    "wof:id":840909989,
+    "wof:lastmodified":1464050727,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -95.761959,
+    39.034237,
+    -95.761959,
+    39.034237
+],
+  "geometry": {"coordinates":[-95.761959,39.034237],"type":"Point"}
+}

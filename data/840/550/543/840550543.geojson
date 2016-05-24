@@ -1,0 +1,71 @@
+{
+  "id": 840550543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.255465,38.502674,-96.255465,38.502674",
+    "geom:latitude":38.502674,
+    "geom:longitude":-96.255465,
+    "iso:country":"US",
+    "sg:address":"109 Maple St",
+    "sg:city":"Americus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 443 5651",
+    "sg:postcode":"66835",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17SRu0wcP7HNOpdvqkgo04_38.502674_-96.255465@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042525,
+    "wof:geomhash":"6c10beab70d1531e0b081f32d2e010ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840550543
+        }
+    ],
+    "wof:id":840550543,
+    "wof:lastmodified":1464042525,
+    "wof:name":"Charlies Corner Garage",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.255465,
+    38.502674,
+    -96.255465,
+    38.502674
+],
+  "geometry": {"coordinates":[-96.255465,38.502674],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840577529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.029029,37.798565,-97.029029,37.798565",
+    "geom:latitude":37.798565,
+    "geom:longitude":-97.029029,
+    "iso:country":"US",
+    "sg:address":"10176 SW 18th Ter",
+    "sg:city":"Towanda",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 541 2309",
+    "sg:postcode":"67144",
+    "sg:province":"KS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qka8BMwOsLEGnLk6U5W6h_37.798565_-97.029029@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043155,
+    "wof:geomhash":"a83597ca665f4c09190957f1eab1b917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840577529
+        }
+    ],
+    "wof:id":840577529,
+    "wof:lastmodified":1464043155,
+    "wof:name":"Waltman Construction",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -97.029029,
+    37.798565,
+    -97.029029,
+    37.798565
+],
+  "geometry": {"coordinates":[-97.02902899999999,37.798565],"type":"Point"}
+}

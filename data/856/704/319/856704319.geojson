@@ -1,0 +1,78 @@
+{
+  "id": 856704319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.759714,38.913591,-94.759714,38.913591",
+    "geom:latitude":38.913591,
+    "geom:longitude":-94.759714,
+    "iso:country":"US",
+    "sg:address":"14960 W 119th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/223267-gambinos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 390 0400",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wvr1TvE5Rn7aDYVYRoaW7_38.913591_-94.759714@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052156,
+    "wof:geomhash":"cfeb8f615174f361661a0495b1735cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704319
+        }
+    ],
+    "wof:id":856704319,
+    "wof:lastmodified":1464052156,
+    "wof:name":"Gambino's Pizza",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.759714,
+    38.913591,
+    -94.759714,
+    38.913591
+],
+  "geometry": {"coordinates":[-94.759714,38.913591],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840891495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.087557,39.109178,-95.087557,39.109178",
+    "geom:latitude":39.109178,
+    "geom:longitude":-95.087557,
+    "iso:country":"US",
+    "sg:address":"508 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 2353",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51UeuzEYV81zHSbGEZGvE5_39.109178_-95.087557@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050315,
+    "wof:geomhash":"a4693a7788fa035d54b2a0715b5ed908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840891495
+        }
+    ],
+    "wof:id":840891495,
+    "wof:lastmodified":1464050315,
+    "wof:name":"Tonganoxie Family Care",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.087557,
+    39.109178,
+    -95.087557,
+    39.109178
+],
+  "geometry": {"coordinates":[-95.087557,39.109178],"type":"Point"}
+}

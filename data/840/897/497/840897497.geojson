@@ -1,0 +1,71 @@
+{
+  "id": 840897497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.020005,37.938922,-97.020005,37.938922",
+    "geom:latitude":37.938922,
+    "geom:longitude":-97.020005,
+    "iso:country":"US",
+    "sg:address":"100 Randall St",
+    "sg:city":"Potwin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 752 3512",
+    "sg:postcode":"67123",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XMFWZ6kvccC3BGhhIyDuH_37.938922_-97.020005@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050440,
+    "wof:geomhash":"7ad6d1224251d6afe2ee0d61f94ae927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840897497
+        }
+    ],
+    "wof:id":840897497,
+    "wof:lastmodified":1464050440,
+    "wof:name":"Potwin Service Station",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.020005,
+    37.938922,
+    -97.020005,
+    37.938922
+],
+  "geometry": {"coordinates":[-97.020005,37.938922],"type":"Point"}
+}

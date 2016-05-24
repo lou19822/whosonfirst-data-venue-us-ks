@@ -1,0 +1,78 @@
+{
+  "id": 840584003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667869,38.891923,-94.667869,38.891923",
+    "geom:latitude":38.891923,
+    "geom:longitude":-94.667869,
+    "iso:country":"US",
+    "sg:address":"12920 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 685 6300",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "maintenance"
+    ],
+    "sg:website":"www.phpkc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PdUz1xRKDIdmD4DEz5VQO_38.891923_-94.667869@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043293,
+    "wof:geomhash":"ad2752ddf8753fa64f789630ce5259d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":840584003
+        }
+    ],
+    "wof:id":840584003,
+    "wof:lastmodified":1464043293,
+    "wof:name":"Preferred Health Professionals",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -94.667869,
+    38.891923,
+    -94.667869,
+    38.891923
+],
+  "geometry": {"coordinates":[-94.667869,38.891923],"type":"Point"}
+}

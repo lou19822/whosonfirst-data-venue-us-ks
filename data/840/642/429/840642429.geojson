@@ -1,0 +1,66 @@
+{
+  "id": 840642429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.632929,39.008295,-95.632929,39.008295",
+    "geom:latitude":39.008295,
+    "geom:longitude":-95.632929,
+    "iso:country":"US",
+    "sg:address":"3305 SE West Edge Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 4542",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SE43PpE3kBgq9VBp7NNIi_39.008295_-95.632929@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044729,
+    "wof:geomhash":"42970b93d3b62319d4b36204aa4ad610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840642429
+        }
+    ],
+    "wof:id":840642429,
+    "wof:lastmodified":1464044729,
+    "wof:name":"Pathfinders",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.632929,
+    39.008295,
+    -95.632929,
+    39.008295
+],
+  "geometry": {"coordinates":[-95.632929,39.008295],"type":"Point"}
+}

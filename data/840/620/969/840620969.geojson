@@ -1,0 +1,71 @@
+{
+  "id": 840620969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.44436,37.684303,-97.44436,37.684303",
+    "geom:latitude":37.684303,
+    "geom:longitude":-97.44436,
+    "iso:country":"US",
+    "sg:address":"239 N Tyler Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 1945",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LQCZ1JfmgJBWCqaRqDbJr_37.684303_-97.444360@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044189,
+    "wof:geomhash":"e87d2822f04936853ac2cdf5f7b3cfdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840620969
+        }
+    ],
+    "wof:id":840620969,
+    "wof:lastmodified":1464044189,
+    "wof:name":"Carol's Beauty Salon",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.44436,
+    37.684303,
+    -97.44436,
+    37.684303
+],
+  "geometry": {"coordinates":[-97.44436,37.684303],"type":"Point"}
+}

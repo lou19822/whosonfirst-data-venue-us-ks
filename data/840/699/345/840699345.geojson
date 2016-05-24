@@ -1,0 +1,79 @@
+{
+  "id": 840699345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.896329,39.248093,-94.896329,39.248093",
+    "geom:latitude":39.248093,
+    "geom:longitude":-94.896329,
+    "iso:country":"US",
+    "sg:address":"108 S 2 St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 2400",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844391,
+        102191575,
+        404504467,
+        85633793,
+        85945367,
+        102083429,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ysIxE12k2CUaDF1ZbpXeo_39.248093_-94.896329@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046072,
+    "wof:geomhash":"3d1b5fcfff0666c91b2f77a240c218d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504467,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":840699345
+        }
+    ],
+    "wof:id":840699345,
+    "wof:lastmodified":1464046072,
+    "wof:name":"Lansing Community Development",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -94.896329,
+    39.248093,
+    -94.896329,
+    39.248093
+],
+  "geometry": {"coordinates":[-94.89632899999999,39.248093],"type":"Point"}
+}

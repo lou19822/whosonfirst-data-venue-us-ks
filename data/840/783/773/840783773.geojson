@@ -1,0 +1,73 @@
+{
+  "id": 840783773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.687526,37.449828,-94.687526,37.449828",
+    "geom:latitude":37.449828,
+    "geom:longitude":-94.687526,
+    "iso:country":"US",
+    "sg:address":"508 S Linn St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1042",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VSUf9YSoXlWkU5wGJCjR4_37.449828_-94.687526@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047834,
+    "wof:geomhash":"667dc7f32f6449fcb2156da050538099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840783773
+        }
+    ],
+    "wof:id":840783773,
+    "wof:lastmodified":1464047834,
+    "wof:name":"Frontenac Housing Authority",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -94.687526,
+    37.449828,
+    -94.687526,
+    37.449828
+],
+  "geometry": {"coordinates":[-94.68752600000001,37.449828],"type":"Point"}
+}

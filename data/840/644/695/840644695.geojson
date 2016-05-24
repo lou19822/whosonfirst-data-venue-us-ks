@@ -1,0 +1,71 @@
+{
+  "id": 840644695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704891,37.409178,-94.704891,37.409178",
+    "geom:latitude":37.409178,
+    "geom:longitude":-94.704891,
+    "iso:country":"US",
+    "sg:address":"211 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1155",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yRZQqu1hKHwwqp1xDiUKO_37.409178_-94.704891@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044776,
+    "wof:geomhash":"9fc652e68619f0b09c14852aaa9f3118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840644695
+        }
+    ],
+    "wof:id":840644695,
+    "wof:lastmodified":1464044776,
+    "wof:name":"Bishop's Studio",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -94.704891,
+    37.409178,
+    -94.704891,
+    37.409178
+],
+  "geometry": {"coordinates":[-94.704891,37.409178],"type":"Point"}
+}

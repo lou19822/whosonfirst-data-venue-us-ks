@@ -1,0 +1,71 @@
+{
+  "id": 840793609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.296948,37.636704,-97.296948,37.636704",
+    "geom:latitude":37.636704,
+    "geom:longitude":-97.296948,
+    "iso:country":"US",
+    "sg:address":"3080 Sayles Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 689 8504",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xLPF0gBM1nEq6gUnDhEC3_37.636704_-97.296948@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048053,
+    "wof:geomhash":"92f89c6e36cda9a2fedb504bb54ac515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840793609
+        }
+    ],
+    "wof:id":840793609,
+    "wof:lastmodified":1464048053,
+    "wof:name":"Calhoun Home Health",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -97.296948,
+    37.636704,
+    -97.296948,
+    37.636704
+],
+  "geometry": {"coordinates":[-97.296948,37.636704],"type":"Point"}
+}

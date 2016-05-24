@@ -1,0 +1,80 @@
+{
+  "id": 840628175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.759506,38.921378,-94.759506,38.921378",
+    "geom:latitude":38.921378,
+    "geom:longitude":-94.759506,
+    "iso:country":"US",
+    "sg:address":"14802 W 114th Ter",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 696 9990",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "aircraft",
+        "flight",
+        "training"
+    ],
+    "sg:website":"www.ast-simulators.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yu2L6nvxcYhn32kFw4tKp_38.921378_-94.759506@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044387,
+    "wof:geomhash":"ce5747a80cbd9ad551bce4fcedade052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840628175
+        }
+    ],
+    "wof:id":840628175,
+    "wof:lastmodified":1464044387,
+    "wof:name":"Aviation Simulation Trainers",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "flight",
+        "training"
+    ]
+},
+  "bbox": [
+    -94.759506,
+    38.921378,
+    -94.759506,
+    38.921378
+],
+  "geometry": {"coordinates":[-94.759506,38.921378],"type":"Point"}
+}

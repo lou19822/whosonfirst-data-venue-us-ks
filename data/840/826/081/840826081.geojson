@@ -1,0 +1,77 @@
+{
+  "id": 840826081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.668374,39.059494,-95.668374,39.059494",
+    "geom:latitude":39.059494,
+    "geom:longitude":-95.668374,
+    "iso:country":"US",
+    "sg:address":"125 NE Quincy St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 6280",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mem7b39xqmC47Tb1Ejsin_39.059494_-95.668374@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048913,
+    "wof:geomhash":"7dbe776270c3f27f6c6076adfd259160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840826081
+        }
+    ],
+    "wof:id":840826081,
+    "wof:lastmodified":1464048913,
+    "wof:name":"Lewis Repair Svc Auto Truck",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.668374,
+    39.059494,
+    -95.668374,
+    39.059494
+],
+  "geometry": {"coordinates":[-95.668374,39.059494],"type":"Point"}
+}

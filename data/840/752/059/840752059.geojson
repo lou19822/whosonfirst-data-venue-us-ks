@@ -1,0 +1,71 @@
+{
+  "id": 840752059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.287496,37.654999,-97.287496,37.654999",
+    "geom:latitude":37.654999,
+    "geom:longitude":-97.287496,
+    "iso:country":"US",
+    "sg:address":"4340 E Bellaire St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 685 5897",
+    "sg:postcode":"67218",
+    "sg:province":"KS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jOcsuqbWpPqQFMUp1tL8F_37.654999_-97.287496@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047148,
+    "wof:geomhash":"780148fd8bd2a4f3f249d31de7daaef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840752059
+        }
+    ],
+    "wof:id":840752059,
+    "wof:lastmodified":1464047148,
+    "wof:name":"Good New Child Care",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -97.287496,
+    37.654999,
+    -97.287496,
+    37.654999
+],
+  "geometry": {"coordinates":[-97.287496,37.654999],"type":"Point"}
+}

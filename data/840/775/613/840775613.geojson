@@ -1,0 +1,73 @@
+{
+  "id": 840775613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.691516,37.428568,-94.691516,37.428568",
+    "geom:latitude":37.428568,
+    "geom:longitude":-94.691516,
+    "iso:country":"US",
+    "sg:address":"800 E 23rd St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 230 1120",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sgLknS2u4FsWk2zgcOw9Q_37.428568_-94.691516@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047678,
+    "wof:geomhash":"cb29539d4c72cf3a1d1f319e2a90e0ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840775613
+        }
+    ],
+    "wof:id":840775613,
+    "wof:lastmodified":1464047678,
+    "wof:name":"Kansas City Southern Lines",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -94.691516,
+    37.428568,
+    -94.691516,
+    37.428568
+],
+  "geometry": {"coordinates":[-94.69151599999999,37.428568],"type":"Point"}
+}

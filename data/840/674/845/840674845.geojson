@@ -1,0 +1,71 @@
+{
+  "id": 840674845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.691331,37.454948,-94.691331,37.454948",
+    "geom:latitude":37.454948,
+    "geom:longitude":-94.691331,
+    "iso:country":"US",
+    "sg:address":"110 S Cherokee St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1375",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dEbBBCXlTTwbWqmBMwPY0_37.454948_-94.691331@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045444,
+    "wof:geomhash":"ef6bd54643f07a0f203e36fd4a59c95b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840674845
+        }
+    ],
+    "wof:id":840674845,
+    "wof:lastmodified":1464045444,
+    "wof:name":"Otter Surveying",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -94.691331,
+    37.454948,
+    -94.691331,
+    37.454948
+],
+  "geometry": {"coordinates":[-94.69133100000001,37.454948],"type":"Point"}
+}

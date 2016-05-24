@@ -1,0 +1,69 @@
+{
+  "id": 840547729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849725,37.80862,-96.849725,37.80862",
+    "geom:latitude":37.80862,
+    "geom:longitude":-96.849725,
+    "iso:country":"US",
+    "sg:address":"1358 SW US Hwy 77",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 0040",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cQehEYedrpTLT0bjAHR8e_37.808620_-96.849725@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042449,
+    "wof:geomhash":"ed379e8682c2464c8a1fdf9dee35c851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840547729
+        }
+    ],
+    "wof:id":840547729,
+    "wof:lastmodified":1464042449,
+    "wof:name":"Joe's Engine Svc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -96.849725,
+    37.80862,
+    -96.849725,
+    37.80862
+],
+  "geometry": {"coordinates":[-96.84972500000001,37.80862],"type":"Point"}
+}

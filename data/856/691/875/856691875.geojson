@@ -1,0 +1,71 @@
+{
+  "id": 856691875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135966,37.721,-97.135966,37.721",
+    "geom:latitude":37.721,
+    "geom:longitude":-97.135966,
+    "iso:country":"US",
+    "sg:address":"210 Ira Ct",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 5561",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70L4OecKf0BSvbRiW3dNea_37.721000_-97.135966@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051905,
+    "wof:geomhash":"7331b1d758c43d8fd501bc83f9f55faa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":856691875
+        }
+    ],
+    "wof:id":856691875,
+    "wof:lastmodified":1464051905,
+    "wof:name":"Project Encore",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -97.135966,
+    37.721,
+    -97.135966,
+    37.721
+],
+  "geometry": {"coordinates":[-97.135966,37.721],"type":"Point"}
+}

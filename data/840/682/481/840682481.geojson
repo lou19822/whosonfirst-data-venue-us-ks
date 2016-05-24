@@ -1,0 +1,77 @@
+{
+  "id": 840682481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.15703,38.401259,-96.15703,38.401259",
+    "geom:latitude":38.401259,
+    "geom:longitude":-96.15703,
+    "iso:country":"US",
+    "sg:address":"1427 Linn Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9500",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "retardation",
+        "home",
+        "dev",
+        "disabled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DHwmWvwvLWzpVqMgZL33S_38.401259_-96.157030@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045635,
+    "wof:geomhash":"98c046b7c9722acece49ccf9045a8c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840682481
+        }
+    ],
+    "wof:id":840682481,
+    "wof:lastmodified":1464045635,
+    "wof:name":"Linn Residence",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retardation",
+        "home",
+        "dev",
+        "disabled"
+    ]
+},
+  "bbox": [
+    -96.15703,
+    38.401259,
+    -96.15703,
+    38.401259
+],
+  "geometry": {"coordinates":[-96.15703000000001,38.401259],"type":"Point"}
+}

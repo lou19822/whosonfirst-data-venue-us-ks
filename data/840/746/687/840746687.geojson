@@ -1,0 +1,75 @@
+{
+  "id": 840746687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.673108,39.048557,-95.673108,39.048557",
+    "geom:latitude":39.048557,
+    "geom:longitude":-95.673108,
+    "iso:country":"US",
+    "sg:address":"707 SE Quincy St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 368 3783",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08mbe0ueDRo4ArzBHHq20G_39.048557_-95.673108@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047022,
+    "wof:geomhash":"7d5773f10def64232f6fc32f56267a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840746687
+        }
+    ],
+    "wof:id":840746687,
+    "wof:lastmodified":1464047022,
+    "wof:name":"Topeka Probation Dept",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -95.673108,
+    39.048557,
+    -95.673108,
+    39.048557
+],
+  "geometry": {"coordinates":[-95.673108,39.048557],"type":"Point"}
+}

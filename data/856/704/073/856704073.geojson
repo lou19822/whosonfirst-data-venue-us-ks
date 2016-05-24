@@ -1,0 +1,78 @@
+{
+  "id": 856704073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.835272,38.88146,-94.835272,38.88146",
+    "geom:latitude":38.88146,
+    "geom:longitude":-94.835272,
+    "iso:country":"US",
+    "sg:address":"105 S Parker St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/olathe/115610-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 791 0101",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qaydIrCQqJYBKIS4cUZkB_38.881460_-94.835272@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052152,
+    "wof:geomhash":"66a682464a6bbc98a8022fbb5e0f2453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856704073
+        }
+    ],
+    "wof:id":856704073,
+    "wof:lastmodified":1464052152,
+    "wof:name":"Subway",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.835272,
+    38.88146,
+    -94.835272,
+    38.88146
+],
+  "geometry": {"coordinates":[-94.835272,38.88146],"type":"Point"}
+}

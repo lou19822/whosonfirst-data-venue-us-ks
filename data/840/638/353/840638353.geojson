@@ -1,0 +1,79 @@
+{
+  "id": 840638353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.780709,39.116279,-94.780709,39.116279",
+    "geom:latitude":39.116279,
+    "geom:longitude":-94.780709,
+    "iso:country":"US",
+    "sg:address":"8617 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 7297",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42QNLuyI78d9Qbrun6Yept_39.116279_-94.780709@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044644,
+    "wof:geomhash":"7fd95096694a2b94ed255ad76ad7c1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840638353
+        }
+    ],
+    "wof:id":840638353,
+    "wof:lastmodified":1464044644,
+    "wof:name":"Shampooch Pet Grooming",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.780709,
+    39.116279,
+    -94.780709,
+    39.116279
+],
+  "geometry": {"coordinates":[-94.780709,39.116279],"type":"Point"}
+}

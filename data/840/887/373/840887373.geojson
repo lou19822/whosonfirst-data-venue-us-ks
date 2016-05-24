@@ -1,0 +1,75 @@
+{
+  "id": 840887373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.630524,38.898313,-94.630524,38.898313",
+    "geom:latitude":38.898313,
+    "geom:longitude":-94.630524,
+    "iso:country":"US",
+    "sg:address":"12701 Mission Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 642 4433",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_436i3M4eCMClb94ejjq0Pr_38.898313_-94.630524@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050228,
+    "wof:geomhash":"054de5f01cb747b4f0fd1a5035ca9b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840887373
+        }
+    ],
+    "wof:id":840887373,
+    "wof:lastmodified":1464050228,
+    "wof:name":"Leawood Fire Dept",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.630524,
+    38.898313,
+    -94.630524,
+    38.898313
+],
+  "geometry": {"coordinates":[-94.63052399999999,38.898313],"type":"Point"}
+}

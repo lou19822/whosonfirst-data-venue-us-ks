@@ -1,0 +1,69 @@
+{
+  "id": 840682057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.853878,37.81013,-96.853878,37.81013",
+    "geom:latitude":37.81013,
+    "geom:longitude":-96.853878,
+    "iso:country":"US",
+    "sg:address":"305 W Towanda Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 322 7233",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RH7DEj96xX2PpJDkW2FN5_37.810130_-96.853878@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045627,
+    "wof:geomhash":"01925e8e8dabc72a21e2cc379cd0adf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840682057
+        }
+    ],
+    "wof:id":840682057,
+    "wof:lastmodified":1464045627,
+    "wof:name":"Bethlehem House",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -96.853878,
+    37.81013,
+    -96.853878,
+    37.81013
+],
+  "geometry": {"coordinates":[-96.85387799999999,37.81013],"type":"Point"}
+}

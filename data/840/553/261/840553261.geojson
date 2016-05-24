@@ -1,0 +1,77 @@
+{
+  "id": 840553261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.515616,37.664008,-97.515616,37.664008",
+    "geom:latitude":37.664008,
+    "geom:longitude":-97.515616,
+    "iso:country":"US",
+    "sg:address":"15179 US Hwy 54",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 7195",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "van",
+        "conversion",
+        "truck",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JcwYyfEHW8C9S0eBeFSnd_37.664008_-97.515616@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042580,
+    "wof:geomhash":"bc9b0aab854248003ff7345d8f96cdfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840553261
+        }
+    ],
+    "wof:id":840553261,
+    "wof:lastmodified":1464042580,
+    "wof:name":"AIR Capitol Conversions",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "van",
+        "conversion",
+        "truck",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -97.515616,
+    37.664008,
+    -97.515616,
+    37.664008
+],
+  "geometry": {"coordinates":[-97.51561599999999,37.664008],"type":"Point"}
+}

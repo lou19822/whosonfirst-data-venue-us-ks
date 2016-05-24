@@ -1,0 +1,73 @@
+{
+  "id": 840868795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.940241,39.072713,-94.940241,39.072713",
+    "geom:latitude":39.072713,
+    "geom:longitude":-94.940241,
+    "iso:country":"US",
+    "sg:address":"15506 Metro Ave",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 7880",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FMnI2JscfuOTTraWrgLAb_39.072713_-94.940241@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049831,
+    "wof:geomhash":"c0dc8383296cc07987cc617cd287b861",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840868795
+        }
+    ],
+    "wof:id":840868795,
+    "wof:lastmodified":1464049831,
+    "wof:name":"Willming Construction",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.940241,
+    39.072713,
+    -94.940241,
+    39.072713
+],
+  "geometry": {"coordinates":[-94.940241,39.072713],"type":"Point"}
+}

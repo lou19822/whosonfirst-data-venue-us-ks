@@ -1,0 +1,77 @@
+{
+  "id": 840845435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.824319,38.883349,-94.824319,38.883349",
+    "geom:latitude":38.883349,
+    "geom:longitude":-94.824319,
+    "iso:country":"US",
+    "sg:address":"113 N Pine St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 768 0158",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79l4S8PCT4Y0NUKwnnecax_38.883349_-94.824319@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049338,
+    "wof:geomhash":"66741f0e8d3337b4c733256a49f546fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840845435
+        }
+    ],
+    "wof:id":840845435,
+    "wof:lastmodified":1464049338,
+    "wof:name":"A Z Lock & Key",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -94.824319,
+    38.883349,
+    -94.824319,
+    38.883349
+],
+  "geometry": {"coordinates":[-94.824319,38.883349],"type":"Point"}
+}

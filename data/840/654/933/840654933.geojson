@@ -1,0 +1,71 @@
+{
+  "id": 840654933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.66819,39.123919,-95.66819,39.123919",
+    "geom:latitude":39.123919,
+    "geom:longitude":-95.66819,
+    "iso:country":"US",
+    "sg:address":"623 NW 43rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2613",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M9THmsHSqEhTCZfBk2K4G_39.123919_-95.668190@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045003,
+    "wof:geomhash":"1e30450e3b9520a24b0ac9b6db8c193d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840654933
+        }
+    ],
+    "wof:id":840654933,
+    "wof:lastmodified":1464045003,
+    "wof:name":"Mike Greeson Masonry",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.66819,
+    39.123919,
+    -95.66819,
+    39.123919
+],
+  "geometry": {"coordinates":[-95.66819,39.123919],"type":"Point"}
+}

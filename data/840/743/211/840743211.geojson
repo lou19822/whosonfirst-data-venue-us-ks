@@ -1,0 +1,71 @@
+{
+  "id": 840743211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.186486,38.401669,-96.186486,38.401669",
+    "geom:latitude":38.401669,
+    "geom:longitude":-96.186486,
+    "iso:country":"US",
+    "sg:address":"332 Neosho St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1700",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30atdYB0S0CKlzs372eIuz_38.401669_-96.186486@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046954,
+    "wof:geomhash":"fb9c498c6843d06c056cec5e937efc77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840743211
+        }
+    ],
+    "wof:id":840743211,
+    "wof:lastmodified":1464046954,
+    "wof:name":"Viacare Home Health",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -96.186486,
+    38.401669,
+    -96.186486,
+    38.401669
+],
+  "geometry": {"coordinates":[-96.186486,38.401669],"type":"Point"}
+}

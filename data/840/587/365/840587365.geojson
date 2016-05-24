@@ -1,0 +1,77 @@
+{
+  "id": 840587365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.677786,39.053501,-94.677786,39.053501",
+    "geom:latitude":39.053501,
+    "geom:longitude":-94.677786,
+    "iso:country":"US",
+    "sg:address":"4215 Shawnee Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 6986",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803445,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GW5cBnvxQrpohv9y2t8bH_39.053501_-94.677786@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043370,
+    "wof:geomhash":"31fd60a9aef16eedfc766e51e6967809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85803445,
+            "region_id":85688555,
+            "venue_id":840587365
+        }
+    ],
+    "wof:id":840587365,
+    "wof:lastmodified":1464043370,
+    "wof:name":"Hope Cancer Ctr",
+    "wof:parent_id":85803445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.677786,
+    39.053501,
+    -94.677786,
+    39.053501
+],
+  "geometry": {"coordinates":[-94.677786,39.053501],"type":"Point"}
+}

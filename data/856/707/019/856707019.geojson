@@ -1,0 +1,88 @@
+{
+  "id": 856707019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.67296,39.015234,-95.67296,39.015234",
+    "geom:latitude":39.015234,
+    "geom:longitude":-95.67296,
+    "iso:country":"US",
+    "sg:address":"463 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/231104-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 7800",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881543,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sX3pV4peWORYz3VMcNq0w_39.015234_-95.672960@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052208,
+    "wof:geomhash":"5d0359b2393325b579508de90c44c408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881543,
+            "region_id":85688555,
+            "venue_id":856707019
+        }
+    ],
+    "wof:id":856707019,
+    "wof:lastmodified":1464052208,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85881543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -95.67296,
+    39.015234,
+    -95.67296,
+    39.015234
+],
+  "geometry": {"coordinates":[-95.67296,39.015234],"type":"Point"}
+}

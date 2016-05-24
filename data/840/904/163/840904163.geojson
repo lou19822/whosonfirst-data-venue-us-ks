@@ -1,0 +1,70 @@
+{
+  "id": 840904163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.016763,37.755316,-100.016763,37.755316",
+    "geom:latitude":37.755316,
+    "geom:longitude":-100.016763,
+    "iso:country":"US",
+    "sg:address":"700 Central Ave",
+    "sg:city":"Dodge City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 227 8618",
+    "sg:postcode":"67801",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849601,
+        102191575,
+        404503629,
+        85633793,
+        85945215,
+        102082141,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r7m3bwiVkW4krLe3REUJ6_37.755316_-100.016763@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050578,
+    "wof:geomhash":"405c443c4ebf7ff6f8645ef2877f524d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082141,
+            "localadmin_id":404503629,
+            "locality_id":85945215,
+            "neighbourhood_id":85849601,
+            "region_id":85688555,
+            "venue_id":840904163
+        }
+    ],
+    "wof:id":840904163,
+    "wof:lastmodified":1464050578,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85849601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.016763,
+    37.755316,
+    -100.016763,
+    37.755316
+],
+  "geometry": {"coordinates":[-100.016763,37.755316],"type":"Point"}
+}

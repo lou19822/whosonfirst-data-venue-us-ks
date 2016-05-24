@@ -1,0 +1,69 @@
+{
+  "id": 840920933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.614885,39.031756,-95.614885,39.031756",
+    "geom:latitude":39.031756,
+    "geom:longitude":-95.614885,
+    "iso:country":"US",
+    "sg:address":"3517 SE 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 5521",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cChKCxApGCmxA0P2j7NvO_39.031756_-95.614885@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051023,
+    "wof:geomhash":"3191113121df80824241f93d0f4a9548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840920933
+        }
+    ],
+    "wof:id":840920933,
+    "wof:lastmodified":1464051023,
+    "wof:name":"Graham Ship-By-Truck Co",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.614885,
+    39.031756,
+    -95.614885,
+    39.031756
+],
+  "geometry": {"coordinates":[-95.614885,39.031756],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840803217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.08747,39.096078,-95.08747,39.096078",
+    "geom:latitude":39.096078,
+    "geom:longitude":-95.08747,
+    "iso:country":"US",
+    "sg:address":"499 13th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 1900",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cTrSA0sA6cZFLI7PXS8RW_39.096078_-95.087470@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048267,
+    "wof:geomhash":"e11f0cef0ca2642d78187eda3a200ad6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840803217
+        }
+    ],
+    "wof:id":840803217,
+    "wof:lastmodified":1464048267,
+    "wof:name":"Platinum Limousine LLC",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.08747,
+    39.096078,
+    -95.08747,
+    39.096078
+],
+  "geometry": {"coordinates":[-95.08747,39.096078],"type":"Point"}
+}

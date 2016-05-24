@@ -1,0 +1,66 @@
+{
+  "id": 840870343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651625,39.019078,-95.651625,39.019078",
+    "geom:latitude":39.019078,
+    "geom:longitude":-95.651625,
+    "iso:country":"US",
+    "sg:address":"2611 SE California Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 7511",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LT8EUqzFak9TrDSDZP4Ob_39.019078_-95.651625@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049860,
+    "wof:geomhash":"1e635db16eab2fe9d7f01740037047c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840870343
+        }
+    ],
+    "wof:id":840870343,
+    "wof:lastmodified":1464049860,
+    "wof:name":"Cormier Retail Liquor",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.651625,
+    39.019078,
+    -95.651625,
+    39.019078
+],
+  "geometry": {"coordinates":[-95.651625,39.019078],"type":"Point"}
+}

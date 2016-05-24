@@ -1,0 +1,77 @@
+{
+  "id": 840601027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.681993,39.127826,-94.681993,39.127826",
+    "geom:latitude":39.127826,
+    "geom:longitude":-94.681993,
+    "iso:country":"US",
+    "sg:address":"4359 Victory Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 596 1819",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878497,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v9ckz7OTrKj7XiVlWTSqP_39.127826_-94.681993@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043682,
+    "wof:geomhash":"5000a2e4046cd1883f37196de2995ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878497,
+            "region_id":85688555,
+            "venue_id":840601027
+        }
+    ],
+    "wof:id":840601027,
+    "wof:lastmodified":1464043682,
+    "wof:name":"Midwest Power Svc",
+    "wof:parent_id":85878497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "floor"
+    ]
+},
+  "bbox": [
+    -94.681993,
+    39.127826,
+    -94.681993,
+    39.127826
+],
+  "geometry": {"coordinates":[-94.68199300000001,39.127826],"type":"Point"}
+}

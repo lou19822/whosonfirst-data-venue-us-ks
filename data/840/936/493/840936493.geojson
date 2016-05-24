@@ -1,0 +1,73 @@
+{
+  "id": 840936493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.372659,37.70658,-97.372659,37.70658",
+    "geom:latitude":37.70658,
+    "geom:longitude":-97.372659,
+    "iso:country":"US",
+    "sg:address":"1325 Richmond St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 8344",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SdIzi9s2xMvo7UoCZCpMe_37.706580_-97.372659@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051376,
+    "wof:geomhash":"e39d5e3f2def3434e8b1b77e7321fe73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840936493
+        }
+    ],
+    "wof:id":840936493,
+    "wof:lastmodified":1464051376,
+    "wof:name":"Car Care By Ritchie",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.372659,
+    37.70658,
+    -97.372659,
+    37.70658
+],
+  "geometry": {"coordinates":[-97.372659,37.70658],"type":"Point"}
+}

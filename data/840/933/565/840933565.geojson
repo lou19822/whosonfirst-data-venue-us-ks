@@ -1,0 +1,75 @@
+{
+  "id": 840933565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899845,39.267296,-94.899845,39.267296",
+    "geom:latitude":39.267296,
+    "geom:longitude":-94.899845,
+    "iso:country":"US",
+    "sg:address":"1217 N Main St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 000 1111",
+    "sg:postcode":"66043",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844391,
+        102191575,
+        404504467,
+        85633793,
+        85945367,
+        102083429,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s51eJ4LENHOLI9a4tAXUx_39.267296_-94.899845@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051318,
+    "wof:geomhash":"914b241fb2deeba4f119cdb6ee13e8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083429,
+            "localadmin_id":404504467,
+            "locality_id":85945367,
+            "neighbourhood_id":85844391,
+            "region_id":85688555,
+            "venue_id":840933565
+        }
+    ],
+    "wof:id":840933565,
+    "wof:lastmodified":1464051318,
+    "wof:name":"Aldi",
+    "wof:parent_id":85844391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.899845,
+    39.267296,
+    -94.899845,
+    39.267296
+],
+  "geometry": {"coordinates":[-94.899845,39.267296],"type":"Point"}
+}

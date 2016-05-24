@@ -1,0 +1,75 @@
+{
+  "id": 856690637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.681522,39.035255,-95.681522,39.035255",
+    "geom:latitude":39.035255,
+    "geom:longitude":-95.681522,
+    "iso:country":"US",
+    "sg:address":"1824 SW Harrison St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 2597",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ipkyrLbJIufmpE3GyCKZ9_39.035255_-95.681522@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051882,
+    "wof:geomhash":"e5e45a715b2c8646a5ea27b57fc4a85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":856690637
+        }
+    ],
+    "wof:id":856690637,
+    "wof:lastmodified":1464051882,
+    "wof:name":"Topeka Transmission Svc",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -95.681522,
+    39.035255,
+    -95.681522,
+    39.035255
+],
+  "geometry": {"coordinates":[-95.681522,39.035255],"type":"Point"}
+}

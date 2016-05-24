@@ -1,0 +1,73 @@
+{
+  "id": 840636615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.957504,38.307086,-95.957504,38.307086",
+    "geom:latitude":38.307086,
+    "geom:longitude":-95.957504,
+    "iso:country":"US",
+    "sg:address":"400 Commercial St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 392 5530",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19iX5pKEFV9ycvEu8F2wUL_38.307086_-95.957504@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044605,
+    "wof:geomhash":"d431d3e92d846ae4d64586057930c914",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840636615
+        }
+    ],
+    "wof:id":840636615,
+    "wof:lastmodified":1464044605,
+    "wof:name":"Hartford Elevator",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -95.957504,
+    38.307086,
+    -95.957504,
+    38.307086
+],
+  "geometry": {"coordinates":[-95.957504,38.307086],"type":"Point"}
+}

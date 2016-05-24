@@ -1,0 +1,71 @@
+{
+  "id": 840950051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.38781,37.665719,-97.38781,37.665719",
+    "geom:latitude":37.665719,
+    "geom:longitude":-97.38781,
+    "iso:country":"US",
+    "sg:address":"3939 W Harry St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 8488",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33pDksML1kBxcCxbEAchQt_37.665719_-97.387810@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051651,
+    "wof:geomhash":"1c6557f7121b7dcb2a69293ce9000ab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840950051
+        }
+    ],
+    "wof:id":840950051,
+    "wof:lastmodified":1464051651,
+    "wof:name":"Superior Tool Svc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    -97.38781,
+    37.665719,
+    -97.38781,
+    37.665719
+],
+  "geometry": {"coordinates":[-97.38781,37.665719],"type":"Point"}
+}

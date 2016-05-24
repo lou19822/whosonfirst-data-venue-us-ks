@@ -1,0 +1,71 @@
+{
+  "id": 840746395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352536,37.638895,-97.352536,37.638895",
+    "geom:latitude":37.638895,
+    "geom:longitude":-97.352536,
+    "iso:country":"US",
+    "sg:address":"3060 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 1650",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y9AQGgBxAcG8nqFbTpV3b_37.638895_-97.352536@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047017,
+    "wof:geomhash":"d48ab7aa099ede85f5f834645e00d0a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840746395
+        }
+    ],
+    "wof:id":840746395,
+    "wof:lastmodified":1464047017,
+    "wof:name":"Little Joes Carwash",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -97.352536,
+    37.638895,
+    -97.352536,
+    37.638895
+],
+  "geometry": {"coordinates":[-97.352536,37.638895],"type":"Point"}
+}

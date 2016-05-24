@@ -1,0 +1,71 @@
+{
+  "id": 840938379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705371,37.342797,-94.705371,37.342797",
+    "geom:latitude":37.342797,
+    "geom:longitude":-94.705371,
+    "iso:country":"US",
+    "sg:address":"1271 S 220th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 9260",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29QktnIIs0VJDDCDzl3XVr_37.342797_-94.705371@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051414,
+    "wof:geomhash":"721eace5e3cf826f69b2868c90a06fe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840938379
+        }
+    ],
+    "wof:id":840938379,
+    "wof:lastmodified":1464051414,
+    "wof:name":"Pichler Chicken Annies",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -94.705371,
+    37.342797,
+    -94.705371,
+    37.342797
+],
+  "geometry": {"coordinates":[-94.705371,37.342797],"type":"Point"}
+}

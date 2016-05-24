@@ -1,0 +1,73 @@
+{
+  "id": 840864029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.500545,37.856335,-97.500545,37.856335",
+    "geom:latitude":37.856335,
+    "geom:longitude":-97.500545,
+    "iso:country":"US",
+    "sg:address":"9542 N 135th St W",
+    "sg:city":"Sedgwick",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 0605",
+    "sg:postcode":"67135",
+    "sg:province":"KS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lSXi2qXypknUvDdRI4rI1_37.856335_-97.500545@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049733,
+    "wof:geomhash":"cdea98a08f92926962b5f305a5b3f672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840864029
+        }
+    ],
+    "wof:id":840864029,
+    "wof:lastmodified":1464049733,
+    "wof:name":"Carmichael Farms",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.500545,
+    37.856335,
+    -97.500545,
+    37.856335
+],
+  "geometry": {"coordinates":[-97.500545,37.856335],"type":"Point"}
+}

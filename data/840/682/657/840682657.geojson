@@ -1,0 +1,73 @@
+{
+  "id": 840682657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.731799,38.890875,-94.731799,38.890875",
+    "geom:latitude":38.890875,
+    "geom:longitude":-94.731799,
+    "iso:country":"US",
+    "sg:address":"12701 W 129th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 327 1600",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hgyt1Uix5LCbYI0QLHbVh_38.890875_-94.731799@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045639,
+    "wof:geomhash":"1fdd32cd9a79c926c3abf825217d0d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840682657
+        }
+    ],
+    "wof:id":840682657,
+    "wof:lastmodified":1464045639,
+    "wof:name":"Classified Car Sales",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.731799,
+    38.890875,
+    -94.731799,
+    38.890875
+],
+  "geometry": {"coordinates":[-94.731799,38.890875],"type":"Point"}
+}

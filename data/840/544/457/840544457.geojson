@@ -1,0 +1,69 @@
+{
+  "id": 840544457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.794981,37.810184,-96.794981,37.810184",
+    "geom:latitude":37.810184,
+    "geom:longitude":-96.794981,
+    "iso:country":"US",
+    "sg:address":"2595 SE US Hwy 54",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 2244",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y9Fe3GEHvhDwzsQhmk7Mm_37.810184_-96.794981@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042351,
+    "wof:geomhash":"11e7f616200de35daf3b3d4c6bac6dd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840544457
+        }
+    ],
+    "wof:id":840544457,
+    "wof:lastmodified":1464042351,
+    "wof:name":"Butler County Large Animal Vet",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -96.794981,
+    37.810184,
+    -96.794981,
+    37.810184
+],
+  "geometry": {"coordinates":[-96.79498100000001,37.810184],"type":"Point"}
+}

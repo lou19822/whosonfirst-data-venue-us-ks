@@ -1,0 +1,73 @@
+{
+  "id": 840742885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.93869,39.13554,-94.93869,39.13554",
+    "geom:latitude":39.13554,
+    "geom:longitude":-94.93869,
+    "iso:country":"US",
+    "sg:address":"15520 Crestwood Dr",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 7000",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M5xpS0KlPi6cWrcd2eY2j_39.135540_-94.938690@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046948,
+    "wof:geomhash":"40ca55866b398338301a249be666d6fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840742885
+        }
+    ],
+    "wof:id":840742885,
+    "wof:lastmodified":1464046948,
+    "wof:name":"Consolidated Rural Water Dist",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -94.93869,
+    39.13554,
+    -94.93869,
+    39.13554
+],
+  "geometry": {"coordinates":[-94.93868999999999,39.13554],"type":"Point"}
+}

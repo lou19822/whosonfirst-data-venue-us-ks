@@ -1,0 +1,71 @@
+{
+  "id": 840629445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389083,37.639052,-97.389083,37.639052",
+    "geom:latitude":37.639052,
+    "geom:longitude":-97.389083,
+    "iso:country":"US",
+    "sg:address":"3410 W 30th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 1163",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gz5dvbdZvLXZpBpWEUqVp_37.639052_-97.389083@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044423,
+    "wof:geomhash":"2077e6d2e17903fe41b4ec89f93cfa4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840629445
+        }
+    ],
+    "wof:id":840629445,
+    "wof:lastmodified":1464044423,
+    "wof:name":"School Services & Leasing Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -97.389083,
+    37.639052,
+    -97.389083,
+    37.639052
+],
+  "geometry": {"coordinates":[-97.389083,37.639052],"type":"Point"}
+}

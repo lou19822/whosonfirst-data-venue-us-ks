@@ -1,0 +1,71 @@
+{
+  "id": 840947705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.663774,39.136703,-95.663774,39.136703",
+    "geom:latitude":39.136703,
+    "geom:longitude":-95.663774,
+    "iso:country":"US",
+    "sg:address":"5220 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 1658",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3600sRuh46Pt9iLe9Plco3_39.136703_-95.663774@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051602,
+    "wof:geomhash":"e1f1359d626f4a4d7714da7179816b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840947705
+        }
+    ],
+    "wof:id":840947705,
+    "wof:lastmodified":1464051602,
+    "wof:name":"Fleenor Plumbing & Heating",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.663774,
+    39.136703,
+    -95.663774,
+    39.136703
+],
+  "geometry": {"coordinates":[-95.663774,39.136703],"type":"Point"}
+}

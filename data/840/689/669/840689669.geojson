@@ -1,0 +1,71 @@
+{
+  "id": 840689669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.475727,37.714876,-97.475727,37.714876",
+    "geom:latitude":37.714876,
+    "geom:longitude":-97.475727,
+    "iso:country":"US",
+    "sg:address":"11502 W 17th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 4749",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nWBpDjbXFA0Kn1se3Ws81_37.714876_-97.475727@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045808,
+    "wof:geomhash":"3a4772c07d1eb278bf501b1b7a3cbc1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840689669
+        }
+    ],
+    "wof:id":840689669,
+    "wof:lastmodified":1464045808,
+    "wof:name":"David Hall Roofing Inc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.475727,
+    37.714876,
+    -97.475727,
+    37.714876
+],
+  "geometry": {"coordinates":[-97.47572700000001,37.714876],"type":"Point"}
+}

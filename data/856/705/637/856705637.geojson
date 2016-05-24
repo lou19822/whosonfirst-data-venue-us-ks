@@ -1,0 +1,78 @@
+{
+  "id": 856705637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667537,38.964177,-94.667537,38.964177",
+    "geom:latitude":38.964177,
+    "geom:longitude":-94.667537,
+    "iso:country":"US",
+    "sg:address":"9095 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/44704-dans-longbranch-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 642 9555",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879595,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K9DyBzQdpOowKxgp96fdD_38.964177_-94.667537@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052180,
+    "wof:geomhash":"013dcd2ae8abc8e284372a1a34ca7725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879595,
+            "region_id":85688555,
+            "venue_id":856705637
+        }
+    ],
+    "wof:id":856705637,
+    "wof:lastmodified":1464052180,
+    "wof:name":"Dan's Longbranch Steakhouse",
+    "wof:parent_id":85879595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -94.667537,
+    38.964177,
+    -94.667537,
+    38.964177
+],
+  "geometry": {"coordinates":[-94.667537,38.964177],"type":"Point"}
+}

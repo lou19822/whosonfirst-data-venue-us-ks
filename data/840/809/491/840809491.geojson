@@ -1,0 +1,73 @@
+{
+  "id": 840809491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363182,37.733147,-97.363182,37.733147",
+    "geom:latitude":37.733147,
+    "geom:longitude":-97.363182,
+    "iso:country":"US",
+    "sg:address":"2759 N Amidon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 1746",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MQgYA6Eefsafu3stX5Rbl_37.733147_-97.363182@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048401,
+    "wof:geomhash":"9943e55e21f1154d0189d066427a938c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840809491
+        }
+    ],
+    "wof:id":840809491,
+    "wof:lastmodified":1464048401,
+    "wof:name":"Stoney Brook Apartments",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.363182,
+    37.733147,
+    -97.363182,
+    37.733147
+],
+  "geometry": {"coordinates":[-97.36318199999999,37.733147],"type":"Point"}
+}

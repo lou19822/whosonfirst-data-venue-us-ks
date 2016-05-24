@@ -1,0 +1,75 @@
+{
+  "id": 840595391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352538,37.644087,-97.352538,37.644087",
+    "geom:latitude":37.644087,
+    "geom:longitude":-97.352538,
+    "iso:country":"US",
+    "sg:address":"2820 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 4283",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ryF6Zglh42sm7V6Z5XTgZ_37.644087_-97.352538@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043547,
+    "wof:geomhash":"7ffacec76de10779a4720cb7a718e3c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840595391
+        }
+    ],
+    "wof:id":840595391,
+    "wof:lastmodified":1464043547,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -97.352538,
+    37.644087,
+    -97.352538,
+    37.644087
+],
+  "geometry": {"coordinates":[-97.352538,37.644087],"type":"Point"}
+}

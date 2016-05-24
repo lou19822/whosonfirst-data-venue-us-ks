@@ -1,0 +1,71 @@
+{
+  "id": 840718871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.663911,39.135199,-95.663911,39.135199",
+    "geom:latitude":39.135199,
+    "geom:longitude":-95.663911,
+    "iso:country":"US",
+    "sg:address":"4947 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2562",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z9NjkiKTGOg3Cni784Yaj_39.135199_-95.663911@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046478,
+    "wof:geomhash":"4166cc590e491dff2c7580fbe3057ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840718871
+        }
+    ],
+    "wof:id":840718871,
+    "wof:lastmodified":1464046478,
+    "wof:name":"Bar T Trucking",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.663911,
+    39.135199,
+    -95.663911,
+    39.135199
+],
+  "geometry": {"coordinates":[-95.663911,39.135199],"type":"Point"}
+}

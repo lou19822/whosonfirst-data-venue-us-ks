@@ -1,0 +1,77 @@
+{
+  "id": 840831935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.778571,39.014414,-95.778571,39.014414",
+    "geom:latitude":39.014414,
+    "geom:longitude":-95.778571,
+    "iso:country":"US",
+    "sg:address":"6750 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 4165",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I4ulBAf0NU7q3cM3v4Hgc_39.014414_-95.778571@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049042,
+    "wof:geomhash":"6f5a515059f77a0973dbccfb3c8c0740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840831935
+        }
+    ],
+    "wof:id":840831935,
+    "wof:lastmodified":1464049042,
+    "wof:name":"Topeka Pediatrics",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.778571,
+    39.014414,
+    -95.778571,
+    39.014414
+],
+  "geometry": {"coordinates":[-95.778571,39.014414],"type":"Point"}
+}

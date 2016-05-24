@@ -1,0 +1,78 @@
+{
+  "id": 840749591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.338231,37.69844,-97.338231,37.69844",
+    "geom:latitude":37.69844,
+    "geom:longitude":-97.338231,
+    "iso:country":"US",
+    "sg:address":"833 N Main St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 3333",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "sg:website":"www.ksn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872811,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eA7RRYflDoQG9fd45aIti_37.698440_-97.338231@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047090,
+    "wof:geomhash":"75d618769cca8f949d5da7ab065c81e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872811,
+            "region_id":85688555,
+            "venue_id":840749591
+        }
+    ],
+    "wof:id":840749591,
+    "wof:lastmodified":1464047090,
+    "wof:name":"KSNW",
+    "wof:parent_id":85872811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -97.338231,
+    37.69844,
+    -97.338231,
+    37.69844
+],
+  "geometry": {"coordinates":[-97.33823099999999,37.69844],"type":"Point"}
+}

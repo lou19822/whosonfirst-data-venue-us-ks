@@ -1,0 +1,74 @@
+{
+  "id": 840916479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.695781,37.400169,-94.695781,37.400169",
+    "geom:latitude":37.400169,
+    "geom:longitude":-94.695781,
+    "iso:country":"US",
+    "sg:address":"610 E Jefferson St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 8050",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "photo",
+        "laboratory"
+    ],
+    "sg:website":"www.millerslab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BbzHmYNDBJs2F9Qs1tvOp_37.400169_-94.695781@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050924,
+    "wof:geomhash":"8ed628f7ebdd030605ae8d5f820636f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840916479
+        }
+    ],
+    "wof:id":840916479,
+    "wof:lastmodified":1464050924,
+    "wof:name":"Miller's Professional Imaging",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -94.695781,
+    37.400169,
+    -94.695781,
+    37.400169
+],
+  "geometry": {"coordinates":[-94.695781,37.400169],"type":"Point"}
+}

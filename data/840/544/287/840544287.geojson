@@ -1,0 +1,73 @@
+{
+  "id": 840544287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.166276,38.403692,-96.166276,38.403692",
+    "geom:latitude":38.403692,
+    "geom:longitude":-96.166276,
+    "iso:country":"US",
+    "sg:address":"428 Peyton St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7320",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a7hefQLMLJ6HPsbWLYvzv_38.403692_-96.166276@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042339,
+    "wof:geomhash":"59ab642c43ffce92e6fa55e0ae31e257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840544287
+        }
+    ],
+    "wof:id":840544287,
+    "wof:lastmodified":1464042339,
+    "wof:name":"Hopkins Manufacturing Corp",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.166276,
+    38.403692,
+    -96.166276,
+    38.403692
+],
+  "geometry": {"coordinates":[-96.166276,38.403692],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840850779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.565074,37.701572,-97.565074,37.701572",
+    "geom:latitude":37.701572,
+    "geom:longitude":-97.565074,
+    "iso:country":"US",
+    "sg:address":"1200 N 199th Street Cir W",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 8025",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FwdJPs1yH3t9BlckC25jN_37.701572_-97.565074@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049456,
+    "wof:geomhash":"7821ccbbfb83af47918627a6f2158573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840850779
+        }
+    ],
+    "wof:id":840850779,
+    "wof:lastmodified":1464049456,
+    "wof:name":"Nelson Electric Inc",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.565074,
+    37.701572,
+    -97.565074,
+    37.701572
+],
+  "geometry": {"coordinates":[-97.565074,37.701572],"type":"Point"}
+}

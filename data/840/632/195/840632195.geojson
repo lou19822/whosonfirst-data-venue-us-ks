@@ -1,0 +1,71 @@
+{
+  "id": 840632195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.365039,37.609233,-97.365039,37.609233",
+    "geom:latitude":37.609233,
+    "geom:longitude":-97.365039,
+    "iso:country":"US",
+    "sg:address":"2119 W 46th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 2121",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "herb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OnbjaOF0iTR5lOcuh0X66_37.609233_-97.365039@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044493,
+    "wof:geomhash":"4aba0d4f67df9a63576fc014c84b9bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840632195
+        }
+    ],
+    "wof:id":840632195,
+    "wof:lastmodified":1464044493,
+    "wof:name":"Herbal Acres",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb"
+    ]
+},
+  "bbox": [
+    -97.365039,
+    37.609233,
+    -97.365039,
+    37.609233
+],
+  "geometry": {"coordinates":[-97.365039,37.609233],"type":"Point"}
+}

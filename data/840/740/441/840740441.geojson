@@ -1,0 +1,71 @@
+{
+  "id": 840740441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.735117,37.025607,-94.735117,37.025607",
+    "geom:latitude":37.025607,
+    "geom:longitude":-94.735117,
+    "iso:country":"US",
+    "sg:address":"1010 Military Ave",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 5714",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00dkDb4UXqlxr6lFSKvWs1_37.025607_-94.735117@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046904,
+    "wof:geomhash":"243cf99271652047f2998b721d6aa993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840740441
+        }
+    ],
+    "wof:id":840740441,
+    "wof:lastmodified":1464046904,
+    "wof:name":"Turner Consulting",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -94.735117,
+    37.025607,
+    -94.735117,
+    37.025607
+],
+  "geometry": {"coordinates":[-94.735117,37.025607],"type":"Point"}
+}

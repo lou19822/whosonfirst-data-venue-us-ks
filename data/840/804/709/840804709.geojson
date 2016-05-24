@@ -1,0 +1,73 @@
+{
+  "id": 840804709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.698744,38.890616,-94.698744,38.890616",
+    "geom:latitude":38.890616,
+    "geom:longitude":-94.698744,
+    "iso:country":"US",
+    "sg:address":"9722 W 131st Ter",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 825 6340",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Q05NNe9tg9bsOLwjb3Bh_38.890616_-94.698744@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048294,
+    "wof:geomhash":"4a9896ee6a7ffbe1387bd1729c6e50dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840804709
+        }
+    ],
+    "wof:id":840804709,
+    "wof:lastmodified":1464048294,
+    "wof:name":"Tour De France",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -94.698744,
+    38.890616,
+    -94.698744,
+    38.890616
+],
+  "geometry": {"coordinates":[-94.698744,38.890616],"type":"Point"}
+}

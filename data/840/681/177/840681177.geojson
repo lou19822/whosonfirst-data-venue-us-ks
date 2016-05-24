@@ -1,0 +1,77 @@
+{
+  "id": 840681177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.671478,39.07605,-95.671478,39.07605",
+    "geom:latitude":39.07605,
+    "geom:longitude":-95.671478,
+    "iso:country":"US",
+    "sg:address":"1432 NW Eugene St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 3877",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838117,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ZhY75U7Qj1UVxE302yKf_39.076050_-95.671478@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045603,
+    "wof:geomhash":"91dbcd83032e9f64a0405c2c1c845a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85838117,
+            "region_id":85688555,
+            "venue_id":840681177
+        }
+    ],
+    "wof:id":840681177,
+    "wof:lastmodified":1464045603,
+    "wof:name":"Shorey Automotive",
+    "wof:parent_id":85838117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.671478,
+    39.07605,
+    -95.671478,
+    39.07605
+],
+  "geometry": {"coordinates":[-95.67147799999999,39.07605],"type":"Point"}
+}

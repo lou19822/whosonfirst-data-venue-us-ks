@@ -1,0 +1,75 @@
+{
+  "id": 840929215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.658712,39.091868,-94.658712,39.091868",
+    "geom:latitude":39.091868,
+    "geom:longitude":-94.658712,
+    "iso:country":"US",
+    "sg:address":"452 S 26 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 281 4242",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878487,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FTxRom4kLDR3Ts8ORt4ka_39.091868_-94.658712@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051231,
+    "wof:geomhash":"0eba72635f9a6206e18e73cf51bf835e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878487,
+            "region_id":85688555,
+            "venue_id":840929215
+        }
+    ],
+    "wof:id":840929215,
+    "wof:lastmodified":1464051231,
+    "wof:name":"Metro Tow Inc",
+    "wof:parent_id":85878487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.658712,
+    39.091868,
+    -94.658712,
+    39.091868
+],
+  "geometry": {"coordinates":[-94.65871199999999,39.091868],"type":"Point"}
+}

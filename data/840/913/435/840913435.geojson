@@ -1,0 +1,72 @@
+{
+  "id": 840913435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.193105,37.708454,-97.193105,37.708454",
+    "geom:latitude":37.708454,
+    "geom:longitude":-97.193105,
+    "iso:country":"US",
+    "sg:address":"12111 E 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 688 5460",
+    "sg:postcode":"67206",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.woodridgecc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85829403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gzAov8prYZieVQ4CafDYr_37.708454_-97.193105@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050830,
+    "wof:geomhash":"b8228cd9d600974f19f1fe8e3ec2fde6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85829403,
+            "region_id":85688555,
+            "venue_id":840913435
+        }
+    ],
+    "wof:id":840913435,
+    "wof:lastmodified":1464050830,
+    "wof:name":"Woodridge Christian Church",
+    "wof:parent_id":85829403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.193105,
+    37.708454,
+    -97.193105,
+    37.708454
+],
+  "geometry": {"coordinates":[-97.193105,37.708454],"type":"Point"}
+}

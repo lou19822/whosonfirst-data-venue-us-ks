@@ -1,0 +1,73 @@
+{
+  "id": 840895403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.016225,37.517187,-97.016225,37.517187",
+    "geom:latitude":37.517187,
+    "geom:longitude":-97.016225,
+    "iso:country":"US",
+    "sg:address":"322 S Forrest St",
+    "sg:city":"Douglass",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 746 3135",
+    "sg:postcode":"67039",
+    "sg:province":"KS",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0132GSjG7QCWFvwqglbKW0_37.517187_-97.016225@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050393,
+    "wof:geomhash":"126354ef03a04fecf5940349303eaf2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840895403
+        }
+    ],
+    "wof:id":840895403,
+    "wof:lastmodified":1464050393,
+    "wof:name":"Chamber Of Commerce",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -97.016225,
+    37.517187,
+    -97.016225,
+    37.517187
+],
+  "geometry": {"coordinates":[-97.01622500000001,37.517187],"type":"Point"}
+}

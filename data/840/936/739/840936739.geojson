@@ -1,0 +1,75 @@
+{
+  "id": 840936739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.701733,37.409259,-94.701733,37.409259",
+    "geom:latitude":37.409259,
+    "geom:longitude":-94.701733,
+    "iso:country":"US",
+    "sg:address":"202 N Elm St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0666",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FLaKko1sdODIP5Q78bd5L_37.409259_-94.701733@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051386,
+    "wof:geomhash":"1281d30f6f65e5f192be6d6966fd9824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840936739
+        }
+    ],
+    "wof:id":840936739,
+    "wof:lastmodified":1464051386,
+    "wof:name":"Sharp Auto Body Clinic",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.701733,
+    37.409259,
+    -94.701733,
+    37.409259
+],
+  "geometry": {"coordinates":[-94.701733,37.409259],"type":"Point"}
+}

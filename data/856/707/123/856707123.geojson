@@ -1,0 +1,78 @@
+{
+  "id": 856707123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687586,39.000784,-95.687586,39.000784",
+    "geom:latitude":39.000784,
+    "geom:longitude":-95.687586,
+    "iso:country":"US",
+    "sg:address":"3690 SW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/166959-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 0190",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V4BCxo897UGID7RG6XUqs_39.000784_-95.687586@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052210,
+    "wof:geomhash":"801db5685540e4fc9d87768a4d177a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":856707123
+        }
+    ],
+    "wof:id":856707123,
+    "wof:lastmodified":1464052210,
+    "wof:name":"Burger King",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.687586,
+    39.000784,
+    -95.687586,
+    39.000784
+],
+  "geometry": {"coordinates":[-95.687586,39.000784],"type":"Point"}
+}

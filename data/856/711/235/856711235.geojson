@@ -1,0 +1,89 @@
+{
+  "id": 856711235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.629906,39.002033,-94.629906,39.002033",
+    "geom:latitude":39.002033,
+    "geom:longitude":-94.629906,
+    "iso:country":"US",
+    "sg:address":"6966 Mission Rd",
+    "sg:city":"Prairie Village",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/prairie-village/209055-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 671 8180",
+    "sg:postcode":"66208",
+    "sg:province":"KS",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879583,
+        102191575,
+        404504399,
+        85633793,
+        85945757,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yT6HPlT8IEyKTMJivH6oN_39.001782_-94.629920@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052290,
+    "wof:geomhash":"0dd2d0d3cb61da48eaa043e13771d42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504399,
+            "locality_id":85945757,
+            "neighbourhood_id":85879583,
+            "region_id":85688555,
+            "venue_id":856711235
+        }
+    ],
+    "wof:id":856711235,
+    "wof:lastmodified":1464052290,
+    "wof:name":"TCBY",
+    "wof:parent_id":85879583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -94.629906,
+    39.002033,
+    -94.629906,
+    39.002033
+],
+  "geometry": {"coordinates":[-94.62990600000001,39.002033],"type":"Point"}
+}

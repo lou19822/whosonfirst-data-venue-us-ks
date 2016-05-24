@@ -1,0 +1,71 @@
+{
+  "id": 840724899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352579,37.650455,-97.352579,37.650455",
+    "geom:latitude":37.650455,
+    "geom:longitude":-97.352579,
+    "iso:country":"US",
+    "sg:address":"2452 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 303 0703",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hsZhQmqwnvCE5rZAzwuig_37.650455_-97.352579@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046609,
+    "wof:geomhash":"b6f273009616d1f69799c92e2c5166ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840724899
+        }
+    ],
+    "wof:id":840724899,
+    "wof:lastmodified":1464046609,
+    "wof:name":"Direct Access TV",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -97.352579,
+    37.650455,
+    -97.352579,
+    37.650455
+],
+  "geometry": {"coordinates":[-97.35257900000001,37.650455],"type":"Point"}
+}

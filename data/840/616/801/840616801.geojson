@@ -1,0 +1,77 @@
+{
+  "id": 840616801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.6806,39.015173,-95.6806,39.015173",
+    "geom:latitude":39.015173,
+    "geom:longitude":-95.6806,
+    "iso:country":"US",
+    "sg:address":"100 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 3730",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881545,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Q2oZ5A9tjHszNbdjq7IO_39.015173_-95.680600@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044088,
+    "wof:geomhash":"ac4b9877cd7f3fc2e1a41ff046bf1dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881545,
+            "region_id":85688555,
+            "venue_id":840616801
+        }
+    ],
+    "wof:id":840616801,
+    "wof:lastmodified":1464044088,
+    "wof:name":"Heritage Motors",
+    "wof:parent_id":85881545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.6806,
+    39.015173,
+    -95.6806,
+    39.015173
+],
+  "geometry": {"coordinates":[-95.6806,39.015173],"type":"Point"}
+}

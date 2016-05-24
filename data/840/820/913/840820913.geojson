@@ -1,0 +1,73 @@
+{
+  "id": 840820913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.679753,38.971507,-95.679753,38.971507",
+    "geom:latitude":38.971507,
+    "geom:longitude":-95.679753,
+    "iso:country":"US",
+    "sg:address":"223 SE 53rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 8200",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g7KjmnHJjqVrB1DmLSITs_38.971507_-95.679753@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048775,
+    "wof:geomhash":"91795c50a4fb07302015efc4308d2ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840820913
+        }
+    ],
+    "wof:id":840820913,
+    "wof:lastmodified":1464048775,
+    "wof:name":"Ace Electric Jones Co",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.679753,
+    38.971507,
+    -95.679753,
+    38.971507
+],
+  "geometry": {"coordinates":[-95.67975300000001,38.971507],"type":"Point"}
+}

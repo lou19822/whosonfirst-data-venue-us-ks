@@ -1,0 +1,66 @@
+{
+  "id": 840926001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.220555,38.403004,-96.220555,38.403004",
+    "geom:latitude":38.403004,
+    "geom:longitude":-96.220555,
+    "iso:country":"US",
+    "sg:address":"2910 Sutton Pl",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9577",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nacaoFsoA5LC7d0j4i0wN_38.403004_-96.220555@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051166,
+    "wof:geomhash":"529d56ea3599602d424f4faec32ff1b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840926001
+        }
+    ],
+    "wof:id":840926001,
+    "wof:lastmodified":1464051166,
+    "wof:name":"Sweet Pumping Service",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.220555,
+    38.403004,
+    -96.220555,
+    38.403004
+],
+  "geometry": {"coordinates":[-96.220555,38.403004],"type":"Point"}
+}

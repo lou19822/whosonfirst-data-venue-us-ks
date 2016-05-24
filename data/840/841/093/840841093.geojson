@@ -1,0 +1,71 @@
+{
+  "id": 840841093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.738934,37.023876,-94.738934,37.023876",
+    "geom:latitude":37.023876,
+    "geom:longitude":-94.738934,
+    "iso:country":"US",
+    "sg:address":"324 W 12th St",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 2318",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_526LpaWWHmaZRIJ8LaXDdo_37.023876_-94.738934@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049243,
+    "wof:geomhash":"22c45ef75471a2f18874c2212ec135b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840841093
+        }
+    ],
+    "wof:id":840841093,
+    "wof:lastmodified":1464049243,
+    "wof:name":"Baxter Monument Co",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -94.738934,
+    37.023876,
+    -94.738934,
+    37.023876
+],
+  "geometry": {"coordinates":[-94.738934,37.023876],"type":"Point"}
+}

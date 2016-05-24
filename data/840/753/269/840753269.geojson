@@ -1,0 +1,69 @@
+{
+  "id": 840753269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.723499,39.07948,-95.723499,39.07948",
+    "geom:latitude":39.07948,
+    "geom:longitude":-95.723499,
+    "iso:country":"US",
+    "sg:address":"1540 NW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 9492",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WY5kdQKAh2sLdnosH2pDz_39.079480_-95.723499@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047178,
+    "wof:geomhash":"65763e7bc6f1374a03d645c4b89bd2fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840753269
+        }
+    ],
+    "wof:id":840753269,
+    "wof:lastmodified":1464047178,
+    "wof:name":"Boettcher Supply Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn"
+    ]
+},
+  "bbox": [
+    -95.723499,
+    39.07948,
+    -95.723499,
+    39.07948
+],
+  "geometry": {"coordinates":[-95.723499,39.07948],"type":"Point"}
+}

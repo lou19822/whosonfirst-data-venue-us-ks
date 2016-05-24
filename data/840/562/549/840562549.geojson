@@ -1,0 +1,67 @@
+{
+  "id": 840562549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.448293,37.693944,-97.448293,37.693944",
+    "geom:latitude":37.693944,
+    "geom:longitude":-97.448293,
+    "iso:country":"US",
+    "sg:address":"8807 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 383 4301",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:website":"www.emprisebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QutKvHJV7qrWtA2shuZrg_37.693944_-97.448293@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042793,
+    "wof:geomhash":"5a039fea00d276f08835b65af25bedbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840562549
+        }
+    ],
+    "wof:id":840562549,
+    "wof:lastmodified":1464042793,
+    "wof:name":"Emprise Bank",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.448293,
+    37.693944,
+    -97.448293,
+    37.693944
+],
+  "geometry": {"coordinates":[-97.44829300000001,37.693944],"type":"Point"}
+}

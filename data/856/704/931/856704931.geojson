@@ -1,0 +1,80 @@
+{
+  "id": 856704931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.708638,39.015451,-94.708638,39.015451",
+    "geom:latitude":39.015451,
+    "geom:longitude":-94.708638,
+    "iso:country":"US",
+    "sg:address":"10606 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/103038-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 962 8080",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hMAjQiwrQmwGGIxhL2JqF_39.015451_-94.708638@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052169,
+    "wof:geomhash":"06e5729cb009a0babf66843e8c0890a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":856704931
+        }
+    ],
+    "wof:id":856704931,
+    "wof:lastmodified":1464052169,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -94.708638,
+    39.015451,
+    -94.708638,
+    39.015451
+],
+  "geometry": {"coordinates":[-94.70863799999999,39.015451],"type":"Point"}
+}

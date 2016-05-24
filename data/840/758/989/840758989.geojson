@@ -1,0 +1,71 @@
+{
+  "id": 840758989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.170803,38.390398,-96.170803,38.390398",
+    "geom:latitude":38.390398,
+    "geom:longitude":-96.170803,
+    "iso:country":"US",
+    "sg:address":"719 E Logan Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1918",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vKN4GXbaiR3VBa7SjFviP_38.390398_-96.170803@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047309,
+    "wof:geomhash":"569cb154361c1a389c5f8f8c2f9db2ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840758989
+        }
+    ],
+    "wof:id":840758989,
+    "wof:lastmodified":1464047309,
+    "wof:name":"Sewage Treatment Plant",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -96.170803,
+    38.390398,
+    -96.170803,
+    38.390398
+],
+  "geometry": {"coordinates":[-96.17080300000001,38.390398],"type":"Point"}
+}

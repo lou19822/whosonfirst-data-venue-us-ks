@@ -1,0 +1,71 @@
+{
+  "id": 840618199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.105003,38.267016,-96.105003,38.267016",
+    "geom:latitude":38.267016,
+    "geom:longitude":-96.105003,
+    "iso:country":"US",
+    "sg:address":"1475 Rd 75",
+    "sg:city":"Olpe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 475 3777",
+    "sg:postcode":"66865",
+    "sg:province":"KS",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k48hJxiwYiI0KeToz3eUb_38.267016_-96.105003@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044126,
+    "wof:geomhash":"400ef1fa120a90ec6e7d8b9ae7335c91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840618199
+        }
+    ],
+    "wof:id":840618199,
+    "wof:lastmodified":1464044126,
+    "wof:name":"Trear's Machine Shop",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -96.105003,
+    38.267016,
+    -96.105003,
+    38.267016
+],
+  "geometry": {"coordinates":[-96.105003,38.267016],"type":"Point"}
+}

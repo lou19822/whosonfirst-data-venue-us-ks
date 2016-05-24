@@ -1,0 +1,75 @@
+{
+  "id": 840819549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.694312,39.044091,-95.694312,39.044091",
+    "geom:latitude":39.044091,
+    "geom:longitude":-95.694312,
+    "iso:country":"US",
+    "sg:address":"1221 SW Huntoon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 9582",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71AMr2Ow33h8f14LnxQOEi_39.044091_-95.694312@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048740,
+    "wof:geomhash":"b1e4675936a1616376989e8bf1b92859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840819549
+        }
+    ],
+    "wof:id":840819549,
+    "wof:lastmodified":1464048740,
+    "wof:name":"House Of Barbecue",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -95.694312,
+    39.044091,
+    -95.694312,
+    39.044091
+],
+  "geometry": {"coordinates":[-95.694312,39.044091],"type":"Point"}
+}

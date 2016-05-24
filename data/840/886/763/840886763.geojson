@@ -1,0 +1,75 @@
+{
+  "id": 840886763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.773774,39.010878,-95.773774,39.010878",
+    "geom:latitude":39.010878,
+    "geom:longitude":-95.773774,
+    "iso:country":"US",
+    "sg:address":"3220 SW Gainsboro Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 478 2121",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bO0HLVk7t0anGnMxOazgT_39.010878_-95.773774@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050215,
+    "wof:geomhash":"11a9636026c51c5e81157e1807e78db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840886763
+        }
+    ],
+    "wof:id":840886763,
+    "wof:lastmodified":1464050215,
+    "wof:name":"Topeka Home Veterinary Svc",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -95.773774,
+    39.010878,
+    -95.773774,
+    39.010878
+],
+  "geometry": {"coordinates":[-95.773774,39.010878],"type":"Point"}
+}

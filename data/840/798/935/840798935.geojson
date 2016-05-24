@@ -1,0 +1,73 @@
+{
+  "id": 840798935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.49345,37.676452,-97.49345,37.676452",
+    "geom:latitude":37.676452,
+    "geom:longitude":-97.49345,
+    "iso:country":"US",
+    "sg:address":"446 Limuel St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 5712",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bead",
+        "stringing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LAANIavccqEOw0DIC6dNT_37.676452_-97.493450@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048180,
+    "wof:geomhash":"2275bdaca2db23ac7845c3ac3da1975a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840798935
+        }
+    ],
+    "wof:id":840798935,
+    "wof:lastmodified":1464048180,
+    "wof:name":"Bead Tailor",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bead",
+        "stringing"
+    ]
+},
+  "bbox": [
+    -97.49345,
+    37.676452,
+    -97.49345,
+    37.676452
+],
+  "geometry": {"coordinates":[-97.49345,37.676452],"type":"Point"}
+}

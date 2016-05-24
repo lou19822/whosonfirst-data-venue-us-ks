@@ -1,0 +1,69 @@
+{
+  "id": 840595371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.696548,39.081233,-95.696548,39.081233",
+    "geom:latitude":39.081233,
+    "geom:longitude":-95.696548,
+    "iso:country":"US",
+    "sg:address":"2300 NW Lower Silver Lake Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 0363",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UtIu2NZOYCtU9JS89FFV3_39.081233_-95.696548@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043546,
+    "wof:geomhash":"36756f87c38bc8534be77a0f5d92b520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840595371
+        }
+    ],
+    "wof:id":840595371,
+    "wof:lastmodified":1464043546,
+    "wof:name":"Meier Market",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -95.696548,
+    39.081233,
+    -95.696548,
+    39.081233
+],
+  "geometry": {"coordinates":[-95.69654800000001,39.081233],"type":"Point"}
+}

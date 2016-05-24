@@ -1,0 +1,69 @@
+{
+  "id": 840690293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706272,39.097838,-95.706272,39.097838",
+    "geom:latitude":39.097838,
+    "geom:longitude":-95.706272,
+    "iso:country":"US",
+    "sg:address":"3035 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 4299",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l8jEgoLJTQQGWO3HnwXtS_39.097838_-95.706272@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045824,
+    "wof:geomhash":"419291e25f0b41f990e61d25f7cbc4a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840690293
+        }
+    ],
+    "wof:id":840690293,
+    "wof:lastmodified":1464045824,
+    "wof:name":"Clearwater Automotive",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -95.706272,
+    39.097838,
+    -95.706272,
+    39.097838
+],
+  "geometry": {"coordinates":[-95.706272,39.097838],"type":"Point"}
+}

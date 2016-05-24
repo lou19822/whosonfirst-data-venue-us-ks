@@ -1,0 +1,73 @@
+{
+  "id": 840795915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335283,37.641084,-97.335283,37.641084",
+    "geom:latitude":37.641084,
+    "geom:longitude":-97.335283,
+    "iso:country":"US",
+    "sg:address":"2805 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 554 9600",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zckX1zi3YGNAcylcqc3pm_37.641084_-97.335283@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048095,
+    "wof:geomhash":"b1993344d4848b14ddeb211164dfaefd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840795915
+        }
+    ],
+    "wof:id":840795915,
+    "wof:lastmodified":1464048095,
+    "wof:name":"Winfield Motor Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.335283,
+    37.641084,
+    -97.335283,
+    37.641084
+],
+  "geometry": {"coordinates":[-97.335283,37.641084],"type":"Point"}
+}

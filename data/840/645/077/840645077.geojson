@@ -1,0 +1,71 @@
+{
+  "id": 840645077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352696,37.663254,-97.352696,37.663254",
+    "geom:latitude":37.663254,
+    "geom:longitude":-97.352696,
+    "iso:country":"US",
+    "sg:address":"1728 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 2528",
+    "sg:postcode":"67213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lZKSS8BTeVFZ6Oxb5tXgK_37.663254_-97.352696@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044783,
+    "wof:geomhash":"d590cceaa94f85d20da7d8cd85cfa483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840645077
+        }
+    ],
+    "wof:id":840645077,
+    "wof:lastmodified":1464044783,
+    "wof:name":"Eckankar Center",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.352696,
+    37.663254,
+    -97.352696,
+    37.663254
+],
+  "geometry": {"coordinates":[-97.35269599999999,37.663254],"type":"Point"}
+}

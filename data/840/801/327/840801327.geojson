@@ -1,0 +1,73 @@
+{
+  "id": 840801327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363144,37.725907,-97.363144,37.725907",
+    "geom:latitude":37.725907,
+    "geom:longitude":-97.363144,
+    "iso:country":"US",
+    "sg:address":"2339 N Amidon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 9991",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cookie",
+        "cracker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NdTnVbhqYvzk5z5UfNdco_37.725907_-97.363144@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048229,
+    "wof:geomhash":"9320ca13249ef25d89fa62a9adc58268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840801327
+        }
+    ],
+    "wof:id":840801327,
+    "wof:lastmodified":1464048229,
+    "wof:name":"Connie's Cookies",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookie",
+        "cracker"
+    ]
+},
+  "bbox": [
+    -97.363144,
+    37.725907,
+    -97.363144,
+    37.725907
+],
+  "geometry": {"coordinates":[-97.36314400000001,37.725907],"type":"Point"}
+}

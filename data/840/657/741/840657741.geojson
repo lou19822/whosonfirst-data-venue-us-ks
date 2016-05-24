@@ -1,0 +1,71 @@
+{
+  "id": 840657741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.19711,38.405105,-96.19711,38.405105",
+    "geom:latitude":38.405105,
+    "geom:longitude":-96.19711,
+    "iso:country":"US",
+    "sg:address":"1328 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4338",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ujRxMOe3ZxmUhn7tHsNph_38.405105_-96.197110@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045061,
+    "wof:geomhash":"a85ba3ddcf1868d70c854e43a1ab73b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840657741
+        }
+    ],
+    "wof:id":840657741,
+    "wof:lastmodified":1464045061,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -96.19711,
+    38.405105,
+    -96.19711,
+    38.405105
+],
+  "geometry": {"coordinates":[-96.19711,38.405105],"type":"Point"}
+}

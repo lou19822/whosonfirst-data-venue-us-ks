@@ -1,0 +1,71 @@
+{
+  "id": 840901643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.178763,38.40476,-96.178763,38.40476",
+    "geom:latitude":38.40476,
+    "geom:longitude":-96.178763,
+    "iso:country":"US",
+    "sg:address":"518 Mechanic St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1766",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27m0W23tvw6o1G3TucvW5M_38.404760_-96.178763@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050533,
+    "wof:geomhash":"499e4c5029036d4209d8996c512c9024",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840901643
+        }
+    ],
+    "wof:id":840901643,
+    "wof:lastmodified":1464050533,
+    "wof:name":"Emporia Police Dept",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -96.178763,
+    38.40476,
+    -96.178763,
+    38.40476
+],
+  "geometry": {"coordinates":[-96.178763,38.40476],"type":"Point"}
+}

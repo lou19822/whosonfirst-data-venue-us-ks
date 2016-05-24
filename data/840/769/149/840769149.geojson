@@ -1,0 +1,73 @@
+{
+  "id": 840769149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.334264,37.649643,-97.334264,37.649643",
+    "geom:latitude":37.649643,
+    "geom:longitude":-97.334264,
+    "iso:country":"US",
+    "sg:address":"303 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 5169",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vw4AHilmMqivn932O38Mk_37.649643_-97.334264@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047554,
+    "wof:geomhash":"27f51a76ee0bce9c9aa0223449046e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840769149
+        }
+    ],
+    "wof:id":840769149,
+    "wof:lastmodified":1464047554,
+    "wof:name":"Affordable Auto Svc Ctr",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.334264,
+    37.649643,
+    -97.334264,
+    37.649643
+],
+  "geometry": {"coordinates":[-97.334264,37.649643],"type":"Point"}
+}

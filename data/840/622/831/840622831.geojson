@@ -1,0 +1,73 @@
+{
+  "id": 840622831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700456,37.408025,-94.700456,37.408025",
+    "geom:latitude":37.408025,
+    "geom:longitude":-94.700456,
+    "iso:country":"US",
+    "sg:address":"106 S Joplin St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 8245",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uw38zo2RsPTsTWyzeIJgm_37.408025_-94.700456@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044237,
+    "wof:geomhash":"89ec511da2dd7a9dbcba58d9de17983c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840622831
+        }
+    ],
+    "wof:id":840622831,
+    "wof:lastmodified":1464044237,
+    "wof:name":"Great Trains",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.700456,
+    37.408025,
+    -94.700456,
+    37.408025
+],
+  "geometry": {"coordinates":[-94.700456,37.408025],"type":"Point"}
+}

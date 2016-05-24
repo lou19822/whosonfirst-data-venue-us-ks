@@ -1,0 +1,74 @@
+{
+  "id": 856708361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.372943,37.70834,-97.372943,37.70834",
+    "geom:latitude":37.70834,
+    "geom:longitude":-97.372943,
+    "iso:country":"US",
+    "sg:address":"2615 W 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/186742-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 8032",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Dzrc1mwV3w1VyDYPDdsp_37.708340_-97.372943@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052235,
+    "wof:geomhash":"7e9d4dede0c088483e3fa1cf05e9f2cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":856708361
+        }
+    ],
+    "wof:id":856708361,
+    "wof:lastmodified":1464052235,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.372943,
+    37.70834,
+    -97.372943,
+    37.70834
+],
+  "geometry": {"coordinates":[-97.37294300000001,37.70834],"type":"Point"}
+}

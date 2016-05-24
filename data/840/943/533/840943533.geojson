@@ -1,0 +1,71 @@
+{
+  "id": 840943533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.973018,37.67718,-96.973018,37.67718",
+    "geom:latitude":37.67718,
+    "geom:longitude":-96.973018,
+    "iso:country":"US",
+    "sg:address":"610 Grove St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 4500",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wz1vIm5WKIBTVnqhixHRk_37.677180_-96.973018@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051525,
+    "wof:geomhash":"c303deac702d82e6a10a4682a34adef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840943533
+        }
+    ],
+    "wof:id":840943533,
+    "wof:lastmodified":1464051525,
+    "wof:name":"Augusta Police Dept",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -96.973018,
+    37.67718,
+    -96.973018,
+    37.67718
+],
+  "geometry": {"coordinates":[-96.973018,37.67718],"type":"Point"}
+}

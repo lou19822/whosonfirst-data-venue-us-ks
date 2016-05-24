@@ -1,0 +1,74 @@
+{
+  "id": 856712231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.316659,37.650571,-97.316659,37.650571",
+    "geom:latitude":37.650571,
+    "geom:longitude":-97.316659,
+    "iso:country":"US",
+    "sg:address":"1708 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/65922-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 4361",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hyRWFBuC9fOqGIQa1HsTG_37.649947_-97.316481@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052310,
+    "wof:geomhash":"5aa17321a6d414e710bf47619805563d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":856712231
+        }
+    ],
+    "wof:id":856712231,
+    "wof:lastmodified":1464052310,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -97.316659,
+    37.650571,
+    -97.316659,
+    37.650571
+],
+  "geometry": {"coordinates":[-97.316659,37.650571],"type":"Point"}
+}

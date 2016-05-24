@@ -1,0 +1,71 @@
+{
+  "id": 840580643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95767,38.310321,-95.95767,38.310321",
+    "geom:latitude":38.310321,
+    "geom:longitude":-95.95767,
+    "iso:country":"US",
+    "sg:address":"121 Commercial St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 392 5688",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zzgbjofa5fLWdjF8i3HuA_38.310321_-95.957670@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043221,
+    "wof:geomhash":"0481c03d3cc59a371148f842488850b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840580643
+        }
+    ],
+    "wof:id":840580643,
+    "wof:lastmodified":1464043221,
+    "wof:name":"Hartford Fire Dept",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.95767,
+    38.310321,
+    -95.95767,
+    38.310321
+],
+  "geometry": {"coordinates":[-95.95766999999999,38.310321],"type":"Point"}
+}

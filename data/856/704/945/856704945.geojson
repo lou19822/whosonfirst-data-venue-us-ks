@@ -1,0 +1,80 @@
+{
+  "id": 856704945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.721376,39.015155,-94.721376,39.015155",
+    "geom:latitude":39.015155,
+    "geom:longitude":-94.721376,
+    "iso:country":"US",
+    "sg:address":"11600 Shawnee Mission Pkwy",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/152722-boston-market/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 1704",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tyElRxu3Dbg2dig8uqgxH_39.015155_-94.721376@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052169,
+    "wof:geomhash":"4ca29bbe165266cbac346a8e3d8303a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":856704945
+        }
+    ],
+    "wof:id":856704945,
+    "wof:lastmodified":1464052169,
+    "wof:name":"Boston Market",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.721376,
+    39.015155,
+    -94.721376,
+    39.015155
+],
+  "geometry": {"coordinates":[-94.72137600000001,39.015155],"type":"Point"}
+}

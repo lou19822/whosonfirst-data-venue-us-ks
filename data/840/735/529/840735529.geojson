@@ -1,0 +1,73 @@
+{
+  "id": 840735529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180221,38.40595,-96.180221,38.40595",
+    "geom:latitude":38.40595,
+    "geom:longitude":-96.180221,
+    "iso:country":"US",
+    "sg:address":"621 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3398",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mtEtj2S0VKZu9OtgLlHv3_38.405950_-96.180221@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046810,
+    "wof:geomhash":"38ac99ee1d9e62597af54c2c98ee1d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840735529
+        }
+    ],
+    "wof:id":840735529,
+    "wof:lastmodified":1464046810,
+    "wof:name":"L & L Pets",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.180221,
+    38.40595,
+    -96.180221,
+    38.40595
+],
+  "geometry": {"coordinates":[-96.180221,38.40595],"type":"Point"}
+}

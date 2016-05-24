@@ -1,0 +1,66 @@
+{
+  "id": 840655135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.31705,37.642872,-97.31705,37.642872",
+    "geom:latitude":37.642872,
+    "geom:longitude":-97.31705,
+    "iso:country":"US",
+    "sg:address":"2736 S Hydraulic St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 0700",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79PYyukYh0RLeuFFQPhgMg_37.642872_-97.317050@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045007,
+    "wof:geomhash":"9734d1447fe6afa89a30882f2dba4f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840655135
+        }
+    ],
+    "wof:id":840655135,
+    "wof:lastmodified":1464045007,
+    "wof:name":"Louie's Discount Liquor",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.31705,
+    37.642872,
+    -97.31705,
+    37.642872
+],
+  "geometry": {"coordinates":[-97.31704999999999,37.642872],"type":"Point"}
+}

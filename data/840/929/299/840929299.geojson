@@ -1,0 +1,73 @@
+{
+  "id": 840929299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.703348,37.41201,-94.703348,37.41201",
+    "geom:latitude":37.41201,
+    "geom:longitude":-94.703348,
+    "iso:country":"US",
+    "sg:address":"409 N Locust St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 2321",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "salon",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62YaP178Z287BoXmIfF8Yl_37.412010_-94.703348@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051234,
+    "wof:geomhash":"7c2ef761c2d5f81910c0591656a831b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840929299
+        }
+    ],
+    "wof:id":840929299,
+    "wof:lastmodified":1464051234,
+    "wof:name":"Peel's Salon Svc Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -94.703348,
+    37.41201,
+    -94.703348,
+    37.41201
+],
+  "geometry": {"coordinates":[-94.70334800000001,37.41201],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840807311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.714376,38.995018,-94.714376,38.995018",
+    "geom:latitude":38.995018,
+    "geom:longitude":-94.714376,
+    "iso:country":"US",
+    "sg:address":"7441 Nieman Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 3661",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F1yzgKonkO7LdNnQCVkXN_38.995018_-94.714376@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048346,
+    "wof:geomhash":"0db67926257ae7828d36d695be498e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":840807311
+        }
+    ],
+    "wof:id":840807311,
+    "wof:lastmodified":1464048346,
+    "wof:name":"VIP Car Wash",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.714376,
+    38.995018,
+    -94.714376,
+    38.995018
+],
+  "geometry": {"coordinates":[-94.714376,38.995018],"type":"Point"}
+}

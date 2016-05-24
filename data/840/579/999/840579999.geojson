@@ -1,0 +1,71 @@
+{
+  "id": 840579999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687867,38.974649,-95.687867,38.974649",
+    "geom:latitude":38.974649,
+    "geom:longitude":-95.687867,
+    "iso:country":"US",
+    "sg:address":"5245 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 4850",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XHdjAnSm4TodBAUfM3DMP_38.974649_-95.687867@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043207,
+    "wof:geomhash":"09cf6dd86fb9cbb1058cba26e3fdec57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840579999
+        }
+    ],
+    "wof:id":840579999,
+    "wof:lastmodified":1464043207,
+    "wof:name":"Jim's Trailers Sales",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -95.687867,
+    38.974649,
+    -95.687867,
+    38.974649
+],
+  "geometry": {"coordinates":[-95.687867,38.974649],"type":"Point"}
+}

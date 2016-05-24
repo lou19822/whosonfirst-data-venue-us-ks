@@ -1,0 +1,71 @@
+{
+  "id": 840928913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.62925,39.015167,-95.62925,39.015167",
+    "geom:latitude":39.015167,
+    "geom:longitude":-95.62925,
+    "iso:country":"US",
+    "sg:address":"3137 SE 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 1156",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X2JUKUBwP8O9ZZ7yk2TvJ_39.015167_-95.629250@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051224,
+    "wof:geomhash":"18090657c62ddd9721d2b6e3312d338c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840928913
+        }
+    ],
+    "wof:id":840928913,
+    "wof:lastmodified":1464051224,
+    "wof:name":"Shawnee County Parks & Rec",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -95.62925,
+    39.015167,
+    -95.62925,
+    39.015167
+],
+  "geometry": {"coordinates":[-95.62925,39.015167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840540889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.452715,37.714252,-97.452715,37.714252",
+    "geom:latitude":37.714252,
+    "geom:longitude":-97.452715,
+    "iso:country":"US",
+    "sg:address":"9412 W 16th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 641 8390",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pjwmewo6qMoUgSnQiKjZU_37.714252_-97.452715@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042246,
+    "wof:geomhash":"b5b768f70482c9189a1bca5be8322532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840540889
+        }
+    ],
+    "wof:id":840540889,
+    "wof:lastmodified":1464042246,
+    "wof:name":"Kent De Thample Painting",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -97.452715,
+    37.714252,
+    -97.452715,
+    37.714252
+],
+  "geometry": {"coordinates":[-97.452715,37.714252],"type":"Point"}
+}

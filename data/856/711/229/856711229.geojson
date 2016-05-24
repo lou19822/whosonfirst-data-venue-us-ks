@@ -1,0 +1,81 @@
+{
+  "id": 856711229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.632187,39.000537,-94.632187,39.000537",
+    "geom:latitude":39.000537,
+    "geom:longitude":-94.632187,
+    "iso:country":"US",
+    "sg:address":"4160 W 71st St",
+    "sg:city":"Prairie Village",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/prairie-village/9913-the-blue-moose-bar--grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 722 9463",
+    "sg:postcode":"66208",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879583,
+        102191575,
+        404504399,
+        85633793,
+        85945757,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j5maxTeJ7o2AyVry7nJx8_39.000592_-94.631937@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052290,
+    "wof:geomhash":"7979a3ce2576c5c983c52af4dcc0329d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504399,
+            "locality_id":85945757,
+            "neighbourhood_id":85879583,
+            "region_id":85688555,
+            "venue_id":856711229
+        }
+    ],
+    "wof:id":856711229,
+    "wof:lastmodified":1464052290,
+    "wof:name":"The Blue Moose Bar & Grill",
+    "wof:parent_id":85879583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.632187,
+    39.000537,
+    -94.632187,
+    39.000537
+],
+  "geometry": {"coordinates":[-94.632187,39.000537],"type":"Point"}
+}

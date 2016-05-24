@@ -1,0 +1,75 @@
+{
+  "id": 840784809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.760606,39.133165,-94.760606,39.133165",
+    "geom:latitude":39.133165,
+    "geom:longitude":-94.760606,
+    "iso:country":"US",
+    "sg:address":"7837 Haskell Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 2956",
+    "sg:postcode":"66109",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_353Lrrq3puRL5DMOZHelMw_39.133165_-94.760606@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047853,
+    "wof:geomhash":"7e687173532da0ba67b7e62b7f258841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840784809
+        }
+    ],
+    "wof:id":840784809,
+    "wof:lastmodified":1464047853,
+    "wof:name":"John O Elliston DVM",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.760606,
+    39.133165,
+    -94.760606,
+    39.133165
+],
+  "geometry": {"coordinates":[-94.760606,39.133165],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840684857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.716965,38.883765,-94.716965,38.883765",
+    "geom:latitude":38.883765,
+    "geom:longitude":-94.716965,
+    "iso:country":"US",
+    "sg:address":"11340 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 851 9934",
+    "sg:postcode":"66221",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "sg:website":"www.vioc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45Mrb6ZQTkPFbrTQl9brnD_38.883765_-94.716965@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045683,
+    "wof:geomhash":"68260dd4a95ace9bea96234036fa82b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840684857
+        }
+    ],
+    "wof:id":840684857,
+    "wof:lastmodified":1464045683,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -94.716965,
+    38.883765,
+    -94.716965,
+    38.883765
+],
+  "geometry": {"coordinates":[-94.716965,38.883765],"type":"Point"}
+}

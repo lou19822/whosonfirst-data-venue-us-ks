@@ -1,0 +1,75 @@
+{
+  "id": 840933833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.206574,38.429602,-96.206574,38.429602",
+    "geom:latitude":38.429602,
+    "geom:longitude":-96.206574,
+    "iso:country":"US",
+    "sg:address":"2525 Monterey Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 6696",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NCr7EWrn946HAy1WxPtVr_38.429602_-96.206574@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051322,
+    "wof:geomhash":"166e48265e663f4f3ffb7c4a80e86a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840933833
+        }
+    ],
+    "wof:id":840933833,
+    "wof:lastmodified":1464051322,
+    "wof:name":"Robinson's Parking Lot Mntnc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -96.206574,
+    38.429602,
+    -96.206574,
+    38.429602
+],
+  "geometry": {"coordinates":[-96.206574,38.429602],"type":"Point"}
+}

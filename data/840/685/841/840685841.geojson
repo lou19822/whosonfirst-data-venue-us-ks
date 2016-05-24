@@ -1,0 +1,71 @@
+{
+  "id": 840685841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.895329,38.052666,-96.895329,38.052666",
+    "geom:latitude":38.052666,
+    "geom:longitude":-96.895329,
+    "iso:country":"US",
+    "sg:address":"15724 NW Boyer Rd",
+    "sg:city":"Burns",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 726 5678",
+    "sg:postcode":"66840",
+    "sg:province":"KS",
+    "sg:tags":[
+        "maker",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z9hoxHwTuI8H20shlriwj_38.052666_-96.895329@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045703,
+    "wof:geomhash":"0a2c99992f422e9f05e7a0a093bc7478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840685841
+        }
+    ],
+    "wof:id":840685841,
+    "wof:lastmodified":1464045703,
+    "wof:name":"Cabinets & More",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maker",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -96.895329,
+    38.052666,
+    -96.895329,
+    38.052666
+],
+  "geometry": {"coordinates":[-96.895329,38.052666],"type":"Point"}
+}

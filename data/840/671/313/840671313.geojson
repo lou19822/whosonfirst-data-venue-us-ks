@@ -1,0 +1,71 @@
+{
+  "id": 840671313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.107843,37.794446,-97.107843,37.794446",
+    "geom:latitude":37.794446,
+    "geom:longitude":-97.107843,
+    "iso:country":"US",
+    "sg:address":"700 N Main St",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 778 1631",
+    "sg:postcode":"67017",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62kWKfMIvrP7FBO9x6lhN6_37.794446_-97.107843@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045342,
+    "wof:geomhash":"700e046c6a9b4a0402df008cd3875526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840671313
+        }
+    ],
+    "wof:id":840671313,
+    "wof:lastmodified":1464045342,
+    "wof:name":"Rural Water District",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -97.107843,
+    37.794446,
+    -97.107843,
+    37.794446
+],
+  "geometry": {"coordinates":[-97.107843,37.794446],"type":"Point"}
+}

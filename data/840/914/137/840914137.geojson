@@ -1,0 +1,75 @@
+{
+  "id": 840914137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.644893,39.044378,-95.644893,39.044378",
+    "geom:latitude":39.044378,
+    "geom:longitude":-95.644893,
+    "iso:country":"US",
+    "sg:address":"2502 SE 6th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 9953",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zubRBrwzoTUzkSCVojIAe_39.044378_-95.644893@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050853,
+    "wof:geomhash":"9e1b67855709cac1679e70bb6790917c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840914137
+        }
+    ],
+    "wof:id":840914137,
+    "wof:lastmodified":1464050853,
+    "wof:name":"Bruce Johnson's Body Shop",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.644893,
+    39.044378,
+    -95.644893,
+    39.044378
+],
+  "geometry": {"coordinates":[-95.644893,39.044378],"type":"Point"}
+}

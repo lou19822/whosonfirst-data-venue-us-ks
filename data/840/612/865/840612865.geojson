@@ -1,0 +1,81 @@
+{
+  "id": 840612865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.637468,39.066079,-95.637468,39.066079",
+    "geom:latitude":39.066079,
+    "geom:longitude":-95.637468,
+    "iso:country":"US",
+    "sg:address":"2609 NE Sardou Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 8273",
+    "sg:postcode":"66616",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838959,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wZ9bF0yptRZoBbbGgdoYy_39.066079_-95.637468@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043994,
+    "wof:geomhash":"422201b22094236e9630100ee6d70b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85838959,
+            "region_id":85688555,
+            "venue_id":840612865
+        }
+    ],
+    "wof:id":840612865,
+    "wof:lastmodified":1464043994,
+    "wof:name":"Oakland Video",
+    "wof:parent_id":85838959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.637468,
+    39.066079,
+    -95.637468,
+    39.066079
+],
+  "geometry": {"coordinates":[-95.637468,39.066079],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840951231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.26342,38.267448,-96.26342,38.267448",
+    "geom:latitude":38.267448,
+    "geom:longitude":-96.26342,
+    "iso:country":"US",
+    "sg:address":"756 Rd F",
+    "sg:city":"Olpe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 475 3910",
+    "sg:postcode":"66865",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FTRyGYdZdPqoDIAKujblq_38.267448_-96.263420@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051675,
+    "wof:geomhash":"8904779036d8fab8440d1c8980502f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840951231
+        }
+    ],
+    "wof:id":840951231,
+    "wof:lastmodified":1464051675,
+    "wof:name":"Kiyote Custom LLC",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -96.26342,
+    38.267448,
+    -96.26342,
+    38.267448
+],
+  "geometry": {"coordinates":[-96.26342,38.267448],"type":"Point"}
+}

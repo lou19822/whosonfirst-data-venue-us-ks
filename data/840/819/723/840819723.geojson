@@ -1,0 +1,74 @@
+{
+  "id": 840819723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704806,37.428103,-94.704806,37.428103",
+    "geom:latitude":37.428103,
+    "geom:longitude":-94.704806,
+    "iso:country":"US",
+    "sg:address":"2210 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0494",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pDbbEJE9xAiElhPyQqCyy_37.428103_-94.704806@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048750,
+    "wof:geomhash":"c5aee20365859e7c5da2bc29f9da1b62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840819723
+        }
+    ],
+    "wof:id":840819723,
+    "wof:lastmodified":1464048750,
+    "wof:name":"Autozone",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -94.704806,
+    37.428103,
+    -94.704806,
+    37.428103
+],
+  "geometry": {"coordinates":[-94.704806,37.428103],"type":"Point"}
+}

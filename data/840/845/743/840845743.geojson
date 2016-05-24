@@ -1,0 +1,77 @@
+{
+  "id": 840845743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.636971,39.056686,-94.636971,39.056686",
+    "geom:latitude":39.056686,
+    "geom:longitude":-94.636971,
+    "iso:country":"US",
+    "sg:address":"1017 Merriam Ln",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 722 1900",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866785,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A8eKNjK1IqaYSX3j3etVC_39.056686_-94.636971@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049345,
+    "wof:geomhash":"fc067ff766b7475ed38d8c6e3a4ca1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85866785,
+            "region_id":85688555,
+            "venue_id":840845743
+        }
+    ],
+    "wof:id":840845743,
+    "wof:lastmodified":1464049345,
+    "wof:name":"Yorkie's Foreign Car Svc",
+    "wof:parent_id":85866785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.636971,
+    39.056686,
+    -94.636971,
+    39.056686
+],
+  "geometry": {"coordinates":[-94.636971,39.056686],"type":"Point"}
+}

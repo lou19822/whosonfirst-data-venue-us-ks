@@ -1,0 +1,66 @@
+{
+  "id": 840879815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686653,37.410945,-94.686653,37.410945",
+    "geom:latitude":37.410945,
+    "geom:longitude":-94.686653,
+    "iso:country":"US",
+    "sg:address":"1101 E 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 3457",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mhZXL8NlifzyuXJOmPeRQ_37.410945_-94.686653@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050072,
+    "wof:geomhash":"bcecfef3bad978c5672ad60e5dfd42b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840879815
+        }
+    ],
+    "wof:id":840879815,
+    "wof:lastmodified":1464050072,
+    "wof:name":"Snak-Atak",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.686653,
+    37.410945,
+    -94.686653,
+    37.410945
+],
+  "geometry": {"coordinates":[-94.68665300000001,37.410945],"type":"Point"}
+}

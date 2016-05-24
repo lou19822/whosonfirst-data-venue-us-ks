@@ -1,0 +1,71 @@
+{
+  "id": 840548549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045345,37.702716,-97.045345,37.702716",
+    "geom:latitude":37.702716,
+    "geom:longitude":-97.045345,
+    "iso:country":"US",
+    "sg:address":"8548 SW Parish Place Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 2070",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fjjw29FFZAfVQShI2gHZR_37.702716_-97.045345@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042477,
+    "wof:geomhash":"307146a0fc51346f78a1ad56e6cc0bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840548549
+        }
+    ],
+    "wof:id":840548549,
+    "wof:lastmodified":1464042477,
+    "wof:name":"Groundskeepers Landscape/Lawn",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.045345,
+    37.702716,
+    -97.045345,
+    37.702716
+],
+  "geometry": {"coordinates":[-97.045345,37.702716],"type":"Point"}
+}

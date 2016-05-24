@@ -1,0 +1,73 @@
+{
+  "id": 840723349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363141,37.726497,-97.363141,37.726497",
+    "geom:latitude":37.726497,
+    "geom:longitude":-97.363141,
+    "iso:country":"US",
+    "sg:address":"2313 N Amidon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 8316",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pmg8kt8SLJmx8Y0Ojd00e_37.726497_-97.363141@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046578,
+    "wof:geomhash":"eb2a4777109318352aca27a1a0e0f5fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840723349
+        }
+    ],
+    "wof:id":840723349,
+    "wof:lastmodified":1464046578,
+    "wof:name":"J Smith Shoe Shop",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -97.363141,
+    37.726497,
+    -97.363141,
+    37.726497
+],
+  "geometry": {"coordinates":[-97.363141,37.726497],"type":"Point"}
+}

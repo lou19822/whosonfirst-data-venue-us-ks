@@ -1,0 +1,73 @@
+{
+  "id": 840549053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.420299,37.742044,-97.420299,37.742044",
+    "geom:latitude":37.742044,
+    "geom:longitude":-97.420299,
+    "iso:country":"US",
+    "sg:address":"3208 N Ridge Port Ct",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 5600",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kQsB2RxATOj9oY4JkMmUR_37.742044_-97.420299@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042488,
+    "wof:geomhash":"e827d44d15b63bab158f27fa55474129",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840549053
+        }
+    ],
+    "wof:id":840549053,
+    "wof:lastmodified":1464042488,
+    "wof:name":"Joe Mathews Construction",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.420299,
+    37.742044,
+    -97.420299,
+    37.742044
+],
+  "geometry": {"coordinates":[-97.420299,37.742044],"type":"Point"}
+}

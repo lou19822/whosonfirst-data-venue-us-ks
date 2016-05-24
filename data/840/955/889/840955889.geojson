@@ -1,0 +1,69 @@
+{
+  "id": 840955889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.021293,37.938427,-97.021293,37.938427",
+    "geom:latitude":37.938427,
+    "geom:longitude":-97.021293,
+    "iso:country":"US",
+    "sg:address":"118 Marshall Ave",
+    "sg:city":"Potwin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 752 3150",
+    "sg:postcode":"67123",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NkSNPGHAPNCz32NC4s1AQ_37.938427_-97.021293@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051759,
+    "wof:geomhash":"409c941788bcd7d645e6935681dca618",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840955889
+        }
+    ],
+    "wof:id":840955889,
+    "wof:lastmodified":1464051759,
+    "wof:name":"Cooke's 24 Hour Towing",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -97.021293,
+    37.938427,
+    -97.021293,
+    37.938427
+],
+  "geometry": {"coordinates":[-97.021293,37.938427],"type":"Point"}
+}

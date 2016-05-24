@@ -1,0 +1,79 @@
+{
+  "id": 840607673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.331574,37.703609,-97.331574,37.703609",
+    "geom:latitude":37.703609,
+    "geom:longitude":-97.331574,
+    "iso:country":"US",
+    "sg:address":"1144 N Saint Francis St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 0159",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "clinic",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872827,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33fWEkRS98etBDIUN7VgSo_37.703609_-97.331574@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043856,
+    "wof:geomhash":"f3172a26d3094144d07ca6dc386309f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872827,
+            "region_id":85688555,
+            "venue_id":840607673
+        }
+    ],
+    "wof:id":840607673,
+    "wof:lastmodified":1464043856,
+    "wof:name":"Kansas Cardiac Clinic",
+    "wof:parent_id":85872827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "clinic",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -97.331574,
+    37.703609,
+    -97.331574,
+    37.703609
+],
+  "geometry": {"coordinates":[-97.331574,37.703609],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840709457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.783886,38.904505,-94.783886,38.904505",
+    "geom:latitude":38.904505,
+    "geom:longitude":-94.783886,
+    "iso:country":"US",
+    "sg:address":"2101 E Kansas City Rd",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 715 6800",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "county"
+    ],
+    "sg:website":"www.jocoelection.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SeZwqOEyyKSSauG6Z9HnF_38.904505_-94.783886@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046291,
+    "wof:geomhash":"0b489a63a51d7b42b12322ed2cace0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840709457
+        }
+    ],
+    "wof:id":840709457,
+    "wof:lastmodified":1464046291,
+    "wof:name":"Johnson County Election Cmmssn",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -94.783886,
+    38.904505,
+    -94.783886,
+    38.904505
+],
+  "geometry": {"coordinates":[-94.783886,38.904505],"type":"Point"}
+}

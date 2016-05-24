@@ -1,0 +1,71 @@
+{
+  "id": 840617571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.740376,37.023943,-94.740376,37.023943",
+    "geom:latitude":37.023943,
+    "geom:longitude":-94.740376,
+    "iso:country":"US",
+    "sg:address":"416 W 12th St",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 3990",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67Oo8fQKtLwCcvfjIzxMPT_37.023943_-94.740376@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044110,
+    "wof:geomhash":"6b454a4a4c6dbc4364b01fc780b1a76c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840617571
+        }
+    ],
+    "wof:id":840617571,
+    "wof:lastmodified":1464044110,
+    "wof:name":"Lyle's Foodtown",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.740376,
+    37.023943,
+    -94.740376,
+    37.023943
+],
+  "geometry": {"coordinates":[-94.740376,37.023943],"type":"Point"}
+}

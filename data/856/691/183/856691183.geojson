@@ -1,0 +1,66 @@
+{
+  "id": 856691183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.660977,39.090959,-95.660977,39.090959",
+    "geom:latitude":39.090959,
+    "geom:longitude":-95.660977,
+    "iso:country":"US",
+    "sg:address":"101 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 2063",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zLmPFEmuM84eGzrrjKyc1_39.090959_-95.660977@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051892,
+    "wof:geomhash":"1f02e38672b4325bffa201800a1d837b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":856691183
+        }
+    ],
+    "wof:id":856691183,
+    "wof:lastmodified":1464051892,
+    "wof:name":"Wood Oil Co Store",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.660977,
+    39.090959,
+    -95.660977,
+    39.090959
+],
+  "geometry": {"coordinates":[-95.660977,39.090959],"type":"Point"}
+}

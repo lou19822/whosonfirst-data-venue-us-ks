@@ -1,0 +1,73 @@
+{
+  "id": 840920389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.645214,39.003172,-95.645214,39.003172",
+    "geom:latitude":39.003172,
+    "geom:longitude":-95.645214,
+    "iso:country":"US",
+    "sg:address":"2215 SE 35th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 1592",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UpUswvvSgDhdHk6Mm3BzT_39.003172_-95.645214@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050999,
+    "wof:geomhash":"f079ffbfcb5841722c0b5f70340e4264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840920389
+        }
+    ],
+    "wof:id":840920389,
+    "wof:lastmodified":1464050999,
+    "wof:name":"On Target Training Consulting",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -95.645214,
+    39.003172,
+    -95.645214,
+    39.003172
+],
+  "geometry": {"coordinates":[-95.645214,39.003172],"type":"Point"}
+}

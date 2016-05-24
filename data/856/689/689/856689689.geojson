@@ -1,0 +1,73 @@
+{
+  "id": 856689689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.488951,37.672358,-97.488951,37.672358",
+    "geom:latitude":37.672358,
+    "geom:longitude":-97.488951,
+    "iso:country":"US",
+    "sg:address":"618 S Wheatland Cir",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 9100",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "industry",
+        "aerospace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28LlVyEPywsSSgyRZzKNEd_37.672358_-97.488951@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051861,
+    "wof:geomhash":"3e29ab9c41091f730bf674161a97df22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":856689689
+        }
+    ],
+    "wof:id":856689689,
+    "wof:lastmodified":1464051861,
+    "wof:name":"SMITH Aerospace",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "aerospace"
+    ]
+},
+  "bbox": [
+    -97.488951,
+    37.672358,
+    -97.488951,
+    37.672358
+],
+  "geometry": {"coordinates":[-97.488951,37.672358],"type":"Point"}
+}

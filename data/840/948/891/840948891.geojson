@@ -1,0 +1,71 @@
+{
+  "id": 840948891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.479303,37.693592,-97.479303,37.693592",
+    "geom:latitude":37.693592,
+    "geom:longitude":-97.479303,
+    "iso:country":"US",
+    "sg:address":"11940 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 6730",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cpkm3Ibz9gwcaa7z1fb5M_37.693592_-97.479303@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051625,
+    "wof:geomhash":"da546084be2571552f924b1fd9d0718d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840948891
+        }
+    ],
+    "wof:id":840948891,
+    "wof:lastmodified":1464051625,
+    "wof:name":"Nordhus Family Dentistry",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -97.479303,
+    37.693592,
+    -97.479303,
+    37.693592
+],
+  "geometry": {"coordinates":[-97.479303,37.693592],"type":"Point"}
+}

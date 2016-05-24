@@ -1,0 +1,71 @@
+{
+  "id": 840930455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.700141,37.437431,-94.700141,37.437431",
+    "geom:latitude":37.437431,
+    "geom:longitude":-94.700141,
+    "iso:country":"US",
+    "sg:address":"3000 N Joplin St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 5544",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ihRmLL27rrkEzNgyOD4dE_37.437431_-94.700141@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051259,
+    "wof:geomhash":"9a5386b9c42786d1cf2c0e741ae380fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840930455
+        }
+    ],
+    "wof:id":840930455,
+    "wof:lastmodified":1464051259,
+    "wof:name":"Leppo Nursery",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -94.700141,
+    37.437431,
+    -94.700141,
+    37.437431
+],
+  "geometry": {"coordinates":[-94.700141,37.437431],"type":"Point"}
+}

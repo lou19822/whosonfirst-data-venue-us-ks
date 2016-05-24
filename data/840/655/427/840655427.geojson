@@ -1,0 +1,71 @@
+{
+  "id": 840655427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.790895,38.842571,-94.790895,38.842571",
+    "geom:latitude":38.842571,
+    "geom:longitude":-94.790895,
+    "iso:country":"US",
+    "sg:address":"17541 W 158th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 393 1986",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60ecf0x4lMGQSeW0hYhJwU_38.842571_-94.790895@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045011,
+    "wof:geomhash":"6e3b5c3a6a378fa59fe6c8fa89a72a6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840655427
+        }
+    ],
+    "wof:id":840655427,
+    "wof:lastmodified":1464045011,
+    "wof:name":"Van Vending",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -94.790895,
+    38.842571,
+    -94.790895,
+    38.842571
+],
+  "geometry": {"coordinates":[-94.79089500000001,38.842571],"type":"Point"}
+}

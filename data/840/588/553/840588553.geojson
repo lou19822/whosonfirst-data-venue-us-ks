@@ -1,0 +1,71 @@
+{
+  "id": 840588553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.442644,37.722978,-97.442644,37.722978",
+    "geom:latitude":37.722978,
+    "geom:longitude":-97.442644,
+    "iso:country":"US",
+    "sg:address":"8615 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 0100",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cAO2YifXUflD0j8qgrY42_37.722978_-97.442644@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043392,
+    "wof:geomhash":"a9d0610e80cb59e4572527938a01a8eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840588553
+        }
+    ],
+    "wof:id":840588553,
+    "wof:lastmodified":1464043392,
+    "wof:name":"West Wichita Pet Clinic",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -97.442644,
+    37.722978,
+    -97.442644,
+    37.722978
+],
+  "geometry": {"coordinates":[-97.442644,37.722978],"type":"Point"}
+}

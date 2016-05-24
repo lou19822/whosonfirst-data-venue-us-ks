@@ -1,0 +1,75 @@
+{
+  "id": 840834633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.727965,39.022371,-94.727965,39.022371",
+    "geom:latitude":39.022371,
+    "geom:longitude":-94.727965,
+    "iso:country":"US",
+    "sg:address":"12101 Johnson Dr",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 268 5357",
+    "sg:postcode":"66216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879561,
+        102191575,
+        404504403,
+        85633793,
+        85945763,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t4ysVZkYKcogWTJ6GHnBD_39.022371_-94.727965@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049104,
+    "wof:geomhash":"012f75cb197503e394f5937603a3f249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504403,
+            "locality_id":85945763,
+            "neighbourhood_id":85879561,
+            "region_id":85688555,
+            "venue_id":840834633
+        }
+    ],
+    "wof:id":840834633,
+    "wof:lastmodified":1464049104,
+    "wof:name":"London Pride Cleaners",
+    "wof:parent_id":85879561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -94.727965,
+    39.022371,
+    -94.727965,
+    39.022371
+],
+  "geometry": {"coordinates":[-94.727965,39.022371],"type":"Point"}
+}

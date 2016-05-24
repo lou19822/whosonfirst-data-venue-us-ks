@@ -1,0 +1,73 @@
+{
+  "id": 840730565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.18026,38.396411,-96.18026,38.396411",
+    "geom:latitude":38.396411,
+    "geom:longitude":-96.18026,
+    "iso:country":"US",
+    "sg:address":"113 S Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0866",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70UGTzkU1tz9Cfy2XSBDij_38.396411_-96.180260@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046716,
+    "wof:geomhash":"7d9c385ceb5e7b2ebe7e2da1190159b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840730565
+        }
+    ],
+    "wof:id":840730565,
+    "wof:lastmodified":1464046716,
+    "wof:name":"DPP Mfg",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.18026,
+    38.396411,
+    -96.18026,
+    38.396411
+],
+  "geometry": {"coordinates":[-96.18026,38.396411],"type":"Point"}
+}

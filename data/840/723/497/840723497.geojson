@@ -1,0 +1,75 @@
+{
+  "id": 840723497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.755114,38.936638,-94.755114,38.936638",
+    "geom:latitude":38.936638,
+    "geom:longitude":-94.755114,
+    "iso:country":"US",
+    "sg:address":"14415 W 106th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 888 7200",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "distiller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dpp3vhg4v0VbjfmPohEkW_38.936638_-94.755114@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046582,
+    "wof:geomhash":"ebcfb979387a69b62e7aa48b67aee263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840723497
+        }
+    ],
+    "wof:id":840723497,
+    "wof:lastmodified":1464046582,
+    "wof:name":"Standard Beverage",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distiller"
+    ]
+},
+  "bbox": [
+    -94.755114,
+    38.936638,
+    -94.755114,
+    38.936638
+],
+  "geometry": {"coordinates":[-94.75511400000001,38.936638],"type":"Point"}
+}

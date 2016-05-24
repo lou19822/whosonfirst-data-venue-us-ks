@@ -1,0 +1,83 @@
+{
+  "id": 856711757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704939,37.396176,-94.704939,37.396176",
+    "geom:latitude":37.396176,
+    "geom:longitude":-94.704939,
+    "iso:country":"US",
+    "sg:address":"1314 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/pittsburg/161325-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 1300",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UCGgq6N4TSfCxrZUYGDLc_37.396117_-94.705005@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052300,
+    "wof:geomhash":"4dcd3d3aaa40ed794201a5d0266fdd29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856711757
+        }
+    ],
+    "wof:id":856711757,
+    "wof:lastmodified":1464052300,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -94.704939,
+    37.396176,
+    -94.704939,
+    37.396176
+],
+  "geometry": {"coordinates":[-94.704939,37.396176],"type":"Point"}
+}

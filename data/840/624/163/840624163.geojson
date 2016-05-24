@@ -1,0 +1,71 @@
+{
+  "id": 840624163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135472,37.688565,-97.135472,37.688565",
+    "geom:latitude":37.688565,
+    "geom:longitude":-97.135472,
+    "iso:country":"US",
+    "sg:address":"217 W 1st St",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 2311",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OpDNoHtvHvXc7zCZNuNZ7_37.688565_-97.135472@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044277,
+    "wof:geomhash":"c1e5427adb9c1cdcff464fb4ff72ffa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840624163
+        }
+    ],
+    "wof:id":840624163,
+    "wof:lastmodified":1464044277,
+    "wof:name":"Cloudridge Apartments",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.135472,
+    37.688565,
+    -97.135472,
+    37.688565
+],
+  "geometry": {"coordinates":[-97.13547199999999,37.688565],"type":"Point"}
+}

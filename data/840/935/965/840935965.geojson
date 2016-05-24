@@ -1,0 +1,75 @@
+{
+  "id": 840935965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.767355,39.038964,-95.767355,39.038964",
+    "geom:latitude":39.038964,
+    "geom:longitude":-95.767355,
+    "iso:country":"US",
+    "sg:address":"1530 SW Arvonia Pl",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 000 1111",
+    "sg:postcode":"66615",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FS1FCgslK9mk49aMyOOi5_39.038964_-95.767355@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051365,
+    "wof:geomhash":"fcef908d48debefd3b0988cdaee07e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840935965
+        }
+    ],
+    "wof:id":840935965,
+    "wof:lastmodified":1464051365,
+    "wof:name":"Aldi",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -95.767355,
+    39.038964,
+    -95.767355,
+    39.038964
+],
+  "geometry": {"coordinates":[-95.76735499999999,39.038964],"type":"Point"}
+}

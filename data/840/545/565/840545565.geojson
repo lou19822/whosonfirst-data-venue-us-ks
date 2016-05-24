@@ -1,0 +1,71 @@
+{
+  "id": 840545565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.93878,39.11627,-94.93878,39.11627",
+    "geom:latitude":39.11627,
+    "geom:longitude":-94.93878,
+    "iso:country":"US",
+    "sg:address":"15510 State Ave",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 728 2700",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B2cidNDq1NlW0Ny8ldW5X_39.116270_-94.938780@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042386,
+    "wof:geomhash":"211677209363a46355cb047b68772f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840545565
+        }
+    ],
+    "wof:id":840545565,
+    "wof:lastmodified":1464042386,
+    "wof:name":"Heartland Dental Group",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.93878,
+    39.11627,
+    -94.93878,
+    39.11627
+],
+  "geometry": {"coordinates":[-94.93877999999999,39.11627],"type":"Point"}
+}

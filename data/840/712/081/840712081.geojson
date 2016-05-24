@@ -1,0 +1,67 @@
+{
+  "id": 840712081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.137615,37.69395,-97.137615,37.69395",
+    "geom:latitude":37.69395,
+    "geom:longitude":-97.137615,
+    "iso:country":"US",
+    "sg:address":"225 W Central Ave",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 5041",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:website":"www.equitywebbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GqaB3C1baPB7gFHMK0Dvq_37.693950_-97.137615@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046342,
+    "wof:geomhash":"241a28318cbefe812dc3b1063e533d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840712081
+        }
+    ],
+    "wof:id":840712081,
+    "wof:lastmodified":1464046342,
+    "wof:name":"National Bank Of Andover",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.137615,
+    37.69395,
+    -97.137615,
+    37.69395
+],
+  "geometry": {"coordinates":[-97.137615,37.69395],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840679243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.686184,38.976301,-95.686184,38.976301",
+    "geom:latitude":38.976301,
+    "geom:longitude":-95.686184,
+    "iso:country":"US",
+    "sg:address":"232 SW Sanneman Dr",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 0795",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40HNASx78voBr9hplWrBhe_38.976301_-95.686184@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045550,
+    "wof:geomhash":"279e48f7cf4cef54f40492d4eb7f6bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840679243
+        }
+    ],
+    "wof:id":840679243,
+    "wof:lastmodified":1464045550,
+    "wof:name":"Terra Heights Baptist Church",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.686184,
+    38.976301,
+    -95.686184,
+    38.976301
+],
+  "geometry": {"coordinates":[-95.686184,38.976301],"type":"Point"}
+}

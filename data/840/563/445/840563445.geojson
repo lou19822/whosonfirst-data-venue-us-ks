@@ -1,0 +1,75 @@
+{
+  "id": 840563445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.426784,37.713073,-97.426784,37.713073",
+    "geom:latitude":37.713073,
+    "geom:longitude":-97.426784,
+    "iso:country":"US",
+    "sg:address":"1608 N Brunswick St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 648 3601",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812577,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lzGof03DZOGyZgmTm7Zww_37.713073_-97.426784@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042811,
+    "wof:geomhash":"25cdef7a99a851bb739eac06c817b1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85812577,
+            "region_id":85688555,
+            "venue_id":840563445
+        }
+    ],
+    "wof:id":840563445,
+    "wof:lastmodified":1464042811,
+    "wof:name":"Clean Concepts",
+    "wof:parent_id":85812577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -97.426784,
+    37.713073,
+    -97.426784,
+    37.713073
+],
+  "geometry": {"coordinates":[-97.426784,37.713073],"type":"Point"}
+}

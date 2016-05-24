@@ -1,0 +1,71 @@
+{
+  "id": 840702371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706182,39.109231,-95.706182,39.109231",
+    "geom:latitude":39.109231,
+    "geom:longitude":-95.706182,
+    "iso:country":"US",
+    "sg:address":"3825 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 1427",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t1OPAazYKGITS1fdRmAyv_39.109231_-95.706182@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046153,
+    "wof:geomhash":"408311f3d60578031c14e41f9eb6939e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840702371
+        }
+    ],
+    "wof:id":840702371,
+    "wof:lastmodified":1464046153,
+    "wof:name":"J A Lyden Construction Co",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.706182,
+    39.109231,
+    -95.706182,
+    39.109231
+],
+  "geometry": {"coordinates":[-95.706182,39.109231],"type":"Point"}
+}

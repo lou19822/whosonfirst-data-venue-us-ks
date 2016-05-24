@@ -1,0 +1,74 @@
+{
+  "id": 856709061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.465724,37.693707,-97.465724,37.693707",
+    "geom:latitude":37.693707,
+    "geom:longitude":-97.465724,
+    "iso:country":"US",
+    "sg:address":"10646 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/115687-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 2599",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P7hGnwyppqweIwV4gzAra_37.693707_-97.465724@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052248,
+    "wof:geomhash":"0f2eee50149ede82489af3c0da552574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":856709061
+        }
+    ],
+    "wof:id":856709061,
+    "wof:lastmodified":1464052248,
+    "wof:name":"Subway",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -97.465724,
+    37.693707,
+    -97.465724,
+    37.693707
+],
+  "geometry": {"coordinates":[-97.46572399999999,37.693707],"type":"Point"}
+}

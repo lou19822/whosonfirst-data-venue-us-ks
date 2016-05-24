@@ -1,0 +1,75 @@
+{
+  "id": 840899203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.679251,39.095029,-94.679251,39.095029",
+    "geom:latitude":39.095029,
+    "geom:longitude":-94.679251,
+    "iso:country":"US",
+    "sg:address":"4200 Speaker Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 281 1972",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05dmg0U0zi2JiX8bhPX2Kg_39.095029_-94.679251@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050473,
+    "wof:geomhash":"f685485dc2ff8b0fca91d61a0be18d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840899203
+        }
+    ],
+    "wof:id":840899203,
+    "wof:lastmodified":1464050473,
+    "wof:name":"E & M Truck & Trailer Repair",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -94.679251,
+    39.095029,
+    -94.679251,
+    39.095029
+],
+  "geometry": {"coordinates":[-94.67925099999999,39.095029],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840842419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.390441,37.694844,-97.390441,37.694844",
+    "geom:latitude":37.694844,
+    "geom:longitude":-97.390441,
+    "iso:country":"US",
+    "sg:address":"4040 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 0188",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vWFfDUuqkGboQJ0Yah8v4_37.694844_-97.390441@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049281,
+    "wof:geomhash":"f18392856334748f6ec623075408042b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840842419
+        }
+    ],
+    "wof:id":840842419,
+    "wof:lastmodified":1464049281,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -97.390441,
+    37.694844,
+    -97.390441,
+    37.694844
+],
+  "geometry": {"coordinates":[-97.390441,37.694844],"type":"Point"}
+}

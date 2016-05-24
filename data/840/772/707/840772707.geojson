@@ -1,0 +1,77 @@
+{
+  "id": 840772707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.689153,39.004645,-95.689153,39.004645",
+    "geom:latitude":39.004645,
+    "geom:longitude":-95.689153,
+    "iso:country":"US",
+    "sg:address":"813 SW Croix St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 0550",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u3CLRR0h83nHQoEyiNfmI_39.004645_-95.689153@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047628,
+    "wof:geomhash":"e526d2b916066d4763591755602a22d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840772707
+        }
+    ],
+    "wof:id":840772707,
+    "wof:lastmodified":1464047628,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.689153,
+    39.004645,
+    -95.689153,
+    39.004645
+],
+  "geometry": {"coordinates":[-95.689153,39.004645],"type":"Point"}
+}

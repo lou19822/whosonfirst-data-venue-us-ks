@@ -1,0 +1,71 @@
+{
+  "id": 840677811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.978865,37.67648,-96.978865,37.67648",
+    "geom:latitude":37.67648,
+    "geom:longitude":-96.978865,
+    "iso:country":"US",
+    "sg:address":"522 State St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 3501",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ibQtMpB1EvgYYXZ0rpF8G_37.676480_-96.978865@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045515,
+    "wof:geomhash":"bb564cb4fdd67abf5ba30d1113a34c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840677811
+        }
+    ],
+    "wof:id":840677811,
+    "wof:lastmodified":1464045515,
+    "wof:name":"Proffessional Tax Assoc",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -96.978865,
+    37.67648,
+    -96.978865,
+    37.67648
+],
+  "geometry": {"coordinates":[-96.978865,37.67648],"type":"Point"}
+}

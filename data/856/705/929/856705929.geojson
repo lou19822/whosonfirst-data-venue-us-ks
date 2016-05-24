@@ -1,0 +1,82 @@
+{
+  "id": 856705929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.729213,38.956549,-94.729213,38.956549",
+    "geom:latitude":38.956549,
+    "geom:longitude":-94.729213,
+    "iso:country":"US",
+    "sg:address":"12242 W 95th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/11053-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 541 4004",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HlDzKktlyb4pQY9ilwsop_38.956549_-94.729213@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052185,
+    "wof:geomhash":"44f9b64898da3e0dfbb41fe9958be491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856705929
+        }
+    ],
+    "wof:id":856705929,
+    "wof:lastmodified":1464052185,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.729213,
+    38.956549,
+    -94.729213,
+    38.956549
+],
+  "geometry": {"coordinates":[-94.729213,38.956549],"type":"Point"}
+}

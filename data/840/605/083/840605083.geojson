@@ -1,0 +1,71 @@
+{
+  "id": 840605083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.315329,37.641123,-97.315329,37.641123",
+    "geom:latitude":37.641123,
+    "geom:longitude":-97.315329,
+    "iso:country":"US",
+    "sg:address":"1712 E Northern St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 554 1997",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_412EmvZf6lnwTHvem5Iw8C_37.641123_-97.315329@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043781,
+    "wof:geomhash":"eb94199ae2ca670e7698704b3d600df6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840605083
+        }
+    ],
+    "wof:id":840605083,
+    "wof:lastmodified":1464043781,
+    "wof:name":"Main Line",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -97.315329,
+    37.641123,
+    -97.315329,
+    37.641123
+],
+  "geometry": {"coordinates":[-97.31532900000001,37.641123],"type":"Point"}
+}

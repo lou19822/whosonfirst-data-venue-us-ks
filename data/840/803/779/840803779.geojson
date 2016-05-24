@@ -1,0 +1,75 @@
+{
+  "id": 840803779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.695545,39.040186,-95.695545,39.040186",
+    "geom:latitude":39.040186,
+    "geom:longitude":-95.695545,
+    "iso:country":"US",
+    "sg:address":"1422 SW Lane St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 0772",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14QntZ2Hry8nIBhZZp7pog_39.040186_-95.695545@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048278,
+    "wof:geomhash":"4561a82d5e0b37f6e2aa7b4aedde125f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840803779
+        }
+    ],
+    "wof:id":840803779,
+    "wof:lastmodified":1464048278,
+    "wof:name":"Bakers Dozen",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -95.695545,
+    39.040186,
+    -95.695545,
+    39.040186
+],
+  "geometry": {"coordinates":[-95.695545,39.040186],"type":"Point"}
+}

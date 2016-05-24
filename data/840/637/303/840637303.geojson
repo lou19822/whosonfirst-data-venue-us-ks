@@ -1,0 +1,71 @@
+{
+  "id": 840637303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180191,38.408658,-96.180191,38.408658",
+    "geom:latitude":38.408658,
+    "geom:longitude":-96.180191,
+    "iso:country":"US",
+    "sg:address":"803 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 8800",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OLkRsgnROCkgCBhxAtzzd_38.408658_-96.180191@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044620,
+    "wof:geomhash":"e8471c66ab9c280662d90977f7330c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840637303
+        }
+    ],
+    "wof:id":840637303,
+    "wof:lastmodified":1464044620,
+    "wof:name":"Mi Rumba",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.180191,
+    38.408658,
+    -96.180191,
+    38.408658
+],
+  "geometry": {"coordinates":[-96.18019099999999,38.408658],"type":"Point"}
+}

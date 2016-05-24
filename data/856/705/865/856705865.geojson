@@ -1,0 +1,76 @@
+{
+  "id": 856705865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.708511,38.976267,-94.708511,38.976267",
+    "geom:latitude":38.976267,
+    "geom:longitude":-94.708511,
+    "iso:country":"US",
+    "sg:address":"8428 Melrose Dr",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/147294-business-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 1110",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879569,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qx39tIlNEejcQ9OeM8f8m_38.976267_-94.708511@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052184,
+    "wof:geomhash":"4b5d9238ec559910bc1c18a4bcfd562d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879569,
+            "region_id":85688555,
+            "venue_id":856705865
+        }
+    ],
+    "wof:id":856705865,
+    "wof:lastmodified":1464052184,
+    "wof:name":"Business Bistro",
+    "wof:parent_id":85879569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.708511,
+    38.976267,
+    -94.708511,
+    38.976267
+],
+  "geometry": {"coordinates":[-94.708511,38.976267],"type":"Point"}
+}

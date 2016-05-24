@@ -1,0 +1,71 @@
+{
+  "id": 840567503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180097,38.402398,-96.180097,38.402398",
+    "geom:latitude":38.402398,
+    "geom:longitude":-96.180097,
+    "iso:country":"US",
+    "sg:address":"318 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0472",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zyhpz4nBELnZ4OqD9UqA2_38.402398_-96.180097@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042916,
+    "wof:geomhash":"917491bc4be7133384d950e1df3fd5f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840567503
+        }
+    ],
+    "wof:id":840567503,
+    "wof:lastmodified":1464042916,
+    "wof:name":"Pawn Emporia Gun",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -96.180097,
+    38.402398,
+    -96.180097,
+    38.402398
+],
+  "geometry": {"coordinates":[-96.180097,38.402398],"type":"Point"}
+}

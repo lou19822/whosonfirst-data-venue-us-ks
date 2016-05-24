@@ -1,0 +1,73 @@
+{
+  "id": 840900083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.362811,37.72266,-97.362811,37.72266",
+    "geom:latitude":37.72266,
+    "geom:longitude":-97.362811,
+    "iso:country":"US",
+    "sg:address":"1821 W 21st St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 821 9920",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21fe783VPMp7DOy4YgeJmU_37.722660_-97.362811@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050494,
+    "wof:geomhash":"88a2401beff68178a6be34aced0927d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840900083
+        }
+    ],
+    "wof:id":840900083,
+    "wof:lastmodified":1464050494,
+    "wof:name":"Drivers License Examining Sta",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -97.362811,
+    37.72266,
+    -97.362811,
+    37.72266
+],
+  "geometry": {"coordinates":[-97.36281099999999,37.72266],"type":"Point"}
+}

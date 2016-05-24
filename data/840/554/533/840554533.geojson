@@ -1,0 +1,73 @@
+{
+  "id": 840554533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.392444,37.663831,-97.392444,37.663831",
+    "geom:latitude":37.663831,
+    "geom:longitude":-97.392444,
+    "iso:country":"US",
+    "sg:address":"4225 W Bounous St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 9558",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mVzhWNhHWY6hpOpwxq77U_37.663831_-97.392444@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042617,
+    "wof:geomhash":"53fb1573a38b63d6a8c750341fc6eda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840554533
+        }
+    ],
+    "wof:id":840554533,
+    "wof:lastmodified":1464042617,
+    "wof:name":"M-K Plumbing Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.392444,
+    37.663831,
+    -97.392444,
+    37.663831
+],
+  "geometry": {"coordinates":[-97.392444,37.663831],"type":"Point"}
+}

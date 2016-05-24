@@ -1,0 +1,71 @@
+{
+  "id": 840671551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.875861,37.820394,-96.875861,37.820394",
+    "geom:latitude":37.820394,
+    "geom:longitude":-96.875861,
+    "iso:country":"US",
+    "sg:address":"306 Oil Hill Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 5877",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uoeTV81lyKaq4EiNZIt8c_37.820394_-96.875861@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045347,
+    "wof:geomhash":"3fa370b961193cf42a079abc7f4801b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840671551
+        }
+    ],
+    "wof:id":840671551,
+    "wof:lastmodified":1464045347,
+    "wof:name":"Glendening Electric",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.875861,
+    37.820394,
+    -96.875861,
+    37.820394
+],
+  "geometry": {"coordinates":[-96.875861,37.820394],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840545333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.312525,37.649908,-97.312525,37.649908",
+    "geom:latitude":37.649908,
+    "geom:longitude":-97.312525,
+    "iso:country":"US",
+    "sg:address":"1900 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 3496",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "aircraft",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DxarpX8nMrHVPdh5dNI12_37.649908_-97.312525@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042378,
+    "wof:geomhash":"198b98cef20dec6cabd18cd5ba7c5e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840545333
+        }
+    ],
+    "wof:id":840545333,
+    "wof:lastmodified":1464042378,
+    "wof:name":"Aircraft Interior Products",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -97.312525,
+    37.649908,
+    -97.312525,
+    37.649908
+],
+  "geometry": {"coordinates":[-97.31252499999999,37.649908],"type":"Point"}
+}

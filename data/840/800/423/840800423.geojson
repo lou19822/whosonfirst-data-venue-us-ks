@@ -1,0 +1,71 @@
+{
+  "id": 840800423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.707233,37.44023,-94.707233,37.44023",
+    "geom:latitude":37.44023,
+    "geom:longitude":-94.707233,
+    "iso:country":"US",
+    "sg:address":"613 US Hwy 69",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 7402",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vYtyAoB349Y6FPOFknNo8_37.440230_-94.707233@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048211,
+    "wof:geomhash":"1ac3dc7afbc4bfb59772eb1b7ceb16d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840800423
+        }
+    ],
+    "wof:id":840800423,
+    "wof:lastmodified":1464048211,
+    "wof:name":"Outdoors Indoors",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -94.707233,
+    37.44023,
+    -94.707233,
+    37.44023
+],
+  "geometry": {"coordinates":[-94.707233,37.44023],"type":"Point"}
+}

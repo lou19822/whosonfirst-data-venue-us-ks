@@ -1,0 +1,71 @@
+{
+  "id": 840746859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.405889,37.623482,-97.405889,37.623482",
+    "geom:latitude":37.623482,
+    "geom:longitude":-97.405889,
+    "iso:country":"US",
+    "sg:address":"5546 W York St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 2421",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jdzDNNj7GT68yySYhcEK8_37.623482_-97.405889@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047025,
+    "wof:geomhash":"5063abf79fbc82d39dad89ef77e1e180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840746859
+        }
+    ],
+    "wof:id":840746859,
+    "wof:lastmodified":1464047025,
+    "wof:name":"Dental Design Inc",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -97.405889,
+    37.623482,
+    -97.405889,
+    37.623482
+],
+  "geometry": {"coordinates":[-97.405889,37.623482],"type":"Point"}
+}

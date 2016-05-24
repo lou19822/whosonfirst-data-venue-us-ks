@@ -1,0 +1,78 @@
+{
+  "id": 856706917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761881,39.037099,-95.761881,39.037099",
+    "geom:latitude":39.037099,
+    "geom:longitude":-95.761881,
+    "iso:country":"US",
+    "sg:address":"1640 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/186720-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 1955",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UCbLFmZeXXERBhQtg1Niu_39.037099_-95.761881@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052205,
+    "wof:geomhash":"56f1cb59eb5f5684ac20514fd9157153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706917
+        }
+    ],
+    "wof:id":856706917,
+    "wof:lastmodified":1464052205,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.761881,
+    39.037099,
+    -95.761881,
+    39.037099
+],
+  "geometry": {"coordinates":[-95.761881,39.037099],"type":"Point"}
+}

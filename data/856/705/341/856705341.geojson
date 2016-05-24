@@ -1,0 +1,82 @@
+{
+  "id": 856705341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.741218,38.927482,-94.741218,38.927482",
+    "geom:latitude":38.927482,
+    "geom:longitude":-94.741218,
+    "iso:country":"US",
+    "sg:address":"13416 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/94689-mr-goodcents-subs--pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 451 2368",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wH9LYz4MeCPG2zBD9ENFG_38.927482_-94.741218@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052175,
+    "wof:geomhash":"9e02717889f4dd79eb75f16ec4c2282a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856705341
+        }
+    ],
+    "wof:id":856705341,
+    "wof:lastmodified":1464052175,
+    "wof:name":"Mr. Goodcents Subs & Pasta",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.741218,
+    38.927482,
+    -94.741218,
+    38.927482
+],
+  "geometry": {"coordinates":[-94.741218,38.927482],"type":"Point"}
+}

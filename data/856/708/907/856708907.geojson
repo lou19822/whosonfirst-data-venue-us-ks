@@ -1,0 +1,78 @@
+{
+  "id": 856708907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.262774,37.722226,-97.262774,37.722226",
+    "geom:latitude":37.722226,
+    "geom:longitude":-97.262774,
+    "iso:country":"US",
+    "sg:address":"2129 N Woodlawn St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/65912-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 0730",
+    "sg:postcode":"67208",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mZOzNBqbHtz2gzwxacFxL_37.722226_-97.262774@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052245,
+    "wof:geomhash":"6284f36dc2a9be0b471fc8f6989963fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":856708907
+        }
+    ],
+    "wof:id":856708907,
+    "wof:lastmodified":1464052245,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -97.262774,
+    37.722226,
+    -97.262774,
+    37.722226
+],
+  "geometry": {"coordinates":[-97.26277399999999,37.722226],"type":"Point"}
+}

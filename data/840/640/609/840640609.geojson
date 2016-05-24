@@ -1,0 +1,82 @@
+{
+  "id": 840640609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.630483,38.957287,-94.630483,38.957287",
+    "geom:latitude":38.957287,
+    "geom:longitude":-94.630483,
+    "iso:country":"US",
+    "sg:address":"9420 Mission Rd",
+    "sg:city":"Prairie Village",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 341 5088",
+    "sg:postcode":"66206",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879549,
+        102191575,
+        404504399,
+        85633793,
+        85945757,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zfhjh3DCgU9qd24fxV2yL_38.957287_-94.630483@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044688,
+    "wof:geomhash":"3adc47b4cae2410b312504c1a372cc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504399,
+            "locality_id":85945757,
+            "neighbourhood_id":85879549,
+            "region_id":85688555,
+            "venue_id":840640609
+        }
+    ],
+    "wof:id":840640609,
+    "wof:lastmodified":1464044688,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85879549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -94.630483,
+    38.957287,
+    -94.630483,
+    38.957287
+],
+  "geometry": {"coordinates":[-94.630483,38.957287],"type":"Point"}
+}

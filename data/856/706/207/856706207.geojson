@@ -1,0 +1,78 @@
+{
+  "id": 856706207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.679899,38.85447,-94.679899,38.85447",
+    "geom:latitude":38.85447,
+    "geom:longitude":-94.679899,
+    "iso:country":"US",
+    "sg:address":"7901 W 151st St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/37441-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 814 0031",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KqkxJwd2yI2CyQaJi2LSL_38.854470_-94.679899@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052190,
+    "wof:geomhash":"296d1df07fa97561e1718e45ac919ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":856706207
+        }
+    ],
+    "wof:id":856706207,
+    "wof:lastmodified":1464052190,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.679899,
+    38.85447,
+    -94.679899,
+    38.85447
+],
+  "geometry": {"coordinates":[-94.67989900000001,38.85447],"type":"Point"}
+}

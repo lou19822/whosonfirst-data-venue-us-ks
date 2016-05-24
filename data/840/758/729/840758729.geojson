@@ -1,0 +1,73 @@
+{
+  "id": 840758729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.152526,38.399525,-96.152526,38.399525",
+    "geom:latitude":38.399525,
+    "geom:longitude":-96.152526,
+    "iso:country":"US",
+    "sg:address":"218 Weaver St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 6711",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sHbWXRJaKHEiGRhvScXZx_38.399525_-96.152526@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047305,
+    "wof:geomhash":"f95dea291ff2f9270ce7b526ffc29088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840758729
+        }
+    ],
+    "wof:id":840758729,
+    "wof:lastmodified":1464047305,
+    "wof:name":"Flint Hills Truck Driving Schl",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -96.152526,
+    38.399525,
+    -96.152526,
+    38.399525
+],
+  "geometry": {"coordinates":[-96.15252599999999,38.399525],"type":"Point"}
+}

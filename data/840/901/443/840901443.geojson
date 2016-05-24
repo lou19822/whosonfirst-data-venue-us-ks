@@ -1,0 +1,75 @@
+{
+  "id": 840901443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.219548,38.397889,-96.219548,38.397889",
+    "geom:latitude":38.397889,
+    "geom:longitude":-96.219548,
+    "iso:country":"US",
+    "sg:address":"2802 W South Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3200",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ZafXOclQ45yHfEQTcCyW_38.397889_-96.219548@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050528,
+    "wof:geomhash":"9560fa7733a2a82919517fdd1517ff88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840901443
+        }
+    ],
+    "wof:id":840901443,
+    "wof:lastmodified":1464050528,
+    "wof:name":"Rich's Auto Body",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.219548,
+    38.397889,
+    -96.219548,
+    38.397889
+],
+  "geometry": {"coordinates":[-96.219548,38.397889],"type":"Point"}
+}

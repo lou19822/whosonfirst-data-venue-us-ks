@@ -1,0 +1,73 @@
+{
+  "id": 840872077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.157568,38.408048,-96.157568,38.408048",
+    "geom:latitude":38.408048,
+    "geom:longitude":-96.157568,
+    "iso:country":"US",
+    "sg:address":"809 Whildin St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1124",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KZ5ZMpoEXzv71U5DCo2ld_38.408048_-96.157568@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049897,
+    "wof:geomhash":"e97ab6499053d986993d006de8dbfcaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840872077
+        }
+    ],
+    "wof:id":840872077,
+    "wof:lastmodified":1464049897,
+    "wof:name":"Bradley's Rentals & Storage",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -96.157568,
+    38.408048,
+    -96.157568,
+    38.408048
+],
+  "geometry": {"coordinates":[-96.157568,38.408048],"type":"Point"}
+}

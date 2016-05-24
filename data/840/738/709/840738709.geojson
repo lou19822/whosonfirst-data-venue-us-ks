@@ -1,0 +1,75 @@
+{
+  "id": 840738709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.741803,37.434674,-94.741803,37.434674",
+    "geom:latitude":37.434674,
+    "geom:longitude":-94.741803,
+    "iso:country":"US",
+    "sg:address":"653 S 200th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 0101",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mSz6c2AbFsT6KcsV6Hoah_37.434674_-94.741803@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046874,
+    "wof:geomhash":"88631d4351eacaaadbecd5c2a23a09c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840738709
+        }
+    ],
+    "wof:id":840738709,
+    "wof:lastmodified":1464046874,
+    "wof:name":"Born's Custom Car Restoration",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.741803,
+    37.434674,
+    -94.741803,
+    37.434674
+],
+  "geometry": {"coordinates":[-94.741803,37.434674],"type":"Point"}
+}

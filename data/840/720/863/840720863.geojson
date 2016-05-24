@@ -1,0 +1,73 @@
+{
+  "id": 840720863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.327719,37.657162,-97.327719,37.657162",
+    "geom:latitude":37.657162,
+    "geom:longitude":-97.327719,
+    "iso:country":"US",
+    "sg:address":"810 E Mount Vernon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 269 9110",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JmXNSL7sFmupNgPHoRuaP_37.657162_-97.327719@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046525,
+    "wof:geomhash":"85a1aaf0136ce827d51f062b94d250a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840720863
+        }
+    ],
+    "wof:id":840720863,
+    "wof:lastmodified":1464046525,
+    "wof:name":"American Sewer Svc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.327719,
+    37.657162,
+    -97.327719,
+    37.657162
+],
+  "geometry": {"coordinates":[-97.327719,37.657162],"type":"Point"}
+}

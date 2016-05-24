@@ -1,0 +1,75 @@
+{
+  "id": 840872615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.726936,37.425827,-94.726936,37.425827",
+    "geom:latitude":37.425827,
+    "geom:longitude":-94.726936,
+    "iso:country":"US",
+    "sg:address":"1409 W 20th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0720",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tkt1ITqLeAkuj7jejT6OW_37.425827_-94.726936@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049908,
+    "wof:geomhash":"ea012cf607ac6eb621bf3f3a49927605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840872615
+        }
+    ],
+    "wof:id":840872615,
+    "wof:lastmodified":1464049908,
+    "wof:name":"Karen's Pooch Parlor",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.726936,
+    37.425827,
+    -94.726936,
+    37.425827
+],
+  "geometry": {"coordinates":[-94.72693599999999,37.425827],"type":"Point"}
+}

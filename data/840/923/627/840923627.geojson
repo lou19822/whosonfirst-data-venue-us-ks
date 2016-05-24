@@ -1,0 +1,71 @@
+{
+  "id": 840923627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.325241,37.649901,-97.325241,37.649901",
+    "geom:latitude":37.649901,
+    "geom:longitude":-97.325241,
+    "iso:country":"US",
+    "sg:address":"1016 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 2609",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QxNyfE0z6Ipyjpi3S15ic_37.649901_-97.325241@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051094,
+    "wof:geomhash":"20d33da017c0002bdfee87db72ea76f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840923627
+        }
+    ],
+    "wof:id":840923627,
+    "wof:lastmodified":1464051094,
+    "wof:name":"Trinity Baptist Church",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.325241,
+    37.649901,
+    -97.325241,
+    37.649901
+],
+  "geometry": {"coordinates":[-97.32524100000001,37.649901],"type":"Point"}
+}

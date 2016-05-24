@@ -1,0 +1,66 @@
+{
+  "id": 840636969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.575004,37.65991,-97.575004,37.65991",
+    "geom:latitude":37.65991,
+    "geom:longitude":-97.575004,
+    "iso:country":"US",
+    "sg:address":"328 N Main St",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 000 1111",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O3gggbtvHqnnkePDW5WlW_37.659910_-97.575004@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044614,
+    "wof:geomhash":"fddb29a5100e8a21e0eacc5655c6ffba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840636969
+        }
+    ],
+    "wof:id":840636969,
+    "wof:lastmodified":1464044614,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.575004,
+    37.65991,
+    -97.575004,
+    37.65991
+],
+  "geometry": {"coordinates":[-97.57500400000001,37.65991],"type":"Point"}
+}

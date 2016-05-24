@@ -1,0 +1,75 @@
+{
+  "id": 840637483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.466047,37.681473,-97.466047,37.681473",
+    "geom:latitude":37.681473,
+    "geom:longitude":-97.466047,
+    "iso:country":"US",
+    "sg:address":"10720 W Texas St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 838 0111",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852015,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g7fU0XIT9YuFM9OfCoZS4_37.681473_-97.466047@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044629,
+    "wof:geomhash":"b393e627653562a5b1498a27ef2186d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85852015,
+            "region_id":85688555,
+            "venue_id":840637483
+        }
+    ],
+    "wof:id":840637483,
+    "wof:lastmodified":1464044629,
+    "wof:name":"Twenty First Pump Svc",
+    "wof:parent_id":85852015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -97.466047,
+    37.681473,
+    -97.466047,
+    37.681473
+],
+  "geometry": {"coordinates":[-97.466047,37.681473],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 856704823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.663743,39.022258,-94.663743,39.022258",
+    "geom:latitude":39.022258,
+    "geom:longitude":-94.663743,
+    "iso:country":"US",
+    "sg:address":"6800 Johnson Dr",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/mission/11047-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 0520",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SkzRLtBmvUVQDFeJS1S2l_39.022258_-94.663743@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052167,
+    "wof:geomhash":"073c159dfc40b4236141c1d416d61a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":856704823
+        }
+    ],
+    "wof:id":856704823,
+    "wof:lastmodified":1464052167,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.663743,
+    39.022258,
+    -94.663743,
+    39.022258
+],
+  "geometry": {"coordinates":[-94.663743,39.022258],"type":"Point"}
+}

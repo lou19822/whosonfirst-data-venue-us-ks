@@ -1,0 +1,73 @@
+{
+  "id": 840647963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.721965,37.411695,-94.721965,37.411695",
+    "geom:latitude":37.411695,
+    "geom:longitude":-94.721965,
+    "iso:country":"US",
+    "sg:address":"402 N Smith St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 0072",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AC5nrhJ9EdTBZci22Xr8R_37.411695_-94.721965@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044839,
+    "wof:geomhash":"27353873bd37d48d3ba7039368427f6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840647963
+        }
+    ],
+    "wof:id":840647963,
+    "wof:lastmodified":1464044839,
+    "wof:name":"Randy's Auto Repair",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.721965,
+    37.411695,
+    -94.721965,
+    37.411695
+],
+  "geometry": {"coordinates":[-94.721965,37.411695],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840901291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.673201,39.136872,-95.673201,39.136872",
+    "geom:latitude":39.136872,
+    "geom:longitude":-95.673201,
+    "iso:country":"US",
+    "sg:address":"5139 NW Rochester Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0662",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZIXsfhbjEiEDMYzkNc6fh_39.136872_-95.673201@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050525,
+    "wof:geomhash":"935258e47eac3dbf862ec8a0d3b7e632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840901291
+        }
+    ],
+    "wof:id":840901291,
+    "wof:lastmodified":1464050525,
+    "wof:name":"ROKK Concrete Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.673201,
+    39.136872,
+    -95.673201,
+    39.136872
+],
+  "geometry": {"coordinates":[-95.67320100000001,39.136872],"type":"Point"}
+}

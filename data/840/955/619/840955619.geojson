@@ -1,0 +1,71 @@
+{
+  "id": 840955619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664699,39.10685,-95.664699,39.10685",
+    "geom:latitude":39.10685,
+    "geom:longitude":-95.664699,
+    "iso:country":"US",
+    "sg:address":"3213 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2188",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05oaLuSz0tqWuxTAGJ34zZ_39.106850_-95.664699@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051755,
+    "wof:geomhash":"825ba54f22824e91f467968567d32317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840955619
+        }
+    ],
+    "wof:id":840955619,
+    "wof:lastmodified":1464051755,
+    "wof:name":"North Topeka Catholic Comm",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.664699,
+    39.10685,
+    -95.664699,
+    39.10685
+],
+  "geometry": {"coordinates":[-95.664699,39.10685],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840695495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.447172,37.693971,-97.447172,37.693971",
+    "geom:latitude":37.693971,
+    "geom:longitude":-97.447172,
+    "iso:country":"US",
+    "sg:address":"8951 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 8940",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ft89VxJzHKMJ72DAALjn7_37.693971_-97.447172@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045961,
+    "wof:geomhash":"4c00f53502e66c8e07b67332b595feb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840695495
+        }
+    ],
+    "wof:id":840695495,
+    "wof:lastmodified":1464045961,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.447172,
+    37.693971,
+    -97.447172,
+    37.693971
+],
+  "geometry": {"coordinates":[-97.44717199999999,37.693971],"type":"Point"}
+}

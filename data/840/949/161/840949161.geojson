@@ -1,0 +1,73 @@
+{
+  "id": 840949161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.084992,39.109316,-95.084992,39.109316",
+    "geom:latitude":39.109316,
+    "geom:longitude":-95.084992,
+    "iso:country":"US",
+    "sg:address":"605 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2090",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SqTIjxc0iND2biswCdQJ8_39.109316_-95.084992@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051635,
+    "wof:geomhash":"b047e77956d55a205d64a88c4523de18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840949161
+        }
+    ],
+    "wof:id":840949161,
+    "wof:lastmodified":1464051635,
+    "wof:name":"Philip L Stevens MD",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.084992,
+    39.109316,
+    -95.084992,
+    39.109316
+],
+  "geometry": {"coordinates":[-95.084992,39.109316],"type":"Point"}
+}

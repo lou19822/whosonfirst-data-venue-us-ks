@@ -1,0 +1,73 @@
+{
+  "id": 840716567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.935212,37.642549,-96.935212,37.642549",
+    "geom:latitude":37.642549,
+    "geom:longitude":-96.935212,
+    "iso:country":"US",
+    "sg:address":"12581 SW Hopkins Switch Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 6672",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repair",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73zdAtLKls5e4XfEVhGP5J_37.642549_-96.935212@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046431,
+    "wof:geomhash":"42144bdd717ebd8ca4668aa6f4c0271e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840716567
+        }
+    ],
+    "wof:id":840716567,
+    "wof:lastmodified":1464046431,
+    "wof:name":"Dons Plumbing Repair",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.935212,
+    37.642549,
+    -96.935212,
+    37.642549
+],
+  "geometry": {"coordinates":[-96.93521200000001,37.642549],"type":"Point"}
+}

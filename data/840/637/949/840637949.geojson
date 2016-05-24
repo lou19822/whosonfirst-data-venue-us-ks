@@ -1,0 +1,73 @@
+{
+  "id": 840637949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.461382,37.708249,-97.461382,37.708249",
+    "geom:latitude":37.708249,
+    "geom:longitude":-97.461382,
+    "iso:country":"US",
+    "sg:address":"10301 W 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 8008",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k725n2XIXaP7mThSdKPUe_37.708249_-97.461382@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044637,
+    "wof:geomhash":"2f8a195d93941ac99d8764f66921f03a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840637949
+        }
+    ],
+    "wof:id":840637949,
+    "wof:lastmodified":1464044637,
+    "wof:name":"Unruh Alignment Svc Inc",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.461382,
+    37.708249,
+    -97.461382,
+    37.708249
+],
+  "geometry": {"coordinates":[-97.461382,37.708249],"type":"Point"}
+}

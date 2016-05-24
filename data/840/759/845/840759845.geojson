@@ -1,0 +1,76 @@
+{
+  "id": 840759845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.662469,38.956728,-94.662469,38.956728",
+    "geom:latitude":38.956728,
+    "geom:longitude":-94.662469,
+    "iso:country":"US",
+    "sg:address":"6600 W 95th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 649 3335",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.kumc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879581,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W9xTPqsp6IXdqVTOFeIch_38.956728_-94.662469@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047334,
+    "wof:geomhash":"2126ab8c97a7dd435fd48db5fb6cf32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879581,
+            "region_id":85688555,
+            "venue_id":840759845
+        }
+    ],
+    "wof:id":840759845,
+    "wof:lastmodified":1464047334,
+    "wof:name":"K U Children's Ctr",
+    "wof:parent_id":85879581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.662469,
+    38.956728,
+    -94.662469,
+    38.956728
+],
+  "geometry": {"coordinates":[-94.662469,38.956728],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840810811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.749237,38.752901,-94.749237,38.752901",
+    "geom:latitude":38.752901,
+    "geom:longitude":-94.749237,
+    "iso:country":"US",
+    "sg:address":"14150 207th St",
+    "sg:city":"Bucyrus",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 307 5220",
+    "sg:postcode":"66013",
+    "sg:province":"KS",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kiuvkcGWUQV16zwxPJIVt_38.752901_-94.749237@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048449,
+    "wof:geomhash":"f99bf4b9a8d61fc62e1d9e8675d62dde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840810811
+        }
+    ],
+    "wof:id":840810811,
+    "wof:lastmodified":1464048449,
+    "wof:name":"Interdyne LLC",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -94.749237,
+    38.752901,
+    -94.749237,
+    38.752901
+],
+  "geometry": {"coordinates":[-94.74923699999999,38.752901],"type":"Point"}
+}

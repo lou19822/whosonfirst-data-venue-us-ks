@@ -1,0 +1,86 @@
+{
+  "id": 840834547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.244591,37.742517,-97.244591,37.742517",
+    "geom:latitude":37.742517,
+    "geom:longitude":-97.244591,
+    "iso:country":"US",
+    "sg:address":"3232 N Rock Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 7902",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cards",
+        "sport",
+        "baseball",
+        "memorabilia"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49zy0RScMB6jRlI06r6AQ8_37.742517_-97.244591@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049102,
+    "wof:geomhash":"77cbaede7fd6ad6823a61800f0a703ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":840834547
+        }
+    ],
+    "wof:id":840834547,
+    "wof:lastmodified":1464049102,
+    "wof:name":"Rock's Dugout",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cards",
+        "sport",
+        "baseball",
+        "memorabilia"
+    ]
+},
+  "bbox": [
+    -97.244591,
+    37.742517,
+    -97.244591,
+    37.742517
+],
+  "geometry": {"coordinates":[-97.244591,37.742517],"type":"Point"}
+}

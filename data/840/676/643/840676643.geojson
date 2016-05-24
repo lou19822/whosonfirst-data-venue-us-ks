@@ -1,0 +1,79 @@
+{
+  "id": 840676643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.718151,39.088961,-94.718151,39.088961",
+    "geom:latitude":39.088961,
+    "geom:longitude":-94.718151,
+    "iso:country":"US",
+    "sg:address":"512 S 60 Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 375 9104",
+    "sg:postcode":"66111",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878491,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PhV110FasqugUw9nZ34uh_39.088961_-94.718151@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045479,
+    "wof:geomhash":"e6f721cef75f5e44fe905a69732cf5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878491,
+            "region_id":85688555,
+            "venue_id":840676643
+        }
+    ],
+    "wof:id":840676643,
+    "wof:lastmodified":1464045479,
+    "wof:name":"Cliffs Trucking",
+    "wof:parent_id":85878491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.718151,
+    39.088961,
+    -94.718151,
+    39.088961
+],
+  "geometry": {"coordinates":[-94.71815100000001,39.088961],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840816881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.085313,39.109315,-95.085313,39.109315",
+    "geom:latitude":39.109315,
+    "geom:longitude":-95.085313,
+    "iso:country":"US",
+    "sg:address":"635 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 1571",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A96K0XtKZFlfWNyTjWHgA_39.109315_-95.085313@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048655,
+    "wof:geomhash":"cd0a1a848c6cdfc06d7f557422d5a5db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840816881
+        }
+    ],
+    "wof:id":840816881,
+    "wof:lastmodified":1464048655,
+    "wof:name":"Pammy Sue's Baked Goods & Gfts",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -95.085313,
+    39.109315,
+    -95.085313,
+    39.109315
+],
+  "geometry": {"coordinates":[-95.085313,39.109315],"type":"Point"}
+}

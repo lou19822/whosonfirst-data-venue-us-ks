@@ -1,0 +1,78 @@
+{
+  "id": 856707603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.21897,38.420967,-96.21897,38.420967",
+    "geom:latitude":38.420967,
+    "geom:longitude":-96.21897,
+    "iso:country":"US",
+    "sg:address":"2901 Eaglecrest Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/89779-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 0000",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03g77Rqioure1Q8TKw3WuQ_38.420967_-96.218970@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052222,
+    "wof:geomhash":"a9465dda0177eb0c24f7feb1c6b5bad6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707603
+        }
+    ],
+    "wof:id":856707603,
+    "wof:lastmodified":1464052222,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -96.21897,
+    38.420967,
+    -96.21897,
+    38.420967
+],
+  "geometry": {"coordinates":[-96.21897,38.420967],"type":"Point"}
+}

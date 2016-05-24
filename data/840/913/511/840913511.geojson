@@ -1,0 +1,71 @@
+{
+  "id": 840913511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.141239,37.683895,-97.141239,37.683895",
+    "geom:latitude":37.683895,
+    "geom:longitude":-97.141239,
+    "iso:country":"US",
+    "sg:address":"229 S Jamestown Cir",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 6054",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JDr8hQOyWPkzYNvV6so46_37.683895_-97.141239@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050834,
+    "wof:geomhash":"89984eb94f1523d361513745e1fd3230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840913511
+        }
+    ],
+    "wof:id":840913511,
+    "wof:lastmodified":1464050834,
+    "wof:name":"Total Installation Mgmt Spec",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation"
+    ]
+},
+  "bbox": [
+    -97.141239,
+    37.683895,
+    -97.141239,
+    37.683895
+],
+  "geometry": {"coordinates":[-97.141239,37.683895],"type":"Point"}
+}

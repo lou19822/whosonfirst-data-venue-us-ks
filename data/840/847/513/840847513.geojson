@@ -1,0 +1,73 @@
+{
+  "id": 840847513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.176243,38.404939,-96.176243,38.404939",
+    "geom:latitude":38.404939,
+    "geom:longitude":-96.176243,
+    "iso:country":"US",
+    "sg:address":"502 Union St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 374 4544",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ihGnytMD7rVu7MWD1Jc86_38.404939_-96.176243@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049389,
+    "wof:geomhash":"f5939802602831c3a65375d896f0c4a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840847513
+        }
+    ],
+    "wof:id":840847513,
+    "wof:lastmodified":1464049389,
+    "wof:name":"J L Auto Works",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.176243,
+    38.404939,
+    -96.176243,
+    38.404939
+],
+  "geometry": {"coordinates":[-96.176243,38.404939],"type":"Point"}
+}

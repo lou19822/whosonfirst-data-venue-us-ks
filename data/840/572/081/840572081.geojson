@@ -1,0 +1,73 @@
+{
+  "id": 840572081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.666115,39.082821,-95.666115,39.082821",
+    "geom:latitude":39.082821,
+    "geom:longitude":-95.666115,
+    "iso:country":"US",
+    "sg:address":"1850 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 7925",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iww3pPFrNAe9hCmWVYsJp_39.082821_-95.666115@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043036,
+    "wof:geomhash":"a4c7c836896085b85cf27505cfc51ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840572081
+        }
+    ],
+    "wof:id":840572081,
+    "wof:lastmodified":1464043036,
+    "wof:name":"Select Auto Sales",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.666115,
+    39.082821,
+    -95.666115,
+    39.082821
+],
+  "geometry": {"coordinates":[-95.666115,39.082821],"type":"Point"}
+}

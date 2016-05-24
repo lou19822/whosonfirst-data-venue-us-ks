@@ -1,0 +1,73 @@
+{
+  "id": 840768829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.693511,38.883796,-94.693511,38.883796",
+    "geom:latitude":38.883796,
+    "geom:longitude":-94.693511,
+    "iso:country":"US",
+    "sg:address":"9220 W 135th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 402 0920",
+    "sg:postcode":"66221",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01Z4w0hTYE22IyBgphxwRs_38.883796_-94.693511@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047546,
+    "wof:geomhash":"83571745be3c5594f04b03d2deffaa35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840768829
+        }
+    ],
+    "wof:id":840768829,
+    "wof:lastmodified":1464047546,
+    "wof:name":"Storage Mart",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -94.693511,
+    38.883796,
+    -94.693511,
+    38.883796
+],
+  "geometry": {"coordinates":[-94.693511,38.883796],"type":"Point"}
+}

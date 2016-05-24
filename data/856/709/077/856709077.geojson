@@ -1,0 +1,74 @@
+{
+  "id": 856709077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.450591,37.694495,-97.450591,37.694495",
+    "geom:latitude":37.694495,
+    "geom:longitude":-97.450591,
+    "iso:country":"US",
+    "sg:address":"9310 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/161388-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 8370",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n5RxAi9sfMLT40lTYQxTR_37.694495_-97.450591@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052248,
+    "wof:geomhash":"daf8535b24afff770097f50ad3e22dd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":856709077
+        }
+    ],
+    "wof:id":856709077,
+    "wof:lastmodified":1464052248,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.450591,
+    37.694495,
+    -97.450591,
+    37.694495
+],
+  "geometry": {"coordinates":[-97.450591,37.694495],"type":"Point"}
+}

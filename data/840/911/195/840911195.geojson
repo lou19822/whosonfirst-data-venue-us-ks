@@ -1,0 +1,71 @@
+{
+  "id": 840911195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706211,39.108546,-95.706211,39.108546",
+    "geom:latitude":39.108546,
+    "geom:longitude":-95.706211,
+    "iso:country":"US",
+    "sg:address":"3333 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 484 3058",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FpoChCWFnJhjqq5oHgUea_39.108546_-95.706211@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050769,
+    "wof:geomhash":"6c425ae53e50317c61c581bfb37d8287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840911195
+        }
+    ],
+    "wof:id":840911195,
+    "wof:lastmodified":1464050769,
+    "wof:name":"Rural Water District 5 Shawnee",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -95.706211,
+    39.108546,
+    -95.706211,
+    39.108546
+],
+  "geometry": {"coordinates":[-95.706211,39.108546],"type":"Point"}
+}

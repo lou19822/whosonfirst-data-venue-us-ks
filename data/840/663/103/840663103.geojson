@@ -1,0 +1,74 @@
+{
+  "id": 840663103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.673995,38.854674,-94.673995,38.854674",
+    "geom:latitude":38.854674,
+    "geom:longitude":-94.673995,
+    "iso:country":"US",
+    "sg:address":"7690 W 151st St",
+    "sg:city":"Stanley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 851 0680",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "sg:website":"www.vioc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mvdC9WpvYLcvTaqtBf9DV_38.854674_-94.673995@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045167,
+    "wof:geomhash":"cf9141adf00ffc54fc35f24bdd53f9fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840663103
+        }
+    ],
+    "wof:id":840663103,
+    "wof:lastmodified":1464045167,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -94.673995,
+    38.854674,
+    -94.673995,
+    38.854674
+],
+  "geometry": {"coordinates":[-94.67399500000001,38.854674],"type":"Point"}
+}

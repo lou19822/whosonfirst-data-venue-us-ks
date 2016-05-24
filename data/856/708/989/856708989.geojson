@@ -1,0 +1,88 @@
+{
+  "id": 856708989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.444677,37.669577,-97.444677,37.669577",
+    "geom:latitude":37.669577,
+    "geom:longitude":-97.444677,
+    "iso:country":"US",
+    "sg:address":"8909 W Kellogg Dr",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/231186-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 0668",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852945,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hHWENJpgM23ypXPuayoEe_37.669577_-97.444677@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052247,
+    "wof:geomhash":"41697ab785ae1e3b2ee656166f09abec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85852945,
+            "region_id":85688555,
+            "venue_id":856708989
+        }
+    ],
+    "wof:id":856708989,
+    "wof:lastmodified":1464052247,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85852945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -97.444677,
+    37.669577,
+    -97.444677,
+    37.669577
+],
+  "geometry": {"coordinates":[-97.444677,37.669577],"type":"Point"}
+}

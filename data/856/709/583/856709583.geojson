@@ -1,0 +1,74 @@
+{
+  "id": 856709583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.481869,37.678975,-97.481869,37.678975",
+    "geom:latitude":37.678975,
+    "geom:longitude":-97.481869,
+    "iso:country":"US",
+    "sg:address":"12112 W Maple St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/183036-shorty-smalls/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 0900",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FMlTWWK5eJdbELUVoqM8l_37.678975_-97.481869@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052258,
+    "wof:geomhash":"1699aca2d42fad8b9ce0c9f44986c3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":856709583
+        }
+    ],
+    "wof:id":856709583,
+    "wof:lastmodified":1464052258,
+    "wof:name":"Shorty Smalls",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.481869,
+    37.678975,
+    -97.481869,
+    37.678975
+],
+  "geometry": {"coordinates":[-97.481869,37.678975],"type":"Point"}
+}

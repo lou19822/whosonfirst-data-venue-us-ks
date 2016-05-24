@@ -1,0 +1,73 @@
+{
+  "id": 840739087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.630759,37.462247,-94.630759,37.462247",
+    "geom:latitude":37.462247,
+    "geom:longitude":-94.630759,
+    "iso:country":"US",
+    "sg:address":"446 S 260th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1977",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GuFZRNqk5V6RvptLu6VCx_37.462247_-94.630759@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046881,
+    "wof:geomhash":"bb731f511183b71823215e5101a0a795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840739087
+        }
+    ],
+    "wof:id":840739087,
+    "wof:lastmodified":1464046881,
+    "wof:name":"Morey Excavation",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.630759,
+    37.462247,
+    -94.630759,
+    37.462247
+],
+  "geometry": {"coordinates":[-94.630759,37.462247],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840828259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848982,37.831044,-96.848982,37.831044",
+    "geom:latitude":37.831044,
+    "geom:longitude":-96.848982,
+    "iso:country":"US",
+    "sg:address":"1214 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 2628",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "glass",
+        "fiber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ju8auYrTDuxLgFkeaBR3c_37.831044_-96.848982@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048968,
+    "wof:geomhash":"2e5e3654841c0c3e8c397373e82f6f85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840828259
+        }
+    ],
+    "wof:id":840828259,
+    "wof:lastmodified":1464048968,
+    "wof:name":"Fiber Tech",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "fiber"
+    ]
+},
+  "bbox": [
+    -96.848982,
+    37.831044,
+    -96.848982,
+    37.831044
+],
+  "geometry": {"coordinates":[-96.84898200000001,37.831044],"type":"Point"}
+}

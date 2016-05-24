@@ -1,0 +1,80 @@
+{
+  "id": 840681367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.821653,38.854688,-94.821653,38.854688",
+    "geom:latitude":38.854688,
+    "geom:longitude":-94.821653,
+    "iso:country":"US",
+    "sg:address":"20384 W 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 6789",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XCmsX9d7SMz0UOg0cU2Sh_38.854688_-94.821653@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045609,
+    "wof:geomhash":"97a0f34103072fe7f73b4dc5a129d30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840681367
+        }
+    ],
+    "wof:id":840681367,
+    "wof:lastmodified":1464045609,
+    "wof:name":"Chai's Tailor",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [
+    -94.821653,
+    38.854688,
+    -94.821653,
+    38.854688
+],
+  "geometry": {"coordinates":[-94.821653,38.854688],"type":"Point"}
+}

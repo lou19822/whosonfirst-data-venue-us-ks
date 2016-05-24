@@ -1,0 +1,73 @@
+{
+  "id": 840710883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687468,39.136551,-95.687468,39.136551",
+    "geom:latitude":39.136551,
+    "geom:longitude":-95.687468,
+    "iso:country":"US",
+    "sg:address":"1615 NW 50th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 3744",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners",
+        "parts",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vH2u6vqBopTSZVGxnOgjz_39.136551_-95.687468@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046320,
+    "wof:geomhash":"e7cca19d15fb9b49845c6778d1a63ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840710883
+        }
+    ],
+    "wof:id":840710883,
+    "wof:lastmodified":1464046320,
+    "wof:name":"A-1 Vacuums",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "parts",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -95.687468,
+    39.136551,
+    -95.687468,
+    39.136551
+],
+  "geometry": {"coordinates":[-95.687468,39.136551],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856705205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.638555,38.913455,-94.638555,38.913455",
+    "geom:latitude":38.913455,
+    "geom:longitude":-94.638555,
+    "iso:country":"US",
+    "sg:address":"4500 W 119th St",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/leawood/98590-longhorn-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 661 0373",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rmgqARc8IrJNwc9ZafzHe_38.913455_-94.638555@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052173,
+    "wof:geomhash":"4520c75cc6f39a4b00caf6bf8a493e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":856705205
+        }
+    ],
+    "wof:id":856705205,
+    "wof:lastmodified":1464052173,
+    "wof:name":"LongHorn Steakhouse",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -94.638555,
+    38.913455,
+    -94.638555,
+    38.913455
+],
+  "geometry": {"coordinates":[-94.638555,38.913455],"type":"Point"}
+}

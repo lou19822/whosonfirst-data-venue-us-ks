@@ -1,0 +1,80 @@
+{
+  "id": 840899539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.611952,39.075317,-94.611952,39.075317",
+    "geom:latitude":39.075317,
+    "geom:longitude":-94.611952,
+    "iso:country":"US",
+    "sg:address":"112 Greystone Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 371 8200",
+    "sg:postcode":"66103",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "sg:website":"www.belforusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873441,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ihPC13tE6KxZuXkLKmdPm_39.075317_-94.611952@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050480,
+    "wof:geomhash":"26175143bc5f503ec1cd77f42b4ae8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85873441,
+            "region_id":85688555,
+            "venue_id":840899539
+        }
+    ],
+    "wof:id":840899539,
+    "wof:lastmodified":1464050480,
+    "wof:name":"Belfor",
+    "wof:parent_id":85873441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -94.611952,
+    39.075317,
+    -94.611952,
+    39.075317
+],
+  "geometry": {"coordinates":[-94.611952,39.075317],"type":"Point"}
+}

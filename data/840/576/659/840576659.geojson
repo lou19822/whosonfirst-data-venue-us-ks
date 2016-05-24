@@ -1,0 +1,71 @@
+{
+  "id": 840576659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.07781,38.463179,-96.07781,38.463179",
+    "geom:latitude":38.463179,
+    "geom:longitude":-96.07781,
+    "iso:country":"US",
+    "sg:address":"1620 Rd 210",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 4221",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "feeding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13E8n0xuqVcuGenyWAftwK_38.463179_-96.077810@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043135,
+    "wof:geomhash":"35fc8901fe935871b9553519046c1985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840576659
+        }
+    ],
+    "wof:id":840576659,
+    "wof:lastmodified":1464043135,
+    "wof:name":"Flint Hills Feed Lot",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feeding"
+    ]
+},
+  "bbox": [
+    -96.07781,
+    38.463179,
+    -96.07781,
+    38.463179
+],
+  "geometry": {"coordinates":[-96.07781,38.463179],"type":"Point"}
+}

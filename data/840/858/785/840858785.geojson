@@ -1,0 +1,71 @@
+{
+  "id": 840858785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.823106,38.745774,-94.823106,38.745774",
+    "geom:latitude":38.745774,
+    "geom:longitude":-94.823106,
+    "iso:country":"US",
+    "sg:address":"100 E Lawrence Ave",
+    "sg:city":"Spring Hill",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 592 3291",
+    "sg:postcode":"66083",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QHh0HB285zKVp16NaE4MS_38.745774_-94.823106@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049633,
+    "wof:geomhash":"6d651437acab3a2760b306c912ff68f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840858785
+        }
+    ],
+    "wof:id":840858785,
+    "wof:lastmodified":1464049633,
+    "wof:name":"Spring Hill Senior Housing",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.823106,
+    38.745774,
+    -94.823106,
+    38.745774
+],
+  "geometry": {"coordinates":[-94.823106,38.745774],"type":"Point"}
+}

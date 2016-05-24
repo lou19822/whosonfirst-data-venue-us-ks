@@ -1,0 +1,71 @@
+{
+  "id": 840915665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.693107,39.158002,-95.693107,39.158002",
+    "geom:latitude":39.158002,
+    "geom:longitude":-95.693107,
+    "iso:country":"US",
+    "sg:address":"2431 NW 62nd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 1890",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XgtFWCmEQ1wApjfADFrwz_39.158002_-95.693107@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050892,
+    "wof:geomhash":"61034c7033c7c3b2b93c09009d3e2ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840915665
+        }
+    ],
+    "wof:id":840915665,
+    "wof:lastmodified":1464050892,
+    "wof:name":"J B's Lawn Maintenance",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.693107,
+    39.158002,
+    -95.693107,
+    39.158002
+],
+  "geometry": {"coordinates":[-95.693107,39.158002],"type":"Point"}
+}

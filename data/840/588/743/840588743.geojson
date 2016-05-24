@@ -1,0 +1,71 @@
+{
+  "id": 840588743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.735825,37.017966,-94.735825,37.017966",
+    "geom:latitude":37.017966,
+    "geom:longitude":-94.735825,
+    "iso:country":"US",
+    "sg:address":"1737 Military Ave",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 4414",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77ZOJJjiJkowNrzCa8QnPG_37.017966_-94.735825@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043395,
+    "wof:geomhash":"32267b011ade44efefcc9c0a57b1baf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840588743
+        }
+    ],
+    "wof:id":840588743,
+    "wof:lastmodified":1464043395,
+    "wof:name":"Weston's Cafe",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -94.735825,
+    37.017966,
+    -94.735825,
+    37.017966
+],
+  "geometry": {"coordinates":[-94.73582500000001,37.017966],"type":"Point"}
+}

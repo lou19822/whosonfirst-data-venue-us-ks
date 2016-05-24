@@ -1,0 +1,75 @@
+{
+  "id": 840644047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.761057,38.970066,-94.761057,38.970066",
+    "geom:latitude":38.970066,
+    "geom:longitude":-94.761057,
+    "iso:country":"US",
+    "sg:address":"8734 Lackman Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 5300",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H8oxtCVUQ7Ty1daQABskg_38.970066_-94.761057@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044765,
+    "wof:geomhash":"7846d29447e557ecb7c46316439c0465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840644047
+        }
+    ],
+    "wof:id":840644047,
+    "wof:lastmodified":1464044765,
+    "wof:name":"Parkway Animal Hospital",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.761057,
+    38.970066,
+    -94.761057,
+    38.970066
+],
+  "geometry": {"coordinates":[-94.76105699999999,38.970066],"type":"Point"}
+}

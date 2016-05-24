@@ -1,0 +1,72 @@
+{
+  "id": 840641565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.380024,37.708718,-97.380024,37.708718",
+    "geom:latitude":37.708718,
+    "geom:longitude":-97.380024,
+    "iso:country":"US",
+    "sg:address":"3223 W 13th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 3900",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.indianhillsanimalclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kh6ni8tBOSwNKB7Z1Lffd_37.708718_-97.380024@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044711,
+    "wof:geomhash":"890681dafe1e15bb665990be2da9014c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840641565
+        }
+    ],
+    "wof:id":840641565,
+    "wof:lastmodified":1464044711,
+    "wof:name":"Indian Hills Animal Clinics",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -97.380024,
+    37.708718,
+    -97.380024,
+    37.708718
+],
+  "geometry": {"coordinates":[-97.38002400000001,37.708718],"type":"Point"}
+}

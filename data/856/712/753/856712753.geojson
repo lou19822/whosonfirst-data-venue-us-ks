@@ -1,0 +1,78 @@
+{
+  "id": 856712753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.020358,37.752744,-100.020358,37.752744",
+    "geom:latitude":37.752744,
+    "geom:longitude":-100.020358,
+    "iso:country":"US",
+    "sg:address":"320 W Wyatt Earp Blvd",
+    "sg:city":"Dodge City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/dodge-city/65977-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 225 1234",
+    "sg:postcode":"67801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849601,
+        102191575,
+        404503629,
+        85633793,
+        85945215,
+        102082141,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VH1RCjKxgZicPs5k5OCTC_37.752693_-100.020173@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052319,
+    "wof:geomhash":"edaa3aea94817022fb8a8fb398a07d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082141,
+            "localadmin_id":404503629,
+            "locality_id":85945215,
+            "neighbourhood_id":85849601,
+            "region_id":85688555,
+            "venue_id":856712753
+        }
+    ],
+    "wof:id":856712753,
+    "wof:lastmodified":1464052319,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85849601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -100.020358,
+    37.752744,
+    -100.020358,
+    37.752744
+],
+  "geometry": {"coordinates":[-100.020358,37.752744],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 840835253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724791,39.034603,-95.724791,39.034603",
+    "geom:latitude":39.034603,
+    "geom:longitude":-95.724791,
+    "iso:country":"US",
+    "sg:address":"1880 SW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 4290",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.fcctopeka.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HHtxOofN8vt6DUv6B6ZkZ_39.034603_-95.724791@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049116,
+    "wof:geomhash":"66ae71405e6e70c20277285f6d4010b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":840835253
+        }
+    ],
+    "wof:id":840835253,
+    "wof:lastmodified":1464049116,
+    "wof:name":"First Christian Church Care",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.724791,
+    39.034603,
+    -95.724791,
+    39.034603
+],
+  "geometry": {"coordinates":[-95.724791,39.034603],"type":"Point"}
+}

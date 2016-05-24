@@ -1,0 +1,79 @@
+{
+  "id": 840647049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.673119,39.07078,-95.673119,39.07078",
+    "geom:latitude":39.07078,
+    "geom:longitude":-95.673119,
+    "iso:country":"US",
+    "sg:address":"1023 NW Tyler St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 3307",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838117,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mJjYX7qFR3NP5mbwBKVtE_39.070780_-95.673119@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044821,
+    "wof:geomhash":"14bd306b95c51e5101473fa256abea94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85838117,
+            "region_id":85688555,
+            "venue_id":840647049
+        }
+    ],
+    "wof:id":840647049,
+    "wof:lastmodified":1464044821,
+    "wof:name":"Northside Muffler & Small Engn",
+    "wof:parent_id":85838117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -95.673119,
+    39.07078,
+    -95.673119,
+    39.07078
+],
+  "geometry": {"coordinates":[-95.673119,39.07078],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856707901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.274349,37.558564,-97.274349,37.558564",
+    "geom:latitude":37.558564,
+    "geom:longitude":-97.274349,
+    "iso:country":"US",
+    "sg:address":"1260 Nelson Dr",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/rockford/198355-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 788 4161",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43TGlKm88MZBlQdzg0usug_37.558564_-97.274349@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052227,
+    "wof:geomhash":"d6ef23e7878fc8bbebc2446e36fa7da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":856707901
+        }
+    ],
+    "wof:id":856707901,
+    "wof:lastmodified":1464052227,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -97.274349,
+    37.558564,
+    -97.274349,
+    37.558564
+],
+  "geometry": {"coordinates":[-97.274349,37.558564],"type":"Point"}
+}

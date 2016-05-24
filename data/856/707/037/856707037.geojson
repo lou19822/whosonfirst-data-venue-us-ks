@@ -1,0 +1,78 @@
+{
+  "id": 856707037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.651635,39.01672,-95.651635,39.01672",
+    "geom:latitude":39.01672,
+    "geom:longitude":-95.651635,
+    "iso:country":"US",
+    "sg:address":"2817 SE California Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/166958-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 5239",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881543,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JLTPIuMvUNQiN1HdmOa2G_39.016720_-95.651635@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052209,
+    "wof:geomhash":"b0e6349256c12ca74881d78810d0049c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881543,
+            "region_id":85688555,
+            "venue_id":856707037
+        }
+    ],
+    "wof:id":856707037,
+    "wof:lastmodified":1464052209,
+    "wof:name":"Burger King",
+    "wof:parent_id":85881543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.651635,
+    39.01672,
+    -95.651635,
+    39.01672
+],
+  "geometry": {"coordinates":[-95.651635,39.01672],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 840663577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.703159,37.416111,-94.703159,37.416111",
+    "geom:latitude":37.416111,
+    "geom:longitude":-94.703159,
+    "iso:country":"US",
+    "sg:address":"213 E 9th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 6941",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:website":"www.stmarys-colgan.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zd62btHaDtm4GgVbIpTiJ_37.416111_-94.703159@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045178,
+    "wof:geomhash":"d3831223bca8b17ee7ce3a609e8dd947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840663577
+        }
+    ],
+    "wof:id":840663577,
+    "wof:lastmodified":1464045178,
+    "wof:name":"St Mary's Elementary School",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.703159,
+    37.416111,
+    -94.703159,
+    37.416111
+],
+  "geometry": {"coordinates":[-94.703159,37.416111],"type":"Point"}
+}

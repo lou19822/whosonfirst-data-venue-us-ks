@@ -1,0 +1,71 @@
+{
+  "id": 840705253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.889504,37.819089,-96.889504,37.819089",
+    "geom:latitude":37.819089,
+    "geom:longitude":-96.889504,
+    "iso:country":"US",
+    "sg:address":"350 Village Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 1496",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sqySgiy0hiDoNmnxZhniL_37.819089_-96.889504@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046207,
+    "wof:geomhash":"604d0ef635b5dae2dc657d76beada708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840705253
+        }
+    ],
+    "wof:id":840705253,
+    "wof:lastmodified":1464046207,
+    "wof:name":"Rogers Brothers Building",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.889504,
+    37.819089,
+    -96.889504,
+    37.819089
+],
+  "geometry": {"coordinates":[-96.889504,37.819089],"type":"Point"}
+}

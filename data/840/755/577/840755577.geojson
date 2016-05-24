@@ -1,0 +1,78 @@
+{
+  "id": 840755577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.757597,38.95642,-94.757597,38.95642",
+    "geom:latitude":38.95642,
+    "geom:longitude":-94.757597,
+    "iso:country":"US",
+    "sg:address":"14645 W 95th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 7666",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "instrument",
+        "weather"
+    ],
+    "sg:website":"www.weathermetrics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XMEs2tBEHA5OQ8i14iqwv_38.956420_-94.757597@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047228,
+    "wof:geomhash":"446bc9a7629350e53d2ae840eb4fda9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840755577
+        }
+    ],
+    "wof:id":840755577,
+    "wof:lastmodified":1464047228,
+    "wof:name":"Weather Metrics",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "weather"
+    ]
+},
+  "bbox": [
+    -94.757597,
+    38.95642,
+    -94.757597,
+    38.95642
+],
+  "geometry": {"coordinates":[-94.757597,38.95642],"type":"Point"}
+}

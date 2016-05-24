@@ -1,0 +1,73 @@
+{
+  "id": 840822845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704985,37.399239,-94.704985,37.399239",
+    "geom:latitude":37.399239,
+    "geom:longitude":-94.704985,
+    "iso:country":"US",
+    "sg:address":"1010 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 5780",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XGv8lOGJ1nsdhG1BzkGBu_37.399239_-94.704985@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048838,
+    "wof:geomhash":"2011131ec85db284707cd65d8c971d67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840822845
+        }
+    ],
+    "wof:id":840822845,
+    "wof:lastmodified":1464048838,
+    "wof:name":"Broadway Electronics Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -94.704985,
+    37.399239,
+    -94.704985,
+    37.399239
+],
+  "geometry": {"coordinates":[-94.70498499999999,37.399239],"type":"Point"}
+}

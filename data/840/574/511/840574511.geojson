@@ -1,0 +1,75 @@
+{
+  "id": 840574511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.982771,39.110501,-94.982771,39.110501",
+    "geom:latitude":39.110501,
+    "geom:longitude":-94.982771,
+    "iso:country":"US",
+    "sg:address":"18730 174th St",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 2775",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tTFN3zmnlyOfuzEGysVfv_39.110501_-94.982771@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043093,
+    "wof:geomhash":"808361d38667688453afdca33d66e663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840574511
+        }
+    ],
+    "wof:id":840574511,
+    "wof:lastmodified":1464043093,
+    "wof:name":"Service Master Pro Restoration",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -94.982771,
+    39.110501,
+    -94.982771,
+    39.110501
+],
+  "geometry": {"coordinates":[-94.982771,39.110501],"type":"Point"}
+}

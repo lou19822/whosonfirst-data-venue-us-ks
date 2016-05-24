@@ -1,0 +1,72 @@
+{
+  "id": 856708433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.466184,37.728787,-97.466184,37.728787",
+    "geom:latitude":37.728787,
+    "geom:longitude":-97.466184,
+    "iso:country":"US",
+    "sg:address":"2441 N Maize Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/75564-tgi-fridays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 9600",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69VXJ0rWdWFhvc3x6TBke8_37.728787_-97.466184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052237,
+    "wof:geomhash":"9217d6739e78c764c7af97445b9649a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":856708433
+        }
+    ],
+    "wof:id":856708433,
+    "wof:lastmodified":1464052237,
+    "wof:name":"T.G.I. Friday's",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -97.466184,
+    37.728787,
+    -97.466184,
+    37.728787
+],
+  "geometry": {"coordinates":[-97.466184,37.728787],"type":"Point"}
+}

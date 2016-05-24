@@ -1,0 +1,71 @@
+{
+  "id": 840804227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.473472,37.73186,-97.473472,37.73186",
+    "geom:latitude":37.73186,
+    "geom:longitude":-97.473472,
+    "iso:country":"US",
+    "sg:address":"2701 N Shefford St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 6075",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G7FpTJ7pvRarOJUybnbGW_37.731860_-97.473472@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048286,
+    "wof:geomhash":"abe30a7ca09fff0b3f9105785a66527a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840804227
+        }
+    ],
+    "wof:id":840804227,
+    "wof:lastmodified":1464048286,
+    "wof:name":"Don Lemen Jr Maint Planner",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -97.473472,
+    37.73186,
+    -97.473472,
+    37.73186
+],
+  "geometry": {"coordinates":[-97.473472,37.73186],"type":"Point"}
+}

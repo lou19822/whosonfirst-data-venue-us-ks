@@ -1,0 +1,78 @@
+{
+  "id": 856707275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.762361,39.0159,-95.762361,39.0159",
+    "geom:latitude":39.0159,
+    "geom:longitude":-95.762361,
+    "iso:country":"US",
+    "sg:address":"2811 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/47082-glory-days-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 5151",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CmtWa6OGLLkNDPzjNMkph_39.015900_-95.762361@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052215,
+    "wof:geomhash":"a27e72c8aba4bf3a40451e2820d5e1bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856707275
+        }
+    ],
+    "wof:id":856707275,
+    "wof:lastmodified":1464052215,
+    "wof:name":"Glory Days Pizza",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.762361,
+    39.0159,
+    -95.762361,
+    39.0159
+],
+  "geometry": {"coordinates":[-95.762361,39.0159],"type":"Point"}
+}

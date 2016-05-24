@@ -1,0 +1,77 @@
+{
+  "id": 840854305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.884375,39.099324,-94.884375,39.099324",
+    "geom:latitude":39.099324,
+    "geom:longitude":-94.884375,
+    "iso:country":"US",
+    "sg:address":"13040 Canaan Dr",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 721 2500",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878489,
+        102191575,
+        404504871,
+        85633793,
+        85945359,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gYH8dE9i2UNTqhyHGWYz2_39.099324_-94.884375@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049531,
+    "wof:geomhash":"b02ae9dbc6cbc42f366dc3588b3a5d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504871,
+            "locality_id":85945359,
+            "neighbourhood_id":85878489,
+            "region_id":85688555,
+            "venue_id":840854305
+        }
+    ],
+    "wof:id":840854305,
+    "wof:lastmodified":1464049531,
+    "wof:name":"Canaan Auto Repair Inc",
+    "wof:parent_id":85878489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.884375,
+    39.099324,
+    -94.884375,
+    39.099324
+],
+  "geometry": {"coordinates":[-94.88437500000001,39.099324],"type":"Point"}
+}

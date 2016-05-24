@@ -1,0 +1,77 @@
+{
+  "id": 840574775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363033,37.733405,-97.363033,37.733405",
+    "geom:latitude":37.733405,
+    "geom:longitude":-97.363033,
+    "iso:country":"US",
+    "sg:address":"2726 N Amidon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 9429",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CEJW81in7ZJzH5kJX1yKE_37.733405_-97.363033@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043097,
+    "wof:geomhash":"0a2eb4b85acb4cb929980761604f69a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840574775
+        }
+    ],
+    "wof:id":840574775,
+    "wof:lastmodified":1464043097,
+    "wof:name":"Video Adventures",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -97.363033,
+    37.733405,
+    -97.363033,
+    37.733405
+],
+  "geometry": {"coordinates":[-97.363033,37.733405],"type":"Point"}
+}

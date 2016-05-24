@@ -1,0 +1,73 @@
+{
+  "id": 840648891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668699,38.85454,-94.668699,38.85454",
+    "geom:latitude":38.85454,
+    "geom:longitude":-94.668699,
+    "iso:country":"US",
+    "sg:address":"7201 W 151st St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 681 2222",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YnK2RkVw644T6l630h6l7_38.854540_-94.668699@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044855,
+    "wof:geomhash":"1d88d58631a801bf83b9d90b22d65c27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840648891
+        }
+    ],
+    "wof:id":840648891,
+    "wof:lastmodified":1464044855,
+    "wof:name":"Lebon Photo Studio Labs",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -94.668699,
+    38.85454,
+    -94.668699,
+    38.85454
+],
+  "geometry": {"coordinates":[-94.668699,38.85454],"type":"Point"}
+}

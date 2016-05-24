@@ -1,0 +1,80 @@
+{
+  "id": 856706375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.642573,38.882692,-94.642573,38.882692",
+    "geom:latitude":38.882692,
+    "geom:longitude":-94.642573,
+    "iso:country":"US",
+    "sg:address":"4841 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/leawood/209051-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 897 6544",
+    "sg:postcode":"66224",
+    "sg:province":"KS",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VJRoIZABIzyXCvTD7dwF4_38.882692_-94.642573@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052193,
+    "wof:geomhash":"214612c7a7cf1c9b066f4bffe4dbcb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":856706375
+        }
+    ],
+    "wof:id":856706375,
+    "wof:lastmodified":1464052193,
+    "wof:name":"TCBY",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.642573,
+    38.882692,
+    -94.642573,
+    38.882692
+],
+  "geometry": {"coordinates":[-94.642573,38.882692],"type":"Point"}
+}

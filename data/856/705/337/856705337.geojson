@@ -1,0 +1,80 @@
+{
+  "id": 856705337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668631,38.928412,-94.668631,38.928412",
+    "geom:latitude":38.928412,
+    "geom:longitude":-94.668631,
+    "iso:country":"US",
+    "sg:address":"11022 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/103034-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 345 8400",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879547,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oPI3nla96ZlssGL2IIpdf_38.928412_-94.668631@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052175,
+    "wof:geomhash":"1ae3bc58c0182bc7e0311c6fcc1dce5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879547,
+            "region_id":85688555,
+            "venue_id":856705337
+        }
+    ],
+    "wof:id":856705337,
+    "wof:lastmodified":1464052175,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85879547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -94.668631,
+    38.928412,
+    -94.668631,
+    38.928412
+],
+  "geometry": {"coordinates":[-94.668631,38.928412],"type":"Point"}
+}

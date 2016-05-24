@@ -1,0 +1,80 @@
+{
+  "id": 856711357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.710829,38.971536,-94.710829,38.971536",
+    "geom:latitude":38.971536,
+    "geom:longitude":-94.710829,
+    "iso:country":"US",
+    "sg:address":"8699 Bluejacket St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/174274-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 7134",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879569,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oUpUYTmWhVH805579VRKM_38.971114_-94.711243@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052293,
+    "wof:geomhash":"9d1cd637796d857bd09f4d3cafa0bac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879569,
+            "region_id":85688555,
+            "venue_id":856711357
+        }
+    ],
+    "wof:id":856711357,
+    "wof:lastmodified":1464052293,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85879569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.710829,
+    38.971536,
+    -94.710829,
+    38.971536
+],
+  "geometry": {"coordinates":[-94.710829,38.971536],"type":"Point"}
+}

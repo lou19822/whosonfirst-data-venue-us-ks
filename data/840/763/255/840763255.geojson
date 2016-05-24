@@ -1,0 +1,73 @@
+{
+  "id": 840763255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.425838,37.608668,-97.425838,37.608668",
+    "geom:latitude":37.608668,
+    "geom:longitude":-97.425838,
+    "iso:country":"US",
+    "sg:address":"4750 S Ridge Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 554 7287",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CEI8TQOWrifqBWFwYGYMz_37.608668_-97.425838@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047414,
+    "wof:geomhash":"4244390bf2d132d861671e08ee7090eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840763255
+        }
+    ],
+    "wof:id":840763255,
+    "wof:lastmodified":1464047414,
+    "wof:name":"Pat's Service Ctr",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.425838,
+    37.608668,
+    -97.425838,
+    37.608668
+],
+  "geometry": {"coordinates":[-97.425838,37.608668],"type":"Point"}
+}

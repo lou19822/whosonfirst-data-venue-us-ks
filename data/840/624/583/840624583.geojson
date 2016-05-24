@@ -1,0 +1,71 @@
+{
+  "id": 840624583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.75718,39.129542,-95.75718,39.129542",
+    "geom:latitude":39.129542,
+    "geom:longitude":-95.75718,
+    "iso:country":"US",
+    "sg:address":"6020 NW 46th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 4637",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t7OaMLfyPCIMvv6RN1LV6_39.129542_-95.757180@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044285,
+    "wof:geomhash":"1e353e88caf58bb8c967829a9af93797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840624583
+        }
+    ],
+    "wof:id":840624583,
+    "wof:lastmodified":1464044285,
+    "wof:name":"D & K Roofing",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.75718,
+    39.129542,
+    -95.75718,
+    39.129542
+],
+  "geometry": {"coordinates":[-95.75718000000001,39.129542],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 840736001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.660427,38.905539,-94.660427,38.905539",
+    "geom:latitude":38.905539,
+    "geom:longitude":-94.660427,
+    "iso:country":"US",
+    "sg:address":"6621 W 123rd St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 491 5485",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "test",
+        "medical",
+        "mfg",
+        "kit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZPZUWLeGUAljSgHDA79Sk_38.905539_-94.660427@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046818,
+    "wof:geomhash":"49ccfa9703873330b137ee789d8a7671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":840736001
+        }
+    ],
+    "wof:id":840736001,
+    "wof:lastmodified":1464046818,
+    "wof:name":"Diagnostic Products Corp",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "test",
+        "medical",
+        "mfg",
+        "kit"
+    ]
+},
+  "bbox": [
+    -94.660427,
+    38.905539,
+    -94.660427,
+    38.905539
+],
+  "geometry": {"coordinates":[-94.660427,38.905539],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840808099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.676498,38.869181,-94.676498,38.869181",
+    "geom:latitude":38.869181,
+    "geom:longitude":-94.676498,
+    "iso:country":"US",
+    "sg:address":"7700 W 143rd St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 681 3341",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.ffc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ed7acylprf7XRzAUIu3aw_38.869181_-94.676498@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048361,
+    "wof:geomhash":"527888031c0c081d33aba1b05d2d3e9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840808099
+        }
+    ],
+    "wof:id":840808099,
+    "wof:lastmodified":1464048361,
+    "wof:name":"First Family Church",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.676498,
+    38.869181,
+    -94.676498,
+    38.869181
+],
+  "geometry": {"coordinates":[-94.676498,38.869181],"type":"Point"}
+}

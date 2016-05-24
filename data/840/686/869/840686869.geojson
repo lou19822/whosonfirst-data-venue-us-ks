@@ -1,0 +1,73 @@
+{
+  "id": 840686869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.291449,37.605816,-97.291449,37.605816",
+    "geom:latitude":37.605816,
+    "geom:longitude":-97.291449,
+    "iso:country":"US",
+    "sg:address":"3611 E 47th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 5929",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68WvCfB7gwwcWQPnwr1VHP_37.605816_-97.291449@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045749,
+    "wof:geomhash":"83e11f9eb47af6bf0ca85ef96f4f2030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840686869
+        }
+    ],
+    "wof:id":840686869,
+    "wof:lastmodified":1464045749,
+    "wof:name":"Hank's Motors",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.291449,
+    37.605816,
+    -97.291449,
+    37.605816
+],
+  "geometry": {"coordinates":[-97.291449,37.605816],"type":"Point"}
+}

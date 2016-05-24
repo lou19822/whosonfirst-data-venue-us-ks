@@ -1,0 +1,75 @@
+{
+  "id": 840826681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.677945,39.059251,-95.677945,39.059251",
+    "geom:latitude":39.059251,
+    "geom:longitude":-95.677945,
+    "iso:country":"US",
+    "sg:address":"128 SW Tyler St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 0565",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kXWVk8MxvwVpcVt322xO6_39.059251_-95.677945@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048929,
+    "wof:geomhash":"b3eb9fd2d245494b9605cf0b297acf27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840826681
+        }
+    ],
+    "wof:id":840826681,
+    "wof:lastmodified":1464048929,
+    "wof:name":"Edsall Auto Svc",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -95.677945,
+    39.059251,
+    -95.677945,
+    39.059251
+],
+  "geometry": {"coordinates":[-95.67794499999999,39.059251],"type":"Point"}
+}

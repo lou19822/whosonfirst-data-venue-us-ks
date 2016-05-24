@@ -1,0 +1,71 @@
+{
+  "id": 840920181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.681269,39.042719,-95.681269,39.042719",
+    "geom:latitude":39.042719,
+    "geom:longitude":-95.681269,
+    "iso:country":"US",
+    "sg:address":"1200 SW Harrison St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 5696",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:website":"www.ksbar.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p0f9J4MRczf0Qun2OYGwW_39.042719_-95.681269@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050994,
+    "wof:geomhash":"32429aef1e4e59705b4a27d941eed663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840920181
+        }
+    ],
+    "wof:id":840920181,
+    "wof:lastmodified":1464050994,
+    "wof:name":"Kansas Bar Assn",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.681269,
+    39.042719,
+    -95.681269,
+    39.042719
+],
+  "geometry": {"coordinates":[-95.681269,39.042719],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840800739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.298767,37.670069,-97.298767,37.670069",
+    "geom:latitude":37.670069,
+    "geom:longitude":-97.298767,
+    "iso:country":"US",
+    "sg:address":"902 S Hillside St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 686 6514",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bqcbckwr0GI1qkf4X9s40_37.670069_-97.298767@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048217,
+    "wof:geomhash":"d2fb3212bcf6941f9d4355a5b4851549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840800739
+        }
+    ],
+    "wof:id":840800739,
+    "wof:lastmodified":1464048217,
+    "wof:name":"Paul's Radiator Svc",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -97.298767,
+    37.670069,
+    -97.298767,
+    37.670069
+],
+  "geometry": {"coordinates":[-97.298767,37.670069],"type":"Point"}
+}

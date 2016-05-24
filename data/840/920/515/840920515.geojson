@@ -1,0 +1,77 @@
+{
+  "id": 840920515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.797877,39.08993,-95.797877,39.08993",
+    "geom:latitude":39.08993,
+    "geom:longitude":-95.797877,
+    "iso:country":"US",
+    "sg:address":"2222 NW Huxman Rd",
+    "sg:city":"Silver Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 582 4645",
+    "sg:postcode":"66539",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PN37BxR0hY4QLe29CS83O_39.089930_-95.797877@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051003,
+    "wof:geomhash":"238a0233f8d8163b8a1ed2f74bcbfe8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840920515
+        }
+    ],
+    "wof:id":840920515,
+    "wof:lastmodified":1464051003,
+    "wof:name":"RDR Excavating",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.797877,
+    39.08993,
+    -95.797877,
+    39.08993
+],
+  "geometry": {"coordinates":[-95.797877,39.08993],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 840575113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.196338,38.405046,-96.196338,38.405046",
+    "geom:latitude":38.405046,
+    "geom:longitude":-96.196338,
+    "iso:country":"US",
+    "sg:address":"1201 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 3366",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:website":"www.ekhomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4arY0PvfLmbSqqHa5YRAsF_38.405046_-96.196338@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043106,
+    "wof:geomhash":"cd3ca9c1579a0fbbfccff91d0153de75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840575113
+        }
+    ],
+    "wof:id":840575113,
+    "wof:lastmodified":1464043106,
+    "wof:name":"Ek Real Estate",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.196338,
+    38.405046,
+    -96.196338,
+    38.405046
+],
+  "geometry": {"coordinates":[-96.196338,38.405046],"type":"Point"}
+}

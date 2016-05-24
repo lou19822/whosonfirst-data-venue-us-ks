@@ -1,0 +1,71 @@
+{
+  "id": 840588203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.189488,38.493198,-96.189488,38.493198",
+    "geom:latitude":38.493198,
+    "geom:longitude":-96.189488,
+    "iso:country":"US",
+    "sg:address":"2318 Rd K",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 8216",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fpJp3kVQQlFZjKXaDt1Bq_38.493198_-96.189488@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043383,
+    "wof:geomhash":"22c828b417a21e49ec1554b7b5ac48df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840588203
+        }
+    ],
+    "wof:id":840588203,
+    "wof:lastmodified":1464043383,
+    "wof:name":"John's Electronic Repair",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -96.189488,
+    38.493198,
+    -96.189488,
+    38.493198
+],
+  "geometry": {"coordinates":[-96.189488,38.493198],"type":"Point"}
+}

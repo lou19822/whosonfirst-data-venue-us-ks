@@ -1,0 +1,71 @@
+{
+  "id": 840897517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667929,37.453348,-94.667929,37.453348",
+    "geom:latitude":37.453348,
+    "geom:longitude":-94.667929,
+    "iso:country":"US",
+    "sg:address":"4602 N Free Kings Hwy",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 9069",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1teqtyEEYX0kx6v8Jd3kJB_37.453348_-94.667929@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050441,
+    "wof:geomhash":"f7c8530ce8f40b9e1803286353c32ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840897517
+        }
+    ],
+    "wof:id":840897517,
+    "wof:lastmodified":1464050441,
+    "wof:name":"Dav's Lock & Sharpening Svc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -94.667929,
+    37.453348,
+    -94.667929,
+    37.453348
+],
+  "geometry": {"coordinates":[-94.667929,37.453348],"type":"Point"}
+}

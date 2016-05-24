@@ -1,0 +1,71 @@
+{
+  "id": 840805453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961029,38.310727,-95.961029,38.310727",
+    "geom:latitude":38.310727,
+    "geom:longitude":-95.961029,
+    "iso:country":"US",
+    "sg:address":"310 W Maple Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 392 5553",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WjSIRuaNdFI7LjpJEj48L_38.310727_-95.961029@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048307,
+    "wof:geomhash":"f5897cc38ef4ff1219edccf2d0c974ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840805453
+        }
+    ],
+    "wof:id":840805453,
+    "wof:lastmodified":1464048307,
+    "wof:name":"US Fish & Wildlife Svc",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -95.961029,
+    38.310727,
+    -95.961029,
+    38.310727
+],
+  "geometry": {"coordinates":[-95.961029,38.310727],"type":"Point"}
+}

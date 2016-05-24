@@ -1,0 +1,76 @@
+{
+  "id": 840819459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.541149,37.779557,-97.541149,37.779557",
+    "geom:latitude":37.779557,
+    "geom:longitude":-97.541149,
+    "iso:country":"US",
+    "sg:address":"351 S 5th St",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 0356",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jk2dZQSWTxpyyVZvjO2p0_37.779557_-97.541149@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048738,
+    "wof:geomhash":"25263a5052583dd0b3d32d62eb3e1882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840819459
+        }
+    ],
+    "wof:id":840819459,
+    "wof:lastmodified":1464048738,
+    "wof:name":"Sacred Heart Religious Edu Ctr",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -97.541149,
+    37.779557,
+    -97.541149,
+    37.779557
+],
+  "geometry": {"coordinates":[-97.541149,37.779557],"type":"Point"}
+}

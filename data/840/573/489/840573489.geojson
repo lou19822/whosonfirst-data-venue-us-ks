@@ -1,0 +1,71 @@
+{
+  "id": 840573489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.817501,38.881942,-94.817501,38.881942",
+    "geom:latitude":38.881942,
+    "geom:longitude":-94.817501,
+    "iso:country":"US",
+    "sg:address":"201 E Park St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 2259",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:website":"www.olathe.lib.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74ZgTAjn1COxXERLrz8oeM_38.881942_-94.817501@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043072,
+    "wof:geomhash":"030ccd764558c661c4dd334acdf9cebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840573489
+        }
+    ],
+    "wof:id":840573489,
+    "wof:lastmodified":1464043072,
+    "wof:name":"Olathe Public Library",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.817501,
+    38.881942,
+    -94.817501,
+    38.881942
+],
+  "geometry": {"coordinates":[-94.81750099999999,38.881942],"type":"Point"}
+}

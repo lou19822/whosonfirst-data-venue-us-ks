@@ -1,0 +1,75 @@
+{
+  "id": 840820735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181508,38.405906,-96.181508,38.405906",
+    "geom:latitude":38.405906,
+    "geom:longitude":-96.181508,
+    "iso:country":"US",
+    "sg:address":"625 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7788",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "credit",
+        "debt",
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fLjgSzcbE3x6aInEiFFdd_38.405906_-96.181508@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048771,
+    "wof:geomhash":"54ef57fcf4699d2ecdb73eb194ae6abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840820735
+        }
+    ],
+    "wof:id":840820735,
+    "wof:lastmodified":1464048771,
+    "wof:name":"Consumer Credit Counseling Svc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "credit",
+        "debt",
+        "counseling"
+    ]
+},
+  "bbox": [
+    -96.181508,
+    38.405906,
+    -96.181508,
+    38.405906
+],
+  "geometry": {"coordinates":[-96.18150799999999,38.405906],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840752953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667769,38.852261,-94.667769,38.852261",
+    "geom:latitude":38.852261,
+    "geom:longitude":-94.667769,
+    "iso:country":"US",
+    "sg:address":"15317 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 681 5203",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46rmdsWRHWF2D45YsrOTDL_38.852261_-94.667769@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047170,
+    "wof:geomhash":"9a384cfd24e80853d94c61b11625a299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840752953
+        }
+    ],
+    "wof:id":840752953,
+    "wof:lastmodified":1464047170,
+    "wof:name":"Blue Valley Auto Wash",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.667769,
+    38.852261,
+    -94.667769,
+    38.852261
+],
+  "geometry": {"coordinates":[-94.66776900000001,38.852261],"type":"Point"}
+}

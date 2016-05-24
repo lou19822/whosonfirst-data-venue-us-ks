@@ -1,0 +1,69 @@
+{
+  "id": 840594853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.683371,39.09081,-95.683371,39.09081",
+    "geom:latitude":39.09081,
+    "geom:longitude":-95.683371,
+    "iso:country":"US",
+    "sg:address":"901 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 8888",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mz6dfgCxhMux1hwMSnIrW_39.090810_-95.683371@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043536,
+    "wof:geomhash":"5db9a02718ecc8d48100023ad82228df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840594853
+        }
+    ],
+    "wof:id":840594853,
+    "wof:lastmodified":1464043536,
+    "wof:name":"Frontier Trucking",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.683371,
+    39.09081,
+    -95.683371,
+    39.09081
+],
+  "geometry": {"coordinates":[-95.68337099999999,39.09081],"type":"Point"}
+}

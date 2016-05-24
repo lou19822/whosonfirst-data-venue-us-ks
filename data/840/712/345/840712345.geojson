@@ -1,0 +1,75 @@
+{
+  "id": 840712345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.594927,38.977398,-94.594927,38.977398",
+    "geom:latitude":38.977398,
+    "geom:longitude":-94.594927,
+    "iso:country":"US",
+    "sg:address":"8200 Wornall Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 444 7602",
+    "sg:postcode":"64114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871971,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AZ9PoXKlh8Zub6bHhL1EX_38.977398_-94.594927@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046348,
+    "wof:geomhash":"0ebb65a83a22bec73f26eebf90962926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871971,
+            "region_id":85688661,
+            "venue_id":840712345
+        }
+    ],
+    "wof:id":840712345,
+    "wof:lastmodified":1464046348,
+    "wof:name":"Carstar Wornall",
+    "wof:parent_id":85871971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -94.594927,
+    38.977398,
+    -94.594927,
+    38.977398
+],
+  "geometry": {"coordinates":[-94.594927,38.977398],"type":"Point"}
+}

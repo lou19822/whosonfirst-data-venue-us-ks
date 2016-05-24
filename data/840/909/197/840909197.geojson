@@ -1,0 +1,66 @@
+{
+  "id": 840909197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.682843,38.850557,-94.682843,38.850557",
+    "geom:latitude":38.850557,
+    "geom:longitude":-94.682843,
+    "iso:country":"US",
+    "sg:address":"8102 W 153rd St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 897 0212",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WQlHd2FtCVZ1oELqGzixt_38.850557_-94.682843@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050702,
+    "wof:geomhash":"856dde2a5ba89925167a3b3fc49354cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840909197
+        }
+    ],
+    "wof:id":840909197,
+    "wof:lastmodified":1464050702,
+    "wof:name":"GMC Electronics",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.682843,
+    38.850557,
+    -94.682843,
+    38.850557
+],
+  "geometry": {"coordinates":[-94.68284300000001,38.850557],"type":"Point"}
+}

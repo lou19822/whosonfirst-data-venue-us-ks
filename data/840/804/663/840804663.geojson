@@ -1,0 +1,73 @@
+{
+  "id": 840804663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.698954,37.413031,-94.698954,37.413031",
+    "geom:latitude":37.413031,
+    "geom:longitude":-94.698954,
+    "iso:country":"US",
+    "sg:address":"504 N Grand St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 6916",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qE3A4vwoJUtj15GH4i9hP_37.413031_-94.698954@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048293,
+    "wof:geomhash":"906ec6795398b11cde97624b283d5a26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840804663
+        }
+    ],
+    "wof:id":840804663,
+    "wof:lastmodified":1464048293,
+    "wof:name":"James Van Becelaere Machine",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.698954,
+    37.413031,
+    -94.698954,
+    37.413031
+],
+  "geometry": {"coordinates":[-94.698954,37.413031],"type":"Point"}
+}

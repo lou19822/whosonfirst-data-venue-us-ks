@@ -1,0 +1,84 @@
+{
+  "id": 856712905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.772913,38.923097,-94.772913,38.923097",
+    "geom:latitude":38.923097,
+    "geom:longitude":-94.772913,
+    "iso:country":"US",
+    "sg:address":"16025 West 113th St",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 323 5441",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "freight",
+        "ltl-freight",
+        "air-freight",
+        "intermodal-freight",
+        "rail-freight"
+    ],
+    "sg:website":"http://www.freightquote.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50RpFtuevLoMnv5o5YeFNC_38.923097_-94.772913@1308186498"
+    },
+    "wof:country":"US",
+    "wof:created":1464052322,
+    "wof:geomhash":"c71373e92c2197c1a27fc11296f8ce08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":856712905
+        }
+    ],
+    "wof:id":856712905,
+    "wof:lastmodified":1464052322,
+    "wof:name":"Freightquote",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "freight",
+        "ltl-freight",
+        "air-freight",
+        "intermodal-freight",
+        "rail-freight"
+    ]
+},
+  "bbox": [
+    -94.772913,
+    38.923097,
+    -94.772913,
+    38.923097
+],
+  "geometry": {"coordinates":[-94.772913,38.923097],"type":"Point"}
+}

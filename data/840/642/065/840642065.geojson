@@ -1,0 +1,75 @@
+{
+  "id": 840642065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724756,39.057324,-95.724756,39.057324",
+    "geom:latitude":39.057324,
+    "geom:longitude":-95.724756,
+    "iso:country":"US",
+    "sg:address":"635 SW Gage Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"Botanical Garden",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 7042",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "zoo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881539,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iUxBxtFSDXmicHI4r430y_39.057324_-95.724756@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044721,
+    "wof:geomhash":"6ac22f30de2f2d0982a945a669d1b534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881539,
+            "region_id":85688555,
+            "venue_id":840642065
+        }
+    ],
+    "wof:id":840642065,
+    "wof:lastmodified":1464044721,
+    "wof:name":"Zoo Gage Park",
+    "wof:parent_id":85881539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "zoo"
+    ]
+},
+  "bbox": [
+    -95.724756,
+    39.057324,
+    -95.724756,
+    39.057324
+],
+  "geometry": {"coordinates":[-95.724756,39.057324],"type":"Point"}
+}

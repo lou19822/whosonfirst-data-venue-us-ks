@@ -1,0 +1,71 @@
+{
+  "id": 840596539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.64671,38.969131,-95.64671,38.969131",
+    "geom:latitude":38.969131,
+    "geom:longitude":-95.64671,
+    "iso:country":"US",
+    "sg:address":"2015 SE 55th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 0664",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PdyJX4fSQqFbvCn7CrmrC_38.969131_-95.646710@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043572,
+    "wof:geomhash":"48fbaa880e9923b721001db53fdeeede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840596539
+        }
+    ],
+    "wof:id":840596539,
+    "wof:lastmodified":1464043572,
+    "wof:name":"Sherie's Styling Salon",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.64671,
+    38.969131,
+    -95.64671,
+    38.969131
+],
+  "geometry": {"coordinates":[-95.64671,38.969131],"type":"Point"}
+}

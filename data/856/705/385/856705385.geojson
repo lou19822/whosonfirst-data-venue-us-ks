@@ -1,0 +1,82 @@
+{
+  "id": 856705385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.682846,38.927053,-94.682846,38.927053",
+    "geom:latitude":38.927053,
+    "geom:longitude":-94.682846,
+    "iso:country":"US",
+    "sg:address":"8505 College Blvd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/238001-sweet-tomatoes/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 317 9092",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "soup",
+        "american",
+        "pastry",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LXiAkJO68r7tyru7IdjN8_38.927053_-94.682846@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052176,
+    "wof:geomhash":"4a223565436b95dde412458ed2f4e34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":856705385
+        }
+    ],
+    "wof:id":856705385,
+    "wof:lastmodified":1464052176,
+    "wof:name":"Sweet Tomatoes",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soup",
+        "american",
+        "pastry",
+        "salad"
+    ]
+},
+  "bbox": [
+    -94.682846,
+    38.927053,
+    -94.682846,
+    38.927053
+],
+  "geometry": {"coordinates":[-94.682846,38.927053],"type":"Point"}
+}

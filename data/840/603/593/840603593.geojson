@@ -1,0 +1,72 @@
+{
+  "id": 840603593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686454,37.458348,-94.686454,37.458348",
+    "geom:latitude":37.458348,
+    "geom:longitude":-94.686454,
+    "iso:country":"US",
+    "sg:address":"250 N Cayuga St",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7970",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "ale"
+    ],
+    "sg:website":"www.eaglebeverageco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HC8nNDO5TZX46lH4NL1Eo_37.458348_-94.686454@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043745,
+    "wof:geomhash":"c92432867704e365dea7c7ed3583fdf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840603593
+        }
+    ],
+    "wof:id":840603593,
+    "wof:lastmodified":1464043745,
+    "wof:name":"Eagle Beverage Co Inc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -94.686454,
+    37.458348,
+    -94.686454,
+    37.458348
+],
+  "geometry": {"coordinates":[-94.686454,37.458348],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856706089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.779248,38.998462,-94.779248,38.998462",
+    "geom:latitude":38.998462,
+    "geom:longitude":-94.779248,
+    "iso:country":"US",
+    "sg:address":"7175 Renner Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/174275-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 631 1804",
+    "sg:postcode":"66217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812711,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kwME3K2dguegCF4CenSV7_38.998462_-94.779248@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052188,
+    "wof:geomhash":"655bfa4b8f02317edc900e32b640566c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85812711,
+            "region_id":85688555,
+            "venue_id":856706089
+        }
+    ],
+    "wof:id":856706089,
+    "wof:lastmodified":1464052188,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85812711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.779248,
+    38.998462,
+    -94.779248,
+    38.998462
+],
+  "geometry": {"coordinates":[-94.779248,38.998462],"type":"Point"}
+}

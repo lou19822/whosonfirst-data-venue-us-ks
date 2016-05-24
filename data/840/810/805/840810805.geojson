@@ -1,0 +1,73 @@
+{
+  "id": 840810805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180194,38.408366,-96.180194,38.408366",
+    "geom:latitude":38.408366,
+    "geom:longitude":-96.180194,
+    "iso:country":"US",
+    "sg:address":"825 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1148",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil",
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77hgjGD31brYU2GusNVAGB_38.408366_-96.180194@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048449,
+    "wof:geomhash":"415f48fff3ff67877ddfa35ccd52c20d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840810805
+        }
+    ],
+    "wof:id":840810805,
+    "wof:lastmodified":1464048449,
+    "wof:name":"Glacier Petroleum",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "well"
+    ]
+},
+  "bbox": [
+    -96.180194,
+    38.408366,
+    -96.180194,
+    38.408366
+],
+  "geometry": {"coordinates":[-96.180194,38.408366],"type":"Point"}
+}

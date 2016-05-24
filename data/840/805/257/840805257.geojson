@@ -1,0 +1,73 @@
+{
+  "id": 840805257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.328864,37.65932,-97.328864,37.65932",
+    "geom:latitude":37.65932,
+    "geom:longitude":-97.328864,
+    "iso:country":"US",
+    "sg:address":"1822 S Mead St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 265 4186",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vcMeE3LHj6E8AGfcsB0tz_37.659320_-97.328864@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048304,
+    "wof:geomhash":"371198e2f165bf9a6bf5a53bc3051d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840805257
+        }
+    ],
+    "wof:id":840805257,
+    "wof:lastmodified":1464048304,
+    "wof:name":"Phillips Southern Electric Co",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.328864,
+    37.65932,
+    -97.328864,
+    37.65932
+],
+  "geometry": {"coordinates":[-97.328864,37.65932],"type":"Point"}
+}

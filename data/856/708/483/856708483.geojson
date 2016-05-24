@@ -1,0 +1,72 @@
+{
+  "id": 856708483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.463316,37.723956,-97.463316,37.723956",
+    "geom:latitude":37.723956,
+    "geom:longitude":-97.463316,
+    "iso:country":"US",
+    "sg:address":"2241 N Maize Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/118888-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 6900",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_300DJo4oA49vFEcxyrlwhV_37.723956_-97.463316@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052238,
+    "wof:geomhash":"0cfe08b8ed67c61738f0728cf64fcd57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":856708483
+        }
+    ],
+    "wof:id":856708483,
+    "wof:lastmodified":1464052238,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -97.463316,
+    37.723956,
+    -97.463316,
+    37.723956
+],
+  "geometry": {"coordinates":[-97.46331600000001,37.723956],"type":"Point"}
+}

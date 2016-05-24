@@ -1,0 +1,71 @@
+{
+  "id": 840711209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.672251,38.961187,-94.672251,38.961187",
+    "geom:latitude":38.961187,
+    "geom:longitude":-94.672251,
+    "iso:country":"US",
+    "sg:address":"9229 Foster St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 649 7469",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:website":"www.newtheatre.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879595,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48e95kbU0km5aoa1a5Vd4s_38.961187_-94.672251@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046325,
+    "wof:geomhash":"5759fe1ca72f0c2369e751578d02d805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879595,
+            "region_id":85688555,
+            "venue_id":840711209
+        }
+    ],
+    "wof:id":840711209,
+    "wof:lastmodified":1464046325,
+    "wof:name":"New Theatre Restaurant",
+    "wof:parent_id":85879595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.672251,
+    38.961187,
+    -94.672251,
+    38.961187
+],
+  "geometry": {"coordinates":[-94.672251,38.961187],"type":"Point"}
+}

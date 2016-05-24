@@ -1,0 +1,78 @@
+{
+  "id": 856710785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.878644,39.057937,-94.878644,39.057937",
+    "geom:latitude":39.057937,
+    "geom:longitude":-94.878644,
+    "iso:country":"US",
+    "sg:address":"501 E Front St",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/bonner-springs/65832-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 2435",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851431,
+        102191575,
+        404504871,
+        85633793,
+        85945359,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M2IrFHmufFFDqggU6OskN_39.058023_-94.878515@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052282,
+    "wof:geomhash":"f69ade4972f435abab653c8b92eff62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504871,
+            "locality_id":85945359,
+            "neighbourhood_id":85851431,
+            "region_id":85688555,
+            "venue_id":856710785
+        }
+    ],
+    "wof:id":856710785,
+    "wof:lastmodified":1464052282,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85851431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.878644,
+    39.057937,
+    -94.878644,
+    39.057937
+],
+  "geometry": {"coordinates":[-94.87864399999999,39.057937],"type":"Point"}
+}

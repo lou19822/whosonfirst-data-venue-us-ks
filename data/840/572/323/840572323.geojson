@@ -1,0 +1,71 @@
+{
+  "id": 840572323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.294253,37.605788,-97.294253,37.605788",
+    "geom:latitude":37.605788,
+    "geom:longitude":-97.294253,
+    "iso:country":"US",
+    "sg:address":"3363 E 47th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 1155",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U6zc4E1EUEe33IxCY9ljB_37.605788_-97.294253@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043043,
+    "wof:geomhash":"bf2cbd64be872ecfcc4afc5ebbf1cec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840572323
+        }
+    ],
+    "wof:id":840572323,
+    "wof:lastmodified":1464043043,
+    "wof:name":"Xom Market",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -97.294253,
+    37.605788,
+    -97.294253,
+    37.605788
+],
+  "geometry": {"coordinates":[-97.294253,37.605788],"type":"Point"}
+}

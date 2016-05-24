@@ -1,0 +1,77 @@
+{
+  "id": 840811307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.727686,39.029556,-95.727686,39.029556",
+    "geom:latitude":39.029556,
+    "geom:longitude":-95.727686,
+    "iso:country":"US",
+    "sg:address":"4004 SW 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 9504",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hFr3gaZMhJq5ve1neOFRe_39.029556_-95.727686@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048469,
+    "wof:geomhash":"e45a55cd3b72800b2edea4442569ed3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":840811307
+        }
+    ],
+    "wof:id":840811307,
+    "wof:lastmodified":1464048469,
+    "wof:name":"F & F Electric Motor Repair",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -95.727686,
+    39.029556,
+    -95.727686,
+    39.029556
+],
+  "geometry": {"coordinates":[-95.72768600000001,39.029556],"type":"Point"}
+}

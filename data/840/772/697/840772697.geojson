@@ -1,0 +1,71 @@
+{
+  "id": 840772697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.710214,39.130514,-95.710214,39.130514",
+    "geom:latitude":39.130514,
+    "geom:longitude":-95.710214,
+    "iso:country":"US",
+    "sg:address":"4828 NW Button Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 1287",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O3C9tDpVR0uUB4LdH1qCp_39.130514_-95.710214@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047628,
+    "wof:geomhash":"360da8584862912a6b8f4f80a31bcda7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840772697
+        }
+    ],
+    "wof:id":840772697,
+    "wof:lastmodified":1464047628,
+    "wof:name":"Steve Schreiner Construction",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.710214,
+    39.130514,
+    -95.710214,
+    39.130514
+],
+  "geometry": {"coordinates":[-95.71021399999999,39.130514],"type":"Point"}
+}

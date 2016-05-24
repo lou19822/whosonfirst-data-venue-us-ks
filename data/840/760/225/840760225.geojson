@@ -1,0 +1,76 @@
+{
+  "id": 840760225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.632133,39.124703,-94.632133,39.124703",
+    "geom:latitude":39.124703,
+    "geom:longitude":-94.632133,
+    "iso:country":"US",
+    "sg:address":"1801 N 9 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 281 4800",
+    "sg:postcode":"66101",
+    "sg:province":"KS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.vankeppel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878501,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ui1FQjrbrYCXSeit3wIGw_39.124703_-94.632133@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047348,
+    "wof:geomhash":"8d7144a8bd3fceb0b8a348ed1412def2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878501,
+            "region_id":85688555,
+            "venue_id":840760225
+        }
+    ],
+    "wof:id":840760225,
+    "wof:lastmodified":1464047348,
+    "wof:name":"G W Van Keppel Co",
+    "wof:parent_id":85878501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.632133,
+    39.124703,
+    -94.632133,
+    39.124703
+],
+  "geometry": {"coordinates":[-94.632133,39.124703],"type":"Point"}
+}

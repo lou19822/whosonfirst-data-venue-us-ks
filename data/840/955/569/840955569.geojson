@@ -1,0 +1,69 @@
+{
+  "id": 840955569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.881655,37.825078,-96.881655,37.825078",
+    "geom:latitude":37.825078,
+    "geom:longitude":-96.881655,
+    "iso:country":"US",
+    "sg:address":"805 N Haverhill Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3900",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07JU88Sc6KxtxV4K7EXHwZ_37.825078_-96.881655@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051754,
+    "wof:geomhash":"a35aa069a3ef6ff9a33466f96ca955a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840955569
+        }
+    ],
+    "wof:id":840955569,
+    "wof:lastmodified":1464051754,
+    "wof:name":"Wynne Transport Svc Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.881655,
+    37.825078,
+    -96.881655,
+    37.825078
+],
+  "geometry": {"coordinates":[-96.88165499999999,37.825078],"type":"Point"}
+}

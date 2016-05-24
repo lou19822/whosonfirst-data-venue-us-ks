@@ -1,0 +1,73 @@
+{
+  "id": 840539441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.623055,39.039368,-95.623055,39.039368",
+    "geom:latitude":39.039368,
+    "geom:longitude":-95.623055,
+    "iso:country":"US",
+    "sg:address":"815 SE Rice Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 296 3432",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PZxJVSyrMwJsxt7Y2KqCb_39.039368_-95.623055@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042205,
+    "wof:geomhash":"d8c2f67fe555d25791f68bcd9a89ebc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840539441
+        }
+    ],
+    "wof:id":840539441,
+    "wof:lastmodified":1464042205,
+    "wof:name":"Correctional Facility",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -95.623055,
+    39.039368,
+    -95.623055,
+    39.039368
+],
+  "geometry": {"coordinates":[-95.62305499999999,39.039368],"type":"Point"}
+}

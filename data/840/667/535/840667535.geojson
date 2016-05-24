@@ -1,0 +1,73 @@
+{
+  "id": 840667535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.66458,39.087472,-95.66458,39.087472",
+    "geom:latitude":39.087472,
+    "geom:longitude":-95.66458,
+    "iso:country":"US",
+    "sg:address":"2028 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 3944",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pN50oJvlNHTp5XecdMga2_39.087472_-95.664580@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045263,
+    "wof:geomhash":"536d25cf98195498657dd13bbad7b2f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840667535
+        }
+    ],
+    "wof:id":840667535,
+    "wof:lastmodified":1464045263,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -95.66458,
+    39.087472,
+    -95.66458,
+    39.087472
+],
+  "geometry": {"coordinates":[-95.66458,39.087472],"type":"Point"}
+}

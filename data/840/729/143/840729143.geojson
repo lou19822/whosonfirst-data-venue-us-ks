@@ -1,0 +1,71 @@
+{
+  "id": 840729143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.666613,39.09106,-95.666613,39.09106",
+    "geom:latitude":39.09106,
+    "geom:longitude":-95.666613,
+    "iso:country":"US",
+    "sg:address":"401 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 0644",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KsLuQY6pinhK2ylIkoSQ5_39.091060_-95.666613@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046692,
+    "wof:geomhash":"16c208e6bcc3c29eef299cf4ee9a3b05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840729143
+        }
+    ],
+    "wof:id":840729143,
+    "wof:lastmodified":1464046692,
+    "wof:name":"Lee's Truck Inc",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -95.666613,
+    39.09106,
+    -95.666613,
+    39.09106
+],
+  "geometry": {"coordinates":[-95.666613,39.09106],"type":"Point"}
+}

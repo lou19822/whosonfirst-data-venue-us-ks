@@ -1,0 +1,69 @@
+{
+  "id": 840674305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.02,37.940463,-97.02,37.940463",
+    "geom:latitude":37.940463,
+    "geom:longitude":-97.02,
+    "iso:country":"US",
+    "sg:address":"204 Randall St",
+    "sg:city":"Potwin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 752 3355",
+    "sg:postcode":"67123",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G8U6UidPTt3J88n9CknUL_37.940463_-97.020000@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045428,
+    "wof:geomhash":"8855c02a65f3f0da72cbdcaed694a7b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840674305
+        }
+    ],
+    "wof:id":840674305,
+    "wof:lastmodified":1464045428,
+    "wof:name":"Potwin Veterinary Svc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -97.02,
+    37.940463,
+    -97.02,
+    37.940463
+],
+  "geometry": {"coordinates":[-97.02,37.940463],"type":"Point"}
+}

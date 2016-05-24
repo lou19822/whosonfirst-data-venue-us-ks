@@ -1,0 +1,75 @@
+{
+  "id": 840835225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.645201,39.151303,-95.645201,39.151303",
+    "geom:latitude":39.151303,
+    "geom:longitude":-95.645201,
+    "iso:country":"US",
+    "sg:address":"6000 NE Indian Creek Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2977",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavation",
+        "heavy",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uNXVPBwO47SymDIvuFfFs_39.151303_-95.645201@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049115,
+    "wof:geomhash":"d9fe2b183491e9b56315c930e9b29962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840835225
+        }
+    ],
+    "wof:id":840835225,
+    "wof:lastmodified":1464049115,
+    "wof:name":"Kaw Valley Trenching",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "heavy",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.645201,
+    39.151303,
+    -95.645201,
+    39.151303
+],
+  "geometry": {"coordinates":[-95.645201,39.151303],"type":"Point"}
+}

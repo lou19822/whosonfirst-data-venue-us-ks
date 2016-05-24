@@ -1,0 +1,71 @@
+{
+  "id": 840938971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.398494,37.680906,-97.398494,37.680906",
+    "geom:latitude":37.680906,
+    "geom:longitude":-97.398494,
+    "iso:country":"US",
+    "sg:address":"140 S Anna St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 946 9055",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gtxR91hwuAwzJVI9SeIF2_37.680906_-97.398494@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051427,
+    "wof:geomhash":"76d266b4bc2fd42a6ce263fe230efffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840938971
+        }
+    ],
+    "wof:id":840938971,
+    "wof:lastmodified":1464051427,
+    "wof:name":"Kouri Place Apartments",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.398494,
+    37.680906,
+    -97.398494,
+    37.680906
+],
+  "geometry": {"coordinates":[-97.398494,37.680906],"type":"Point"}
+}

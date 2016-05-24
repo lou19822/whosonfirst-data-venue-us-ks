@@ -1,0 +1,71 @@
+{
+  "id": 840564227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.305301,37.649889,-97.305301,37.649889",
+    "geom:latitude":37.649889,
+    "geom:longitude":-97.305301,
+    "iso:country":"US",
+    "sg:address":"2525 E Pawnee St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 683 4663",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19T7SmBf4JLF3M7th62MH7_37.649889_-97.305301@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042829,
+    "wof:geomhash":"45d5218d3d159f80dc49286cc1995aad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840564227
+        }
+    ],
+    "wof:id":840564227,
+    "wof:lastmodified":1464042829,
+    "wof:name":"Bethlehem Maternity Home",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -97.305301,
+    37.649889,
+    -97.305301,
+    37.649889
+],
+  "geometry": {"coordinates":[-97.305301,37.649889],"type":"Point"}
+}

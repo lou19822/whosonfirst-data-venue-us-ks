@@ -1,0 +1,73 @@
+{
+  "id": 840546299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.643385,37.671525,-97.643385,37.671525",
+    "geom:latitude":37.671525,
+    "geom:longitude":-97.643385,
+    "iso:country":"US",
+    "sg:address":"1100 S 263rd St W",
+    "sg:city":"Cheney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 686 8867",
+    "sg:postcode":"67050",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UoCNW5vMf8PXZoaHyTiVH_37.671525_-97.643385@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042413,
+    "wof:geomhash":"07b9de0a7e00997dd9929a183e98e553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840546299
+        }
+    ],
+    "wof:id":840546299,
+    "wof:lastmodified":1464042413,
+    "wof:name":"James Plumbing",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.643385,
+    37.671525,
+    -97.643385,
+    37.671525
+],
+  "geometry": {"coordinates":[-97.64338499999999,37.671525],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840585315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.688983,39.031553,-95.688983,39.031553",
+    "geom:latitude":39.031553,
+    "geom:longitude":-95.688983,
+    "iso:country":"US",
+    "sg:address":"2015 SW Fillmore St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 8158",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator",
+        "dwelling",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ygPTIghJndDjUg4qsncx1_39.031553_-95.688983@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043324,
+    "wof:geomhash":"88c5f2fb3edaec5af6a21134fa59c1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840585315
+        }
+    ],
+    "wof:id":840585315,
+    "wof:lastmodified":1464043324,
+    "wof:name":"Edward Berry",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "dwelling",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -95.688983,
+    39.031553,
+    -95.688983,
+    39.031553
+],
+  "geometry": {"coordinates":[-95.68898299999999,39.031553],"type":"Point"}
+}

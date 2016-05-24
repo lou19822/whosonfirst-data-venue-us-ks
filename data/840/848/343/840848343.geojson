@@ -1,0 +1,85 @@
+{
+  "id": 840848343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.787163,38.90297,-94.787163,38.90297",
+    "geom:latitude":38.90297,
+    "geom:longitude":-94.787163,
+    "iso:country":"US",
+    "sg:address":"1355 N Winchester St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 6300",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "banking",
+        "bank",
+        "supply"
+    ],
+    "sg:website":"www.oppligerbanking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oPgznhgiQWWLJMH131CP8_38.902970_-94.787163@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049406,
+    "wof:geomhash":"b64c387ccd84c696353c27e67598554d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840848343
+        }
+    ],
+    "wof:id":840848343,
+    "wof:lastmodified":1464049406,
+    "wof:name":"Oppliger Banking Systems Inc",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "bank",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.787163,
+    38.90297,
+    -94.787163,
+    38.90297
+],
+  "geometry": {"coordinates":[-94.78716300000001,38.90297],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 840885753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.641224,39.08842,-94.641224,39.08842",
+    "geom:latitude":39.08842,
+    "geom:longitude":-94.641224,
+    "iso:country":"US",
+    "sg:address":"1230 Scott Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 233 0260",
+    "sg:postcode":"66105",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878487,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0noa5g9OqGnlUh24pQ7lUc_39.088420_-94.641224@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050194,
+    "wof:geomhash":"e709f5ff87d913b9b66225669de1600f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878487,
+            "region_id":85688555,
+            "venue_id":840885753
+        }
+    ],
+    "wof:id":840885753,
+    "wof:lastmodified":1464050194,
+    "wof:name":"Action Mobile Body Shop",
+    "wof:parent_id":85878487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.641224,
+    39.08842,
+    -94.641224,
+    39.08842
+],
+  "geometry": {"coordinates":[-94.64122399999999,39.08842],"type":"Point"}
+}

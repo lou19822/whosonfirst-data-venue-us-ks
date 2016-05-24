@@ -1,0 +1,75 @@
+{
+  "id": 840655605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.105098,38.41442,-96.105098,38.41442",
+    "geom:latitude":38.41442,
+    "geom:longitude":-96.105098,
+    "iso:country":"US",
+    "sg:address":"16 Bodock Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 1809",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NQhu2WDQvm72JQPSjyH7w_38.414420_-96.105098@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045015,
+    "wof:geomhash":"25a7231d73693d55dd15ea80a82eb95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840655605
+        }
+    ],
+    "wof:id":840655605,
+    "wof:lastmodified":1464045015,
+    "wof:name":"Steven AW Smith Construction",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.105098,
+    38.41442,
+    -96.105098,
+    38.41442
+],
+  "geometry": {"coordinates":[-96.105098,38.41442],"type":"Point"}
+}

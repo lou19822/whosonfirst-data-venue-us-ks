@@ -1,0 +1,71 @@
+{
+  "id": 840860065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.598836,37.721569,-97.598836,37.721569",
+    "geom:latitude":37.721569,
+    "geom:longitude":-97.598836,
+    "iso:country":"US",
+    "sg:address":"22200 W 21st St N",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 1137",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AZ5VfIj5H5b7n0sJV7Zva_37.721569_-97.598836@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049656,
+    "wof:geomhash":"0983846e5dd98246a65f6426e6099802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840860065
+        }
+    ],
+    "wof:id":840860065,
+    "wof:lastmodified":1464049656,
+    "wof:name":"Fred's Smoked Meats",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -97.598836,
+    37.721569,
+    -97.598836,
+    37.721569
+],
+  "geometry": {"coordinates":[-97.59883600000001,37.721569],"type":"Point"}
+}

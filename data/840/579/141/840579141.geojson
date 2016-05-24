@@ -1,0 +1,73 @@
+{
+  "id": 840579141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.303566,37.567136,-97.303566,37.567136",
+    "geom:latitude":37.567136,
+    "geom:longitude":-97.303566,
+    "iso:country":"US",
+    "sg:address":"7010 S Green St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 3493",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wBbUkObJwGIInrnyiUIKK_37.567136_-97.303566@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043185,
+    "wof:geomhash":"1e7fdd18a9a2b69ba4d1b4e7afe9e61d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840579141
+        }
+    ],
+    "wof:id":840579141,
+    "wof:lastmodified":1464043185,
+    "wof:name":"Marlene D Welch",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -97.303566,
+    37.567136,
+    -97.303566,
+    37.567136
+],
+  "geometry": {"coordinates":[-97.303566,37.567136],"type":"Point"}
+}

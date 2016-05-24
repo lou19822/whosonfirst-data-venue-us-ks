@@ -1,0 +1,77 @@
+{
+  "id": 840694753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.703601,39.0513,-95.703601,39.0513",
+    "geom:latitude":39.0513,
+    "geom:longitude":-95.703601,
+    "iso:country":"US",
+    "sg:address":"2115 SW 10th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 3330",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wKZ0MxpEOTPqmtiwldt6A_39.051300_-95.703601@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045940,
+    "wof:geomhash":"00fb38db3694069161238f6585f9197e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840694753
+        }
+    ],
+    "wof:id":840694753,
+    "wof:lastmodified":1464045940,
+    "wof:name":"Luke Center For Integrative",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.703601,
+    39.0513,
+    -95.703601,
+    39.0513
+],
+  "geometry": {"coordinates":[-95.70360100000001,39.0513],"type":"Point"}
+}

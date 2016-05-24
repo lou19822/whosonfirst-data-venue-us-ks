@@ -1,0 +1,73 @@
+{
+  "id": 840636867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664146,39.094872,-95.664146,39.094872",
+    "geom:latitude":39.094872,
+    "geom:longitude":-95.664146,
+    "iso:country":"US",
+    "sg:address":"331 NW Reo St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 9490",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23BA0iRKyPO8hgYA9vNT13_39.094872_-95.664146@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044612,
+    "wof:geomhash":"aa8b37aba6be0a1baf86abcb1edfb974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840636867
+        }
+    ],
+    "wof:id":840636867,
+    "wof:lastmodified":1464044612,
+    "wof:name":"Turner's Auto Ctr",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.664146,
+    39.094872,
+    -95.664146,
+    39.094872
+],
+  "geometry": {"coordinates":[-95.664146,39.094872],"type":"Point"}
+}

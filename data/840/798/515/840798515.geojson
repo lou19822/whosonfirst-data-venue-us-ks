@@ -1,0 +1,71 @@
+{
+  "id": 840798515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.091349,39.111294,-95.091349,39.111294",
+    "geom:latitude":39.111294,
+    "geom:longitude":-95.091349,
+    "iso:country":"US",
+    "sg:address":"215 E 2nd St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 2737",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28UeCJy4cBTHlyGojc78nm_39.111294_-95.091349@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048170,
+    "wof:geomhash":"4e077d25d9ae73174953285d5a3a431f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840798515
+        }
+    ],
+    "wof:id":840798515,
+    "wof:lastmodified":1464048170,
+    "wof:name":"Woodlawn Construction",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -95.091349,
+    39.111294,
+    -95.091349,
+    39.111294
+],
+  "geometry": {"coordinates":[-95.09134899999999,39.111294],"type":"Point"}
+}

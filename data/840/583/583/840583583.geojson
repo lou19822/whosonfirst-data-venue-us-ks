@@ -1,0 +1,73 @@
+{
+  "id": 840583583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352536,37.638984,-97.352536,37.638984",
+    "geom:latitude":37.638984,
+    "geom:longitude":-97.352536,
+    "iso:country":"US",
+    "sg:address":"3066 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 529 2109",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ESPXmb3ae6g9LzBPDRdxj_37.638984_-97.352536@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043284,
+    "wof:geomhash":"1d5c11c2afef1bd9d110f161d166aaec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840583583
+        }
+    ],
+    "wof:id":840583583,
+    "wof:lastmodified":1464043284,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -97.352536,
+    37.638984,
+    -97.352536,
+    37.638984
+],
+  "geometry": {"coordinates":[-97.352536,37.638984],"type":"Point"}
+}

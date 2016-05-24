@@ -1,0 +1,73 @@
+{
+  "id": 840937533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363151,37.725452,-97.363151,37.725452",
+    "geom:latitude":37.725452,
+    "geom:longitude":-97.363151,
+    "iso:country":"US",
+    "sg:address":"2359 N Amidon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 832 0284",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vSa3NGeGKKYtKK4v7et5z_37.725452_-97.363151@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051400,
+    "wof:geomhash":"630fb091397b2a0faa264fedc340e807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840937533
+        }
+    ],
+    "wof:id":840937533,
+    "wof:lastmodified":1464051400,
+    "wof:name":"Amidon Stor-All",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -97.363151,
+    37.725452,
+    -97.363151,
+    37.725452
+],
+  "geometry": {"coordinates":[-97.363151,37.725452],"type":"Point"}
+}

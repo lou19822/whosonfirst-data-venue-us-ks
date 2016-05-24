@@ -1,0 +1,71 @@
+{
+  "id": 840553003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.890065,38.752883,-94.890065,38.752883",
+    "geom:latitude":38.752883,
+    "geom:longitude":-94.890065,
+    "iso:country":"US",
+    "sg:address":"26605 207th St",
+    "sg:city":"Gardner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 856 5451",
+    "sg:postcode":"66030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pvggbTqSIVRLVFjFcaJId_38.752883_-94.890065@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042575,
+    "wof:geomhash":"7a4feb7c935cee40fb4c2198700c0b19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840553003
+        }
+    ],
+    "wof:id":840553003,
+    "wof:lastmodified":1464042575,
+    "wof:name":"Good Neighbor Tree Svc",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -94.890065,
+    38.752883,
+    -94.890065,
+    38.752883
+],
+  "geometry": {"coordinates":[-94.89006500000001,38.752883],"type":"Point"}
+}

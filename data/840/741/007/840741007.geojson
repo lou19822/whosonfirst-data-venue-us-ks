@@ -1,0 +1,71 @@
+{
+  "id": 840741007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.214009,38.420378,-96.214009,38.420378",
+    "geom:latitude":38.420378,
+    "geom:longitude":-96.214009,
+    "iso:country":"US",
+    "sg:address":"2031 Holiday Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7022",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MuL0RJLIVSGhcacUzdGxs_38.420378_-96.214009@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046914,
+    "wof:geomhash":"f6be1f3ab22a77919f23542060688c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840741007
+        }
+    ],
+    "wof:id":840741007,
+    "wof:lastmodified":1464046914,
+    "wof:name":"Flint Hills Contract Cleaning",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.214009,
+    38.420378,
+    -96.214009,
+    38.420378
+],
+  "geometry": {"coordinates":[-96.214009,38.420378],"type":"Point"}
+}

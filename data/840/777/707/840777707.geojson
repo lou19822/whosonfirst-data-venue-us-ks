@@ -1,0 +1,73 @@
+{
+  "id": 840777707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.69448,39.109389,-95.69448,39.109389",
+    "geom:latitude":39.109389,
+    "geom:longitude":-95.69448,
+    "iso:country":"US",
+    "sg:address":"1942 NW 35th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 0511",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2axKbBrsCdqYJAJ11y6VdP_39.109389_-95.694480@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047714,
+    "wof:geomhash":"d97de6a435dd52a58b01c4ec296a27b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840777707
+        }
+    ],
+    "wof:id":840777707,
+    "wof:lastmodified":1464047714,
+    "wof:name":"Advanced Pavement Striping Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -95.69448,
+    39.109389,
+    -95.69448,
+    39.109389
+],
+  "geometry": {"coordinates":[-95.69448,39.109389],"type":"Point"}
+}

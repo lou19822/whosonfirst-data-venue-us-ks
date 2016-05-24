@@ -1,0 +1,78 @@
+{
+  "id": 856705915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.740439,38.971449,-94.740439,38.971449",
+    "geom:latitude":38.971449,
+    "geom:longitude":-94.740439,
+    "iso:country":"US",
+    "sg:address":"13330 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/186659-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 2711",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tT8rocePvAtlIFUgKQ1Zn_38.971449_-94.740439@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052185,
+    "wof:geomhash":"63d85339e1ec3315a473055ab7145a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856705915
+        }
+    ],
+    "wof:id":856705915,
+    "wof:lastmodified":1464052185,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.740439,
+    38.971449,
+    -94.740439,
+    38.971449
+],
+  "geometry": {"coordinates":[-94.74043899999999,38.971449],"type":"Point"}
+}

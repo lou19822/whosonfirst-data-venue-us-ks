@@ -1,0 +1,74 @@
+{
+  "id": 856707653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.218084,38.422235,-96.218084,38.422235",
+    "geom:latitude":38.422235,
+    "geom:longitude":-96.218084,
+    "iso:country":"US",
+    "sg:address":"3010 Eaglecrest Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/emporia/147221-montana-mikes-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 7481",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XH9iBwYi8amHmYpHuJxoG_38.422235_-96.218084@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052223,
+    "wof:geomhash":"0e2b093153e03ea711ab973ccf6a410e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":856707653
+        }
+    ],
+    "wof:id":856707653,
+    "wof:lastmodified":1464052223,
+    "wof:name":"Montana Mike's Steakhouse",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -96.218084,
+    38.422235,
+    -96.218084,
+    38.422235
+],
+  "geometry": {"coordinates":[-96.218084,38.422235],"type":"Point"}
+}

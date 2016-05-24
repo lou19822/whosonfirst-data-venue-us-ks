@@ -1,0 +1,99 @@
+{
+  "id": 856711393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.761499,38.969896,-94.761499,38.969896",
+    "geom:latitude":38.969896,
+    "geom:longitude":-94.761499,
+    "iso:country":"US",
+    "sg:address":"8736 Lackman Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/231184-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 495 2529",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e1PIqQUW7kjxEjjO9kMIH_38.970110_-94.761056@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052294,
+    "wof:geomhash":"8aea7c53260f8e7072083d7a12ec7419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856711393
+        }
+    ],
+    "wof:id":856711393,
+    "wof:lastmodified":1464052294,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -94.761499,
+    38.969896,
+    -94.761499,
+    38.969896
+],
+  "geometry": {"coordinates":[-94.761499,38.969896],"type":"Point"}
+}

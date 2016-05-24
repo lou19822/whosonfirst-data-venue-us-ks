@@ -1,0 +1,66 @@
+{
+  "id": 840930847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687867,38.977103,-95.687867,38.977103",
+    "geom:latitude":38.977103,
+    "geom:longitude":-95.687867,
+    "iso:country":"US",
+    "sg:address":"5015 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 5634",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V54ctHMcik7KgI05h7cEW_38.977103_-95.687867@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051266,
+    "wof:geomhash":"6266a3e1fa9b0e1699ef840f3e183255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840930847
+        }
+    ],
+    "wof:id":840930847,
+    "wof:lastmodified":1464051266,
+    "wof:name":"Ferris Statuary",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.687867,
+    38.977103,
+    -95.687867,
+    38.977103
+],
+  "geometry": {"coordinates":[-95.687867,38.977103],"type":"Point"}
+}

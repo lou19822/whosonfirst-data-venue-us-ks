@@ -1,0 +1,73 @@
+{
+  "id": 840637475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.410911,37.817101,-97.410911,37.817101",
+    "geom:latitude":37.817101,
+    "geom:longitude":-97.410911,
+    "iso:country":"US",
+    "sg:address":"6010 Minihan Cir",
+    "sg:city":"Valley Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 682 0199",
+    "sg:postcode":"67147",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NVkbOnVa3OjqZu5XWNddd_37.817101_-97.410911@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044628,
+    "wof:geomhash":"4313027992596fe2b922fc8811375397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840637475
+        }
+    ],
+    "wof:id":840637475,
+    "wof:lastmodified":1464044628,
+    "wof:name":"Electric East",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.410911,
+    37.817101,
+    -97.410911,
+    37.817101
+],
+  "geometry": {"coordinates":[-97.410911,37.817101],"type":"Point"}
+}

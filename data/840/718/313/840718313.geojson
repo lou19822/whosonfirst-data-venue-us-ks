@@ -1,0 +1,73 @@
+{
+  "id": 840718313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352726,37.648531,-97.352726,37.648531",
+    "geom:latitude":37.648531,
+    "geom:longitude":-97.352726,
+    "iso:country":"US",
+    "sg:address":"2559 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 269 9995",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WZn9mfj7Me21SIcSRzw23_37.648531_-97.352726@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046468,
+    "wof:geomhash":"2418eb0cfec1469c9addbd65963bc7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840718313
+        }
+    ],
+    "wof:id":840718313,
+    "wof:lastmodified":1464046468,
+    "wof:name":"Aarons Sales & Lease Ownership",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -97.352726,
+    37.648531,
+    -97.352726,
+    37.648531
+],
+  "geometry": {"coordinates":[-97.352726,37.648531],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 840622865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.648936,38.918822,-94.648936,38.918822",
+    "geom:latitude":38.918822,
+    "geom:longitude":-94.648936,
+    "iso:country":"US",
+    "sg:address":"11701 Nall Ave",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 491 8527",
+    "sg:postcode":"66211",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B04mTLUShE3GAs7ByF3D7_38.918822_-94.648936@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044238,
+    "wof:geomhash":"41ca27a38fa98579034095484e9fa569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840622865
+        }
+    ],
+    "wof:id":840622865,
+    "wof:lastmodified":1464044238,
+    "wof:name":"AMC Theatres",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.648936,
+    38.918822,
+    -94.648936,
+    38.918822
+],
+  "geometry": {"coordinates":[-94.64893600000001,38.918822],"type":"Point"}
+}

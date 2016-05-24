@@ -1,0 +1,81 @@
+{
+  "id": 840846713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.739286,38.969616,-94.739286,38.969616",
+    "geom:latitude":38.969616,
+    "geom:longitude":-94.739286,
+    "iso:country":"US",
+    "sg:address":"13220 W 87th Ter",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 2268",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29PQM9HFqunCgItRRO80Ga_38.969616_-94.739286@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049366,
+    "wof:geomhash":"b8e084ddb5e21b250ab70fc8c3a2457f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840846713
+        }
+    ],
+    "wof:id":840846713,
+    "wof:lastmodified":1464049366,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -94.739286,
+    38.969616,
+    -94.739286,
+    38.969616
+],
+  "geometry": {"coordinates":[-94.73928600000001,38.969616],"type":"Point"}
+}

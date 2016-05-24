@@ -1,0 +1,71 @@
+{
+  "id": 840582511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.1905,38.405107,-96.1905,38.405107",
+    "geom:latitude":38.405107,
+    "geom:longitude":-96.1905,
+    "iso:country":"US",
+    "sg:address":"702 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 1188",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QRKCtd8BvWLxqNpAJ1C90_38.405107_-96.190500@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043265,
+    "wof:geomhash":"0e445d05ad1cab324c7f6072b801c3cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840582511
+        }
+    ],
+    "wof:id":840582511,
+    "wof:lastmodified":1464043265,
+    "wof:name":"Aluminum Recycling",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -96.1905,
+    38.405107,
+    -96.1905,
+    38.405107
+],
+  "geometry": {"coordinates":[-96.1905,38.405107],"type":"Point"}
+}

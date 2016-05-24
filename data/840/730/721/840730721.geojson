@@ -1,0 +1,72 @@
+{
+  "id": 840730721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.655494,39.019587,-95.655494,39.019587",
+    "geom:latitude":39.019587,
+    "geom:longitude":-95.655494,
+    "iso:country":"US",
+    "sg:address":"2636 SE Minnesota Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 5206",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.hopelcms.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IZD3YjZF7St49CdFQzHq5_39.019587_-95.655494@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046719,
+    "wof:geomhash":"106ca89e27942bcffcab233c86c6c5d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840730721
+        }
+    ],
+    "wof:id":840730721,
+    "wof:lastmodified":1464046719,
+    "wof:name":"Hope Lutheran Church",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.655494,
+    39.019587,
+    -95.655494,
+    39.019587
+],
+  "geometry": {"coordinates":[-95.655494,39.019587],"type":"Point"}
+}

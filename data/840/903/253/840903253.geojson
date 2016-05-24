@@ -1,0 +1,84 @@
+{
+  "id": 840903253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.716142,39.031416,-94.716142,39.031416",
+    "geom:latitude":39.031416,
+    "geom:longitude":-94.716142,
+    "iso:country":"US",
+    "sg:address":"11203 W 54th St",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 962 0700",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "brokerage",
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879555,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EuV5YYPYy8j32y5B0Jun6_39.031416_-94.716142@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050563,
+    "wof:geomhash":"fa0111486402b9c0f7b82d74cf806033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":840903253
+        }
+    ],
+    "wof:id":840903253,
+    "wof:lastmodified":1464050563,
+    "wof:name":"Busby Brokerage",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brokerage",
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -94.716142,
+    39.031416,
+    -94.716142,
+    39.031416
+],
+  "geometry": {"coordinates":[-94.716142,39.031416],"type":"Point"}
+}

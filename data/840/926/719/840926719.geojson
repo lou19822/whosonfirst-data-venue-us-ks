@@ -1,0 +1,73 @@
+{
+  "id": 840926719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.934919,39.115448,-94.934919,39.115448",
+    "geom:latitude":39.115448,
+    "geom:longitude":-94.934919,
+    "iso:country":"US",
+    "sg:address":"15395 Briar Rd",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 8665",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qp1DDCis9FABPC28z9axs_39.115448_-94.934919@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051179,
+    "wof:geomhash":"3223325d17d0246a0d33ead18eeed4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840926719
+        }
+    ],
+    "wof:id":840926719,
+    "wof:lastmodified":1464051179,
+    "wof:name":"Speedway Storage",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -94.934919,
+    39.115448,
+    -94.934919,
+    39.115448
+],
+  "geometry": {"coordinates":[-94.93491899999999,39.115448],"type":"Point"}
+}

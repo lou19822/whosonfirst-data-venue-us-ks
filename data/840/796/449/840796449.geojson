@@ -1,0 +1,71 @@
+{
+  "id": 840796449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.215642,38.407678,-96.215642,38.407678",
+    "geom:latitude":38.407678,
+    "geom:longitude":-96.215642,
+    "iso:country":"US",
+    "sg:address":"2703 US Hwy 50",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 7140",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07vVWnUkOsl5xV2rlRddt1_38.407678_-96.215642@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048105,
+    "wof:geomhash":"edaef7a7df83354b933b00088f0f6d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840796449
+        }
+    ],
+    "wof:id":840796449,
+    "wof:lastmodified":1464048105,
+    "wof:name":"Price Chopper",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.215642,
+    38.407678,
+    -96.215642,
+    38.407678
+],
+  "geometry": {"coordinates":[-96.215642,38.407678],"type":"Point"}
+}

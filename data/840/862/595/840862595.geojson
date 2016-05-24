@@ -1,0 +1,71 @@
+{
+  "id": 840862595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.75667,39.139874,-95.75667,39.139874",
+    "geom:latitude":39.139874,
+    "geom:longitude":-95.75667,
+    "iso:country":"US",
+    "sg:address":"5102 NW Leedy Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 1155",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ttF3MDj96GB7tmRDGxhEb_39.139874_-95.756670@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049708,
+    "wof:geomhash":"d4a098bf152b30756118075008686c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840862595
+        }
+    ],
+    "wof:id":840862595,
+    "wof:lastmodified":1464049708,
+    "wof:name":"Hare Excavating",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.75667,
+    39.139874,
+    -95.75667,
+    39.139874
+],
+  "geometry": {"coordinates":[-95.75667,39.139874],"type":"Point"}
+}

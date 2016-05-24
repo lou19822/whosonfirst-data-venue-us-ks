@@ -1,0 +1,71 @@
+{
+  "id": 840718307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.701865,37.430187,-94.701865,37.430187",
+    "geom:latitude":37.430187,
+    "geom:longitude":-94.701865,
+    "iso:country":"US",
+    "sg:address":"308 E 24th Ter",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 1272",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sNHZllXwPJw5MwkmlYb1h_37.430187_-94.701865@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046468,
+    "wof:geomhash":"b3c18a83207512893881036df88beaf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840718307
+        }
+    ],
+    "wof:id":840718307,
+    "wof:lastmodified":1464046468,
+    "wof:name":"Raymond L Martinous",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -94.701865,
+    37.430187,
+    -94.701865,
+    37.430187
+],
+  "geometry": {"coordinates":[-94.701865,37.430187],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840936911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.698166,39.081344,-95.698166,39.081344",
+    "geom:latitude":39.081344,
+    "geom:longitude":-95.698166,
+    "iso:country":"US",
+    "sg:address":"2102 NW Lower Silver Lake Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 2259",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "farm",
+        "topsoil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nalD9NIOspmHJPkybXrLb_39.081344_-95.698166@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051389,
+    "wof:geomhash":"a275c49470c60fc2c5e6d5a5dd576eff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840936911
+        }
+    ],
+    "wof:id":840936911,
+    "wof:lastmodified":1464051389,
+    "wof:name":"Swader's Topsoil",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "topsoil"
+    ]
+},
+  "bbox": [
+    -95.698166,
+    39.081344,
+    -95.698166,
+    39.081344
+],
+  "geometry": {"coordinates":[-95.698166,39.081344],"type":"Point"}
+}

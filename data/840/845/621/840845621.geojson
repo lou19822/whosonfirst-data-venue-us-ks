@@ -1,0 +1,72 @@
+{
+  "id": 840845621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.167023,38.412295,-96.167023,38.412295",
+    "geom:latitude":38.412295,
+    "geom:longitude":-96.167023,
+    "iso:country":"US",
+    "sg:address":"902 E 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 2360",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.kroger.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lR5sEBtE69u0vvsJhdv6t_38.412295_-96.167023@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049343,
+    "wof:geomhash":"e77b55fd3b348defbec0bbe6a5e568e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840845621
+        }
+    ],
+    "wof:id":840845621,
+    "wof:lastmodified":1464049343,
+    "wof:name":"Dillon Store",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.167023,
+    38.412295,
+    -96.167023,
+    38.412295
+],
+  "geometry": {"coordinates":[-96.167023,38.412295],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840533477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.630789,39.091238,-95.630789,39.091238",
+    "geom:latitude":39.091238,
+    "geom:longitude":-95.630789,
+    "iso:country":"US",
+    "sg:address":"2476 NE Kaw Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 3257",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xoPXlb6E28t3wEgBpBpjF_39.091238_-95.630789@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042060,
+    "wof:geomhash":"e0a77ef3cf8eb7c12c7d6a0bdb170715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840533477
+        }
+    ],
+    "wof:id":840533477,
+    "wof:lastmodified":1464042060,
+    "wof:name":"Rees Fruit Farm",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -95.630789,
+    39.091238,
+    -95.630789,
+    39.091238
+],
+  "geometry": {"coordinates":[-95.63078899999999,39.091238],"type":"Point"}
+}

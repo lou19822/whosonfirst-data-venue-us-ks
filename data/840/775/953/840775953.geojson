@@ -1,0 +1,73 @@
+{
+  "id": 840775953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.702873,39.10374,-95.702873,39.10374",
+    "geom:latitude":39.10374,
+    "geom:longitude":-95.702873,
+    "iso:country":"US",
+    "sg:address":"3021 NW Old Indianola Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 1500",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BrgxYDPisKFRieX67WhhU_39.103740_-95.702873@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047684,
+    "wof:geomhash":"8b80f0c0e6b6ecf6ef6d8ead9aeca155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840775953
+        }
+    ],
+    "wof:id":840775953,
+    "wof:lastmodified":1464047684,
+    "wof:name":"White Striping",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -95.702873,
+    39.10374,
+    -95.702873,
+    39.10374
+],
+  "geometry": {"coordinates":[-95.702873,39.10374],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840737123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.267058,38.513469,-96.267058,38.513469",
+    "geom:latitude":38.513469,
+    "geom:longitude":-96.267058,
+    "iso:country":"US",
+    "sg:address":"1205 8th St",
+    "sg:city":"Americus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 443 5628",
+    "sg:postcode":"66835",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IRzBXPKI8ECJbVwXBBpIB_38.513469_-96.267058@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046838,
+    "wof:geomhash":"85681fa2af3e949a6274d5121302835c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840737123
+        }
+    ],
+    "wof:id":840737123,
+    "wof:lastmodified":1464046838,
+    "wof:name":"Bob Kearns Electrical Svc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.267058,
+    38.513469,
+    -96.267058,
+    38.513469
+],
+  "geometry": {"coordinates":[-96.26705800000001,38.513469],"type":"Point"}
+}

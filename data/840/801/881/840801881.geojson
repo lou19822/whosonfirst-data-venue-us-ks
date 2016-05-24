@@ -1,0 +1,71 @@
+{
+  "id": 840801881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.516548,37.887096,-97.516548,37.887096",
+    "geom:latitude":37.887096,
+    "geom:longitude":-97.516548,
+    "iso:country":"US",
+    "sg:address":"102 Wichita Ave",
+    "sg:city":"Bentley",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 0233",
+    "sg:postcode":"67016",
+    "sg:province":"KS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43PLQk74Z7oxmU0PrF7Ji1_37.887096_-97.516548@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048239,
+    "wof:geomhash":"f3bf48e7b1d44586d9ee2dc40bbc1cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840801881
+        }
+    ],
+    "wof:id":840801881,
+    "wof:lastmodified":1464048239,
+    "wof:name":"Bentley Corner",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -97.516548,
+    37.887096,
+    -97.516548,
+    37.887096
+],
+  "geometry": {"coordinates":[-97.516548,37.887096],"type":"Point"}
+}

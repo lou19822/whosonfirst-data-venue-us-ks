@@ -1,0 +1,77 @@
+{
+  "id": 840593629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.816733,39.040275,-95.816733,39.040275",
+    "geom:latitude":39.040275,
+    "geom:longitude":-95.816733,
+    "iso:country":"US",
+    "sg:address":"1441 SW Auburn Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 478 9617",
+    "sg:postcode":"66615",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JG1GpG4OW3V3UBCHViSgV_39.040275_-95.816733@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043504,
+    "wof:geomhash":"015680a75058e92d2e2a898065f261aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840593629
+        }
+    ],
+    "wof:id":840593629,
+    "wof:lastmodified":1464043504,
+    "wof:name":"Topeka Boat Storage",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -95.816733,
+    39.040275,
+    -95.816733,
+    39.040275
+],
+  "geometry": {"coordinates":[-95.816733,39.040275],"type":"Point"}
+}

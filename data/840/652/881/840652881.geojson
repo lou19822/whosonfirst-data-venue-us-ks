@@ -1,0 +1,67 @@
+{
+  "id": 840652881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.425269,37.563803,-97.425269,37.563803",
+    "geom:latitude":37.563803,
+    "geom:longitude":-97.425269,
+    "iso:country":"US",
+    "sg:address":"6601 S Ridge Rd",
+    "sg:city":"Haysville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 8181",
+    "sg:postcode":"67060",
+    "sg:province":"KS",
+    "sg:website":"www.airproducts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w0XPcpGzou17X6EQFHicS_37.563803_-97.425269@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044950,
+    "wof:geomhash":"d18c0a07cda292240b0cb3ef7c8329fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840652881
+        }
+    ],
+    "wof:id":840652881,
+    "wof:lastmodified":1464044950,
+    "wof:name":"Air Products Mfg Corp",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.425269,
+    37.563803,
+    -97.425269,
+    37.563803
+],
+  "geometry": {"coordinates":[-97.425269,37.563803],"type":"Point"}
+}

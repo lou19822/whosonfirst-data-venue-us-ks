@@ -1,0 +1,71 @@
+{
+  "id": 840543383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.183614,38.941728,-95.183614,38.941728",
+    "geom:latitude":38.941728,
+    "geom:longitude":-95.183614,
+    "iso:country":"US",
+    "sg:address":"1701 N 1399 Rd",
+    "sg:city":"Lawrence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 842 3200",
+    "sg:postcode":"66046",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85837065,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cNLXwJVP94IfX21ynCKbb_38.941728_-95.183614@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042309,
+    "wof:geomhash":"b1f922c4d0cbeafc4fb7ee18f062932f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085347,
+            "neighbourhood_id":85837065,
+            "region_id":85688555,
+            "venue_id":840543383
+        }
+    ],
+    "wof:id":840543383,
+    "wof:lastmodified":1464042309,
+    "wof:name":"Smith Motors",
+    "wof:parent_id":85837065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.183614,
+    38.941728,
+    -95.183614,
+    38.941728
+],
+  "geometry": {"coordinates":[-95.18361400000001,38.941728],"type":"Point"}
+}

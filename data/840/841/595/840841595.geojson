@@ -1,0 +1,73 @@
+{
+  "id": 840841595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.818252,37.832644,-96.818252,37.832644",
+    "geom:latitude":37.832644,
+    "geom:longitude":-96.818252,
+    "iso:country":"US",
+    "sg:address":"1385 NE Shady Creek Access Rd",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 5100",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qCXpfpBXrPyFpmhBP0NCe_37.832644_-96.818252@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049264,
+    "wof:geomhash":"91673b74283d00976d383817655af0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840841595
+        }
+    ],
+    "wof:id":840841595,
+    "wof:lastmodified":1464049264,
+    "wof:name":"El Dorado Correctional Ctr",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -96.818252,
+    37.832644,
+    -96.818252,
+    37.832644
+],
+  "geometry": {"coordinates":[-96.818252,37.832644],"type":"Point"}
+}

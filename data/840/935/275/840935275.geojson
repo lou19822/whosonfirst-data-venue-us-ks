@@ -1,0 +1,71 @@
+{
+  "id": 840935275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.377805,37.64973,-97.377805,37.64973",
+    "geom:latitude":37.64973,
+    "geom:longitude":-97.377805,
+    "iso:country":"US",
+    "sg:address":"2557 S Custer St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 260 7910",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QyPSUaaeuHfJnzsh6dgbj_37.649730_-97.377805@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051350,
+    "wof:geomhash":"df169efa772037e14bf5f87ef2d5c42e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840935275
+        }
+    ],
+    "wof:id":840935275,
+    "wof:lastmodified":1464051350,
+    "wof:name":"Profillment",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -97.377805,
+    37.64973,
+    -97.377805,
+    37.64973
+],
+  "geometry": {"coordinates":[-97.377805,37.64973],"type":"Point"}
+}

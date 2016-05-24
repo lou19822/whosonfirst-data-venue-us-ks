@@ -1,0 +1,77 @@
+{
+  "id": 840898241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.808117,39.154275,-94.808117,39.154275",
+    "geom:latitude":39.154275,
+    "geom:longitude":-94.808117,
+    "iso:country":"US",
+    "sg:address":"3594 N 99 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 5237",
+    "sg:postcode":"66109",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878493,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42xggWQw1ZeY6Y9RlQvNoa_39.154275_-94.808117@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050455,
+    "wof:geomhash":"9e044dc4281dc4dd49272aed80e964cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878493,
+            "region_id":85688555,
+            "venue_id":840898241
+        }
+    ],
+    "wof:id":840898241,
+    "wof:lastmodified":1464050455,
+    "wof:name":"K C Plumbing Dr",
+    "wof:parent_id":85878493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.808117,
+    39.154275,
+    -94.808117,
+    39.154275
+],
+  "geometry": {"coordinates":[-94.808117,39.154275],"type":"Point"}
+}

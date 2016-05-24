@@ -1,0 +1,71 @@
+{
+  "id": 840778755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.183606,38.390425,-96.183606,38.390425",
+    "geom:latitude":38.390425,
+    "geom:longitude":-96.183606,
+    "iso:country":"US",
+    "sg:address":"221 W Logan Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 1717",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xD1fOm71iQkTVMbsVReJg_38.390425_-96.183606@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047734,
+    "wof:geomhash":"5a93ca38e7ec39413853f68e940dadea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840778755
+        }
+    ],
+    "wof:id":840778755,
+    "wof:lastmodified":1464047734,
+    "wof:name":"Sundance Rehabilitation",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -96.183606,
+    38.390425,
+    -96.183606,
+    38.390425
+],
+  "geometry": {"coordinates":[-96.183606,38.390425],"type":"Point"}
+}

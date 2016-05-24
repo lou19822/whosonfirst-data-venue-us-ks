@@ -1,0 +1,80 @@
+{
+  "id": 856706331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.664565,38.885452,-94.664565,38.885452",
+    "geom:latitude":38.885452,
+    "geom:longitude":-94.664565,
+    "iso:country":"US",
+    "sg:address":"6800 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/103035-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 239 8300",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TBhS9BOzHXbM2sXsY76Ma_38.885452_-94.664565@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052193,
+    "wof:geomhash":"950494ecc3701c35698a116ae4d3cd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":856706331
+        }
+    ],
+    "wof:id":856706331,
+    "wof:lastmodified":1464052193,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -94.664565,
+    38.885452,
+    -94.664565,
+    38.885452
+],
+  "geometry": {"coordinates":[-94.664565,38.885452],"type":"Point"}
+}

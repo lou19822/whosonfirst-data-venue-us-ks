@@ -1,0 +1,71 @@
+{
+  "id": 840752561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.483201,37.697312,-97.483201,37.697312",
+    "geom:latitude":37.697312,
+    "geom:longitude":-97.483201,
+    "iso:country":"US",
+    "sg:address":"714 N Cedar Park St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 773 2009",
+    "sg:postcode":"67235",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jaiM3dETA8PnRnu7s3UFF_37.697312_-97.483201@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047160,
+    "wof:geomhash":"edeb1def879196ebcef7bb5dc08cf8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840752561
+        }
+    ],
+    "wof:id":840752561,
+    "wof:lastmodified":1464047160,
+    "wof:name":"Royal Building Svc",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -97.483201,
+    37.697312,
+    -97.483201,
+    37.697312
+],
+  "geometry": {"coordinates":[-97.48320099999999,37.697312],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840595297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.676451,39.116616,-95.676451,39.116616",
+    "geom:latitude":39.116616,
+    "geom:longitude":-95.676451,
+    "iso:country":"US",
+    "sg:address":"1119 NW 39th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 2202",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sewer",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nSu9BInHttPDMqLn8KntF_39.116616_-95.676451@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043544,
+    "wof:geomhash":"71c66d17b8509f542c6be5ab273885dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840595297
+        }
+    ],
+    "wof:id":840595297,
+    "wof:lastmodified":1464043544,
+    "wof:name":"A-1 Septic Tank Cleaning",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -95.676451,
+    39.116616,
+    -95.676451,
+    39.116616
+],
+  "geometry": {"coordinates":[-95.676451,39.116616],"type":"Point"}
+}

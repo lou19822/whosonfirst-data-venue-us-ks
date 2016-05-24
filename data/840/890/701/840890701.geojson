@@ -1,0 +1,78 @@
+{
+  "id": 840890701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.628439,39.150294,-94.628439,39.150294",
+    "geom:latitude":39.150294,
+    "geom:longitude":-94.628439,
+    "iso:country":"US",
+    "sg:address":"802 Kindleberger Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 621 4000",
+    "sg:postcode":"66115",
+    "sg:province":"KS",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "sg:website":"www.bssteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878501,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m9VYv7GQrViIDIPtJkYPl_39.150294_-94.628439@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050299,
+    "wof:geomhash":"e5415fd78512888a8defc61d1dde1289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878501,
+            "region_id":85688555,
+            "venue_id":840890701
+        }
+    ],
+    "wof:id":840890701,
+    "wof:lastmodified":1464050299,
+    "wof:name":"B-S Steel Of Kansas Inc",
+    "wof:parent_id":85878501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -94.628439,
+    39.150294,
+    -94.628439,
+    39.150294
+],
+  "geometry": {"coordinates":[-94.628439,39.150294],"type":"Point"}
+}

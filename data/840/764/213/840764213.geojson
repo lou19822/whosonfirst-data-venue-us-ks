@@ -1,0 +1,75 @@
+{
+  "id": 840764213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.986297,37.697049,-96.986297,37.697049",
+    "geom:latitude":37.697049,
+    "geom:longitude":-96.986297,
+    "iso:country":"US",
+    "sg:address":"403 W Augusta Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 2856",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tZy6YJ080CKMj8kMDtaTL_37.697049_-96.986297@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047431,
+    "wof:geomhash":"1ec03540e9f2d6e122725b7186d5872e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840764213
+        }
+    ],
+    "wof:id":840764213,
+    "wof:lastmodified":1464047431,
+    "wof:name":"Burns Drain & Sewer Cleaning",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -96.986297,
+    37.697049,
+    -96.986297,
+    37.697049
+],
+  "geometry": {"coordinates":[-96.98629699999999,37.697049],"type":"Point"}
+}

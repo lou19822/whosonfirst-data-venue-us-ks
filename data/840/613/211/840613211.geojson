@@ -1,0 +1,73 @@
+{
+  "id": 840613211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.163983,38.412239,-96.163983,38.412239",
+    "geom:latitude":38.412239,
+    "geom:longitude":-96.163983,
+    "iso:country":"US",
+    "sg:address":"1221 E 12th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 0138",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rwWI5l7UXY6ru067VvPi3_38.412239_-96.163983@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044001,
+    "wof:geomhash":"14b3942a59ccdcd3e05a544232c5f9ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840613211
+        }
+    ],
+    "wof:id":840613211,
+    "wof:lastmodified":1464044001,
+    "wof:name":"Farm Credit Svc",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -96.163983,
+    38.412239,
+    -96.163983,
+    38.412239
+],
+  "geometry": {"coordinates":[-96.163983,38.412239],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 840609951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.693945,39.029621,-95.693945,39.029621",
+    "geom:latitude":39.029621,
+    "geom:longitude":-95.693945,
+    "iso:country":"US",
+    "sg:address":"1225 SW 21st St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 2742",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881563,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2genSTjEI7xJ5Gwsv75PNL_39.029621_-95.693945@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043918,
+    "wof:geomhash":"be92f85508780e7b94d48bf8f4cc6b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881563,
+            "region_id":85688555,
+            "venue_id":840609951
+        }
+    ],
+    "wof:id":840609951,
+    "wof:lastmodified":1464043918,
+    "wof:name":"Vicky's Alterations",
+    "wof:parent_id":85881563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alteration"
+    ]
+},
+  "bbox": [
+    -95.693945,
+    39.029621,
+    -95.693945,
+    39.029621
+],
+  "geometry": {"coordinates":[-95.693945,39.029621],"type":"Point"}
+}

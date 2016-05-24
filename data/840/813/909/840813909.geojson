@@ -1,0 +1,75 @@
+{
+  "id": 840813909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.665409,39.075209,-94.665409,39.075209",
+    "geom:latitude":39.075209,
+    "geom:longitude":-94.665409,
+    "iso:country":"US",
+    "sg:address":"3104 Strong Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 831 1711",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878507,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NvNwCeSqdQKaLPlFeAjq7_39.075209_-94.665409@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048574,
+    "wof:geomhash":"3097388adc471f70b2706666281e75b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878507,
+            "region_id":85688555,
+            "venue_id":840813909
+        }
+    ],
+    "wof:id":840813909,
+    "wof:lastmodified":1464048574,
+    "wof:name":"Thriftway",
+    "wof:parent_id":85878507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.665409,
+    39.075209,
+    -94.665409,
+    39.075209
+],
+  "geometry": {"coordinates":[-94.665409,39.075209],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840763679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.665743,37.454683,-94.665743,37.454683",
+    "geom:latitude":37.454683,
+    "geom:longitude":-94.665743,
+    "iso:country":"US",
+    "sg:address":"1015 E 580th Ave",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 9295",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5awULuJBJuuIOPmRAYo648_37.454683_-94.665743@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047422,
+    "wof:geomhash":"511a6df110f8d854debdb7907b3763c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840763679
+        }
+    ],
+    "wof:id":840763679,
+    "wof:lastmodified":1464047422,
+    "wof:name":"Dan Gill Construction",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.665743,
+    37.454683,
+    -94.665743,
+    37.454683
+],
+  "geometry": {"coordinates":[-94.66574300000001,37.454683],"type":"Point"}
+}

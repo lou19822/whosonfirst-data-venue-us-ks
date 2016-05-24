@@ -1,0 +1,73 @@
+{
+  "id": 840788931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.978709,39.172113,-94.978709,39.172113",
+    "geom:latitude":39.172113,
+    "geom:longitude":-94.978709,
+    "iso:country":"US",
+    "sg:address":"17271 Hollingsworth Rd",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 1646",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nKkiqvKSA9QCRRo8Kff7m_39.172113_-94.978709@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047956,
+    "wof:geomhash":"8d01be87cbeb4aa8f13ac9f9189093c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840788931
+        }
+    ],
+    "wof:id":840788931,
+    "wof:lastmodified":1464047956,
+    "wof:name":"Heartland Plumbing & Heating",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.978709,
+    39.172113,
+    -94.978709,
+    39.172113
+],
+  "geometry": {"coordinates":[-94.97870899999999,39.172113],"type":"Point"}
+}

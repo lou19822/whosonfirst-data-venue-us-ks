@@ -1,0 +1,73 @@
+{
+  "id": 840910461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.288282,38.412547,-96.288282,38.412547",
+    "geom:latitude":38.412547,
+    "geom:longitude":-96.288282,
+    "iso:country":"US",
+    "sg:address":"468 Rd 175",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 3286",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bdun1GEKeXszbN5mnzXcz_38.412547_-96.288282@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050747,
+    "wof:geomhash":"4065b15708e6f04dd7fd2180a9541679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840910461
+        }
+    ],
+    "wof:id":840910461,
+    "wof:lastmodified":1464050747,
+    "wof:name":"Justus Fabricating Inc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -96.288282,
+    38.412547,
+    -96.288282,
+    38.412547
+],
+  "geometry": {"coordinates":[-96.288282,38.412547],"type":"Point"}
+}

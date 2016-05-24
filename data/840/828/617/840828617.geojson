@@ -1,0 +1,71 @@
+{
+  "id": 840828617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.192765,38.406981,-96.192765,38.406981",
+    "geom:latitude":38.406981,
+    "geom:longitude":-96.192765,
+    "iso:country":"US",
+    "sg:address":"812 Lawrence St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 364 8880",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "photography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SXDb4nY2tYUAW6zBV6SBd_38.406981_-96.192765@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048975,
+    "wof:geomhash":"3a8c9aaa897c5a93136a4aa8a3e5092f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840828617
+        }
+    ],
+    "wof:id":840828617,
+    "wof:lastmodified":1464048975,
+    "wof:name":"Gifford's Photography",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography"
+    ]
+},
+  "bbox": [
+    -96.192765,
+    38.406981,
+    -96.192765,
+    38.406981
+],
+  "geometry": {"coordinates":[-96.19276499999999,38.406981],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840679741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.08502,39.110971,-95.08502,39.110971",
+    "geom:latitude":39.110971,
+    "geom:longitude":-95.08502,
+    "iso:country":"US",
+    "sg:address":"222 S Main St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 9455",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W5NA3XnmRmXbVQu5Ukxhg_39.110971_-95.085020@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045563,
+    "wof:geomhash":"bec7bd2f3cc4d3b249a851c40a989ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840679741
+        }
+    ],
+    "wof:id":840679741,
+    "wof:lastmodified":1464045563,
+    "wof:name":"Tonganoxie Swimming Pool",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -95.08502,
+    39.110971,
+    -95.08502,
+    39.110971
+],
+  "geometry": {"coordinates":[-95.08502,39.110971],"type":"Point"}
+}

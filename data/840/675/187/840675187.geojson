@@ -1,0 +1,77 @@
+{
+  "id": 840675187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.705123,37.401271,-94.705123,37.401271",
+    "geom:latitude":37.401271,
+    "geom:longitude":-94.705123,
+    "iso:country":"US",
+    "sg:address":"123 W Adams St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 0067",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "information",
+        "abuse",
+        "treatment",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n3NUnsbXIbRw0yVVpXfWF_37.401271_-94.705123@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045449,
+    "wof:geomhash":"c024b838c81041e2dc46f00cabc84ed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840675187
+        }
+    ],
+    "wof:id":840675187,
+    "wof:lastmodified":1464045449,
+    "wof:name":"Children's Advocacy Ctr",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "abuse",
+        "treatment",
+        "child"
+    ]
+},
+  "bbox": [
+    -94.705123,
+    37.401271,
+    -94.705123,
+    37.401271
+],
+  "geometry": {"coordinates":[-94.705123,37.401271],"type":"Point"}
+}

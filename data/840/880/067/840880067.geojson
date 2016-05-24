@@ -1,0 +1,71 @@
+{
+  "id": 840880067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.372517,37.636966,-97.372517,37.636966",
+    "geom:latitude":37.636966,
+    "geom:longitude":-97.372517,
+    "iso:country":"US",
+    "sg:address":"2526 W 31st St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 383 0380",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44RYteLpnItldqkg84HG9Y_37.636966_-97.372517@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050076,
+    "wof:geomhash":"db639237dd9b0a6b5f4f598dc42781ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840880067
+        }
+    ],
+    "wof:id":840880067,
+    "wof:lastmodified":1464050076,
+    "wof:name":"Southwestern Bell Telephone LP",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -97.372517,
+    37.636966,
+    -97.372517,
+    37.636966
+],
+  "geometry": {"coordinates":[-97.372517,37.636966],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840777509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.626508,39.021543,-95.626508,39.021543",
+    "geom:latitude":39.021543,
+    "geom:longitude":-95.626508,
+    "iso:country":"US",
+    "sg:address":"2730 SE Aquarius Dr",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 221 7262",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gNCErrhpOeXDRogH79WcV_39.021543_-95.626508@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047711,
+    "wof:geomhash":"18a9bfa542298f56d15a8006862415c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840777509
+        }
+    ],
+    "wof:id":840777509,
+    "wof:lastmodified":1464047711,
+    "wof:name":"J C Brown Painting & Rmdlng",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -95.626508,
+    39.021543,
+    -95.626508,
+    39.021543
+],
+  "geometry": {"coordinates":[-95.626508,39.021543],"type":"Point"}
+}

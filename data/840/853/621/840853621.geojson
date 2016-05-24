@@ -1,0 +1,75 @@
+{
+  "id": 840853621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.407342,37.637325,-97.407342,37.637325",
+    "geom:latitude":37.637325,
+    "geom:longitude":-97.407342,
+    "iso:country":"US",
+    "sg:address":"2924 S Hoover Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 943 4105",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "house",
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q1670ZXceioMtQ32gcw4z_37.637325_-97.407342@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049519,
+    "wof:geomhash":"8cdedb94332848dacc665aad25337d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840853621
+        }
+    ],
+    "wof:id":840853621,
+    "wof:lastmodified":1464049519,
+    "wof:name":"Pinkston House Moving",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "house",
+        "mover"
+    ]
+},
+  "bbox": [
+    -97.407342,
+    37.637325,
+    -97.407342,
+    37.637325
+],
+  "geometry": {"coordinates":[-97.407342,37.637325],"type":"Point"}
+}

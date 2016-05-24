@@ -1,0 +1,73 @@
+{
+  "id": 840704387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.118931,39.131142,-95.118931,39.131142",
+    "geom:latitude":39.131142,
+    "geom:longitude":-95.118931,
+    "iso:country":"US",
+    "sg:address":"22351 Parallel Rd",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 3624",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M1ZvEgXdFN5ACmSZ4epps_39.131142_-95.118931@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046190,
+    "wof:geomhash":"f83b13c17f7b170145ff91933048b3b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840704387
+        }
+    ],
+    "wof:id":840704387,
+    "wof:lastmodified":1464046190,
+    "wof:name":"E & J Small Engine Repair",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "saw"
+    ]
+},
+  "bbox": [
+    -95.118931,
+    39.131142,
+    -95.118931,
+    39.131142
+],
+  "geometry": {"coordinates":[-95.118931,39.131142],"type":"Point"}
+}

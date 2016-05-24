@@ -1,0 +1,87 @@
+{
+  "id": 840765025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.680589,38.920898,-94.680589,38.920898",
+    "geom:latitude":38.920898,
+    "geom:longitude":-94.680589,
+    "iso:country":"US",
+    "sg:address":"8009 W 115th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 451 7120",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "design",
+        "reporting",
+        "commercial",
+        "court"
+    ],
+    "sg:website":"www.moxleyofkc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69A9ba4zyw5drafJNtp23Z_38.920898_-94.680589@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047453,
+    "wof:geomhash":"a7a10c60b3b2859809bd3774fbd7db51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":840765025
+        }
+    ],
+    "wof:id":840765025,
+    "wof:lastmodified":1464047453,
+    "wof:name":"Moxley Desktop Publishing",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "reporting",
+        "commercial",
+        "court"
+    ]
+},
+  "bbox": [
+    -94.680589,
+    38.920898,
+    -94.680589,
+    38.920898
+],
+  "geometry": {"coordinates":[-94.680589,38.920898],"type":"Point"}
+}

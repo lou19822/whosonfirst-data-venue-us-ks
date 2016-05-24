@@ -1,0 +1,73 @@
+{
+  "id": 840654165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.68878,37.410956,-94.68878,37.410956",
+    "geom:latitude":37.410956,
+    "geom:longitude":-94.68878,
+    "iso:country":"US",
+    "sg:address":"1005 E 4th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 235 0231",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43wZMG7bbu6k1eUaHNRw83_37.410956_-94.688780@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044984,
+    "wof:geomhash":"249bb19ac4b224dd3dadca10de35a509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840654165
+        }
+    ],
+    "wof:id":840654165,
+    "wof:lastmodified":1464044984,
+    "wof:name":"4th Street Auto Sales & Svc",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.68878,
+    37.410956,
+    -94.68878,
+    37.410956
+],
+  "geometry": {"coordinates":[-94.68877999999999,37.410956],"type":"Point"}
+}

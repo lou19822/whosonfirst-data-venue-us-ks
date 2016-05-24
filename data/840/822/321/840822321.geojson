@@ -1,0 +1,71 @@
+{
+  "id": 840822321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.951772,38.305862,-95.951772,38.305862",
+    "geom:latitude":38.305862,
+    "geom:longitude":-95.951772,
+    "iso:country":"US",
+    "sg:address":"514 Neosho St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 392 5953",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BH7f6J4uglNGWR4o2pRZc_38.305862_-95.951772@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048821,
+    "wof:geomhash":"9db7a0362e18e940b4cfc5c8d28c0a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840822321
+        }
+    ],
+    "wof:id":840822321,
+    "wof:lastmodified":1464048821,
+    "wof:name":"Neosho Residence",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -95.951772,
+    38.305862,
+    -95.951772,
+    38.305862
+],
+  "geometry": {"coordinates":[-95.95177200000001,38.305862],"type":"Point"}
+}

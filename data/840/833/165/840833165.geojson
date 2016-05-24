@@ -1,0 +1,77 @@
+{
+  "id": 840833165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.688622,38.990413,-95.688622,38.990413",
+    "geom:latitude":38.990413,
+    "geom:longitude":-95.688622,
+    "iso:country":"US",
+    "sg:address":"500 SW 42nd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 6243",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eS3rjvNPw6NEWaoy41NMe_38.990413_-95.688622@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049067,
+    "wof:geomhash":"56696e07c0ee35aa194efba029345c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840833165
+        }
+    ],
+    "wof:id":840833165,
+    "wof:lastmodified":1464049067,
+    "wof:name":"US Army Reserve",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -95.688622,
+    38.990413,
+    -95.688622,
+    38.990413
+],
+  "geometry": {"coordinates":[-95.688622,38.990413],"type":"Point"}
+}

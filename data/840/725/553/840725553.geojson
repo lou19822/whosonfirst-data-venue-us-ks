@@ -1,0 +1,71 @@
+{
+  "id": 840725553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.778227,38.999233,-94.778227,38.999233",
+    "geom:latitude":38.999233,
+    "geom:longitude":-94.778227,
+    "iso:country":"US",
+    "sg:address":"16555 Midland Dr",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 248 1900",
+    "sg:postcode":"66217",
+    "sg:province":"KS",
+    "sg:website":"www.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812711,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SQGsxx2wLfFwyIk55lU0I_38.999233_-94.778227@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046629,
+    "wof:geomhash":"6830336737c649eb7e4b0d9c83b256ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85812711,
+            "region_id":85688555,
+            "venue_id":840725553
+        }
+    ],
+    "wof:id":840725553,
+    "wof:lastmodified":1464046629,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85812711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.778227,
+    38.999233,
+    -94.778227,
+    38.999233
+],
+  "geometry": {"coordinates":[-94.778227,38.999233],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840921493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.453488,37.693937,-97.453488,37.693937",
+    "geom:latitude":37.693937,
+    "geom:longitude":-97.453488,
+    "iso:country":"US",
+    "sg:address":"9301 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 4471",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nXNQ9K7cXxwHIPIC9m7cy_37.693937_-97.453488@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051044,
+    "wof:geomhash":"d1aef1c49949d82f08c3c0a3c273132f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840921493
+        }
+    ],
+    "wof:id":840921493,
+    "wof:lastmodified":1464051044,
+    "wof:name":"Westborough Arms Apartments",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -97.453488,
+    37.693937,
+    -97.453488,
+    37.693937
+],
+  "geometry": {"coordinates":[-97.45348799999999,37.693937],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840657183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704944,37.459553,-94.704944,37.459553",
+    "geom:latitude":37.459553,
+    "geom:longitude":-94.704944,
+    "iso:country":"US",
+    "sg:address":"1034 US Hwy 69",
+    "sg:city":"Frontenac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 2273",
+    "sg:postcode":"66763",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pleNIwAoqySlDBAkOvqeY_37.459553_-94.704944@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045047,
+    "wof:geomhash":"ac8cb3a0b8153056fb7cab8687564e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840657183
+        }
+    ],
+    "wof:id":840657183,
+    "wof:lastmodified":1464045047,
+    "wof:name":"Countryside Dentistry",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.704944,
+    37.459553,
+    -94.704944,
+    37.459553
+],
+  "geometry": {"coordinates":[-94.704944,37.459553],"type":"Point"}
+}

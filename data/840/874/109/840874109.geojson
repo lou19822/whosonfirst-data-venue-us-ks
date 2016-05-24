@@ -1,0 +1,73 @@
+{
+  "id": 840874109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.419752,37.770483,-97.419752,37.770483",
+    "geom:latitude":37.770483,
+    "geom:longitude":-97.419752,
+    "iso:country":"US",
+    "sg:address":"6600 W 47th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 9488",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52511DQhDTMYQQ772nfk8a_37.770483_-97.419752@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049935,
+    "wof:geomhash":"d1db6a2c8cdd2bcec6767b2bf9194c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840874109
+        }
+    ],
+    "wof:id":840874109,
+    "wof:lastmodified":1464049935,
+    "wof:name":"Goodrich Masonry",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.419752,
+    37.770483,
+    -97.419752,
+    37.770483
+],
+  "geometry": {"coordinates":[-97.419752,37.770483],"type":"Point"}
+}

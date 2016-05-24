@@ -1,0 +1,71 @@
+{
+  "id": 840774481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.669962,38.966331,-95.669962,38.966331",
+    "geom:latitude":38.966331,
+    "geom:longitude":-95.669962,
+    "iso:country":"US",
+    "sg:address":"5444 SE Adams St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 2770",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aRqo41j6RJm5ge3TGTWyj_38.966331_-95.669962@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047658,
+    "wof:geomhash":"d30439535458476bc61db5e4c3fd2a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840774481
+        }
+    ],
+    "wof:id":840774481,
+    "wof:lastmodified":1464047658,
+    "wof:name":"Brown Tree & Lawn",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -95.669962,
+    38.966331,
+    -95.669962,
+    38.966331
+],
+  "geometry": {"coordinates":[-95.669962,38.966331],"type":"Point"}
+}

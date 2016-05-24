@@ -1,0 +1,78 @@
+{
+  "id": 856705641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667838,38.937979,-94.667838,38.937979",
+    "geom:latitude":38.937979,
+    "geom:longitude":-94.667838,
+    "iso:country":"US",
+    "sg:address":"10510 Metcalf Ave",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/64271-chuck-e-cheeses/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 648 4920",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879547,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mG5tlqlQOylJwklWC8gMw_38.937979_-94.667838@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052180,
+    "wof:geomhash":"3708d15267cb0b9402cc39fe5b0cd5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879547,
+            "region_id":85688555,
+            "venue_id":856705641
+        }
+    ],
+    "wof:id":856705641,
+    "wof:lastmodified":1464052180,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":85879547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.667838,
+    38.937979,
+    -94.667838,
+    38.937979
+],
+  "geometry": {"coordinates":[-94.667838,38.937979],"type":"Point"}
+}

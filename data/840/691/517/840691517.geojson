@@ -1,0 +1,71 @@
+{
+  "id": 840691517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352539,37.64484,-97.352539,37.64484",
+    "geom:latitude":37.64484,
+    "geom:longitude":-97.352539,
+    "iso:country":"US",
+    "sg:address":"2776 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 6491",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yBMIH0j0v5GN3DX8qV97R_37.644840_-97.352539@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045846,
+    "wof:geomhash":"2694752bd455b085cb960ae11440036c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840691517
+        }
+    ],
+    "wof:id":840691517,
+    "wof:lastmodified":1464045846,
+    "wof:name":"Arapahoe Veterinary Clinic",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -97.352539,
+    37.64484,
+    -97.352539,
+    37.64484
+],
+  "geometry": {"coordinates":[-97.35253899999999,37.64484],"type":"Point"}
+}

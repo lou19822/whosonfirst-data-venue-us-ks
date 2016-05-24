@@ -1,0 +1,75 @@
+{
+  "id": 840854221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.741283,38.971106,-94.741283,38.971106",
+    "geom:latitude":38.971106,
+    "geom:longitude":-94.741283,
+    "iso:country":"US",
+    "sg:address":"13400 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 8308",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1evkoFvdFqTiddO1TbcfDX_38.971106_-94.741283@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049529,
+    "wof:geomhash":"071d759d67fefc2bda6fc60e63ece708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840854221
+        }
+    ],
+    "wof:id":840854221,
+    "wof:lastmodified":1464049529,
+    "wof:name":"Hy-Vee Food Stores",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.741283,
+    38.971106,
+    -94.741283,
+    38.971106
+],
+  "geometry": {"coordinates":[-94.741283,38.971106],"type":"Point"}
+}

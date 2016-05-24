@@ -1,0 +1,69 @@
+{
+  "id": 840808333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.84986,37.813194,-96.84986,37.813194",
+    "geom:latitude":37.813194,
+    "geom:longitude":-96.84986,
+    "iso:country":"US",
+    "sg:address":"535 S Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 4222",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HfBDvpP211q8UC4pZXQaw_37.813194_-96.849860@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048366,
+    "wof:geomhash":"3f0f48e5c14d9f76084cfeccceb4c09f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840808333
+        }
+    ],
+    "wof:id":840808333,
+    "wof:lastmodified":1464048366,
+    "wof:name":"Plummer Dentistry",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.84986,
+    37.813194,
+    -96.84986,
+    37.813194
+],
+  "geometry": {"coordinates":[-96.84986000000001,37.813194],"type":"Point"}
+}

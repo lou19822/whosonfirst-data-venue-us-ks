@@ -1,0 +1,77 @@
+{
+  "id": 840627787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.696467,39.14193,-94.696467,39.14193",
+    "geom:latitude":39.14193,
+    "geom:longitude":-94.696467,
+    "iso:country":"US",
+    "sg:address":"3051 N 51 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 287 1223",
+    "sg:postcode":"66104",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854995,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I7LokfngpLoWAFhLc4ghG_39.141930_-94.696467@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044374,
+    "wof:geomhash":"3f64189b1b01bad1840b7e421c717e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85854995,
+            "region_id":85688555,
+            "venue_id":840627787
+        }
+    ],
+    "wof:id":840627787,
+    "wof:lastmodified":1464044374,
+    "wof:name":"Valentine Garage",
+    "wof:parent_id":85854995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.696467,
+    39.14193,
+    -94.696467,
+    39.14193
+],
+  "geometry": {"coordinates":[-94.696467,39.14193],"type":"Point"}
+}

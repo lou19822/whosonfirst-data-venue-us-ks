@@ -1,0 +1,71 @@
+{
+  "id": 840623313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.970489,39.029166,-94.970489,39.029166",
+    "geom:latitude":39.029166,
+    "geom:longitude":-94.970489,
+    "iso:country":"US",
+    "sg:address":"16766 Cantrell Rd",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 6030",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R95l4IvCjbtTMNQhy7ngd_39.029166_-94.970489@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044246,
+    "wof:geomhash":"a4bedf8b450e22c7f93c469583bd2925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840623313
+        }
+    ],
+    "wof:id":840623313,
+    "wof:lastmodified":1464044246,
+    "wof:name":"Walnut Grove Bible Church",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -94.970489,
+    39.029166,
+    -94.970489,
+    39.029166
+],
+  "geometry": {"coordinates":[-94.970489,39.029166],"type":"Point"}
+}

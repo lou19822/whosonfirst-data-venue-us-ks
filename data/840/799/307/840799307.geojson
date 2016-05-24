@@ -1,0 +1,75 @@
+{
+  "id": 840799307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.754334,39.116512,-94.754334,39.116512",
+    "geom:latitude":39.116512,
+    "geom:longitude":-94.754334,
+    "iso:country":"US",
+    "sg:address":"7650 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 2598",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NTQM1Rekm34lHojHVnnE3_39.116512_-94.754334@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048187,
+    "wof:geomhash":"cd464847617abb8a194db9ca5c9df019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840799307
+        }
+    ],
+    "wof:id":840799307,
+    "wof:lastmodified":1464048187,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.754334,
+    39.116512,
+    -94.754334,
+    39.116512
+],
+  "geometry": {"coordinates":[-94.754334,39.116512],"type":"Point"}
+}

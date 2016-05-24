@@ -1,0 +1,69 @@
+{
+  "id": 840702909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.625923,39.016742,-95.625923,39.016742",
+    "geom:latitude":39.016742,
+    "geom:longitude":-95.625923,
+    "iso:country":"US",
+    "sg:address":"3030 SE Pisces Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 7400",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2exbUWiT4mW9qVEAejNawi_39.016742_-95.625923@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046162,
+    "wof:geomhash":"405130d5e19a6b5543806d3983fc1296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840702909
+        }
+    ],
+    "wof:id":840702909,
+    "wof:lastmodified":1464046162,
+    "wof:name":"Joan Dolan",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -95.625923,
+    39.016742,
+    -95.625923,
+    39.016742
+],
+  "geometry": {"coordinates":[-95.625923,39.016742],"type":"Point"}
+}

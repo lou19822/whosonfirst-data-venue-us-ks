@@ -1,0 +1,71 @@
+{
+  "id": 840583729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.689467,37.382877,-94.689467,37.382877",
+    "geom:latitude":37.382877,
+    "geom:longitude":-94.689467,
+    "iso:country":"US",
+    "sg:address":"2401 S Tucker Ter",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 7330",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tBco7F4AlbnrcklhLVWWZ_37.382877_-94.689467@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043286,
+    "wof:geomhash":"5b34fe89067d2c1aae705388d47fb843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840583729
+        }
+    ],
+    "wof:id":840583729,
+    "wof:lastmodified":1464043286,
+    "wof:name":"R James Rhodes DDS",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.689467,
+    37.382877,
+    -94.689467,
+    37.382877
+],
+  "geometry": {"coordinates":[-94.68946699999999,37.382877],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840932803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352542,37.645448,-97.352542,37.645448",
+    "geom:latitude":37.645448,
+    "geom:longitude":-97.352542,
+    "iso:country":"US",
+    "sg:address":"2712 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 3932",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "magazine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O6QsJRrA8r117APvJYJ6q_37.645448_-97.352542@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051303,
+    "wof:geomhash":"6a13f69f3ea789bc74c4860749d7cd8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840932803
+        }
+    ],
+    "wof:id":840932803,
+    "wof:lastmodified":1464051303,
+    "wof:name":"City News",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magazine"
+    ]
+},
+  "bbox": [
+    -97.352542,
+    37.645448,
+    -97.352542,
+    37.645448
+],
+  "geometry": {"coordinates":[-97.352542,37.645448],"type":"Point"}
+}

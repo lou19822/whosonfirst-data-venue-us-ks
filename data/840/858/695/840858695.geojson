@@ -1,0 +1,75 @@
+{
+  "id": 840858695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.702044,38.941056,-94.702044,38.941056",
+    "geom:latitude":38.941056,
+    "geom:longitude":-94.702044,
+    "iso:country":"US",
+    "sg:address":"10328 Mastin St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 3663",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nNlRahOp0CyghfhFVGRzn_38.941056_-94.702044@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049632,
+    "wof:geomhash":"70e5d7509655aece9e63f051a36ad9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":840858695
+        }
+    ],
+    "wof:id":840858695,
+    "wof:lastmodified":1464049632,
+    "wof:name":"International Market",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.702044,
+    38.941056,
+    -94.702044,
+    38.941056
+],
+  "geometry": {"coordinates":[-94.702044,38.941056],"type":"Point"}
+}

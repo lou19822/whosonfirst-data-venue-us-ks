@@ -1,0 +1,76 @@
+{
+  "id": 856706971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761831,39.038552,-95.761831,39.038552",
+    "geom:latitude":39.038552,
+    "geom:longitude":-95.761831,
+    "iso:country":"US",
+    "sg:address":"1560 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/208196-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 1608",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E6esLYzPQEOx9Cv4aUmbv_39.038552_-95.761831@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052207,
+    "wof:geomhash":"528a08c8488c31af99a91c4c6911b513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706971
+        }
+    ],
+    "wof:id":856706971,
+    "wof:lastmodified":1464052207,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.761831,
+    39.038552,
+    -95.761831,
+    39.038552
+],
+  "geometry": {"coordinates":[-95.761831,39.038552],"type":"Point"}
+}

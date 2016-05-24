@@ -1,0 +1,71 @@
+{
+  "id": 840584149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.553701,37.692813,-97.553701,37.692813",
+    "geom:latitude":37.692813,
+    "geom:longitude":-97.553701,
+    "iso:country":"US",
+    "sg:address":"18625 W Central St",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 794 8498",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I8brZA55kCCFTzNYvibDZ_37.692813_-97.553701@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043295,
+    "wof:geomhash":"240d86502f95a2274216ec264df7d421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840584149
+        }
+    ],
+    "wof:id":840584149,
+    "wof:lastmodified":1464043295,
+    "wof:name":"Siggs Trucking Inc",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -97.553701,
+    37.692813,
+    -97.553701,
+    37.692813
+],
+  "geometry": {"coordinates":[-97.553701,37.692813],"type":"Point"}
+}

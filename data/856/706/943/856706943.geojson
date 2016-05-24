@@ -1,0 +1,76 @@
+{
+  "id": 856706943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.761617,39.04687,-95.761617,39.04687",
+    "geom:latitude":39.04687,
+    "geom:longitude":-95.761617,
+    "iso:country":"US",
+    "sg:address":"1130 SW Wanamaker Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/245036-spangles/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 1377",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BgWo6cg49ORMvRfvHz1r3_39.046870_-95.761617@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052206,
+    "wof:geomhash":"f01d2cc3845f101d93584794bc729d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":856706943
+        }
+    ],
+    "wof:id":856706943,
+    "wof:lastmodified":1464052206,
+    "wof:name":"Spangles",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -95.761617,
+    39.04687,
+    -95.761617,
+    39.04687
+],
+  "geometry": {"coordinates":[-95.761617,39.04687],"type":"Point"}
+}

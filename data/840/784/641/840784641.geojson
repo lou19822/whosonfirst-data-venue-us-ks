@@ -1,0 +1,73 @@
+{
+  "id": 840784641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.21241,38.418319,-96.21241,38.418319",
+    "geom:latitude":38.418319,
+    "geom:longitude":-96.21241,
+    "iso:country":"US",
+    "sg:address":"1701 Wheeler St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2505",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QGyc9eiu9OGOdxcDBoc6d_38.418319_-96.212410@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047850,
+    "wof:geomhash":"43e1856ad3b64397d55addf30092b21b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840784641
+        }
+    ],
+    "wof:id":840784641,
+    "wof:lastmodified":1464047850,
+    "wof:name":"Social & Rehabilitation Svc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -96.21241,
+    38.418319,
+    -96.21241,
+    38.418319
+],
+  "geometry": {"coordinates":[-96.21241000000001,38.418319],"type":"Point"}
+}

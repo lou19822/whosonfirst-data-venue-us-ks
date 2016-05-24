@@ -1,0 +1,75 @@
+{
+  "id": 840755029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.976439,37.678301,-96.976439,37.678301",
+    "geom:latitude":37.678301,
+    "geom:longitude":-96.976439,
+    "iso:country":"US",
+    "sg:address":"640 Osage St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 1189",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QyZrDmt6tO7WbVad3JgtV_37.678301_-96.976439@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047219,
+    "wof:geomhash":"222961b88ea8ded41e3f8fd83fe113ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840755029
+        }
+    ],
+    "wof:id":840755029,
+    "wof:lastmodified":1464047219,
+    "wof:name":"Senior Center",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -96.976439,
+    37.678301,
+    -96.976439,
+    37.678301
+],
+  "geometry": {"coordinates":[-96.976439,37.678301],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 856705151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.638518,38.935098,-94.638518,38.935098",
+    "geom:latitude":38.935098,
+    "geom:longitude":-94.638518,
+    "iso:country":"US",
+    "sg:address":"4530 W 107th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/94702-mr-goodcents-subs--pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 383 1177",
+    "sg:postcode":"66207",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JiL1r5zftozXDHYovlgbk_38.935098_-94.638518@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052172,
+    "wof:geomhash":"f8aa275bfde8df195cd1e4f5df516d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":856705151
+        }
+    ],
+    "wof:id":856705151,
+    "wof:lastmodified":1464052172,
+    "wof:name":"Mr. Goodcents Subs & Pasta",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.638518,
+    38.935098,
+    -94.638518,
+    38.935098
+],
+  "geometry": {"coordinates":[-94.638518,38.935098],"type":"Point"}
+}

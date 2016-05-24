@@ -1,0 +1,77 @@
+{
+  "id": 840816953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.317273,37.689881,-97.317273,37.689881",
+    "geom:latitude":37.689881,
+    "geom:longitude":-97.317273,
+    "iso:country":"US",
+    "sg:address":"1630 E 2nd St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 263 3661",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872805,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tMdGsC8bU2DSVImpYJkmz_37.689881_-97.317273@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048658,
+    "wof:geomhash":"3893f4273af5363bf6d25b1f545e54db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872805,
+            "region_id":85688555,
+            "venue_id":840816953
+        }
+    ],
+    "wof:id":840816953,
+    "wof:lastmodified":1464048658,
+    "wof:name":"Bavarian Automotive Inc",
+    "wof:parent_id":85872805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -97.317273,
+    37.689881,
+    -97.317273,
+    37.689881
+],
+  "geometry": {"coordinates":[-97.317273,37.689881],"type":"Point"}
+}

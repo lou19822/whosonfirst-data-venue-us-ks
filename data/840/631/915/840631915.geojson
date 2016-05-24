@@ -1,0 +1,75 @@
+{
+  "id": 840631915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389379,37.69284,-97.389379,37.69284",
+    "geom:latitude":37.69284,
+    "geom:longitude":-97.389379,
+    "iso:country":"US",
+    "sg:address":"614 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 5181",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J5JlK5RTVYHKrq3KJANZo_37.692840_-97.389379@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044488,
+    "wof:geomhash":"2c7d8e23587e8e9a0f2d4337a594f002",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840631915
+        }
+    ],
+    "wof:id":840631915,
+    "wof:lastmodified":1464044488,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -97.389379,
+    37.69284,
+    -97.389379,
+    37.69284
+],
+  "geometry": {"coordinates":[-97.38937900000001,37.69284],"type":"Point"}
+}

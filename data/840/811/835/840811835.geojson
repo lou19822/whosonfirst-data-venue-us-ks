@@ -1,0 +1,71 @@
+{
+  "id": 840811835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.052973,39.135759,-95.052973,39.135759",
+    "geom:latitude":39.135759,
+    "geom:longitude":-95.052973,
+    "iso:country":"US",
+    "sg:address":"19988 Tonganoxie Rd",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 3238",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dilqjOUO1udsiG155QC0C_39.135759_-95.052973@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048488,
+    "wof:geomhash":"3a2feaa1dd25ce77efe6af1e92ba3686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840811835
+        }
+    ],
+    "wof:id":840811835,
+    "wof:lastmodified":1464048488,
+    "wof:name":"Lost Corner Farm",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -95.052973,
+    39.135759,
+    -95.052973,
+    39.135759
+],
+  "geometry": {"coordinates":[-95.05297299999999,39.135759],"type":"Point"}
+}

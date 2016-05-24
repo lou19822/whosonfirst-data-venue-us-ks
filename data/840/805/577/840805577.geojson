@@ -1,0 +1,73 @@
+{
+  "id": 840805577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.335453,37.650733,-97.335453,37.650733",
+    "geom:latitude":37.650733,
+    "geom:longitude":-97.335453,
+    "iso:country":"US",
+    "sg:address":"2348 S Broadway Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 262 0555",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KPVeOH4j3KH5gkZnFdNw0_37.650733_-97.335453@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048309,
+    "wof:geomhash":"72ea93d384d5cbd2b42fe69d732aafd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840805577
+        }
+    ],
+    "wof:id":840805577,
+    "wof:lastmodified":1464048309,
+    "wof:name":"Perry's Car Co",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.335453,
+    37.650733,
+    -97.335453,
+    37.650733
+],
+  "geometry": {"coordinates":[-97.335453,37.650733],"type":"Point"}
+}

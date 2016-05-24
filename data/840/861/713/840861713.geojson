@@ -1,0 +1,75 @@
+{
+  "id": 840861713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.244726,37.738333,-97.244726,37.738333",
+    "geom:latitude":37.738333,
+    "geom:longitude":-97.244726,
+    "iso:country":"US",
+    "sg:address":"3045 N Rock Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 636 1835",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75hiOU6lHeiH75L9wRsU1Z_37.738333_-97.244726@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049687,
+    "wof:geomhash":"f9bffcb15c2b512d9a78f226fc5f17c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":840861713
+        }
+    ],
+    "wof:id":840861713,
+    "wof:lastmodified":1464049687,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.244726,
+    37.738333,
+    -97.244726,
+    37.738333
+],
+  "geometry": {"coordinates":[-97.244726,37.738333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840895421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.090041,39.107502,-95.090041,39.107502",
+    "geom:latitude":39.107502,
+    "geom:longitude":-95.090041,
+    "iso:country":"US",
+    "sg:address":"321 E 6th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 4545",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DnFnIt104tay7ICClcera_39.107502_-95.090041@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050394,
+    "wof:geomhash":"c7cf229e0f873e2e62ead25a568074c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840895421
+        }
+    ],
+    "wof:id":840895421,
+    "wof:lastmodified":1464050394,
+    "wof:name":"First Baptist",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.090041,
+    39.107502,
+    -95.090041,
+    39.107502
+],
+  "geometry": {"coordinates":[-95.090041,39.107502],"type":"Point"}
+}

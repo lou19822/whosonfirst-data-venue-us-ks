@@ -1,0 +1,82 @@
+{
+  "id": 856711225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.631869,39.002321,-94.631869,39.002321",
+    "geom:latitude":39.002321,
+    "geom:longitude":-94.631869,
+    "iso:country":"US",
+    "sg:address":"3954 W 69th Ter",
+    "sg:city":"Prairie Village",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/prairie-village/94708-mr-goodcents-subs--pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 3362",
+    "sg:postcode":"66208",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879583,
+        102191575,
+        404504399,
+        85633793,
+        85945757,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7faKZIQmo0F0FFM1EWrZyb_39.002199_-94.632312@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052290,
+    "wof:geomhash":"9cb96041a7c939bf4f8963c161895fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504399,
+            "locality_id":85945757,
+            "neighbourhood_id":85879583,
+            "region_id":85688555,
+            "venue_id":856711225
+        }
+    ],
+    "wof:id":856711225,
+    "wof:lastmodified":1464052290,
+    "wof:name":"Mr. Goodcents Subs & Pasta",
+    "wof:parent_id":85879583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.631869,
+    39.002321,
+    -94.631869,
+    39.002321
+],
+  "geometry": {"coordinates":[-94.63186899999999,39.002321],"type":"Point"}
+}

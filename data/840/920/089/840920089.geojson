@@ -1,0 +1,75 @@
+{
+  "id": 840920089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.768884,39.128507,-94.768884,39.128507",
+    "geom:latitude":39.128507,
+    "geom:longitude":-94.768884,
+    "iso:country":"US",
+    "sg:address":"8137 Parallel Pkwy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 8900",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iWKthI7veNd7FFph6eNdO_39.128507_-94.768884@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050992,
+    "wof:geomhash":"882fab8ba125b5917e3f8aee83efadd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840920089
+        }
+    ],
+    "wof:id":840920089,
+    "wof:lastmodified":1464050992,
+    "wof:name":"Family Dental Care",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.768884,
+    39.128507,
+    -94.768884,
+    39.128507
+],
+  "geometry": {"coordinates":[-94.768884,39.128507],"type":"Point"}
+}

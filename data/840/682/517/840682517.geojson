@@ -1,0 +1,75 @@
+{
+  "id": 840682517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95488,38.519599,-95.95488,38.519599",
+    "geom:latitude":38.519599,
+    "geom:longitude":-95.95488,
+    "iso:country":"US",
+    "sg:address":"615 1st St",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 699 3436",
+    "sg:postcode":"66868",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iYbghASAGUNhMEkwZMG3b_38.519599_-95.954880@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045636,
+    "wof:geomhash":"0ccef87e7c4029d58a9834ad14f66a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840682517
+        }
+    ],
+    "wof:id":840682517,
+    "wof:lastmodified":1464045636,
+    "wof:name":"Reading Civic Building",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -95.95488,
+    38.519599,
+    -95.95488,
+    38.519599
+],
+  "geometry": {"coordinates":[-95.95488,38.519599],"type":"Point"}
+}

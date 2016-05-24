@@ -1,0 +1,71 @@
+{
+  "id": 840888421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.93807,39.171224,-94.93807,39.171224",
+    "geom:latitude":39.171224,
+    "geom:longitude":-94.93807,
+    "iso:country":"US",
+    "sg:address":"21720 155th St",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 8700",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qiBQ2N3xUU4UcPKhlnk28_39.171224_-94.938070@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050247,
+    "wof:geomhash":"42964a2cd96c1312af89441344f14c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840888421
+        }
+    ],
+    "wof:id":840888421,
+    "wof:lastmodified":1464050247,
+    "wof:name":"National Sports Clinics",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.93807,
+    39.171224,
+    -94.93807,
+    39.171224
+],
+  "geometry": {"coordinates":[-94.93807,39.171224],"type":"Point"}
+}

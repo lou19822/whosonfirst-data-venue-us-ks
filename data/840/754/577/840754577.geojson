@@ -1,0 +1,71 @@
+{
+  "id": 840754577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.462529,37.720774,-97.462529,37.720774",
+    "geom:latitude":37.720774,
+    "geom:longitude":-97.462529,
+    "iso:country":"US",
+    "sg:address":"10325 W 20th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 722 0069",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IYWEBjyCLQzMKObLSXDn1_37.720774_-97.462529@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047211,
+    "wof:geomhash":"dfce37753ffbfc14a3f70b7f52197178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840754577
+        }
+    ],
+    "wof:id":840754577,
+    "wof:lastmodified":1464047211,
+    "wof:name":"Neil Engineering Co",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -97.462529,
+    37.720774,
+    -97.462529,
+    37.720774
+],
+  "geometry": {"coordinates":[-97.462529,37.720774],"type":"Point"}
+}

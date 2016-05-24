@@ -1,0 +1,71 @@
+{
+  "id": 840896989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.724716,39.126664,-95.724716,39.126664",
+    "geom:latitude":39.126664,
+    "geom:longitude":-95.724716,
+    "iso:country":"US",
+    "sg:address":"4441 NW Brickyard Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 286 3513",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jfjH3zk6EzqIU7qed3Bcn_39.126664_-95.724716@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050429,
+    "wof:geomhash":"72680677b44aac6b1d81836e5e8b3b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840896989
+        }
+    ],
+    "wof:id":840896989,
+    "wof:lastmodified":1464050429,
+    "wof:name":"Scott Masonry Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.724716,
+    39.126664,
+    -95.724716,
+    39.126664
+],
+  "geometry": {"coordinates":[-95.724716,39.126664],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856705871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.719914,38.950474,-94.719914,38.950474",
+    "geom:latitude":38.950474,
+    "geom:longitude":-94.719914,
+    "iso:country":"US",
+    "sg:address":"11501 W 97th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/118873-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 905 0285",
+    "sg:postcode":"66214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879589,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WmgLyX7zXWPOYZRZL2hpI_38.950474_-94.719914@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052184,
+    "wof:geomhash":"5da200be7723dd01dc297f3a4a1bd09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879589,
+            "region_id":85688555,
+            "venue_id":856705871
+        }
+    ],
+    "wof:id":856705871,
+    "wof:lastmodified":1464052184,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85879589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.719914,
+    38.950474,
+    -94.719914,
+    38.950474
+],
+  "geometry": {"coordinates":[-94.719914,38.950474],"type":"Point"}
+}

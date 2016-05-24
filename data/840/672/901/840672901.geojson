@@ -1,0 +1,75 @@
+{
+  "id": 840672901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.7037,39.043931,-94.7037,39.043931",
+    "geom:latitude":39.043931,
+    "geom:longitude":-94.7037,
+    "iso:country":"US",
+    "sg:address":"10225 W 47th St",
+    "sg:city":"Merriam",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 831 2104",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879555,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fityQD0ZpXG7YOoG8g4R0_39.043931_-94.703700@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045385,
+    "wof:geomhash":"a4a4fe582075cfd1462318a25f41ef4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":840672901
+        }
+    ],
+    "wof:id":840672901,
+    "wof:lastmodified":1464045385,
+    "wof:name":"Conoco",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.7037,
+    39.043931,
+    -94.7037,
+    39.043931
+],
+  "geometry": {"coordinates":[-94.7037,39.043931],"type":"Point"}
+}

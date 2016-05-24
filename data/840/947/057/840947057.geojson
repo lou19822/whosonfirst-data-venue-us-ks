@@ -1,0 +1,71 @@
+{
+  "id": 840947057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.21701,38.408792,-96.21701,38.408792",
+    "geom:latitude":38.408792,
+    "geom:longitude":-96.21701,
+    "iso:country":"US",
+    "sg:address":"935 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 2562",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yNhytpr6SvqZaOP4AUB4a_38.408792_-96.217010@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051590,
+    "wof:geomhash":"07d73f23ccd9d279d0b522ccb73c02c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840947057
+        }
+    ],
+    "wof:id":840947057,
+    "wof:lastmodified":1464051590,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -96.21701,
+    38.408792,
+    -96.21701,
+    38.408792
+],
+  "geometry": {"coordinates":[-96.21701,38.408792],"type":"Point"}
+}

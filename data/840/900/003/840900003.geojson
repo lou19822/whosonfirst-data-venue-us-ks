@@ -1,0 +1,77 @@
+{
+  "id": 840900003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.669412,39.057204,-95.669412,39.057204",
+    "geom:latitude":39.057204,
+    "geom:longitude":-95.669412,
+    "iso:country":"US",
+    "sg:address":"129 SE Quincy St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 270 5397",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FTppQUsgQlEu6kbyg5ncE_39.057204_-95.669412@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050492,
+    "wof:geomhash":"57f894f01f7ea316e44510a10ac923db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840900003
+        }
+    ],
+    "wof:id":840900003,
+    "wof:lastmodified":1464050492,
+    "wof:name":"Old Ironsides Lock & Key",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -95.669412,
+    39.057204,
+    -95.669412,
+    39.057204
+],
+  "geometry": {"coordinates":[-95.66941199999999,39.057204],"type":"Point"}
+}

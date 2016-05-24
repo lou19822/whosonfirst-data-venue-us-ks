@@ -1,0 +1,78 @@
+{
+  "id": 856705245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.659683,38.912101,-94.659683,38.912101",
+    "geom:latitude":38.912101,
+    "geom:longitude":-94.659683,
+    "iso:country":"US",
+    "sg:address":"6357 W 119th St",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/11036-andys-wok/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 469 6788",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_777UZzIL3IIYmnLBztCNm3_38.912101_-94.659683@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052174,
+    "wof:geomhash":"b690660da73793f5a32161938c16077b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":856705245
+        }
+    ],
+    "wof:id":856705245,
+    "wof:lastmodified":1464052174,
+    "wof:name":"Andy's Wok",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -94.659683,
+    38.912101,
+    -94.659683,
+    38.912101
+],
+  "geometry": {"coordinates":[-94.659683,38.912101],"type":"Point"}
+}

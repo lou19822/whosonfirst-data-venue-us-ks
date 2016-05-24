@@ -1,0 +1,73 @@
+{
+  "id": 840537511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.569433,37.662313,-97.569433,37.662313",
+    "geom:latitude":37.662313,
+    "geom:longitude":-97.569433,
+    "iso:country":"US",
+    "sg:address":"624 E 5th St",
+    "sg:city":"Goddard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 8800",
+    "sg:postcode":"67052",
+    "sg:province":"KS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hz1CU9c4Q7jucQQ9GSpCo_37.662313_-97.569433@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042146,
+    "wof:geomhash":"16cd5fca318f66db63ea9db8b0975470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840537511
+        }
+    ],
+    "wof:id":840537511,
+    "wof:lastmodified":1464042146,
+    "wof:name":"South Central Landscaping LLC",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.569433,
+    37.662313,
+    -97.569433,
+    37.662313
+],
+  "geometry": {"coordinates":[-97.569433,37.662313],"type":"Point"}
+}

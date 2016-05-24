@@ -1,0 +1,71 @@
+{
+  "id": 840780893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.317112,37.640004,-97.317112,37.640004",
+    "geom:latitude":37.640004,
+    "geom:longitude":-97.317112,
+    "iso:country":"US",
+    "sg:address":"2900 S Hydraulic St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 524 3201",
+    "sg:postcode":"67216",
+    "sg:province":"KS",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bI1Vbr8WVcrzQPz4mGCfm_37.640004_-97.317112@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047781,
+    "wof:geomhash":"e3960d7f450c0dc00bad708d88c4ee5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840780893
+        }
+    ],
+    "wof:id":840780893,
+    "wof:lastmodified":1464047781,
+    "wof:name":"Seven-Up Bottling Co",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -97.317112,
+    37.640004,
+    -97.317112,
+    37.640004
+],
+  "geometry": {"coordinates":[-97.31711199999999,37.640004],"type":"Point"}
+}

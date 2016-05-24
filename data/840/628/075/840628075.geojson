@@ -1,0 +1,73 @@
+{
+  "id": 840628075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.668117,39.091173,-95.668117,39.091173",
+    "geom:latitude":39.091173,
+    "geom:longitude":-95.668117,
+    "iso:country":"US",
+    "sg:address":"610 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 2654",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nPkVfAk2aMKQWIp7VTff9_39.091173_-95.668117@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044380,
+    "wof:geomhash":"16154824afb402281a134907ed9dc07c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840628075
+        }
+    ],
+    "wof:id":840628075,
+    "wof:lastmodified":1464044380,
+    "wof:name":"Carquest Auto Parts",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -95.668117,
+    39.091173,
+    -95.668117,
+    39.091173
+],
+  "geometry": {"coordinates":[-95.668117,39.091173],"type":"Point"}
+}

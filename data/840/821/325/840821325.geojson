@@ -1,0 +1,77 @@
+{
+  "id": 840821325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.666341,39.048233,-95.666341,39.048233",
+    "geom:latitude":39.048233,
+    "geom:longitude":-95.666341,
+    "iso:country":"US",
+    "sg:address":"635 SE 7th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 8846",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sqILMCJqxKNdBIIQ9eXJe_39.048233_-95.666341@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048786,
+    "wof:geomhash":"81630d807b169ca9d921bbd007b3e396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840821325
+        }
+    ],
+    "wof:id":840821325,
+    "wof:lastmodified":1464048786,
+    "wof:name":"O Z Truck & Auto",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.666341,
+    39.048233,
+    -95.666341,
+    39.048233
+],
+  "geometry": {"coordinates":[-95.666341,39.048233],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840901757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.326285,37.666868,-97.326285,37.666868",
+    "geom:latitude":37.666868,
+    "geom:longitude":-97.326285,
+    "iso:country":"US",
+    "sg:address":"1450 S Washington St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 1279",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5heVtzWFw1wkrU2LpzojpY_37.666868_-97.326285@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050535,
+    "wof:geomhash":"44a1dad8ce50a5ec2603e1c75161526f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840901757
+        }
+    ],
+    "wof:id":840901757,
+    "wof:lastmodified":1464050535,
+    "wof:name":"Mug & Jug",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -97.326285,
+    37.666868,
+    -97.326285,
+    37.666868
+],
+  "geometry": {"coordinates":[-97.326285,37.666868],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 856707131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687411,39.001589,-95.687411,39.001589",
+    "geom:latitude":39.001589,
+    "geom:longitude":-95.687411,
+    "iso:country":"US",
+    "sg:address":"3640 SW Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/topeka/94717-mr-goodcents-subs--pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 2424",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cVBx1UCftUrh32vPR5vh7_39.001589_-95.687411@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052210,
+    "wof:geomhash":"b0bf59b3f8126fbacb97a57660c2b913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":856707131
+        }
+    ],
+    "wof:id":856707131,
+    "wof:lastmodified":1464052210,
+    "wof:name":"Mr. Goodcents Subs & Pasta",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "italian"
+    ]
+},
+  "bbox": [
+    -95.687411,
+    39.001589,
+    -95.687411,
+    39.001589
+],
+  "geometry": {"coordinates":[-95.687411,39.001589],"type":"Point"}
+}

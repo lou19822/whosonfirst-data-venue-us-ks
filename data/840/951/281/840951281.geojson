@@ -1,0 +1,77 @@
+{
+  "id": 840951281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.743668,39.028055,-95.743668,39.028055",
+    "geom:latitude":39.028055,
+    "geom:longitude":-95.743668,
+    "iso:country":"US",
+    "sg:address":"2139 SW Fairlawn Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 8900",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45521NUb8XPQNJ9nUHuhdX_39.028055_-95.743668@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051676,
+    "wof:geomhash":"828022e54e27d6f64654f76eb8dd60f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840951281
+        }
+    ],
+    "wof:id":840951281,
+    "wof:lastmodified":1464051676,
+    "wof:name":"Petland",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.743668,
+    39.028055,
+    -95.743668,
+    39.028055
+],
+  "geometry": {"coordinates":[-95.743668,39.028055],"type":"Point"}
+}

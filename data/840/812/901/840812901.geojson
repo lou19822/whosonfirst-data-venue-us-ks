@@ -1,0 +1,73 @@
+{
+  "id": 840812901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.7073,38.978661,-95.7073,38.978661",
+    "geom:latitude":38.978661,
+    "geom:longitude":-95.7073,
+    "iso:country":"US",
+    "sg:address":"2045 SW 49th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 8377",
+    "sg:postcode":"66610",
+    "sg:province":"KS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78bh1CwTqNCEx7ZxdSIK5T_38.978661_-95.707300@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048537,
+    "wof:geomhash":"6d219b88bea4ea854b4416e4560e26a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840812901
+        }
+    ],
+    "wof:id":840812901,
+    "wof:lastmodified":1464048537,
+    "wof:name":"Singer Excavating Corp",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.7073,
+    38.978661,
+    -95.7073,
+    38.978661
+],
+  "geometry": {"coordinates":[-95.7073,38.978661],"type":"Point"}
+}

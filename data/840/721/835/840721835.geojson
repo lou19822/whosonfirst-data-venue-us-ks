@@ -1,0 +1,73 @@
+{
+  "id": 840721835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.787123,38.84889,-94.787123,38.84889",
+    "geom:latitude":38.84889,
+    "geom:longitude":-94.787123,
+    "iso:country":"US",
+    "sg:address":"1806 E 154th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 1206",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O4cKPIZOf1gv43t824ITp_38.848890_-94.787123@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046546,
+    "wof:geomhash":"61789d6195d51b07afb6bc04c484e21f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840721835
+        }
+    ],
+    "wof:id":840721835,
+    "wof:lastmodified":1464046546,
+    "wof:name":"Total Clean",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.787123,
+    38.84889,
+    -94.787123,
+    38.84889
+],
+  "geometry": {"coordinates":[-94.78712299999999,38.84889],"type":"Point"}
+}

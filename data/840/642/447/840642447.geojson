@@ -1,0 +1,77 @@
+{
+  "id": 840642447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.821854,38.854539,-94.821854,38.854539",
+    "geom:latitude":38.854539,
+    "geom:longitude":-94.821854,
+    "iso:country":"US",
+    "sg:address":"20333 W 151st St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 791 4325",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LZlLeA1JnyZVsd2tlHKPt_38.854539_-94.821854@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044729,
+    "wof:geomhash":"0e5b1e11587b4fb20b1d50f124b0189d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840642447
+        }
+    ],
+    "wof:id":840642447,
+    "wof:lastmodified":1464044729,
+    "wof:name":"Olathe Medical Ctr Rehab Svc",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -94.821854,
+    38.854539,
+    -94.821854,
+    38.854539
+],
+  "geometry": {"coordinates":[-94.821854,38.854539],"type":"Point"}
+}

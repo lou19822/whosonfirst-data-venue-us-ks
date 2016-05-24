@@ -1,0 +1,88 @@
+{
+  "id": 856704853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.686536,39.014886,-94.686536,39.014886",
+    "geom:latitude":39.014886,
+    "geom:longitude":-94.686536,
+    "iso:country":"US",
+    "sg:address":"8701 W. 63rd Street",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/merriam/96546-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 362 8663",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nmsG1pZpGsH2cv5TxUpvw_39.014886_-94.686536@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052168,
+    "wof:geomhash":"d3650d212656d6c22418e41170595043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":856704853
+        }
+    ],
+    "wof:id":856704853,
+    "wof:lastmodified":1464052168,
+    "wof:name":"IHOP",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -94.686536,
+    39.014886,
+    -94.686536,
+    39.014886
+],
+  "geometry": {"coordinates":[-94.686536,39.014886],"type":"Point"}
+}

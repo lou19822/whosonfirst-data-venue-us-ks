@@ -1,0 +1,78 @@
+{
+  "id": 856711109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.749636,39.116558,-94.749636,39.116558",
+    "geom:latitude":39.116558,
+    "geom:longitude":-94.749636,
+    "iso:country":"US",
+    "sg:address":"7361 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/81116-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 1000",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L6ha4m7xyrr7y9eBhCPsB_39.116542_-94.749545@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052288,
+    "wof:geomhash":"ea3a4c7aa6cd98a53560ce2c6393f37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":856711109
+        }
+    ],
+    "wof:id":856711109,
+    "wof:lastmodified":1464052288,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.749636,
+    39.116558,
+    -94.749636,
+    39.116558
+],
+  "geometry": {"coordinates":[-94.749636,39.116558],"type":"Point"}
+}

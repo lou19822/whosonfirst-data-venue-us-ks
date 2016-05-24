@@ -1,0 +1,75 @@
+{
+  "id": 840775687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.972572,37.701081,-96.972572,37.701081",
+    "geom:latitude":37.701081,
+    "geom:longitude":-96.972572,
+    "iso:country":"US",
+    "sg:address":"703 E Belmont Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 6060",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QzszFE9LIdWeI4FWQJ76Z_37.701081_-96.972572@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047679,
+    "wof:geomhash":"e669700e7a48da024712056dad352e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840775687
+        }
+    ],
+    "wof:id":840775687,
+    "wof:lastmodified":1464047679,
+    "wof:name":"Augusta Flix",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.972572,
+    37.701081,
+    -96.972572,
+    37.701081
+],
+  "geometry": {"coordinates":[-96.972572,37.701081],"type":"Point"}
+}

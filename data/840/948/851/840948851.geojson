@@ -1,0 +1,70 @@
+{
+  "id": 840948851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.834546,38.881171,-94.834546,38.881171",
+    "geom:latitude":38.881171,
+    "geom:longitude":-94.834546,
+    "iso:country":"US",
+    "sg:address":"141 S Parker St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 829 1465",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60fvBTPPQYN89KqDZ9ZfS6_38.881171_-94.834546@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051623,
+    "wof:geomhash":"29ba35adac6d893a70db8a96cdac4d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840948851
+        }
+    ],
+    "wof:id":840948851,
+    "wof:lastmodified":1464051623,
+    "wof:name":"West Market Laundry",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.834546,
+    38.881171,
+    -94.834546,
+    38.881171
+],
+  "geometry": {"coordinates":[-94.834546,38.881171],"type":"Point"}
+}

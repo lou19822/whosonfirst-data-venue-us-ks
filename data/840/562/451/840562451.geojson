@@ -1,0 +1,73 @@
+{
+  "id": 840562451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.196322,37.575411,-97.196322,37.575411",
+    "geom:latitude":37.575411,
+    "geom:longitude":-97.196322,
+    "iso:country":"US",
+    "sg:address":"12207 Fireside Ct",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 250 7453",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AbQBfsg6v4AmFMCSSRoAs_37.575411_-97.196322@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042791,
+    "wof:geomhash":"bea46d718ea8b41141ce1b8eb7d909d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840562451
+        }
+    ],
+    "wof:id":840562451,
+    "wof:lastmodified":1464042791,
+    "wof:name":"Blake's Lawn & Landscape",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.196322,
+    37.575411,
+    -97.196322,
+    37.575411
+],
+  "geometry": {"coordinates":[-97.196322,37.575411],"type":"Point"}
+}

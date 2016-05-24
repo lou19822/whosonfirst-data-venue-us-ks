@@ -1,0 +1,73 @@
+{
+  "id": 840720923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.152746,38.345768,-96.152746,38.345768",
+    "geom:latitude":38.345768,
+    "geom:longitude":-96.152746,
+    "iso:country":"US",
+    "sg:address":"1295 Rd M",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 341 9866",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rx5yInQFh4R6KQOOgkRch_38.345768_-96.152746@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046526,
+    "wof:geomhash":"ad78b2b57f196daddf7b3121d00fcfdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840720923
+        }
+    ],
+    "wof:id":840720923,
+    "wof:lastmodified":1464046526,
+    "wof:name":"Cossey County Rural Water",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -96.152746,
+    38.345768,
+    -96.152746,
+    38.345768
+],
+  "geometry": {"coordinates":[-96.15274599999999,38.345768],"type":"Point"}
+}

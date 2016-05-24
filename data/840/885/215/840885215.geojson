@@ -1,0 +1,73 @@
+{
+  "id": 840885215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.664555,39.096306,-95.664555,39.096306",
+    "geom:latitude":39.096306,
+    "geom:longitude":-95.664555,
+    "iso:country":"US",
+    "sg:address":"2700 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 7605",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "used",
+        "dealership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jTmLD4QUoyUjQ9a0uCs7X_39.096306_-95.664555@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050182,
+    "wof:geomhash":"d87a129cff3284d3ac8b469de9cc3726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840885215
+        }
+    ],
+    "wof:id":840885215,
+    "wof:lastmodified":1464050182,
+    "wof:name":"Blue Stem Auto II",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "dealership"
+    ]
+},
+  "bbox": [
+    -95.664555,
+    39.096306,
+    -95.664555,
+    39.096306
+],
+  "geometry": {"coordinates":[-95.66455499999999,39.096306],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856705103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.647706,39.022531,-94.647706,39.022531",
+    "geom:latitude":39.022531,
+    "geom:longitude":-94.647706,
+    "iso:country":"US",
+    "sg:address":"5415 Johnson Dr",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/mission/87452-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 384 2222",
+    "sg:postcode":"66205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879597,
+        102191575,
+        404504389,
+        85633793,
+        85945747,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59KUvkjb3IXADLy0z0EPiw_39.022531_-94.647706@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052172,
+    "wof:geomhash":"149589760be40e6aae982ee57cef5873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504389,
+            "locality_id":85945747,
+            "neighbourhood_id":85879597,
+            "region_id":85688555,
+            "venue_id":856705103
+        }
+    ],
+    "wof:id":856705103,
+    "wof:lastmodified":1464052172,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85879597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.647706,
+    39.022531,
+    -94.647706,
+    39.022531
+],
+  "geometry": {"coordinates":[-94.647706,39.022531],"type":"Point"}
+}

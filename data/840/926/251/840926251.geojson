@@ -1,0 +1,69 @@
+{
+  "id": 840926251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.623291,39.029648,-95.623291,39.029648",
+    "geom:latitude":39.029648,
+    "geom:longitude":-95.623291,
+    "iso:country":"US",
+    "sg:address":"2000 SE Rice Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 5241",
+    "sg:postcode":"66607",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IYS9CdLp6dYWSYMkn4yYY_39.029648_-95.623291@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051171,
+    "wof:geomhash":"b39234f0d260a69df50c371cf94ce7c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840926251
+        }
+    ],
+    "wof:id":840926251,
+    "wof:lastmodified":1464051171,
+    "wof:name":"Yellow Transportation Inc",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.623291,
+    39.029648,
+    -95.623291,
+    39.029648
+],
+  "geometry": {"coordinates":[-95.62329099999999,39.029648],"type":"Point"}
+}

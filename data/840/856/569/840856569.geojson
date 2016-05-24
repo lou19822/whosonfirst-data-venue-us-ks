@@ -1,0 +1,75 @@
+{
+  "id": 840856569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.300373,37.686364,-97.300373,37.686364",
+    "geom:latitude":37.686364,
+    "geom:longitude":-97.300373,
+    "iso:country":"US",
+    "sg:address":"3020 E Douglas Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 681 6830",
+    "sg:postcode":"67214",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872829,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DVCN1tJD5QeMSb2MzuQIM_37.686364_-97.300373@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049580,
+    "wof:geomhash":"565d19deed17c8f2bdbd228ec9dce891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872829,
+            "region_id":85688555,
+            "venue_id":840856569
+        }
+    ],
+    "wof:id":840856569,
+    "wof:lastmodified":1464049580,
+    "wof:name":"Food 4 Less",
+    "wof:parent_id":85872829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -97.300373,
+    37.686364,
+    -97.300373,
+    37.686364
+],
+  "geometry": {"coordinates":[-97.30037299999999,37.686364],"type":"Point"}
+}

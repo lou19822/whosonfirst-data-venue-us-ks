@@ -1,0 +1,73 @@
+{
+  "id": 840623943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.765552,38.851108,-94.765552,38.851108",
+    "geom:latitude":38.851108,
+    "geom:longitude":-94.765552,
+    "iso:country":"US",
+    "sg:address":"15205 S Kaw Dr",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 397 7668",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0imgrBTbhp82trPxmWvJyZ_38.851108_-94.765552@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044267,
+    "wof:geomhash":"a248dd1a92cd45b82ad06ffef2b38583",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840623943
+        }
+    ],
+    "wof:id":840623943,
+    "wof:lastmodified":1464044267,
+    "wof:name":"M & J Data",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -94.765552,
+    38.851108,
+    -94.765552,
+    38.851108
+],
+  "geometry": {"coordinates":[-94.765552,38.851108],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840807695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.426138,37.72413,-97.426138,37.72413",
+    "geom:latitude":37.72413,
+    "geom:longitude":-97.426138,
+    "iso:country":"US",
+    "sg:address":"2220 N Ridge Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 5823",
+    "sg:postcode":"67205",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W4uHY6qx9uAya6wHo8OlS_37.724130_-97.426138@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048354,
+    "wof:geomhash":"133b0831cfc90d270e7aaed9698e0df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840807695
+        }
+    ],
+    "wof:id":840807695,
+    "wof:lastmodified":1464048354,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -97.426138,
+    37.72413,
+    -97.426138,
+    37.72413
+],
+  "geometry": {"coordinates":[-97.42613799999999,37.72413],"type":"Point"}
+}

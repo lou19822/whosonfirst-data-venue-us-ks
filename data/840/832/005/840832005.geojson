@@ -1,0 +1,78 @@
+{
+  "id": 840832005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.68653,39.022542,-94.68653,39.022542",
+    "geom:latitude":39.022542,
+    "geom:longitude":-94.68653,
+    "iso:country":"US",
+    "sg:address":"5716 Antioch Rd",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 432 5919",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "sg:website":"www.gnc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879555,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RPsYaXm1BoADzgnJjzSeq_39.022542_-94.686530@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049043,
+    "wof:geomhash":"6bdab013823ce7056d18d8672a3ac29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":840832005
+        }
+    ],
+    "wof:id":840832005,
+    "wof:lastmodified":1464049043,
+    "wof:name":"GNC",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -94.68653,
+    39.022542,
+    -94.68653,
+    39.022542
+],
+  "geometry": {"coordinates":[-94.68653,39.022542],"type":"Point"}
+}

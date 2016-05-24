@@ -1,0 +1,78 @@
+{
+  "id": 840953937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.76298,39.118805,-94.76298,39.118805",
+    "geom:latitude":39.118805,
+    "geom:longitude":-94.76298,
+    "iso:country":"US",
+    "sg:address":"7860 Washington Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 6770",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "sg:website":"www.welbornpet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ki1PayU64UN7S8Mv15ZdS_39.118805_-94.762980@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051726,
+    "wof:geomhash":"e9d4eb1dda713337431bcd5e373cd411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840953937
+        }
+    ],
+    "wof:id":840953937,
+    "wof:lastmodified":1464051726,
+    "wof:name":"Welborn Pet Hospital",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.76298,
+    39.118805,
+    -94.76298,
+    39.118805
+],
+  "geometry": {"coordinates":[-94.76298,39.118805],"type":"Point"}
+}

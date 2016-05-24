@@ -1,0 +1,71 @@
+{
+  "id": 840671801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.684873,39.152745,-95.684873,39.152745",
+    "geom:latitude":39.152745,
+    "geom:longitude":-95.684873,
+    "iso:country":"US",
+    "sg:address":"1721 NW 59th Ter",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 0730",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DOex4uRgrhr0PEzmMjRaL_39.152745_-95.684873@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045349,
+    "wof:geomhash":"9063210961f223a474efe3b2cce53c2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840671801
+        }
+    ],
+    "wof:id":840671801,
+    "wof:lastmodified":1464045349,
+    "wof:name":"Rudy Cuevas Construction",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.684873,
+    39.152745,
+    -95.684873,
+    39.152745
+],
+  "geometry": {"coordinates":[-95.684873,39.152745],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840715621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.209975,38.432484,-96.209975,38.432484",
+    "geom:latitude":38.432484,
+    "geom:longitude":-96.209975,
+    "iso:country":"US",
+    "sg:address":"2920 Bayfront Dr",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 340 0209",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6teSXyoowKWY38gVux2vjT_38.432484_-96.209975@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046414,
+    "wof:geomhash":"07dae497db7ee58b3a0ace3179f8c9d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840715621
+        }
+    ],
+    "wof:id":840715621,
+    "wof:lastmodified":1464046414,
+    "wof:name":"Schaefer Auto Ctr",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.209975,
+    38.432484,
+    -96.209975,
+    38.432484
+],
+  "geometry": {"coordinates":[-96.209975,38.432484],"type":"Point"}
+}

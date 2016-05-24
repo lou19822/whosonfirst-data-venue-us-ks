@@ -1,0 +1,77 @@
+{
+  "id": 840809203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.684222,39.008361,-95.684222,39.008361",
+    "geom:latitude":39.008361,
+    "geom:longitude":-95.684222,
+    "iso:country":"US",
+    "sg:address":"103 SW 32nd Ter",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 2406",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881549,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Skl7af3N5MhnafY4K0mIm_39.008361_-95.684222@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048391,
+    "wof:geomhash":"4853d2b9eca54bfc9d522efa05f0799b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":840809203
+        }
+    ],
+    "wof:id":840809203,
+    "wof:lastmodified":1464048391,
+    "wof:name":"Dealer Services Of Kansas Inc",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.684222,
+    39.008361,
+    -95.684222,
+    39.008361
+],
+  "geometry": {"coordinates":[-95.68422200000001,39.008361],"type":"Point"}
+}

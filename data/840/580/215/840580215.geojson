@@ -1,0 +1,80 @@
+{
+  "id": 840580215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.776389,39.008934,-95.776389,39.008934",
+    "geom:latitude":39.008934,
+    "geom:longitude":-95.776389,
+    "iso:country":"US",
+    "sg:address":"6609 SW Wentley Ln",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 478 2224",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2inyf2cg7Sm7035bX9cacP_39.008934_-95.776389@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043211,
+    "wof:geomhash":"c9608d9d36ab524f353503c56ab50a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840580215
+        }
+    ],
+    "wof:id":840580215,
+    "wof:lastmodified":1464043211,
+    "wof:name":"Anderson Homes Inspection",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -95.776389,
+    39.008934,
+    -95.776389,
+    39.008934
+],
+  "geometry": {"coordinates":[-95.77638899999999,39.008934],"type":"Point"}
+}

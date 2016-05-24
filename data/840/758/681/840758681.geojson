@@ -1,0 +1,71 @@
+{
+  "id": 840758681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.35403,37.737528,-97.35403,37.737528",
+    "geom:latitude":37.737528,
+    "geom:longitude":-97.35403,
+    "iso:country":"US",
+    "sg:address":"1025 W 29th St N",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 831 9434",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SxY4pxtZP8qbZRtlOBhvv_37.737528_-97.354030@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047304,
+    "wof:geomhash":"b6325d70d1191aa28d23cd2c35ec0f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840758681
+        }
+    ],
+    "wof:id":840758681,
+    "wof:lastmodified":1464047304,
+    "wof:name":"Bakery Projects",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -97.35403,
+    37.737528,
+    -97.35403,
+    37.737528
+],
+  "geometry": {"coordinates":[-97.35402999999999,37.737528],"type":"Point"}
+}

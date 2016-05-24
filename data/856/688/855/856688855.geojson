@@ -1,0 +1,71 @@
+{
+  "id": 856688855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.706233,39.090634,-95.706233,39.090634",
+    "geom:latitude":39.090634,
+    "geom:longitude":-95.706233,
+    "iso:country":"US",
+    "sg:address":"3001 US Hwy 24",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 4400",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PsKQkfVzSLeMtPSHKC6Hd_39.090634_-95.706233@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051844,
+    "wof:geomhash":"6a2950fcbca1e749036a525cb9b66470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":856688855
+        }
+    ],
+    "wof:id":856688855,
+    "wof:lastmodified":1464051844,
+    "wof:name":"Mulligan Mini Storage",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -95.706233,
+    39.090634,
+    -95.706233,
+    39.090634
+],
+  "geometry": {"coordinates":[-95.706233,39.090634],"type":"Point"}
+}

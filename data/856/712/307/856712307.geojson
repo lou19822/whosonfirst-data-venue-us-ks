@@ -1,0 +1,76 @@
+{
+  "id": 856712307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.352615,37.644631,-97.352615,37.644631",
+    "geom:latitude":37.644631,
+    "geom:longitude":-97.352615,
+    "iso:country":"US",
+    "sg:address":"2792 S Seneca St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/124331-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 7841",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FrvxkBY26GzjviHm0RXQd_37.645079_-97.352540@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052311,
+    "wof:geomhash":"820fd451eecab0976800317975322812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":856712307
+        }
+    ],
+    "wof:id":856712307,
+    "wof:lastmodified":1464052311,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -97.352615,
+    37.644631,
+    -97.352615,
+    37.644631
+],
+  "geometry": {"coordinates":[-97.352615,37.644631],"type":"Point"}
+}

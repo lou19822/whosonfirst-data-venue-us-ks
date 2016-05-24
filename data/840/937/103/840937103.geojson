@@ -1,0 +1,72 @@
+{
+  "id": 840937103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704911,37.393155,-94.704911,37.393155",
+    "geom:latitude":37.393155,
+    "geom:longitude":-94.704911,
+    "iso:country":"US",
+    "sg:address":"1519 S Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 232 2320",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.eurekapizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y8DO9UlNEMYX0GiWbu0pi_37.393155_-94.704911@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051392,
+    "wof:geomhash":"1760fe0ffc24179a1a05f668fa093656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840937103
+        }
+    ],
+    "wof:id":840937103,
+    "wof:lastmodified":1464051392,
+    "wof:name":"Eureka Pizza",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.704911,
+    37.393155,
+    -94.704911,
+    37.393155
+],
+  "geometry": {"coordinates":[-94.704911,37.393155],"type":"Point"}
+}

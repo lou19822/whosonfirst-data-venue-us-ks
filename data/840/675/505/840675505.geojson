@@ -1,0 +1,73 @@
+{
+  "id": 840675505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806877,37.548611,-96.806877,37.548611",
+    "geom:latitude":37.548611,
+    "geom:longitude":-96.806877,
+    "iso:country":"US",
+    "sg:address":"2341 SE 190th St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 394 2429",
+    "sg:postcode":"67008",
+    "sg:province":"KS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EwgEnUnCGpb0ofj3ujh5o_37.548611_-96.806877@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045455,
+    "wof:geomhash":"54ab0cfc12f5c6febeb55b9ea9b91173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840675505
+        }
+    ],
+    "wof:id":840675505,
+    "wof:lastmodified":1464045455,
+    "wof:name":"Ivan Britt",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.806877,
+    37.548611,
+    -96.806877,
+    37.548611
+],
+  "geometry": {"coordinates":[-96.806877,37.548611],"type":"Point"}
+}

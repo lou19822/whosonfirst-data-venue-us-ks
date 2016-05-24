@@ -1,0 +1,73 @@
+{
+  "id": 840845001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.874293,37.818279,-96.874293,37.818279",
+    "geom:latitude":37.818279,
+    "geom:longitude":-96.874293,
+    "iso:country":"US",
+    "sg:address":"139 Hillside St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 6100",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PH60Hj74xKPk4eG9fC4oL_37.818279_-96.874293@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049330,
+    "wof:geomhash":"de72dac5edf25836470dc366e0cb2daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840845001
+        }
+    ],
+    "wof:id":840845001,
+    "wof:lastmodified":1464049330,
+    "wof:name":"Fankhauser Brothers Inc",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.874293,
+    37.818279,
+    -96.874293,
+    37.818279
+],
+  "geometry": {"coordinates":[-96.87429299999999,37.818279],"type":"Point"}
+}

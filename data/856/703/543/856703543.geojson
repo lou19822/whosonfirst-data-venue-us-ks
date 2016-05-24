@@ -1,0 +1,78 @@
+{
+  "id": 856703543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.877089,39.087067,-94.877089,39.087067",
+    "geom:latitude":39.087067,
+    "geom:longitude":-94.877089,
+    "iso:country":"US",
+    "sg:address":"12801 Kansas Ave",
+    "sg:city":"Bonner Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/bonner-springs/115515-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 441 1016",
+    "sg:postcode":"66012",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851431,
+        102191575,
+        404504871,
+        85633793,
+        85945359,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15dCsz74aZazdFGFkutQqt_39.087067_-94.877089@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052140,
+    "wof:geomhash":"cf88a0762e8f400f14751ba2855fd3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504871,
+            "locality_id":85945359,
+            "neighbourhood_id":85851431,
+            "region_id":85688555,
+            "venue_id":856703543
+        }
+    ],
+    "wof:id":856703543,
+    "wof:lastmodified":1464052140,
+    "wof:name":"Subway",
+    "wof:parent_id":85851431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.877089,
+    39.087067,
+    -94.877089,
+    39.087067
+],
+  "geometry": {"coordinates":[-94.877089,39.087067],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840794335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704716,37.41611,-94.704716,37.41611",
+    "geom:latitude":37.41611,
+    "geom:longitude":-94.704716,
+    "iso:country":"US",
+    "sg:address":"109 E 9th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 8604",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "funds",
+        "mutual"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DBkcIyWV8PcyW9YD9kZuz_37.416110_-94.704716@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048066,
+    "wof:geomhash":"8975b5295d81357d5394ad77ca9110a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840794335
+        }
+    ],
+    "wof:id":840794335,
+    "wof:lastmodified":1464048066,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "funds",
+        "mutual"
+    ]
+},
+  "bbox": [
+    -94.704716,
+    37.41611,
+    -94.704716,
+    37.41611
+],
+  "geometry": {"coordinates":[-94.704716,37.41611],"type":"Point"}
+}

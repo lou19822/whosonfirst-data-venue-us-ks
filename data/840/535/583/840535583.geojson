@@ -1,0 +1,71 @@
+{
+  "id": 840535583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.086787,39.107505,-95.086787,39.107505",
+    "geom:latitude":39.107505,
+    "geom:longitude":-95.086787,
+    "iso:country":"US",
+    "sg:address":"519 E 6th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 3543",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dXwxv4M51IR9kQb5nIGZh_39.107505_-95.086787@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042106,
+    "wof:geomhash":"53ef473a10d2e2f96ef5e302f64ed07d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840535583
+        }
+    ],
+    "wof:id":840535583,
+    "wof:lastmodified":1464042106,
+    "wof:name":"True Professional Maintenance",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -95.086787,
+    39.107505,
+    -95.086787,
+    39.107505
+],
+  "geometry": {"coordinates":[-95.086787,39.107505],"type":"Point"}
+}

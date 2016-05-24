@@ -1,0 +1,71 @@
+{
+  "id": 840894187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.045915,37.680596,-97.045915,37.680596",
+    "geom:latitude":37.680596,
+    "geom:longitude":-97.045915,
+    "iso:country":"US",
+    "sg:address":"9932 SW Eugene Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 6382",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75DjbbQDU1ISyA9UoTQDhg_37.680596_-97.045915@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050367,
+    "wof:geomhash":"ede48bb3aa0a12ea5ddfca027d80bd6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840894187
+        }
+    ],
+    "wof:id":840894187,
+    "wof:lastmodified":1464050367,
+    "wof:name":"American Legion",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -97.045915,
+    37.680596,
+    -97.045915,
+    37.680596
+],
+  "geometry": {"coordinates":[-97.04591499999999,37.680596],"type":"Point"}
+}

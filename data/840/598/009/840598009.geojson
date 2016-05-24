@@ -1,0 +1,64 @@
+{
+  "id": 840598009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.582089,39.049334,-95.582089,39.049334",
+    "geom:latitude":39.049334,
+    "geom:longitude":-95.582089,
+    "iso:country":"US",
+    "sg:address":"339 SE Tecumseh Rd",
+    "sg:city":"Tecumseh",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 000 1111",
+    "sg:postcode":"66542",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881533,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TEMqzA1aQW2J75bo33hUo_39.049334_-95.582089@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043610,
+    "wof:geomhash":"c598cda5ce2ef9a340cf70f5b768714e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881533,
+            "region_id":85688555,
+            "venue_id":840598009
+        }
+    ],
+    "wof:id":840598009,
+    "wof:lastmodified":1464043610,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85881533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.582089,
+    39.049334,
+    -95.582089,
+    39.049334
+],
+  "geometry": {"coordinates":[-95.582089,39.049334],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840852007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.08512,39.109166,-95.08512,39.109166",
+    "geom:latitude":39.109166,
+    "geom:longitude":-95.08512,
+    "iso:country":"US",
+    "sg:address":"616 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 3868",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "light",
+        "tube",
+        "bulb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76wS7RmI9RGwXPlUzMsWQA_39.109166_-95.085120@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049487,
+    "wof:geomhash":"a469c9925e6f91d133530eaf27232647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840852007
+        }
+    ],
+    "wof:id":840852007,
+    "wof:lastmodified":1464049487,
+    "wof:name":"Light Bulb Place",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "light",
+        "tube",
+        "bulb"
+    ]
+},
+  "bbox": [
+    -95.08512,
+    39.109166,
+    -95.08512,
+    39.109166
+],
+  "geometry": {"coordinates":[-95.08512,39.109166],"type":"Point"}
+}

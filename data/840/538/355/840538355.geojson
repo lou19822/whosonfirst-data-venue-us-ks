@@ -1,0 +1,73 @@
+{
+  "id": 840538355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.17247,38.413798,-96.17247,38.413798",
+    "geom:latitude":38.413798,
+    "geom:longitude":-96.17247,
+    "iso:country":"US",
+    "sg:address":"1309 Sylvan St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 9733",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ub1hAaT8C3Q4w9YoGPzhJ_38.413798_-96.172470@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042167,
+    "wof:geomhash":"95090b5c42733e8c136a1f09e84627b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840538355
+        }
+    ],
+    "wof:id":840538355,
+    "wof:lastmodified":1464042167,
+    "wof:name":"Sigma Tau Gamma Fraternity",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -96.17247,
+    38.413798,
+    -96.17247,
+    38.413798
+],
+  "geometry": {"coordinates":[-96.17247,38.413798],"type":"Point"}
+}

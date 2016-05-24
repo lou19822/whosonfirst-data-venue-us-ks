@@ -1,0 +1,82 @@
+{
+  "id": 840650651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389693,37.699465,-97.389693,37.699465",
+    "geom:latitude":37.699465,
+    "geom:longitude":-97.389693,
+    "iso:country":"US",
+    "sg:address":"851 N West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 4992",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "aids",
+        "merchandise",
+        "hearing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JeWNjJXTfiRjuagJX9F2j_37.699465_-97.389693@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044895,
+    "wof:geomhash":"f0dd25f380b0f516283e72dd083bd3db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840650651
+        }
+    ],
+    "wof:id":840650651,
+    "wof:lastmodified":1464044895,
+    "wof:name":"Professional Hearing Aid Svc",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "aids",
+        "merchandise",
+        "hearing"
+    ]
+},
+  "bbox": [
+    -97.389693,
+    37.699465,
+    -97.389693,
+    37.699465
+],
+  "geometry": {"coordinates":[-97.38969299999999,37.699465],"type":"Point"}
+}

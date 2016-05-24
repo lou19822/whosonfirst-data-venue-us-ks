@@ -1,0 +1,73 @@
+{
+  "id": 840688517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.679722,38.979945,-95.679722,38.979945",
+    "geom:latitude":38.979945,
+    "geom:longitude":-95.679722,
+    "iso:country":"US",
+    "sg:address":"5001 SE Mercier St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 1849",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TJkT88FvpBsmGIH2Gs0Ju_38.979945_-95.679722@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045786,
+    "wof:geomhash":"510c0a47fcdff3f66061f9c907c0e9e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840688517
+        }
+    ],
+    "wof:id":840688517,
+    "wof:lastmodified":1464045786,
+    "wof:name":"Davis Fence Co",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.679722,
+    38.979945,
+    -95.679722,
+    38.979945
+],
+  "geometry": {"coordinates":[-95.679722,38.979945],"type":"Point"}
+}

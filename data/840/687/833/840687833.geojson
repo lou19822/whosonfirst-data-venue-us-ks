@@ -1,0 +1,77 @@
+{
+  "id": 840687833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.698455,39.00759,-94.698455,39.00759",
+    "geom:latitude":39.00759,
+    "geom:longitude":-94.698455,
+    "iso:country":"US",
+    "sg:address":"9700 W 67th St",
+    "sg:city":"Merriam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 722 0016",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879543,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SN5u2ECCxA31Sq0vf98Pw_39.007590_-94.698455@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045774,
+    "wof:geomhash":"df104adbff4a1bb518ac107170cd70a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879543,
+            "region_id":85688555,
+            "venue_id":840687833
+        }
+    ],
+    "wof:id":840687833,
+    "wof:lastmodified":1464045774,
+    "wof:name":"MISSION Auto Svc",
+    "wof:parent_id":85879543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.698455,
+    39.00759,
+    -94.698455,
+    39.00759
+],
+  "geometry": {"coordinates":[-94.698455,39.00759],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840889429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.307184,37.657169,-97.307184,37.657169",
+    "geom:latitude":37.657169,
+    "geom:longitude":-97.307184,
+    "iso:country":"US",
+    "sg:address":"2441 E Mount Vernon St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 685 1016",
+    "sg:postcode":"67211",
+    "sg:province":"KS",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QAtvSxbkyPqiRW7STvBuX_37.657169_-97.307184@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050269,
+    "wof:geomhash":"a1cb8a856859f7aa96f90e6f10040913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840889429
+        }
+    ],
+    "wof:id":840889429,
+    "wof:lastmodified":1464050269,
+    "wof:name":"Wichita Businesses Inc",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.307184,
+    37.657169,
+    -97.307184,
+    37.657169
+],
+  "geometry": {"coordinates":[-97.30718400000001,37.657169],"type":"Point"}
+}

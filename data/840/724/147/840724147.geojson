@@ -1,0 +1,75 @@
+{
+  "id": 840724147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.614421,38.999274,-95.614421,38.999274",
+    "geom:latitude":38.999274,
+    "geom:longitude":-95.614421,
+    "iso:country":"US",
+    "sg:address":"3825 SE Croco Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 1115",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oYrUNVjf6jpyyraTrxYtT_38.999274_-95.614421@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046597,
+    "wof:geomhash":"b768fc70884f0c878e689ff225157f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840724147
+        }
+    ],
+    "wof:id":840724147,
+    "wof:lastmodified":1464046597,
+    "wof:name":"Royal Buggy",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.614421,
+    38.999274,
+    -95.614421,
+    38.999274
+],
+  "geometry": {"coordinates":[-95.61442099999999,38.999274],"type":"Point"}
+}

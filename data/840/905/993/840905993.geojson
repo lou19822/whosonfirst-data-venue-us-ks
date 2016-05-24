@@ -1,0 +1,77 @@
+{
+  "id": 840905993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.700897,39.05864,-95.700897,39.05864",
+    "geom:latitude":39.05864,
+    "geom:longitude":-95.700897,
+    "iso:country":"US",
+    "sg:address":"2100 SW 6th Ave",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 357 0546",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881561,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KSN4dGWxd9Y8PodB5Mxe1_39.058640_-95.700897@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050612,
+    "wof:geomhash":"15289131e35ebee5b4af92a8cf8101bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881561,
+            "region_id":85688555,
+            "venue_id":840905993
+        }
+    ],
+    "wof:id":840905993,
+    "wof:lastmodified":1464050612,
+    "wof:name":"A & E Svc Ctr",
+    "wof:parent_id":85881561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.700897,
+    39.05864,
+    -95.700897,
+    39.05864
+],
+  "geometry": {"coordinates":[-95.700897,39.05864],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840646963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.638252,38.900258,-94.638252,38.900258",
+    "geom:latitude":38.900258,
+    "geom:longitude":-94.638252,
+    "iso:country":"US",
+    "sg:address":"4500 W 126th St",
+    "sg:city":"Leawood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 491 5533",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40LButNr5LxhOLsajuovK0_38.900258_-94.638252@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044820,
+    "wof:geomhash":"025496f33a63eb5bb80ff92c0c99915d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840646963
+        }
+    ],
+    "wof:id":840646963,
+    "wof:lastmodified":1464044820,
+    "wof:name":"Animal Tracks Veterinary House",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.638252,
+    38.900258,
+    -94.638252,
+    38.900258
+],
+  "geometry": {"coordinates":[-94.63825199999999,38.900258],"type":"Point"}
+}

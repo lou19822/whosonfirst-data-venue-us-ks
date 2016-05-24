@@ -1,0 +1,78 @@
+{
+  "id": 856705039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.672373,38.983095,-94.672373,38.983095",
+    "geom:latitude":38.983095,
+    "geom:longitude":-94.672373,
+    "iso:country":"US",
+    "sg:address":"8039 Santa Fe Dr",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/224723-wheat-state-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 385 2000",
+    "sg:postcode":"66204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879559,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RlgFzl3btyGBbQmAqijWW_38.983095_-94.672373@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052170,
+    "wof:geomhash":"f3123b2a61faa850cf460ceaeeaa8c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879559,
+            "region_id":85688555,
+            "venue_id":856705039
+        }
+    ],
+    "wof:id":856705039,
+    "wof:lastmodified":1464052170,
+    "wof:name":"Wheat State Pizza",
+    "wof:parent_id":85879559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.672373,
+    38.983095,
+    -94.672373,
+    38.983095
+],
+  "geometry": {"coordinates":[-94.67237299999999,38.983095],"type":"Point"}
+}

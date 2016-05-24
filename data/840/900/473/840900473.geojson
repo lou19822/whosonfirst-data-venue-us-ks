@@ -1,0 +1,79 @@
+{
+  "id": 840900473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.739337,38.962733,-94.739337,38.962733",
+    "geom:latitude":38.962733,
+    "geom:longitude":-94.739337,
+    "iso:country":"US",
+    "sg:address":"13201 W 91st Ter",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 438 2636",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hNHgeDx9l9FIxwL9R5QtA_38.962733_-94.739337@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050507,
+    "wof:geomhash":"69548239d0d58c19f5d3b753f7fa5ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840900473
+        }
+    ],
+    "wof:id":840900473,
+    "wof:lastmodified":1464050507,
+    "wof:name":"William's Automotive Of Lenexa",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.739337,
+    38.962733,
+    -94.739337,
+    38.962733
+],
+  "geometry": {"coordinates":[-94.73933700000001,38.962733],"type":"Point"}
+}

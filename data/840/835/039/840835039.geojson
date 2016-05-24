@@ -1,0 +1,74 @@
+{
+  "id": 840835039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.448342,37.694018,-97.448342,37.694018",
+    "geom:latitude":37.694018,
+    "geom:longitude":-97.448342,
+    "iso:country":"US",
+    "sg:address":"8800 W Central Ave",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 729 1700",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.saturnofwichita.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wE3ekUqGHMlhKD1C1K6R5_37.694018_-97.448342@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049112,
+    "wof:geomhash":"a55e249c29a454e7eb106f9cf6ea3134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840835039
+        }
+    ],
+    "wof:id":840835039,
+    "wof:lastmodified":1464049112,
+    "wof:name":"Saturn",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.448342,
+    37.694018,
+    -97.448342,
+    37.694018
+],
+  "geometry": {"coordinates":[-97.448342,37.694018],"type":"Point"}
+}

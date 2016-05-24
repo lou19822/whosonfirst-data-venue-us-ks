@@ -1,0 +1,73 @@
+{
+  "id": 840580169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.290016,37.60366,-97.290016,37.60366",
+    "geom:latitude":37.60366,
+    "geom:longitude":-97.290016,
+    "iso:country":"US",
+    "sg:address":"4810 Southeast Blvd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 522 4279",
+    "sg:postcode":"67210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nXT5SVLHSmgl7gG4OPYWt_37.603660_-97.290016@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043210,
+    "wof:geomhash":"b71bbada4e55d83e689b27d18ef8d62e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872821,
+            "region_id":85688555,
+            "venue_id":840580169
+        }
+    ],
+    "wof:id":840580169,
+    "wof:lastmodified":1464043210,
+    "wof:name":"Singleterry Plumbing",
+    "wof:parent_id":85872821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.290016,
+    37.60366,
+    -97.290016,
+    37.60366
+],
+  "geometry": {"coordinates":[-97.29001599999999,37.60366],"type":"Point"}
+}

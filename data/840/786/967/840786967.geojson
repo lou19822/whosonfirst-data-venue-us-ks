@@ -1,0 +1,78 @@
+{
+  "id": 840786967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667756,38.872998,-94.667756,38.872998",
+    "geom:latitude":38.872998,
+    "geom:longitude":-94.667756,
+    "iso:country":"US",
+    "sg:address":"14215 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 789 6740",
+    "sg:postcode":"66223",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.smphysiciansgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g2j446QQ8eh4vki419S6E_38.872998_-94.667756@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047919,
+    "wof:geomhash":"7d2d0377662763401c9ce7b631f21b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":840786967
+        }
+    ],
+    "wof:id":840786967,
+    "wof:lastmodified":1464047919,
+    "wof:name":"Blue Valley Internal Medicine",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.667756,
+    38.872998,
+    -94.667756,
+    38.872998
+],
+  "geometry": {"coordinates":[-94.667756,38.872998],"type":"Point"}
+}

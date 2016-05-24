@@ -1,0 +1,71 @@
+{
+  "id": 840640323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.169882,38.651487,-96.169882,38.651487",
+    "geom:latitude":38.651487,
+    "geom:longitude":-96.169882,
+    "iso:country":"US",
+    "sg:address":"13 W 1st St",
+    "sg:city":"Allen",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 528 3306",
+    "sg:postcode":"66833",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PNMCFM228HXIVdZ1pwAoN_38.651487_-96.169882@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044681,
+    "wof:geomhash":"f63c1994a68f50869a6a4b5435789640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840640323
+        }
+    ],
+    "wof:id":840640323,
+    "wof:lastmodified":1464044681,
+    "wof:name":"Allen Villa Apartments",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.169882,
+    38.651487,
+    -96.169882,
+    38.651487
+],
+  "geometry": {"coordinates":[-96.169882,38.651487],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 840767119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.8539,37.817412,-96.8539,37.817412",
+    "geom:latitude":37.817412,
+    "geom:longitude":-96.8539,
+    "iso:country":"US",
+    "sg:address":"400 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 3790",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.eldorado.presbychurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ie0jHXrOOFgmNGkStwE5q_37.817412_-96.853900@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047506,
+    "wof:geomhash":"0a9dd887492cd4ee806325e461409874",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840767119
+        }
+    ],
+    "wof:id":840767119,
+    "wof:lastmodified":1464047506,
+    "wof:name":"Presbyterian Church",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.8539,
+    37.817412,
+    -96.8539,
+    37.817412
+],
+  "geometry": {"coordinates":[-96.8539,37.817412],"type":"Point"}
+}

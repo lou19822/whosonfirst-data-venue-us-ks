@@ -1,0 +1,71 @@
+{
+  "id": 840666317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.273665,37.557095,-97.273665,37.557095",
+    "geom:latitude":37.557095,
+    "geom:longitude":-97.273665,
+    "iso:country":"US",
+    "sg:address":"226 W Greenway St",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 789 8174",
+    "sg:postcode":"67037",
+    "sg:province":"KS",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85834741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50G85o8DtjvKkbwPKdLCxK_37.557095_-97.273665@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045239,
+    "wof:geomhash":"fefb9345b91b127e3379cda28fb8d004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85834741,
+            "region_id":85688555,
+            "venue_id":840666317
+        }
+    ],
+    "wof:id":840666317,
+    "wof:lastmodified":1464045239,
+    "wof:name":"Edward Jones Investments",
+    "wof:parent_id":85834741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -97.273665,
+    37.557095,
+    -97.273665,
+    37.557095
+],
+  "geometry": {"coordinates":[-97.27366499999999,37.557095],"type":"Point"}
+}

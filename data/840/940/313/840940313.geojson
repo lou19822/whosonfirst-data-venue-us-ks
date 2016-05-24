@@ -1,0 +1,70 @@
+{
+  "id": 840940313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.848364,37.817617,-96.848364,37.817617",
+    "geom:latitude":37.817617,
+    "geom:longitude":-96.848364,
+    "iso:country":"US",
+    "sg:address":"114 N Vine St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 1120",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.eldoradotimes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vK9kTSvQNTKjfKHcHjeTj_37.817617_-96.848364@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051454,
+    "wof:geomhash":"95bd49ee44ee6a01cc748e83026b04a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840940313
+        }
+    ],
+    "wof:id":840940313,
+    "wof:lastmodified":1464051454,
+    "wof:name":"El Dorado Times",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -96.848364,
+    37.817617,
+    -96.848364,
+    37.817617
+],
+  "geometry": {"coordinates":[-96.848364,37.817617],"type":"Point"}
+}

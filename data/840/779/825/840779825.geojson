@@ -1,0 +1,71 @@
+{
+  "id": 840779825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.663986,39.145239,-95.663986,39.145239",
+    "geom:latitude":39.145239,
+    "geom:longitude":-95.663986,
+    "iso:country":"US",
+    "sg:address":"5449 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 246 1600",
+    "sg:postcode":"66617",
+    "sg:province":"KS",
+    "sg:tags":[
+        "boiler",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IQ3nka1KPg018q2XpJYrj_39.145239_-95.663986@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047761,
+    "wof:geomhash":"1fff6edb9de8c69c5e48e7e026cf0d68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840779825
+        }
+    ],
+    "wof:id":840779825,
+    "wof:lastmodified":1464047761,
+    "wof:name":"D M Wilson & Son",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -95.663986,
+    39.145239,
+    -95.663986,
+    39.145239
+],
+  "geometry": {"coordinates":[-95.66398599999999,39.145239],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840617945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.389248,37.639087,-97.389248,37.639087",
+    "geom:latitude":37.639087,
+    "geom:longitude":-97.389248,
+    "iso:country":"US",
+    "sg:address":"3003 S West St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 941 2010",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X5FoTUu5jdI7pqe3Qmw02_37.639087_-97.389248@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044121,
+    "wof:geomhash":"82d45b52c11513beead69f1758a3645f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840617945
+        }
+    ],
+    "wof:id":840617945,
+    "wof:lastmodified":1464044121,
+    "wof:name":"UPS",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -97.389248,
+    37.639087,
+    -97.389248,
+    37.639087
+],
+  "geometry": {"coordinates":[-97.38924799999999,37.639087],"type":"Point"}
+}

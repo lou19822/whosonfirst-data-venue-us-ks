@@ -1,0 +1,71 @@
+{
+  "id": 840949697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.135217,37.714729,-97.135217,37.714729",
+    "geom:latitude":37.714729,
+    "geom:longitude":-97.135217,
+    "iso:country":"US",
+    "sg:address":"1635 N Andover Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 2500",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a0mLq06SjfVaeN4wssUhj_37.714729_-97.135217@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051645,
+    "wof:geomhash":"510b2bb52fe37df86da3496c36148e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840949697
+        }
+    ],
+    "wof:id":840949697,
+    "wof:lastmodified":1464051645,
+    "wof:name":"Andover Auto Parts",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -97.135217,
+    37.714729,
+    -97.135217,
+    37.714729
+],
+  "geometry": {"coordinates":[-97.135217,37.714729],"type":"Point"}
+}

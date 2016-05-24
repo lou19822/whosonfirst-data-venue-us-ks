@@ -1,0 +1,77 @@
+{
+  "id": 840684171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687614,38.992789,-95.687614,38.992789",
+    "geom:latitude":38.992789,
+    "geom:longitude":-95.687614,
+    "iso:country":"US",
+    "sg:address":"4150 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 2400",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y7kePu9c6OsDFCUgbgwR8_38.992789_-95.687614@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045671,
+    "wof:geomhash":"f38797b6d1a98223fa89d50f429728d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840684171
+        }
+    ],
+    "wof:id":840684171,
+    "wof:lastmodified":1464045671,
+    "wof:name":"Ron's Auto Svc",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.687614,
+    38.992789,
+    -95.687614,
+    38.992789
+],
+  "geometry": {"coordinates":[-95.687614,38.992789],"type":"Point"}
+}

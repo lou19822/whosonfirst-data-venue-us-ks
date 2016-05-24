@@ -1,0 +1,71 @@
+{
+  "id": 840865651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.744551,38.866098,-94.744551,38.866098",
+    "geom:latitude":38.866098,
+    "geom:longitude":-94.744551,
+    "iso:country":"US",
+    "sg:address":"14548 S Rene St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 8997",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11vrXdOzLsBVFjQNVxwQFs_38.866098_-94.744551@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049773,
+    "wof:geomhash":"ad366997424019a3d59b5abe28376f78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840865651
+        }
+    ],
+    "wof:id":840865651,
+    "wof:lastmodified":1464049773,
+    "wof:name":"Energizer Batteries",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -94.744551,
+    38.866098,
+    -94.744551,
+    38.866098
+],
+  "geometry": {"coordinates":[-94.744551,38.866098],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840647125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.978709,39.172113,-94.978709,39.172113",
+    "geom:latitude":39.172113,
+    "geom:longitude":-94.978709,
+    "iso:country":"US",
+    "sg:address":"17271 Hollingsworth Rd",
+    "sg:city":"Basehor",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 724 4022",
+    "sg:postcode":"66007",
+    "sg:province":"KS",
+    "sg:tags":[
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0btFlTiTlBYp3BMgNzuK76_39.172113_-94.978709@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044823,
+    "wof:geomhash":"8d01be87cbeb4aa8f13ac9f9189093c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840647125
+        }
+    ],
+    "wof:id":840647125,
+    "wof:lastmodified":1464044823,
+    "wof:name":"Basehor Historical Society",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "historical"
+    ]
+},
+  "bbox": [
+    -94.978709,
+    39.172113,
+    -94.978709,
+    39.172113
+],
+  "geometry": {"coordinates":[-94.97870899999999,39.172113],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840932393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.764753,39.11646,-94.764753,39.11646",
+    "geom:latitude":39.11646,
+    "geom:longitude":-94.764753,
+    "iso:country":"US",
+    "sg:address":"7908 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 788 7272",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QPBxMoGXBiZTpePgYWGTH_39.116460_-94.764753@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051296,
+    "wof:geomhash":"b13c933d3a1b8f41b69f7d31a3cf1e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840932393
+        }
+    ],
+    "wof:id":840932393,
+    "wof:lastmodified":1464051296,
+    "wof:name":"Gregg Tire Automotive",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.764753,
+    39.11646,
+    -94.764753,
+    39.11646
+],
+  "geometry": {"coordinates":[-94.764753,39.11646],"type":"Point"}
+}

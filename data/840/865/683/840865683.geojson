@@ -1,0 +1,73 @@
+{
+  "id": 840865683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.733967,37.024612,-94.733967,37.024612",
+    "geom:latitude":37.024612,
+    "geom:longitude":-94.733967,
+    "iso:country":"US",
+    "sg:address":"1101 East Ave",
+    "sg:city":"Baxter Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 856 2777",
+    "sg:postcode":"66713",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945135,
+        102082169,
+        85804771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73xQkk4glNmp9tJ2BV1RMR_37.024612_-94.733967@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049773,
+    "wof:geomhash":"1ea25160ee6e64faa3ebebade12e9738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945135,
+            "neighbourhood_id":85804771,
+            "region_id":85688555,
+            "venue_id":840865683
+        }
+    ],
+    "wof:id":840865683,
+    "wof:lastmodified":1464049773,
+    "wof:name":"Kansas Drivers License",
+    "wof:parent_id":85804771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -94.733967,
+    37.024612,
+    -94.733967,
+    37.024612
+],
+  "geometry": {"coordinates":[-94.73396700000001,37.024612],"type":"Point"}
+}

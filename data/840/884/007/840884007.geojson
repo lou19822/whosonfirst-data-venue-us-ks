@@ -1,0 +1,77 @@
+{
+  "id": 840884007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.79285,38.880841,-94.79285,38.880841",
+    "geom:latitude":38.880841,
+    "geom:longitude":-94.79285,
+    "iso:country":"US",
+    "sg:address":"115 S Fir St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 780 5027",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P0yXX3LZdg8zAPXVPSTVh_38.880841_-94.792850@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050156,
+    "wof:geomhash":"9b960d4a69a49d70ae1d99c680d18581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840884007
+        }
+    ],
+    "wof:id":840884007,
+    "wof:lastmodified":1464050156,
+    "wof:name":"Enterprise Car Sales",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.79285,
+    38.880841,
+    -94.79285,
+    38.880841
+],
+  "geometry": {"coordinates":[-94.79285,38.880841],"type":"Point"}
+}

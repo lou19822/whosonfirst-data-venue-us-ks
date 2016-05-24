@@ -1,0 +1,73 @@
+{
+  "id": 840666625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.620482,39.003148,-95.620482,39.003148",
+    "geom:latitude":39.003148,
+    "geom:longitude":-95.620482,
+    "iso:country":"US",
+    "sg:address":"3510 SE Tomahawk Ct",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 6779",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yHazrjZ9k2r6Mq9tnLKkJ_39.003148_-95.620482@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045247,
+    "wof:geomhash":"0012ee2803478c645714c06f327698b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881535,
+            "region_id":85688555,
+            "venue_id":840666625
+        }
+    ],
+    "wof:id":840666625,
+    "wof:lastmodified":1464045247,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85881535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -95.620482,
+    39.003148,
+    -95.620482,
+    39.003148
+],
+  "geometry": {"coordinates":[-95.620482,39.003148],"type":"Point"}
+}

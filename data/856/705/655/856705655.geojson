@@ -1,0 +1,80 @@
+{
+  "id": 856705655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667681,38.939094,-94.667681,38.939094",
+    "geom:latitude":38.939094,
+    "geom:longitude":-94.667681,
+    "iso:country":"US",
+    "sg:address":"10428 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/16851-fox-and-hound/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 649 1700",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pub",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879547,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LMVyHGF95nhJ9CyO14hPR_38.939094_-94.667681@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052180,
+    "wof:geomhash":"e32cf4f833e3ca26c5f30b54750bf67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879547,
+            "region_id":85688555,
+            "venue_id":856705655
+        }
+    ],
+    "wof:id":856705655,
+    "wof:lastmodified":1464052180,
+    "wof:name":"Fox and Hound",
+    "wof:parent_id":85879547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.667681,
+    38.939094,
+    -94.667681,
+    38.939094
+],
+  "geometry": {"coordinates":[-94.667681,38.939094],"type":"Point"}
+}

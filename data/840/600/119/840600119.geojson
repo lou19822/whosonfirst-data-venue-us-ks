@@ -1,0 +1,77 @@
+{
+  "id": 840600119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.685985,39.041475,-95.685985,39.041475",
+    "geom:latitude":39.041475,
+    "geom:longitude":-95.685985,
+    "iso:country":"US",
+    "sg:address":"1312 SW Polk St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 9785",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881553,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y9CZCBEklTkHcgsTeUVS1_39.041475_-95.685985@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043665,
+    "wof:geomhash":"166aa49eee8629e93dcb74a1c9d77dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881553,
+            "region_id":85688555,
+            "venue_id":840600119
+        }
+    ],
+    "wof:id":840600119,
+    "wof:lastmodified":1464043665,
+    "wof:name":"Homeworks Construction",
+    "wof:parent_id":85881553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -95.685985,
+    39.041475,
+    -95.685985,
+    39.041475
+],
+  "geometry": {"coordinates":[-95.685985,39.041475],"type":"Point"}
+}

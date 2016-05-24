@@ -1,0 +1,77 @@
+{
+  "id": 840632937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.603696,38.944946,-94.603696,38.944946",
+    "geom:latitude":38.944946,
+    "geom:longitude":-94.603696,
+    "iso:country":"US",
+    "sg:address":"1001 W 101st Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 942 1918",
+    "sg:postcode":"64114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813397,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n7rLq3Uun3FwVTlncBBdF_38.944946_-94.603696@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044509,
+    "wof:geomhash":"1ec430cf5778be9c1cad0c80b76186c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85813397,
+            "region_id":85688661,
+            "venue_id":840632937
+        }
+    ],
+    "wof:id":840632937,
+    "wof:lastmodified":1464044509,
+    "wof:name":"Beal Properties",
+    "wof:parent_id":85813397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.603696,
+    38.944946,
+    -94.603696,
+    38.944946
+],
+  "geometry": {"coordinates":[-94.603696,38.944946],"type":"Point"}
+}

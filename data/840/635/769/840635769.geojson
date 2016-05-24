@@ -1,0 +1,71 @@
+{
+  "id": 840635769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849879,37.818409,-96.849879,37.818409",
+    "geom:latitude":37.818409,
+    "geom:longitude":-96.849879,
+    "iso:country":"US",
+    "sg:address":"139 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 1290",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eY0RDt236RbGxBJaHyCaf_37.818409_-96.849879@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044584,
+    "wof:geomhash":"5c95c92c22e7831c17a50de164a03251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840635769
+        }
+    ],
+    "wof:id":840635769,
+    "wof:lastmodified":1464044584,
+    "wof:name":"Jacob's Well Coffeehouse",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -96.849879,
+    37.818409,
+    -96.849879,
+    37.818409
+],
+  "geometry": {"coordinates":[-96.849879,37.818409],"type":"Point"}
+}

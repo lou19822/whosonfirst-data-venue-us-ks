@@ -1,0 +1,75 @@
+{
+  "id": 840751733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.819503,38.880943,-94.819503,38.880943",
+    "geom:latitude":38.880943,
+    "geom:longitude":-94.819503,
+    "iso:country":"US",
+    "sg:address":"127 S Cherry St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 7700",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gJFAVGN9FrNsr1f6Y8lXu_38.880943_-94.819503@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047143,
+    "wof:geomhash":"15b15ca4f226adb08c94529b22d1f805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840751733
+        }
+    ],
+    "wof:id":840751733,
+    "wof:lastmodified":1464047143,
+    "wof:name":"Associates In Dental Care",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.819503,
+    38.880943,
+    -94.819503,
+    38.880943
+],
+  "geometry": {"coordinates":[-94.819503,38.880943],"type":"Point"}
+}

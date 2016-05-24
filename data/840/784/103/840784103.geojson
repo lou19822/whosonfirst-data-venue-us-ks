@@ -1,0 +1,78 @@
+{
+  "id": 840784103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.682539,37.380582,-94.682539,37.380582",
+    "geom:latitude":37.380582,
+    "geom:longitude":-94.682539,
+    "iso:country":"US",
+    "sg:address":"1102 E Centennial Dr",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 6100",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aonlQqvMyl0YHAO8nDnui_37.380582_-94.682539@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047841,
+    "wof:geomhash":"9735b10ecbfac215220a667d656f91b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840784103
+        }
+    ],
+    "wof:id":840784103,
+    "wof:lastmodified":1464047841,
+    "wof:name":"Mt Carmel Regional Medical Ctr",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.682539,
+    37.380582,
+    -94.682539,
+    37.380582
+],
+  "geometry": {"coordinates":[-94.68253900000001,37.380582],"type":"Point"}
+}

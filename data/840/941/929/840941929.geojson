@@ -1,0 +1,69 @@
+{
+  "id": 840941929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.860837,37.81473,-96.860837,37.81473",
+    "geom:latitude":37.81473,
+    "geom:longitude":-96.860837,
+    "iso:country":"US",
+    "sg:address":"310 S Emporia St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 1902",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BulA1qQQiaHsttYNEKVWk_37.814730_-96.860837@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051484,
+    "wof:geomhash":"cbb6e56686a0fc95a73194795d36f2fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840941929
+        }
+    ],
+    "wof:id":840941929,
+    "wof:lastmodified":1464051484,
+    "wof:name":"Quality Vending",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -96.860837,
+    37.81473,
+    -96.860837,
+    37.81473
+],
+  "geometry": {"coordinates":[-96.860837,37.81473],"type":"Point"}
+}

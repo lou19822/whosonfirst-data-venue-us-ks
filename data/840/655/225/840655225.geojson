@@ -1,0 +1,71 @@
+{
+  "id": 840655225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.145402,37.676094,-97.145402,37.676094",
+    "geom:latitude":37.676094,
+    "geom:longitude":-97.145402,
+    "iso:country":"US",
+    "sg:address":"701 S Ruth Ave",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 312 2176",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KyEsb1PnJzuPdWmwQ5Jzk_37.676094_-97.145402@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045008,
+    "wof:geomhash":"0c7d3c480dfbdeba2fcf379fa6169687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840655225
+        }
+    ],
+    "wof:id":840655225,
+    "wof:lastmodified":1464045008,
+    "wof:name":"Affordable Wrecker Svc",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -97.145402,
+    37.676094,
+    -97.145402,
+    37.676094
+],
+  "geometry": {"coordinates":[-97.145402,37.676094],"type":"Point"}
+}

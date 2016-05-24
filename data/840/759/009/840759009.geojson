@@ -1,0 +1,75 @@
+{
+  "id": 840759009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.262572,38.506996,-96.262572,38.506996",
+    "geom:latitude":38.506996,
+    "geom:longitude":-96.262572,
+    "iso:country":"US",
+    "sg:address":"516 Locust St",
+    "sg:city":"Americus",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 443 5352",
+    "sg:postcode":"66835",
+    "sg:province":"KS",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yzcKg09xjLzDeXwOIb7Jz_38.506996_-96.262572@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047310,
+    "wof:geomhash":"1372b82ba7538f120fc55702bb38e41f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840759009
+        }
+    ],
+    "wof:id":840759009,
+    "wof:lastmodified":1464047310,
+    "wof:name":"Americus Senior Citizens",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -96.262572,
+    38.506996,
+    -96.262572,
+    38.506996
+],
+  "geometry": {"coordinates":[-96.26257200000001,38.506996],"type":"Point"}
+}

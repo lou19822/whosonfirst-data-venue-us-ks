@@ -1,0 +1,66 @@
+{
+  "id": 840680507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.666653,39.081606,-95.666653,39.081606",
+    "geom:latitude":39.081606,
+    "geom:longitude":-95.666653,
+    "iso:country":"US",
+    "sg:address":"1730 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 234 3596",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85881557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D9tZe3fDb4fuASOUDjnyF_39.081606_-95.666653@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045590,
+    "wof:geomhash":"8394b61a1ff27b3917ef8ee16277ffaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85881557,
+            "region_id":85688555,
+            "venue_id":840680507
+        }
+    ],
+    "wof:id":840680507,
+    "wof:lastmodified":1464045590,
+    "wof:name":"Pad Restaurant",
+    "wof:parent_id":85881557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.666653,
+    39.081606,
+    -95.666653,
+    39.081606
+],
+  "geometry": {"coordinates":[-95.666653,39.081606],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856709563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.243965,37.740742,-97.243965,37.740742",
+    "geom:latitude":37.740742,
+    "geom:longitude":-97.243965,
+    "iso:country":"US",
+    "sg:address":"3236 N Rock Rd",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/wichita/136620-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 636 2811",
+    "sg:postcode":"67226",
+    "sg:province":"KS",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1muPiWYo7iKmVKXEeCPiQZ_37.740742_-97.243965@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052257,
+    "wof:geomhash":"a7368a4b2170c1ea213036dffeecc82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555,
+            "venue_id":856709563
+        }
+    ],
+    "wof:id":856709563,
+    "wof:lastmodified":1464052257,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85872819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -97.243965,
+    37.740742,
+    -97.243965,
+    37.740742
+],
+  "geometry": {"coordinates":[-97.243965,37.740742],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856704739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.685175,39.050417,-94.685175,39.050417",
+    "geom:latitude":39.050417,
+    "geom:longitude":-94.685175,
+    "iso:country":"US",
+    "sg:address":"4603 Shawnee Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/115569-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 384 2456",
+    "sg:postcode":"66106",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879579,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60Hjf4hOferKAXBfmLrbgS_39.050417_-94.685175@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052165,
+    "wof:geomhash":"908c37baf56c5f50d70177e2fdd6cd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85879579,
+            "region_id":85688555,
+            "venue_id":856704739
+        }
+    ],
+    "wof:id":856704739,
+    "wof:lastmodified":1464052165,
+    "wof:name":"Subway",
+    "wof:parent_id":85879579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.685175,
+    39.050417,
+    -94.685175,
+    39.050417
+],
+  "geometry": {"coordinates":[-94.685175,39.050417],"type":"Point"}
+}

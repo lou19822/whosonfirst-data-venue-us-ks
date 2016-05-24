@@ -1,0 +1,73 @@
+{
+  "id": 840749579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.39969,37.67106,-97.39969,37.67106",
+    "geom:latitude":37.67106,
+    "geom:longitude":-97.39969,
+    "iso:country":"US",
+    "sg:address":"1339 S Bebe St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 9300",
+    "sg:postcode":"67209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n0Oh9pVEGVlgeK1wphfFV_37.671060_-97.399690@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047090,
+    "wof:geomhash":"aaa9a01cd49bbbb0d68185ebb98784d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840749579
+        }
+    ],
+    "wof:id":840749579,
+    "wof:lastmodified":1464047090,
+    "wof:name":"L & B Plumbing",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.39969,
+    37.67106,
+    -97.39969,
+    37.67106
+],
+  "geometry": {"coordinates":[-97.39969000000001,37.67106],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840776327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.668632,39.055166,-95.668632,39.055166",
+    "geom:latitude":39.055166,
+    "geom:longitude":-95.668632,
+    "iso:country":"US",
+    "sg:address":"200 SE 3rd St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 2301",
+    "sg:postcode":"66603",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SNo349Tq50yerliPZ7DBc_39.055166_-95.668632@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047691,
+    "wof:geomhash":"713c466781572909ff0f97afc481a6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840776327
+        }
+    ],
+    "wof:id":840776327,
+    "wof:lastmodified":1464047691,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -95.668632,
+    39.055166,
+    -95.668632,
+    39.055166
+],
+  "geometry": {"coordinates":[-95.668632,39.055166],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856705345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.725074,38.929352,-94.725074,38.929352",
+    "geom:latitude":38.929352,
+    "geom:longitude":-94.725074,
+    "iso:country":"US",
+    "sg:address":"11024 Quivira Rd",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/115622-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 469 1641",
+    "sg:postcode":"66210",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879601,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mxpvq69DruxSKlcPZWjXZ_38.929352_-94.725074@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052175,
+    "wof:geomhash":"68ac222a4328a6b7256cf9968479934d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879601,
+            "region_id":85688555,
+            "venue_id":856705345
+        }
+    ],
+    "wof:id":856705345,
+    "wof:lastmodified":1464052175,
+    "wof:name":"Subway",
+    "wof:parent_id":85879601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.725074,
+    38.929352,
+    -94.725074,
+    38.929352
+],
+  "geometry": {"coordinates":[-94.72507400000001,38.929352],"type":"Point"}
+}

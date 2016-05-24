@@ -1,0 +1,71 @@
+{
+  "id": 840597267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.849702,37.823835,-96.849702,37.823835",
+    "geom:latitude":37.823835,
+    "geom:longitude":-96.849702,
+    "iso:country":"US",
+    "sg:address":"632 N Main St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 322 7134",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04jraAcS9yAu3xQBWLdJcg_37.823835_-96.849702@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043590,
+    "wof:geomhash":"c1938362a1a440b6146f5d7bdec6228f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840597267
+        }
+    ],
+    "wof:id":840597267,
+    "wof:lastmodified":1464043590,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -96.849702,
+    37.823835,
+    -96.849702,
+    37.823835
+],
+  "geometry": {"coordinates":[-96.84970199999999,37.823835],"type":"Point"}
+}

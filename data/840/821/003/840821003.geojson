@@ -1,0 +1,71 @@
+{
+  "id": 840821003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.734339,39.029399,-95.734339,39.029399",
+    "geom:latitude":39.029399,
+    "geom:longitude":-95.734339,
+    "iso:country":"US",
+    "sg:address":"1900 SW Hope St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 438 4750",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "sg:website":"www.topeka.k12.ks.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TRHdscf9Uo2t89dtQajRy_39.029399_-95.734339@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048777,
+    "wof:geomhash":"1bc45d2c8d563905a037b0dde1ccf32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":840821003
+        }
+    ],
+    "wof:id":840821003,
+    "wof:lastmodified":1464048777,
+    "wof:name":"Information Technology Dept",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.734339,
+    39.029399,
+    -95.734339,
+    39.029399
+],
+  "geometry": {"coordinates":[-95.73433900000001,39.029399],"type":"Point"}
+}

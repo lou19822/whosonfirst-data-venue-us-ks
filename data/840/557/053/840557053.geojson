@@ -1,0 +1,71 @@
+{
+  "id": 840557053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.182582,38.405072,-96.182582,38.405072",
+    "geom:latitude":38.405072,
+    "geom:longitude":-96.182582,
+    "iso:country":"US",
+    "sg:address":"110 W 6th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 7316",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QNXg9eHIRMoZPLRB6ziOv_38.405072_-96.182582@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042670,
+    "wof:geomhash":"8ca491ca76be0a7002da7fab6d1d5641",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840557053
+        }
+    ],
+    "wof:id":840557053,
+    "wof:lastmodified":1464042670,
+    "wof:name":"Broadview Towers",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.182582,
+    38.405072,
+    -96.182582,
+    38.405072
+],
+  "geometry": {"coordinates":[-96.182582,38.405072],"type":"Point"}
+}

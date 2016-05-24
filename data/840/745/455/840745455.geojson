@@ -1,0 +1,75 @@
+{
+  "id": 840745455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.743721,39.007943,-95.743721,39.007943",
+    "geom:latitude":39.007943,
+    "geom:longitude":-95.743721,
+    "iso:country":"US",
+    "sg:address":"3335 SW Fairlawn Rd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 271 7387",
+    "sg:postcode":"66614",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881571,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AfKNquLYEn4py7NoCTT0J_39.007943_-95.743721@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046995,
+    "wof:geomhash":"60e71302cad6bc4118ffd28ac9594ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881571,
+            "region_id":85688555,
+            "venue_id":840745455
+        }
+    ],
+    "wof:id":840745455,
+    "wof:lastmodified":1464046995,
+    "wof:name":"Companion Animal Clinic",
+    "wof:parent_id":85881571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -95.743721,
+    39.007943,
+    -95.743721,
+    39.007943
+],
+  "geometry": {"coordinates":[-95.74372099999999,39.007943],"type":"Point"}
+}

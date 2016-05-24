@@ -1,0 +1,71 @@
+{
+  "id": 840748601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181361,38.406033,-96.181361,38.406033",
+    "geom:latitude":38.406033,
+    "geom:longitude":-96.181361,
+    "iso:country":"US",
+    "sg:address":"614 Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 2636",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4axO8ALo5XBG81htJx3yjt_38.406033_-96.181361@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047062,
+    "wof:geomhash":"971489481363b8913b3f23501a476dd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840748601
+        }
+    ],
+    "wof:id":840748601,
+    "wof:lastmodified":1464047062,
+    "wof:name":"Cash Plus Jewelry & Pawn",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -96.181361,
+    38.406033,
+    -96.181361,
+    38.406033
+],
+  "geometry": {"coordinates":[-96.181361,38.406033],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856693451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.691503,38.883805,-94.691503,38.883805",
+    "geom:latitude":38.883805,
+    "geom:longitude":-94.691503,
+    "iso:country":"US",
+    "sg:address":"9100 W 135th St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 681 3288",
+    "sg:postcode":"66221",
+    "sg:province":"KS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t3FXX8yRrQBmicnBODpDw_38.883805_-94.691503@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051932,
+    "wof:geomhash":"96930907c03b4ef53f92e6773adf2830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":856693451
+        }
+    ],
+    "wof:id":856693451,
+    "wof:lastmodified":1464051932,
+    "wof:name":"Everetts Restaurant",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -94.691503,
+    38.883805,
+    -94.691503,
+    38.883805
+],
+  "geometry": {"coordinates":[-94.691503,38.883805],"type":"Point"}
+}

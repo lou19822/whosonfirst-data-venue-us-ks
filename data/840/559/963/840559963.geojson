@@ -1,0 +1,75 @@
+{
+  "id": 840559963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.746508,38.883717,-94.746508,38.883717",
+    "geom:latitude":38.883717,
+    "geom:longitude":-94.746508,
+    "iso:country":"US",
+    "sg:address":"13800 W 135th St",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 764 1415",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qhupJb9f9peO0cl8m5rgc_38.883717_-94.746508@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042735,
+    "wof:geomhash":"423a5536c2e73825ed50f2fd5a03d1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840559963
+        }
+    ],
+    "wof:id":840559963,
+    "wof:lastmodified":1464042735,
+    "wof:name":"Animal Clinic",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.746508,
+    38.883717,
+    -94.746508,
+    38.883717
+],
+  "geometry": {"coordinates":[-94.74650800000001,38.883717],"type":"Point"}
+}

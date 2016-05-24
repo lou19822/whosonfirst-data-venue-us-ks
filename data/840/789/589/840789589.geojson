@@ -1,0 +1,73 @@
+{
+  "id": 840789589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181972,38.392399,-96.181972,38.392399",
+    "geom:latitude":38.392399,
+    "geom:longitude":-96.181972,
+    "iso:country":"US",
+    "sg:address":"402 S Merchant St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 7266",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S8uGoVWPhximJ16l31mAo_38.392399_-96.181972@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047971,
+    "wof:geomhash":"d0333d0f216fd11ddfdfb5fd977f9fab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840789589
+        }
+    ],
+    "wof:id":840789589,
+    "wof:lastmodified":1464047971,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -96.181972,
+    38.392399,
+    -96.181972,
+    38.392399
+],
+  "geometry": {"coordinates":[-96.181972,38.392399],"type":"Point"}
+}

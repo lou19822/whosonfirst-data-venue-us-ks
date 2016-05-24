@@ -1,0 +1,82 @@
+{
+  "id": 856705715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.667056,38.909697,-94.667056,38.909697",
+    "geom:latitude":38.909697,
+    "geom:longitude":-94.667056,
+    "iso:country":"US",
+    "sg:address":"12071 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/99671-schlotzskys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 498 2867",
+    "sg:postcode":"66213",
+    "sg:province":"KS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879577,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HC8K9XKcM4fCXrpNOloQ0_38.909697_-94.667056@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052181,
+    "wof:geomhash":"68833fbc1aa7935701e53dfcff2f1a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":856705715
+        }
+    ],
+    "wof:id":856705715,
+    "wof:lastmodified":1464052181,
+    "wof:name":"Schlotzsky's",
+    "wof:parent_id":85879577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.667056,
+    38.909697,
+    -94.667056,
+    38.909697
+],
+  "geometry": {"coordinates":[-94.667056,38.909697],"type":"Point"}
+}

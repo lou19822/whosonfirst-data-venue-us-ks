@@ -1,0 +1,71 @@
+{
+  "id": 840800215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.686412,39.07553,-95.686412,39.07553",
+    "geom:latitude":39.07553,
+    "geom:longitude":-95.686412,
+    "iso:country":"US",
+    "sg:address":"1845 NW Gordon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 232 7083",
+    "sg:postcode":"66608",
+    "sg:province":"KS",
+    "sg:tags":[
+        "flour",
+        "mills"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FM6Dq0zLLYpiJhg3j3IeP_39.075530_-95.686412@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048206,
+    "wof:geomhash":"248a213ccfa7379405319853903e09e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840800215
+        }
+    ],
+    "wof:id":840800215,
+    "wof:lastmodified":1464048206,
+    "wof:name":"Cargill Inc",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flour",
+        "mills"
+    ]
+},
+  "bbox": [
+    -95.686412,
+    39.07553,
+    -95.686412,
+    39.07553
+],
+  "geometry": {"coordinates":[-95.686412,39.07553],"type":"Point"}
+}

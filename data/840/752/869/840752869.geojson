@@ -1,0 +1,73 @@
+{
+  "id": 840752869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.02999,39.201296,-95.02999,39.201296",
+    "geom:latitude":39.201296,
+    "geom:longitude":-95.02999,
+    "iso:country":"US",
+    "sg:address":"19221 Dempsey Rd",
+    "sg:city":"Leavenworth",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 727 1405",
+    "sg:postcode":"66048",
+    "sg:province":"KS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Iu6u4wU2yPnH9qpok98py_39.201296_-95.029990@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047168,
+    "wof:geomhash":"5711059d2249d141f4b9ca821b7d1562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840752869
+        }
+    ],
+    "wof:id":840752869,
+    "wof:lastmodified":1464047168,
+    "wof:name":"Bumpy Roads Disposal",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -95.02999,
+    39.201296,
+    -95.02999,
+    39.201296
+],
+  "geometry": {"coordinates":[-95.02999,39.201296],"type":"Point"}
+}

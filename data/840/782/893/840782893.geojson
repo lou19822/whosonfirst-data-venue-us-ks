@@ -1,0 +1,71 @@
+{
+  "id": 840782893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.70489,37.415911,-94.70489,37.415911",
+    "geom:latitude":37.415911,
+    "geom:longitude":-94.70489,
+    "iso:country":"US",
+    "sg:address":"813 N Broadway St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 4497",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BNtLCUkWX9DRrtvn9n2BM_37.415911_-94.704890@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047817,
+    "wof:geomhash":"f352a69eb9bff7ee1de202c689542a26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840782893
+        }
+    ],
+    "wof:id":840782893,
+    "wof:lastmodified":1464047817,
+    "wof:name":"Pittsburg School Of Beauty",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -94.70489,
+    37.415911,
+    -94.70489,
+    37.415911
+],
+  "geometry": {"coordinates":[-94.70489000000001,37.415911],"type":"Point"}
+}

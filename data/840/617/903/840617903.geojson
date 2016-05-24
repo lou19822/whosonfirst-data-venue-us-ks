@@ -1,0 +1,73 @@
+{
+  "id": 840617903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.44915,37.700067,-97.44915,37.700067",
+    "geom:latitude":37.700067,
+    "geom:longitude":-97.44915,
+    "iso:country":"US",
+    "sg:address":"9301 Hickory Ln",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 7843",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v2N5eO9UAJTNS8wB7J92B_37.700067_-97.449150@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044117,
+    "wof:geomhash":"1178617dda5c571797d36b01939fd1c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840617903
+        }
+    ],
+    "wof:id":840617903,
+    "wof:lastmodified":1464044117,
+    "wof:name":"Crop Quest",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.44915,
+    37.700067,
+    -97.44915,
+    37.700067
+],
+  "geometry": {"coordinates":[-97.44915,37.700067],"type":"Point"}
+}

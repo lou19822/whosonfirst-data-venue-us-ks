@@ -1,0 +1,73 @@
+{
+  "id": 840645169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.396571,37.648115,-97.396571,37.648115",
+    "geom:latitude":37.648115,
+    "geom:longitude":-97.396571,
+    "iso:country":"US",
+    "sg:address":"2431 S Young St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 942 1489",
+    "sg:postcode":"67215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pkdqwik3L9gC5wnWZofQP_37.648115_-97.396571@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044784,
+    "wof:geomhash":"f735f1048a5d93b341fc84a8ecc38cfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840645169
+        }
+    ],
+    "wof:id":840645169,
+    "wof:lastmodified":1464044784,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -97.396571,
+    37.648115,
+    -97.396571,
+    37.648115
+],
+  "geometry": {"coordinates":[-97.39657099999999,37.648115],"type":"Point"}
+}

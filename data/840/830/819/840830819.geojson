@@ -1,0 +1,73 @@
+{
+  "id": 840830819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.385656,37.638898,-97.385656,37.638898",
+    "geom:latitude":37.638898,
+    "geom:longitude":-97.385656,
+    "iso:country":"US",
+    "sg:address":"3713 W 30th St S",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 945 8383",
+    "sg:postcode":"67217",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sCRvZLAKTQ9AQLDThCD3h_37.638898_-97.385656@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049021,
+    "wof:geomhash":"d26141d9b9279e2bafe6098ab06b084f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872813,
+            "region_id":85688555,
+            "venue_id":840830819
+        }
+    ],
+    "wof:id":840830819,
+    "wof:lastmodified":1464049021,
+    "wof:name":"Plumbing Specialists",
+    "wof:parent_id":85872813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.385656,
+    37.638898,
+    -97.385656,
+    37.638898
+],
+  "geometry": {"coordinates":[-97.385656,37.638898],"type":"Point"}
+}

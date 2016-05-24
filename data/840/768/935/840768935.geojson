@@ -1,0 +1,71 @@
+{
+  "id": 840768935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.212242,38.416018,-96.212242,38.416018",
+    "geom:latitude":38.416018,
+    "geom:longitude":-96.212242,
+    "iso:country":"US",
+    "sg:address":"2510 W 15th Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 5930",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47Jmm885PlOYpVjUUgFz56_38.416018_-96.212242@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047549,
+    "wof:geomhash":"7f109db65bb4510ae36d3de1810c3af5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840768935
+        }
+    ],
+    "wof:id":840768935,
+    "wof:lastmodified":1464047549,
+    "wof:name":"Emporia Oral Surgery",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.212242,
+    38.416018,
+    -96.212242,
+    38.416018
+],
+  "geometry": {"coordinates":[-96.212242,38.416018],"type":"Point"}
+}

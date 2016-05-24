@@ -1,0 +1,75 @@
+{
+  "id": 840648721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.65095,39.01305,-95.65095,39.01305",
+    "geom:latitude":39.01305,
+    "geom:longitude":-95.65095,
+    "iso:country":"US",
+    "sg:address":"2050 SE 30th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 3777",
+    "sg:postcode":"66605",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881543,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BRRWT6H4CbbAEZFEByyNM_39.013050_-95.650950@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044852,
+    "wof:geomhash":"1b31c21a00af6edf9cbcb3cb48a22f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881543,
+            "region_id":85688555,
+            "venue_id":840648721
+        }
+    ],
+    "wof:id":840648721,
+    "wof:lastmodified":1464044852,
+    "wof:name":"Capitol City Taxi",
+    "wof:parent_id":85881543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -95.65095,
+    39.01305,
+    -95.65095,
+    39.01305
+],
+  "geometry": {"coordinates":[-95.65094999999999,39.01305],"type":"Point"}
+}

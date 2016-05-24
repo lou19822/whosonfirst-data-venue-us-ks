@@ -1,0 +1,66 @@
+{
+  "id": 840689279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.535971,37.782726,-97.535971,37.782726",
+    "geom:latitude":37.782726,
+    "geom:longitude":-97.535971,
+    "iso:country":"US",
+    "sg:address":"417 W Wichita Ave",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 0519",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qTjpDbZwzfV6MS2roS4vM_37.782726_-97.535971@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045800,
+    "wof:geomhash":"4b84f640682fae3d33f6c3ed92cfb059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840689279
+        }
+    ],
+    "wof:id":840689279,
+    "wof:lastmodified":1464045800,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.535971,
+    37.782726,
+    -97.535971,
+    37.782726
+],
+  "geometry": {"coordinates":[-97.535971,37.782726],"type":"Point"}
+}

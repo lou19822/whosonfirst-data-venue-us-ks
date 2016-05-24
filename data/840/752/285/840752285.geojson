@@ -1,0 +1,75 @@
+{
+  "id": 840752285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687314,38.964349,-95.687314,38.964349",
+    "geom:latitude":38.964349,
+    "geom:longitude":-95.687314,
+    "iso:country":"US",
+    "sg:address":"5610 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 0791",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VRWg8bir5TGADh4xwcTpO_38.964349_-95.687314@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047153,
+    "wof:geomhash":"2738ab633ce8a080a0bd9814ed31b957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840752285
+        }
+    ],
+    "wof:id":840752285,
+    "wof:lastmodified":1464047153,
+    "wof:name":"Midwest Imaging",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -95.687314,
+    38.964349,
+    -95.687314,
+    38.964349
+],
+  "geometry": {"coordinates":[-95.687314,38.964349],"type":"Point"}
+}

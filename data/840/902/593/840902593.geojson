@@ -1,0 +1,77 @@
+{
+  "id": 840902593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.820773,38.877998,-94.820773,38.877998",
+    "geom:latitude":38.877998,
+    "geom:longitude":-94.820773,
+    "iso:country":"US",
+    "sg:address":"325 S Kansas Ave",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 782 3808",
+    "sg:postcode":"66061",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828983,
+        102191575,
+        404502685,
+        85633793,
+        85945753,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GuYTWz3LvJUE7NcyAGsNQ_38.877998_-94.820773@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050551,
+    "wof:geomhash":"e52a7939c68a4b2a25e029804582eac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502685,
+            "locality_id":85945753,
+            "neighbourhood_id":85828983,
+            "region_id":85688555,
+            "venue_id":840902593
+        }
+    ],
+    "wof:id":840902593,
+    "wof:lastmodified":1464050551,
+    "wof:name":"Rob's Auto Svc",
+    "wof:parent_id":85828983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.820773,
+    38.877998,
+    -94.820773,
+    38.877998
+],
+  "geometry": {"coordinates":[-94.820773,38.877998],"type":"Point"}
+}

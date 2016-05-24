@@ -1,0 +1,71 @@
+{
+  "id": 840610697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.180233,38.40477,-96.180233,38.40477",
+    "geom:latitude":38.40477,
+    "geom:longitude":-96.180233,
+    "iso:country":"US",
+    "sg:address":"519 Commercial St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 6500",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nYY5tmuxb9waNDgn8lGmr_38.404770_-96.180233@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043935,
+    "wof:geomhash":"b7b9af945b0acd5c359c51a10f31962e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840610697
+        }
+    ],
+    "wof:id":840610697,
+    "wof:lastmodified":1464043935,
+    "wof:name":"Helbert & Allemang Law Offices",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -96.180233,
+    38.40477,
+    -96.180233,
+    38.40477
+],
+  "geometry": {"coordinates":[-96.180233,38.40477],"type":"Point"}
+}

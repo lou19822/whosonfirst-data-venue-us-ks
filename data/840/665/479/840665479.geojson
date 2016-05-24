@@ -1,0 +1,70 @@
+{
+  "id": 840665479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.728222,39.043937,-95.728222,39.043937",
+    "geom:latitude":39.043937,
+    "geom:longitude":-95.728222,
+    "iso:country":"US",
+    "sg:address":"4001 SW Huntoon St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 295 3566",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881551,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64xKJAnQLAtQ6CRrMu60pb_39.043937_-95.728222@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045220,
+    "wof:geomhash":"d611c3a23a826b3aa154b02203c5913e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881551,
+            "region_id":85688555,
+            "venue_id":840665479
+        }
+    ],
+    "wof:id":840665479,
+    "wof:lastmodified":1464045220,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":85881551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.728222,
+    39.043937,
+    -95.728222,
+    39.043937
+],
+  "geometry": {"coordinates":[-95.728222,39.043937],"type":"Point"}
+}

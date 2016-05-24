@@ -1,0 +1,71 @@
+{
+  "id": 840668379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.226543,38.285181,-96.226543,38.285181",
+    "geom:latitude":38.285181,
+    "geom:longitude":-96.226543,
+    "iso:country":"US",
+    "sg:address":"860 Rd H",
+    "sg:city":"Olpe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 475 3543",
+    "sg:postcode":"66865",
+    "sg:province":"KS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nqdp2utPJBHjs8j2BB5La_38.285181_-96.226543@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464045278,
+    "wof:geomhash":"2800919c2f6a0e335fa4668592dd6431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840668379
+        }
+    ],
+    "wof:id":840668379,
+    "wof:lastmodified":1464045278,
+    "wof:name":"Basel Janitorial",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.226543,
+    38.285181,
+    -96.226543,
+    38.285181
+],
+  "geometry": {"coordinates":[-96.22654300000001,38.285181],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840885257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.221753,38.405073,-96.221753,38.405073",
+    "geom:latitude":38.405073,
+    "geom:longitude":-96.221753,
+    "iso:country":"US",
+    "sg:address":"501 Graham St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8855",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I1J2C2y71sYKDca7qWlhw_38.405073_-96.221753@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050183,
+    "wof:geomhash":"5583fe2051d18aa73873d474aab047b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840885257
+        }
+    ],
+    "wof:id":840885257,
+    "wof:lastmodified":1464050183,
+    "wof:name":"Meenen Transmission & Auto Svc",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.221753,
+    38.405073,
+    -96.221753,
+    38.405073
+],
+  "geometry": {"coordinates":[-96.22175300000001,38.405073],"type":"Point"}
+}

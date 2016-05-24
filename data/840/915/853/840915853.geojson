@@ -1,0 +1,82 @@
+{
+  "id": 840915853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.70569,39.015066,-95.70569,39.015066",
+    "geom:latitude":39.015066,
+    "geom:longitude":-95.70569,
+    "iso:country":"US",
+    "sg:address":"2201 SW 29th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 266 8600",
+    "sg:postcode":"66611",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medical",
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881549,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p75NE9tx7LjeIf4nukR1v_39.015066_-95.705690@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050900,
+    "wof:geomhash":"e62e70b46750ed6ccf356e37e9b507a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881549,
+            "region_id":85688555,
+            "venue_id":840915853
+        }
+    ],
+    "wof:id":840915853,
+    "wof:lastmodified":1464050900,
+    "wof:name":"Susan Voorhees Psyd",
+    "wof:parent_id":85881549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -95.70569,
+    39.015066,
+    -95.70569,
+    39.015066
+],
+  "geometry": {"coordinates":[-95.70569,39.015066],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840887761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.820741,39.135696,-94.820741,39.135696",
+    "geom:latitude":39.135696,
+    "geom:longitude":-94.820741,
+    "iso:country":"US",
+    "sg:address":"10649 Georgia Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 7967",
+    "sg:postcode":"66109",
+    "sg:province":"KS",
+    "sg:tags":[
+        "custodian",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833091,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QdPdqUubfn4AIxw6nkkMu_39.135696_-94.820741@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050235,
+    "wof:geomhash":"4f786d811a91b66133c21d884f74ea2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85833091,
+            "region_id":85688555,
+            "venue_id":840887761
+        }
+    ],
+    "wof:id":840887761,
+    "wof:lastmodified":1464050235,
+    "wof:name":"Smith Lemon",
+    "wof:parent_id":85833091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "custodian",
+        "park"
+    ]
+},
+  "bbox": [
+    -94.820741,
+    39.135696,
+    -94.820741,
+    39.135696
+],
+  "geometry": {"coordinates":[-94.820741,39.135696],"type":"Point"}
+}

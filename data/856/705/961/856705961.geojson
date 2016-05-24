@@ -1,0 +1,78 @@
+{
+  "id": 856705961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.730426,38.957309,-94.730426,38.957309",
+    "geom:latitude":38.957309,
+    "geom:longitude":-94.730426,
+    "iso:country":"US",
+    "sg:address":"9471 Lenexa Dr",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/lenexa/11684-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 492 8733",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IAVKvAxke0lMPhztX7DRh_38.957309_-94.730426@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052186,
+    "wof:geomhash":"be826a106ee20b28ad426f3c973b405f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":856705961
+        }
+    ],
+    "wof:id":856705961,
+    "wof:lastmodified":1464052186,
+    "wof:name":"Denny's",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -94.730426,
+    38.957309,
+    -94.730426,
+    38.957309
+],
+  "geometry": {"coordinates":[-94.73042599999999,38.957309],"type":"Point"}
+}

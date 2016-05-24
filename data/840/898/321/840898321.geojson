@@ -1,0 +1,73 @@
+{
+  "id": 840898321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.216975,38.418225,-96.216975,38.418225",
+    "geom:latitude":38.418225,
+    "geom:longitude":-96.216975,
+    "iso:country":"US",
+    "sg:address":"1640 Industrial Rd",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 5146",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "driver",
+        "license"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LdoMq30cHus7lOKRrdGg4_38.418225_-96.216975@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050456,
+    "wof:geomhash":"4f9376775964b33b5a7096b1cbca48ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840898321
+        }
+    ],
+    "wof:id":840898321,
+    "wof:lastmodified":1464050456,
+    "wof:name":"Division of Vehicles",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driver",
+        "license"
+    ]
+},
+  "bbox": [
+    -96.216975,
+    38.418225,
+    -96.216975,
+    38.418225
+],
+  "geometry": {"coordinates":[-96.21697500000001,38.418225],"type":"Point"}
+}

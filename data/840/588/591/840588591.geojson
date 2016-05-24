@@ -1,0 +1,70 @@
+{
+  "id": 840588591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.745132,39.056801,-95.745132,39.056801",
+    "geom:latitude":39.056801,
+    "geom:longitude":-95.745132,
+    "iso:country":"US",
+    "sg:address":"5375 SW 7th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 272 7056",
+    "sg:postcode":"66606",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881539,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73RLQNnCenWUMr3gvHTDYU_39.056801_-95.745132@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043393,
+    "wof:geomhash":"f05df78c62292245bc6ec91491314fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881539,
+            "region_id":85688555,
+            "venue_id":840588591
+        }
+    ],
+    "wof:id":840588591,
+    "wof:lastmodified":1464043393,
+    "wof:name":"American Heart Assn",
+    "wof:parent_id":85881539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.745132,
+    39.056801,
+    -95.745132,
+    39.056801
+],
+  "geometry": {"coordinates":[-95.745132,39.056801],"type":"Point"}
+}

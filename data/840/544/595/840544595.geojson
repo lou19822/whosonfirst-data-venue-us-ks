@@ -1,0 +1,73 @@
+{
+  "id": 840544595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.349477,37.73356,-97.349477,37.73356",
+    "geom:latitude":37.73356,
+    "geom:longitude":-97.349477,
+    "iso:country":"US",
+    "sg:address":"2849 Woodland St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 250 7663",
+    "sg:postcode":"67204",
+    "sg:province":"KS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wpgvc3MOQTgdwKGOm265j_37.733560_-97.349477@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042353,
+    "wof:geomhash":"349434c4d29e4c1b099371454dbcc2f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840544595
+        }
+    ],
+    "wof:id":840544595,
+    "wof:lastmodified":1464042353,
+    "wof:name":"Roger's Landscape Svc",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.349477,
+    37.73356,
+    -97.349477,
+    37.73356
+],
+  "geometry": {"coordinates":[-97.34947699999999,37.73356],"type":"Point"}
+}

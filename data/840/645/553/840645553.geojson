@@ -1,0 +1,71 @@
+{
+  "id": 840645553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687199,38.961607,-95.687199,38.961607",
+    "geom:latitude":38.961607,
+    "geom:longitude":-95.687199,
+    "iso:country":"US",
+    "sg:address":"5844 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 862 8093",
+    "sg:postcode":"66619",
+    "sg:province":"KS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945467,
+        102084175,
+        85851947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yW1CfFUqcXoBuQXnoHxeu_38.961607_-95.687199@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044792,
+    "wof:geomhash":"817164f78e445b99a3966b26a819a31d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "locality_id":85945467,
+            "neighbourhood_id":85851947,
+            "region_id":85688555,
+            "venue_id":840645553
+        }
+    ],
+    "wof:id":840645553,
+    "wof:lastmodified":1464044792,
+    "wof:name":"Village Cleaners",
+    "wof:parent_id":85851947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -95.687199,
+    38.961607,
+    -95.687199,
+    38.961607
+],
+  "geometry": {"coordinates":[-95.68719900000001,38.961607],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840709115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.673524,39.047259,-95.673524,39.047259",
+    "geom:latitude":39.047259,
+    "geom:longitude":-95.673524,
+    "iso:country":"US",
+    "sg:address":"820 SE Quincy St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 354 9571",
+    "sg:postcode":"66612",
+    "sg:province":"KS",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "sg:website":"www.topekatransit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881547,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aKNpxvy3ux44yQByehUSR_39.047259_-95.673524@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046285,
+    "wof:geomhash":"61b73bfdfc26e7d5e5a654092de97830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881547,
+            "region_id":85688555,
+            "venue_id":840709115
+        }
+    ],
+    "wof:id":840709115,
+    "wof:lastmodified":1464046285,
+    "wof:name":"Topeka Transit",
+    "wof:parent_id":85881547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -95.673524,
+    39.047259,
+    -95.673524,
+    39.047259
+],
+  "geometry": {"coordinates":[-95.673524,39.047259],"type":"Point"}
+}

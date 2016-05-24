@@ -1,0 +1,78 @@
+{
+  "id": 856705537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.670313,38.964576,-94.670313,38.964576",
+    "geom:latitude":38.964576,
+    "geom:longitude":-94.670313,
+    "iso:country":"US",
+    "sg:address":"9070 Metcalf Ave",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/115619-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 381 6887",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879595,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22fWuf0sJpyQm58YeHoBg5_38.964576_-94.670313@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052179,
+    "wof:geomhash":"fd6db86519fad6851b5e605627f4d2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879595,
+            "region_id":85688555,
+            "venue_id":856705537
+        }
+    ],
+    "wof:id":856705537,
+    "wof:lastmodified":1464052179,
+    "wof:name":"Subway",
+    "wof:parent_id":85879595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.670313,
+    38.964576,
+    -94.670313,
+    38.964576
+],
+  "geometry": {"coordinates":[-94.67031299999999,38.964576],"type":"Point"}
+}

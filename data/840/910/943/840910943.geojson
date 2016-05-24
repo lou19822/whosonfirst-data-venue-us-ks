@@ -1,0 +1,77 @@
+{
+  "id": 840910943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.687606,38.993553,-95.687606,38.993553",
+    "geom:latitude":38.993553,
+    "geom:longitude":-95.687606,
+    "iso:country":"US",
+    "sg:address":"4026 Topeka Blvd",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 267 4100",
+    "sg:postcode":"66609",
+    "sg:province":"KS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881565,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DC3LKEcQR7dIR9ea7jumA_38.993553_-95.687606@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050764,
+    "wof:geomhash":"4b41e6a0968d55a903db62cbe4168564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881565,
+            "region_id":85688555,
+            "venue_id":840910943
+        }
+    ],
+    "wof:id":840910943,
+    "wof:lastmodified":1464050764,
+    "wof:name":"Cooper's Inc",
+    "wof:parent_id":85881565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.687606,
+    38.993553,
+    -95.687606,
+    38.993553
+],
+  "geometry": {"coordinates":[-95.687606,38.993553],"type":"Point"}
+}

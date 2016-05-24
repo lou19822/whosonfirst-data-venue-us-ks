@@ -1,0 +1,66 @@
+{
+  "id": 840749217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.093407,39.109934,-95.093407,39.109934",
+    "geom:latitude":39.109934,
+    "geom:longitude":-95.093407,
+    "iso:country":"US",
+    "sg:address":"327 West St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 9340",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VWmM36rVRpy5dgCng4HkI_39.109934_-95.093407@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047078,
+    "wof:geomhash":"4f9c95b88942f8d71474289595e10a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840749217
+        }
+    ],
+    "wof:id":840749217,
+    "wof:lastmodified":1464047078,
+    "wof:name":"Petro & Pantry",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.093407,
+    39.109934,
+    -95.093407,
+    39.109934
+],
+  "geometry": {"coordinates":[-95.093407,39.109934],"type":"Point"}
+}

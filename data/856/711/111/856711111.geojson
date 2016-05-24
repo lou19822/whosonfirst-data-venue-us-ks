@@ -1,0 +1,80 @@
+{
+  "id": 856711111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.759536,39.128502,-94.759536,39.128502",
+    "geom:latitude":39.128502,
+    "geom:longitude":-94.759536,
+    "iso:country":"US",
+    "sg:address":"7807 Parallel Pkwy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/174265-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 2879",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tzhVHQUfnc3mDpfd5MpAK_39.128470_-94.759827@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464052288,
+    "wof:geomhash":"a7b60c5a04ec33394b712ff7a99fc47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":856711111
+        }
+    ],
+    "wof:id":856711111,
+    "wof:lastmodified":1464052288,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.759536,
+    39.128502,
+    -94.759536,
+    39.128502
+],
+  "geometry": {"coordinates":[-94.759536,39.128502],"type":"Point"}
+}

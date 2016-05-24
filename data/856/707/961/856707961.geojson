@@ -1,0 +1,71 @@
+{
+  "id": 856707961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.854178,37.824771,-96.854178,37.824771",
+    "geom:latitude":37.824771,
+    "geom:longitude":-96.854178,
+    "iso:country":"US",
+    "sg:address":"420 W 6th Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/el-dorado/225458-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yab9Pr3a8wHBpz4GyRUzk_37.824771_-96.854178@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052229,
+    "wof:geomhash":"eb525a6ada02379019a7ca8481931b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":856707961
+        }
+    ],
+    "wof:id":856707961,
+    "wof:lastmodified":1464052229,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.854178,
+    37.824771,
+    -96.854178,
+    37.824771
+],
+  "geometry": {"coordinates":[-96.854178,37.824771],"type":"Point"}
+}

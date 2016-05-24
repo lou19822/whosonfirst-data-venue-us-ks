@@ -1,0 +1,74 @@
+{
+  "id": 856704593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.086564,39.116893,-95.086564,39.116893",
+    "geom:latitude":39.116893,
+    "geom:longitude":-95.086564,
+    "iso:country":"US",
+    "sg:address":"550 Northstar Ct",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/tonganoxie/207391-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 369 2700",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RiInohLGhlnosOyKkjg0T_39.116893_-95.086564@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052163,
+    "wof:geomhash":"383f5529cc97ff368f434096166cf60a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":856704593
+        }
+    ],
+    "wof:id":856704593,
+    "wof:lastmodified":1464052163,
+    "wof:name":"Sonic",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.086564,
+    39.116893,
+    -95.086564,
+    39.116893
+],
+  "geometry": {"coordinates":[-95.086564,39.116893],"type":"Point"}
+}

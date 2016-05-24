@@ -1,0 +1,71 @@
+{
+  "id": 840861661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.195121,38.406846,-96.195121,38.406846",
+    "geom:latitude":38.406846,
+    "geom:longitude":-96.195121,
+    "iso:country":"US",
+    "sg:address":"601 Oak St",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 273 8224",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85805839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iTpCv9gOSWRZsydKOWLgo_38.406846_-96.195121@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049685,
+    "wof:geomhash":"392b92a37bcc8127f1aa5b4fcfbda508",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85805839,
+            "region_id":85688555,
+            "venue_id":840861661
+        }
+    ],
+    "wof:id":840861661,
+    "wof:lastmodified":1464049685,
+    "wof:name":"Flint Hills Taxidermy",
+    "wof:parent_id":85805839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -96.195121,
+    38.406846,
+    -96.195121,
+    38.406846
+],
+  "geometry": {"coordinates":[-96.195121,38.406846],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840908881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.859013,37.824808,-96.859013,37.824808",
+    "geom:latitude":37.824808,
+    "geom:longitude":-96.859013,
+    "iso:country":"US",
+    "sg:address":"705 N Topeka St",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 320 0061",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41VLDED4UiVo0lIe2aGskv_37.824808_-96.859013@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050693,
+    "wof:geomhash":"ad3564a8633426b485de65579f5e4c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840908881
+        }
+    ],
+    "wof:id":840908881,
+    "wof:lastmodified":1464050693,
+    "wof:name":"R & L Transport",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.859013,
+    37.824808,
+    -96.859013,
+    37.824808
+],
+  "geometry": {"coordinates":[-96.859013,37.824808],"type":"Point"}
+}

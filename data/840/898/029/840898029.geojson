@@ -1,0 +1,73 @@
+{
+  "id": 840898029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.988599,38.363043,-95.988599,38.363043",
+    "geom:latitude":38.363043,
+    "geom:longitude":-95.988599,
+    "iso:country":"US",
+    "sg:address":"201 Mulberry St",
+    "sg:city":"Neosho Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 343 9367",
+    "sg:postcode":"66854",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_114KCt827MRV1c53VFOVfm_38.363043_-95.988599@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050451,
+    "wof:geomhash":"bd76d97804d70146914d08d3c03951cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840898029
+        }
+    ],
+    "wof:id":840898029,
+    "wof:lastmodified":1464050451,
+    "wof:name":"South Mulberry Residence",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -95.988599,
+    38.363043,
+    -95.988599,
+    38.363043
+],
+  "geometry": {"coordinates":[-95.98859899999999,38.363043],"type":"Point"}
+}

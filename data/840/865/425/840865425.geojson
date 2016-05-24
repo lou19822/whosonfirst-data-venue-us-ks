@@ -1,0 +1,73 @@
+{
+  "id": 840865425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.450577,37.697199,-97.450577,37.697199",
+    "geom:latitude":37.697199,
+    "geom:longitude":-97.450577,
+    "iso:country":"US",
+    "sg:address":"811 Murray St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 1276",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QoTyTl5fcCuvPbtcQiwHa_37.697199_-97.450577@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049768,
+    "wof:geomhash":"c7a74ee7d56a7186aa5248193e9b25f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872815,
+            "region_id":85688555,
+            "venue_id":840865425
+        }
+    ],
+    "wof:id":840865425,
+    "wof:lastmodified":1464049768,
+    "wof:name":"Custom Craftsmen",
+    "wof:parent_id":85872815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.450577,
+    37.697199,
+    -97.450577,
+    37.697199
+],
+  "geometry": {"coordinates":[-97.450577,37.697199],"type":"Point"}
+}

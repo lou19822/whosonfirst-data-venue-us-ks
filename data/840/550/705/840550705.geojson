@@ -1,0 +1,72 @@
+{
+  "id": 840550705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.08321,39.109305,-95.08321,39.109305",
+    "geom:latitude":39.109305,
+    "geom:longitude":-95.08321,
+    "iso:country":"US",
+    "sg:address":"825 E 4th St",
+    "sg:city":"Tonganoxie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 845 9494",
+    "sg:postcode":"66086",
+    "sg:province":"KS",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.tongie.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945361,
+        102083429,
+        85849437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WaR8fkSCJ00Ns5UDkmYBQ_39.109305_-95.083210@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464042530,
+    "wof:geomhash":"aba59280467cb2357cfb8d749b1e3ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083429,
+            "locality_id":85945361,
+            "neighbourhood_id":85849437,
+            "region_id":85688555,
+            "venue_id":840550705
+        }
+    ],
+    "wof:id":840550705,
+    "wof:lastmodified":1464042530,
+    "wof:name":"Tonganoxie Fire Dept",
+    "wof:parent_id":85849437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.08321,
+    39.109305,
+    -95.08321,
+    39.109305
+],
+  "geometry": {"coordinates":[-95.08320999999999,39.109305],"type":"Point"}
+}

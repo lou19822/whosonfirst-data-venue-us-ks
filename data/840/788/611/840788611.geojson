@@ -1,0 +1,71 @@
+{
+  "id": 840788611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.168248,38.390457,-96.168248,38.390457",
+    "geom:latitude":38.390457,
+    "geom:longitude":-96.168248,
+    "iso:country":"US",
+    "sg:address":"1001 E Logan Ave",
+    "sg:city":"Emporia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 342 8427",
+    "sg:postcode":"66801",
+    "sg:province":"KS",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946279,
+        102082661,
+        85818077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g1IKZm2W8RfHVDafjjeoE_38.390457_-96.168248@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047948,
+    "wof:geomhash":"04662434fa2c3554db707d7a6fb2cd54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082661,
+            "locality_id":85946279,
+            "neighbourhood_id":85818077,
+            "region_id":85688555,
+            "venue_id":840788611
+        }
+    ],
+    "wof:id":840788611,
+    "wof:lastmodified":1464047948,
+    "wof:name":"Greer Upholstery",
+    "wof:parent_id":85818077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -96.168248,
+    38.390457,
+    -96.168248,
+    38.390457
+],
+  "geometry": {"coordinates":[-96.16824800000001,38.390457],"type":"Point"}
+}

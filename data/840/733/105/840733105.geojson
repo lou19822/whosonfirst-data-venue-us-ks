@@ -1,0 +1,76 @@
+{
+  "id": 840733105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.338275,37.707572,-97.338275,37.707572",
+    "geom:latitude":37.707572,
+    "geom:longitude":-97.338275,
+    "iso:country":"US",
+    "sg:address":"1333 N Main St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 267 2893",
+    "sg:postcode":"67203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.arrowlab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872827,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26BlJnushyv8UO5vicrkgk_37.707572_-97.338275@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046766,
+    "wof:geomhash":"6ce4f00a23e6e16f397e4e615febb1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872827,
+            "region_id":85688555,
+            "venue_id":840733105
+        }
+    ],
+    "wof:id":840733105,
+    "wof:lastmodified":1464046766,
+    "wof:name":"Arrow Laboratory Inc",
+    "wof:parent_id":85872827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -97.338275,
+    37.707572,
+    -97.338275,
+    37.707572
+],
+  "geometry": {"coordinates":[-97.338275,37.707572],"type":"Point"}
+}

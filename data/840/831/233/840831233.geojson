@@ -1,0 +1,75 @@
+{
+  "id": 840831233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.870574,37.817466,-96.870574,37.817466",
+    "geom:latitude":37.817466,
+    "geom:longitude":-96.870574,
+    "iso:country":"US",
+    "sg:address":"1630 W Central Ave",
+    "sg:city":"El Dorado",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 321 9103",
+    "sg:postcode":"67042",
+    "sg:province":"KS",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s5tAB2C2oGC2N8J07t3ne_37.817466_-96.870574@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049029,
+    "wof:geomhash":"6a16b5518cd4b0e72537d24087f756c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840831233
+        }
+    ],
+    "wof:id":840831233,
+    "wof:lastmodified":1464049029,
+    "wof:name":"Gerald's Auto Repair",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.870574,
+    37.817466,
+    -96.870574,
+    37.817466
+],
+  "geometry": {"coordinates":[-96.870574,37.817466],"type":"Point"}
+}

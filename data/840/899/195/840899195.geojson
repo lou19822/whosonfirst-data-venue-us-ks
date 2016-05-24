@@ -1,0 +1,78 @@
+{
+  "id": 840899195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.742304,38.95826,-94.742304,38.95826",
+    "geom:latitude":38.95826,
+    "geom:longitude":-94.742304,
+    "iso:country":"US",
+    "sg:address":"9426 Pflumm Rd",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 541 0478",
+    "sg:postcode":"66215",
+    "sg:province":"KS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "sg:website":"www.catclinicofjc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NplXZVqWq4XhtfqfTcJQV_38.958260_-94.742304@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050473,
+    "wof:geomhash":"b2b1f07d164a59a9fb9ee600357b1cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840899195
+        }
+    ],
+    "wof:id":840899195,
+    "wof:lastmodified":1464050473,
+    "wof:name":"Cat Clinic Of Johnson County",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.742304,
+    38.95826,
+    -94.742304,
+    38.95826
+],
+  "geometry": {"coordinates":[-94.742304,38.95826],"type":"Point"}
+}

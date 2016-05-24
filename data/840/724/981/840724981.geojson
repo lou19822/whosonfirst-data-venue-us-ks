@@ -1,0 +1,74 @@
+{
+  "id": 840724981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.536077,37.784743,-97.536077,37.784743",
+    "geom:latitude":37.784743,
+    "geom:longitude":-97.536077,
+    "iso:country":"US",
+    "sg:address":"310 N 1st St",
+    "sg:city":"Colwich",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 796 0900",
+    "sg:postcode":"67030",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grain",
+        "broker"
+    ],
+    "sg:website":"www.icminc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56uWi4qJCW0AI2Iz6c10Qu_37.784743_-97.536077@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046610,
+    "wof:geomhash":"944e011c957265d1d034eca1160fe093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840724981
+        }
+    ],
+    "wof:id":840724981,
+    "wof:lastmodified":1464046610,
+    "wof:name":"ICM Inc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "broker"
+    ]
+},
+  "bbox": [
+    -97.536077,
+    37.784743,
+    -97.536077,
+    37.784743
+],
+  "geometry": {"coordinates":[-97.53607700000001,37.784743],"type":"Point"}
+}

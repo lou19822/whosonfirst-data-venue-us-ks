@@ -1,0 +1,86 @@
+{
+  "id": 840735435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.689205,39.035716,-94.689205,39.035716",
+    "geom:latitude":39.035716,
+    "geom:longitude":-94.689205,
+    "iso:country":"US",
+    "sg:address":"5103 Merriam Dr",
+    "sg:city":"Merriam",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 831 2500",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "planning",
+        "remodeling",
+        "kitchen",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879555,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yDyOYGjJnvkylD0etZRkI_39.035716_-94.689205@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046809,
+    "wof:geomhash":"be08e8c5d8c53b31b2ac8954aae1c5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879555,
+            "region_id":85688555,
+            "venue_id":840735435
+        }
+    ],
+    "wof:id":840735435,
+    "wof:lastmodified":1464046809,
+    "wof:name":"Creative Remodeling",
+    "wof:parent_id":85879555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "remodeling",
+        "kitchen",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -94.689205,
+    39.035716,
+    -94.689205,
+    39.035716
+],
+  "geometry": {"coordinates":[-94.689205,39.035716],"type":"Point"}
+}

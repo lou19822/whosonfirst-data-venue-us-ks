@@ -1,0 +1,75 @@
+{
+  "id": 840813041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.754104,39.130784,-94.754104,39.130784",
+    "geom:latitude":39.130784,
+    "geom:longitude":-94.754104,
+    "iso:country":"US",
+    "sg:address":"2110 N 75 Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 789 9555",
+    "sg:postcode":"66109",
+    "sg:province":"KS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43MhKBYCjLyvwoU8jgSGsJ_39.130784_-94.754104@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048542,
+    "wof:geomhash":"5dba47de23bb1e599ef98a0153238471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":840813041
+        }
+    ],
+    "wof:id":840813041,
+    "wof:lastmodified":1464048542,
+    "wof:name":"Fast Loan",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -94.754104,
+    39.130784,
+    -94.754104,
+    39.130784
+],
+  "geometry": {"coordinates":[-94.754104,39.130784],"type":"Point"}
+}

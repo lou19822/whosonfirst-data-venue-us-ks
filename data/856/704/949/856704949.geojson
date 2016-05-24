@@ -1,0 +1,78 @@
+{
+  "id": 856704949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.714818,39.020981,-94.714818,39.020981",
+    "geom:latitude":39.020981,
+    "geom:longitude":-94.714818,
+    "iso:country":"US",
+    "sg:address":"5930 Nieman Rd",
+    "sg:city":"Shawnee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/shawnee/45554-big-bams-burgers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 962 1230",
+    "sg:postcode":"66203",
+    "sg:province":"KS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879571,
+        102191575,
+        404502681,
+        85633793,
+        85945745,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VjHfAsRoPtFDuc9UQEr1p_39.020981_-94.714818@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052169,
+    "wof:geomhash":"74ffadf82e21fdb9cd0e5d90e909ee3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502681,
+            "locality_id":85945745,
+            "neighbourhood_id":85879571,
+            "region_id":85688555,
+            "venue_id":856704949
+        }
+    ],
+    "wof:id":856704949,
+    "wof:lastmodified":1464052169,
+    "wof:name":"Big Bam's Burgers",
+    "wof:parent_id":85879571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.714818,
+    39.020981,
+    -94.714818,
+    39.020981
+],
+  "geometry": {"coordinates":[-94.71481799999999,39.020981],"type":"Point"}
+}

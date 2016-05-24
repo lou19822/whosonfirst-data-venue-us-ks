@@ -1,0 +1,71 @@
+{
+  "id": 840758329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.13538,37.693958,-97.13538,37.693958",
+    "geom:latitude":37.693958,
+    "geom:longitude":-97.13538,
+    "iso:country":"US",
+    "sg:address":"403 W Central Ave",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 733 9400",
+    "sg:postcode":"67002",
+    "sg:province":"KS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rUlyZkER6Mte4hTYudI3l_37.693958_-97.135380@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464047298,
+    "wof:geomhash":"e2dee93843633a62f379c54e7c93f266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840758329
+        }
+    ],
+    "wof:id":840758329,
+    "wof:lastmodified":1464047298,
+    "wof:name":"Mercy Home Care",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -97.13538,
+    37.693958,
+    -97.13538,
+    37.693958
+],
+  "geometry": {"coordinates":[-97.13538,37.693958],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 840925957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.731315,39.11669,-94.731315,39.11669",
+    "geom:latitude":39.11669,
+    "geom:longitude":-94.731315,
+    "iso:country":"US",
+    "sg:address":"6565 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 788 3331",
+    "sg:postcode":"66102",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878491,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wCOqtqLYV8GlWJs3LxXOW_39.116690_-94.731315@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051165,
+    "wof:geomhash":"8b8b2323dd8760334dc316359c8e283e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878491,
+            "region_id":85688555,
+            "venue_id":840925957
+        }
+    ],
+    "wof:id":840925957,
+    "wof:lastmodified":1464051165,
+    "wof:name":"Wal-Mart",
+    "wof:parent_id":85878491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.731315,
+    39.11669,
+    -94.731315,
+    39.11669
+],
+  "geometry": {"coordinates":[-94.731315,39.11669],"type":"Point"}
+}

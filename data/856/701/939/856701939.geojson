@@ -1,0 +1,73 @@
+{
+  "id": 856701939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.704795,37.412128,-94.704795,37.412128",
+    "geom:latitude":37.412128,
+    "geom:longitude":-94.704795,
+    "iso:country":"US",
+    "sg:address":"102 E 5th St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 231 1920",
+    "sg:postcode":"66762",
+    "sg:province":"KS",
+    "sg:tags":[
+        "salon",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I7HRkocaU16Nolcnpjq0a_37.412010_-94.704750@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052107,
+    "wof:geomhash":"563c9af2a8b36f443f426be51fdfed77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":856701939
+        }
+    ],
+    "wof:id":856701939,
+    "wof:lastmodified":1464052107,
+    "wof:name":"Pro Shop",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -94.704795,
+    37.412128,
+    -94.704795,
+    37.412128
+],
+  "geometry": {"coordinates":[-94.704795,37.412128],"type":"Point"}
+}

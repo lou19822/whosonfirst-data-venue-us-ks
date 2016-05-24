@@ -1,0 +1,70 @@
+{
+  "id": 840712381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.696789,39.037007,-95.696789,39.037007",
+    "geom:latitude":39.037007,
+    "geom:longitude":-95.696789,
+    "iso:country":"US",
+    "sg:address":"1328 SW 17th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 273 2078",
+    "sg:postcode":"66604",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881531,
+        102191575,
+        404503163,
+        85633793,
+        85945467,
+        102084175,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LYxR80KqEJQoy3gfhGEZZ_39.037007_-95.696789@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046348,
+    "wof:geomhash":"91da5aecad63c7b115a43b5068e7052d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404503163,
+            "locality_id":85945467,
+            "neighbourhood_id":85881531,
+            "region_id":85688555,
+            "venue_id":840712381
+        }
+    ],
+    "wof:id":840712381,
+    "wof:lastmodified":1464046348,
+    "wof:name":"Laundries",
+    "wof:parent_id":85881531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.696789,
+    39.037007,
+    -95.696789,
+    39.037007
+],
+  "geometry": {"coordinates":[-95.696789,39.037007],"type":"Point"}
+}

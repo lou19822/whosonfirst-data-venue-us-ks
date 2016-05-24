@@ -1,0 +1,78 @@
+{
+  "id": 856704775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.752886,39.116473,-94.752886,39.116473",
+    "geom:latitude":39.116473,
+    "geom:longitude":-94.752886,
+    "iso:country":"US",
+    "sg:address":"7517 State Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/kansas-city/198386-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 334 3200",
+    "sg:postcode":"66112",
+    "sg:province":"KS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878509,
+        102191575,
+        404504875,
+        85633793,
+        85945801,
+        102082163,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o4FA0PzJKd3YWi9gYLj1j_39.116473_-94.752886@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052166,
+    "wof:geomhash":"b374fd121f65d9cbbfa47764978941d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082163,
+            "localadmin_id":404504875,
+            "locality_id":85945801,
+            "neighbourhood_id":85878509,
+            "region_id":85688555,
+            "venue_id":856704775
+        }
+    ],
+    "wof:id":856704775,
+    "wof:lastmodified":1464052166,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85878509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -94.752886,
+    39.116473,
+    -94.752886,
+    39.116473
+],
+  "geometry": {"coordinates":[-94.752886,39.116473],"type":"Point"}
+}

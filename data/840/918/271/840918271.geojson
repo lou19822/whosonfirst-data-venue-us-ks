@@ -1,0 +1,75 @@
+{
+  "id": 840918271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.7682,38.970962,-94.7682,38.970962",
+    "geom:latitude":38.970962,
+    "geom:longitude":-94.7682,
+    "iso:country":"US",
+    "sg:address":"15751 W 87th Street Pkwy",
+    "sg:city":"Lenexa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 000 1111",
+    "sg:postcode":"66219",
+    "sg:province":"KS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879551,
+        102191575,
+        404504345,
+        85633793,
+        85945795,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SZW03QesppWUDWVVE2EF1_38.970962_-94.768200@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050958,
+    "wof:geomhash":"8c8127acd8c7b68ea6c6af2b91ec6aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504345,
+            "locality_id":85945795,
+            "neighbourhood_id":85879551,
+            "region_id":85688555,
+            "venue_id":840918271
+        }
+    ],
+    "wof:id":840918271,
+    "wof:lastmodified":1464050958,
+    "wof:name":"Aldi",
+    "wof:parent_id":85879551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.7682,
+    38.970962,
+    -94.7682,
+    38.970962
+],
+  "geometry": {"coordinates":[-94.76819999999999,38.970962],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840735095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.938045,37.361655,-94.938045,37.361655",
+    "geom:latitude":37.361655,
+    "geom:longitude":-94.938045,
+    "iso:country":"US",
+    "sg:address":"663 E 515th Ave",
+    "sg:city":"Mc Cune",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 620 632 4436",
+    "sg:postcode":"66753",
+    "sg:province":"KS",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85946159,
+        102082657,
+        85810831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jFeX0QfPSQibuCo3OatnL_37.361655_-94.938045@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046803,
+    "wof:geomhash":"6a5eae3eff222d44a8874490335a9311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082657,
+            "locality_id":85946159,
+            "neighbourhood_id":85810831,
+            "region_id":85688555,
+            "venue_id":840735095
+        }
+    ],
+    "wof:id":840735095,
+    "wof:lastmodified":1464046803,
+    "wof:name":"Stocker Grandle Music",
+    "wof:parent_id":85810831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.938045,
+    37.361655,
+    -94.938045,
+    37.361655
+],
+  "geometry": {"coordinates":[-94.938045,37.361655],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840650681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.461842,37.716341,-97.461842,37.716341",
+    "geom:latitude":37.716341,
+    "geom:longitude":-97.461842,
+    "iso:country":"US",
+    "sg:address":"1822 N Denene St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 721 9669",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AR0iUMUYaddjMhMT9Ywp5_37.716341_-97.461842@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044896,
+    "wof:geomhash":"7e6eae54a7e77deb70d8591d642d5396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872803,
+            "region_id":85688555,
+            "venue_id":840650681
+        }
+    ],
+    "wof:id":840650681,
+    "wof:lastmodified":1464044896,
+    "wof:name":"Starkey Technical Svc",
+    "wof:parent_id":85872803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -97.461842,
+    37.716341,
+    -97.461842,
+    37.716341
+],
+  "geometry": {"coordinates":[-97.461842,37.716341],"type":"Point"}
+}

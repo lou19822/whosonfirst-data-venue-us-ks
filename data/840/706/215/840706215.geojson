@@ -1,0 +1,69 @@
+{
+  "id": 840706215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.000409,37.799153,-97.000409,37.799153",
+    "geom:latitude":37.799153,
+    "geom:longitude":-97.000409,
+    "iso:country":"US",
+    "sg:address":"424 Highland St",
+    "sg:city":"Towanda",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 536 2969",
+    "sg:postcode":"67144",
+    "sg:province":"KS",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85851529,
+        102082695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wS6nFYmZ3vGEL5e2V6uw3_37.799153_-97.000409@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046228,
+    "wof:geomhash":"3ff430cdd40606c61aad5742eb569bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":840706215
+        }
+    ],
+    "wof:id":840706215,
+    "wof:lastmodified":1464046228,
+    "wof:name":"Interstate Battery System",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -97.000409,
+    37.799153,
+    -97.000409,
+    37.799153
+],
+  "geometry": {"coordinates":[-97.000409,37.799153],"type":"Point"}
+}

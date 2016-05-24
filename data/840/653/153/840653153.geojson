@@ -1,0 +1,71 @@
+{
+  "id": 840653153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.746729,39.094557,-95.746729,39.094557",
+    "geom:latitude":39.094557,
+    "geom:longitude":-95.746729,
+    "iso:country":"US",
+    "sg:address":"5147 NW 25th St",
+    "sg:city":"Topeka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 235 3498",
+    "sg:postcode":"66618",
+    "sg:province":"KS",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85881559,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bNneOP2ugCnL3iihntnxv_39.094557_-95.746729@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464044958,
+    "wof:geomhash":"d54327e163a83806fafd0fd79ccbb57d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084175,
+            "neighbourhood_id":85881559,
+            "region_id":85688555,
+            "venue_id":840653153
+        }
+    ],
+    "wof:id":840653153,
+    "wof:lastmodified":1464044958,
+    "wof:name":"Joseph Boyden",
+    "wof:parent_id":85881559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -95.746729,
+    39.094557,
+    -95.746729,
+    39.094557
+],
+  "geometry": {"coordinates":[-95.746729,39.094557],"type":"Point"}
+}

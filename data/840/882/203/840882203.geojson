@@ -1,0 +1,75 @@
+{
+  "id": 840882203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.962404,37.682195,-96.962404,37.682195",
+    "geom:latitude":37.682195,
+    "geom:longitude":-96.962404,
+    "iso:country":"US",
+    "sg:address":"903 Custer Ln",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 775 2531",
+    "sg:postcode":"67010",
+    "sg:province":"KS",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945829,
+        102082695,
+        85834115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eVLe9mJwfDnhNnlaQatzj_37.682195_-96.962404@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464050115,
+    "wof:geomhash":"4d914132ffc5a3fb071028149df1edc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":85945829,
+            "neighbourhood_id":85834115,
+            "region_id":85688555,
+            "venue_id":840882203
+        }
+    ],
+    "wof:id":840882203,
+    "wof:lastmodified":1464050115,
+    "wof:name":"Charles Winter Water Well",
+    "wof:parent_id":85834115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -96.962404,
+    37.682195,
+    -96.962404,
+    37.682195
+],
+  "geometry": {"coordinates":[-96.96240400000001,37.682195],"type":"Point"}
+}

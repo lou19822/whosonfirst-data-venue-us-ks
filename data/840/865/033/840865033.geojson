@@ -1,0 +1,77 @@
+{
+  "id": 840865033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.63374,38.912983,-94.63374,38.912983",
+    "geom:latitude":38.912983,
+    "geom:longitude":-94.63374,
+    "iso:country":"US",
+    "sg:address":"4200 W 119th St",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 339 9964",
+    "sg:postcode":"66209",
+    "sg:province":"KS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mkrLHG4mbm3symVLU9ECq_38.912983_-94.633740@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464049754,
+    "wof:geomhash":"2d5c6fb87398f01f2a8ec4c6a8af1663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840865033
+        }
+    ],
+    "wof:id":840865033,
+    "wof:lastmodified":1464049754,
+    "wof:name":"Waterway Gas & Wash",
+    "wof:parent_id":85879563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.63374,
+    38.912983,
+    -94.63374,
+    38.912983
+],
+  "geometry": {"coordinates":[-94.63374,38.912983],"type":"Point"}
+}

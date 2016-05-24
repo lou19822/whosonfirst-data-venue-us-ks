@@ -1,0 +1,79 @@
+{
+  "id": 840931197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.672395,39.022236,-94.672395,39.022236",
+    "geom:latitude":39.022236,
+    "geom:longitude":-94.672395,
+    "iso:country":"US",
+    "sg:address":"7400 Johnson Dr",
+    "sg:city":"Shawnee Mission",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 236 5036",
+    "sg:postcode":"66202",
+    "sg:province":"KS",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879553,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ba8ZhLXjDqlpLD1dL9b9s_39.022236_-94.672395@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051273,
+    "wof:geomhash":"eed4b6ed32d79f417da3877eb230f365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879553,
+            "region_id":85688555,
+            "venue_id":840931197
+        }
+    ],
+    "wof:id":840931197,
+    "wof:lastmodified":1464051273,
+    "wof:name":"Organic Warehouse",
+    "wof:parent_id":85879553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -94.672395,
+    39.022236,
+    -94.672395,
+    39.022236
+],
+  "geometry": {"coordinates":[-94.67239499999999,39.022236],"type":"Point"}
+}

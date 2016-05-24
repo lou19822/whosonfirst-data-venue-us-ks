@@ -1,0 +1,73 @@
+{
+  "id": 840575645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.398515,37.692565,-97.398515,37.692565",
+    "geom:latitude":37.692565,
+    "geom:longitude":-97.398515,
+    "iso:country":"US",
+    "sg:address":"518 N Anna St",
+    "sg:city":"Wichita",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 316 264 1400",
+    "sg:postcode":"67212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945871,
+        102084203,
+        85872817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R5Tb5SEkWno7Hq0ycdbNQ_37.692565_-97.398515@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043118,
+    "wof:geomhash":"528b7def6c02c8dc04ee282073715827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084203,
+            "locality_id":85945871,
+            "neighbourhood_id":85872817,
+            "region_id":85688555,
+            "venue_id":840575645
+        }
+    ],
+    "wof:id":840575645,
+    "wof:lastmodified":1464043118,
+    "wof:name":"Ashcrast & Patton Electrical",
+    "wof:parent_id":85872817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.398515,
+    37.692565,
+    -97.398515,
+    37.692565
+],
+  "geometry": {"coordinates":[-97.398515,37.692565],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840823003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.729397,38.856408,-94.729397,38.856408",
+    "geom:latitude":38.856408,
+    "geom:longitude":-94.729397,
+    "iso:country":"US",
+    "sg:address":"12101 W 150th Cir",
+    "sg:city":"Olathe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 685 7454",
+    "sg:postcode":"66062",
+    "sg:province":"KS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945755,
+        102082673,
+        85835339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VvOXgR0be8006pCAQB90r_38.856408_-94.729397@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464048845,
+    "wof:geomhash":"cada74b6980625c624ee119beb4eaa8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082673,
+            "locality_id":85945755,
+            "neighbourhood_id":85835339,
+            "region_id":85688555,
+            "venue_id":840823003
+        }
+    ],
+    "wof:id":840823003,
+    "wof:lastmodified":1464048845,
+    "wof:name":"Whitco Stump Removal",
+    "wof:parent_id":85835339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -94.729397,
+    38.856408,
+    -94.729397,
+    38.856408
+],
+  "geometry": {"coordinates":[-94.72939700000001,38.856408],"type":"Point"}
+}

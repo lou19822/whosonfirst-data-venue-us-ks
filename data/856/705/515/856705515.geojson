@@ -1,0 +1,76 @@
+{
+  "id": 856705515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.670486,38.963981,-94.670486,38.963981",
+    "geom:latitude":38.963981,
+    "geom:longitude":-94.670486,
+    "iso:country":"US",
+    "sg:address":"7201 W 91st St",
+    "sg:city":"Overland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ks/overland-park/11771-cinzettis-italian-market-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 642 0101",
+    "sg:postcode":"66212",
+    "sg:province":"KS",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879595,
+        102191575,
+        404502689,
+        85633793,
+        85945755,
+        102082673,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G1wwB1VTF1evgkrvNDqqL_38.963981_-94.670486@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464052178,
+    "wof:geomhash":"6f1921be56ec1494eb8bdaaa11f3c2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879595,
+            "region_id":85688555,
+            "venue_id":856705515
+        }
+    ],
+    "wof:id":856705515,
+    "wof:lastmodified":1464052178,
+    "wof:name":"Cinzetti's Italian Market Restaurant",
+    "wof:parent_id":85879595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.670486,
+    38.963981,
+    -94.670486,
+    38.963981
+],
+  "geometry": {"coordinates":[-94.670486,38.963981],"type":"Point"}
+}
