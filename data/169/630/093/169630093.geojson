@@ -2,13 +2,14 @@
   "id": 169630093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.460489,38.483842,-100.460489,38.483842",
     "geom:latitude":38.483842,
     "geom:longitude":-100.460489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 N Central Ave",
     "sg:city":"Dighton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169630093,
-    "wof:lastmodified":1449033867,
+    "wof:lastmodified":1466520127,
     "wof:name":"Collins Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welding"
     ]
 },
-  "bbox": [-100.460489,38.483842,-100.460489,38.483842],
+  "bbox": [
+    -100.460489,
+    38.483842,
+    -100.460489,
+    38.483842
+],
   "geometry": {"coordinates":[-100.460489,38.483842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169626945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.146124,38.850235,-99.146124,38.850235",
     "geom:latitude":38.850235,
     "geom:longitude":-99.146124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Main St",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169626945,
-    "wof:lastmodified":1449035967,
+    "wof:lastmodified":1466520080,
     "wof:name":"Victoria Community Cu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.146124,38.850235,-99.146124,38.850235],
+  "bbox": [
+    -99.146124,
+    38.850235,
+    -99.146124,
+    38.850235
+],
   "geometry": {"coordinates":[-99.146124,38.850235],"type":"Point"}
 }

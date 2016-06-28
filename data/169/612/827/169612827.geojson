@@ -2,13 +2,14 @@
   "id": 169612827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.353049,37.686254,-97.353049,37.686254",
     "geom:latitude":37.686254,
     "geom:longitude":-97.353049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Seneca St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169612827,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466519789,
     "wof:name":"Landis & Woods Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.353049,37.686254,-97.353049,37.686254],
+  "bbox": [
+    -97.353049,
+    37.686254,
+    -97.353049,
+    37.686254
+],
   "geometry": {"coordinates":[-97.353049,37.686254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202914793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.117813,39.571949,-95.117813,39.571949",
     "geom:latitude":39.571949,
     "geom:longitude":-95.117813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Division St",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202914793,
-    "wof:lastmodified":1449061082,
+    "wof:lastmodified":1466519436,
     "wof:name":"Movie Magic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "dvds-rental"
     ]
 },
-  "bbox": [-95.117813,39.571949,-95.117813,39.571949],
+  "bbox": [
+    -95.117813,
+    39.571949,
+    -95.117813,
+    39.571949
+],
   "geometry": {"coordinates":[-95.117813,39.571949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202957555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.565193,39.17205,-96.565193,39.17205",
     "geom:latitude":39.17205,
     "geom:longitude":-96.565193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Pottawatomie Ave",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202957555,
-    "wof:lastmodified":1449062281,
+    "wof:lastmodified":1466520204,
     "wof:name":"Hummel Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "gardener"
     ]
 },
-  "bbox": [-96.565193,39.17205,-96.565193,39.17205],
-  "geometry": {"coordinates":[-96.565193,39.17205],"type":"Point"}
+  "bbox": [
+    -96.565193,
+    39.17205,
+    -96.565193,
+    39.17205
+],
+  "geometry": {"coordinates":[-96.56519299999999,39.17205],"type":"Point"}
 }

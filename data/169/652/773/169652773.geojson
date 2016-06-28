@@ -2,13 +2,14 @@
   "id": 169652773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.336559,38.035088,-97.336559,38.035088",
     "geom:latitude":38.035088,
     "geom:longitude":-97.336559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Kansas Ave",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169652773,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466520389,
     "wof:name":"Fox Ridge Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-97.336559,38.035088,-97.336559,38.035088],
-  "geometry": {"coordinates":[-97.336559,38.035088],"type":"Point"}
+  "bbox": [
+    -97.336559,
+    38.035088,
+    -97.336559,
+    38.035088
+],
+  "geometry": {"coordinates":[-97.33655899999999,38.035088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202922383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.26061,38.938659,-95.26061,38.938659",
     "geom:latitude":38.938659,
     "geom:longitude":-95.26061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 W 25th St Ste. B-C",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":202922383,
-    "wof:lastmodified":1449060341,
+    "wof:lastmodified":1466519563,
     "wof:name":"Curves",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "physical"
     ]
 },
-  "bbox": [-95.26061,38.938659,-95.26061,38.938659],
+  "bbox": [
+    -95.26061,
+    38.938659,
+    -95.26061,
+    38.938659
+],
   "geometry": {"coordinates":[-95.26061,38.938659],"type":"Point"}
 }

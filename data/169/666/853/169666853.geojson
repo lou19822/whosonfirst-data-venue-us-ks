@@ -2,13 +2,14 @@
   "id": 169666853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.280359,37.647029,-97.280359,37.647029",
     "geom:latitude":37.647029,
     "geom:longitude":-97.280359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 S Oliver St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169666853,
-    "wof:lastmodified":1449033900,
+    "wof:lastmodified":1466520485,
     "wof:name":"Thunderbird Bowling Of Wichita",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.280359,37.647029,-97.280359,37.647029],
+  "bbox": [
+    -97.280359,
+    37.647029,
+    -97.280359,
+    37.647029
+],
   "geometry": {"coordinates":[-97.280359,37.647029],"type":"Point"}
 }

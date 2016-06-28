@@ -2,13 +2,14 @@
   "id": 202975811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.704402,37.410088,-94.704402,37.410088",
     "geom:latitude":37.410088,
     "geom:longitude":-94.704402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 E 3rd St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202975811,
-    "wof:lastmodified":1449062305,
+    "wof:lastmodified":1466520340,
     "wof:name":"Crawford County Chiropractic",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.704402,37.410088,-94.704402,37.410088],
+  "bbox": [
+    -94.704402,
+    37.410088,
+    -94.704402,
+    37.410088
+],
   "geometry": {"coordinates":[-94.704402,37.410088],"type":"Point"}
 }

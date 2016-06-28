@@ -2,13 +2,14 @@
   "id": 169631597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.054015,38.536587,-99.054015,38.536587",
     "geom:latitude":38.536587,
     "geom:longitude":-99.054015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 3rd St",
     "sg:city":"Otis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169631597,
-    "wof:lastmodified":1449033712,
+    "wof:lastmodified":1466520163,
     "wof:name":"Otis Bison Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.054015,38.536587,-99.054015,38.536587],
-  "geometry": {"coordinates":[-99.054015,38.536587],"type":"Point"}
+  "bbox": [
+    -99.054015,
+    38.536587,
+    -99.054015,
+    38.536587
+],
+  "geometry": {"coordinates":[-99.05401500000001,38.536587],"type":"Point"}
 }

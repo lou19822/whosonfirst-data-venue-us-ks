@@ -2,13 +2,14 @@
   "id": 202945271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.691233,39.03577,-94.691233,39.03577",
     "geom:latitude":39.03577,
     "geom:longitude":-94.691233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9111 W 51st Ter",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202945271,
-    "wof:lastmodified":1449060332,
+    "wof:lastmodified":1466520094,
     "wof:name":"Midwest Duct Cleaning Service",
     "wof:parent_id":85879555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "degreasing"
     ]
 },
-  "bbox": [-94.691233,39.03577,-94.691233,39.03577],
+  "bbox": [
+    -94.691233,
+    39.03577,
+    -94.691233,
+    39.03577
+],
   "geometry": {"coordinates":[-94.691233,39.03577],"type":"Point"}
 }

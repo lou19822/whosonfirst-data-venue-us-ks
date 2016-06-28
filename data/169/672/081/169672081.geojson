@@ -2,13 +2,14 @@
   "id": 169672081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.969005,37.999002,-96.969005,37.999002",
     "geom:latitude":37.999002,
     "geom:longitude":-96.969005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7680 NW 120th St",
     "sg:city":"Potwin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169672081,
-    "wof:lastmodified":1449032889,
+    "wof:lastmodified":1466520475,
     "wof:name":"Cedar Ridge Farms Inc",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.969005,37.999002,-96.969005,37.999002],
+  "bbox": [
+    -96.969005,
+    37.999002,
+    -96.969005,
+    37.999002
+],
   "geometry": {"coordinates":[-96.969005,37.999002],"type":"Point"}
 }

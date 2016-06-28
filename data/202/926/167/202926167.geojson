@@ -2,13 +2,14 @@
   "id": 202926167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.919791,39.323946,-94.919791,39.323946",
     "geom:latitude":39.323946,
     "geom:longitude":-94.919791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 N 7th St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202926167,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466519690,
     "wof:name":"Fort Rental & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "lease"
     ]
 },
-  "bbox": [-94.919791,39.323946,-94.919791,39.323946],
+  "bbox": [
+    -94.919791,
+    39.323946,
+    -94.919791,
+    39.323946
+],
   "geometry": {"coordinates":[-94.919791,39.323946],"type":"Point"}
 }

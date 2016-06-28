@@ -2,13 +2,14 @@
   "id": 169628663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.684126,37.417486,-95.684126,37.417486",
     "geom:latitude":37.417486,
     "geom:longitude":-95.684126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Main St",
     "sg:city":"Neodesha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169628663,
-    "wof:lastmodified":1449035335,
+    "wof:lastmodified":1466520108,
     "wof:name":"First Federal Savings & Loan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "association"
     ]
 },
-  "bbox": [-95.684126,37.417486,-95.684126,37.417486],
-  "geometry": {"coordinates":[-95.684126,37.417486],"type":"Point"}
+  "bbox": [
+    -95.684126,
+    37.417486,
+    -95.684126,
+    37.417486
+],
+  "geometry": {"coordinates":[-95.68412600000001,37.417486],"type":"Point"}
 }

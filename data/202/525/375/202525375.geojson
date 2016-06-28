@@ -2,13 +2,14 @@
   "id": 202525375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.616126,37.1315,-94.616126,37.1315",
     "geom:latitude":37.1315,
     "geom:longitude":-94.616126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30644 Fox Run Ln",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202525375,
-    "wof:lastmodified":1449062133,
+    "wof:lastmodified":1466529870,
     "wof:name":"Gratton's Painting",
     "wof:parent_id":85818073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.616126,37.1315,-94.616126,37.1315],
-  "geometry": {"coordinates":[-94.616126,37.1315],"type":"Point"}
+  "bbox": [
+    -94.616126,
+    37.1315,
+    -94.616126,
+    37.1315
+],
+  "geometry": {"coordinates":[-94.61612599999999,37.1315],"type":"Point"}
 }

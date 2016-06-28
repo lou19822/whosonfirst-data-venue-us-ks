@@ -2,13 +2,14 @@
   "id": 202953811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.728244,39.022304,-94.728244,39.022304",
     "geom:latitude":39.022304,
     "geom:longitude":-94.728244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12302 Johnson Dr",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202953811,
-    "wof:lastmodified":1449061833,
+    "wof:lastmodified":1466520182,
     "wof:name":"Market Merchandisers",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-94.728244,39.022304,-94.728244,39.022304],
+  "bbox": [
+    -94.728244,
+    39.022304,
+    -94.728244,
+    39.022304
+],
   "geometry": {"coordinates":[-94.728244,39.022304],"type":"Point"}
 }

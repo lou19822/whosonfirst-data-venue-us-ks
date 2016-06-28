@@ -2,13 +2,14 @@
   "id": 169616737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.9241,37.450127,-94.9241,37.450127",
     "geom:latitude":37.450127,
     "geom:longitude":-94.9241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 S 100th St",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169616737,
-    "wof:lastmodified":1449035100,
+    "wof:lastmodified":1466519871,
     "wof:name":"D J & M Builders Inc",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.9241,37.450127,-94.9241,37.450127],
+  "bbox": [
+    -94.9241,
+    37.450127,
+    -94.9241,
+    37.450127
+],
   "geometry": {"coordinates":[-94.9241,37.450127],"type":"Point"}
 }

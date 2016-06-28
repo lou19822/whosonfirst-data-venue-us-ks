@@ -2,13 +2,14 @@
   "id": 169655397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.141505,39.556986,-95.141505,39.556986",
     "geom:latitude":39.556986,
     "geom:longitude":-95.141505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1699 US Hwy 59",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169655397,
-    "wof:lastmodified":1449034587,
+    "wof:lastmodified":1466520396,
     "wof:name":"Baker Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-95.141505,39.556986,-95.141505,39.556986],
+  "bbox": [
+    -95.141505,
+    39.556986,
+    -95.141505,
+    39.556986
+],
   "geometry": {"coordinates":[-95.141505,39.556986],"type":"Point"}
 }

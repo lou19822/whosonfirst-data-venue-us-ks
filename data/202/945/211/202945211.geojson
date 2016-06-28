@@ -2,13 +2,14 @@
   "id": 202945211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.711407,39.003682,-94.711407,39.003682",
     "geom:latitude":39.003682,
     "geom:longitude":-94.711407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6908 Bluejacket St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202945211,
-    "wof:lastmodified":1449060331,
+    "wof:lastmodified":1466520090,
     "wof:name":"Art Divas",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-94.711407,39.003682,-94.711407,39.003682],
-  "geometry": {"coordinates":[-94.711407,39.003682],"type":"Point"}
+  "bbox": [
+    -94.711407,
+    39.003682,
+    -94.711407,
+    39.003682
+],
+  "geometry": {"coordinates":[-94.71140699999999,39.003682],"type":"Point"}
 }

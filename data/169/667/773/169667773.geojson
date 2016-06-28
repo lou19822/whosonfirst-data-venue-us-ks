@@ -2,13 +2,14 @@
   "id": 169667773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.787655,38.893535,-94.787655,38.893535",
     "geom:latitude":38.893535,
     "geom:longitude":-94.787655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 N Rogers Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169667773,
-    "wof:lastmodified":1449034844,
+    "wof:lastmodified":1466520480,
     "wof:name":"I-35 Auto Parts",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-94.787655,38.893535,-94.787655,38.893535],
+  "bbox": [
+    -94.787655,
+    38.893535,
+    -94.787655,
+    38.893535
+],
   "geometry": {"coordinates":[-94.787655,38.893535],"type":"Point"}
 }

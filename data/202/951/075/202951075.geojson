@@ -2,13 +2,14 @@
   "id": 202951075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.740833,38.960821,-94.740833,38.960821",
     "geom:latitude":38.960821,
     "geom:longitude":-94.740833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13410 L Santa Fe Trail Dr.",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202951075,
-    "wof:lastmodified":1449060208,
+    "wof:lastmodified":1466520131,
     "wof:name":"Stacy Bonnell LMT",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapist"
     ]
 },
-  "bbox": [-94.740833,38.960821,-94.740833,38.960821],
-  "geometry": {"coordinates":[-94.740833,38.960821],"type":"Point"}
+  "bbox": [
+    -94.740833,
+    38.960821,
+    -94.740833,
+    38.960821
+],
+  "geometry": {"coordinates":[-94.74083299999999,38.960821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169611341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.344904,37.736632,-97.344904,37.736632",
     "geom:latitude":37.736632,
     "geom:longitude":-97.344904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2925 Arkansas Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169611341,
-    "wof:lastmodified":1449035264,
+    "wof:lastmodified":1466519724,
     "wof:name":"Paleteria LA Reyna",
     "wof:parent_id":85872827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-97.344904,37.736632,-97.344904,37.736632],
+  "bbox": [
+    -97.344904,
+    37.736632,
+    -97.344904,
+    37.736632
+],
   "geometry": {"coordinates":[-97.344904,37.736632],"type":"Point"}
 }

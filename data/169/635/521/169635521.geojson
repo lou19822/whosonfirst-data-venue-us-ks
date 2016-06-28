@@ -2,13 +2,14 @@
   "id": 169635521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.817964,38.835632,-94.817964,38.835632",
     "geom:latitude":38.835632,
     "geom:longitude":-94.817964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19915 W 161st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169635521,
-    "wof:lastmodified":1449034100,
+    "wof:lastmodified":1466520220,
     "wof:name":"Sdm Die-Cutting Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [-94.817964,38.835632,-94.817964,38.835632],
+  "bbox": [
+    -94.817964,
+    38.835632,
+    -94.817964,
+    38.835632
+],
   "geometry": {"coordinates":[-94.817964,38.835632],"type":"Point"}
 }

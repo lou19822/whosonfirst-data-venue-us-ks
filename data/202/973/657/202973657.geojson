@@ -2,13 +2,14 @@
   "id": 202973657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.682539,37.380877,-94.682539,37.380877",
     "geom:latitude":37.380877,
     "geom:longitude":-94.682539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 S Springdale St Apt 104",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202973657,
-    "wof:lastmodified":1449061641,
+    "wof:lastmodified":1466520331,
     "wof:name":"Summerfield Apartments",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-94.682539,37.380877,-94.682539,37.380877],
-  "geometry": {"coordinates":[-94.682539,37.380877],"type":"Point"}
+  "bbox": [
+    -94.682539,
+    37.380877,
+    -94.682539,
+    37.380877
+],
+  "geometry": {"coordinates":[-94.68253900000001,37.380877],"type":"Point"}
 }

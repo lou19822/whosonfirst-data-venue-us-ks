@@ -2,13 +2,14 @@
   "id": 202981141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.291621,37.610138,-97.291621,37.610138",
     "geom:latitude":37.610138,
     "geom:longitude":-97.291621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4444 S Southeast Blvd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -84,10 +85,11 @@
         }
     ],
     "wof:id":202981141,
-    "wof:lastmodified":1449062702,
+    "wof:lastmodified":1466520349,
     "wof:name":"A Good Plumber Inc",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -106,6 +108,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-97.291621,37.610138,-97.291621,37.610138],
-  "geometry": {"coordinates":[-97.291621,37.610138],"type":"Point"}
+  "bbox": [
+    -97.291621,
+    37.610138,
+    -97.291621,
+    37.610138
+],
+  "geometry": {"coordinates":[-97.29162100000001,37.610138],"type":"Point"}
 }

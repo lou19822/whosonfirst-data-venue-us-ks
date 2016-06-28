@@ -2,13 +2,14 @@
   "id": 169643611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.841622,37.510789,-94.841622,37.510789",
     "geom:latitude":37.510789,
     "geom:longitude":-94.841622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Ozark St",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169643611,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466520304,
     "wof:name":"Girard Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-94.841622,37.510789,-94.841622,37.510789],
+  "bbox": [
+    -94.841622,
+    37.510789,
+    -94.841622,
+    37.510789
+],
   "geometry": {"coordinates":[-94.841622,37.510789],"type":"Point"}
 }

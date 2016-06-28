@@ -2,13 +2,14 @@
   "id": 202962959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.647369,39.044949,-95.647369,39.044949",
     "geom:latitude":39.044949,
     "geom:longitude":-95.647369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 SE 6th Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202962959,
-    "wof:lastmodified":1449061609,
+    "wof:lastmodified":1466520255,
     "wof:name":"City of Light Worship Center",
     "wof:parent_id":85881535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.647369,39.044949,-95.647369,39.044949],
+  "bbox": [
+    -95.647369,
+    39.044949,
+    -95.647369,
+    39.044949
+],
   "geometry": {"coordinates":[-95.647369,39.044949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169658593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.903875,38.072195,-97.903875,38.072195",
     "geom:latitude":38.072195,
     "geom:longitude":-97.903875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 N Lorraine St",
     "sg:city":"Hutchinson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169658593,
-    "wof:lastmodified":1449032616,
+    "wof:lastmodified":1466520416,
     "wof:name":"Miller Telecommunications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-97.903875,38.072195,-97.903875,38.072195],
+  "bbox": [
+    -97.903875,
+    38.072195,
+    -97.903875,
+    38.072195
+],
   "geometry": {"coordinates":[-97.903875,38.072195],"type":"Point"}
 }

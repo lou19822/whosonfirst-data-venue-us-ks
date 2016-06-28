@@ -2,13 +2,14 @@
   "id": 202950205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.64257,38.924278,-94.64257,38.924278",
     "geom:latitude":38.924278,
     "geom:longitude":-94.64257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 W 112th St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202950205,
-    "wof:lastmodified":1449061110,
+    "wof:lastmodified":1466520138,
     "wof:name":"Jackie Miss Music Co",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-94.64257,38.924278,-94.64257,38.924278],
-  "geometry": {"coordinates":[-94.64257,38.924278],"type":"Point"}
+  "bbox": [
+    -94.64257,
+    38.924278,
+    -94.64257,
+    38.924278
+],
+  "geometry": {"coordinates":[-94.64257000000001,38.924278],"type":"Point"}
 }

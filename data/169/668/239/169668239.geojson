@@ -2,13 +2,14 @@
   "id": 169668239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.716974,37.367597,-94.716974,37.367597",
     "geom:latitude":37.367597,
     "geom:longitude":-94.716974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 E 520th Ave",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169668239,
-    "wof:lastmodified":1449034989,
+    "wof:lastmodified":1466520462,
     "wof:name":"List & Clark Constr Co",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-94.716974,37.367597,-94.716974,37.367597],
-  "geometry": {"coordinates":[-94.716974,37.367597],"type":"Point"}
+  "bbox": [
+    -94.716974,
+    37.367597,
+    -94.716974,
+    37.367597
+],
+  "geometry": {"coordinates":[-94.71697399999999,37.367597],"type":"Point"}
 }

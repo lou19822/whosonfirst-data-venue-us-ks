@@ -2,13 +2,14 @@
   "id": 169656673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.581291,38.353641,-98.581291,38.353641",
     "geom:latitude":38.353641,
     "geom:longitude":-98.581291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Main St",
     "sg:city":"Ellinwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169656673,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1466520406,
     "wof:name":"Isern Electric Heat & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.581291,38.353641,-98.581291,38.353641],
-  "geometry": {"coordinates":[-98.581291,38.353641],"type":"Point"}
+  "bbox": [
+    -98.581291,
+    38.353641,
+    -98.581291,
+    38.353641
+],
+  "geometry": {"coordinates":[-98.58129099999999,38.353641],"type":"Point"}
 }

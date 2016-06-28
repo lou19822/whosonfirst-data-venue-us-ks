@@ -2,13 +2,14 @@
   "id": 169631177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.740542,37.641919,-98.740542,37.641919",
     "geom:latitude":37.641919,
     "geom:longitude":-98.740542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 W 5th St",
     "sg:city":"Pratt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169631177,
-    "wof:lastmodified":1449033711,
+    "wof:lastmodified":1466520147,
     "wof:name":"Muffler Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-98.740542,37.641919,-98.740542,37.641919],
+  "bbox": [
+    -98.740542,
+    37.641919,
+    -98.740542,
+    37.641919
+],
   "geometry": {"coordinates":[-98.740542,37.641919],"type":"Point"}
 }

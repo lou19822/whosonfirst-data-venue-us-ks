@@ -2,13 +2,14 @@
   "id": 169636903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.569741,37.66455,-97.569741,37.66455",
     "geom:latitude":37.66455,
     "geom:longitude":-97.569741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19828 W Kellogg Dr",
     "sg:city":"Goddard",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169636903,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1466520252,
     "wof:name":"Meyer Auto Enterprises",
     "wof:parent_id":85872815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.569741,37.66455,-97.569741,37.66455],
-  "geometry": {"coordinates":[-97.569741,37.66455],"type":"Point"}
+  "bbox": [
+    -97.569741,
+    37.66455,
+    -97.569741,
+    37.66455
+],
+  "geometry": {"coordinates":[-97.56974099999999,37.66455],"type":"Point"}
 }

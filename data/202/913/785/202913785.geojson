@@ -2,13 +2,14 @@
   "id": 202913785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.121803,39.563,-95.121803,39.563",
     "geom:latitude":39.563,
     "geom:longitude":-95.121803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Kansas Ave Ste D",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202913785,
-    "wof:lastmodified":1449061097,
+    "wof:lastmodified":1466519428,
     "wof:name":"O'Keefe-Wilson Abstracting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abstracter"
     ]
 },
-  "bbox": [-95.121803,39.563,-95.121803,39.563],
+  "bbox": [
+    -95.121803,
+    39.563,
+    -95.121803,
+    39.563
+],
   "geometry": {"coordinates":[-95.121803,39.563],"type":"Point"}
 }

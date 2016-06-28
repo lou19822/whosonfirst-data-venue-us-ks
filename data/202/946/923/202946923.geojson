@@ -2,13 +2,14 @@
   "id": 202946923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.629948,38.956833,-94.629948,38.956833",
     "geom:latitude":38.956833,
     "geom:longitude":-94.629948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3859 W 95th St",
     "sg:city":"Leawood",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202946923,
-    "wof:lastmodified":1449062345,
+    "wof:lastmodified":1466520110,
     "wof:name":"Leawood Theatre",
     "wof:parent_id":85879549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.629948,38.956833,-94.629948,38.956833],
+  "bbox": [
+    -94.629948,
+    38.956833,
+    -94.629948,
+    38.956833
+],
   "geometry": {"coordinates":[-94.629948,38.956833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202966049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.743591,39.029259,-95.743591,39.029259",
     "geom:latitude":39.029259,
     "geom:longitude":-95.743591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 SW Fairlawn Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":202966049,
-    "wof:lastmodified":1449060127,
+    "wof:lastmodified":1466520258,
     "wof:name":"Fairlawn Plaza Amoco",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.743591,39.029259,-95.743591,39.029259],
+  "bbox": [
+    -95.743591,
+    39.029259,
+    -95.743591,
+    39.029259
+],
   "geometry": {"coordinates":[-95.743591,39.029259],"type":"Point"}
 }

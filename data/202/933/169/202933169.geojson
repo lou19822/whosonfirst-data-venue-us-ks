@@ -2,13 +2,14 @@
   "id": 202933169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.80563,38.901443,-94.80563,38.901443",
     "geom:latitude":38.901443,
     "geom:longitude":-94.80563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 N Prince Edward Is",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202933169,
-    "wof:lastmodified":1449060632,
+    "wof:lastmodified":1466519773,
     "wof:name":"Steve Hicks & Assoc Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "land"
     ]
 },
-  "bbox": [-94.80563,38.901443,-94.80563,38.901443],
-  "geometry": {"coordinates":[-94.80563,38.901443],"type":"Point"}
+  "bbox": [
+    -94.80563,
+    38.901443,
+    -94.80563,
+    38.901443
+],
+  "geometry": {"coordinates":[-94.80562999999999,38.901443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202959327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.678833,39.049931,-95.678833,39.049931",
     "geom:latitude":39.049931,
     "geom:longitude":-95.678833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 SW 8th Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202959327,
-    "wof:lastmodified":1449062391,
+    "wof:lastmodified":1466520204,
     "wof:name":"S Hill",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cat"
     ]
 },
-  "bbox": [-95.678833,39.049931,-95.678833,39.049931],
+  "bbox": [
+    -95.678833,
+    39.049931,
+    -95.678833,
+    39.049931
+],
   "geometry": {"coordinates":[-95.678833,39.049931],"type":"Point"}
 }

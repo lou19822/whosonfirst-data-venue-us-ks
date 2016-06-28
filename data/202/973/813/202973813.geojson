@@ -2,13 +2,14 @@
   "id": 202973813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.696319,37.419337,-94.696319,37.419337",
     "geom:latitude":37.419337,
     "geom:longitude":-94.696319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 N Michigan St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":202973813,
-    "wof:lastmodified":1449061642,
+    "wof:lastmodified":1466520337,
     "wof:name":"Sewers Drains & More",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-94.696319,37.419337,-94.696319,37.419337],
+  "bbox": [
+    -94.696319,
+    37.419337,
+    -94.696319,
+    37.419337
+],
   "geometry": {"coordinates":[-94.696319,37.419337],"type":"Point"}
 }

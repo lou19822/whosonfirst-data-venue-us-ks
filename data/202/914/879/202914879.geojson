@@ -2,13 +2,14 @@
   "id": 202914879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.127258,39.565201,-95.127258,39.565201",
     "geom:latitude":39.565201,
     "geom:longitude":-95.127258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S 10th St",
     "sg:city":"Atchison",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202914879,
-    "wof:lastmodified":1449061080,
+    "wof:lastmodified":1466519440,
     "wof:name":"Atchison Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.127258,39.565201,-95.127258,39.565201],
+  "bbox": [
+    -95.127258,
+    39.565201,
+    -95.127258,
+    39.565201
+],
   "geometry": {"coordinates":[-95.127258,39.565201],"type":"Point"}
 }

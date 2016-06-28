@@ -2,13 +2,14 @@
   "id": 202941785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.089671,39.785535,-95.089671,39.785535",
     "geom:latitude":39.785535,
     "geom:longitude":-95.089671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Main St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202941785,
-    "wof:lastmodified":1449061632,
+    "wof:lastmodified":1466519997,
     "wof:name":"First Bank Of Troy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-95.089671,39.785535,-95.089671,39.785535],
+  "bbox": [
+    -95.089671,
+    39.785535,
+    -95.089671,
+    39.785535
+],
   "geometry": {"coordinates":[-95.089671,39.785535],"type":"Point"}
 }

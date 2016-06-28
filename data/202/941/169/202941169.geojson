@@ -2,13 +2,14 @@
   "id": 202941169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.664945,38.778159,-94.664945,38.778159",
     "geom:latitude":38.778159,
     "geom:longitude":-94.664945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6645 W 193rd St",
     "sg:city":"Stilwell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202941169,
-    "wof:lastmodified":1449061633,
+    "wof:lastmodified":1466519985,
     "wof:name":"Rodlund Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.664945,38.778159,-94.664945,38.778159],
+  "bbox": [
+    -94.664945,
+    38.778159,
+    -94.664945,
+    38.778159
+],
   "geometry": {"coordinates":[-94.664945,38.778159],"type":"Point"}
 }

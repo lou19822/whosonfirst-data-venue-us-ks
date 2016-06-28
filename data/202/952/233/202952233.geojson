@@ -2,13 +2,14 @@
   "id": 202952233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.75303,38.954079,-94.75303,38.954079",
     "geom:latitude":38.954079,
     "geom:longitude":-94.75303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14368 W 96th Ter",
     "sg:city":"Lenexa",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202952233,
-    "wof:lastmodified":1449061928,
+    "wof:lastmodified":1466520158,
     "wof:name":"Thermal King Windows",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.75303,38.954079,-94.75303,38.954079],
+  "bbox": [
+    -94.75303,
+    38.954079,
+    -94.75303,
+    38.954079
+],
   "geometry": {"coordinates":[-94.75303,38.954079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202945579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.714731,39.0229,-94.714731,39.0229",
     "geom:latitude":39.0229,
     "geom:longitude":-94.714731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11113 Johnson Dr",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202945579,
-    "wof:lastmodified":1449060331,
+    "wof:lastmodified":1466520106,
     "wof:name":"Vise Joe B",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "probate"
     ]
 },
-  "bbox": [-94.714731,39.0229,-94.714731,39.0229],
+  "bbox": [
+    -94.714731,
+    39.0229,
+    -94.714731,
+    39.0229
+],
   "geometry": {"coordinates":[-94.714731,39.0229],"type":"Point"}
 }

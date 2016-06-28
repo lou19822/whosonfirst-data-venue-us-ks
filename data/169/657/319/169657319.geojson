@@ -2,13 +2,14 @@
   "id": 169657319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.574645,38.82025,-97.574645,38.82025",
     "geom:latitude":38.82025,
     "geom:longitude":-97.574645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"942 Barlow Dr",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169657319,
-    "wof:lastmodified":1449033048,
+    "wof:lastmodified":1466520402,
     "wof:name":"Dan Daley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.574645,38.82025,-97.574645,38.82025],
+  "bbox": [
+    -97.574645,
+    38.82025,
+    -97.574645,
+    38.82025
+],
   "geometry": {"coordinates":[-97.574645,38.82025],"type":"Point"}
 }

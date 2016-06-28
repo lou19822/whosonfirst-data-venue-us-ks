@@ -2,13 +2,14 @@
   "id": 202941317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.655252,38.840091,-94.655252,38.840091",
     "geom:latitude":38.840091,
     "geom:longitude":-94.655252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 W 159th St",
     "sg:city":"Stilwell",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":202941317,
-    "wof:lastmodified":1449061633,
+    "wof:lastmodified":1466519989,
     "wof:name":"Blue Valley Unified School District No 229",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.655252,38.840091,-94.655252,38.840091],
+  "bbox": [
+    -94.655252,
+    38.840091,
+    -94.655252,
+    38.840091
+],
   "geometry": {"coordinates":[-94.655252,38.840091],"type":"Point"}
 }

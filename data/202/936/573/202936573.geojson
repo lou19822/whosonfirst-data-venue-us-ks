@@ -2,13 +2,14 @@
   "id": 202936573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.874008,38.582699,-94.874008,38.582699",
     "geom:latitude":38.582699,
     "geom:longitude":-94.874008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N Pearl St Suite B",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":202936573,
-    "wof:lastmodified":1449060958,
+    "wof:lastmodified":1466519868,
     "wof:name":"Mr. Electric Of Miami And Johnson County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.874008,38.582699,-94.874008,38.582699],
+  "bbox": [
+    -94.874008,
+    38.582699,
+    -94.874008,
+    38.582699
+],
   "geometry": {"coordinates":[-94.874008,38.582699],"type":"Point"}
 }

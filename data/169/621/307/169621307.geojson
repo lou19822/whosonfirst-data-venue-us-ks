@@ -2,13 +2,14 @@
   "id": 169621307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.866831,37.983768,-100.866831,37.983768",
     "geom:latitude":37.983768,
     "geom:longitude":-100.866831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 N 6th St",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169621307,
-    "wof:lastmodified":1449035557,
+    "wof:lastmodified":1466519951,
     "wof:name":"Tunis Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trade"
     ]
 },
-  "bbox": [-100.866831,37.983768,-100.866831,37.983768],
+  "bbox": [
+    -100.866831,
+    37.983768,
+    -100.866831,
+    37.983768
+],
   "geometry": {"coordinates":[-100.866831,37.983768],"type":"Point"}
 }

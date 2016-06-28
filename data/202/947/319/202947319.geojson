@@ -2,13 +2,14 @@
   "id": 202947319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.627763,38.944931,-94.627763,38.944931",
     "geom:latitude":38.944931,
     "geom:longitude":-94.627763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10205 Howe Dr",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":202947319,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1466520106,
     "wof:name":"W H E Homes",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "builder"
     ]
 },
-  "bbox": [-94.627763,38.944931,-94.627763,38.944931],
+  "bbox": [
+    -94.627763,
+    38.944931,
+    -94.627763,
+    38.944931
+],
   "geometry": {"coordinates":[-94.627763,38.944931],"type":"Point"}
 }

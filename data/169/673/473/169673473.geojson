@@ -2,13 +2,14 @@
   "id": 169673473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.214355,38.82006,-95.214355,38.82006",
     "geom:latitude":38.82006,
     "geom:longitude":-95.214355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 E 1550 Rd",
     "sg:city":"Baldwin City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169673473,
-    "wof:lastmodified":1449033956,
+    "wof:lastmodified":1466520504,
     "wof:name":"Gs Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.214355,38.82006,-95.214355,38.82006],
+  "bbox": [
+    -95.214355,
+    38.82006,
+    -95.214355,
+    38.82006
+],
   "geometry": {"coordinates":[-95.214355,38.82006],"type":"Point"}
 }

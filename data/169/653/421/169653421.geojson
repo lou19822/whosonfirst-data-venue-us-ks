@@ -2,13 +2,14 @@
   "id": 169653421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.935379,38.059286,-97.935379,38.059286",
     "geom:latitude":38.059286,
     "geom:longitude":-97.935379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 N Adams St",
     "sg:city":"Hutchinson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169653421,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466520375,
     "wof:name":"Mid Plains Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.935379,38.059286,-97.935379,38.059286],
+  "bbox": [
+    -97.935379,
+    38.059286,
+    -97.935379,
+    38.059286
+],
   "geometry": {"coordinates":[-97.935379,38.059286],"type":"Point"}
 }

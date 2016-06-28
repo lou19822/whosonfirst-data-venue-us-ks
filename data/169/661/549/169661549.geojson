@@ -2,13 +2,14 @@
   "id": 169661549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.783505,38.881306,-94.783505,38.881306",
     "geom:latitude":38.881306,
     "geom:longitude":-94.783505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 E Crossroads Ln",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169661549,
-    "wof:lastmodified":1449035597,
+    "wof:lastmodified":1466520444,
     "wof:name":"Image Makers Co",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.783505,38.881306,-94.783505,38.881306],
-  "geometry": {"coordinates":[-94.783505,38.881306],"type":"Point"}
+  "bbox": [
+    -94.783505,
+    38.881306,
+    -94.783505,
+    38.881306
+],
+  "geometry": {"coordinates":[-94.78350500000001,38.881306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169646359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.632736,37.539238,-100.632736,37.539238",
     "geom:latitude":37.539238,
     "geom:longitude":-100.632736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Cartlidge Ave",
     "sg:city":"Copeland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169646359,
-    "wof:lastmodified":1449032606,
+    "wof:lastmodified":1466520319,
     "wof:name":"National Missionary Convention",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.632736,37.539238,-100.632736,37.539238],
-  "geometry": {"coordinates":[-100.632736,37.539238],"type":"Point"}
+  "bbox": [
+    -100.632736,
+    37.539238,
+    -100.632736,
+    37.539238
+],
+  "geometry": {"coordinates":[-100.63273599999999,37.539238],"type":"Point"}
 }

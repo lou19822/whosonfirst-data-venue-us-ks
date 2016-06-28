@@ -2,13 +2,14 @@
   "id": 202951529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.74843,38.934513,-94.74843,38.934513",
     "geom:latitude":38.934513,
     "geom:longitude":-94.74843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14124 W 107th St",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202951529,
-    "wof:lastmodified":1449060207,
+    "wof:lastmodified":1466520154,
     "wof:name":"Jennings Tool & Manufacturing Associates",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "finishing"
     ]
 },
-  "bbox": [-94.74843,38.934513,-94.74843,38.934513],
+  "bbox": [
+    -94.74843,
+    38.934513,
+    -94.74843,
+    38.934513
+],
   "geometry": {"coordinates":[-94.74843,38.934513],"type":"Point"}
 }

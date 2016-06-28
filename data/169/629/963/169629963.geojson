@@ -2,13 +2,14 @@
   "id": 169629963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.309741,38.891834,-99.309741,38.891834",
     "geom:latitude":38.891834,
     "geom:longitude":-99.309741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 E 32nd St",
     "sg:city":"Hays",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169629963,
-    "wof:lastmodified":1449035183,
+    "wof:lastmodified":1466520151,
     "wof:name":"Lime Lites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.309741,38.891834,-99.309741,38.891834],
+  "bbox": [
+    -99.309741,
+    38.891834,
+    -99.309741,
+    38.891834
+],
   "geometry": {"coordinates":[-99.309741,38.891834],"type":"Point"}
 }

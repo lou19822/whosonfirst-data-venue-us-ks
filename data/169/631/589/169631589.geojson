@@ -2,13 +2,14 @@
   "id": 169631589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.738137,37.643914,-98.738137,37.643914",
     "geom:latitude":37.643914,
     "geom:longitude":-98.738137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Ninnescah St",
     "sg:city":"Pratt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169631589,
-    "wof:lastmodified":1449033708,
+    "wof:lastmodified":1466520162,
     "wof:name":"County Road Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.738137,37.643914,-98.738137,37.643914],
-  "geometry": {"coordinates":[-98.738137,37.643914],"type":"Point"}
+  "bbox": [
+    -98.738137,
+    37.643914,
+    -98.738137,
+    37.643914
+],
+  "geometry": {"coordinates":[-98.73813699999999,37.643914],"type":"Point"}
 }

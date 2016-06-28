@@ -2,13 +2,14 @@
   "id": 202975237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.706337,37.409119,-94.706337,37.409119",
     "geom:latitude":37.409119,
     "geom:longitude":-94.706337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Pine St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202975237,
-    "wof:lastmodified":1449062303,
+    "wof:lastmodified":1466520310,
     "wof:name":"Pittsburg Police Dept",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "village"
     ]
 },
-  "bbox": [-94.706337,37.409119,-94.706337,37.409119],
+  "bbox": [
+    -94.706337,
+    37.409119,
+    -94.706337,
+    37.409119
+],
   "geometry": {"coordinates":[-94.706337,37.409119],"type":"Point"}
 }

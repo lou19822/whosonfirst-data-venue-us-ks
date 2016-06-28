@@ -2,13 +2,14 @@
   "id": 169651253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.562087,39.17267,-96.562087,39.17267",
     "geom:latitude":39.17267,
     "geom:longitude":-96.562087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Riley Ln",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169651253,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466520366,
     "wof:name":"B Tan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-96.562087,39.17267,-96.562087,39.17267],
-  "geometry": {"coordinates":[-96.562087,39.17267],"type":"Point"}
+  "bbox": [
+    -96.562087,
+    39.17267,
+    -96.562087,
+    39.17267
+],
+  "geometry": {"coordinates":[-96.56208700000001,39.17267],"type":"Point"}
 }

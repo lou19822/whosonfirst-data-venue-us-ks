@@ -2,13 +2,14 @@
   "id": 169654829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.412404,37.9296,-95.412404,37.9296",
     "geom:latitude":37.9296,
     "geom:longitude":-95.412404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Industrial Rd",
     "sg:city":"Iola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169654829,
-    "wof:lastmodified":1449033793,
+    "wof:lastmodified":1466520411,
     "wof:name":"Store Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-95.412404,37.9296,-95.412404,37.9296],
+  "bbox": [
+    -95.412404,
+    37.9296,
+    -95.412404,
+    37.9296
+],
   "geometry": {"coordinates":[-95.412404,37.9296],"type":"Point"}
 }

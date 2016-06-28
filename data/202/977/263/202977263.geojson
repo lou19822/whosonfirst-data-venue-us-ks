@@ -2,13 +2,14 @@
   "id": 202977263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.106149,37.708518,-97.106149,37.708518",
     "geom:latitude":37.708518,
     "geom:longitude":-97.106149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 E 13th St",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202977263,
-    "wof:lastmodified":1449062730,
+    "wof:lastmodified":1466529901,
     "wof:name":"West Plumbing",
     "wof:parent_id":85834115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-97.106149,37.708518,-97.106149,37.708518],
+  "bbox": [
+    -97.106149,
+    37.708518,
+    -97.106149,
+    37.708518
+],
   "geometry": {"coordinates":[-97.106149,37.708518],"type":"Point"}
 }

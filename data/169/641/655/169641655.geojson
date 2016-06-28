@@ -2,13 +2,14 @@
   "id": 169641655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.662762,37.360128,-94.662762,37.360128",
     "geom:latitude":37.360128,
     "geom:longitude":-94.662762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 E 515th Ave",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169641655,
-    "wof:lastmodified":1449035168,
+    "wof:lastmodified":1466520288,
     "wof:name":"Mikes Tree Care & Spraying",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.662762,37.360128,-94.662762,37.360128],
+  "bbox": [
+    -94.662762,
+    37.360128,
+    -94.662762,
+    37.360128
+],
   "geometry": {"coordinates":[-94.662762,37.360128],"type":"Point"}
 }

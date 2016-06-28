@@ -2,13 +2,14 @@
   "id": 169655197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.01747,37.739282,-100.01747,37.739282",
     "geom:latitude":37.739282,
     "geom:longitude":-100.01747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 E Market St",
     "sg:city":"Dodge City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169655197,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1466520386,
     "wof:name":"Southwest Kansas Ares Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.01747,37.739282,-100.01747,37.739282],
+  "bbox": [
+    -100.01747,
+    37.739282,
+    -100.01747,
+    37.739282
+],
   "geometry": {"coordinates":[-100.01747,37.739282],"type":"Point"}
 }

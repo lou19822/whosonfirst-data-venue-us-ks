@@ -2,13 +2,14 @@
   "id": 202961821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.651641,39.016,-95.651641,39.016",
     "geom:latitude":39.016,
     "geom:longitude":-95.651641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 SE California Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202961821,
-    "wof:lastmodified":1449062580,
+    "wof:lastmodified":1466520248,
     "wof:name":"Advanced Computer Solutions",
     "wof:parent_id":85881543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-95.651641,39.016,-95.651641,39.016],
+  "bbox": [
+    -95.651641,
+    39.016,
+    -95.651641,
+    39.016
+],
   "geometry": {"coordinates":[-95.651641,39.016],"type":"Point"}
 }

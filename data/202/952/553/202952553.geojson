@@ -2,13 +2,14 @@
   "id": 202952553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.741244,38.98496,-94.741244,38.98496",
     "geom:latitude":38.98496,
     "geom:longitude":-94.741244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7932 Haskins St.",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202952553,
-    "wof:lastmodified":1449061924,
+    "wof:lastmodified":1466520176,
     "wof:name":"Bark Busters Home Dog Training Kansas City",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [-94.741244,38.98496,-94.741244,38.98496],
-  "geometry": {"coordinates":[-94.741244,38.98496],"type":"Point"}
+  "bbox": [
+    -94.741244,
+    38.98496,
+    -94.741244,
+    38.98496
+],
+  "geometry": {"coordinates":[-94.74124399999999,38.98496],"type":"Point"}
 }

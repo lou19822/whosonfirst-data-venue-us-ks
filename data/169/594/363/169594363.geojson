@@ -2,13 +2,14 @@
   "id": 169594363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.770339,38.910077,-94.770339,38.910077",
     "geom:latitude":38.910077,
     "geom:longitude":-94.770339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12047 S Strang Line Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169594363,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466529850,
     "wof:name":"Building & Loan Mortgage Co",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-94.770339,38.910077,-94.770339,38.910077],
-  "geometry": {"coordinates":[-94.770339,38.910077],"type":"Point"}
+  "bbox": [
+    -94.770339,
+    38.910077,
+    -94.770339,
+    38.910077
+],
+  "geometry": {"coordinates":[-94.77033900000001,38.910077],"type":"Point"}
 }

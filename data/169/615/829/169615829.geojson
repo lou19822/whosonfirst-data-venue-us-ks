@@ -2,13 +2,14 @@
   "id": 169615829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.298821,37.648865,-97.298821,37.648865",
     "geom:latitude":37.648865,
     "geom:longitude":-97.298821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 S Hillside St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169615829,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466519834,
     "wof:name":"Four Star Asian Market",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.298821,37.648865,-97.298821,37.648865],
+  "bbox": [
+    -97.298821,
+    37.648865,
+    -97.298821,
+    37.648865
+],
   "geometry": {"coordinates":[-97.298821,37.648865],"type":"Point"}
 }

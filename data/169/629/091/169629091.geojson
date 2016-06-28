@@ -2,13 +2,14 @@
   "id": 169629091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.307032,37.72279,-97.307032,37.72279",
     "geom:latitude":37.72279,
     "geom:longitude":-97.307032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 E 21st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169629091,
-    "wof:lastmodified":1449035183,
+    "wof:lastmodified":1466520118,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-97.307032,37.72279,-97.307032,37.72279],
-  "geometry": {"coordinates":[-97.307032,37.72279],"type":"Point"}
+  "bbox": [
+    -97.307032,
+    37.72279,
+    -97.307032,
+    37.72279
+],
+  "geometry": {"coordinates":[-97.30703200000001,37.72279],"type":"Point"}
 }

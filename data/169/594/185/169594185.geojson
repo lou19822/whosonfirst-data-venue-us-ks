@@ -2,13 +2,14 @@
   "id": 169594185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.425699,37.656554,-97.425699,37.656554",
     "geom:latitude":37.656554,
     "geom:longitude":-97.425699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 S Airport Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169594185,
-    "wof:lastmodified":1449033163,
+    "wof:lastmodified":1466529848,
     "wof:name":"Yingling Aviation Inc",
     "wof:parent_id":85852945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "avionics"
     ]
 },
-  "bbox": [-97.425699,37.656554,-97.425699,37.656554],
-  "geometry": {"coordinates":[-97.425699,37.656554],"type":"Point"}
+  "bbox": [
+    -97.425699,
+    37.656554,
+    -97.425699,
+    37.656554
+],
+  "geometry": {"coordinates":[-97.42569899999999,37.656554],"type":"Point"}
 }

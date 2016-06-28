@@ -2,13 +2,14 @@
   "id": 202963459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.661538,39.04425,-95.661538,39.04425",
     "geom:latitude":39.04425,
     "geom:longitude":-95.661538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 SE 10th Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202963459,
-    "wof:lastmodified":1449060358,
+    "wof:lastmodified":1466520239,
     "wof:name":"Topeka Unified School District 501",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.661538,39.04425,-95.661538,39.04425],
-  "geometry": {"coordinates":[-95.661538,39.04425],"type":"Point"}
+  "bbox": [
+    -95.661538,
+    39.04425,
+    -95.661538,
+    39.04425
+],
+  "geometry": {"coordinates":[-95.66153799999999,39.04425],"type":"Point"}
 }

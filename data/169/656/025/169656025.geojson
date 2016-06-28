@@ -2,13 +2,14 @@
   "id": 169656025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.779473,38.878245,-94.779473,38.878245",
     "geom:latitude":38.878245,
     "geom:longitude":-94.779473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13839 S Mur-Len Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169656025,
-    "wof:lastmodified":1449034838,
+    "wof:lastmodified":1466520381,
     "wof:name":"Lifeline Counseling Ctr",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-94.779473,38.878245,-94.779473,38.878245],
+  "bbox": [
+    -94.779473,
+    38.878245,
+    -94.779473,
+    38.878245
+],
   "geometry": {"coordinates":[-94.779473,38.878245],"type":"Point"}
 }

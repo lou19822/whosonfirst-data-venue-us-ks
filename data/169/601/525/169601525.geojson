@@ -2,13 +2,14 @@
   "id": 169601525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.862235,37.810948,-96.862235,37.810948",
     "geom:latitude":37.810948,
     "geom:longitude":-96.862235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 S High St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169601525,
-    "wof:lastmodified":1449034149,
+    "wof:lastmodified":1466519458,
     "wof:name":"American Assn Univ Women",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.862235,37.810948,-96.862235,37.810948],
+  "bbox": [
+    -96.862235,
+    37.810948,
+    -96.862235,
+    37.810948
+],
   "geometry": {"coordinates":[-96.862235,37.810948],"type":"Point"}
 }

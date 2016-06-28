@@ -2,13 +2,14 @@
   "id": 169622997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051323,39.813542,-97.051323,39.813542",
     "geom:latitude":39.813542,
     "geom:longitude":-97.051323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 7th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169622997,
-    "wof:lastmodified":1449035367,
+    "wof:lastmodified":1466520014,
     "wof:name":"M & M Tire LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-97.051323,39.813542,-97.051323,39.813542],
+  "bbox": [
+    -97.051323,
+    39.813542,
+    -97.051323,
+    39.813542
+],
   "geometry": {"coordinates":[-97.051323,39.813542],"type":"Point"}
 }

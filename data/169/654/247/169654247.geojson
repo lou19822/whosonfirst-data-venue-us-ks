@@ -2,13 +2,14 @@
   "id": 169654247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.246334,38.276826,-95.246334,38.276826",
     "geom:latitude":38.276826,
     "geom:longitude":-95.246334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 W 8th Ave",
     "sg:city":"Garnett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169654247,
-    "wof:lastmodified":1449033793,
+    "wof:lastmodified":1466520390,
     "wof:name":"Thread Designs & Sew-On",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.246334,38.276826,-95.246334,38.276826],
+  "bbox": [
+    -95.246334,
+    38.276826,
+    -95.246334,
+    38.276826
+],
   "geometry": {"coordinates":[-95.246334,38.276826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202933565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.638561,38.672639,-94.638561,38.672639",
     "geom:latitude":38.672639,
     "geom:longitude":-94.638561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25026 Mission Belleview Rd",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":202933565,
-    "wof:lastmodified":1449060632,
+    "wof:lastmodified":1466519785,
     "wof:name":"Mona Rene Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "photographic"
     ]
 },
-  "bbox": [-94.638561,38.672639,-94.638561,38.672639],
+  "bbox": [
+    -94.638561,
+    38.672639,
+    -94.638561,
+    38.672639
+],
   "geometry": {"coordinates":[-94.638561,38.672639],"type":"Point"}
 }

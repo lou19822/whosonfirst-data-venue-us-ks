@@ -2,13 +2,14 @@
   "id": 202980269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.340741,37.700912,-97.340741,37.700912",
     "geom:latitude":37.700912,
     "geom:longitude":-97.340741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 N Wichita St",
     "sg:city":"Wichita",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202980269,
-    "wof:lastmodified":1449060282,
+    "wof:lastmodified":1466520347,
     "wof:name":"Spade Appliance Service",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.340741,37.700912,-97.340741,37.700912],
-  "geometry": {"coordinates":[-97.340741,37.700912],"type":"Point"}
+  "bbox": [
+    -97.340741,
+    37.700912,
+    -97.340741,
+    37.700912
+],
+  "geometry": {"coordinates":[-97.34074099999999,37.700912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169595801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.326757,37.565131,-101.326757,37.565131",
     "geom:latitude":37.565131,
     "geom:longitude":-101.326757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1556 S Rd L",
     "sg:city":"Ulysses",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169595801,
-    "wof:lastmodified":1449035637,
+    "wof:lastmodified":1466529865,
     "wof:name":"Royal Flush Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.326757,37.565131,-101.326757,37.565131],
+  "bbox": [
+    -101.326757,
+    37.565131,
+    -101.326757,
+    37.565131
+],
   "geometry": {"coordinates":[-101.326757,37.565131],"type":"Point"}
 }

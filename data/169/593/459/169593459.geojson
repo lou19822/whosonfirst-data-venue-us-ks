@@ -2,13 +2,14 @@
   "id": 169593459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.785636,38.289599,-97.785636,38.289599",
     "geom:latitude":38.289599,
     "geom:longitude":-97.785636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Comanche Rd",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169593459,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466529839,
     "wof:name":"Donald & Kathy Penner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.785636,38.289599,-97.785636,38.289599],
+  "bbox": [
+    -97.785636,
+    38.289599,
+    -97.785636,
+    38.289599
+],
   "geometry": {"coordinates":[-97.785636,38.289599],"type":"Point"}
 }

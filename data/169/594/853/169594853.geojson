@@ -2,13 +2,14 @@
   "id": 169594853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.655371,39.564582,-97.655371,39.564582",
     "geom:latitude":39.564582,
     "geom:longitude":-97.655371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 E 13th St",
     "sg:city":"Concordia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169594853,
-    "wof:lastmodified":1449033164,
+    "wof:lastmodified":1466529854,
     "wof:name":"L K & W Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.655371,39.564582,-97.655371,39.564582],
+  "bbox": [
+    -97.655371,
+    39.564582,
+    -97.655371,
+    39.564582
+],
   "geometry": {"coordinates":[-97.655371,39.564582],"type":"Point"}
 }

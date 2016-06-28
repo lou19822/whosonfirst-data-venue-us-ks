@@ -2,13 +2,14 @@
   "id": 169653683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.669444,38.993193,-94.669444,38.993193",
     "geom:latitude":38.993193,
     "geom:longitude":-94.669444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7262 W 75th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169653683,
-    "wof:lastmodified":1449032918,
+    "wof:lastmodified":1466520387,
     "wof:name":"Bluhm Monument Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-94.669444,38.993193,-94.669444,38.993193],
+  "bbox": [
+    -94.669444,
+    38.993193,
+    -94.669444,
+    38.993193
+],
   "geometry": {"coordinates":[-94.669444,38.993193],"type":"Point"}
 }

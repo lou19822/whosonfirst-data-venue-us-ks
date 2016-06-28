@@ -2,13 +2,14 @@
   "id": 169634689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.677053,37.416476,-94.677053,37.416476",
     "geom:latitude":37.416476,
     "geom:longitude":-94.677053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Canterbury Rd",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169634689,
-    "wof:lastmodified":1449034258,
+    "wof:lastmodified":1466520216,
     "wof:name":"D & M Ryan Inc",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-94.677053,37.416476,-94.677053,37.416476],
+  "bbox": [
+    -94.677053,
+    37.416476,
+    -94.677053,
+    37.416476
+],
   "geometry": {"coordinates":[-94.677053,37.416476],"type":"Point"}
 }

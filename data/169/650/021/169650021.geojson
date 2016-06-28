@@ -2,13 +2,14 @@
   "id": 169650021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.631947,39.056907,-94.631947,39.056907",
     "geom:latitude":39.056907,
     "geom:longitude":-94.631947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Lake Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169650021,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466520359,
     "wof:name":"Power Equipment Sales",
     "wof:parent_id":85866785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.631947,39.056907,-94.631947,39.056907],
+  "bbox": [
+    -94.631947,
+    39.056907,
+    -94.631947,
+    39.056907
+],
   "geometry": {"coordinates":[-94.631947,39.056907],"type":"Point"}
 }

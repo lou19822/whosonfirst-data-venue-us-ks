@@ -2,13 +2,14 @@
   "id": 202966483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.711631,39.015079,-95.711631,39.015079",
     "geom:latitude":39.015079,
     "geom:longitude":-95.711631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 SW 29th St Ste A",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202966483,
-    "wof:lastmodified":1449060127,
+    "wof:lastmodified":1466520280,
     "wof:name":"Robb Co",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "broker"
     ]
 },
-  "bbox": [-95.711631,39.015079,-95.711631,39.015079],
+  "bbox": [
+    -95.711631,
+    39.015079,
+    -95.711631,
+    39.015079
+],
   "geometry": {"coordinates":[-95.711631,39.015079],"type":"Point"}
 }

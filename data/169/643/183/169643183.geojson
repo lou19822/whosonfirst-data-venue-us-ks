@@ -2,13 +2,14 @@
   "id": 169643183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.612406,38.856084,-97.612406,38.856084",
     "geom:latitude":38.856084,
     "geom:longitude":-97.612406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 W Pacific Ave",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169643183,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466520289,
     "wof:name":"L & M Automotive Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [-97.612406,38.856084,-97.612406,38.856084],
-  "geometry": {"coordinates":[-97.612406,38.856084],"type":"Point"}
+  "bbox": [
+    -97.612406,
+    38.856084,
+    -97.612406,
+    38.856084
+],
+  "geometry": {"coordinates":[-97.61240599999999,38.856084],"type":"Point"}
 }

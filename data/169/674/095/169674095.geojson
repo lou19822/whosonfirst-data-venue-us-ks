@@ -2,13 +2,14 @@
   "id": 169674095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.69505,39.022176,-94.69505,39.022176",
     "geom:latitude":39.022176,
     "geom:longitude":-94.69505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 Johnson Dr",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169674095,
-    "wof:lastmodified":1449035138,
+    "wof:lastmodified":1466520495,
     "wof:name":"Small Business Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-94.69505,39.022176,-94.69505,39.022176],
-  "geometry": {"coordinates":[-94.69505,39.022176],"type":"Point"}
+  "bbox": [
+    -94.69505,
+    39.022176,
+    -94.69505,
+    39.022176
+],
+  "geometry": {"coordinates":[-94.69504999999999,39.022176],"type":"Point"}
 }

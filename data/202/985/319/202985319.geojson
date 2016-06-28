@@ -2,13 +2,14 @@
   "id": 202985319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.672412,38.376621,-97.672412,38.376621",
     "geom:latitude":38.376621,
     "geom:longitude":-97.672412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 W 1st St",
     "sg:city":"Mcpherson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202985319,
-    "wof:lastmodified":1449061379,
+    "wof:lastmodified":1466520349,
     "wof:name":"Troy B Wiens DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-97.672412,38.376621,-97.672412,38.376621],
-  "geometry": {"coordinates":[-97.672412,38.376621],"type":"Point"}
+  "bbox": [
+    -97.672412,
+    38.376621,
+    -97.672412,
+    38.376621
+],
+  "geometry": {"coordinates":[-97.67241199999999,38.376621],"type":"Point"}
 }

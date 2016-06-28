@@ -2,13 +2,14 @@
   "id": 202939395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.710333,38.176022,-94.710333,38.176022",
     "geom:latitude":38.176022,
     "geom:longitude":-94.710333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Main St",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":202939395,
-    "wof:lastmodified":1449060866,
+    "wof:lastmodified":1466519935,
     "wof:name":"Alco Discount",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.710333,38.176022,-94.710333,38.176022],
-  "geometry": {"coordinates":[-94.710333,38.176022],"type":"Point"}
+  "bbox": [
+    -94.710333,
+    38.176022,
+    -94.710333,
+    38.176022
+],
+  "geometry": {"coordinates":[-94.71033300000001,38.176022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169606753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.694414,39.018518,-94.694414,39.018518",
     "geom:latitude":39.018518,
     "geom:longitude":-94.694414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5948 Merriam Dr",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169606753,
-    "wof:lastmodified":1449033201,
+    "wof:lastmodified":1466519580,
     "wof:name":"Tuff Turf Landscape Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.694414,39.018518,-94.694414,39.018518],
-  "geometry": {"coordinates":[-94.694414,39.018518],"type":"Point"}
+  "bbox": [
+    -94.694414,
+    39.018518,
+    -94.694414,
+    39.018518
+],
+  "geometry": {"coordinates":[-94.69441399999999,39.018518],"type":"Point"}
 }

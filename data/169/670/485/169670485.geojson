@@ -2,13 +2,14 @@
   "id": 169670485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.72364,38.994298,-94.72364,38.994298",
     "geom:latitude":38.994298,
     "geom:longitude":-94.72364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7455 Quivira Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169670485,
-    "wof:lastmodified":1449033185,
+    "wof:lastmodified":1466520474,
     "wof:name":"Greco Art Custom Framing",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [-94.72364,38.994298,-94.72364,38.994298],
+  "bbox": [
+    -94.72364,
+    38.994298,
+    -94.72364,
+    38.994298
+],
   "geometry": {"coordinates":[-94.72364,38.994298],"type":"Point"}
 }

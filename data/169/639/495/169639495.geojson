@@ -2,13 +2,14 @@
   "id": 169639495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.625084,38.97715,-94.625084,38.97715",
     "geom:latitude":38.97715,
     "geom:longitude":-94.625084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3216 W 84th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169639495,
-    "wof:lastmodified":1449035951,
+    "wof:lastmodified":1466520260,
     "wof:name":"Paula Longan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-94.625084,38.97715,-94.625084,38.97715],
+  "bbox": [
+    -94.625084,
+    38.97715,
+    -94.625084,
+    38.97715
+],
   "geometry": {"coordinates":[-94.625084,38.97715],"type":"Point"}
 }

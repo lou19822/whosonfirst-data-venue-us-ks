@@ -2,13 +2,14 @@
   "id": 169657895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.321277,37.753179,-97.321277,37.753179",
     "geom:latitude":37.753179,
     "geom:longitude":-97.321277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3930 Bridgeport Cir",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169657895,
-    "wof:lastmodified":1449033051,
+    "wof:lastmodified":1466520416,
     "wof:name":"Southwest Paper Co",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "paper"
     ]
 },
-  "bbox": [-97.321277,37.753179,-97.321277,37.753179],
-  "geometry": {"coordinates":[-97.321277,37.753179],"type":"Point"}
+  "bbox": [
+    -97.321277,
+    37.753179,
+    -97.321277,
+    37.753179
+],
+  "geometry": {"coordinates":[-97.32127699999999,37.753179],"type":"Point"}
 }

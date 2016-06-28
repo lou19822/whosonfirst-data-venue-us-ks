@@ -2,13 +2,14 @@
   "id": 169607123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.749142,38.959882,-94.749142,38.959882",
     "geom:latitude":38.959882,
     "geom:longitude":-94.749142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14100 W 93rd St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169607123,
-    "wof:lastmodified":1449033122,
+    "wof:lastmodified":1466519598,
     "wof:name":"Dana Johnson",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.749142,38.959882,-94.749142,38.959882],
-  "geometry": {"coordinates":[-94.749142,38.959882],"type":"Point"}
+  "bbox": [
+    -94.749142,
+    38.959882,
+    -94.749142,
+    38.959882
+],
+  "geometry": {"coordinates":[-94.74914200000001,38.959882],"type":"Point"}
 }

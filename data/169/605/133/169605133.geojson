@@ -2,13 +2,14 @@
   "id": 169605133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.381806,37.660377,-97.381806,37.660377",
     "geom:latitude":37.660377,
     "geom:longitude":-97.381806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 S Southwest Blvd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169605133,
-    "wof:lastmodified":1449034292,
+    "wof:lastmodified":1466519510,
     "wof:name":"Wholesale Carpets Of Wichita",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.381806,37.660377,-97.381806,37.660377],
+  "bbox": [
+    -97.381806,
+    37.660377,
+    -97.381806,
+    37.660377
+],
   "geometry": {"coordinates":[-97.381806,37.660377],"type":"Point"}
 }

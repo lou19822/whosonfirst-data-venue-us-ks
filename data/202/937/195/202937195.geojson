@@ -2,13 +2,14 @@
   "id": 202937195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.856356,38.584174,-94.856356,38.584174",
     "geom:latitude":38.584174,
     "geom:longitude":-94.856356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Industrial Park Dr",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202937195,
-    "wof:lastmodified":1449060590,
+    "wof:lastmodified":1466519878,
     "wof:name":"Flex-A-Dent Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.856356,38.584174,-94.856356,38.584174],
-  "geometry": {"coordinates":[-94.856356,38.584174],"type":"Point"}
+  "bbox": [
+    -94.856356,
+    38.584174,
+    -94.856356,
+    38.584174
+],
+  "geometry": {"coordinates":[-94.85635600000001,38.584174],"type":"Point"}
 }

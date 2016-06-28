@@ -2,13 +2,14 @@
   "id": 169655875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.77644,38.230891,-97.77644,38.230891",
     "geom:latitude":38.230891,
     "geom:longitude":-97.77644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Gordon St",
     "sg:city":"Inman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169655875,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1466520419,
     "wof:name":"Inman Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.77644,38.230891,-97.77644,38.230891],
-  "geometry": {"coordinates":[-97.77644,38.230891],"type":"Point"}
+  "bbox": [
+    -97.77644,
+    38.230891,
+    -97.77644,
+    38.230891
+],
+  "geometry": {"coordinates":[-97.77643999999999,38.230891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169592815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.615188,38.919517,-94.615188,38.919517",
     "geom:latitude":38.919517,
     "geom:longitude":-94.615188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11419 Manor Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169592815,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466520184,
     "wof:name":"Arria Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [-94.615188,38.919517,-94.615188,38.919517],
+  "bbox": [
+    -94.615188,
+    38.919517,
+    -94.615188,
+    38.919517
+],
   "geometry": {"coordinates":[-94.615188,38.919517],"type":"Point"}
 }

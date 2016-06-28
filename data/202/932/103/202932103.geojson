@@ -2,13 +2,14 @@
   "id": 202932103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.693863,38.563259,-94.693863,38.563259",
     "geom:latitude":38.563259,
     "geom:longitude":-94.693863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11440 W 311th St",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202932103,
-    "wof:lastmodified":1449061053,
+    "wof:lastmodified":1466529886,
     "wof:name":"Walnut Creek Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.693863,38.563259,-94.693863,38.563259],
-  "geometry": {"coordinates":[-94.693863,38.563259],"type":"Point"}
+  "bbox": [
+    -94.693863,
+    38.563259,
+    -94.693863,
+    38.563259
+],
+  "geometry": {"coordinates":[-94.69386299999999,38.563259],"type":"Point"}
 }

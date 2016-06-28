@@ -2,13 +2,14 @@
   "id": 169671255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.792988,37.903375,-97.792988,37.903375",
     "geom:latitude":37.903375,
     "geom:longitude":-97.792988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13206 S Willison Rd",
     "sg:city":"Haven",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169671255,
-    "wof:lastmodified":1449033453,
+    "wof:lastmodified":1466520474,
     "wof:name":"Haven Steel Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spring"
     ]
 },
-  "bbox": [-97.792988,37.903375,-97.792988,37.903375],
-  "geometry": {"coordinates":[-97.792988,37.903375],"type":"Point"}
+  "bbox": [
+    -97.792988,
+    37.903375,
+    -97.792988,
+    37.903375
+],
+  "geometry": {"coordinates":[-97.79298799999999,37.903375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169626011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44451,37.743826,-97.44451,37.743826",
     "geom:latitude":37.743826,
     "geom:longitude":-97.44451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3224 N Tyler Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169626011,
-    "wof:lastmodified":1449035972,
+    "wof:lastmodified":1466529890,
     "wof:name":"Hole In Wall Drywall",
     "wof:parent_id":85872803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.44451,37.743826,-97.44451,37.743826],
-  "geometry": {"coordinates":[-97.44451,37.743826],"type":"Point"}
+  "bbox": [
+    -97.44451,
+    37.743826,
+    -97.44451,
+    37.743826
+],
+  "geometry": {"coordinates":[-97.44450999999999,37.743826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169616285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.692955,39.057256,-95.692955,39.057256",
     "geom:latitude":39.057256,
     "geom:longitude":-95.692955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 SW Washburn Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169616285,
-    "wof:lastmodified":1449035098,
+    "wof:lastmodified":1466519855,
     "wof:name":"Potwin Pet Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.692955,39.057256,-95.692955,39.057256],
+  "bbox": [
+    -95.692955,
+    39.057256,
+    -95.692955,
+    39.057256
+],
   "geometry": {"coordinates":[-95.692955,39.057256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169662887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.514588,38.000346,-97.514588,38.000346",
     "geom:latitude":38.000346,
     "geom:longitude":-97.514588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 College St",
     "sg:city":"Halstead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169662887,
-    "wof:lastmodified":1449034924,
+    "wof:lastmodified":1466520456,
     "wof:name":"Branch Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.514588,38.000346,-97.514588,38.000346],
+  "bbox": [
+    -97.514588,
+    38.000346,
+    -97.514588,
+    38.000346
+],
   "geometry": {"coordinates":[-97.514588,38.000346],"type":"Point"}
 }

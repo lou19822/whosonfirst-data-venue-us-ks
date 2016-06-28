@@ -2,13 +2,14 @@
   "id": 169611247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.365904,37.564311,-97.365904,37.564311",
     "geom:latitude":37.564311,
     "geom:longitude":-97.365904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Grand Ave",
     "sg:city":"Haysville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169611247,
-    "wof:lastmodified":1449035263,
+    "wof:lastmodified":1466519721,
     "wof:name":"Rex School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.365904,37.564311,-97.365904,37.564311],
+  "bbox": [
+    -97.365904,
+    37.564311,
+    -97.365904,
+    37.564311
+],
   "geometry": {"coordinates":[-97.365904,37.564311],"type":"Point"}
 }

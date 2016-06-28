@@ -2,13 +2,14 @@
   "id": 202950311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.627268,38.923837,-94.627268,38.923837",
     "geom:latitude":38.923837,
     "geom:longitude":-94.627268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11300 Tomahawk Creek Pkwy",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202950311,
-    "wof:lastmodified":1449061106,
+    "wof:lastmodified":1466520142,
     "wof:name":"National City Mortgage",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-94.627268,38.923837,-94.627268,38.923837],
+  "bbox": [
+    -94.627268,
+    38.923837,
+    -94.627268,
+    38.923837
+],
   "geometry": {"coordinates":[-94.627268,38.923837],"type":"Point"}
 }

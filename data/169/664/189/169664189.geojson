@@ -2,13 +2,14 @@
   "id": 169664189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.63395,38.971574,-94.63395,38.971574",
     "geom:latitude":38.971574,
     "geom:longitude":-94.63395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8705 Catalina St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169664189,
-    "wof:lastmodified":1449033914,
+    "wof:lastmodified":1466520436,
     "wof:name":"Schoolman Scientific Corp",
     "wof:parent_id":85879549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-94.63395,38.971574,-94.63395,38.971574],
+  "bbox": [
+    -94.63395,
+    38.971574,
+    -94.63395,
+    38.971574
+],
   "geometry": {"coordinates":[-94.63395,38.971574],"type":"Point"}
 }

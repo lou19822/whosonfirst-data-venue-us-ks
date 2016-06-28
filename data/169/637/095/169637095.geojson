@@ -2,13 +2,14 @@
   "id": 169637095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.688702,38.911209,-94.688702,38.911209",
     "geom:latitude":38.911209,
     "geom:longitude":-94.688702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11906 Grandview St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169637095,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466520220,
     "wof:name":"JCB Tree Svc",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-94.688702,38.911209,-94.688702,38.911209],
-  "geometry": {"coordinates":[-94.688702,38.911209],"type":"Point"}
+  "bbox": [
+    -94.688702,
+    38.911209,
+    -94.688702,
+    38.911209
+],
+  "geometry": {"coordinates":[-94.68870200000001,38.911209],"type":"Point"}
 }

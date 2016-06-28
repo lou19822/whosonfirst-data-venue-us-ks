@@ -2,13 +2,14 @@
   "id": 169620729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.206173,38.359578,-97.206173,38.359578",
     "geom:latitude":38.359578,
     "geom:longitude":-97.206173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 N Ash St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169620729,
-    "wof:lastmodified":1449035673,
+    "wof:lastmodified":1466519971,
     "wof:name":"A G Power Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.206173,38.359578,-97.206173,38.359578],
-  "geometry": {"coordinates":[-97.206173,38.359578],"type":"Point"}
+  "bbox": [
+    -97.206173,
+    38.359578,
+    -97.206173,
+    38.359578
+],
+  "geometry": {"coordinates":[-97.20617300000001,38.359578],"type":"Point"}
 }

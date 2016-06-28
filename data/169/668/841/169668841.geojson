@@ -2,13 +2,14 @@
   "id": 169668841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.769249,38.367601,-98.769249,38.367601",
     "geom:latitude":38.367601,
     "geom:longitude":-98.769249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 16th St",
     "sg:city":"Great Bend",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169668841,
-    "wof:lastmodified":1449034988,
+    "wof:lastmodified":1466520484,
     "wof:name":"Mc Caulley Ostmeyer Optmtrsts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.769249,38.367601,-98.769249,38.367601],
+  "bbox": [
+    -98.769249,
+    38.367601,
+    -98.769249,
+    38.367601
+],
   "geometry": {"coordinates":[-98.769249,38.367601],"type":"Point"}
 }

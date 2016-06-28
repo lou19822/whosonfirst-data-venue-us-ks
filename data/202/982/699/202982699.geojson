@@ -2,13 +2,14 @@
   "id": 202982699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.332998,37.708061,-97.332998,37.708061",
     "geom:latitude":37.708061,
     "geom:longitude":-97.332998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 E 13th St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202982699,
-    "wof:lastmodified":1449060531,
+    "wof:lastmodified":1466520377,
     "wof:name":"Moore Robertson Plumbing",
     "wof:parent_id":85872827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-97.332998,37.708061,-97.332998,37.708061],
+  "bbox": [
+    -97.332998,
+    37.708061,
+    -97.332998,
+    37.708061
+],
   "geometry": {"coordinates":[-97.332998,37.708061],"type":"Point"}
 }

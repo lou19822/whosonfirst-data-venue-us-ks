@@ -2,13 +2,14 @@
   "id": 169661059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.697732,39.012584,-94.697732,39.012584",
     "geom:latitude":39.012584,
     "geom:longitude":-94.697732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 Carter St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169661059,
-    "wof:lastmodified":1449035597,
+    "wof:lastmodified":1466520423,
     "wof:name":"Sports Car Exchange",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-94.697732,39.012584,-94.697732,39.012584],
+  "bbox": [
+    -94.697732,
+    39.012584,
+    -94.697732,
+    39.012584
+],
   "geometry": {"coordinates":[-94.697732,39.012584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169625525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.758353,39.014391,-95.758353,39.014391",
     "geom:latitude":39.014391,
     "geom:longitude":-95.758353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2930 SW Wanamaker Dr",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169625525,
-    "wof:lastmodified":1449036025,
+    "wof:lastmodified":1466520042,
     "wof:name":"Dennis Ross Agency Inc",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.758353,39.014391,-95.758353,39.014391],
+  "bbox": [
+    -95.758353,
+    39.014391,
+    -95.758353,
+    39.014391
+],
   "geometry": {"coordinates":[-95.758353,39.014391],"type":"Point"}
 }

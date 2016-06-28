@@ -2,13 +2,14 @@
   "id": 202950705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.609885,38.926224,-94.609885,38.926224",
     "geom:latitude":38.926224,
     "geom:longitude":-94.609885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11150 Overbrook Rd # 350",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202950705,
-    "wof:lastmodified":1449061111,
+    "wof:lastmodified":1466520161,
     "wof:name":"Price Sam Family Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-94.609885,38.926224,-94.609885,38.926224],
-  "geometry": {"coordinates":[-94.609885,38.926224],"type":"Point"}
+  "bbox": [
+    -94.609885,
+    38.926224,
+    -94.609885,
+    38.926224
+],
+  "geometry": {"coordinates":[-94.60988500000001,38.926224],"type":"Point"}
 }

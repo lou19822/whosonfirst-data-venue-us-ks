@@ -2,13 +2,14 @@
   "id": 169639959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.705805,39.121172,-97.705805,39.121172",
     "geom:latitude":39.121172,
     "geom:longitude":-97.705805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Rock St",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169639959,
-    "wof:lastmodified":1449035954,
+    "wof:lastmodified":1466520279,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.705805,39.121172,-97.705805,39.121172],
+  "bbox": [
+    -97.705805,
+    39.121172,
+    -97.705805,
+    39.121172
+],
   "geometry": {"coordinates":[-97.705805,39.121172],"type":"Point"}
 }

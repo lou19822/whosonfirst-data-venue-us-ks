@@ -2,13 +2,14 @@
   "id": 202950743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.658195,38.929329,-94.658195,38.929329",
     "geom:latitude":38.929329,
     "geom:longitude":-94.658195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"SERVING THE ENTIRE METRO AREA",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -81,10 +82,11 @@
         }
     ],
     "wof:id":202950743,
-    "wof:lastmodified":1449061110,
+    "wof:lastmodified":1466520163,
     "wof:name":"Residential Projects",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -101,6 +103,11 @@
         "landscape"
     ]
 },
-  "bbox": [-94.658195,38.929329,-94.658195,38.929329],
-  "geometry": {"coordinates":[-94.658195,38.929329],"type":"Point"}
+  "bbox": [
+    -94.658195,
+    38.929329,
+    -94.658195,
+    38.929329
+],
+  "geometry": {"coordinates":[-94.65819500000001,38.929329],"type":"Point"}
 }

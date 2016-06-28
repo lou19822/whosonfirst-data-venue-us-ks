@@ -2,13 +2,14 @@
   "id": 202947643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.617538,38.945069,-94.617538,38.945069",
     "geom:latitude":38.945069,
     "geom:longitude":-94.617538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9931 Lee Ct",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202947643,
-    "wof:lastmodified":1449061942,
+    "wof:lastmodified":1466520114,
     "wof:name":"Bio Feed Back Optimal Per",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.617538,38.945069,-94.617538,38.945069],
+  "bbox": [
+    -94.617538,
+    38.945069,
+    -94.617538,
+    38.945069
+],
   "geometry": {"coordinates":[-94.617538,38.945069],"type":"Point"}
 }

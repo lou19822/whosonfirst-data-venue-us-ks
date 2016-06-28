@@ -2,13 +2,14 @@
   "id": 169653225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.662976,39.037453,-94.662976,39.037453",
     "geom:latitude":39.037453,
     "geom:longitude":-94.662976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 Glenwood St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169653225,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466520365,
     "wof:name":"Foxfire Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.662976,39.037453,-94.662976,39.037453],
+  "bbox": [
+    -94.662976,
+    39.037453,
+    -94.662976,
+    39.037453
+],
   "geometry": {"coordinates":[-94.662976,39.037453],"type":"Point"}
 }

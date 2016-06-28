@@ -2,13 +2,14 @@
   "id": 202922471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.916958,39.275671,-94.916958,39.275671",
     "geom:latitude":39.275671,
     "geom:longitude":-94.916958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4216 Valley View Rd",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202922471,
-    "wof:lastmodified":1449060342,
+    "wof:lastmodified":1466519569,
     "wof:name":"Landry, Patrick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.916958,39.275671,-94.916958,39.275671],
-  "geometry": {"coordinates":[-94.916958,39.275671],"type":"Point"}
+  "bbox": [
+    -94.916958,
+    39.275671,
+    -94.916958,
+    39.275671
+],
+  "geometry": {"coordinates":[-94.91695799999999,39.275671],"type":"Point"}
 }

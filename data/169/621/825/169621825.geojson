@@ -2,13 +2,14 @@
   "id": 169621825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.612423,38.842864,-97.612423,38.842864",
     "geom:latitude":38.842864,
     "geom:longitude":-97.612423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Ash St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169621825,
-    "wof:lastmodified":1449035559,
+    "wof:lastmodified":1466519975,
     "wof:name":"Saline County Vehicle Register",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.612423,38.842864,-97.612423,38.842864],
-  "geometry": {"coordinates":[-97.612423,38.842864],"type":"Point"}
+  "bbox": [
+    -97.612423,
+    38.842864,
+    -97.612423,
+    38.842864
+],
+  "geometry": {"coordinates":[-97.61242300000001,38.842864],"type":"Point"}
 }

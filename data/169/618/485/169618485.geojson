@@ -2,13 +2,14 @@
   "id": 169618485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.66488,38.960431,-94.66488,38.960431",
     "geom:latitude":38.960431,
     "geom:longitude":-94.66488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6750 W 93rd St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169618485,
-    "wof:lastmodified":1449034737,
+    "wof:lastmodified":1466519902,
     "wof:name":"Ted Greene Co",
     "wof:parent_id":85879595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.66488,38.960431,-94.66488,38.960431],
+  "bbox": [
+    -94.66488,
+    38.960431,
+    -94.66488,
+    38.960431
+],
   "geometry": {"coordinates":[-94.66488,38.960431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169624311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.40548,37.923072,-95.40548,37.923072",
     "geom:latitude":37.923072,
     "geom:longitude":-95.40548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Washington Ave",
     "sg:city":"Iola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169624311,
-    "wof:lastmodified":1449034956,
+    "wof:lastmodified":1466520012,
     "wof:name":"County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-95.40548,37.923072,-95.40548,37.923072],
+  "bbox": [
+    -95.40548,
+    37.923072,
+    -95.40548,
+    37.923072
+],
   "geometry": {"coordinates":[-95.40548,37.923072],"type":"Point"}
 }

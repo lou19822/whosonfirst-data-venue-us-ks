@@ -2,13 +2,14 @@
   "id": 169626395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.328753,37.671747,-97.328753,37.671747",
     "geom:latitude":37.671747,
     "geom:longitude":-97.328753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 E Lincoln St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169626395,
-    "wof:lastmodified":1449035973,
+    "wof:lastmodified":1466520059,
     "wof:name":"Express Courier",
     "wof:parent_id":85872835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-97.328753,37.671747,-97.328753,37.671747],
-  "geometry": {"coordinates":[-97.328753,37.671747],"type":"Point"}
+  "bbox": [
+    -97.328753,
+    37.671747,
+    -97.328753,
+    37.671747
+],
+  "geometry": {"coordinates":[-97.32875300000001,37.671747],"type":"Point"}
 }

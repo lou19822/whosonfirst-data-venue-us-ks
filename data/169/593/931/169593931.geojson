@@ -2,13 +2,14 @@
   "id": 169593931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.227173,38.97519,-95.227173,38.97519",
     "geom:latitude":38.97519,
     "geom:longitude":-95.227173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Walnut St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169593931,
-    "wof:lastmodified":1449034879,
+    "wof:lastmodified":1466529845,
     "wof:name":"Stilla 5 Iron Works LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.227173,38.97519,-95.227173,38.97519],
-  "geometry": {"coordinates":[-95.227173,38.97519],"type":"Point"}
+  "bbox": [
+    -95.227173,
+    38.97519,
+    -95.227173,
+    38.97519
+],
+  "geometry": {"coordinates":[-95.22717299999999,38.97519],"type":"Point"}
 }

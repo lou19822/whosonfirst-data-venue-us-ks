@@ -2,13 +2,14 @@
   "id": 169665029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.940281,38.03639,-97.940281,38.03639",
     "geom:latitude":38.03639,
     "geom:longitude":-97.940281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 E 7th Ave",
     "sg:city":"South Hutchinson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169665029,
-    "wof:lastmodified":1449033696,
+    "wof:lastmodified":1466520438,
     "wof:name":"Cheney Lake Water Quality Prjt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.940281,38.03639,-97.940281,38.03639],
+  "bbox": [
+    -97.940281,
+    38.03639,
+    -97.940281,
+    38.03639
+],
   "geometry": {"coordinates":[-97.940281,38.03639],"type":"Point"}
 }

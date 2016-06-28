@@ -2,13 +2,14 @@
   "id": 169600417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.35258,38.049792,-97.35258,38.049792",
     "geom:latitude":38.049792,
     "geom:longitude":-97.35258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 W Broadway St",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169600417,
-    "wof:lastmodified":1449032970,
+    "wof:lastmodified":1466519439,
     "wof:name":"Betty's Beauty Shoppe",
     "wof:parent_id":85846955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.35258,38.049792,-97.35258,38.049792],
+  "bbox": [
+    -97.35258,
+    38.049792,
+    -97.35258,
+    38.049792
+],
   "geometry": {"coordinates":[-97.35258,38.049792],"type":"Point"}
 }

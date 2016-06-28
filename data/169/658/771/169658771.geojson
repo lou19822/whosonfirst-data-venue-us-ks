@@ -2,13 +2,14 @@
   "id": 169658771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.723529,38.146098,-94.723529,38.146098",
     "geom:latitude":38.146098,
     "geom:longitude":-94.723529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20485 State Hwy 52",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169658771,
-    "wof:lastmodified":1449032616,
+    "wof:lastmodified":1466520427,
     "wof:name":"Mine Creek Battlefield SHS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.723529,38.146098,-94.723529,38.146098],
+  "bbox": [
+    -94.723529,
+    38.146098,
+    -94.723529,
+    38.146098
+],
   "geometry": {"coordinates":[-94.723529,38.146098],"type":"Point"}
 }

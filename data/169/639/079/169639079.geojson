@@ -2,13 +2,14 @@
   "id": 169639079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.299322,37.686372,-97.299322,37.686372",
     "geom:latitude":37.686372,
     "geom:longitude":-97.299322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3134 E Douglas Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169639079,
-    "wof:lastmodified":1449035954,
+    "wof:lastmodified":1466520244,
     "wof:name":"Autoplex",
     "wof:parent_id":85872829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.299322,37.686372,-97.299322,37.686372],
+  "bbox": [
+    -97.299322,
+    37.686372,
+    -97.299322,
+    37.686372
+],
   "geometry": {"coordinates":[-97.299322,37.686372],"type":"Point"}
 }

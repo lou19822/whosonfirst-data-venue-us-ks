@@ -2,13 +2,14 @@
   "id": 169657097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.419216,37.920763,-99.419216,37.920763",
     "geom:latitude":37.920763,
     "geom:longitude":-99.419216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 W 8th St",
     "sg:city":"Kinsley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169657097,
-    "wof:lastmodified":1449033049,
+    "wof:lastmodified":1466520391,
     "wof:name":"Midway Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-99.419216,37.920763,-99.419216,37.920763],
-  "geometry": {"coordinates":[-99.419216,37.920763],"type":"Point"}
+  "bbox": [
+    -99.419216,
+    37.920763,
+    -99.419216,
+    37.920763
+],
+  "geometry": {"coordinates":[-99.41921600000001,37.920763],"type":"Point"}
 }

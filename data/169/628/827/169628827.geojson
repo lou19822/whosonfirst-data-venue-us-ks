@@ -2,13 +2,14 @@
   "id": 169628827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.670366,38.992332,-95.670366,38.992332",
     "geom:latitude":38.992332,
     "geom:longitude":-95.670366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 SE Adams St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169628827,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466520119,
     "wof:name":"Ridgewood Estates",
     "wof:parent_id":85881543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-95.670366,38.992332,-95.670366,38.992332],
+  "bbox": [
+    -95.670366,
+    38.992332,
+    -95.670366,
+    38.992332
+],
   "geometry": {"coordinates":[-95.670366,38.992332],"type":"Point"}
 }

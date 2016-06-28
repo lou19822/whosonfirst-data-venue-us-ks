@@ -2,13 +2,14 @@
   "id": 202961185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.752156,39.02919,-95.752156,39.02919",
     "geom:latitude":39.02919,
     "geom:longitude":-95.752156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5723 SW 21st St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202961185,
-    "wof:lastmodified":1449062579,
+    "wof:lastmodified":1466520221,
     "wof:name":"Brown's Tree Service",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-95.752156,39.02919,-95.752156,39.02919],
+  "bbox": [
+    -95.752156,
+    39.02919,
+    -95.752156,
+    39.02919
+],
   "geometry": {"coordinates":[-95.752156,39.02919],"type":"Point"}
 }

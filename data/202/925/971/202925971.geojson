@@ -2,13 +2,14 @@
   "id": 202925971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.039226,39.374123,-95.039226,39.374123",
     "geom:latitude":39.374123,
     "geom:longitude":-95.039226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33149 199th St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202925971,
-    "wof:lastmodified":1449060133,
+    "wof:lastmodified":1466519704,
     "wof:name":"Coates Custom Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "accessory"
     ]
 },
-  "bbox": [-95.039226,39.374123,-95.039226,39.374123],
+  "bbox": [
+    -95.039226,
+    39.374123,
+    -95.039226,
+    39.374123
+],
   "geometry": {"coordinates":[-95.039226,39.374123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169594949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.230358,38.730514,-98.230358,38.730514",
     "geom:latitude":38.730514,
     "geom:longitude":-98.230358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W 2nd St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169594949,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466529855,
     "wof:name":"First Bank Kansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.230358,38.730514,-98.230358,38.730514],
+  "bbox": [
+    -98.230358,
+    38.730514,
+    -98.230358,
+    38.730514
+],
   "geometry": {"coordinates":[-98.230358,38.730514],"type":"Point"}
 }

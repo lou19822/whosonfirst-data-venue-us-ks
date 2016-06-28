@@ -2,13 +2,14 @@
   "id": 169627997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.116314,39.32189,-99.116314,39.32189",
     "geom:latitude":39.32189,
     "geom:longitude":-99.116314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 R Rd",
     "sg:city":"Hill City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169627997,
-    "wof:lastmodified":1449036044,
+    "wof:lastmodified":1466520086,
     "wof:name":"Hill City Fertilizer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-99.116314,39.32189,-99.116314,39.32189],
+  "bbox": [
+    -99.116314,
+    39.32189,
+    -99.116314,
+    39.32189
+],
   "geometry": {"coordinates":[-99.116314,39.32189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202960441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.725725,39.029483,-95.725725,39.029483",
     "geom:latitude":39.029483,
     "geom:longitude":-95.725725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 SW 21st St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202960441,
-    "wof:lastmodified":1449061918,
+    "wof:lastmodified":1466520223,
     "wof:name":"KAW Valley Heating and Cooling",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-95.725725,39.029483,-95.725725,39.029483],
+  "bbox": [
+    -95.725725,
+    39.029483,
+    -95.725725,
+    39.029483
+],
   "geometry": {"coordinates":[-95.725725,39.029483],"type":"Point"}
 }

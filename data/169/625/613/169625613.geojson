@@ -2,13 +2,14 @@
   "id": 169625613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.443183,39.35558,-100.443183,39.35558",
     "geom:latitude":39.35558,
     "geom:longitude":-100.443183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 9th St",
     "sg:city":"Hoxie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169625613,
-    "wof:lastmodified":1449036023,
+    "wof:lastmodified":1466520043,
     "wof:name":"Sheridan Cnty Extension Agents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.443183,39.35558,-100.443183,39.35558],
+  "bbox": [
+    -100.443183,
+    39.35558,
+    -100.443183,
+    39.35558
+],
   "geometry": {"coordinates":[-100.443183,39.35558],"type":"Point"}
 }

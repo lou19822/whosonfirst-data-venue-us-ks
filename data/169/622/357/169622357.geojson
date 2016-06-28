@@ -2,13 +2,14 @@
   "id": 169622357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.700487,38.926339,-94.700487,38.926339",
     "geom:latitude":38.926339,
     "geom:longitude":-94.700487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11235 Mastin St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169622357,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466519988,
     "wof:name":"Champion Technologies",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-94.700487,38.926339,-94.700487,38.926339],
+  "bbox": [
+    -94.700487,
+    38.926339,
+    -94.700487,
+    38.926339
+],
   "geometry": {"coordinates":[-94.700487,38.926339],"type":"Point"}
 }

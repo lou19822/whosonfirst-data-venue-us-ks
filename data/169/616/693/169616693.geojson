@@ -2,13 +2,14 @@
   "id": 169616693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.615298,39.066094,-94.615298,39.066094",
     "geom:latitude":39.066094,
     "geom:longitude":-94.615298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3429 Rainbow Exd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169616693,
-    "wof:lastmodified":1449035098,
+    "wof:lastmodified":1466519870,
     "wof:name":"Lacosta",
     "wof:parent_id":85866785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-94.615298,39.066094,-94.615298,39.066094],
+  "bbox": [
+    -94.615298,
+    39.066094,
+    -94.615298,
+    39.066094
+],
   "geometry": {"coordinates":[-94.615298,39.066094],"type":"Point"}
 }

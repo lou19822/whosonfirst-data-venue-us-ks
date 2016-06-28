@@ -2,13 +2,14 @@
   "id": 169617059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.722067,38.963892,-94.722067,38.963892",
     "geom:latitude":38.963892,
     "geom:longitude":-94.722067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11870 W 91st St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169617059,
-    "wof:lastmodified":1449032799,
+    "wof:lastmodified":1466519846,
     "wof:name":"Consolidated Printing Supplies",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bar"
     ]
 },
-  "bbox": [-94.722067,38.963892,-94.722067,38.963892],
+  "bbox": [
+    -94.722067,
+    38.963892,
+    -94.722067,
+    38.963892
+],
   "geometry": {"coordinates":[-94.722067,38.963892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169659807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.296732,37.689023,-97.296732,37.689023",
     "geom:latitude":37.689023,
     "geom:longitude":-97.296732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Rutan",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169659807,
-    "wof:lastmodified":1449033026,
+    "wof:lastmodified":1466520429,
     "wof:name":"Cabells Estimating Service",
     "wof:parent_id":85872829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "estimating"
     ]
 },
-  "bbox": [-97.296732,37.689023,-97.296732,37.689023],
-  "geometry": {"coordinates":[-97.296732,37.689023],"type":"Point"}
+  "bbox": [
+    -97.296732,
+    37.689023,
+    -97.296732,
+    37.689023
+],
+  "geometry": {"coordinates":[-97.29673200000001,37.689023],"type":"Point"}
 }

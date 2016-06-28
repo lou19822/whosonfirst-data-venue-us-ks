@@ -2,13 +2,14 @@
   "id": 202974625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.706352,37.413151,-94.706352,37.413151",
     "geom:latitude":37.413151,
     "geom:longitude":-94.706352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 N Pine St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202974625,
-    "wof:lastmodified":1449062327,
+    "wof:lastmodified":1466520325,
     "wof:name":"Pittsburg Public Housing Agency",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-94.706352,37.413151,-94.706352,37.413151],
+  "bbox": [
+    -94.706352,
+    37.413151,
+    -94.706352,
+    37.413151
+],
   "geometry": {"coordinates":[-94.706352,37.413151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202975685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.689785,37.400009,-94.689785,37.400009",
     "geom:latitude":37.400009,
     "geom:longitude":-94.689785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 E Jefferson St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202975685,
-    "wof:lastmodified":1449062307,
+    "wof:lastmodified":1466520332,
     "wof:name":"Ryder Truck Rental and Leasing",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "trailer"
     ]
 },
-  "bbox": [-94.689785,37.400009,-94.689785,37.400009],
+  "bbox": [
+    -94.689785,
+    37.400009,
+    -94.689785,
+    37.400009
+],
   "geometry": {"coordinates":[-94.689785,37.400009],"type":"Point"}
 }

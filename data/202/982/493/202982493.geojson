@@ -2,13 +2,14 @@
   "id": 202982493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.317259,37.690729,-97.317259,37.690729",
     "geom:latitude":37.690729,
     "geom:longitude":-97.317259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 N Hydraulic St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":202982493,
-    "wof:lastmodified":1449060531,
+    "wof:lastmodified":1466520369,
     "wof:name":"G P Plumbing",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-97.317259,37.690729,-97.317259,37.690729],
-  "geometry": {"coordinates":[-97.317259,37.690729],"type":"Point"}
+  "bbox": [
+    -97.317259,
+    37.690729,
+    -97.317259,
+    37.690729
+],
+  "geometry": {"coordinates":[-97.31725900000001,37.690729],"type":"Point"}
 }

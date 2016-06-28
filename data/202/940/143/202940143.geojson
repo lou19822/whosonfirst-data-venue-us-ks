@@ -2,13 +2,14 @@
   "id": 202940143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.71263,38.181349,-94.71263,38.181349",
     "geom:latitude":38.181349,
     "geom:longitude":-94.71263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Main St",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202940143,
-    "wof:lastmodified":1449060740,
+    "wof:lastmodified":1466519954,
     "wof:name":"Poole Paint And Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.71263,38.181349,-94.71263,38.181349],
+  "bbox": [
+    -94.71263,
+    38.181349,
+    -94.71263,
+    38.181349
+],
   "geometry": {"coordinates":[-94.71263,38.181349],"type":"Point"}
 }

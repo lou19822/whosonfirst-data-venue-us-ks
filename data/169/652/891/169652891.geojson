@@ -2,13 +2,14 @@
   "id": 169652891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.626293,37.973207,-100.626293,37.973207",
     "geom:latitude":37.973207,
     "geom:longitude":-100.626293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3119 C Rd",
     "sg:city":"Copeland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169652891,
-    "wof:lastmodified":1449034808,
+    "wof:lastmodified":1466520395,
     "wof:name":"Uncle Ozgoods Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-100.626293,37.973207,-100.626293,37.973207],
+  "bbox": [
+    -100.626293,
+    37.973207,
+    -100.626293,
+    37.973207
+],
   "geometry": {"coordinates":[-100.626293,37.973207],"type":"Point"}
 }

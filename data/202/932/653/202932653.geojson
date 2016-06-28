@@ -2,13 +2,14 @@
   "id": 202932653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.611778,38.610401,-94.611778,38.610401",
     "geom:latitude":38.610401,
     "geom:longitude":-94.611778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28490 State Line Rd",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202932653,
-    "wof:lastmodified":1449061050,
+    "wof:lastmodified":1466519765,
     "wof:name":"Heron Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.611778,38.610401,-94.611778,38.610401],
+  "bbox": [
+    -94.611778,
+    38.610401,
+    -94.611778,
+    38.610401
+],
   "geometry": {"coordinates":[-94.611778,38.610401],"type":"Point"}
 }

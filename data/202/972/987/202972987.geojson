@@ -2,13 +2,14 @@
   "id": 202972987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.704796,37.408089,-94.704796,37.408089",
     "geom:latitude":37.408089,
     "geom:longitude":-94.704796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Broadway St Ste 200",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202972987,
-    "wof:lastmodified":1449061394,
+    "wof:lastmodified":1466520326,
     "wof:name":"T & W Electric Lc",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-94.704796,37.408089,-94.704796,37.408089],
+  "bbox": [
+    -94.704796,
+    37.408089,
+    -94.704796,
+    37.408089
+],
   "geometry": {"coordinates":[-94.704796,37.408089],"type":"Point"}
 }

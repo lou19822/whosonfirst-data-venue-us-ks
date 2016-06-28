@@ -2,13 +2,14 @@
   "id": 202966887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.643168,39.066158,-95.643168,39.066158",
     "geom:latitude":39.066158,
     "geom:longitude":-95.643168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 NE Sardou Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202966887,
-    "wof:lastmodified":1449060127,
+    "wof:lastmodified":1466520299,
     "wof:name":"Stadler D L Retail Liquor",
     "wof:parent_id":85838959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-95.643168,39.066158,-95.643168,39.066158],
+  "bbox": [
+    -95.643168,
+    39.066158,
+    -95.643168,
+    39.066158
+],
   "geometry": {"coordinates":[-95.643168,39.066158],"type":"Point"}
 }

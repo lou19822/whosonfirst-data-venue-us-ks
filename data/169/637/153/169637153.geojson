@@ -2,13 +2,14 @@
   "id": 169637153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.742297,38.960201,-94.742297,38.960201",
     "geom:latitude":38.960201,
     "geom:longitude":-94.742297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 Pflumm Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169637153,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466520225,
     "wof:name":"Shawnee Mission District Ofc",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [-94.742297,38.960201,-94.742297,38.960201],
-  "geometry": {"coordinates":[-94.742297,38.960201],"type":"Point"}
+  "bbox": [
+    -94.742297,
+    38.960201,
+    -94.742297,
+    38.960201
+],
+  "geometry": {"coordinates":[-94.74229699999999,38.960201],"type":"Point"}
 }

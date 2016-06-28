@@ -2,13 +2,14 @@
   "id": 169629545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.462881,37.694818,-97.462881,37.694818",
     "geom:latitude":37.694818,
     "geom:longitude":-97.462881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 N Maize Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169629545,
-    "wof:lastmodified":1449035183,
+    "wof:lastmodified":1466520137,
     "wof:name":"Cellular Mobile Systems & Pagi",
     "wof:parent_id":85872815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "telephone"
     ]
 },
-  "bbox": [-97.462881,37.694818,-97.462881,37.694818],
+  "bbox": [
+    -97.462881,
+    37.694818,
+    -97.462881,
+    37.694818
+],
   "geometry": {"coordinates":[-97.462881,37.694818],"type":"Point"}
 }

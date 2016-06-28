@@ -2,13 +2,14 @@
   "id": 169597855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.759533,38.966801,-94.759533,38.966801",
     "geom:latitude":38.966801,
     "geom:longitude":-94.759533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8937 Country Hill Ct",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169597855,
-    "wof:lastmodified":1449035924,
+    "wof:lastmodified":1466529877,
     "wof:name":"Roy Inman Photographs",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.759533,38.966801,-94.759533,38.966801],
+  "bbox": [
+    -94.759533,
+    38.966801,
+    -94.759533,
+    38.966801
+],
   "geometry": {"coordinates":[-94.759533,38.966801],"type":"Point"}
 }

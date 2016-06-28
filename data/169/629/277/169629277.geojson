@@ -2,13 +2,14 @@
   "id": 169629277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.650171,39.029879,-95.650171,39.029879",
     "geom:latitude":39.029879,
     "geom:longitude":-95.650171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 SE 21st St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169629277,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466520127,
     "wof:name":"Reliable Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.650171,39.029879,-95.650171,39.029879],
+  "bbox": [
+    -95.650171,
+    39.029879,
+    -95.650171,
+    39.029879
+],
   "geometry": {"coordinates":[-95.650171,39.029879],"type":"Point"}
 }

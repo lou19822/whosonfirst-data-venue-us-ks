@@ -2,13 +2,14 @@
   "id": 202913725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.115158,39.57196,-95.115158,39.57196",
     "geom:latitude":39.57196,
     "geom:longitude":-95.115158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Division St",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202913725,
-    "wof:lastmodified":1449061095,
+    "wof:lastmodified":1466519424,
     "wof:name":"Atchison Catholic Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-95.115158,39.57196,-95.115158,39.57196],
-  "geometry": {"coordinates":[-95.115158,39.57196],"type":"Point"}
+  "bbox": [
+    -95.115158,
+    39.57196,
+    -95.115158,
+    39.57196
+],
+  "geometry": {"coordinates":[-95.11515799999999,39.57196],"type":"Point"}
 }

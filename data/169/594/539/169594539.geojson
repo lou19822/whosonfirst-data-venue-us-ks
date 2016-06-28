@@ -2,13 +2,14 @@
   "id": 169594539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.608046,38.990203,-94.608046,38.990203",
     "geom:latitude":38.990203,
     "geom:longitude":-94.608046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7660 State Line Rd",
     "sg:city":"Prairie Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169594539,
-    "wof:lastmodified":1449033166,
+    "wof:lastmodified":1466529852,
     "wof:name":"Jun's Authentic Japanese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.608046,38.990203,-94.608046,38.990203],
+  "bbox": [
+    -94.608046,
+    38.990203,
+    -94.608046,
+    38.990203
+],
   "geometry": {"coordinates":[-94.608046,38.990203],"type":"Point"}
 }

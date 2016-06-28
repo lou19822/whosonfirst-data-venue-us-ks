@@ -2,13 +2,14 @@
   "id": 169623731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.932061,38.083062,-97.932061,38.083062",
     "geom:latitude":38.083062,
     "geom:longitude":-97.932061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2614 N Main St",
     "sg:city":"Hutchinson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169623731,
-    "wof:lastmodified":1449034998,
+    "wof:lastmodified":1466520011,
     "wof:name":"MMA Hutchison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.932061,38.083062,-97.932061,38.083062],
+  "bbox": [
+    -97.932061,
+    38.083062,
+    -97.932061,
+    38.083062
+],
   "geometry": {"coordinates":[-97.932061,38.083062],"type":"Point"}
 }

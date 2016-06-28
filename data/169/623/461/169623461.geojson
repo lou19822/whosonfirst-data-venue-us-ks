@@ -2,13 +2,14 @@
   "id": 169623461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.180093,38.412236,-96.180093,38.412236",
     "geom:latitude":38.412236,
     "geom:longitude":-96.180093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Commercial St",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169623461,
-    "wof:lastmodified":1449034998,
+    "wof:lastmodified":1466519999,
     "wof:name":"Cypher Autosalon",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-96.180093,38.412236,-96.180093,38.412236],
+  "bbox": [
+    -96.180093,
+    38.412236,
+    -96.180093,
+    38.412236
+],
   "geometry": {"coordinates":[-96.180093,38.412236],"type":"Point"}
 }

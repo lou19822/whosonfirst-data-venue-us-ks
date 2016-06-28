@@ -2,13 +2,14 @@
   "id": 169629925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.849129,37.459491,-97.849129,37.459491",
     "geom:latitude":37.459491,
     "geom:longitude":-97.849129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 N Main St",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169629925,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466520150,
     "wof:name":"Norwich City Marshall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "village"
     ]
 },
-  "bbox": [-97.849129,37.459491,-97.849129,37.459491],
+  "bbox": [
+    -97.849129,
+    37.459491,
+    -97.849129,
+    37.459491
+],
   "geometry": {"coordinates":[-97.849129,37.459491],"type":"Point"}
 }

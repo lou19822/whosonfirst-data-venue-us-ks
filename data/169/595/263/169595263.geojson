@@ -2,13 +2,14 @@
   "id": 169595263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.649139,39.022091,-94.649139,39.022091",
     "geom:latitude":39.022091,
     "geom:longitude":-94.649139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 Nall Ave",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169595263,
-    "wof:lastmodified":1449035638,
+    "wof:lastmodified":1466529861,
     "wof:name":"Maurice M Eastman CPA",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-94.649139,39.022091,-94.649139,39.022091],
-  "geometry": {"coordinates":[-94.649139,39.022091],"type":"Point"}
+  "bbox": [
+    -94.649139,
+    39.022091,
+    -94.649139,
+    39.022091
+],
+  "geometry": {"coordinates":[-94.64913900000001,39.022091],"type":"Point"}
 }

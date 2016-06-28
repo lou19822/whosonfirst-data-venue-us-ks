@@ -2,13 +2,14 @@
   "id": 169649321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.336941,37.687458,-97.336941,37.687458",
     "geom:latitude":37.687458,
     "geom:longitude":-97.336941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N Market St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169649321,
-    "wof:lastmodified":1449034942,
+    "wof:lastmodified":1466520370,
     "wof:name":"Edward L Brown Jr",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.336941,37.687458,-97.336941,37.687458],
+  "bbox": [
+    -97.336941,
+    37.687458,
+    -97.336941,
+    37.687458
+],
   "geometry": {"coordinates":[-97.336941,37.687458],"type":"Point"}
 }

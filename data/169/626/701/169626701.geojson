@@ -2,13 +2,14 @@
   "id": 169626701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.478484,37.590157,-99.478484,37.590157",
     "geom:latitude":37.590157,
     "geom:longitude":-99.478484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Cherry St",
     "sg:city":"Mullinville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169626701,
-    "wof:lastmodified":1449035972,
+    "wof:lastmodified":1466520068,
     "wof:name":"Headrick's Plants & Pines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-99.478484,37.590157,-99.478484,37.590157],
-  "geometry": {"coordinates":[-99.478484,37.590157],"type":"Point"}
+  "bbox": [
+    -99.478484,
+    37.590157,
+    -99.478484,
+    37.590157
+],
+  "geometry": {"coordinates":[-99.47848399999999,37.590157],"type":"Point"}
 }

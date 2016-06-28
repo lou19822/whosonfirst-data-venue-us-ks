@@ -2,13 +2,14 @@
   "id": 169627805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.335921,37.795933,-97.335921,37.795933",
     "geom:latitude":37.795933,
     "geom:longitude":-97.335921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5944 N Broadway St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169627805,
-    "wof:lastmodified":1449036042,
+    "wof:lastmodified":1466520080,
     "wof:name":"Body WORX",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "answering"
     ]
 },
-  "bbox": [-97.335921,37.795933,-97.335921,37.795933],
+  "bbox": [
+    -97.335921,
+    37.795933,
+    -97.335921,
+    37.795933
+],
   "geometry": {"coordinates":[-97.335921,37.795933],"type":"Point"}
 }

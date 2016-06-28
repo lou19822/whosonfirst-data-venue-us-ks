@@ -2,13 +2,14 @@
   "id": 169592315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.066973,38.840678,-95.066973,38.840678",
     "geom:latitude":38.840678,
     "geom:longitude":-95.066973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2322 N 700 Rd",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169592315,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466520170,
     "wof:name":"Floyd's Fruits & Vegetables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.066973,38.840678,-95.066973,38.840678],
+  "bbox": [
+    -95.066973,
+    38.840678,
+    -95.066973,
+    38.840678
+],
   "geometry": {"coordinates":[-95.066973,38.840678],"type":"Point"}
 }

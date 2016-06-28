@@ -2,13 +2,14 @@
   "id": 169603455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.609223,38.837092,-97.609223,38.837092",
     "geom:latitude":38.837092,
     "geom:longitude":-97.609223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 S Santa Fe Ave",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169603455,
-    "wof:lastmodified":1449035454,
+    "wof:lastmodified":1466519496,
     "wof:name":"Bear Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-97.609223,38.837092,-97.609223,38.837092],
+  "bbox": [
+    -97.609223,
+    38.837092,
+    -97.609223,
+    38.837092
+],
   "geometry": {"coordinates":[-97.609223,38.837092],"type":"Point"}
 }

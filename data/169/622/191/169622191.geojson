@@ -2,13 +2,14 @@
   "id": 169622191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.075986,39.190762,-96.075986,39.190762",
     "geom:latitude":39.190762,
     "geom:longitude":-96.075986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27425 Drew St",
     "sg:city":"St Marys",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169622191,
-    "wof:lastmodified":1449035369,
+    "wof:lastmodified":1466519985,
     "wof:name":"Rezac Livestock Commission Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "market"
     ]
 },
-  "bbox": [-96.075986,39.190762,-96.075986,39.190762],
+  "bbox": [
+    -96.075986,
+    39.190762,
+    -96.075986,
+    39.190762
+],
   "geometry": {"coordinates":[-96.075986,39.190762],"type":"Point"}
 }

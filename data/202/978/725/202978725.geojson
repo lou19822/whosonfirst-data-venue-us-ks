@@ -2,13 +2,14 @@
   "id": 202978725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.24311,37.486534,-97.24311,37.486534",
     "geom:latitude":37.486534,
     "geom:longitude":-97.24311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 SE Louis Dr",
     "sg:city":"Mulvane",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202978725,
-    "wof:lastmodified":1449061568,
+    "wof:lastmodified":1466520338,
     "wof:name":"Farm Bureau Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "business"
     ]
 },
-  "bbox": [-97.24311,37.486534,-97.24311,37.486534],
+  "bbox": [
+    -97.24311,
+    37.486534,
+    -97.24311,
+    37.486534
+],
   "geometry": {"coordinates":[-97.24311,37.486534],"type":"Point"}
 }

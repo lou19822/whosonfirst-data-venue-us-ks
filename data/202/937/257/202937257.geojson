@@ -2,13 +2,14 @@
   "id": 202937257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.854447,38.587148,-94.854447,38.587148",
     "geom:latitude":38.587148,
     "geom:longitude":-94.854447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29796 Hedge Ln",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202937257,
-    "wof:lastmodified":1449060591,
+    "wof:lastmodified":1466519881,
     "wof:name":"Slyter Distributing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "truck"
     ]
 },
-  "bbox": [-94.854447,38.587148,-94.854447,38.587148],
-  "geometry": {"coordinates":[-94.854447,38.587148],"type":"Point"}
+  "bbox": [
+    -94.854447,
+    38.587148,
+    -94.854447,
+    38.587148
+],
+  "geometry": {"coordinates":[-94.85444699999999,38.587148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169622561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.224192,38.943832,-95.224192,38.943832",
     "geom:latitude":38.943832,
     "geom:longitude":-95.224192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 E 22nd St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169622561,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466519998,
     "wof:name":"Automotive Machine & Prfrmnce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-95.224192,38.943832,-95.224192,38.943832],
+  "bbox": [
+    -95.224192,
+    38.943832,
+    -95.224192,
+    38.943832
+],
   "geometry": {"coordinates":[-95.224192,38.943832],"type":"Point"}
 }

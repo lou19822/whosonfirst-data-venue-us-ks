@@ -2,13 +2,14 @@
   "id": 202976191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.706666,37.417049,-94.706666,37.417049",
     "geom:latitude":37.417049,
     "geom:longitude":-94.706666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W 10th St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202976191,
-    "wof:lastmodified":1449061162,
+    "wof:lastmodified":1466520326,
     "wof:name":"Satterlee Plumbing",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumber"
     ]
 },
-  "bbox": [-94.706666,37.417049,-94.706666,37.417049],
+  "bbox": [
+    -94.706666,
+    37.417049,
+    -94.706666,
+    37.417049
+],
   "geometry": {"coordinates":[-94.706666,37.417049],"type":"Point"}
 }

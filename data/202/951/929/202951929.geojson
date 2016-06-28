@@ -2,13 +2,14 @@
   "id": 202951929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.740207,38.943821,-94.740207,38.943821",
     "geom:latitude":38.943821,
     "geom:longitude":-94.740207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10224 Caenen Lake Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202951929,
-    "wof:lastmodified":1449060206,
+    "wof:lastmodified":1466520172,
     "wof:name":"Madison Ave Distributing Co",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "processing"
     ]
 },
-  "bbox": [-94.740207,38.943821,-94.740207,38.943821],
+  "bbox": [
+    -94.740207,
+    38.943821,
+    -94.740207,
+    38.943821
+],
   "geometry": {"coordinates":[-94.740207,38.943821],"type":"Point"}
 }

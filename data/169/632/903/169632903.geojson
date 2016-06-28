@@ -2,13 +2,14 @@
   "id": 169632903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.823233,38.992517,-94.823233,38.992517",
     "geom:latitude":38.992517,
     "geom:longitude":-94.823233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7725 Woodland Dr",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169632903,
-    "wof:lastmodified":1449034794,
+    "wof:lastmodified":1466520188,
     "wof:name":"Lane's Janitorial Cleaning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-94.823233,38.992517,-94.823233,38.992517],
+  "bbox": [
+    -94.823233,
+    38.992517,
+    -94.823233,
+    38.992517
+],
   "geometry": {"coordinates":[-94.823233,38.992517],"type":"Point"}
 }

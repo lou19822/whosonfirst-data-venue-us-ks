@@ -2,13 +2,14 @@
   "id": 202946129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.645856,39.022198,-94.645856,39.022198",
     "geom:latitude":39.022198,
     "geom:longitude":-94.645856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5312 Martway St",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -67,16 +68,22 @@
         }
     ],
     "wof:id":202946129,
-    "wof:lastmodified":1449062346,
+    "wof:lastmodified":1466520088,
     "wof:name":"Dollar General",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-94.645856,39.022198,-94.645856,39.022198],
-  "geometry": {"coordinates":[-94.645856,39.022198],"type":"Point"}
+  "bbox": [
+    -94.645856,
+    39.022198,
+    -94.645856,
+    39.022198
+],
+  "geometry": {"coordinates":[-94.64585599999999,39.022198],"type":"Point"}
 }

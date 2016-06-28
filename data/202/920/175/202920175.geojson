@@ -2,13 +2,14 @@
   "id": 202920175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.899973,39.234939,-94.899973,39.234939",
     "geom:latitude":39.234939,
     "geom:longitude":-94.899973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 S Main St",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202920175,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1466519525,
     "wof:name":"Fladung Insurance Agency",
     "wof:parent_id":85844391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.899973,39.234939,-94.899973,39.234939],
+  "bbox": [
+    -94.899973,
+    39.234939,
+    -94.899973,
+    39.234939
+],
   "geometry": {"coordinates":[-94.899973,39.234939],"type":"Point"}
 }

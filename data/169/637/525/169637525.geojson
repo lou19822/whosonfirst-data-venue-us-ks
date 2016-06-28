@@ -2,13 +2,14 @@
   "id": 169637525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.759122,38.912699,-94.759122,38.912699",
     "geom:latitude":38.912699,
     "geom:longitude":-94.759122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15139 W 119th St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169637525,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466520242,
     "wof:name":"3 Day Blinds",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blind"
     ]
 },
-  "bbox": [-94.759122,38.912699,-94.759122,38.912699],
+  "bbox": [
+    -94.759122,
+    38.912699,
+    -94.759122,
+    38.912699
+],
   "geometry": {"coordinates":[-94.759122,38.912699],"type":"Point"}
 }

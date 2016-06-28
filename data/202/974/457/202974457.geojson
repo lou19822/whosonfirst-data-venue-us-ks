@@ -2,13 +2,14 @@
   "id": 202974457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.635221,37.381667,-94.635221,37.381667",
     "geom:latitude":37.381667,
     "geom:longitude":-94.635221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1153 E 530th Ave",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202974457,
-    "wof:lastmodified":1449062326,
+    "wof:lastmodified":1466520315,
     "wof:name":"Larry Coltrane Farm",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.635221,37.381667,-94.635221,37.381667],
+  "bbox": [
+    -94.635221,
+    37.381667,
+    -94.635221,
+    37.381667
+],
   "geometry": {"coordinates":[-94.635221,37.381667],"type":"Point"}
 }

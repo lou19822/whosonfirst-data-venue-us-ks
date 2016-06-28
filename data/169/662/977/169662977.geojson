@@ -2,13 +2,14 @@
   "id": 169662977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.779595,38.514747,-98.779595,38.514747",
     "geom:latitude":38.514747,
     "geom:longitude":-98.779595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 W 2nd St",
     "sg:city":"Hoisington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169662977,
-    "wof:lastmodified":1449034924,
+    "wof:lastmodified":1466520460,
     "wof:name":"Lamb Service & Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-98.779595,38.514747,-98.779595,38.514747],
+  "bbox": [
+    -98.779595,
+    38.514747,
+    -98.779595,
+    38.514747
+],
   "geometry": {"coordinates":[-98.779595,38.514747],"type":"Point"}
 }

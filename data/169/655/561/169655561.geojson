@@ -2,13 +2,14 @@
   "id": 169655561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.2989,37.637548,-97.2989,37.637548",
     "geom:latitude":37.637548,
     "geom:longitude":-97.2989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3033 S Hillside St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169655561,
-    "wof:lastmodified":1449034590,
+    "wof:lastmodified":1466520405,
     "wof:name":"Living Word Outreach",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.2989,37.637548,-97.2989,37.637548],
+  "bbox": [
+    -97.2989,
+    37.637548,
+    -97.2989,
+    37.637548
+],
   "geometry": {"coordinates":[-97.2989,37.637548],"type":"Point"}
 }

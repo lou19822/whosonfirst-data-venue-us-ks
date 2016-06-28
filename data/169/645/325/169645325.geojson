@@ -2,13 +2,14 @@
   "id": 169645325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.64453,38.3715,-97.64453,38.3715",
     "geom:latitude":38.3715,
     "geom:longitude":-97.64453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 E Euclid St",
     "sg:city":"Mc Pherson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169645325,
-    "wof:lastmodified":1449033005,
+    "wof:lastmodified":1466520313,
     "wof:name":"Church Of The Brethren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.64453,38.3715,-97.64453,38.3715],
+  "bbox": [
+    -97.64453,
+    38.3715,
+    -97.64453,
+    38.3715
+],
   "geometry": {"coordinates":[-97.64453,38.3715],"type":"Point"}
 }

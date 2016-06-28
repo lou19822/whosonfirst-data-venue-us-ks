@@ -2,13 +2,14 @@
   "id": 169598243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.527096,39.864007,-95.527096,39.864007",
     "geom:latitude":39.864007,
     "geom:longitude":-95.527096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N 1st St",
     "sg:city":"Hiawatha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169598243,
-    "wof:lastmodified":1449032858,
+    "wof:lastmodified":1466519429,
     "wof:name":"Carpet Plus Building Material",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-95.527096,39.864007,-95.527096,39.864007],
+  "bbox": [
+    -95.527096,
+    39.864007,
+    -95.527096,
+    39.864007
+],
   "geometry": {"coordinates":[-95.527096,39.864007],"type":"Point"}
 }

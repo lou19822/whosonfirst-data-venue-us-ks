@@ -2,13 +2,14 @@
   "id": 169638199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.796071,39.025187,-95.796071,39.025187",
     "geom:latitude":39.025187,
     "geom:longitude":-95.796071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2257 SW Romar Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169638199,
-    "wof:lastmodified":1449032865,
+    "wof:lastmodified":1466520231,
     "wof:name":"Thurlow Development",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.796071,39.025187,-95.796071,39.025187],
+  "bbox": [
+    -95.796071,
+    39.025187,
+    -95.796071,
+    39.025187
+],
   "geometry": {"coordinates":[-95.796071,39.025187],"type":"Point"}
 }

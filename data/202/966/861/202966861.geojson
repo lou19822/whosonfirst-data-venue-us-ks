@@ -2,13 +2,14 @@
   "id": 202966861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.650372,39.064693,-95.650372,39.064693",
     "geom:latitude":39.064693,
     "geom:longitude":-95.650372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 NE Emmett St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202966861,
-    "wof:lastmodified":1449060130,
+    "wof:lastmodified":1466520297,
     "wof:name":"BS Cycles",
     "wof:parent_id":85838959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.650372,39.064693,-95.650372,39.064693],
+  "bbox": [
+    -95.650372,
+    39.064693,
+    -95.650372,
+    39.064693
+],
   "geometry": {"coordinates":[-95.650372,39.064693],"type":"Point"}
 }

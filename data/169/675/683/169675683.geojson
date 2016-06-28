@@ -2,13 +2,14 @@
   "id": 169675683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.611905,39.043108,-94.611905,39.043108",
     "geom:latitude":39.043108,
     "geom:longitude":-94.611905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 W 47th Pl",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169675683,
-    "wof:lastmodified":1449034357,
+    "wof:lastmodified":1466520498,
     "wof:name":"Honorary Consulate-Morocco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "affairs"
     ]
 },
-  "bbox": [-94.611905,39.043108,-94.611905,39.043108],
-  "geometry": {"coordinates":[-94.611905,39.043108],"type":"Point"}
+  "bbox": [
+    -94.611905,
+    39.043108,
+    -94.611905,
+    39.043108
+],
+  "geometry": {"coordinates":[-94.61190499999999,39.043108],"type":"Point"}
 }

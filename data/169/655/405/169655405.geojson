@@ -2,13 +2,14 @@
   "id": 169655405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.707217,37.821352,-94.707217,37.821352",
     "geom:latitude":37.821352,
     "geom:longitude":-94.707217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 S National Ave",
     "sg:city":"Fort Scott",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169655405,
-    "wof:lastmodified":1449034588,
+    "wof:lastmodified":1466520397,
     "wof:name":"Don's Spirits & Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.707217,37.821352,-94.707217,37.821352],
+  "bbox": [
+    -94.707217,
+    37.821352,
+    -94.707217,
+    37.821352
+],
   "geometry": {"coordinates":[-94.707217,37.821352],"type":"Point"}
 }

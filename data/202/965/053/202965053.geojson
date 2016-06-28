@@ -2,13 +2,14 @@
   "id": 202965053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.687735,39.005168,-95.687735,39.005168",
     "geom:latitude":39.005168,
     "geom:longitude":-95.687735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 SW Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202965053,
-    "wof:lastmodified":1449061866,
+    "wof:lastmodified":1466520259,
     "wof:name":"Briggs Supercenter",
     "wof:parent_id":85881549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-95.687735,39.005168,-95.687735,39.005168],
+  "bbox": [
+    -95.687735,
+    39.005168,
+    -95.687735,
+    39.005168
+],
   "geometry": {"coordinates":[-95.687735,39.005168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169628041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.294579,37.644955,-97.294579,37.644955",
     "geom:latitude":37.644955,
     "geom:longitude":-97.294579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 S Vassar Ct",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169628041,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466520084,
     "wof:name":"B & B Mowing Shrub & Tree",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-97.294579,37.644955,-97.294579,37.644955],
+  "bbox": [
+    -97.294579,
+    37.644955,
+    -97.294579,
+    37.644955
+],
   "geometry": {"coordinates":[-97.294579,37.644955],"type":"Point"}
 }

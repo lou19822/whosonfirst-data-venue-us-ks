@@ -2,13 +2,14 @@
   "id": 169609819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.885671,39.580963,-96.885671,39.580963",
     "geom:latitude":39.580963,
     "geom:longitude":-96.885671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2678 1st Rd",
     "sg:city":"Barnes",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169609819,
-    "wof:lastmodified":1449033920,
+    "wof:lastmodified":1466519698,
     "wof:name":"Marvin Oentrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-96.885671,39.580963,-96.885671,39.580963],
+  "bbox": [
+    -96.885671,
+    39.580963,
+    -96.885671,
+    39.580963
+],
   "geometry": {"coordinates":[-96.885671,39.580963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169674123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.444088,37.672314,-97.444088,37.672314",
     "geom:latitude":37.672314,
     "geom:longitude":-97.444088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Tyler Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169674123,
-    "wof:lastmodified":1449035137,
+    "wof:lastmodified":1466520497,
     "wof:name":"Apac Customer Svc",
     "wof:parent_id":85852945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telemarketing"
     ]
 },
-  "bbox": [-97.444088,37.672314,-97.444088,37.672314],
-  "geometry": {"coordinates":[-97.444088,37.672314],"type":"Point"}
+  "bbox": [
+    -97.444088,
+    37.672314,
+    -97.444088,
+    37.672314
+],
+  "geometry": {"coordinates":[-97.44408799999999,37.672314],"type":"Point"}
 }

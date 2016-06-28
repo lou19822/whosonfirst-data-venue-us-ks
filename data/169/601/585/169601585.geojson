@@ -2,13 +2,14 @@
   "id": 169601585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.099665,38.176639,-99.099665,38.176639",
     "geom:latitude":38.176639,
     "geom:longitude":-99.099665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Main St",
     "sg:city":"Larned",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169601585,
-    "wof:lastmodified":1449034149,
+    "wof:lastmodified":1466519460,
     "wof:name":"USDA Service Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.099665,38.176639,-99.099665,38.176639],
+  "bbox": [
+    -99.099665,
+    38.176639,
+    -99.099665,
+    38.176639
+],
   "geometry": {"coordinates":[-99.099665,38.176639],"type":"Point"}
 }

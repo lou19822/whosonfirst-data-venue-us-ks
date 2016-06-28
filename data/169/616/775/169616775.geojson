@@ -2,13 +2,14 @@
   "id": 169616775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.333331,37.603549,-97.333331,37.603549",
     "geom:latitude":37.603549,
     "geom:longitude":-97.333331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E 50th St S",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169616775,
-    "wof:lastmodified":1449035100,
+    "wof:lastmodified":1466519875,
     "wof:name":"ARC Sbei LLC",
     "wof:parent_id":85844955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-97.333331,37.603549,-97.333331,37.603549],
+  "bbox": [
+    -97.333331,
+    37.603549,
+    -97.333331,
+    37.603549
+],
   "geometry": {"coordinates":[-97.333331,37.603549],"type":"Point"}
 }

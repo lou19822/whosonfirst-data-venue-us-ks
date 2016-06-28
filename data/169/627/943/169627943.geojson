@@ -2,13 +2,14 @@
   "id": 169627943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.30493,39.202033,-96.30493,39.202033",
     "geom:latitude":39.202033,
     "geom:longitude":-96.30493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Lincoln St",
     "sg:city":"Wamego",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169627943,
-    "wof:lastmodified":1449036042,
+    "wof:lastmodified":1466520082,
     "wof:name":"Barbara Torrey Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.30493,39.202033,-96.30493,39.202033],
+  "bbox": [
+    -96.30493,
+    39.202033,
+    -96.30493,
+    39.202033
+],
   "geometry": {"coordinates":[-96.30493,39.202033],"type":"Point"}
 }

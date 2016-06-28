@@ -2,13 +2,14 @@
   "id": 169656477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.232796,38.950922,-95.232796,38.950922",
     "geom:latitude":38.950922,
     "geom:longitude":-95.232796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Barker Ave",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169656477,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1466520397,
     "wof:name":"Robert Gent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.232796,38.950922,-95.232796,38.950922],
-  "geometry": {"coordinates":[-95.232796,38.950922],"type":"Point"}
+  "bbox": [
+    -95.232796,
+    38.950922,
+    -95.232796,
+    38.950922
+],
+  "geometry": {"coordinates":[-95.23279599999999,38.950922],"type":"Point"}
 }

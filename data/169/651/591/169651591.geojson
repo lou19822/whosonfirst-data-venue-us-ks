@@ -2,13 +2,14 @@
   "id": 169651591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.430078,37.920356,-97.430078,37.920356",
     "geom:latitude":37.920356,
     "geom:longitude":-97.430078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Monroe Ave N",
     "sg:city":"Sedgwick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169651591,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466520375,
     "wof:name":"Sedgwick Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.430078,37.920356,-97.430078,37.920356],
-  "geometry": {"coordinates":[-97.430078,37.920356],"type":"Point"}
+  "bbox": [
+    -97.430078,
+    37.920356,
+    -97.430078,
+    37.920356
+],
+  "geometry": {"coordinates":[-97.43007799999999,37.920356],"type":"Point"}
 }

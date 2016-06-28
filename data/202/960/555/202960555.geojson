@@ -2,13 +2,14 @@
   "id": 202960555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.692843,39.034894,-95.692843,39.034894",
     "geom:latitude":39.034894,
     "geom:longitude":-95.692843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 SW Buchanan St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202960555,
-    "wof:lastmodified":1449061924,
+    "wof:lastmodified":1466520229,
     "wof:name":"Gospel Outreach Ministries, Inc.",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "denomination"
     ]
 },
-  "bbox": [-95.692843,39.034894,-95.692843,39.034894],
+  "bbox": [
+    -95.692843,
+    39.034894,
+    -95.692843,
+    39.034894
+],
   "geometry": {"coordinates":[-95.692843,39.034894],"type":"Point"}
 }

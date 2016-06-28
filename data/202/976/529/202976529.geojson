@@ -2,13 +2,14 @@
   "id": 202976529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.686543,37.453721,-94.686543,37.453721",
     "geom:latitude":37.453721,
     "geom:longitude":-94.686543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Cayuga St",
     "sg:city":"Frontenac",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202976529,
-    "wof:lastmodified":1449061163,
+    "wof:lastmodified":1466520336,
     "wof:name":"Frontenac Unified District 249 Inc",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.686543,37.453721,-94.686543,37.453721],
+  "bbox": [
+    -94.686543,
+    37.453721,
+    -94.686543,
+    37.453721
+],
   "geometry": {"coordinates":[-94.686543,37.453721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169626237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359485,37.695688,-97.359485,37.695688",
     "geom:latitude":37.695688,
     "geom:longitude":-97.359485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 W Pine St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169626237,
-    "wof:lastmodified":1449035967,
+    "wof:lastmodified":1466520055,
     "wof:name":"City Wichita",
     "wof:parent_id":85812637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-97.359485,37.695688,-97.359485,37.695688],
-  "geometry": {"coordinates":[-97.359485,37.695688],"type":"Point"}
+  "bbox": [
+    -97.359485,
+    37.695688,
+    -97.359485,
+    37.695688
+],
+  "geometry": {"coordinates":[-97.35948500000001,37.695688],"type":"Point"}
 }

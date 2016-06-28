@@ -2,13 +2,14 @@
   "id": 202955995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.69224,38.818961,-95.69224,38.818961",
     "geom:latitude":38.818961,
     "geom:longitude":-95.69224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Main St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202955995,
-    "wof:lastmodified":1449061851,
+    "wof:lastmodified":1466520195,
     "wof:name":"Marcell, Gerald W, Md - Cotton-O'neil Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.69224,38.818961,-95.69224,38.818961],
+  "bbox": [
+    -95.69224,
+    38.818961,
+    -95.69224,
+    38.818961
+],
   "geometry": {"coordinates":[-95.69224,38.818961],"type":"Point"}
 }

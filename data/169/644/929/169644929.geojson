@@ -2,13 +2,14 @@
   "id": 169644929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.180176,38.410758,-96.180176,38.410758",
     "geom:latitude":38.410758,
     "geom:longitude":-96.180176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 Commercial St",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169644929,
-    "wof:lastmodified":1449034575,
+    "wof:lastmodified":1466520322,
     "wof:name":"Michelle Redeker",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.180176,38.410758,-96.180176,38.410758],
+  "bbox": [
+    -96.180176,
+    38.410758,
+    -96.180176,
+    38.410758
+],
   "geometry": {"coordinates":[-96.180176,38.410758],"type":"Point"}
 }

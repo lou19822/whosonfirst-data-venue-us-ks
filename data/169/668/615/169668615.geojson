@@ -2,13 +2,14 @@
   "id": 169668615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.922272,37.028148,-100.922272,37.028148",
     "geom:latitude":37.028148,
     "geom:longitude":-100.922272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 S Kansas Ave",
     "sg:city":"Liberal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169668615,
-    "wof:lastmodified":1449034988,
+    "wof:lastmodified":1466520476,
     "wof:name":"Ruano's Studio 2000 Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.922272,37.028148,-100.922272,37.028148],
-  "geometry": {"coordinates":[-100.922272,37.028148],"type":"Point"}
+  "bbox": [
+    -100.922272,
+    37.028148,
+    -100.922272,
+    37.028148
+],
+  "geometry": {"coordinates":[-100.92227200000001,37.028148],"type":"Point"}
 }

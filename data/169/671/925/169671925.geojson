@@ -2,13 +2,14 @@
   "id": 169671925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.348508,38.078449,-97.348508,38.078449",
     "geom:latitude":38.078449,
     "geom:longitude":-97.348508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Ivy Dr",
     "sg:city":"North Newton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169671925,
-    "wof:lastmodified":1449033451,
+    "wof:lastmodified":1466520499,
     "wof:name":"Midland National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.348508,38.078449,-97.348508,38.078449],
+  "bbox": [
+    -97.348508,
+    38.078449,
+    -97.348508,
+    38.078449
+],
   "geometry": {"coordinates":[-97.348508,38.078449],"type":"Point"}
 }

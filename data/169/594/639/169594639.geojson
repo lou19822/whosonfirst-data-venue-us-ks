@@ -2,13 +2,14 @@
   "id": 169594639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.706295,37.421117,-94.706295,37.421117",
     "geom:latitude":37.421117,
     "geom:longitude":-94.706295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 N Pine St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169594639,
-    "wof:lastmodified":1449033166,
+    "wof:lastmodified":1466529852,
     "wof:name":"Sam Brown & Son Sheet Metal",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.706295,37.421117,-94.706295,37.421117],
+  "bbox": [
+    -94.706295,
+    37.421117,
+    -94.706295,
+    37.421117
+],
   "geometry": {"coordinates":[-94.706295,37.421117],"type":"Point"}
 }

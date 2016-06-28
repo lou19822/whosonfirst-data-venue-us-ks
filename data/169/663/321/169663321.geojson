@@ -2,13 +2,14 @@
   "id": 169663321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.41359,38.141454,-97.41359,38.141454",
     "geom:latitude":38.141454,
     "geom:longitude":-97.41359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 US Hwy 81",
     "sg:city":"Hesston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169663321,
-    "wof:lastmodified":1449035102,
+    "wof:lastmodified":1466520430,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-97.41359,38.141454,-97.41359,38.141454],
+  "bbox": [
+    -97.41359,
+    38.141454,
+    -97.41359,
+    38.141454
+],
   "geometry": {"coordinates":[-97.41359,38.141454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169638341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.235909,38.967515,-95.235909,38.967515",
     "geom:latitude":38.967515,
     "geom:longitude":-95.235909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Massachusetts St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169638341,
-    "wof:lastmodified":1449032871,
+    "wof:lastmodified":1466520235,
     "wof:name":"Marx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.235909,38.967515,-95.235909,38.967515],
-  "geometry": {"coordinates":[-95.235909,38.967515],"type":"Point"}
+  "bbox": [
+    -95.235909,
+    38.967515,
+    -95.235909,
+    38.967515
+],
+  "geometry": {"coordinates":[-95.23590900000001,38.967515],"type":"Point"}
 }

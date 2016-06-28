@@ -2,13 +2,14 @@
   "id": 169599197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.247047,37.555837,-97.247047,37.555837",
     "geom:latitude":37.555837,
     "geom:longitude":-97.247047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N Sunset Dr",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169599197,
-    "wof:lastmodified":1449034211,
+    "wof:lastmodified":1466519427,
     "wof:name":"Precious Moments Daycare",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.247047,37.555837,-97.247047,37.555837],
-  "geometry": {"coordinates":[-97.247047,37.555837],"type":"Point"}
+  "bbox": [
+    -97.247047,
+    37.555837,
+    -97.247047,
+    37.555837
+],
+  "geometry": {"coordinates":[-97.24704699999999,37.555837],"type":"Point"}
 }

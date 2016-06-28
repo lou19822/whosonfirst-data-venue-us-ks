@@ -2,13 +2,14 @@
   "id": 202951109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.723663,38.937462,-94.723663,38.937462",
     "geom:latitude":38.937462,
     "geom:longitude":-94.723663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10550 Quivira Rd Ste 270",
     "sg:city":"Lenexa",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202951109,
-    "wof:lastmodified":1449060205,
+    "wof:lastmodified":1466520133,
     "wof:name":"Michael L Haag Md Pa",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.723663,38.937462,-94.723663,38.937462],
+  "bbox": [
+    -94.723663,
+    38.937462,
+    -94.723663,
+    38.937462
+],
   "geometry": {"coordinates":[-94.723663,38.937462],"type":"Point"}
 }

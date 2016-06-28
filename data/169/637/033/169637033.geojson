@@ -2,13 +2,14 @@
   "id": 169637033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.790822,37.764539,-97.790822,37.764539",
     "geom:latitude":37.764539,
     "geom:longitude":-97.790822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25311 Willison Rd",
     "sg:city":"Mt Hope",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169637033,
-    "wof:lastmodified":1449032687,
+    "wof:lastmodified":1466529896,
     "wof:name":"Outwest Steak House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.790822,37.764539,-97.790822,37.764539],
-  "geometry": {"coordinates":[-97.790822,37.764539],"type":"Point"}
+  "bbox": [
+    -97.790822,
+    37.764539,
+    -97.790822,
+    37.764539
+],
+  "geometry": {"coordinates":[-97.79082200000001,37.764539],"type":"Point"}
 }

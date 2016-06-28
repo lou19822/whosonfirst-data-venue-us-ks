@@ -2,13 +2,14 @@
   "id": 202934131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.819401,38.882011,-94.819401,38.882011",
     "geom:latitude":38.882011,
     "geom:longitude":-94.819401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 East Park Street",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202934131,
-    "wof:lastmodified":1449060227,
+    "wof:lastmodified":1466519812,
     "wof:name":"Rokusek Law Office",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "law"
     ]
 },
-  "bbox": [-94.819401,38.882011,-94.819401,38.882011],
+  "bbox": [
+    -94.819401,
+    38.882011,
+    -94.819401,
+    38.882011
+],
   "geometry": {"coordinates":[-94.819401,38.882011],"type":"Point"}
 }

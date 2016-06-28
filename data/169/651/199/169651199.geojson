@@ -2,13 +2,14 @@
   "id": 169651199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.647176,37.040461,-95.647176,37.040461",
     "geom:latitude":37.040461,
     "geom:longitude":-95.647176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 W 4th St",
     "sg:city":"Coffeyville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169651199,
-    "wof:lastmodified":1449033344,
+    "wof:lastmodified":1466520364,
     "wof:name":"SEK Voc-Tech School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trade"
     ]
 },
-  "bbox": [-95.647176,37.040461,-95.647176,37.040461],
+  "bbox": [
+    -95.647176,
+    37.040461,
+    -95.647176,
+    37.040461
+],
   "geometry": {"coordinates":[-95.647176,37.040461],"type":"Point"}
 }

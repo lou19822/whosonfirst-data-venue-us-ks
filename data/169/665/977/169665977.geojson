@@ -2,13 +2,14 @@
   "id": 169665977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.001086,38.849941,-97.001086,38.849941",
     "geom:latitude":38.849941,
     "geom:longitude":-97.001086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1749 Sage Rd",
     "sg:city":"Chapman",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169665977,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1466520468,
     "wof:name":"Hettenbach Tod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.001086,38.849941,-97.001086,38.849941],
+  "bbox": [
+    -97.001086,
+    38.849941,
+    -97.001086,
+    38.849941
+],
   "geometry": {"coordinates":[-97.001086,38.849941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169643495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.607851,38.837605,-97.607851,38.837605",
     "geom:latitude":38.837605,
     "geom:longitude":-97.607851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 S 5th St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169643495,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466520300,
     "wof:name":"Breakthrough Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tape"
     ]
 },
-  "bbox": [-97.607851,38.837605,-97.607851,38.837605],
+  "bbox": [
+    -97.607851,
+    38.837605,
+    -97.607851,
+    38.837605
+],
   "geometry": {"coordinates":[-97.607851,38.837605],"type":"Point"}
 }

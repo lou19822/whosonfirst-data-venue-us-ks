@@ -2,13 +2,14 @@
   "id": 202928027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.968999,39.393501,-94.968999,39.393501",
     "geom:latitude":39.393501,
     "geom:longitude":-94.968999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34372 169th St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202928027,
-    "wof:lastmodified":1449062299,
+    "wof:lastmodified":1466519708,
     "wof:name":"Aaron's Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-94.968999,39.393501,-94.968999,39.393501],
+  "bbox": [
+    -94.968999,
+    39.393501,
+    -94.968999,
+    39.393501
+],
   "geometry": {"coordinates":[-94.968999,39.393501],"type":"Point"}
 }

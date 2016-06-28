@@ -2,13 +2,14 @@
   "id": 202951607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.760125,38.971054,-94.760125,38.971054",
     "geom:latitude":38.971054,
     "geom:longitude":-94.760125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15020 W 87th Street Pkwy",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":202951607,
-    "wof:lastmodified":1449060205,
+    "wof:lastmodified":1466520159,
     "wof:name":"Past & Presents Gift & Home",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "card"
     ]
 },
-  "bbox": [-94.760125,38.971054,-94.760125,38.971054],
+  "bbox": [
+    -94.760125,
+    38.971054,
+    -94.760125,
+    38.971054
+],
   "geometry": {"coordinates":[-94.760125,38.971054],"type":"Point"}
 }

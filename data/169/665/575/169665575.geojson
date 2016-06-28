@@ -2,13 +2,14 @@
   "id": 169665575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.289977,39.011567,-95.289977,39.011567",
     "geom:latitude":39.011567,
     "geom:longitude":-95.289977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 N 1876 Rd",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169665575,
-    "wof:lastmodified":1449033695,
+    "wof:lastmodified":1466520454,
     "wof:name":"Schwering Randolph E & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-95.289977,39.011567,-95.289977,39.011567],
-  "geometry": {"coordinates":[-95.289977,39.011567],"type":"Point"}
+  "bbox": [
+    -95.289977,
+    39.011567,
+    -95.289977,
+    39.011567
+],
+  "geometry": {"coordinates":[-95.28997699999999,39.011567],"type":"Point"}
 }

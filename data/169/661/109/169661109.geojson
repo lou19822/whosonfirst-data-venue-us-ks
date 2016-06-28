@@ -2,13 +2,14 @@
   "id": 169661109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.229232,37.662882,-97.229232,37.662882",
     "geom:latitude":37.662882,
     "geom:longitude":-97.229232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9320 E Osie Ct",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169661109,
-    "wof:lastmodified":1449035597,
+    "wof:lastmodified":1466520424,
     "wof:name":"Place Apartments",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.229232,37.662882,-97.229232,37.662882],
+  "bbox": [
+    -97.229232,
+    37.662882,
+    -97.229232,
+    37.662882
+],
   "geometry": {"coordinates":[-97.229232,37.662882],"type":"Point"}
 }

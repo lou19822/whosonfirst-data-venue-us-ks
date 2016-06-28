@@ -2,13 +2,14 @@
   "id": 202921519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.247594,38.973148,-95.247594,38.973148",
     "geom:latitude":38.973148,
     "geom:longitude":-95.247594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 W 6th St Ste 216",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202921519,
-    "wof:lastmodified":1449061721,
+    "wof:lastmodified":1466519546,
     "wof:name":"Segebrecht, Stephen L Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "ear"
     ]
 },
-  "bbox": [-95.247594,38.973148,-95.247594,38.973148],
-  "geometry": {"coordinates":[-95.247594,38.973148],"type":"Point"}
+  "bbox": [
+    -95.247594,
+    38.973148,
+    -95.247594,
+    38.973148
+],
+  "geometry": {"coordinates":[-95.24759400000001,38.973148],"type":"Point"}
 }

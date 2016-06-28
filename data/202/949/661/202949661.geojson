@@ -2,13 +2,14 @@
   "id": 202949661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.642319,38.927601,-94.642319,38.927601",
     "geom:latitude":38.927601,
     "geom:longitude":-94.642319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4860 College Blvd",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202949661,
-    "wof:lastmodified":1449061680,
+    "wof:lastmodified":1466520151,
     "wof:name":"Craven Scott",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-94.642319,38.927601,-94.642319,38.927601],
+  "bbox": [
+    -94.642319,
+    38.927601,
+    -94.642319,
+    38.927601
+],
   "geometry": {"coordinates":[-94.642319,38.927601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169653767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.597856,38.972824,-94.597856,38.972824",
     "geom:latitude":38.972824,
     "geom:longitude":-94.597856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 W 86 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169653767,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466520390,
     "wof:name":"Christ The King Preschool",
     "wof:parent_id":85871969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-94.597856,38.972824,-94.597856,38.972824],
-  "geometry": {"coordinates":[-94.597856,38.972824],"type":"Point"}
+  "bbox": [
+    -94.597856,
+    38.972824,
+    -94.597856,
+    38.972824
+],
+  "geometry": {"coordinates":[-94.59785599999999,38.972824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202967151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.728117,39.136716,-95.728117,39.136716",
     "geom:latitude":39.136716,
     "geom:longitude":-95.728117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5033 NW 52nd St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202967151,
-    "wof:lastmodified":1449062457,
+    "wof:lastmodified":1466520260,
     "wof:name":"All Star Janitorial Inc",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-95.728117,39.136716,-95.728117,39.136716],
+  "bbox": [
+    -95.728117,
+    39.136716,
+    -95.728117,
+    39.136716
+],
   "geometry": {"coordinates":[-95.728117,39.136716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169637701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.687845,38.919535,-94.687845,38.919535",
     "geom:latitude":38.919535,
     "geom:longitude":-94.687845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8901 W 116th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169637701,
-    "wof:lastmodified":1449032689,
+    "wof:lastmodified":1466520247,
     "wof:name":"Painted Illusions",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mural"
     ]
 },
-  "bbox": [-94.687845,38.919535,-94.687845,38.919535],
+  "bbox": [
+    -94.687845,
+    38.919535,
+    -94.687845,
+    38.919535
+],
   "geometry": {"coordinates":[-94.687845,38.919535],"type":"Point"}
 }

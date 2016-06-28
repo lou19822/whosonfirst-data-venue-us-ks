@@ -2,13 +2,14 @@
   "id": 202957069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.557625,39.178965,-96.557625,39.178965",
     "geom:latitude":39.178965,
     "geom:longitude":-96.557625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Manhattan Town Ctr 330",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202957069,
-    "wof:lastmodified":1449062279,
+    "wof:lastmodified":1466520192,
     "wof:name":"Carlos Okllys Mxcan Restuarant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-96.557625,39.178965,-96.557625,39.178965],
+  "bbox": [
+    -96.557625,
+    39.178965,
+    -96.557625,
+    39.178965
+],
   "geometry": {"coordinates":[-96.557625,39.178965],"type":"Point"}
 }

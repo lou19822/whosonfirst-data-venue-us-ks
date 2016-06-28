@@ -2,13 +2,14 @@
   "id": 202937281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.87702,38.575684,-94.87702,38.575684",
     "geom:latitude":38.575684,
     "geom:longitude":-94.87702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 N Pearl",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":202937281,
-    "wof:lastmodified":1449060591,
+    "wof:lastmodified":1466519883,
     "wof:name":"Heritage Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "tile-cleaning"
     ]
 },
-  "bbox": [-94.87702,38.575684,-94.87702,38.575684],
+  "bbox": [
+    -94.87702,
+    38.575684,
+    -94.87702,
+    38.575684
+],
   "geometry": {"coordinates":[-94.87702,38.575684],"type":"Point"}
 }

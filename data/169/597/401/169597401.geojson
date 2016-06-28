@@ -2,13 +2,14 @@
   "id": 169597401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.381575,37.585681,-101.381575,37.585681",
     "geom:latitude":37.585681,
     "geom:longitude":-101.381575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N Rd I",
     "sg:city":"Ulysses",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169597401,
-    "wof:lastmodified":1449035924,
+    "wof:lastmodified":1466529871,
     "wof:name":"Coffey Trading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-101.381575,37.585681,-101.381575,37.585681],
+  "bbox": [
+    -101.381575,
+    37.585681,
+    -101.381575,
+    37.585681
+],
   "geometry": {"coordinates":[-101.381575,37.585681],"type":"Point"}
 }

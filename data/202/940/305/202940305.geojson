@@ -2,13 +2,14 @@
   "id": 202940305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.611929,38.822257,-94.611929,38.822257",
     "geom:latitude":38.822257,
     "geom:longitude":-94.611929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16715 Kenneth Rd",
     "sg:city":"Stilwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202940305,
-    "wof:lastmodified":1449060734,
+    "wof:lastmodified":1466519960,
     "wof:name":"Directional Systems Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.611929,38.822257,-94.611929,38.822257],
+  "bbox": [
+    -94.611929,
+    38.822257,
+    -94.611929,
+    38.822257
+],
   "geometry": {"coordinates":[-94.611929,38.822257],"type":"Point"}
 }

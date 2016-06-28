@@ -2,13 +2,14 @@
   "id": 202934697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.757132,38.918378,-94.757132,38.918378",
     "geom:latitude":38.918378,
     "geom:longitude":-94.757132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11610 S Alden St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202934697,
-    "wof:lastmodified":1449060231,
+    "wof:lastmodified":1466519841,
     "wof:name":"Phenix Label Company, Inc.",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.757132,38.918378,-94.757132,38.918378],
+  "bbox": [
+    -94.757132,
+    38.918378,
+    -94.757132,
+    38.918378
+],
   "geometry": {"coordinates":[-94.757132,38.918378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202981531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.3237,37.681422,-97.3237,37.681422",
     "geom:latitude":37.681422,
     "geom:longitude":-97.3237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 S Laura St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":202981531,
-    "wof:lastmodified":1449062700,
+    "wof:lastmodified":1466520370,
     "wof:name":"Area Wide Electric",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-97.3237,37.681422,-97.3237,37.681422],
+  "bbox": [
+    -97.3237,
+    37.681422,
+    -97.3237,
+    37.681422
+],
   "geometry": {"coordinates":[-97.3237,37.681422],"type":"Point"}
 }

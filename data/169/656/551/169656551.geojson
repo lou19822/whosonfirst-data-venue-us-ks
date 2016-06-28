@@ -2,13 +2,14 @@
   "id": 169656551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.145733,39.01505,-95.145733,39.01505",
     "geom:latitude":39.01505,
     "geom:longitude":-95.145733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24426 Loring Rd",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169656551,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1466520400,
     "wof:name":"Monte Torneden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-95.145733,39.01505,-95.145733,39.01505],
-  "geometry": {"coordinates":[-95.145733,39.01505],"type":"Point"}
+  "bbox": [
+    -95.145733,
+    39.01505,
+    -95.145733,
+    39.01505
+],
+  "geometry": {"coordinates":[-95.14573300000001,39.01505],"type":"Point"}
 }

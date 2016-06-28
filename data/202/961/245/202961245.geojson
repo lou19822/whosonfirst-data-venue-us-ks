@@ -2,13 +2,14 @@
   "id": 202961245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.710487,39.029637,-95.710487,39.029637",
     "geom:latitude":39.029637,
     "geom:longitude":-95.710487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2619 SW 21st St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":202961245,
-    "wof:lastmodified":1449062580,
+    "wof:lastmodified":1466520223,
     "wof:name":"Kwik Shop",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.710487,39.029637,-95.710487,39.029637],
+  "bbox": [
+    -95.710487,
+    39.029637,
+    -95.710487,
+    39.029637
+],
   "geometry": {"coordinates":[-95.710487,39.029637],"type":"Point"}
 }

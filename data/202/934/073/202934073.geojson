@@ -2,13 +2,14 @@
   "id": 202934073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.819462,38.882415,-94.819462,38.882415",
     "geom:latitude":38.882415,
     "geom:longitude":-94.819462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 North Cherry Street Suite 201",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202934073,
-    "wof:lastmodified":1449060227,
+    "wof:lastmodified":1466519807,
     "wof:name":"The Law Office of Jerry L. Wallentine, Jr., LLC",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "law"
     ]
 },
-  "bbox": [-94.819462,38.882415,-94.819462,38.882415],
+  "bbox": [
+    -94.819462,
+    38.882415,
+    -94.819462,
+    38.882415
+],
   "geometry": {"coordinates":[-94.819462,38.882415],"type":"Point"}
 }

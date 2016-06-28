@@ -2,13 +2,14 @@
   "id": 169616743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.658271,37.057209,-95.658271,37.057209",
     "geom:latitude":37.057209,
     "geom:longitude":-95.658271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2927 Northbrook",
     "sg:city":"Coffeyville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169616743,
-    "wof:lastmodified":1449035103,
+    "wof:lastmodified":1466519872,
     "wof:name":"Ribbons & Lace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bridal"
     ]
 },
-  "bbox": [-95.658271,37.057209,-95.658271,37.057209],
+  "bbox": [
+    -95.658271,
+    37.057209,
+    -95.658271,
+    37.057209
+],
   "geometry": {"coordinates":[-95.658271,37.057209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169617001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.341509,37.565683,-97.341509,37.565683",
     "geom:latitude":37.565683,
     "geom:longitude":-97.341509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 Freeman Ave",
     "sg:city":"Haysville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169617001,
-    "wof:lastmodified":1449032799,
+    "wof:lastmodified":1466529888,
     "wof:name":"East Grand Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.341509,37.565683,-97.341509,37.565683],
+  "bbox": [
+    -97.341509,
+    37.565683,
+    -97.341509,
+    37.565683
+],
   "geometry": {"coordinates":[-97.341509,37.565683],"type":"Point"}
 }

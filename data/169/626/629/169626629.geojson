@@ -2,13 +2,14 @@
   "id": 169626629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.149385,39.040115,-98.149385,39.040115",
     "geom:latitude":39.040115,
     "geom:longitude":-98.149385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Lincoln Ave",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169626629,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466520066,
     "wof:name":"Hungry Hunter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.149385,39.040115,-98.149385,39.040115],
+  "bbox": [
+    -98.149385,
+    39.040115,
+    -98.149385,
+    39.040115
+],
   "geometry": {"coordinates":[-98.149385,39.040115],"type":"Point"}
 }

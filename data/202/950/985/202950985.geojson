@@ -2,13 +2,14 @@
   "id": 202950985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.72374,38.970531,-94.72374,38.970531",
     "geom:latitude":38.970531,
     "geom:longitude":-94.72374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15200 Santa Fe Trail Dr Ste. 100",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202950985,
-    "wof:lastmodified":1449061109,
+    "wof:lastmodified":1466520170,
     "wof:name":"Aerotek",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.72374,38.970531,-94.72374,38.970531],
-  "geometry": {"coordinates":[-94.72374,38.970531],"type":"Point"}
+  "bbox": [
+    -94.72374,
+    38.970531,
+    -94.72374,
+    38.970531
+],
+  "geometry": {"coordinates":[-94.72374000000001,38.970531],"type":"Point"}
 }

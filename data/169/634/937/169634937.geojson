@@ -2,13 +2,14 @@
   "id": 169634937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.254438,37.709405,-97.254438,37.709405",
     "geom:latitude":37.709405,
     "geom:longitude":-97.254438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6914 E Timberon",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169634937,
-    "wof:lastmodified":1449034255,
+    "wof:lastmodified":1466520227,
     "wof:name":"Computers Plus",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.254438,37.709405,-97.254438,37.709405],
-  "geometry": {"coordinates":[-97.254438,37.709405],"type":"Point"}
+  "bbox": [
+    -97.254438,
+    37.709405,
+    -97.254438,
+    37.709405
+],
+  "geometry": {"coordinates":[-97.25443799999999,37.709405],"type":"Point"}
 }

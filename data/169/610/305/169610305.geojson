@@ -2,13 +2,14 @@
   "id": 169610305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.241823,38.968165,-95.241823,38.968165",
     "geom:latitude":38.968165,
     "geom:longitude":-95.241823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Louisiana St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169610305,
-    "wof:lastmodified":1449035910,
+    "wof:lastmodified":1466519707,
     "wof:name":"Ece Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "related"
     ]
 },
-  "bbox": [-95.241823,38.968165,-95.241823,38.968165],
+  "bbox": [
+    -95.241823,
+    38.968165,
+    -95.241823,
+    38.968165
+],
   "geometry": {"coordinates":[-95.241823,38.968165],"type":"Point"}
 }

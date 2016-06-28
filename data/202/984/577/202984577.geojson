@@ -2,13 +2,14 @@
   "id": 202984577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.537521,38.381535,-97.537521,38.381535",
     "geom:latitude":38.381535,
     "geom:longitude":-97.537521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 S Main St",
     "sg:city":"Galva",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202984577,
-    "wof:lastmodified":1449061540,
+    "wof:lastmodified":1466520351,
     "wof:name":"USPS - United States Post Office - Galva Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-97.537521,38.381535,-97.537521,38.381535],
+  "bbox": [
+    -97.537521,
+    38.381535,
+    -97.537521,
+    38.381535
+],
   "geometry": {"coordinates":[-97.537521,38.381535],"type":"Point"}
 }

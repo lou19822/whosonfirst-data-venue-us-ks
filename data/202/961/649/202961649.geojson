@@ -2,13 +2,14 @@
   "id": 202961649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.595594,39.011741,-95.595594,39.011741",
     "geom:latitude":39.011741,
     "geom:longitude":-95.595594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3026 SE Paulen Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202961649,
-    "wof:lastmodified":1449062581,
+    "wof:lastmodified":1466520242,
     "wof:name":"Nesbitt Co Inc",
     "wof:parent_id":85881535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-95.595594,39.011741,-95.595594,39.011741],
-  "geometry": {"coordinates":[-95.595594,39.011741],"type":"Point"}
+  "bbox": [
+    -95.595594,
+    39.011741,
+    -95.595594,
+    39.011741
+],
+  "geometry": {"coordinates":[-95.59559400000001,39.011741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169609569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.724914,39.036696,-95.724914,39.036696",
     "geom:latitude":39.036696,
     "geom:longitude":-95.724914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 SW Gage Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169609569,
-    "wof:lastmodified":1449033922,
+    "wof:lastmodified":1466519687,
     "wof:name":"Europa Garage",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.724914,39.036696,-95.724914,39.036696],
+  "bbox": [
+    -95.724914,
+    39.036696,
+    -95.724914,
+    39.036696
+],
   "geometry": {"coordinates":[-95.724914,39.036696],"type":"Point"}
 }

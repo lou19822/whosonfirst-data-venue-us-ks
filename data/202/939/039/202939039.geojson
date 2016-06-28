@@ -2,13 +2,14 @@
   "id": 202939039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.392248,39.073139,-95.392248,39.073139",
     "geom:latitude":39.073139,
     "geom:longitude":-95.392248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 E Front St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202939039,
-    "wof:lastmodified":1449060866,
+    "wof:lastmodified":1466529888,
     "wof:name":"Sm Ball Waste Disposal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "removal"
     ]
 },
-  "bbox": [-95.392248,39.073139,-95.392248,39.073139],
+  "bbox": [
+    -95.392248,
+    39.073139,
+    -95.392248,
+    39.073139
+],
   "geometry": {"coordinates":[-95.392248,39.073139],"type":"Point"}
 }

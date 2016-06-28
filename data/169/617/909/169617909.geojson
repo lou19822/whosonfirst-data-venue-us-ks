@@ -2,13 +2,14 @@
   "id": 169617909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.291013,38.950582,-95.291013,38.950582",
     "geom:latitude":38.950582,
     "geom:longitude":-95.291013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Crossgate Dr",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169617909,
-    "wof:lastmodified":1449032803,
+    "wof:lastmodified":1466519881,
     "wof:name":"Alvamar Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-95.291013,38.950582,-95.291013,38.950582],
-  "geometry": {"coordinates":[-95.291013,38.950582],"type":"Point"}
+  "bbox": [
+    -95.291013,
+    38.950582,
+    -95.291013,
+    38.950582
+],
+  "geometry": {"coordinates":[-95.29101300000001,38.950582],"type":"Point"}
 }

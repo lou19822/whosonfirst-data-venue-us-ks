@@ -2,13 +2,14 @@
   "id": 202975671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.686707,37.379069,-94.686707,37.379069",
     "geom:latitude":37.379069,
     "geom:longitude":-94.686707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 S Rouse St Ste E",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202975671,
-    "wof:lastmodified":1449062305,
+    "wof:lastmodified":1466520331,
     "wof:name":"Family Practice Medicine",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.686707,37.379069,-94.686707,37.379069],
+  "bbox": [
+    -94.686707,
+    37.379069,
+    -94.686707,
+    37.379069
+],
   "geometry": {"coordinates":[-94.686707,37.379069],"type":"Point"}
 }

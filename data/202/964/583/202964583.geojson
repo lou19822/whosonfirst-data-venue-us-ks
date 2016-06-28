@@ -2,13 +2,14 @@
   "id": 202964583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.692935,39.00913,-95.692935,39.00913",
     "geom:latitude":39.00913,
     "geom:longitude":-95.692935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 SW Cornwall St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202964583,
-    "wof:lastmodified":1449062029,
+    "wof:lastmodified":1466520285,
     "wof:name":"L & J Building Maintenance",
     "wof:parent_id":85881549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-95.692935,39.00913,-95.692935,39.00913],
-  "geometry": {"coordinates":[-95.692935,39.00913],"type":"Point"}
+  "bbox": [
+    -95.692935,
+    39.00913,
+    -95.692935,
+    39.00913
+],
+  "geometry": {"coordinates":[-95.69293500000001,39.00913],"type":"Point"}
 }

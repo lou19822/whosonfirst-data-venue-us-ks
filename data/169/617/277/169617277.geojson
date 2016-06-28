@@ -2,13 +2,14 @@
   "id": 169617277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.38965,37.697882,-97.38965,37.697882",
     "geom:latitude":37.697882,
     "geom:longitude":-97.38965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"791 N West St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169617277,
-    "wof:lastmodified":1449032800,
+    "wof:lastmodified":1466519855,
     "wof:name":"Continental Cyclery",
     "wof:parent_id":85872817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.38965,37.697882,-97.38965,37.697882],
+  "bbox": [
+    -97.38965,
+    37.697882,
+    -97.38965,
+    37.697882
+],
   "geometry": {"coordinates":[-97.38965,37.697882],"type":"Point"}
 }

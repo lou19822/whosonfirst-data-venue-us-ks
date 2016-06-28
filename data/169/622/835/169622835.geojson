@@ -2,13 +2,14 @@
   "id": 169622835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.669566,38.347442,-98.669566,38.347442",
     "geom:latitude":38.347442,
     "geom:longitude":-98.669566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 SE 10 Rd",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169622835,
-    "wof:lastmodified":1449035365,
+    "wof:lastmodified":1466520008,
     "wof:name":"Stafford County Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.669566,38.347442,-98.669566,38.347442],
+  "bbox": [
+    -98.669566,
+    38.347442,
+    -98.669566,
+    38.347442
+],
   "geometry": {"coordinates":[-98.669566,38.347442],"type":"Point"}
 }

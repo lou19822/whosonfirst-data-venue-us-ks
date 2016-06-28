@@ -2,13 +2,14 @@
   "id": 169629861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.203276,38.348248,-98.203276,38.348248",
     "geom:latitude":38.348248,
     "geom:longitude":-98.203276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 East Ave N",
     "sg:city":"Lyons",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169629861,
-    "wof:lastmodified":1449035187,
+    "wof:lastmodified":1466520146,
     "wof:name":"Minix Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-98.203276,38.348248,-98.203276,38.348248],
+  "bbox": [
+    -98.203276,
+    38.348248,
+    -98.203276,
+    38.348248
+],
   "geometry": {"coordinates":[-98.203276,38.348248],"type":"Point"}
 }

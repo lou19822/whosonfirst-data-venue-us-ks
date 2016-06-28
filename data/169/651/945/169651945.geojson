@@ -2,13 +2,14 @@
   "id": 169651945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.884771,37.824745,-96.884771,37.824745",
     "geom:latitude":37.824745,
     "geom:longitude":-96.884771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 W 6th Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169651945,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1466520389,
     "wof:name":"United Cementing & Acid Co",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "well"
     ]
 },
-  "bbox": [-96.884771,37.824745,-96.884771,37.824745],
+  "bbox": [
+    -96.884771,
+    37.824745,
+    -96.884771,
+    37.824745
+],
   "geometry": {"coordinates":[-96.884771,37.824745],"type":"Point"}
 }

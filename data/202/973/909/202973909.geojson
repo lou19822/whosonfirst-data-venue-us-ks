@@ -2,13 +2,14 @@
   "id": 202973909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.704811,37.411114,-94.704811,37.411114",
     "geom:latitude":37.411114,
     "geom:longitude":-94.704811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E 4th St Rm 304",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202973909,
-    "wof:lastmodified":1449061642,
+    "wof:lastmodified":1466520342,
     "wof:name":"Papp S Dean Jr Md",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "medicine"
     ]
 },
-  "bbox": [-94.704811,37.411114,-94.704811,37.411114],
-  "geometry": {"coordinates":[-94.704811,37.411114],"type":"Point"}
+  "bbox": [
+    -94.704811,
+    37.411114,
+    -94.704811,
+    37.411114
+],
+  "geometry": {"coordinates":[-94.70481100000001,37.411114],"type":"Point"}
 }

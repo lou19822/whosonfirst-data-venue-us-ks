@@ -2,13 +2,14 @@
   "id": 169604719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.26728,38.535597,-95.26728,38.535597",
     "geom:latitude":38.535597,
     "geom:longitude":-95.26728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 Jackson Rd",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169604719,
-    "wof:lastmodified":1449035567,
+    "wof:lastmodified":1466519510,
     "wof:name":"Roberts Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.26728,38.535597,-95.26728,38.535597],
+  "bbox": [
+    -95.26728,
+    38.535597,
+    -95.26728,
+    38.535597
+],
   "geometry": {"coordinates":[-95.26728,38.535597],"type":"Point"}
 }

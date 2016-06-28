@@ -2,13 +2,14 @@
   "id": 169637349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.626219,38.940435,-94.626219,38.940435",
     "geom:latitude":38.940435,
     "geom:longitude":-94.626219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10312 Mohawk Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169637349,
-    "wof:lastmodified":1449032688,
+    "wof:lastmodified":1466520234,
     "wof:name":"Don A Rathbun",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-94.626219,38.940435,-94.626219,38.940435],
-  "geometry": {"coordinates":[-94.626219,38.940435],"type":"Point"}
+  "bbox": [
+    -94.626219,
+    38.940435,
+    -94.626219,
+    38.940435
+],
+  "geometry": {"coordinates":[-94.62621900000001,38.940435],"type":"Point"}
 }

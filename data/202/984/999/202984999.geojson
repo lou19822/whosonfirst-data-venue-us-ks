@@ -2,13 +2,14 @@
   "id": 202984999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.650841,38.35453,-97.650841,38.35453",
     "geom:latitude":38.35453,
     "geom:longitude":-97.650841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Fox Run Rd",
     "sg:city":"Mcpherson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202984999,
-    "wof:lastmodified":1449061541,
+    "wof:lastmodified":1466520362,
     "wof:name":"Turkey Creek Golf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-97.650841,38.35453,-97.650841,38.35453],
+  "bbox": [
+    -97.650841,
+    38.35453,
+    -97.650841,
+    38.35453
+],
   "geometry": {"coordinates":[-97.650841,38.35453],"type":"Point"}
 }

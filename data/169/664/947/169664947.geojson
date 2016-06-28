@@ -2,13 +2,14 @@
   "id": 169664947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.745265,38.932973,-94.745265,38.932973",
     "geom:latitude":38.932973,
     "geom:longitude":-94.745265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13920 W 108th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169664947,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1466520464,
     "wof:name":"Graves Floor Svc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-94.745265,38.932973,-94.745265,38.932973],
+  "bbox": [
+    -94.745265,
+    38.932973,
+    -94.745265,
+    38.932973
+],
   "geometry": {"coordinates":[-94.745265,38.932973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169662245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.537652,38.167942,-97.537652,38.167942",
     "geom:latitude":38.167942,
     "geom:longitude":-97.537652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10431 N Old Settlers Rd",
     "sg:city":"Moundridge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169662245,
-    "wof:lastmodified":1449034923,
+    "wof:lastmodified":1466520430,
     "wof:name":"Old Settlers Inn & Orchard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-97.537652,38.167942,-97.537652,38.167942],
-  "geometry": {"coordinates":[-97.537652,38.167942],"type":"Point"}
+  "bbox": [
+    -97.537652,
+    38.167942,
+    -97.537652,
+    38.167942
+],
+  "geometry": {"coordinates":[-97.53765199999999,38.167942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202959663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.365276,39.213167,-96.365276,39.213167",
     "geom:latitude":39.213167,
     "geom:longitude":-96.365276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14980 Lake Crossing Rd",
     "sg:city":"Wamego",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202959663,
-    "wof:lastmodified":1449062394,
+    "wof:lastmodified":1466520214,
     "wof:name":"C.R. Rentals, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "store"
     ]
 },
-  "bbox": [-96.365276,39.213167,-96.365276,39.213167],
-  "geometry": {"coordinates":[-96.365276,39.213167],"type":"Point"}
+  "bbox": [
+    -96.365276,
+    39.213167,
+    -96.365276,
+    39.213167
+],
+  "geometry": {"coordinates":[-96.36527599999999,39.213167],"type":"Point"}
 }

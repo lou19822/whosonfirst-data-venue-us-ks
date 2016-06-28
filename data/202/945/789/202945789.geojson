@@ -2,13 +2,14 @@
   "id": 202945789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.714546,39.013302,-94.714546,39.013302",
     "geom:latitude":39.013302,
     "geom:longitude":-94.714546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Nieman Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":202945789,
-    "wof:lastmodified":1449060331,
+    "wof:lastmodified":1466520119,
     "wof:name":"The Tile Shop",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-94.714546,39.013302,-94.714546,39.013302],
+  "bbox": [
+    -94.714546,
+    39.013302,
+    -94.714546,
+    39.013302
+],
   "geometry": {"coordinates":[-94.714546,39.013302],"type":"Point"}
 }

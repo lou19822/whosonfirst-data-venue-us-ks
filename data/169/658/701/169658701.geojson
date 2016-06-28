@@ -2,13 +2,14 @@
   "id": 169658701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.784966,38.89211,-94.784966,38.89211",
     "geom:latitude":38.89211,
     "geom:longitude":-94.784966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 N Lindenwood Dr",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169658701,
-    "wof:lastmodified":1449032616,
+    "wof:lastmodified":1466520424,
     "wof:name":"Rogers Industries",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "computer"
     ]
 },
-  "bbox": [-94.784966,38.89211,-94.784966,38.89211],
+  "bbox": [
+    -94.784966,
+    38.89211,
+    -94.784966,
+    38.89211
+],
   "geometry": {"coordinates":[-94.784966,38.89211],"type":"Point"}
 }

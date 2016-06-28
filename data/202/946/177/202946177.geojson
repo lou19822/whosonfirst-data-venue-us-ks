@@ -2,13 +2,14 @@
   "id": 202946177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.638462,39.016806,-94.638462,39.016806",
     "geom:latitude":39.016806,
     "geom:longitude":-94.638462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4624 W 62nd St",
     "sg:city":"Fairway",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202946177,
-    "wof:lastmodified":1449062349,
+    "wof:lastmodified":1466520090,
     "wof:name":"Napier, Kari",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "first"
     ]
 },
-  "bbox": [-94.638462,39.016806,-94.638462,39.016806],
+  "bbox": [
+    -94.638462,
+    39.016806,
+    -94.638462,
+    39.016806
+],
   "geometry": {"coordinates":[-94.638462,39.016806],"type":"Point"}
 }

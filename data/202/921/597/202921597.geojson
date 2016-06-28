@@ -2,13 +2,14 @@
   "id": 202921597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.26053,38.93981,-95.26053,38.93981",
     "geom:latitude":38.93981,
     "geom:longitude":-95.26053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2429 Iowa St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202921597,
-    "wof:lastmodified":1449061722,
+    "wof:lastmodified":1466519550,
     "wof:name":"Z Hair Academy Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-95.26053,38.93981,-95.26053,38.93981],
+  "bbox": [
+    -95.26053,
+    38.93981,
+    -95.26053,
+    38.93981
+],
   "geometry": {"coordinates":[-95.26053,38.93981],"type":"Point"}
 }

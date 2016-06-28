@@ -2,13 +2,14 @@
   "id": 169612199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.596471,38.807481,-97.596471,38.807481",
     "geom:latitude":38.807481,
     "geom:longitude":-97.596471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Buckeye Ave",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169612199,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466519763,
     "wof:name":"Atherton Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.596471,38.807481,-97.596471,38.807481],
-  "geometry": {"coordinates":[-97.596471,38.807481],"type":"Point"}
+  "bbox": [
+    -97.596471,
+    38.807481,
+    -97.596471,
+    38.807481
+],
+  "geometry": {"coordinates":[-97.59647099999999,38.807481],"type":"Point"}
 }

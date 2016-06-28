@@ -2,13 +2,14 @@
   "id": 202962671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.693834,39.058628,-95.693834,39.058628",
     "geom:latitude":39.058628,
     "geom:longitude":-95.693834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 SW Horne St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202962671,
-    "wof:lastmodified":1449061606,
+    "wof:lastmodified":1466520245,
     "wof:name":"Pulmonary & Sleep Associates",
     "wof:parent_id":85881561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "pulmonary"
     ]
 },
-  "bbox": [-95.693834,39.058628,-95.693834,39.058628],
+  "bbox": [
+    -95.693834,
+    39.058628,
+    -95.693834,
+    39.058628
+],
   "geometry": {"coordinates":[-95.693834,39.058628],"type":"Point"}
 }

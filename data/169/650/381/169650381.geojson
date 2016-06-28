@@ -2,13 +2,14 @@
   "id": 169650381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.261676,38.597769,-95.261676,38.597769",
     "geom:latitude":38.597769,
     "geom:longitude":-95.261676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 S Mulberry St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169650381,
-    "wof:lastmodified":1449034700,
+    "wof:lastmodified":1466520370,
     "wof:name":"Hiatt's Painting & Papering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-95.261676,38.597769,-95.261676,38.597769],
-  "geometry": {"coordinates":[-95.261676,38.597769],"type":"Point"}
+  "bbox": [
+    -95.261676,
+    38.597769,
+    -95.261676,
+    38.597769
+],
+  "geometry": {"coordinates":[-95.26167599999999,38.597769],"type":"Point"}
 }

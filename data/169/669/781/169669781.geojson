@@ -2,13 +2,14 @@
   "id": 169669781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.686398,38.899394,-94.686398,38.899394",
     "geom:latitude":38.899394,
     "geom:longitude":-94.686398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12645 Antioch Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169669781,
-    "wof:lastmodified":1449033057,
+    "wof:lastmodified":1466520492,
     "wof:name":"Antioch Shoe Repair",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boot"
     ]
 },
-  "bbox": [-94.686398,38.899394,-94.686398,38.899394],
+  "bbox": [
+    -94.686398,
+    38.899394,
+    -94.686398,
+    38.899394
+],
   "geometry": {"coordinates":[-94.686398,38.899394],"type":"Point"}
 }

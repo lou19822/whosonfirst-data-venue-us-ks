@@ -2,13 +2,14 @@
   "id": 169665499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.707406,37.841859,-94.707406,37.841859",
     "geom:latitude":37.841859,
     "geom:longitude":-94.707406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 S National Ave",
     "sg:city":"Fort Scott",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169665499,
-    "wof:lastmodified":1449033696,
+    "wof:lastmodified":1466520452,
     "wof:name":"Randall R Holloway OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.707406,37.841859,-94.707406,37.841859],
-  "geometry": {"coordinates":[-94.707406,37.841859],"type":"Point"}
+  "bbox": [
+    -94.707406,
+    37.841859,
+    -94.707406,
+    37.841859
+],
+  "geometry": {"coordinates":[-94.70740600000001,37.841859],"type":"Point"}
 }

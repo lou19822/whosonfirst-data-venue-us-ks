@@ -2,13 +2,14 @@
   "id": 169624187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.691453,38.953147,-94.691453,38.953147",
     "geom:latitude":38.953147,
     "geom:longitude":-94.691453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9531 Grandview St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169624187,
-    "wof:lastmodified":1449034957,
+    "wof:lastmodified":1466520009,
     "wof:name":"Wendy Nowachek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.691453,38.953147,-94.691453,38.953147],
+  "bbox": [
+    -94.691453,
+    38.953147,
+    -94.691453,
+    38.953147
+],
   "geometry": {"coordinates":[-94.691453,38.953147],"type":"Point"}
 }

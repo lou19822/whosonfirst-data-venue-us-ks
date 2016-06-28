@@ -2,13 +2,14 @@
   "id": 169624383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.334224,37.62415,-97.334224,37.62415",
     "geom:latitude":37.62415,
     "geom:longitude":-97.334224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 S Broadway Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169624383,
-    "wof:lastmodified":1449034956,
+    "wof:lastmodified":1466520017,
     "wof:name":"Heartland Service Dept",
     "wof:parent_id":85834033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.334224,37.62415,-97.334224,37.62415],
-  "geometry": {"coordinates":[-97.334224,37.62415],"type":"Point"}
+  "bbox": [
+    -97.334224,
+    37.62415,
+    -97.334224,
+    37.62415
+],
+  "geometry": {"coordinates":[-97.33422400000001,37.62415],"type":"Point"}
 }

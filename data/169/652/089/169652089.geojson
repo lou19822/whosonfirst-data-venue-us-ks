@@ -2,13 +2,14 @@
   "id": 169652089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.842872,39.029206,-96.842872,39.029206",
     "geom:latitude":39.029206,
     "geom:longitude":-96.842872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 W 7th St",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169652089,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466520363,
     "wof:name":"Jerry D Cope",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.842872,39.029206,-96.842872,39.029206],
+  "bbox": [
+    -96.842872,
+    39.029206,
+    -96.842872,
+    39.029206
+],
   "geometry": {"coordinates":[-96.842872,39.029206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169612203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.264044,37.341953,-95.264044,37.341953",
     "geom:latitude":37.341953,
     "geom:longitude":-95.264044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Central Ave",
     "sg:city":"Parsons",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169612203,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466519764,
     "wof:name":"Ernesto's Mexican Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.264044,37.341953,-95.264044,37.341953],
+  "bbox": [
+    -95.264044,
+    37.341953,
+    -95.264044,
+    37.341953
+],
   "geometry": {"coordinates":[-95.264044,37.341953],"type":"Point"}
 }

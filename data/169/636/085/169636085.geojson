@@ -2,13 +2,14 @@
   "id": 169636085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.758015,38.936771,-94.758015,38.936771",
     "geom:latitude":38.936771,
     "geom:longitude":-94.758015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15002 W 106th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169636085,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1466520218,
     "wof:name":"Galbreath Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "builder"
     ]
 },
-  "bbox": [-94.758015,38.936771,-94.758015,38.936771],
+  "bbox": [
+    -94.758015,
+    38.936771,
+    -94.758015,
+    38.936771
+],
   "geometry": {"coordinates":[-94.758015,38.936771],"type":"Point"}
 }

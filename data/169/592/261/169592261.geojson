@@ -2,13 +2,14 @@
   "id": 169592261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.233681,38.277649,-95.233681,38.277649",
     "geom:latitude":38.277649,
     "geom:longitude":-95.233681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 E 7th Ave",
     "sg:city":"Garnett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169592261,
-    "wof:lastmodified":1449034582,
+    "wof:lastmodified":1466520157,
     "wof:name":"Lloyd Sutton Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-95.233681,38.277649,-95.233681,38.277649],
+  "bbox": [
+    -95.233681,
+    38.277649,
+    -95.233681,
+    38.277649
+],
   "geometry": {"coordinates":[-95.233681,38.277649],"type":"Point"}
 }

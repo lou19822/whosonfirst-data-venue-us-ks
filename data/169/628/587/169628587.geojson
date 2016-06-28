@@ -2,13 +2,14 @@
   "id": 169628587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.404374,37.920493,-95.404374,37.920493",
     "geom:latitude":37.920493,
     "geom:longitude":-95.404374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 South St",
     "sg:city":"Iola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169628587,
-    "wof:lastmodified":1449035333,
+    "wof:lastmodified":1466520104,
     "wof:name":"Iola Glass Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-95.404374,37.920493,-95.404374,37.920493],
+  "bbox": [
+    -95.404374,
+    37.920493,
+    -95.404374,
+    37.920493
+],
   "geometry": {"coordinates":[-95.404374,37.920493],"type":"Point"}
 }

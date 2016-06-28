@@ -2,13 +2,14 @@
   "id": 169641431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.818258,38.882017,-94.818258,38.882017",
     "geom:latitude":38.882017,
     "geom:longitude":-94.818258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Park St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169641431,
-    "wof:lastmodified":1449035167,
+    "wof:lastmodified":1466520281,
     "wof:name":"Borth James R",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.818258,38.882017,-94.818258,38.882017],
+  "bbox": [
+    -94.818258,
+    38.882017,
+    -94.818258,
+    38.882017
+],
   "geometry": {"coordinates":[-94.818258,38.882017],"type":"Point"}
 }

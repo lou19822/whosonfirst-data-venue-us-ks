@@ -2,13 +2,14 @@
   "id": 202975021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.700584,37.393009,-94.700584,37.393009",
     "geom:latitude":37.393009,
     "geom:longitude":-94.700584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 S Joplin St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202975021,
-    "wof:lastmodified":1449062306,
+    "wof:lastmodified":1466520303,
     "wof:name":"Axe, Leonard H Library At Pittsburg State University",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.700584,37.393009,-94.700584,37.393009],
-  "geometry": {"coordinates":[-94.700584,37.393009],"type":"Point"}
+  "bbox": [
+    -94.700584,
+    37.393009,
+    -94.700584,
+    37.393009
+],
+  "geometry": {"coordinates":[-94.70058400000001,37.393009],"type":"Point"}
 }

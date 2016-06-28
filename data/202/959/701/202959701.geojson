@@ -2,13 +2,14 @@
   "id": 202959701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.676291,39.052155,-95.676291,39.052155",
     "geom:latitude":39.052155,
     "geom:longitude":-95.676291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 SW Van Buren St Frnt",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202959701,
-    "wof:lastmodified":1449062395,
+    "wof:lastmodified":1466520218,
     "wof:name":"Thompson-Crawley Office Furn",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "store"
     ]
 },
-  "bbox": [-95.676291,39.052155,-95.676291,39.052155],
-  "geometry": {"coordinates":[-95.676291,39.052155],"type":"Point"}
+  "bbox": [
+    -95.676291,
+    39.052155,
+    -95.676291,
+    39.052155
+],
+  "geometry": {"coordinates":[-95.67629100000001,39.052155],"type":"Point"}
 }

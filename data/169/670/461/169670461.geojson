@@ -2,13 +2,14 @@
   "id": 169670461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.908097,38.804836,-94.908097,38.804836",
     "geom:latitude":38.804836,
     "geom:longitude":-94.908097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Witch Hollow",
     "sg:city":"Gardner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169670461,
-    "wof:lastmodified":1449033184,
+    "wof:lastmodified":1466520473,
     "wof:name":"Complete Auto Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-94.908097,38.804836,-94.908097,38.804836],
+  "bbox": [
+    -94.908097,
+    38.804836,
+    -94.908097,
+    38.804836
+],
   "geometry": {"coordinates":[-94.908097,38.804836],"type":"Point"}
 }

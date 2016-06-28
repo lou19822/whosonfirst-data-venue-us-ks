@@ -2,13 +2,14 @@
   "id": 202939223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.745163,38.219025,-94.745163,38.219025",
     "geom:latitude":38.219025,
     "geom:longitude":-94.745163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18823 E 1350 Rd",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202939223,
-    "wof:lastmodified":1449060864,
+    "wof:lastmodified":1466519926,
     "wof:name":"Lewis Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.745163,38.219025,-94.745163,38.219025],
-  "geometry": {"coordinates":[-94.745163,38.219025],"type":"Point"}
+  "bbox": [
+    -94.745163,
+    38.219025,
+    -94.745163,
+    38.219025
+],
+  "geometry": {"coordinates":[-94.74516300000001,38.219025],"type":"Point"}
 }

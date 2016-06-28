@@ -2,13 +2,14 @@
   "id": 202977741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.850178,37.278422,-94.850178,37.278422",
     "geom:latitude":37.278422,
     "geom:longitude":-94.850178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E 3rd St",
     "sg:city":"Scammon",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202977741,
-    "wof:lastmodified":1449062729,
+    "wof:lastmodified":1466520338,
     "wof:name":"Cherokee County Rural Water Distict 4",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.850178,37.278422,-94.850178,37.278422],
+  "bbox": [
+    -94.850178,
+    37.278422,
+    -94.850178,
+    37.278422
+],
   "geometry": {"coordinates":[-94.850178,37.278422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202939401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.69545,38.201963,-94.69545,38.201963",
     "geom:latitude":38.201963,
     "geom:longitude":-94.69545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12249 Underhill Rd",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202939401,
-    "wof:lastmodified":1449060866,
+    "wof:lastmodified":1466519936,
     "wof:name":"Robert J Dent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.69545,38.201963,-94.69545,38.201963],
-  "geometry": {"coordinates":[-94.69545,38.201963],"type":"Point"}
+  "bbox": [
+    -94.69545,
+    38.201963,
+    -94.69545,
+    38.201963
+],
+  "geometry": {"coordinates":[-94.69544999999999,38.201963],"type":"Point"}
 }

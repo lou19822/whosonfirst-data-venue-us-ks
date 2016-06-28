@@ -2,13 +2,14 @@
   "id": 202963317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.634947,39.036998,-95.634947,39.036998",
     "geom:latitude":39.036998,
     "geom:longitude":-95.634947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3167 SE 10th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202963317,
-    "wof:lastmodified":1449060359,
+    "wof:lastmodified":1466520235,
     "wof:name":"Reser's Fine Foods",
     "wof:parent_id":85881533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-95.634947,39.036998,-95.634947,39.036998],
+  "bbox": [
+    -95.634947,
+    39.036998,
+    -95.634947,
+    39.036998
+],
   "geometry": {"coordinates":[-95.634947,39.036998],"type":"Point"}
 }

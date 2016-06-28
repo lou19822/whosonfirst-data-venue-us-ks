@@ -2,13 +2,14 @@
   "id": 169650401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.327923,38.869166,-99.327923,38.869166",
     "geom:latitude":38.869166,
     "geom:longitude":-99.327923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 E 8th St",
     "sg:city":"Hays",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169650401,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466520371,
     "wof:name":"Sunflower Family Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-99.327923,38.869166,-99.327923,38.869166],
+  "bbox": [
+    -99.327923,
+    38.869166,
+    -99.327923,
+    38.869166
+],
   "geometry": {"coordinates":[-99.327923,38.869166],"type":"Point"}
 }

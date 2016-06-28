@@ -2,13 +2,14 @@
   "id": 202920639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.881364,39.261076,-94.881364,39.261076",
     "geom:latitude":39.261076,
     "geom:longitude":-94.881364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 N Highway 5",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202920639,
-    "wof:lastmodified":1449062084,
+    "wof:lastmodified":1466519548,
     "wof:name":"City Lansing Waste Water Trtmt",
     "wof:parent_id":85811613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-94.881364,39.261076,-94.881364,39.261076],
+  "bbox": [
+    -94.881364,
+    39.261076,
+    -94.881364,
+    39.261076
+],
   "geometry": {"coordinates":[-94.881364,39.261076],"type":"Point"}
 }

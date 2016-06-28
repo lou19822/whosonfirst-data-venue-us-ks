@@ -2,13 +2,14 @@
   "id": 202916427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.121801,39.560639,-95.121801,39.560639",
     "geom:latitude":39.560639,
     "geom:longitude":-95.121801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S 7th St Apt 1016",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202916427,
-    "wof:lastmodified":1449061501,
+    "wof:lastmodified":1466519455,
     "wof:name":"United For Christ Ministries I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.121801,39.560639,-95.121801,39.560639],
+  "bbox": [
+    -95.121801,
+    39.560639,
+    -95.121801,
+    39.560639
+],
   "geometry": {"coordinates":[-95.121801,39.560639],"type":"Point"}
 }

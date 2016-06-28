@@ -2,13 +2,14 @@
   "id": 202934105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.826749,38.875688,-94.826749,38.875688",
     "geom:latitude":38.875688,
     "geom:longitude":-94.826749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 S. Grant",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202934105,
-    "wof:lastmodified":1449060228,
+    "wof:lastmodified":1466519809,
     "wof:name":"Creek Tree Service, Inc.",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "landscape"
     ]
 },
-  "bbox": [-94.826749,38.875688,-94.826749,38.875688],
-  "geometry": {"coordinates":[-94.826749,38.875688],"type":"Point"}
+  "bbox": [
+    -94.826749,
+    38.875688,
+    -94.826749,
+    38.875688
+],
+  "geometry": {"coordinates":[-94.82674900000001,38.875688],"type":"Point"}
 }

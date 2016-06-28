@@ -2,13 +2,14 @@
   "id": 202958569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.56883,39.189732,-95.56883,39.189732",
     "geom:latitude":39.189732,
     "geom:longitude":-95.56883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Palmer St",
     "sg:city":"Meriden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202958569,
-    "wof:lastmodified":1449062100,
+    "wof:lastmodified":1466520205,
     "wof:name":"Law Office of David Leffingwell, L.L.C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "law"
     ]
 },
-  "bbox": [-95.56883,39.189732,-95.56883,39.189732],
-  "geometry": {"coordinates":[-95.56883,39.189732],"type":"Point"}
+  "bbox": [
+    -95.56883,
+    39.189732,
+    -95.56883,
+    39.189732
+],
+  "geometry": {"coordinates":[-95.56883000000001,39.189732],"type":"Point"}
 }

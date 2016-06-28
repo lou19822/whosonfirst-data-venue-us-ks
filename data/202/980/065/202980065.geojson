@@ -2,13 +2,14 @@
   "id": 202980065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.340698,37.697498,-97.340698,37.697498",
     "geom:latitude":37.697498,
     "geom:longitude":-97.340698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Murdock St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202980065,
-    "wof:lastmodified":1449060283,
+    "wof:lastmodified":1466520341,
     "wof:name":"CDK Wichita",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "accessory"
     ]
 },
-  "bbox": [-97.340698,37.697498,-97.340698,37.697498],
+  "bbox": [
+    -97.340698,
+    37.697498,
+    -97.340698,
+    37.697498
+],
   "geometry": {"coordinates":[-97.340698,37.697498],"type":"Point"}
 }

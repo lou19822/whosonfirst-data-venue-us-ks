@@ -2,13 +2,14 @@
   "id": 169661945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.729102,39.022214,-94.729102,39.022214",
     "geom:latitude":39.022214,
     "geom:longitude":-94.729102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12206 Johnson Dr",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169661945,
-    "wof:lastmodified":1449035597,
+    "wof:lastmodified":1466520455,
     "wof:name":"Accurate Appraisals Of KC",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-94.729102,39.022214,-94.729102,39.022214],
+  "bbox": [
+    -94.729102,
+    39.022214,
+    -94.729102,
+    39.022214
+],
   "geometry": {"coordinates":[-94.729102,39.022214],"type":"Point"}
 }

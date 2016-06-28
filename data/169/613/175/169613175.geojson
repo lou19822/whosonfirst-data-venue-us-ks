@@ -2,13 +2,14 @@
   "id": 169613175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.808097,39.050887,-94.808097,39.050887",
     "geom:latitude":39.050887,
     "geom:longitude":-94.808097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10011 Woodend Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169613175,
-    "wof:lastmodified":1449034212,
+    "wof:lastmodified":1466519769,
     "wof:name":"Cls Investments Inc",
     "wof:parent_id":85825921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-94.808097,39.050887,-94.808097,39.050887],
+  "bbox": [
+    -94.808097,
+    39.050887,
+    -94.808097,
+    39.050887
+],
   "geometry": {"coordinates":[-94.808097,39.050887],"type":"Point"}
 }

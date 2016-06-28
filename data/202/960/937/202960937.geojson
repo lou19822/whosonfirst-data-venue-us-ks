@@ -2,13 +2,14 @@
   "id": 202960937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.687251,39.048941,-95.687251,39.048941",
     "geom:latitude":39.048941,
     "geom:longitude":-95.687251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 SW 10th Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202960937,
-    "wof:lastmodified":1449061920,
+    "wof:lastmodified":1466520242,
     "wof:name":"Rodeheffer, David C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trade"
     ]
 },
-  "bbox": [-95.687251,39.048941,-95.687251,39.048941],
+  "bbox": [
+    -95.687251,
+    39.048941,
+    -95.687251,
+    39.048941
+],
   "geometry": {"coordinates":[-95.687251,39.048941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169654871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.357627,37.578676,-101.357627,37.578676",
     "geom:latitude":37.578676,
     "geom:longitude":-101.357627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Santa Fe Ave",
     "sg:city":"Lakin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169654871,
-    "wof:lastmodified":1449033791,
+    "wof:lastmodified":1466520413,
     "wof:name":"Perfect Arrangement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.357627,37.578676,-101.357627,37.578676],
-  "geometry": {"coordinates":[-101.357627,37.578676],"type":"Point"}
+  "bbox": [
+    -101.357627,
+    37.578676,
+    -101.357627,
+    37.578676
+],
+  "geometry": {"coordinates":[-101.35762699999999,37.578676],"type":"Point"}
 }

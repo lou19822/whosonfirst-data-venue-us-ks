@@ -2,13 +2,14 @@
   "id": 202961085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.725891,39.046478,-95.725891,39.046478",
     "geom:latitude":39.046478,
     "geom:longitude":-95.725891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 SW Mission Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202961085,
-    "wof:lastmodified":1449062578,
+    "wof:lastmodified":1466520215,
     "wof:name":"Nancy Weigand, Topeka Therapeutic Massage",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapist"
     ]
 },
-  "bbox": [-95.725891,39.046478,-95.725891,39.046478],
+  "bbox": [
+    -95.725891,
+    39.046478,
+    -95.725891,
+    39.046478
+],
   "geometry": {"coordinates":[-95.725891,39.046478],"type":"Point"}
 }

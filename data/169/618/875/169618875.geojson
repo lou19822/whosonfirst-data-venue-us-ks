@@ -2,13 +2,14 @@
   "id": 169618875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.167495,38.775648,-95.167495,38.775648",
     "geom:latitude":38.775648,
     "geom:longitude":-95.167495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 US Hwy 56",
     "sg:city":"Baldwin City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169618875,
-    "wof:lastmodified":1449034737,
+    "wof:lastmodified":1466519917,
     "wof:name":"Kansas Rural Letter Carriers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.167495,38.775648,-95.167495,38.775648],
+  "bbox": [
+    -95.167495,
+    38.775648,
+    -95.167495,
+    38.775648
+],
   "geometry": {"coordinates":[-95.167495,38.775648],"type":"Point"}
 }

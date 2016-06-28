@@ -2,13 +2,14 @@
   "id": 169601851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.423227,37.678598,-97.423227,37.678598",
     "geom:latitude":37.678598,
     "geom:longitude":-97.423227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 S Scouller St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169601851,
-    "wof:lastmodified":1449034148,
+    "wof:lastmodified":1466519472,
     "wof:name":"Cummings Janitorial Svc",
     "wof:parent_id":85833555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-97.423227,37.678598,-97.423227,37.678598],
+  "bbox": [
+    -97.423227,
+    37.678598,
+    -97.423227,
+    37.678598
+],
   "geometry": {"coordinates":[-97.423227,37.678598],"type":"Point"}
 }

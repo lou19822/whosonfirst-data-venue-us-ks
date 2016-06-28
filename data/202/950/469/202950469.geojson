@@ -2,13 +2,14 @@
   "id": 202950469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.66409,38.927582,-94.66409,38.927582",
     "geom:latitude":38.927582,
     "geom:longitude":-94.66409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 College Blvd",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202950469,
-    "wof:lastmodified":1449061110,
+    "wof:lastmodified":1466520152,
     "wof:name":"Dickey Wolf & Humbard",
     "wof:parent_id":85879547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-interdenominational"
     ]
 },
-  "bbox": [-94.66409,38.927582,-94.66409,38.927582],
+  "bbox": [
+    -94.66409,
+    38.927582,
+    -94.66409,
+    38.927582
+],
   "geometry": {"coordinates":[-94.66409,38.927582],"type":"Point"}
 }

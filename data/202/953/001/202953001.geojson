@@ -2,13 +2,14 @@
   "id": 202953001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.757057,38.987171,-94.757057,38.987171",
     "geom:latitude":38.987171,
     "geom:longitude":-94.757057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7817 Alden Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202953001,
-    "wof:lastmodified":1449061834,
+    "wof:lastmodified":1466529892,
     "wof:name":"Gamma Consulting",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "online"
     ]
 },
-  "bbox": [-94.757057,38.987171,-94.757057,38.987171],
+  "bbox": [
+    -94.757057,
+    38.987171,
+    -94.757057,
+    38.987171
+],
   "geometry": {"coordinates":[-94.757057,38.987171],"type":"Point"}
 }

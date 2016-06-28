@@ -2,13 +2,14 @@
   "id": 202980315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.344784,37.724564,-97.344784,37.724564",
     "geom:latitude":37.724564,
     "geom:longitude":-97.344784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 N Arkansas Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202980315,
-    "wof:lastmodified":1449060285,
+    "wof:lastmodified":1466520353,
     "wof:name":"Best Phone",
     "wof:parent_id":85872827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-97.344784,37.724564,-97.344784,37.724564],
+  "bbox": [
+    -97.344784,
+    37.724564,
+    -97.344784,
+    37.724564
+],
   "geometry": {"coordinates":[-97.344784,37.724564],"type":"Point"}
 }

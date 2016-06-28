@@ -2,13 +2,14 @@
   "id": 169644649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.321248,37.686176,-97.321248,37.686176",
     "geom:latitude":37.686176,
     "geom:longitude":-97.321248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 E Douglas Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169644649,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466520310,
     "wof:name":"Apa Dana Oriental Rug Gallery",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-97.321248,37.686176,-97.321248,37.686176],
+  "bbox": [
+    -97.321248,
+    37.686176,
+    -97.321248,
+    37.686176
+],
   "geometry": {"coordinates":[-97.321248,37.686176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169622923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.22584,38.950108,-95.22584,38.950108",
     "geom:latitude":38.950108,
     "geom:longitude":-95.22584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 Bullene Ave",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169622923,
-    "wof:lastmodified":1449035369,
+    "wof:lastmodified":1466520011,
     "wof:name":"Boyd Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.22584,38.950108,-95.22584,38.950108],
-  "geometry": {"coordinates":[-95.22584,38.950108],"type":"Point"}
+  "bbox": [
+    -95.22584,
+    38.950108,
+    -95.22584,
+    38.950108
+],
+  "geometry": {"coordinates":[-95.22584000000001,38.950108],"type":"Point"}
 }

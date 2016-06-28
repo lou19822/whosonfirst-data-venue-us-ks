@@ -2,13 +2,14 @@
   "id": 202949261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.659462,38.912849,-94.659462,38.912849",
     "geom:latitude":38.912849,
     "geom:longitude":-94.659462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6407 W 119th St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202949261,
-    "wof:lastmodified":1449061678,
+    "wof:lastmodified":1466520131,
     "wof:name":"One Hour Smile",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-94.659462,38.912849,-94.659462,38.912849],
+  "bbox": [
+    -94.659462,
+    38.912849,
+    -94.659462,
+    38.912849
+],
   "geometry": {"coordinates":[-94.659462,38.912849],"type":"Point"}
 }

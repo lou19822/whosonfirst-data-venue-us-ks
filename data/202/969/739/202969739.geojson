@@ -2,13 +2,14 @@
   "id": 202969739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.836412,37.1695,-94.836412,37.1695",
     "geom:latitude":37.1695,
     "geom:longitude":-94.836412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 Garfield St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":202969739,
-    "wof:lastmodified":1449060719,
+    "wof:lastmodified":1466520298,
     "wof:name":"Daniels Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-94.836412,37.1695,-94.836412,37.1695],
+  "bbox": [
+    -94.836412,
+    37.1695,
+    -94.836412,
+    37.1695
+],
   "geometry": {"coordinates":[-94.836412,37.1695],"type":"Point"}
 }

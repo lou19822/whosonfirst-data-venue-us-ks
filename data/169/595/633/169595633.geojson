@@ -2,13 +2,14 @@
   "id": 169595633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.27489,37.692802,-97.27489,37.692802",
     "geom:latitude":37.692802,
     "geom:longitude":-97.27489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5321 Plaza Ln",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169595633,
-    "wof:lastmodified":1449035637,
+    "wof:lastmodified":1466529864,
     "wof:name":"Wichita Association-Visually",
     "wof:parent_id":85872829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blind"
     ]
 },
-  "bbox": [-97.27489,37.692802,-97.27489,37.692802],
+  "bbox": [
+    -97.27489,
+    37.692802,
+    -97.27489,
+    37.692802
+],
   "geometry": {"coordinates":[-97.27489,37.692802],"type":"Point"}
 }

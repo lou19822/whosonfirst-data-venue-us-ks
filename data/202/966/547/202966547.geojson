@@ -2,13 +2,14 @@
   "id": 202966547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.739812,39.014801,-95.739812,39.014801",
     "geom:latitude":39.014801,
     "geom:longitude":-95.739812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 SW 29th St",
     "sg:city":"Topeka",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202966547,
-    "wof:lastmodified":1449060125,
+    "wof:lastmodified":1466520283,
     "wof:name":"Hunan Chinese Restaurant",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.739812,39.014801,-95.739812,39.014801],
+  "bbox": [
+    -95.739812,
+    39.014801,
+    -95.739812,
+    39.014801
+],
   "geometry": {"coordinates":[-95.739812,39.014801],"type":"Point"}
 }

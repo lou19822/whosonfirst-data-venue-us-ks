@@ -2,13 +2,14 @@
   "id": 202978613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.415793,38.144711,-97.415793,38.144711",
     "geom:latitude":38.144711,
     "geom:longitude":-97.415793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 E Lincoln Blvd",
     "sg:city":"Hesston",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202978613,
-    "wof:lastmodified":1449061570,
+    "wof:lastmodified":1466520336,
     "wof:name":"Heartland Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "pollution"
     ]
 },
-  "bbox": [-97.415793,38.144711,-97.415793,38.144711],
-  "geometry": {"coordinates":[-97.415793,38.144711],"type":"Point"}
+  "bbox": [
+    -97.415793,
+    38.144711,
+    -97.415793,
+    38.144711
+],
+  "geometry": {"coordinates":[-97.41579299999999,38.144711],"type":"Point"}
 }

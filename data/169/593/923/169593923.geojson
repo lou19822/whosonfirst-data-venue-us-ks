@@ -2,13 +2,14 @@
   "id": 169593923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.039055,37.06106,-97.039055,37.06106",
     "geom:latitude":37.06106,
     "geom:longitude":-97.039055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Summit St",
     "sg:city":"Arkansas City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169593923,
-    "wof:lastmodified":1449034880,
+    "wof:lastmodified":1466529845,
     "wof:name":"Central Plains Lifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.039055,37.06106,-97.039055,37.06106],
+  "bbox": [
+    -97.039055,
+    37.06106,
+    -97.039055,
+    37.06106
+],
   "geometry": {"coordinates":[-97.039055,37.06106],"type":"Point"}
 }

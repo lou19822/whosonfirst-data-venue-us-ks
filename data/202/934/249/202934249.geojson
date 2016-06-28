@@ -2,13 +2,14 @@
   "id": 202934249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.80315,38.904591,-94.80315,38.904591",
     "geom:latitude":38.904591,
     "geom:longitude":-94.80315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"956 E Pineview St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202934249,
-    "wof:lastmodified":1449060226,
+    "wof:lastmodified":1466519819,
     "wof:name":"Benchmark Manufacturing Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "online"
     ]
 },
-  "bbox": [-94.80315,38.904591,-94.80315,38.904591],
+  "bbox": [
+    -94.80315,
+    38.904591,
+    -94.80315,
+    38.904591
+],
   "geometry": {"coordinates":[-94.80315,38.904591],"type":"Point"}
 }

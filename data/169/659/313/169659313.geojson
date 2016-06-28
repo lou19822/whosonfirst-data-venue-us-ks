@@ -2,13 +2,14 @@
   "id": 169659313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.056034,39.307461,-96.056034,39.307461",
     "geom:latitude":39.307461,
     "geom:longitude":-96.056034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Main St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169659313,
-    "wof:lastmodified":1449033027,
+    "wof:lastmodified":1466520409,
     "wof:name":"Emmett City Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-96.056034,39.307461,-96.056034,39.307461],
+  "bbox": [
+    -96.056034,
+    39.307461,
+    -96.056034,
+    39.307461
+],
   "geometry": {"coordinates":[-96.056034,39.307461],"type":"Point"}
 }

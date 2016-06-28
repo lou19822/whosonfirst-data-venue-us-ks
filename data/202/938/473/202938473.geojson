@@ -2,13 +2,14 @@
   "id": 202938473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.900827,38.614459,-94.900827,38.614459",
     "geom:latitude":38.614459,
     "geom:longitude":-94.900827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28310 Lone Star Rd",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202938473,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466519923,
     "wof:name":"Silver Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rental"
     ]
 },
-  "bbox": [-94.900827,38.614459,-94.900827,38.614459],
-  "geometry": {"coordinates":[-94.900827,38.614459],"type":"Point"}
+  "bbox": [
+    -94.900827,
+    38.614459,
+    -94.900827,
+    38.614459
+],
+  "geometry": {"coordinates":[-94.90082700000001,38.614459],"type":"Point"}
 }

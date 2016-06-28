@@ -2,13 +2,14 @@
   "id": 202926335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.931312,39.266708,-94.931312,39.266708",
     "geom:latitude":39.266708,
     "geom:longitude":-94.931312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Eisenhower Rd",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":202926335,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466519694,
     "wof:name":"Storage Box Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "trailer"
     ]
 },
-  "bbox": [-94.931312,39.266708,-94.931312,39.266708],
-  "geometry": {"coordinates":[-94.931312,39.266708],"type":"Point"}
+  "bbox": [
+    -94.931312,
+    39.266708,
+    -94.931312,
+    39.266708
+],
+  "geometry": {"coordinates":[-94.93131200000001,39.266708],"type":"Point"}
 }

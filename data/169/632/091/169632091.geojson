@@ -2,13 +2,14 @@
   "id": 169632091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.74977,39.116686,-94.74977,39.116686",
     "geom:latitude":39.116686,
     "geom:longitude":-94.74977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7350 State Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169632091,
-    "wof:lastmodified":1449034793,
+    "wof:lastmodified":1466520160,
     "wof:name":"Attorney At Law",
     "wof:parent_id":85878509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.74977,39.116686,-94.74977,39.116686],
+  "bbox": [
+    -94.74977,
+    39.116686,
+    -94.74977,
+    39.116686
+],
   "geometry": {"coordinates":[-94.74977,39.116686],"type":"Point"}
 }

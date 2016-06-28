@@ -2,13 +2,14 @@
   "id": 202978817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.266357,37.491736,-97.266357,37.491736",
     "geom:latitude":37.491736,
     "geom:longitude":-97.266357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11137 Wilmer Dr",
     "sg:city":"Mulvane",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202978817,
-    "wof:lastmodified":1449061570,
+    "wof:lastmodified":1466520340,
     "wof:name":"Aces Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "deck"
     ]
 },
-  "bbox": [-97.266357,37.491736,-97.266357,37.491736],
+  "bbox": [
+    -97.266357,
+    37.491736,
+    -97.266357,
+    37.491736
+],
   "geometry": {"coordinates":[-97.266357,37.491736],"type":"Point"}
 }

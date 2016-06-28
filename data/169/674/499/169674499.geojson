@@ -2,13 +2,14 @@
   "id": 169674499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.268658,38.590236,-95.268658,38.590236",
     "geom:latitude":38.590236,
     "geom:longitude":-95.268658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E 17th St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169674499,
-    "wof:lastmodified":1449035137,
+    "wof:lastmodified":1466520505,
     "wof:name":"Franklin County Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.268658,38.590236,-95.268658,38.590236],
+  "bbox": [
+    -95.268658,
+    38.590236,
+    -95.268658,
+    38.590236
+],
   "geometry": {"coordinates":[-95.268658,38.590236],"type":"Point"}
 }

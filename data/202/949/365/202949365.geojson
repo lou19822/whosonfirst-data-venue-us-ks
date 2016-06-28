@@ -2,13 +2,14 @@
   "id": 202949365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.644252,38.913047,-94.644252,38.913047",
     "geom:latitude":38.913047,
     "geom:longitude":-94.644252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5076 W 119th St",
     "sg:city":"Leawood",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202949365,
-    "wof:lastmodified":1449061679,
+    "wof:lastmodified":1466520137,
     "wof:name":"Standard Style Boutique",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.644252,38.913047,-94.644252,38.913047],
-  "geometry": {"coordinates":[-94.644252,38.913047],"type":"Point"}
+  "bbox": [
+    -94.644252,
+    38.913047,
+    -94.644252,
+    38.913047
+],
+  "geometry": {"coordinates":[-94.64425199999999,38.913047],"type":"Point"}
 }

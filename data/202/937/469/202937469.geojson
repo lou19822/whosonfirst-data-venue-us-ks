@@ -2,13 +2,14 @@
   "id": 202937469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.870805,38.570706,-94.870805,38.570706",
     "geom:latitude":38.570706,
     "geom:longitude":-94.870805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 E Wea St",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":202937469,
-    "wof:lastmodified":1449060592,
+    "wof:lastmodified":1466519894,
     "wof:name":"Quality Homes of Paola, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.870805,38.570706,-94.870805,38.570706],
+  "bbox": [
+    -94.870805,
+    38.570706,
+    -94.870805,
+    38.570706
+],
   "geometry": {"coordinates":[-94.870805,38.570706],"type":"Point"}
 }

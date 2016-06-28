@@ -2,13 +2,14 @@
   "id": 169666769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.756231,38.313654,-98.756231,38.313654",
     "geom:latitude":38.313654,
     "geom:longitude":-98.756231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 US Hwy 281",
     "sg:city":"Great Bend",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169666769,
-    "wof:lastmodified":1449033898,
+    "wof:lastmodified":1466520481,
     "wof:name":"Jack B Kelley Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.756231,38.313654,-98.756231,38.313654],
+  "bbox": [
+    -98.756231,
+    38.313654,
+    -98.756231,
+    38.313654
+],
   "geometry": {"coordinates":[-98.756231,38.313654],"type":"Point"}
 }

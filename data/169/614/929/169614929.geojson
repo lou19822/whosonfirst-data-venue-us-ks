@@ -2,13 +2,14 @@
   "id": 169614929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.664976,39.016046,-95.664976,39.016046",
     "geom:latitude":39.016046,
     "geom:longitude":-95.664976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2843 SE Virginia Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169614929,
-    "wof:lastmodified":1449036058,
+    "wof:lastmodified":1466519841,
     "wof:name":"Hirecar LLC",
     "wof:parent_id":85881545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-95.664976,39.016046,-95.664976,39.016046],
+  "bbox": [
+    -95.664976,
+    39.016046,
+    -95.664976,
+    39.016046
+],
   "geometry": {"coordinates":[-95.664976,39.016046],"type":"Point"}
 }

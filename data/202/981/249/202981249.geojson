@@ -2,13 +2,14 @@
   "id": 202981249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.301541,37.654743,-97.301541,37.654743",
     "geom:latitude":37.654743,
     "geom:longitude":-97.301541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 S Chautauqua Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202981249,
-    "wof:lastmodified":1449062700,
+    "wof:lastmodified":1466520356,
     "wof:name":"Four Aces Electric",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-97.301541,37.654743,-97.301541,37.654743],
+  "bbox": [
+    -97.301541,
+    37.654743,
+    -97.301541,
+    37.654743
+],
   "geometry": {"coordinates":[-97.301541,37.654743],"type":"Point"}
 }

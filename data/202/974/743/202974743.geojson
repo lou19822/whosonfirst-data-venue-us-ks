@@ -2,13 +2,14 @@
   "id": 202974743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.741249,37.379083,-94.741249,37.379083",
     "geom:latitude":37.379083,
     "geom:longitude":-94.741249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 S Pesavento Ave",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202974743,
-    "wof:lastmodified":1449062327,
+    "wof:lastmodified":1466520331,
     "wof:name":"Chicopee Community Center",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recreation"
     ]
 },
-  "bbox": [-94.741249,37.379083,-94.741249,37.379083],
+  "bbox": [
+    -94.741249,
+    37.379083,
+    -94.741249,
+    37.379083
+],
   "geometry": {"coordinates":[-94.741249,37.379083],"type":"Point"}
 }

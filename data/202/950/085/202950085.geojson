@@ -2,13 +2,14 @@
   "id": 202950085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.647705,38.918311,-94.647705,38.918311",
     "geom:latitude":38.918311,
     "geom:longitude":-94.647705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11535 Ash St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202950085,
-    "wof:lastmodified":1449061105,
+    "wof:lastmodified":1466520130,
     "wof:name":"Rice Gallery Of Fine Art",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "instruction"
     ]
 },
-  "bbox": [-94.647705,38.918311,-94.647705,38.918311],
+  "bbox": [
+    -94.647705,
+    38.918311,
+    -94.647705,
+    38.918311
+],
   "geometry": {"coordinates":[-94.647705,38.918311],"type":"Point"}
 }

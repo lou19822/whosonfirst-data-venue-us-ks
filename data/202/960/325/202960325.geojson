@@ -2,13 +2,14 @@
   "id": 202960325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.724716,39.048523,-95.724716,39.048523",
     "geom:latitude":39.048523,
     "geom:longitude":-95.724716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 SW Gage Blvd Ste A",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":202960325,
-    "wof:lastmodified":1449061922,
+    "wof:lastmodified":1466520216,
     "wof:name":"Carver, Diana L",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.724716,39.048523,-95.724716,39.048523],
+  "bbox": [
+    -95.724716,
+    39.048523,
+    -95.724716,
+    39.048523
+],
   "geometry": {"coordinates":[-95.724716,39.048523],"type":"Point"}
 }

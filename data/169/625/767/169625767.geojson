@@ -2,13 +2,14 @@
   "id": 169625767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.333047,37.700435,-97.333047,37.700435",
     "geom:latitude":37.700435,
     "geom:longitude":-97.333047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 N Emporia St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169625767,
-    "wof:lastmodified":1449036022,
+    "wof:lastmodified":1466520053,
     "wof:name":"Via Christi Reg Med Ctr",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.333047,37.700435,-97.333047,37.700435],
-  "geometry": {"coordinates":[-97.333047,37.700435],"type":"Point"}
+  "bbox": [
+    -97.333047,
+    37.700435,
+    -97.333047,
+    37.700435
+],
+  "geometry": {"coordinates":[-97.33304699999999,37.700435],"type":"Point"}
 }

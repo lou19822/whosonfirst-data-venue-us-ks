@@ -2,13 +2,14 @@
   "id": 202958831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.788254,39.899843,-95.788254,39.899843",
     "geom:latitude":39.899843,
     "geom:longitude":-95.788254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 S US Old Highway 75",
     "sg:city":"Sabetha",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":202958831,
-    "wof:lastmodified":1449062099,
+    "wof:lastmodified":1466520209,
     "wof:name":"C & K Tire and Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "batteries-storage"
     ]
 },
-  "bbox": [-95.788254,39.899843,-95.788254,39.899843],
-  "geometry": {"coordinates":[-95.788254,39.899843],"type":"Point"}
+  "bbox": [
+    -95.788254,
+    39.899843,
+    -95.788254,
+    39.899843
+],
+  "geometry": {"coordinates":[-95.78825399999999,39.899843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169623681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.594298,38.804878,-97.594298,38.804878",
     "geom:latitude":38.804878,
     "geom:longitude":-97.594298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 S Ohio St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169623681,
-    "wof:lastmodified":1449034999,
+    "wof:lastmodified":1466520009,
     "wof:name":"BSB Financial Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.594298,38.804878,-97.594298,38.804878],
-  "geometry": {"coordinates":[-97.594298,38.804878],"type":"Point"}
+  "bbox": [
+    -97.594298,
+    38.804878,
+    -97.594298,
+    38.804878
+],
+  "geometry": {"coordinates":[-97.59429799999999,38.804878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169639715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.542707,37.958161,-100.542707,37.958161",
     "geom:latitude":37.958161,
     "geom:longitude":-100.542707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7702 D Rd",
     "sg:city":"Ingalls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169639715,
-    "wof:lastmodified":1449035954,
+    "wof:lastmodified":1466520269,
     "wof:name":"Garden City Co-Op Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-100.542707,37.958161,-100.542707,37.958161],
-  "geometry": {"coordinates":[-100.542707,37.958161],"type":"Point"}
+  "bbox": [
+    -100.542707,
+    37.958161,
+    -100.542707,
+    37.958161
+],
+  "geometry": {"coordinates":[-100.54270699999999,37.958161],"type":"Point"}
 }

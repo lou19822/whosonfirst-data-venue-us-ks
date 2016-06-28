@@ -2,13 +2,14 @@
   "id": 169643759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.84333,37.512212,-94.84333,37.512212",
     "geom:latitude":37.512212,
     "geom:longitude":-94.84333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Walnut St",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169643759,
-    "wof:lastmodified":1449035525,
+    "wof:lastmodified":1466520309,
     "wof:name":"Halley Counseling Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-94.84333,37.512212,-94.84333,37.512212],
-  "geometry": {"coordinates":[-94.84333,37.512212],"type":"Point"}
+  "bbox": [
+    -94.84333,
+    37.512212,
+    -94.84333,
+    37.512212
+],
+  "geometry": {"coordinates":[-94.84332999999999,37.512212],"type":"Point"}
 }

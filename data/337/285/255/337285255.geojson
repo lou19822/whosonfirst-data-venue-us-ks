@@ -2,13 +2,14 @@
   "id": 337285255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.912663,39.328207,-94.912663,39.328207",
     "geom:latitude":39.328207,
     "geom:longitude":-94.912663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 N 2nd St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337285255,
-    "wof:lastmodified":1449026955,
+    "wof:lastmodified":1466519416,
     "wof:name":"Mpri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-94.912663,39.328207,-94.912663,39.328207],
-  "geometry": {"coordinates":[-94.912663,39.328207],"type":"Point"}
+  "bbox": [
+    -94.912663,
+    39.328207,
+    -94.912663,
+    39.328207
+],
+  "geometry": {"coordinates":[-94.91266299999999,39.328207],"type":"Point"}
 }

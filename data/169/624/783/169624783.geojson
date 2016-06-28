@@ -2,13 +2,14 @@
   "id": 169624783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.704358,39.009717,-94.704358,39.009717",
     "geom:latitude":39.009717,
     "geom:longitude":-94.704358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10121 W 65th Dr",
     "sg:city":"Merriam",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169624783,
-    "wof:lastmodified":1449034955,
+    "wof:lastmodified":1466520031,
     "wof:name":"John Sankey Residential Design",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-94.704358,39.009717,-94.704358,39.009717],
+  "bbox": [
+    -94.704358,
+    39.009717,
+    -94.704358,
+    39.009717
+],
   "geometry": {"coordinates":[-94.704358,39.009717],"type":"Point"}
 }

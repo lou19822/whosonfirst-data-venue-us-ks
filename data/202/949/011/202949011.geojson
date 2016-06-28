@@ -2,13 +2,14 @@
   "id": 202949011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.607991,38.91024,-94.607991,38.91024",
     "geom:latitude":38.91024,
     "geom:longitude":-94.607991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12106 State Line Rd",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202949011,
-    "wof:lastmodified":1449061681,
+    "wof:lastmodified":1466529891,
     "wof:name":"Edward Jones - Financial Advisor: STAN SCHMIDT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "stock"
     ]
 },
-  "bbox": [-94.607991,38.91024,-94.607991,38.91024],
+  "bbox": [
+    -94.607991,
+    38.91024,
+    -94.607991,
+    38.91024
+],
   "geometry": {"coordinates":[-94.607991,38.91024],"type":"Point"}
 }

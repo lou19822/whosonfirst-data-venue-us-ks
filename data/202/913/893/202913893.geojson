@@ -2,13 +2,14 @@
   "id": 202913893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.116299,39.563191,-95.116299,39.563191",
     "geom:latitude":39.563191,
     "geom:longitude":-95.116299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 N 3rd St Apt 26",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202913893,
-    "wof:lastmodified":1449061096,
+    "wof:lastmodified":1466519437,
     "wof:name":"Deware Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "listing"
     ]
 },
-  "bbox": [-95.116299,39.563191,-95.116299,39.563191],
+  "bbox": [
+    -95.116299,
+    39.563191,
+    -95.116299,
+    39.563191
+],
   "geometry": {"coordinates":[-95.116299,39.563191],"type":"Point"}
 }

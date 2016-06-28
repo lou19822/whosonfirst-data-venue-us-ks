@@ -2,13 +2,14 @@
   "id": 202981795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.389519,37.691161,-97.389519,37.691161",
     "geom:latitude":37.691161,
     "geom:longitude":-97.389519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4009 W Saint Louis Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202981795,
-    "wof:lastmodified":1449062702,
+    "wof:lastmodified":1466520380,
     "wof:name":"E C I Electrical Contractors Inc",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-97.389519,37.691161,-97.389519,37.691161],
-  "geometry": {"coordinates":[-97.389519,37.691161],"type":"Point"}
+  "bbox": [
+    -97.389519,
+    37.691161,
+    -97.389519,
+    37.691161
+],
+  "geometry": {"coordinates":[-97.38951900000001,37.691161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202961985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.651367,39.023819,-95.651367,39.023819",
     "geom:latitude":39.023819,
     "geom:longitude":-95.651367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 SE California Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202961985,
-    "wof:lastmodified":1449062580,
+    "wof:lastmodified":1466520257,
     "wof:name":"Christian Lord Ministries, Inc",
     "wof:parent_id":85881535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-non-denominational"
     ]
 },
-  "bbox": [-95.651367,39.023819,-95.651367,39.023819],
-  "geometry": {"coordinates":[-95.651367,39.023819],"type":"Point"}
+  "bbox": [
+    -95.651367,
+    39.023819,
+    -95.651367,
+    39.023819
+],
+  "geometry": {"coordinates":[-95.65136699999999,39.023819],"type":"Point"}
 }

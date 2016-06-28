@@ -2,13 +2,14 @@
   "id": 169597977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.688592,38.956591,-94.688592,38.956591",
     "geom:latitude":38.956591,
     "geom:longitude":-94.688592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9009 W 95th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169597977,
-    "wof:lastmodified":1449035927,
+    "wof:lastmodified":1466529877,
     "wof:name":"Consolidated Brokers Ins Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.688592,38.956591,-94.688592,38.956591],
+  "bbox": [
+    -94.688592,
+    38.956591,
+    -94.688592,
+    38.956591
+],
   "geometry": {"coordinates":[-94.688592,38.956591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169639547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.305299,39.208632,-96.305299,39.208632",
     "geom:latitude":39.208632,
     "geom:longitude":-96.305299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Lincoln St",
     "sg:city":"Wamego",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169639547,
-    "wof:lastmodified":1449035950,
+    "wof:lastmodified":1466520264,
     "wof:name":"Fox Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.305299,39.208632,-96.305299,39.208632],
-  "geometry": {"coordinates":[-96.305299,39.208632],"type":"Point"}
+  "bbox": [
+    -96.305299,
+    39.208632,
+    -96.305299,
+    39.208632
+],
+  "geometry": {"coordinates":[-96.30529900000001,39.208632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202929505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.919136,39.316551,-94.919136,39.316551",
     "geom:latitude":39.316551,
     "geom:longitude":-94.919136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Cherokee St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202929505,
-    "wof:lastmodified":1449061087,
+    "wof:lastmodified":1466519724,
     "wof:name":"Kaaz Julius Constr Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "estimate"
     ]
 },
-  "bbox": [-94.919136,39.316551,-94.919136,39.316551],
-  "geometry": {"coordinates":[-94.919136,39.316551],"type":"Point"}
+  "bbox": [
+    -94.919136,
+    39.316551,
+    -94.919136,
+    39.316551
+],
+  "geometry": {"coordinates":[-94.91913599999999,39.316551],"type":"Point"}
 }

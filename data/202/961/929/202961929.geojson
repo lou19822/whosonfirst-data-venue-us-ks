@@ -2,13 +2,14 @@
   "id": 202961929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.670259,39.014757,-95.670259,39.014757",
     "geom:latitude":39.014757,
     "geom:longitude":-95.670259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 SE Adams St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202961929,
-    "wof:lastmodified":1449062579,
+    "wof:lastmodified":1466520255,
     "wof:name":"USPS - United States Post Office - Hicrest Station",
     "wof:parent_id":85881543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.670259,39.014757,-95.670259,39.014757],
+  "bbox": [
+    -95.670259,
+    39.014757,
+    -95.670259,
+    39.014757
+],
   "geometry": {"coordinates":[-95.670259,39.014757],"type":"Point"}
 }

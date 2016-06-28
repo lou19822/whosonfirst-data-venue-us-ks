@@ -2,13 +2,14 @@
   "id": 169671453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.345191,38.050971,-97.345191,38.050971",
     "geom:latitude":38.050971,
     "geom:longitude":-97.345191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 N Main St",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169671453,
-    "wof:lastmodified":1449033452,
+    "wof:lastmodified":1466520477,
     "wof:name":"Miller Insurance",
     "wof:parent_id":85846955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.345191,38.050971,-97.345191,38.050971],
+  "bbox": [
+    -97.345191,
+    38.050971,
+    -97.345191,
+    38.050971
+],
   "geometry": {"coordinates":[-97.345191,38.050971],"type":"Point"}
 }

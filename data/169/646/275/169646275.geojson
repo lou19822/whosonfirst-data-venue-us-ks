@@ -2,13 +2,14 @@
   "id": 169646275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.500309,37.995385,-97.500309,37.995385",
     "geom:latitude":37.995385,
     "geom:longitude":-97.500309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 McNair St",
     "sg:city":"Halstead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169646275,
-    "wof:lastmodified":1449032607,
+    "wof:lastmodified":1466520317,
     "wof:name":"Halstead Health & Rehab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-97.500309,37.995385,-97.500309,37.995385],
+  "bbox": [
+    -97.500309,
+    37.995385,
+    -97.500309,
+    37.995385
+],
   "geometry": {"coordinates":[-97.500309,37.995385],"type":"Point"}
 }

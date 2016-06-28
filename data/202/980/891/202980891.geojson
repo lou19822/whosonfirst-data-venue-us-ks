@@ -2,13 +2,14 @@
   "id": 202980891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.252587,37.685603,-97.252587,37.685603",
     "geom:latitude":37.685603,
     "geom:longitude":-97.252587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Whittier St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202980891,
-    "wof:lastmodified":1449060281,
+    "wof:lastmodified":1466520376,
     "wof:name":"Pgw Auto Glass",
     "wof:parent_id":85872831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glass-auto"
     ]
 },
-  "bbox": [-97.252587,37.685603,-97.252587,37.685603],
-  "geometry": {"coordinates":[-97.252587,37.685603],"type":"Point"}
+  "bbox": [
+    -97.252587,
+    37.685603,
+    -97.252587,
+    37.685603
+],
+  "geometry": {"coordinates":[-97.25258700000001,37.685603],"type":"Point"}
 }

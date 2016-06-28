@@ -2,13 +2,14 @@
   "id": 202949997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.639747,38.913289,-94.639747,38.913289",
     "geom:latitude":38.913289,
     "geom:longitude":-94.639747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11849 Roe Ave",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202949997,
-    "wof:lastmodified":1449061681,
+    "wof:lastmodified":1466520166,
     "wof:name":"Cactus Grill",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "mexican"
     ]
 },
-  "bbox": [-94.639747,38.913289,-94.639747,38.913289],
+  "bbox": [
+    -94.639747,
+    38.913289,
+    -94.639747,
+    38.913289
+],
   "geometry": {"coordinates":[-94.639747,38.913289],"type":"Point"}
 }

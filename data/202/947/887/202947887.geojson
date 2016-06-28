@@ -2,13 +2,14 @@
   "id": 202947887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.61548,38.957793,-94.61548,38.957793",
     "geom:latitude":38.957793,
     "geom:longitude":-94.61548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9440 Lee Blvd",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202947887,
-    "wof:lastmodified":1449061941,
+    "wof:lastmodified":1466520118,
     "wof:name":"Eaglerock Book",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "book"
     ]
 },
-  "bbox": [-94.61548,38.957793,-94.61548,38.957793],
-  "geometry": {"coordinates":[-94.61548,38.957793],"type":"Point"}
+  "bbox": [
+    -94.61548,
+    38.957793,
+    -94.61548,
+    38.957793
+],
+  "geometry": {"coordinates":[-94.61548000000001,38.957793],"type":"Point"}
 }

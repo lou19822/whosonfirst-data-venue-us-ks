@@ -2,13 +2,14 @@
   "id": 202955771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.816208,38.909721,-95.816208,38.909721",
     "geom:latitude":38.909721,
     "geom:longitude":-95.816208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Washington St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202955771,
-    "wof:lastmodified":1449061852,
+    "wof:lastmodified":1466520187,
     "wof:name":"Stauffer Lawn & Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "landscape"
     ]
 },
-  "bbox": [-95.816208,38.909721,-95.816208,38.909721],
+  "bbox": [
+    -95.816208,
+    38.909721,
+    -95.816208,
+    38.909721
+],
   "geometry": {"coordinates":[-95.816208,38.909721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169612343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.31727,37.672308,-97.31727,37.672308",
     "geom:latitude":37.672308,
     "geom:longitude":-97.31727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 S Hydraulic St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169612343,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466519772,
     "wof:name":"Sister Love",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-97.31727,37.672308,-97.31727,37.672308],
-  "geometry": {"coordinates":[-97.31727,37.672308],"type":"Point"}
+  "bbox": [
+    -97.31727,
+    37.672308,
+    -97.31727,
+    37.672308
+],
+  "geometry": {"coordinates":[-97.31726999999999,37.672308],"type":"Point"}
 }

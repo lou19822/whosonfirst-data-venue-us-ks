@@ -2,13 +2,14 @@
   "id": 169652759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.612844,38.795426,-97.612844,38.795426",
     "geom:latitude":38.795426,
     "geom:longitude":-97.612844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 S 9th St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169652759,
-    "wof:lastmodified":1449034810,
+    "wof:lastmodified":1466520387,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.612844,38.795426,-97.612844,38.795426],
+  "bbox": [
+    -97.612844,
+    38.795426,
+    -97.612844,
+    38.795426
+],
   "geometry": {"coordinates":[-97.612844,38.795426],"type":"Point"}
 }

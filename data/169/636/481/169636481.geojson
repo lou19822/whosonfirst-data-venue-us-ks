@@ -2,13 +2,14 @@
   "id": 169636481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.317165,37.6848,-97.317165,37.6848",
     "geom:latitude":37.6848,
     "geom:longitude":-97.317165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Hydraulic St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169636481,
-    "wof:lastmodified":1449033988,
+    "wof:lastmodified":1466520233,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-97.317165,37.6848,-97.317165,37.6848],
+  "bbox": [
+    -97.317165,
+    37.6848,
+    -97.317165,
+    37.6848
+],
   "geometry": {"coordinates":[-97.317165,37.6848],"type":"Point"}
 }

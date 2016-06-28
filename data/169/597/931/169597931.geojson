@@ -2,13 +2,14 @@
   "id": 169597931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.635161,39.057959,-94.635161,39.057959",
     "geom:latitude":39.057959,
     "geom:longitude":-94.635161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 Southwest Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169597931,
-    "wof:lastmodified":1449035925,
+    "wof:lastmodified":1466529878,
     "wof:name":"Boulevard Electric Inc",
     "wof:parent_id":85866785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.635161,39.057959,-94.635161,39.057959],
+  "bbox": [
+    -94.635161,
+    39.057959,
+    -94.635161,
+    39.057959
+],
   "geometry": {"coordinates":[-94.635161,39.057959],"type":"Point"}
 }

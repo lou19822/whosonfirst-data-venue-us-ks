@@ -2,13 +2,14 @@
   "id": 169623285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.296271,37.565919,-97.296271,37.565919",
     "geom:latitude":37.565919,
     "geom:longitude":-97.296271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6900 S Rutan St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169623285,
-    "wof:lastmodified":1449034996,
+    "wof:lastmodified":1466519990,
     "wof:name":"Karaoke Entertainment",
     "wof:parent_id":85834741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [-97.296271,37.565919,-97.296271,37.565919],
+  "bbox": [
+    -97.296271,
+    37.565919,
+    -97.296271,
+    37.565919
+],
   "geometry": {"coordinates":[-97.296271,37.565919],"type":"Point"}
 }

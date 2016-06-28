@@ -2,13 +2,14 @@
   "id": 169627051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.014801,37.726655,-100.014801,37.726655",
     "geom:latitude":37.726655,
     "geom:longitude":-100.014801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Minnola Rd",
     "sg:city":"Dodge City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169627051,
-    "wof:lastmodified":1449036041,
+    "wof:lastmodified":1466520049,
     "wof:name":"B & B Auto Parts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-100.014801,37.726655,-100.014801,37.726655],
-  "geometry": {"coordinates":[-100.014801,37.726655],"type":"Point"}
+  "bbox": [
+    -100.014801,
+    37.726655,
+    -100.014801,
+    37.726655
+],
+  "geometry": {"coordinates":[-100.01480100000001,37.726655],"type":"Point"}
 }

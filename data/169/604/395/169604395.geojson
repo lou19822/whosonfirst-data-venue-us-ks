@@ -2,13 +2,14 @@
   "id": 169604395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.821642,38.854688,-94.821642,38.854688",
     "geom:latitude":38.854688,
     "geom:longitude":-94.821642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20392 W 151st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169604395,
-    "wof:lastmodified":1449035570,
+    "wof:lastmodified":1466519495,
     "wof:name":"Big Dog Sportswear",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-94.821642,38.854688,-94.821642,38.854688],
+  "bbox": [
+    -94.821642,
+    38.854688,
+    -94.821642,
+    38.854688
+],
   "geometry": {"coordinates":[-94.821642,38.854688],"type":"Point"}
 }

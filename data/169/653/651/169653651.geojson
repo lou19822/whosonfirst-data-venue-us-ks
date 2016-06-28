@@ -2,13 +2,14 @@
   "id": 169653651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.811258,38.355923,-98.811258,38.355923",
     "geom:latitude":38.355923,
     "geom:longitude":-98.811258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 US Hwy 56",
     "sg:city":"Great Bend",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169653651,
-    "wof:lastmodified":1449032916,
+    "wof:lastmodified":1466520386,
     "wof:name":"Rimarc Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.811258,38.355923,-98.811258,38.355923],
+  "bbox": [
+    -98.811258,
+    38.355923,
+    -98.811258,
+    38.355923
+],
   "geometry": {"coordinates":[-98.811258,38.355923],"type":"Point"}
 }

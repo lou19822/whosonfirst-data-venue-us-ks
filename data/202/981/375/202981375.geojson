@@ -2,13 +2,14 @@
   "id": 202981375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.327451,37.664372,-97.327451,37.664372",
     "geom:latitude":37.664372,
     "geom:longitude":-97.327451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 E Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202981375,
-    "wof:lastmodified":1449062700,
+    "wof:lastmodified":1466520362,
     "wof:name":"Tee Pee's Smoke Shop",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cigar"
     ]
 },
-  "bbox": [-97.327451,37.664372,-97.327451,37.664372],
+  "bbox": [
+    -97.327451,
+    37.664372,
+    -97.327451,
+    37.664372
+],
   "geometry": {"coordinates":[-97.327451,37.664372],"type":"Point"}
 }

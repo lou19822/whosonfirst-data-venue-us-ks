@@ -2,13 +2,14 @@
   "id": 169615099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.659865,38.981235,-94.659865,38.981235",
     "geom:latitude":38.981235,
     "geom:longitude":-94.659865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6419 W 81st Ter",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169615099,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466519803,
     "wof:name":"Vinnies Soul Sauces",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.659865,38.981235,-94.659865,38.981235],
+  "bbox": [
+    -94.659865,
+    38.981235,
+    -94.659865,
+    38.981235
+],
   "geometry": {"coordinates":[-94.659865,38.981235],"type":"Point"}
 }

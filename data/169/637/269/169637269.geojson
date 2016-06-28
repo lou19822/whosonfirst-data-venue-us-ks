@@ -2,13 +2,14 @@
   "id": 169637269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.60121,38.952629,-94.60121,38.952629",
     "geom:latitude":38.952629,
     "geom:longitude":-94.60121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W 97 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169637269,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466520228,
     "wof:name":"Summit View Church of Nazarene",
     "wof:parent_id":85871969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.60121,38.952629,-94.60121,38.952629],
-  "geometry": {"coordinates":[-94.60121,38.952629],"type":"Point"}
+  "bbox": [
+    -94.60121,
+    38.952629,
+    -94.60121,
+    38.952629
+],
+  "geometry": {"coordinates":[-94.60120999999999,38.952629],"type":"Point"}
 }

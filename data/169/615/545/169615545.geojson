@@ -2,13 +2,14 @@
   "id": 169615545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37326,37.722349,-97.37326,37.722349",
     "geom:latitude":37.722349,
     "geom:longitude":-97.37326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2617 Cornelison St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169615545,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466519819,
     "wof:name":"Dots Record Keeping",
     "wof:parent_id":85872817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.37326,37.722349,-97.37326,37.722349],
+  "bbox": [
+    -97.37326,
+    37.722349,
+    -97.37326,
+    37.722349
+],
   "geometry": {"coordinates":[-97.37326,37.722349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202939943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.710114,38.175524,-94.710114,38.175524",
     "geom:latitude":38.175524,
     "geom:longitude":-94.710114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Main St",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202939943,
-    "wof:lastmodified":1449060863,
+    "wof:lastmodified":1466519943,
     "wof:name":"Pleasanton Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "medicine"
     ]
 },
-  "bbox": [-94.710114,38.175524,-94.710114,38.175524],
+  "bbox": [
+    -94.710114,
+    38.175524,
+    -94.710114,
+    38.175524
+],
   "geometry": {"coordinates":[-94.710114,38.175524],"type":"Point"}
 }

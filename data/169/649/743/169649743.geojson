@@ -2,13 +2,14 @@
   "id": 169649743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.020182,37.753543,-100.020182,37.753543",
     "geom:latitude":37.753543,
     "geom:longitude":-100.020182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Gunsmoke St",
     "sg:city":"Dodge City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169649743,
-    "wof:lastmodified":1449034945,
+    "wof:lastmodified":1466520385,
     "wof:name":"H H Clocks",
     "wof:parent_id":85849601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clocks"
     ]
 },
-  "bbox": [-100.020182,37.753543,-100.020182,37.753543],
-  "geometry": {"coordinates":[-100.020182,37.753543],"type":"Point"}
+  "bbox": [
+    -100.020182,
+    37.753543,
+    -100.020182,
+    37.753543
+],
+  "geometry": {"coordinates":[-100.02018200000001,37.753543],"type":"Point"}
 }

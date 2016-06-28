@@ -2,13 +2,14 @@
   "id": 169643521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.343465,37.690822,-97.343465,37.690822",
     "geom:latitude":37.690822,
     "geom:longitude":-97.343465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Riverview St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169643521,
-    "wof:lastmodified":1449035523,
+    "wof:lastmodified":1466520301,
     "wof:name":"Group Benefit Specialists",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.343465,37.690822,-97.343465,37.690822],
-  "geometry": {"coordinates":[-97.343465,37.690822],"type":"Point"}
+  "bbox": [
+    -97.343465,
+    37.690822,
+    -97.343465,
+    37.690822
+],
+  "geometry": {"coordinates":[-97.34346499999999,37.690822],"type":"Point"}
 }

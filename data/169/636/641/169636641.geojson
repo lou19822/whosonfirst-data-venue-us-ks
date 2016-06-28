@@ -2,13 +2,14 @@
   "id": 169636641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.661926,39.139645,-94.661926,39.139645",
     "geom:latitude":39.139645,
     "geom:longitude":-94.661926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Roswell Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169636641,
-    "wof:lastmodified":1449033987,
+    "wof:lastmodified":1466520237,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85878503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.661926,39.139645,-94.661926,39.139645],
-  "geometry": {"coordinates":[-94.661926,39.139645],"type":"Point"}
+  "bbox": [
+    -94.661926,
+    39.139645,
+    -94.661926,
+    39.139645
+],
+  "geometry": {"coordinates":[-94.66192599999999,39.139645],"type":"Point"}
 }

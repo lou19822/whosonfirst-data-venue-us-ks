@@ -2,13 +2,14 @@
   "id": 169634365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.953802,37.243561,-96.953802,37.243561",
     "geom:latitude":37.243561,
     "geom:longitude":-96.953802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Industrial Rd",
     "sg:city":"Winfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169634365,
-    "wof:lastmodified":1449034256,
+    "wof:lastmodified":1466520204,
     "wof:name":"BTR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "robot"
     ]
 },
-  "bbox": [-96.953802,37.243561,-96.953802,37.243561],
+  "bbox": [
+    -96.953802,
+    37.243561,
+    -96.953802,
+    37.243561
+],
   "geometry": {"coordinates":[-96.953802,37.243561],"type":"Point"}
 }

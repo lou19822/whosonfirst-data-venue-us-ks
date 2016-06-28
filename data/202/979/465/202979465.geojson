@@ -2,13 +2,14 @@
   "id": 202979465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.338188,37.689758,-97.338188,37.689758",
     "geom:latitude":37.689758,
     "geom:longitude":-97.338188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Main St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202979465,
-    "wof:lastmodified":1449061893,
+    "wof:lastmodified":1466520337,
     "wof:name":"Viega",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.338188,37.689758,-97.338188,37.689758],
+  "bbox": [
+    -97.338188,
+    37.689758,
+    -97.338188,
+    37.689758
+],
   "geometry": {"coordinates":[-97.338188,37.689758],"type":"Point"}
 }

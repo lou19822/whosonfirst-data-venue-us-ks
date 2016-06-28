@@ -2,13 +2,14 @@
   "id": 169665215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.556734,38.779582,-95.556734,38.779582",
     "geom:latitude":38.779582,
     "geom:longitude":-95.556734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Maple St",
     "sg:city":"Overbrook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169665215,
-    "wof:lastmodified":1449033698,
+    "wof:lastmodified":1466520444,
     "wof:name":"Kansas State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.556734,38.779582,-95.556734,38.779582],
-  "geometry": {"coordinates":[-95.556734,38.779582],"type":"Point"}
+  "bbox": [
+    -95.556734,
+    38.779582,
+    -95.556734,
+    38.779582
+],
+  "geometry": {"coordinates":[-95.55673400000001,38.779582],"type":"Point"}
 }

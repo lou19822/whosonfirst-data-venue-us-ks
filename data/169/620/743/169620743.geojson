@@ -2,13 +2,14 @@
   "id": 169620743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.710261,39.0333,-94.710261,39.0333",
     "geom:latitude":39.0333,
     "geom:longitude":-94.710261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10408 W 52nd Ter",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169620743,
-    "wof:lastmodified":1449035675,
+    "wof:lastmodified":1466519972,
     "wof:name":"Conopco Inc",
     "wof:parent_id":85879555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.710261,39.0333,-94.710261,39.0333],
+  "bbox": [
+    -94.710261,
+    39.0333,
+    -94.710261,
+    39.0333
+],
   "geometry": {"coordinates":[-94.710261,39.0333],"type":"Point"}
 }

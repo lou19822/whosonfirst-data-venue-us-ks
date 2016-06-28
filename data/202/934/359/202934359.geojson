@@ -2,13 +2,14 @@
   "id": 202934359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.794662,38.862148,-94.794662,38.862148",
     "geom:latitude":38.862148,
     "geom:longitude":-94.794662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 E Sleepy Hollow Dr",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202934359,
-    "wof:lastmodified":1449060227,
+    "wof:lastmodified":1466519827,
     "wof:name":"Johnson County Siding And Window Co. Inc.",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "replacement"
     ]
 },
-  "bbox": [-94.794662,38.862148,-94.794662,38.862148],
+  "bbox": [
+    -94.794662,
+    38.862148,
+    -94.794662,
+    38.862148
+],
   "geometry": {"coordinates":[-94.794662,38.862148],"type":"Point"}
 }

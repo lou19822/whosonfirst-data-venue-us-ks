@@ -2,13 +2,14 @@
   "id": 169633181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.749628,38.887516,-94.749628,38.887516",
     "geom:latitude":38.887516,
     "geom:longitude":-94.749628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13250 S Greenwood St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169633181,
-    "wof:lastmodified":1449035939,
+    "wof:lastmodified":1466520186,
     "wof:name":"Regency Place Elementary Schl",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.749628,38.887516,-94.749628,38.887516],
+  "bbox": [
+    -94.749628,
+    38.887516,
+    -94.749628,
+    38.887516
+],
   "geometry": {"coordinates":[-94.749628,38.887516],"type":"Point"}
 }

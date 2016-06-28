@@ -2,13 +2,14 @@
   "id": 169669299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.043969,37.716498,-97.043969,37.716498",
     "geom:latitude":37.716498,
     "geom:longitude":-97.043969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7037 SW Santa Fe Lake Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169669299,
-    "wof:lastmodified":1449033057,
+    "wof:lastmodified":1466520471,
     "wof:name":"Prop Dock Inc",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.043969,37.716498,-97.043969,37.716498],
+  "bbox": [
+    -97.043969,
+    37.716498,
+    -97.043969,
+    37.716498
+],
   "geometry": {"coordinates":[-97.043969,37.716498],"type":"Point"}
 }

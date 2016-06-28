@@ -2,13 +2,14 @@
   "id": 169668407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.931908,38.050751,-97.931908,38.050751",
     "geom:latitude":38.050751,
     "geom:longitude":-97.931908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Main St",
     "sg:city":"Hutchinson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169668407,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1466520468,
     "wof:name":"Park Bench",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.931908,38.050751,-97.931908,38.050751],
-  "geometry": {"coordinates":[-97.931908,38.050751],"type":"Point"}
+  "bbox": [
+    -97.931908,
+    38.050751,
+    -97.931908,
+    38.050751
+],
+  "geometry": {"coordinates":[-97.93190800000001,38.050751],"type":"Point"}
 }

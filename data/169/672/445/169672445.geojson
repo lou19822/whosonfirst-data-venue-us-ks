@@ -2,13 +2,14 @@
   "id": 169672445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.038911,37.06229,-97.038911,37.06229",
     "geom:latitude":37.06229,
     "geom:longitude":-97.038911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Summit St",
     "sg:city":"Arkansas City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169672445,
-    "wof:lastmodified":1449032888,
+    "wof:lastmodified":1466520486,
     "wof:name":"Bryant Hardware Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.038911,37.06229,-97.038911,37.06229],
+  "bbox": [
+    -97.038911,
+    37.06229,
+    -97.038911,
+    37.06229
+],
   "geometry": {"coordinates":[-97.038911,37.06229],"type":"Point"}
 }

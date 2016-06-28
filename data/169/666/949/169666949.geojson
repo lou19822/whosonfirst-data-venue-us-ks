@@ -2,13 +2,14 @@
   "id": 169666949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.270516,37.591675,-97.270516,37.591675",
     "geom:latitude":37.591675,
     "geom:longitude":-97.270516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5602 E 55th St S",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169666949,
-    "wof:lastmodified":1449033898,
+    "wof:lastmodified":1466520487,
     "wof:name":"T & T Properties Inc",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.270516,37.591675,-97.270516,37.591675],
+  "bbox": [
+    -97.270516,
+    37.591675,
+    -97.270516,
+    37.591675
+],
   "geometry": {"coordinates":[-97.270516,37.591675],"type":"Point"}
 }

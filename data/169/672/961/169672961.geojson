@@ -2,13 +2,14 @@
   "id": 169672961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.886259,37.407924,-96.886259,37.407924",
     "geom:latitude":37.407924,
     "geom:longitude":-96.886259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5746 145th Rd",
     "sg:city":"Rock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169672961,
-    "wof:lastmodified":1449032890,
+    "wof:lastmodified":1466520503,
     "wof:name":"J Bar G Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soil"
     ]
 },
-  "bbox": [-96.886259,37.407924,-96.886259,37.407924],
+  "bbox": [
+    -96.886259,
+    37.407924,
+    -96.886259,
+    37.407924
+],
   "geometry": {"coordinates":[-96.886259,37.407924],"type":"Point"}
 }

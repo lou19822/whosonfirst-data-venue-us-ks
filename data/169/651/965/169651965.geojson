@@ -2,13 +2,14 @@
   "id": 169651965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.361626,37.722774,-97.361626,37.722774",
     "geom:latitude":37.722774,
     "geom:longitude":-97.361626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 W 21st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169651965,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466520391,
     "wof:name":"Ten Perfect Nails",
     "wof:parent_id":85872817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-97.361626,37.722774,-97.361626,37.722774],
+  "bbox": [
+    -97.361626,
+    37.722774,
+    -97.361626,
+    37.722774
+],
   "geometry": {"coordinates":[-97.361626,37.722774],"type":"Point"}
 }

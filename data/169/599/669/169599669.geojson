@@ -2,13 +2,14 @@
   "id": 169599669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.67987,39.000578,-95.67987,39.000578",
     "geom:latitude":39.000578,
     "geom:longitude":-95.67987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 SW 37th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169599669,
-    "wof:lastmodified":1449034204,
+    "wof:lastmodified":1466519446,
     "wof:name":"Absolute Cash",
     "wof:parent_id":85881565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-95.67987,39.000578,-95.67987,39.000578],
-  "geometry": {"coordinates":[-95.67987,39.000578],"type":"Point"}
+  "bbox": [
+    -95.67987,
+    39.000578,
+    -95.67987,
+    39.000578
+],
+  "geometry": {"coordinates":[-95.67986999999999,39.000578],"type":"Point"}
 }

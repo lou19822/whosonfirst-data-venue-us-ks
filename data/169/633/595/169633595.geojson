@@ -2,13 +2,14 @@
   "id": 169633595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.389242,37.644531,-97.389242,37.644531",
     "geom:latitude":37.644531,
     "geom:longitude":-97.389242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 S West St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169633595,
-    "wof:lastmodified":1449035940,
+    "wof:lastmodified":1466520204,
     "wof:name":"American Fence",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.389242,37.644531,-97.389242,37.644531],
+  "bbox": [
+    -97.389242,
+    37.644531,
+    -97.389242,
+    37.644531
+],
   "geometry": {"coordinates":[-97.389242,37.644531],"type":"Point"}
 }

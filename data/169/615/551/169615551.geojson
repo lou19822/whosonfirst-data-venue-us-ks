@@ -2,13 +2,14 @@
   "id": 169615551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.598563,38.826975,-97.598563,38.826975",
     "geom:latitude":38.826975,
     "geom:longitude":-97.598563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 E Crawford St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169615551,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466519821,
     "wof:name":"Hair Affair'e Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.598563,38.826975,-97.598563,38.826975],
+  "bbox": [
+    -97.598563,
+    38.826975,
+    -97.598563,
+    38.826975
+],
   "geometry": {"coordinates":[-97.598563,38.826975],"type":"Point"}
 }

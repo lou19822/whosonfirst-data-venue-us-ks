@@ -2,13 +2,14 @@
   "id": 169624253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.839895,37.839276,-96.839895,37.839276",
     "geom:latitude":37.839276,
     "geom:longitude":-96.839895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Country Club Ln",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169624253,
-    "wof:lastmodified":1449034959,
+    "wof:lastmodified":1466520011,
     "wof:name":"House Of Mercy",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-96.839895,37.839276,-96.839895,37.839276],
+  "bbox": [
+    -96.839895,
+    37.839276,
+    -96.839895,
+    37.839276
+],
   "geometry": {"coordinates":[-96.839895,37.839276],"type":"Point"}
 }

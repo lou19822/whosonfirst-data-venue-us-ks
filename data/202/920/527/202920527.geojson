@@ -2,13 +2,14 @@
   "id": 202920527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.899979,39.259007,-94.899979,39.259007",
     "geom:latitude":39.259007,
     "geom:longitude":-94.899979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 N Main St",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202920527,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1466519543,
     "wof:name":"Lansing Unified School Dist No 469",
     "wof:parent_id":85844391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.899979,39.259007,-94.899979,39.259007],
+  "bbox": [
+    -94.899979,
+    39.259007,
+    -94.899979,
+    39.259007
+],
   "geometry": {"coordinates":[-94.899979,39.259007],"type":"Point"}
 }

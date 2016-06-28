@@ -2,13 +2,14 @@
   "id": 202954429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.824523,39.003033,-94.824523,39.003033",
     "geom:latitude":39.003033,
     "geom:longitude":-94.824523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6906 Martindale Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202954429,
-    "wof:lastmodified":1449062332,
+    "wof:lastmodified":1466520176,
     "wof:name":"Lightning Landscape & Irrigation",
     "wof:parent_id":85859465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "system"
     ]
 },
-  "bbox": [-94.824523,39.003033,-94.824523,39.003033],
+  "bbox": [
+    -94.824523,
+    39.003033,
+    -94.824523,
+    39.003033
+],
   "geometry": {"coordinates":[-94.824523,39.003033],"type":"Point"}
 }

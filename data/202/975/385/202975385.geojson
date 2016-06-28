@@ -2,13 +2,14 @@
   "id": 202975385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.704916,37.42582,-94.704916,37.42582",
     "geom:latitude":37.42582,
     "geom:longitude":-94.704916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 N Broadway St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202975385,
-    "wof:lastmodified":1449062306,
+    "wof:lastmodified":1466520318,
     "wof:name":"Loughmiller Motors",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "car"
     ]
 },
-  "bbox": [-94.704916,37.42582,-94.704916,37.42582],
+  "bbox": [
+    -94.704916,
+    37.42582,
+    -94.704916,
+    37.42582
+],
   "geometry": {"coordinates":[-94.704916,37.42582],"type":"Point"}
 }

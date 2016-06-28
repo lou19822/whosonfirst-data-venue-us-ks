@@ -2,13 +2,14 @@
   "id": 169613571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.604232,38.963307,-94.604232,38.963307",
     "geom:latitude":38.963307,
     "geom:longitude":-94.604232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9140 Ward Pkwy S",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169613571,
-    "wof:lastmodified":1449034212,
+    "wof:lastmodified":1466519782,
     "wof:name":"AGF Mortgage",
     "wof:parent_id":85871969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-94.604232,38.963307,-94.604232,38.963307],
+  "bbox": [
+    -94.604232,
+    38.963307,
+    -94.604232,
+    38.963307
+],
   "geometry": {"coordinates":[-94.604232,38.963307],"type":"Point"}
 }

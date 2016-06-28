@@ -2,13 +2,14 @@
   "id": 169624803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.818411,38.893773,-94.818411,38.893773",
     "geom:latitude":38.893773,
     "geom:longitude":-94.818411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 N Chestnut St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169624803,
-    "wof:lastmodified":1449034959,
+    "wof:lastmodified":1466520032,
     "wof:name":"Midwest Guttering",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-94.818411,38.893773,-94.818411,38.893773],
+  "bbox": [
+    -94.818411,
+    38.893773,
+    -94.818411,
+    38.893773
+],
   "geometry": {"coordinates":[-94.818411,38.893773],"type":"Point"}
 }

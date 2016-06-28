@@ -2,13 +2,14 @@
   "id": 202918685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.079941,38.940427,-95.079941,38.940427",
     "geom:latitude":38.940427,
     "geom:longitude":-95.079941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Ocl Pkwy",
     "sg:city":"Eudora",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":202918685,
-    "wof:lastmodified":1449061812,
+    "wof:lastmodified":1466519492,
     "wof:name":"Kingston Printing & Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "plotting"
     ]
 },
-  "bbox": [-95.079941,38.940427,-95.079941,38.940427],
-  "geometry": {"coordinates":[-95.079941,38.940427],"type":"Point"}
+  "bbox": [
+    -95.079941,
+    38.940427,
+    -95.079941,
+    38.940427
+],
+  "geometry": {"coordinates":[-95.07994100000001,38.940427],"type":"Point"}
 }

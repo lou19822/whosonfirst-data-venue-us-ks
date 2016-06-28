@@ -2,13 +2,14 @@
   "id": 169640123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.666971,38.374357,-97.666971,38.374357",
     "geom:latitude":38.374357,
     "geom:longitude":-97.666971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 N Main St",
     "sg:city":"Mc Pherson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169640123,
-    "wof:lastmodified":1449034102,
+    "wof:lastmodified":1466520250,
     "wof:name":"Jayhawk Auto Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.666971,38.374357,-97.666971,38.374357],
+  "bbox": [
+    -97.666971,
+    38.374357,
+    -97.666971,
+    38.374357
+],
   "geometry": {"coordinates":[-97.666971,38.374357],"type":"Point"}
 }

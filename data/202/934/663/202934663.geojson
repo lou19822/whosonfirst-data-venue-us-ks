@@ -2,13 +2,14 @@
   "id": 202934663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.768877,38.884466,-94.768877,38.884466",
     "geom:latitude":38.884466,
     "geom:longitude":-94.768877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13470 S Arapaho Dr",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":202934663,
-    "wof:lastmodified":1449060231,
+    "wof:lastmodified":1466519840,
     "wof:name":"Pilar Salon and Spa",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.768877,38.884466,-94.768877,38.884466],
+  "bbox": [
+    -94.768877,
+    38.884466,
+    -94.768877,
+    38.884466
+],
   "geometry": {"coordinates":[-94.768877,38.884466],"type":"Point"}
 }

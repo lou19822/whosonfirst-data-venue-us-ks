@@ -2,13 +2,14 @@
   "id": 202945441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.695577,39.007608,-94.695577,39.007608",
     "geom:latitude":39.007608,
     "geom:longitude":-94.695577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9510 W 67th St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202945441,
-    "wof:lastmodified":1449060330,
+    "wof:lastmodified":1466520101,
     "wof:name":"Ge Capital Montgomery Ward",
     "wof:parent_id":85879543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-94.695577,39.007608,-94.695577,39.007608],
+  "bbox": [
+    -94.695577,
+    39.007608,
+    -94.695577,
+    39.007608
+],
   "geometry": {"coordinates":[-94.695577,39.007608],"type":"Point"}
 }

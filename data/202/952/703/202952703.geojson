@@ -2,13 +2,14 @@
   "id": 202952703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.743637,38.934637,-94.743637,38.934637",
     "geom:latitude":38.934637,
     "geom:longitude":-94.743637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13600 W 107th St",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202952703,
-    "wof:lastmodified":1449061925,
+    "wof:lastmodified":1466520181,
     "wof:name":"Stone Creations",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counter"
     ]
 },
-  "bbox": [-94.743637,38.934637,-94.743637,38.934637],
-  "geometry": {"coordinates":[-94.743637,38.934637],"type":"Point"}
+  "bbox": [
+    -94.743637,
+    38.934637,
+    -94.743637,
+    38.934637
+],
+  "geometry": {"coordinates":[-94.74363700000001,38.934637],"type":"Point"}
 }

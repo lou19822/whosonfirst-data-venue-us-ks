@@ -2,13 +2,14 @@
   "id": 169655465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.223879,38.989122,-95.223879,38.989122",
     "geom:latitude":38.989122,
     "geom:longitude":-95.223879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 E 1500 Rd",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169655465,
-    "wof:lastmodified":1449034588,
+    "wof:lastmodified":1466520399,
     "wof:name":"Keys Landscape Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.223879,38.989122,-95.223879,38.989122],
+  "bbox": [
+    -95.223879,
+    38.989122,
+    -95.223879,
+    38.989122
+],
   "geometry": {"coordinates":[-95.223879,38.989122],"type":"Point"}
 }

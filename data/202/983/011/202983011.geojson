@@ -2,13 +2,14 @@
   "id": 202983011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.302435,37.635082,-97.302435,37.635082",
     "geom:latitude":37.635082,
     "geom:longitude":-97.302435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3046 E 31st St S",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":202983011,
-    "wof:lastmodified":1449062444,
+    "wof:lastmodified":1466529902,
     "wof:name":"Young Electric Inc",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -97,6 +99,11 @@
         "installation"
     ]
 },
-  "bbox": [-97.302435,37.635082,-97.302435,37.635082],
+  "bbox": [
+    -97.302435,
+    37.635082,
+    -97.302435,
+    37.635082
+],
   "geometry": {"coordinates":[-97.302435,37.635082],"type":"Point"}
 }

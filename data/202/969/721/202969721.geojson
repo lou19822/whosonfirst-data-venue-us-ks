@@ -2,13 +2,14 @@
   "id": 202969721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.848663,37.170894,-94.848663,37.170894",
     "geom:latitude":37.170894,
     "geom:longitude":-94.848663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 W Maple St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202969721,
-    "wof:lastmodified":1449060721,
+    "wof:lastmodified":1466520296,
     "wof:name":"Columbus Unified High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "high"
     ]
 },
-  "bbox": [-94.848663,37.170894,-94.848663,37.170894],
+  "bbox": [
+    -94.848663,
+    37.170894,
+    -94.848663,
+    37.170894
+],
   "geometry": {"coordinates":[-94.848663,37.170894],"type":"Point"}
 }

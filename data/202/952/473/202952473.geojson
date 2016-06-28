@@ -2,13 +2,14 @@
   "id": 202952473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.72364,38.938782,-94.72364,38.938782",
     "geom:latitude":38.938782,
     "geom:longitude":-94.72364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10500 Quivira Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202952473,
-    "wof:lastmodified":1449061924,
+    "wof:lastmodified":1466520173,
     "wof:name":"Real Local Pages - Hospitals",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.72364,38.938782,-94.72364,38.938782],
+  "bbox": [
+    -94.72364,
+    38.938782,
+    -94.72364,
+    38.938782
+],
   "geometry": {"coordinates":[-94.72364,38.938782],"type":"Point"}
 }

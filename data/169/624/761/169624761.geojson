@@ -2,13 +2,14 @@
   "id": 169624761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.622896,38.983957,-94.622896,38.983957",
     "geom:latitude":38.983957,
     "geom:longitude":-94.622896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7915 Canterbury St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169624761,
-    "wof:lastmodified":1449034959,
+    "wof:lastmodified":1466520029,
     "wof:name":"Lynn A Knewtson Intr Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.622896,38.983957,-94.622896,38.983957],
+  "bbox": [
+    -94.622896,
+    38.983957,
+    -94.622896,
+    38.983957
+],
   "geometry": {"coordinates":[-94.622896,38.983957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202955945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.672908,38.855231,-95.672908,38.855231",
     "geom:latitude":38.855231,
     "geom:longitude":-95.672908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1147 E 117th St",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202955945,
-    "wof:lastmodified":1449061846,
+    "wof:lastmodified":1466520191,
     "wof:name":"Anytime Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "bond"
     ]
 },
-  "bbox": [-95.672908,38.855231,-95.672908,38.855231],
-  "geometry": {"coordinates":[-95.672908,38.855231],"type":"Point"}
+  "bbox": [
+    -95.672908,
+    38.855231,
+    -95.672908,
+    38.855231
+],
+  "geometry": {"coordinates":[-95.67290800000001,38.855231],"type":"Point"}
 }

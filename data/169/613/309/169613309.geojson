@@ -2,13 +2,14 @@
   "id": 169613309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.669826,38.956634,-94.669826,38.956634",
     "geom:latitude":38.956634,
     "geom:longitude":-94.669826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7245 W 95th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169613309,
-    "wof:lastmodified":1449034209,
+    "wof:lastmodified":1466519772,
     "wof:name":"Lightedge Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-94.669826,38.956634,-94.669826,38.956634],
+  "bbox": [
+    -94.669826,
+    38.956634,
+    -94.669826,
+    38.956634
+],
   "geometry": {"coordinates":[-94.669826,38.956634],"type":"Point"}
 }

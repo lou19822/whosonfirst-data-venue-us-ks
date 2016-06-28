@@ -2,13 +2,14 @@
   "id": 202930275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.907948,39.291892,-94.907948,39.291892",
     "geom:latitude":39.291892,
     "geom:longitude":-94.907948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 S 4th St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":202930275,
-    "wof:lastmodified":1449060921,
+    "wof:lastmodified":1466519729,
     "wof:name":"Designing Women Hair Salon Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.907948,39.291892,-94.907948,39.291892],
+  "bbox": [
+    -94.907948,
+    39.291892,
+    -94.907948,
+    39.291892
+],
   "geometry": {"coordinates":[-94.907948,39.291892],"type":"Point"}
 }

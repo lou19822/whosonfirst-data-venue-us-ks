@@ -2,13 +2,14 @@
   "id": 202951997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.755054,38.954957,-94.755054,38.954957",
     "geom:latitude":38.954957,
     "geom:longitude":-94.755054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9605 Dice Ln",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202951997,
-    "wof:lastmodified":1449060207,
+    "wof:lastmodified":1466520179,
     "wof:name":"Cowley Distributing Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-94.755054,38.954957,-94.755054,38.954957],
+  "bbox": [
+    -94.755054,
+    38.954957,
+    -94.755054,
+    38.954957
+],
   "geometry": {"coordinates":[-94.755054,38.954957],"type":"Point"}
 }

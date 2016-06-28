@@ -2,13 +2,14 @@
   "id": 169654567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.469485,39.338762,-98.469485,39.338762",
     "geom:latitude":39.338762,
     "geom:longitude":-98.469485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Gambrinus",
     "sg:city":"Tipton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169654567,
-    "wof:lastmodified":1449033793,
+    "wof:lastmodified":1466520400,
     "wof:name":"Catholic Rectory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.469485,39.338762,-98.469485,39.338762],
-  "geometry": {"coordinates":[-98.469485,39.338762],"type":"Point"}
+  "bbox": [
+    -98.469485,
+    39.338762,
+    -98.469485,
+    39.338762
+],
+  "geometry": {"coordinates":[-98.46948500000001,39.338762],"type":"Point"}
 }

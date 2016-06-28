@@ -2,13 +2,14 @@
   "id": 202916789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.927759,39.122977,-94.927759,39.122977",
     "geom:latitude":39.122977,
     "geom:longitude":-94.927759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15015 Craig St",
     "sg:city":"Basehor",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202916789,
-    "wof:lastmodified":1449061501,
+    "wof:lastmodified":1466519473,
     "wof:name":"Kc Web Shop .Co,",
     "wof:parent_id":85849437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "online"
     ]
 },
-  "bbox": [-94.927759,39.122977,-94.927759,39.122977],
-  "geometry": {"coordinates":[-94.927759,39.122977],"type":"Point"}
+  "bbox": [
+    -94.927759,
+    39.122977,
+    -94.927759,
+    39.122977
+],
+  "geometry": {"coordinates":[-94.92775899999999,39.122977],"type":"Point"}
 }

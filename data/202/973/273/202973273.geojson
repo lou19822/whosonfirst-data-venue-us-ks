@@ -2,13 +2,14 @@
   "id": 202973273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.667849,37.554885,-94.667849,37.554885",
     "geom:latitude":37.554885,
     "geom:longitude":-94.667849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 S Fulton Ave",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202973273,
-    "wof:lastmodified":1449061642,
+    "wof:lastmodified":1466520315,
     "wof:name":"Hare Razors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.667849,37.554885,-94.667849,37.554885],
+  "bbox": [
+    -94.667849,
+    37.554885,
+    -94.667849,
+    37.554885
+],
   "geometry": {"coordinates":[-94.667849,37.554885],"type":"Point"}
 }

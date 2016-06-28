@@ -2,13 +2,14 @@
   "id": 169673035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.864424,37.694014,-96.864424,37.694014",
     "geom:latitude":37.694014,
     "geom:longitude":-96.864424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 SW 90th St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169673035,
-    "wof:lastmodified":1449033959,
+    "wof:lastmodified":1466529906,
     "wof:name":"Emmanuel Pntecostal Assemblies",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.864424,37.694014,-96.864424,37.694014],
+  "bbox": [
+    -96.864424,
+    37.694014,
+    -96.864424,
+    37.694014
+],
   "geometry": {"coordinates":[-96.864424,37.694014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169605503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.768658,39.116298,-94.768658,39.116298",
     "geom:latitude":39.116298,
     "geom:longitude":-94.768658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8155 State Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169605503,
-    "wof:lastmodified":1449034291,
+    "wof:lastmodified":1466519525,
     "wof:name":"Tobacco Road Smokes & Premium",
     "wof:parent_id":85878509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "dealer"
     ]
 },
-  "bbox": [-94.768658,39.116298,-94.768658,39.116298],
+  "bbox": [
+    -94.768658,
+    39.116298,
+    -94.768658,
+    39.116298
+],
   "geometry": {"coordinates":[-94.768658,39.116298],"type":"Point"}
 }

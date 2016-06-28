@@ -2,13 +2,14 @@
   "id": 202916541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.126779,39.546096,-95.126779,39.546096",
     "geom:latitude":39.546096,
     "geom:longitude":-95.126779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Storch Ave",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202916541,
-    "wof:lastmodified":1449061501,
+    "wof:lastmodified":1466519462,
     "wof:name":"Barker Apartments House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.126779,39.546096,-95.126779,39.546096],
+  "bbox": [
+    -95.126779,
+    39.546096,
+    -95.126779,
+    39.546096
+],
   "geometry": {"coordinates":[-95.126779,39.546096],"type":"Point"}
 }

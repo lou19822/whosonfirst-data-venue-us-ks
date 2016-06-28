@@ -2,13 +2,14 @@
   "id": 169647779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.737653,38.962447,-94.737653,38.962447",
     "geom:latitude":38.962447,
     "geom:longitude":-94.737653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9131 Noland Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169647779,
-    "wof:lastmodified":1449034240,
+    "wof:lastmodified":1466520347,
     "wof:name":"Holland Corp",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "asphalt"
     ]
 },
-  "bbox": [-94.737653,38.962447,-94.737653,38.962447],
-  "geometry": {"coordinates":[-94.737653,38.962447],"type":"Point"}
+  "bbox": [
+    -94.737653,
+    38.962447,
+    -94.737653,
+    38.962447
+],
+  "geometry": {"coordinates":[-94.73765299999999,38.962447],"type":"Point"}
 }

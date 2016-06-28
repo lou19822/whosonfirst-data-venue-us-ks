@@ -2,13 +2,14 @@
   "id": 169653511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.614436,39.123309,-94.614436,39.123309",
     "geom:latitude":39.123309,
     "geom:longitude":-94.614436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 N 1 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169653511,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466520381,
     "wof:name":"Allied Mobile Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "container"
     ]
 },
-  "bbox": [-94.614436,39.123309,-94.614436,39.123309],
+  "bbox": [
+    -94.614436,
+    39.123309,
+    -94.614436,
+    39.123309
+],
   "geometry": {"coordinates":[-94.614436,39.123309],"type":"Point"}
 }

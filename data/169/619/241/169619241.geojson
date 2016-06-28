@@ -2,13 +2,14 @@
   "id": 169619241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.757544,38.95642,-94.757544,38.95642",
     "geom:latitude":38.95642,
     "geom:longitude":-94.757544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14649 W 95th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169619241,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466519904,
     "wof:name":"Decision One",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "datum"
     ]
 },
-  "bbox": [-94.757544,38.95642,-94.757544,38.95642],
+  "bbox": [
+    -94.757544,
+    38.95642,
+    -94.757544,
+    38.95642
+],
   "geometry": {"coordinates":[-94.757544,38.95642],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169610365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.81084,38.88927,-94.81084,38.88927",
     "geom:latitude":38.88927,
     "geom:longitude":-94.81084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 N Curtis St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169610365,
-    "wof:lastmodified":1449035909,
+    "wof:lastmodified":1466519710,
     "wof:name":"Creative Financial Svc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-94.81084,38.88927,-94.81084,38.88927],
+  "bbox": [
+    -94.81084,
+    38.88927,
+    -94.81084,
+    38.88927
+],
   "geometry": {"coordinates":[-94.81084,38.88927],"type":"Point"}
 }

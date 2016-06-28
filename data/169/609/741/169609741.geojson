@@ -2,13 +2,14 @@
   "id": 169609741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.600241,38.388659,-95.600241,38.388659",
     "geom:latitude":38.388659,
     "geom:longitude":-95.600241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Pearson Ave",
     "sg:city":"Waverly",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169609741,
-    "wof:lastmodified":1449033917,
+    "wof:lastmodified":1466519695,
     "wof:name":"Thompson's Wash & Dry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.600241,38.388659,-95.600241,38.388659],
+  "bbox": [
+    -95.600241,
+    38.388659,
+    -95.600241,
+    38.388659
+],
   "geometry": {"coordinates":[-95.600241,38.388659],"type":"Point"}
 }

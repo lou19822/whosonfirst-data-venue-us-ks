@@ -2,13 +2,14 @@
   "id": 202968557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.705211,37.546821,-94.705211,37.546821",
     "geom:latitude":37.546821,
     "geom:longitude":-94.705211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 W Perry St",
     "sg:city":"Arma",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202968557,
-    "wof:lastmodified":1449060270,
+    "wof:lastmodified":1466520272,
     "wof:name":"Sullins Roofing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.705211,37.546821,-94.705211,37.546821],
-  "geometry": {"coordinates":[-94.705211,37.546821],"type":"Point"}
+  "bbox": [
+    -94.705211,
+    37.546821,
+    -94.705211,
+    37.546821
+],
+  "geometry": {"coordinates":[-94.70521100000001,37.546821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202951155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.742699,38.960041,-94.742699,38.960041",
     "geom:latitude":38.960041,
     "geom:longitude":-94.742699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13500 Santa Fe Trail Dr",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202951155,
-    "wof:lastmodified":1449060207,
+    "wof:lastmodified":1466520138,
     "wof:name":"Lenexa Smoke Shop",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "tobacco-wholesale"
     ]
 },
-  "bbox": [-94.742699,38.960041,-94.742699,38.960041],
+  "bbox": [
+    -94.742699,
+    38.960041,
+    -94.742699,
+    38.960041
+],
   "geometry": {"coordinates":[-94.742699,38.960041],"type":"Point"}
 }

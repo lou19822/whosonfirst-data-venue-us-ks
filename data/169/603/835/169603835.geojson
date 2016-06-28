@@ -2,13 +2,14 @@
   "id": 169603835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.200092,37.6812,-97.200092,37.6812",
     "geom:latitude":37.6812,
     "geom:longitude":-97.200092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11828 E Lewis St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169603835,
-    "wof:lastmodified":1449035453,
+    "wof:lastmodified":1466519511,
     "wof:name":"Electri-Tech",
     "wof:parent_id":85830823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.200092,37.6812,-97.200092,37.6812],
+  "bbox": [
+    -97.200092,
+    37.6812,
+    -97.200092,
+    37.6812
+],
   "geometry": {"coordinates":[-97.200092,37.6812],"type":"Point"}
 }

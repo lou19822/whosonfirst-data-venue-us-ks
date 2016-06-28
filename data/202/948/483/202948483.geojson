@@ -2,13 +2,14 @@
   "id": 202948483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.636187,38.912995,-94.636187,38.912995",
     "geom:latitude":38.912995,
     "geom:longitude":-94.636187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4314 W 119th St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202948483,
-    "wof:lastmodified":1449062140,
+    "wof:lastmodified":1466520133,
     "wof:name":"Massage Envy of Leawood",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "physical"
     ]
 },
-  "bbox": [-94.636187,38.912995,-94.636187,38.912995],
-  "geometry": {"coordinates":[-94.636187,38.912995],"type":"Point"}
+  "bbox": [
+    -94.636187,
+    38.912995,
+    -94.636187,
+    38.912995
+],
+  "geometry": {"coordinates":[-94.63618700000001,38.912995],"type":"Point"}
 }

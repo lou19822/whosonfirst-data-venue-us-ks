@@ -2,13 +2,14 @@
   "id": 202965899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.756416,39.026192,-95.756416,39.026192",
     "geom:latitude":39.026192,
     "geom:longitude":-95.756416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 SW Westport Dr # 200",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202965899,
-    "wof:lastmodified":1449061868,
+    "wof:lastmodified":1466520296,
     "wof:name":"Westport Dental",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.756416,39.026192,-95.756416,39.026192],
+  "bbox": [
+    -95.756416,
+    39.026192,
+    -95.756416,
+    39.026192
+],
   "geometry": {"coordinates":[-95.756416,39.026192],"type":"Point"}
 }

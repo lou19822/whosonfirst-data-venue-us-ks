@@ -2,13 +2,14 @@
   "id": 169599273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.884387,37.975193,-100.884387,37.975193",
     "geom:latitude":37.975193,
     "geom:longitude":-100.884387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Buffalo Jones Ave",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169599273,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466519431,
     "wof:name":"Continental Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.884387,37.975193,-100.884387,37.975193],
+  "bbox": [
+    -100.884387,
+    37.975193,
+    -100.884387,
+    37.975193
+],
   "geometry": {"coordinates":[-100.884387,37.975193],"type":"Point"}
 }

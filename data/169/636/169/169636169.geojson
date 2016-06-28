@@ -2,13 +2,14 @@
   "id": 169636169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.717844,39.077591,-95.717844,39.077591",
     "geom:latitude":39.077591,
     "geom:longitude":-95.717844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 NW Saline St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169636169,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1466520222,
     "wof:name":"Shawnee County Refuse Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.717844,39.077591,-95.717844,39.077591],
+  "bbox": [
+    -95.717844,
+    39.077591,
+    -95.717844,
+    39.077591
+],
   "geometry": {"coordinates":[-95.717844,39.077591],"type":"Point"}
 }

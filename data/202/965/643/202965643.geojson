@@ -2,13 +2,14 @@
   "id": 202965643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.683195,39.050809,-95.683195,39.050809",
     "geom:latitude":39.050809,
     "geom:longitude":-95.683195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 SW Polk St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202965643,
-    "wof:lastmodified":1449061868,
+    "wof:lastmodified":1466520286,
     "wof:name":"Romes",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-95.683195,39.050809,-95.683195,39.050809],
+  "bbox": [
+    -95.683195,
+    39.050809,
+    -95.683195,
+    39.050809
+],
   "geometry": {"coordinates":[-95.683195,39.050809],"type":"Point"}
 }

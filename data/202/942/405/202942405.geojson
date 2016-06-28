@@ -2,13 +2,14 @@
   "id": 202942405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.653712,39.023432,-94.653712,39.023432",
     "geom:latitude":39.023432,
     "geom:longitude":-94.653712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5830 Woodson Rd",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202942405,
-    "wof:lastmodified":1449061285,
+    "wof:lastmodified":1466520025,
     "wof:name":"Bonci Andrew S Dc",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.653712,39.023432,-94.653712,39.023432],
+  "bbox": [
+    -94.653712,
+    39.023432,
+    -94.653712,
+    39.023432
+],
   "geometry": {"coordinates":[-94.653712,39.023432],"type":"Point"}
 }

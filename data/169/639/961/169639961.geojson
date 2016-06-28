@@ -2,13 +2,14 @@
   "id": 169639961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.773355,37.075272,-94.773355,37.075272",
     "geom:latitude":37.075272,
     "geom:longitude":-94.773355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3457 SE Beasley Rd",
     "sg:city":"Baxter Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169639961,
-    "wof:lastmodified":1449035954,
+    "wof:lastmodified":1466520280,
     "wof:name":"Shell's Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "barber"
     ]
 },
-  "bbox": [-94.773355,37.075272,-94.773355,37.075272],
+  "bbox": [
+    -94.773355,
+    37.075272,
+    -94.773355,
+    37.075272
+],
   "geometry": {"coordinates":[-94.773355,37.075272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169648853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.825214,38.83997,-94.825214,38.83997",
     "geom:latitude":38.83997,
     "geom:longitude":-94.825214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20701 W 159th St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169648853,
-    "wof:lastmodified":1449033584,
+    "wof:lastmodified":1466520370,
     "wof:name":"National Service Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.825214,38.83997,-94.825214,38.83997],
+  "bbox": [
+    -94.825214,
+    38.83997,
+    -94.825214,
+    38.83997
+],
   "geometry": {"coordinates":[-94.825214,38.83997],"type":"Point"}
 }

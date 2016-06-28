@@ -2,13 +2,14 @@
   "id": 202938097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.875341,38.579892,-94.875341,38.579892",
     "geom:latitude":38.579892,
     "geom:longitude":-94.875341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 N Pearl St",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202938097,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466519909,
     "wof:name":"Mc Millin Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-94.875341,38.579892,-94.875341,38.579892],
-  "geometry": {"coordinates":[-94.875341,38.579892],"type":"Point"}
+  "bbox": [
+    -94.875341,
+    38.579892,
+    -94.875341,
+    38.579892
+],
+  "geometry": {"coordinates":[-94.87534100000001,38.579892],"type":"Point"}
 }

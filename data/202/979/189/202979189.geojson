@@ -2,13 +2,14 @@
   "id": 202979189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.338144,37.685915,-97.338144,37.685915",
     "geom:latitude":37.685915,
     "geom:longitude":-97.338144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Main St Ste 600",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202979189,
-    "wof:lastmodified":1449061893,
+    "wof:lastmodified":1466520328,
     "wof:name":"High Touch Technology Solution",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "system"
     ]
 },
-  "bbox": [-97.338144,37.685915,-97.338144,37.685915],
+  "bbox": [
+    -97.338144,
+    37.685915,
+    -97.338144,
+    37.685915
+],
   "geometry": {"coordinates":[-97.338144,37.685915],"type":"Point"}
 }

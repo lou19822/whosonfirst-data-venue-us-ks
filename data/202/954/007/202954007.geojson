@@ -2,13 +2,14 @@
   "id": 202954007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.765105,38.987585,-94.765105,38.987585",
     "geom:latitude":38.987585,
     "geom:longitude":-94.765105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7724 Twilight Ln",
     "sg:city":"Shawnee",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202954007,
-    "wof:lastmodified":1449062331,
+    "wof:lastmodified":1466529892,
     "wof:name":"Heartland Medical Billing",
     "wof:parent_id":85812711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.765105,38.987585,-94.765105,38.987585],
-  "geometry": {"coordinates":[-94.765105,38.987585],"type":"Point"}
+  "bbox": [
+    -94.765105,
+    38.987585,
+    -94.765105,
+    38.987585
+],
+  "geometry": {"coordinates":[-94.76510500000001,38.987585],"type":"Point"}
 }

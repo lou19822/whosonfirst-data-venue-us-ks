@@ -2,13 +2,14 @@
   "id": 202976075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.70639,37.41608,-94.70639,37.41608",
     "geom:latitude":37.41608,
     "geom:longitude":-94.70639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W 9th St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202976075,
-    "wof:lastmodified":1449061163,
+    "wof:lastmodified":1466520321,
     "wof:name":"Lighthouse Temple Cogic",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-94.70639,37.41608,-94.70639,37.41608],
+  "bbox": [
+    -94.70639,
+    37.41608,
+    -94.70639,
+    37.41608
+],
   "geometry": {"coordinates":[-94.70639,37.41608],"type":"Point"}
 }

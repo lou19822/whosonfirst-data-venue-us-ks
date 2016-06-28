@@ -2,13 +2,14 @@
   "id": 169660835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.701903,38.972891,-94.701903,38.972891",
     "geom:latitude":38.972891,
     "geom:longitude":-94.701903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9921 W 86th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169660835,
-    "wof:lastmodified":1449035611,
+    "wof:lastmodified":1466520450,
     "wof:name":"Kiddi Kollege Child Care-Lrng",
     "wof:parent_id":85879599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.701903,38.972891,-94.701903,38.972891],
+  "bbox": [
+    -94.701903,
+    38.972891,
+    -94.701903,
+    38.972891
+],
   "geometry": {"coordinates":[-94.701903,38.972891],"type":"Point"}
 }

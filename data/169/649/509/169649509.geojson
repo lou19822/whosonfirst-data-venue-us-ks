@@ -2,13 +2,14 @@
   "id": 169649509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.600325,37.958456,-98.600325,37.958456",
     "geom:latitude":37.958456,
     "geom:longitude":-98.600325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Main St",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169649509,
-    "wof:lastmodified":1449034941,
+    "wof:lastmodified":1466520378,
     "wof:name":"Custom Harvesting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.600325,37.958456,-98.600325,37.958456],
+  "bbox": [
+    -98.600325,
+    37.958456,
+    -98.600325,
+    37.958456
+],
   "geometry": {"coordinates":[-98.600325,37.958456],"type":"Point"}
 }

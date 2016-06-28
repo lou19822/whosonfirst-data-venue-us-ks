@@ -2,13 +2,14 @@
   "id": 169593621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.782482,37.897558,-97.782482,37.897558",
     "geom:latitude":37.897558,
     "geom:longitude":-97.782482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E 1st St",
     "sg:city":"Haven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169593621,
-    "wof:lastmodified":1449034879,
+    "wof:lastmodified":1466529842,
     "wof:name":"Brown's Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.782482,37.897558,-97.782482,37.897558],
+  "bbox": [
+    -97.782482,
+    37.897558,
+    -97.782482,
+    37.897558
+],
   "geometry": {"coordinates":[-97.782482,37.897558],"type":"Point"}
 }

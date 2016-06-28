@@ -2,13 +2,14 @@
   "id": 169648511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.734591,38.971091,-94.734591,38.971091",
     "geom:latitude":38.971091,
     "geom:longitude":-94.734591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12800 W 87th Street Pkwy",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169648511,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1466520360,
     "wof:name":"Merritt Chiropractic",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.734591,38.971091,-94.734591,38.971091],
-  "geometry": {"coordinates":[-94.734591,38.971091],"type":"Point"}
+  "bbox": [
+    -94.734591,
+    38.971091,
+    -94.734591,
+    38.971091
+],
+  "geometry": {"coordinates":[-94.73459099999999,38.971091],"type":"Point"}
 }

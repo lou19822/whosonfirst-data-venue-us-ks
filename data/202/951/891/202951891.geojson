@@ -2,13 +2,14 @@
   "id": 202951891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.755097,38.947286,-94.755097,38.947286",
     "geom:latitude":38.947286,
     "geom:longitude":-94.755097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14304 W 100th St",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202951891,
-    "wof:lastmodified":1449060207,
+    "wof:lastmodified":1466520169,
     "wof:name":"Midwest Lens Laboratory",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "laboratories-research"
     ]
 },
-  "bbox": [-94.755097,38.947286,-94.755097,38.947286],
-  "geometry": {"coordinates":[-94.755097,38.947286],"type":"Point"}
+  "bbox": [
+    -94.755097,
+    38.947286,
+    -94.755097,
+    38.947286
+],
+  "geometry": {"coordinates":[-94.75509700000001,38.947286],"type":"Point"}
 }

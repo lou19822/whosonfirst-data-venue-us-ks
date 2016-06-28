@@ -2,13 +2,14 @@
   "id": 202975781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.678717,37.410978,-94.678717,37.410978",
     "geom:latitude":37.410978,
     "geom:longitude":-94.678717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 E 4th St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202975781,
-    "wof:lastmodified":1449062304,
+    "wof:lastmodified":1466520338,
     "wof:name":"Horton's Pizza Plus",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-94.678717,37.410978,-94.678717,37.410978],
-  "geometry": {"coordinates":[-94.678717,37.410978],"type":"Point"}
+  "bbox": [
+    -94.678717,
+    37.410978,
+    -94.678717,
+    37.410978
+],
+  "geometry": {"coordinates":[-94.67871700000001,37.410978],"type":"Point"}
 }

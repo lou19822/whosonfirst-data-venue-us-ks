@@ -2,13 +2,14 @@
   "id": 169668771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.466619,37.71361,-97.466619,37.71361",
     "geom:latitude":37.71361,
     "geom:longitude":-97.466619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1723 Skyview St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169668771,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1466520480,
     "wof:name":"Christian Latvian Mission",
     "wof:parent_id":85872815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.466619,37.71361,-97.466619,37.71361],
-  "geometry": {"coordinates":[-97.466619,37.71361],"type":"Point"}
+  "bbox": [
+    -97.466619,
+    37.71361,
+    -97.466619,
+    37.71361
+],
+  "geometry": {"coordinates":[-97.46661899999999,37.71361],"type":"Point"}
 }

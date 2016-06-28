@@ -2,13 +2,14 @@
   "id": 202968409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.708352,37.541204,-94.708352,37.541204",
     "geom:latitude":37.541204,
     "geom:longitude":-94.708352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 W View St",
     "sg:city":"Arma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202968409,
-    "wof:lastmodified":1449060267,
+    "wof:lastmodified":1466520266,
     "wof:name":"Polhlopek Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-94.708352,37.541204,-94.708352,37.541204],
+  "bbox": [
+    -94.708352,
+    37.541204,
+    -94.708352,
+    37.541204
+],
   "geometry": {"coordinates":[-94.708352,37.541204],"type":"Point"}
 }

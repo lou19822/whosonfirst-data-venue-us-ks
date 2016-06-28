@@ -2,13 +2,14 @@
   "id": 202961533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.679614,39.019219,-95.679614,39.019219",
     "geom:latitude":39.019219,
     "geom:longitude":-95.679614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 SE 27th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202961533,
-    "wof:lastmodified":1449062578,
+    "wof:lastmodified":1466520234,
     "wof:name":"Topeka Unified School District 501",
     "wof:parent_id":85881545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.679614,39.019219,-95.679614,39.019219],
+  "bbox": [
+    -95.679614,
+    39.019219,
+    -95.679614,
+    39.019219
+],
   "geometry": {"coordinates":[-95.679614,39.019219],"type":"Point"}
 }

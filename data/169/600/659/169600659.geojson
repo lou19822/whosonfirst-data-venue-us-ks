@@ -2,13 +2,14 @@
   "id": 169600659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370506,37.614114,-97.370506,37.614114",
     "geom:latitude":37.614114,
     "geom:longitude":-97.370506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4480 S Meridian Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169600659,
-    "wof:lastmodified":1449032969,
+    "wof:lastmodified":1466519449,
     "wof:name":"M C Harris Specialty Mntnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chimney"
     ]
 },
-  "bbox": [-97.370506,37.614114,-97.370506,37.614114],
-  "geometry": {"coordinates":[-97.370506,37.614114],"type":"Point"}
+  "bbox": [
+    -97.370506,
+    37.614114,
+    -97.370506,
+    37.614114
+],
+  "geometry": {"coordinates":[-97.37050600000001,37.614114],"type":"Point"}
 }

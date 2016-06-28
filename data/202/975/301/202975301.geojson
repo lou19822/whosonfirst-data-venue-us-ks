@@ -2,13 +2,14 @@
   "id": 202975301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.726893,37.411186,-94.726893,37.411186",
     "geom:latitude":37.411186,
     "geom:longitude":-94.726893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 W 4th St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202975301,
-    "wof:lastmodified":1449062305,
+    "wof:lastmodified":1466520313,
     "wof:name":"Town & Country Mobile Home & Rv Park",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing-communities"
     ]
 },
-  "bbox": [-94.726893,37.411186,-94.726893,37.411186],
+  "bbox": [
+    -94.726893,
+    37.411186,
+    -94.726893,
+    37.411186
+],
   "geometry": {"coordinates":[-94.726893,37.411186],"type":"Point"}
 }

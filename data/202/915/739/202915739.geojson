@@ -2,13 +2,14 @@
   "id": 202915739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.154196,39.572847,-95.154196,39.572847",
     "geom:latitude":39.572847,
     "geom:longitude":-95.154196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18011 Country Club Rd",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202915739,
-    "wof:lastmodified":1449062609,
+    "wof:lastmodified":1466519450,
     "wof:name":"Bellevue Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-95.154196,39.572847,-95.154196,39.572847],
+  "bbox": [
+    -95.154196,
+    39.572847,
+    -95.154196,
+    39.572847
+],
   "geometry": {"coordinates":[-95.154196,39.572847],"type":"Point"}
 }

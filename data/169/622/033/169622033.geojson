@@ -2,13 +2,14 @@
   "id": 169622033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.216607,38.917218,-97.216607,38.917218",
     "geom:latitude":38.917218,
     "geom:longitude":-97.216607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 N Cedar St",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169622033,
-    "wof:lastmodified":1449035365,
+    "wof:lastmodified":1466519979,
     "wof:name":"Kansas Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-97.216607,38.917218,-97.216607,38.917218],
+  "bbox": [
+    -97.216607,
+    38.917218,
+    -97.216607,
+    38.917218
+],
   "geometry": {"coordinates":[-97.216607,38.917218],"type":"Point"}
 }

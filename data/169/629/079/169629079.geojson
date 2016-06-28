@@ -2,13 +2,14 @@
   "id": 169629079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.732801,39.061965,-95.732801,39.061965",
     "geom:latitude":39.061965,
     "geom:longitude":-95.732801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 SW Woodbury Ln",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169629079,
-    "wof:lastmodified":1449035185,
+    "wof:lastmodified":1466520116,
     "wof:name":"Adventure Promotions Inc",
     "wof:parent_id":85881539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.732801,39.061965,-95.732801,39.061965],
-  "geometry": {"coordinates":[-95.732801,39.061965],"type":"Point"}
+  "bbox": [
+    -95.732801,
+    39.061965,
+    -95.732801,
+    39.061965
+],
+  "geometry": {"coordinates":[-95.73280099999999,39.061965],"type":"Point"}
 }

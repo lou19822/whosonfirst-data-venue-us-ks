@@ -2,13 +2,14 @@
   "id": 169612107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.371017,37.672341,-97.371017,37.672341",
     "geom:latitude":37.672341,
     "geom:longitude":-97.371017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 S Meridian Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169612107,
-    "wof:lastmodified":1449034129,
+    "wof:lastmodified":1466519759,
     "wof:name":"Krista's Lounge",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.371017,37.672341,-97.371017,37.672341],
-  "geometry": {"coordinates":[-97.371017,37.672341],"type":"Point"}
+  "bbox": [
+    -97.371017,
+    37.672341,
+    -97.371017,
+    37.672341
+],
+  "geometry": {"coordinates":[-97.37101699999999,37.672341],"type":"Point"}
 }

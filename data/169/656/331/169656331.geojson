@@ -2,13 +2,14 @@
   "id": 169656331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.625379,38.942633,-94.625379,38.942633",
     "geom:latitude":38.942633,
     "geom:longitude":-94.625379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10130 Pawnee Ln",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169656331,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1466520390,
     "wof:name":"Broderick Sportsgroup",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "promoter"
     ]
 },
-  "bbox": [-94.625379,38.942633,-94.625379,38.942633],
+  "bbox": [
+    -94.625379,
+    38.942633,
+    -94.625379,
+    38.942633
+],
   "geometry": {"coordinates":[-94.625379,38.942633],"type":"Point"}
 }

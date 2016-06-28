@@ -2,13 +2,14 @@
   "id": 202967607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.717813,39.080397,-95.717813,39.080397",
     "geom:latitude":39.080397,
     "geom:longitude":-95.717813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1622 NW Saline St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202967607,
-    "wof:lastmodified":1449062457,
+    "wof:lastmodified":1466520276,
     "wof:name":"Southwestern Bell Telephone, L.P.",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "software"
     ]
 },
-  "bbox": [-95.717813,39.080397,-95.717813,39.080397],
-  "geometry": {"coordinates":[-95.717813,39.080397],"type":"Point"}
+  "bbox": [
+    -95.717813,
+    39.080397,
+    -95.717813,
+    39.080397
+],
+  "geometry": {"coordinates":[-95.71781300000001,39.080397],"type":"Point"}
 }

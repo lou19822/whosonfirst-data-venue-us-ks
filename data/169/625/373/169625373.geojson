@@ -2,13 +2,14 @@
   "id": 169625373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.176274,38.41222,-96.176274,38.41222",
     "geom:latitude":38.41222,
     "geom:longitude":-96.176274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E 12th Ave",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169625373,
-    "wof:lastmodified":1449036023,
+    "wof:lastmodified":1466520036,
     "wof:name":"Kenyon Square Apartments",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.176274,38.41222,-96.176274,38.41222],
-  "geometry": {"coordinates":[-96.176274,38.41222],"type":"Point"}
+  "bbox": [
+    -96.176274,
+    38.41222,
+    -96.176274,
+    38.41222
+],
+  "geometry": {"coordinates":[-96.17627400000001,38.41222],"type":"Point"}
 }

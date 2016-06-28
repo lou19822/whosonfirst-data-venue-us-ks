@@ -2,13 +2,14 @@
   "id": 202934423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.764013,38.918571,-94.764013,38.918571",
     "geom:latitude":38.918571,
     "geom:longitude":-94.764013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 N Rogers Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -81,10 +82,11 @@
         }
     ],
     "wof:id":202934423,
-    "wof:lastmodified":1449060228,
+    "wof:lastmodified":1466519829,
     "wof:name":"Smitty's Lawn & Garden Equipment",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "utility"
     ]
 },
-  "bbox": [-94.764013,38.918571,-94.764013,38.918571],
-  "geometry": {"coordinates":[-94.764013,38.918571],"type":"Point"}
+  "bbox": [
+    -94.764013,
+    38.918571,
+    -94.764013,
+    38.918571
+],
+  "geometry": {"coordinates":[-94.76401300000001,38.918571],"type":"Point"}
 }

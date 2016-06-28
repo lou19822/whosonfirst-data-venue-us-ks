@@ -2,13 +2,14 @@
   "id": 202982079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.354871,37.651512,-97.354871,37.651512",
     "geom:latitude":37.651512,
     "geom:longitude":-97.354871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 W Pawnee St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":202982079,
-    "wof:lastmodified":1449060531,
+    "wof:lastmodified":1466520348,
     "wof:name":"Winchell's Donut House",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "dessert"
     ]
 },
-  "bbox": [-97.354871,37.651512,-97.354871,37.651512],
+  "bbox": [
+    -97.354871,
+    37.651512,
+    -97.354871,
+    37.651512
+],
   "geometry": {"coordinates":[-97.354871,37.651512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202965671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.678134,39.040411,-95.678134,39.040411",
     "geom:latitude":39.040411,
     "geom:longitude":-95.678134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 SW 14th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202965671,
-    "wof:lastmodified":1449061865,
+    "wof:lastmodified":1466520287,
     "wof:name":"China Express",
     "wof:parent_id":85881553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pan"
     ]
 },
-  "bbox": [-95.678134,39.040411,-95.678134,39.040411],
+  "bbox": [
+    -95.678134,
+    39.040411,
+    -95.678134,
+    39.040411
+],
   "geometry": {"coordinates":[-95.678134,39.040411],"type":"Point"}
 }

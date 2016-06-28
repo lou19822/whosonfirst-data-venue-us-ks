@@ -2,13 +2,14 @@
   "id": 169650115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.71547,37.226708,-95.71547,37.226708",
     "geom:latitude":37.226708,
     "geom:longitude":-95.71547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 W Chestnut St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169650115,
-    "wof:lastmodified":1449034699,
+    "wof:lastmodified":1466520361,
     "wof:name":"Senior Services Of Se Kansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-95.71547,37.226708,-95.71547,37.226708],
+  "bbox": [
+    -95.71547,
+    37.226708,
+    -95.71547,
+    37.226708
+],
   "geometry": {"coordinates":[-95.71547,37.226708],"type":"Point"}
 }

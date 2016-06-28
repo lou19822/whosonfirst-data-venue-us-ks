@@ -2,13 +2,14 @@
   "id": 202970507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.836547,37.169503,-94.836547,37.169503",
     "geom:latitude":37.169503,
     "geom:longitude":-94.836547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Garfield St Apt 12",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202970507,
-    "wof:lastmodified":1449062590,
+    "wof:lastmodified":1466520297,
     "wof:name":"Park Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "listing"
     ]
 },
-  "bbox": [-94.836547,37.169503,-94.836547,37.169503],
+  "bbox": [
+    -94.836547,
+    37.169503,
+    -94.836547,
+    37.169503
+],
   "geometry": {"coordinates":[-94.836547,37.169503],"type":"Point"}
 }

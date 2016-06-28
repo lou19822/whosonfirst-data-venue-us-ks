@@ -2,13 +2,14 @@
   "id": 202961177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.762089,39.032392,-95.762089,39.032392",
     "geom:latitude":39.032392,
     "geom:longitude":-95.762089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 SW Wanamaker Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202961177,
-    "wof:lastmodified":1449062585,
+    "wof:lastmodified":1466520220,
     "wof:name":"Kwan Wah",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pan"
     ]
 },
-  "bbox": [-95.762089,39.032392,-95.762089,39.032392],
+  "bbox": [
+    -95.762089,
+    39.032392,
+    -95.762089,
+    39.032392
+],
   "geometry": {"coordinates":[-95.762089,39.032392],"type":"Point"}
 }

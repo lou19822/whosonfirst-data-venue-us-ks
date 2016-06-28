@@ -2,13 +2,14 @@
   "id": 169628557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.720429,38.96889,-94.720429,38.96889",
     "geom:latitude":38.96889,
     "geom:longitude":-94.720429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8867 Lenexa Dr",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169628557,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466520099,
     "wof:name":"Swisher Of KC",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "restroom"
     ]
 },
-  "bbox": [-94.720429,38.96889,-94.720429,38.96889],
+  "bbox": [
+    -94.720429,
+    38.96889,
+    -94.720429,
+    38.96889
+],
   "geometry": {"coordinates":[-94.720429,38.96889],"type":"Point"}
 }

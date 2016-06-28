@@ -2,13 +2,14 @@
   "id": 202949659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.645592,38.927415,-94.645592,38.927415",
     "geom:latitude":38.927415,
     "geom:longitude":-94.645592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 College Blvd Suite 280",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202949659,
-    "wof:lastmodified":1449061680,
+    "wof:lastmodified":1466520150,
     "wof:name":"Dental Implant Diagnostic and Treatment Center",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-94.645592,38.927415,-94.645592,38.927415],
-  "geometry": {"coordinates":[-94.645592,38.927415],"type":"Point"}
+  "bbox": [
+    -94.645592,
+    38.927415,
+    -94.645592,
+    38.927415
+],
+  "geometry": {"coordinates":[-94.64559199999999,38.927415],"type":"Point"}
 }

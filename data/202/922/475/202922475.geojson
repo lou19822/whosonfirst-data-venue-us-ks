@@ -2,13 +2,14 @@
   "id": 202922475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.948448,39.310261,-94.948448,39.310261",
     "geom:latitude":39.310261,
     "geom:longitude":-94.948448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Spruce St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202922475,
-    "wof:lastmodified":1449060343,
+    "wof:lastmodified":1466519570,
     "wof:name":"Leavenworth Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.948448,39.310261,-94.948448,39.310261],
+  "bbox": [
+    -94.948448,
+    39.310261,
+    -94.948448,
+    39.310261
+],
   "geometry": {"coordinates":[-94.948448,39.310261],"type":"Point"}
 }

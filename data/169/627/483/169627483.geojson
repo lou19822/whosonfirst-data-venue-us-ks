@@ -2,13 +2,14 @@
   "id": 169627483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.285244,37.694801,-97.285244,37.694801",
     "geom:latitude":37.694801,
     "geom:longitude":-97.285244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 N Crestway",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169627483,
-    "wof:lastmodified":1449036044,
+    "wof:lastmodified":1466520067,
     "wof:name":"B & B Tax Svc",
     "wof:parent_id":85872829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-97.285244,37.694801,-97.285244,37.694801],
-  "geometry": {"coordinates":[-97.285244,37.694801],"type":"Point"}
+  "bbox": [
+    -97.285244,
+    37.694801,
+    -97.285244,
+    37.694801
+],
+  "geometry": {"coordinates":[-97.28524400000001,37.694801],"type":"Point"}
 }

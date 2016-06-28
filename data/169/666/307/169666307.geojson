@@ -2,13 +2,14 @@
   "id": 169666307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.818746,39.045295,-96.818746,39.045295",
     "geom:latitude":39.045295,
     "geom:longitude":-96.818746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Grant Ave",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169666307,
-    "wof:lastmodified":1449033897,
+    "wof:lastmodified":1466520460,
     "wof:name":"Mercury Finance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-96.818746,39.045295,-96.818746,39.045295],
+  "bbox": [
+    -96.818746,
+    39.045295,
+    -96.818746,
+    39.045295
+],
   "geometry": {"coordinates":[-96.818746,39.045295],"type":"Point"}
 }

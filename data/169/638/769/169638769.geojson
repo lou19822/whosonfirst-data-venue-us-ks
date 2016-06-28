@@ -2,13 +2,14 @@
   "id": 169638769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.23718,38.964429,-95.23718,38.964429",
     "geom:latitude":38.964429,
     "geom:longitude":-95.23718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Vermont St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169638769,
-    "wof:lastmodified":1449032868,
+    "wof:lastmodified":1466520255,
     "wof:name":"Meade Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.23718,38.964429,-95.23718,38.964429],
+  "bbox": [
+    -95.23718,
+    38.964429,
+    -95.23718,
+    38.964429
+],
   "geometry": {"coordinates":[-95.23718,38.964429],"type":"Point"}
 }

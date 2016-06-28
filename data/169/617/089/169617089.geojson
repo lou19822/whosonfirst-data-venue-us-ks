@@ -2,13 +2,14 @@
   "id": 169617089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.929202,37.989462,-100.929202,37.989462",
     "geom:latitude":37.989462,
     "geom:longitude":-100.929202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3687 Jones Ave",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169617089,
-    "wof:lastmodified":1449032799,
+    "wof:lastmodified":1466519848,
     "wof:name":"Wrenchtech Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-100.929202,37.989462,-100.929202,37.989462],
+  "bbox": [
+    -100.929202,
+    37.989462,
+    -100.929202,
+    37.989462
+],
   "geometry": {"coordinates":[-100.929202,37.989462],"type":"Point"}
 }

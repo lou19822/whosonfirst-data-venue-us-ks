@@ -2,13 +2,14 @@
   "id": 169621797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.128326,39.375155,-97.128326,39.375155",
     "geom:latitude":39.375155,
     "geom:longitude":-97.128326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Grant Ave",
     "sg:city":"Clay Center",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169621797,
-    "wof:lastmodified":1449035559,
+    "wof:lastmodified":1466519973,
     "wof:name":"Clay Center Floral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.128326,39.375155,-97.128326,39.375155],
+  "bbox": [
+    -97.128326,
+    39.375155,
+    -97.128326,
+    39.375155
+],
   "geometry": {"coordinates":[-97.128326,39.375155],"type":"Point"}
 }

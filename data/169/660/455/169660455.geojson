@@ -2,13 +2,14 @@
   "id": 169660455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.724828,39.032008,-95.724828,39.032008",
     "geom:latitude":39.032008,
     "geom:longitude":-95.724828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1936 SW Gage Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169660455,
-    "wof:lastmodified":1449035613,
+    "wof:lastmodified":1466520434,
     "wof:name":"Cook's American Grill",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.724828,39.032008,-95.724828,39.032008],
+  "bbox": [
+    -95.724828,
+    39.032008,
+    -95.724828,
+    39.032008
+],
   "geometry": {"coordinates":[-95.724828,39.032008],"type":"Point"}
 }

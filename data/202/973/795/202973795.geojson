@@ -2,13 +2,14 @@
   "id": 202973795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.690781,37.382933,-94.690781,37.382933",
     "geom:latitude":37.382933,
     "geom:longitude":-94.690781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 S Tucker Ave Ste 1",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202973795,
-    "wof:lastmodified":1449061641,
+    "wof:lastmodified":1466520336,
     "wof:name":"Carlson, Mark Md",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-94.690781,37.382933,-94.690781,37.382933],
+  "bbox": [
+    -94.690781,
+    37.382933,
+    -94.690781,
+    37.382933
+],
   "geometry": {"coordinates":[-94.690781,37.382933],"type":"Point"}
 }

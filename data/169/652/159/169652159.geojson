@@ -2,13 +2,14 @@
   "id": 169652159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.011226,38.957738,-95.011226,38.957738",
     "geom:latitude":38.957738,
     "geom:longitude":-95.011226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 Rowen Rd",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169652159,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466520365,
     "wof:name":"Platinum Homes LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.011226,38.957738,-95.011226,38.957738],
-  "geometry": {"coordinates":[-95.011226,38.957738],"type":"Point"}
+  "bbox": [
+    -95.011226,
+    38.957738,
+    -95.011226,
+    38.957738
+],
+  "geometry": {"coordinates":[-95.01122599999999,38.957738],"type":"Point"}
 }

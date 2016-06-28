@@ -2,13 +2,14 @@
   "id": 169615279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463673,39.862081,-96.463673,39.862081",
     "geom:latitude":39.862081,
     "geom:longitude":-96.463673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1056 19th Rd",
     "sg:city":"Beattie",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169615279,
-    "wof:lastmodified":1449033732,
+    "wof:lastmodified":1466519810,
     "wof:name":"George Chase Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.463673,39.862081,-96.463673,39.862081],
+  "bbox": [
+    -96.463673,
+    39.862081,
+    -96.463673,
+    39.862081
+],
   "geometry": {"coordinates":[-96.463673,39.862081],"type":"Point"}
 }

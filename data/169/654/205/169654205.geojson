@@ -2,13 +2,14 @@
   "id": 169654205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.613812,38.860207,-97.613812,38.860207",
     "geom:latitude":38.860207,
     "geom:longitude":-97.613812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W Antrim Ave",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169654205,
-    "wof:lastmodified":1449033792,
+    "wof:lastmodified":1466520388,
     "wof:name":"Smoky Valley Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.613812,38.860207,-97.613812,38.860207],
+  "bbox": [
+    -97.613812,
+    38.860207,
+    -97.613812,
+    38.860207
+],
   "geometry": {"coordinates":[-97.613812,38.860207],"type":"Point"}
 }

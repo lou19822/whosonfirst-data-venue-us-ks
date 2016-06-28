@@ -2,13 +2,14 @@
   "id": 169610507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.6197,38.784129,-97.6197,38.784129",
     "geom:latitude":38.784129,
     "geom:longitude":-97.6197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Merrily Dr",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169610507,
-    "wof:lastmodified":1449035910,
+    "wof:lastmodified":1466529885,
     "wof:name":"Al-Anon Family Groups",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-97.6197,38.784129,-97.6197,38.784129],
-  "geometry": {"coordinates":[-97.6197,38.784129],"type":"Point"}
+  "bbox": [
+    -97.6197,
+    38.784129,
+    -97.6197,
+    38.784129
+],
+  "geometry": {"coordinates":[-97.61969999999999,38.784129],"type":"Point"}
 }

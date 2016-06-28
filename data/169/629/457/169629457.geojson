@@ -2,13 +2,14 @@
   "id": 169629457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.347794,37.622603,-97.347794,37.622603",
     "geom:latitude":37.622603,
     "geom:longitude":-97.347794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 W Macarthur Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169629457,
-    "wof:lastmodified":1449035186,
+    "wof:lastmodified":1466520133,
     "wof:name":"Bo Wilkins",
     "wof:parent_id":85834033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.347794,37.622603,-97.347794,37.622603],
-  "geometry": {"coordinates":[-97.347794,37.622603],"type":"Point"}
+  "bbox": [
+    -97.347794,
+    37.622603,
+    -97.347794,
+    37.622603
+],
+  "geometry": {"coordinates":[-97.34779399999999,37.622603],"type":"Point"}
 }

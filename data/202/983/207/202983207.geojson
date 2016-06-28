@@ -2,13 +2,14 @@
   "id": 202983207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.355589,37.645965,-97.355589,37.645965",
     "geom:latitude":37.645965,
     "geom:longitude":-97.355589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 W Casado St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202983207,
-    "wof:lastmodified":1449062444,
+    "wof:lastmodified":1466520351,
     "wof:name":"Rogers Electric Co",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-97.355589,37.645965,-97.355589,37.645965],
-  "geometry": {"coordinates":[-97.355589,37.645965],"type":"Point"}
+  "bbox": [
+    -97.355589,
+    37.645965,
+    -97.355589,
+    37.645965
+],
+  "geometry": {"coordinates":[-97.35558899999999,37.645965],"type":"Point"}
 }

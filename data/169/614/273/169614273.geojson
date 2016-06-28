@@ -2,13 +2,14 @@
   "id": 169614273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.713689,37.833592,-94.713689,37.833592",
     "geom:latitude":37.833592,
     "geom:longitude":-94.713689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"744 Horton St",
     "sg:city":"Fort Scott",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169614273,
-    "wof:lastmodified":1449036057,
+    "wof:lastmodified":1466519810,
     "wof:name":"Birthline Of Fort Scott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-94.713689,37.833592,-94.713689,37.833592],
+  "bbox": [
+    -94.713689,
+    37.833592,
+    -94.713689,
+    37.833592
+],
   "geometry": {"coordinates":[-94.713689,37.833592],"type":"Point"}
 }

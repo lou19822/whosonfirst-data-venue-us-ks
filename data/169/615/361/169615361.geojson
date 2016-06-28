@@ -2,13 +2,14 @@
   "id": 169615361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.207841,37.681124,-97.207841,37.681124",
     "geom:latitude":37.681124,
     "geom:longitude":-97.207841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Greenwich Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169615361,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466519814,
     "wof:name":"Professional Hair Doctors",
     "wof:parent_id":85830823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.207841,37.681124,-97.207841,37.681124],
+  "bbox": [
+    -97.207841,
+    37.681124,
+    -97.207841,
+    37.681124
+],
   "geometry": {"coordinates":[-97.207841,37.681124],"type":"Point"}
 }

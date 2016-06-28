@@ -2,13 +2,14 @@
   "id": 202982331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37469,37.651342,-97.37469,37.651342",
     "geom:latitude":37.651342,
     "geom:longitude":-97.37469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 W Pawnee St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202982331,
-    "wof:lastmodified":1449060531,
+    "wof:lastmodified":1466520358,
     "wof:name":"Cox-Kent & Associates Inc",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "generator"
     ]
 },
-  "bbox": [-97.37469,37.651342,-97.37469,37.651342],
+  "bbox": [
+    -97.37469,
+    37.651342,
+    -97.37469,
+    37.651342
+],
   "geometry": {"coordinates":[-97.37469,37.651342],"type":"Point"}
 }

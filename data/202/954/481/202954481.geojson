@@ -2,13 +2,14 @@
   "id": 202954481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.817594,39.010624,-94.817594,39.010624",
     "geom:latitude":39.010624,
     "geom:longitude":-94.817594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6518 Vista Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202954481,
-    "wof:lastmodified":1449062332,
+    "wof:lastmodified":1466520182,
     "wof:name":"Shawnee Fitness Club",
     "wof:parent_id":85859465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.817594,39.010624,-94.817594,39.010624],
+  "bbox": [
+    -94.817594,
+    39.010624,
+    -94.817594,
+    39.010624
+],
   "geometry": {"coordinates":[-94.817594,39.010624],"type":"Point"}
 }

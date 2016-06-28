@@ -2,13 +2,14 @@
   "id": 202975289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.705082,37.38711,-94.705082,37.38711",
     "geom:latitude":37.38711,
     "geom:longitude":-94.705082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 S Broadway St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":202975289,
-    "wof:lastmodified":1449062306,
+    "wof:lastmodified":1466520312,
     "wof:name":"The Wild Side",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.705082,37.38711,-94.705082,37.38711],
+  "bbox": [
+    -94.705082,
+    37.38711,
+    -94.705082,
+    37.38711
+],
   "geometry": {"coordinates":[-94.705082,37.38711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169593605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.461237,37.696915,-97.461237,37.696915",
     "geom:latitude":37.696915,
     "geom:longitude":-97.461237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 Toh-N-Hah Trl",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169593605,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466529841,
     "wof:name":"Las Vegas Express",
     "wof:parent_id":85872815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-97.461237,37.696915,-97.461237,37.696915],
+  "bbox": [
+    -97.461237,
+    37.696915,
+    -97.461237,
+    37.696915
+],
   "geometry": {"coordinates":[-97.461237,37.696915],"type":"Point"}
 }

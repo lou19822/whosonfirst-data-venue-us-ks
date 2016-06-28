@@ -2,13 +2,14 @@
   "id": 169655447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.619968,38.834449,-97.619968,38.834449",
     "geom:latitude":38.834449,
     "geom:longitude":-97.619968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 W South St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169655447,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1466520398,
     "wof:name":"Creative Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-97.619968,38.834449,-97.619968,38.834449],
+  "bbox": [
+    -97.619968,
+    38.834449,
+    -97.619968,
+    38.834449
+],
   "geometry": {"coordinates":[-97.619968,38.834449],"type":"Point"}
 }

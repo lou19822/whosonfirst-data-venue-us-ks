@@ -2,13 +2,14 @@
   "id": 169657415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.609741,39.077805,-94.609741,39.077805",
     "geom:latitude":39.077805,
     "geom:longitude":-94.609741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 E Cambridge Circle Dr",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169657415,
-    "wof:lastmodified":1449033051,
+    "wof:lastmodified":1466520403,
     "wof:name":"Mid America Neuroscience Inst",
     "wof:parent_id":85873441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "imaging"
     ]
 },
-  "bbox": [-94.609741,39.077805,-94.609741,39.077805],
+  "bbox": [
+    -94.609741,
+    39.077805,
+    -94.609741,
+    39.077805
+],
   "geometry": {"coordinates":[-94.609741,39.077805],"type":"Point"}
 }

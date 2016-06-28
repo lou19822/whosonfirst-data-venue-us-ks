@@ -2,13 +2,14 @@
   "id": 169629483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.80176,38.919651,-94.80176,38.919651",
     "geom:latitude":38.919651,
     "geom:longitude":-94.80176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11540 S Northwood Dr",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169629483,
-    "wof:lastmodified":1449035186,
+    "wof:lastmodified":1466520134,
     "wof:name":"Northwood Trails Pool",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-94.80176,38.919651,-94.80176,38.919651],
+  "bbox": [
+    -94.80176,
+    38.919651,
+    -94.80176,
+    38.919651
+],
   "geometry": {"coordinates":[-94.80176,38.919651],"type":"Point"}
 }

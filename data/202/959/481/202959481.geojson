@@ -2,13 +2,14 @@
   "id": 202959481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.305031,39.199428,-96.305031,39.199428",
     "geom:latitude":39.199428,
     "geom:longitude":-96.305031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 1/2 Lincoln St",
     "sg:city":"Wamego",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202959481,
-    "wof:lastmodified":1449062394,
+    "wof:lastmodified":1466520207,
     "wof:name":"Scizzors Of Ahhhz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.305031,39.199428,-96.305031,39.199428],
+  "bbox": [
+    -96.305031,
+    39.199428,
+    -96.305031,
+    39.199428
+],
   "geometry": {"coordinates":[-96.305031,39.199428],"type":"Point"}
 }

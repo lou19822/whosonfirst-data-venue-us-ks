@@ -2,13 +2,14 @@
   "id": 202955295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.601098,38.986031,-95.601098,38.986031",
     "geom:latitude":38.986031,
     "geom:longitude":-95.601098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4144 SE 45th St",
     "sg:city":"Berryton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202955295,
-    "wof:lastmodified":1449061847,
+    "wof:lastmodified":1466520182,
     "wof:name":"Robert D Johnson",
     "wof:parent_id":85881535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-95.601098,38.986031,-95.601098,38.986031],
-  "geometry": {"coordinates":[-95.601098,38.986031],"type":"Point"}
+  "bbox": [
+    -95.601098,
+    38.986031,
+    -95.601098,
+    38.986031
+],
+  "geometry": {"coordinates":[-95.60109799999999,38.986031],"type":"Point"}
 }

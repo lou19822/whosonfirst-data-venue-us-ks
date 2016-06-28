@@ -2,13 +2,14 @@
   "id": 169624877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629548,38.848992,-97.629548,38.848992",
     "geom:latitude":38.848992,
     "geom:longitude":-97.629548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W North St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169624877,
-    "wof:lastmodified":1449034959,
+    "wof:lastmodified":1466520036,
     "wof:name":"Decker Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.629548,38.848992,-97.629548,38.848992],
+  "bbox": [
+    -97.629548,
+    38.848992,
+    -97.629548,
+    38.848992
+],
   "geometry": {"coordinates":[-97.629548,38.848992],"type":"Point"}
 }

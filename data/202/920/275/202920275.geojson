@@ -2,13 +2,14 @@
   "id": 202920275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.762415,38.346615,-94.762415,38.346615",
     "geom:latitude":38.346615,
     "geom:longitude":-94.762415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 N Broadway St",
     "sg:city":"Lacygne",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202920275,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1466519530,
     "wof:name":"Christian Lacygne Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "churches-non-denominational"
     ]
 },
-  "bbox": [-94.762415,38.346615,-94.762415,38.346615],
+  "bbox": [
+    -94.762415,
+    38.346615,
+    -94.762415,
+    38.346615
+],
   "geometry": {"coordinates":[-94.762415,38.346615],"type":"Point"}
 }

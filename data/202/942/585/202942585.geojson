@@ -2,13 +2,14 @@
   "id": 202942585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.686453,39.017967,-94.686453,39.017967",
     "geom:latitude":39.017967,
     "geom:longitude":-94.686453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6127 Antioch Rd",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -84,10 +85,11 @@
         }
     ],
     "wof:id":202942585,
-    "wof:lastmodified":1449061285,
+    "wof:lastmodified":1466520029,
     "wof:name":"Construction Masters Grou",
     "wof:parent_id":85879553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -107,6 +109,11 @@
         "carpet"
     ]
 },
-  "bbox": [-94.686453,39.017967,-94.686453,39.017967],
+  "bbox": [
+    -94.686453,
+    39.017967,
+    -94.686453,
+    39.017967
+],
   "geometry": {"coordinates":[-94.686453,39.017967],"type":"Point"}
 }

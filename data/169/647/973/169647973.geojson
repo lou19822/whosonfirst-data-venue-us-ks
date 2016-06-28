@@ -2,13 +2,14 @@
   "id": 169647973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.002154,38.947553,-95.002154,38.947553",
     "geom:latitude":38.947553,
     "geom:longitude":-95.002154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 4-H Rd",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169647973,
-    "wof:lastmodified":1449034240,
+    "wof:lastmodified":1466520357,
     "wof:name":"Francis X Thorne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.002154,38.947553,-95.002154,38.947553],
+  "bbox": [
+    -95.002154,
+    38.947553,
+    -95.002154,
+    38.947553
+],
   "geometry": {"coordinates":[-95.002154,38.947553],"type":"Point"}
 }

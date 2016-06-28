@@ -2,13 +2,14 @@
   "id": 169658411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.245142,37.722942,-97.245142,37.722942",
     "geom:latitude":37.722942,
     "geom:longitude":-97.245142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7777 E 21st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169658411,
-    "wof:lastmodified":1449032614,
+    "wof:lastmodified":1466520412,
     "wof:name":"Affordable Supplements",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-97.245142,37.722942,-97.245142,37.722942],
+  "bbox": [
+    -97.245142,
+    37.722942,
+    -97.245142,
+    37.722942
+],
   "geometry": {"coordinates":[-97.245142,37.722942],"type":"Point"}
 }

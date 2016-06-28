@@ -2,13 +2,14 @@
   "id": 169672681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.713565,38.992837,-94.713565,38.992837",
     "geom:latitude":38.992837,
     "geom:longitude":-94.713565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11019 W 75th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169672681,
-    "wof:lastmodified":1449032891,
+    "wof:lastmodified":1466520497,
     "wof:name":"Shell",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-94.713565,38.992837,-94.713565,38.992837],
+  "bbox": [
+    -94.713565,
+    38.992837,
+    -94.713565,
+    38.992837
+],
   "geometry": {"coordinates":[-94.713565,38.992837],"type":"Point"}
 }

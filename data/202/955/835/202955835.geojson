@@ -2,13 +2,14 @@
   "id": 202955835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.854001,38.942379,-95.854001,38.942379",
     "geom:latitude":38.942379,
     "geom:longitude":-95.854001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9720 SW 69th St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202955835,
-    "wof:lastmodified":1449061847,
+    "wof:lastmodified":1466520189,
     "wof:name":"Golden Turf Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.854001,38.942379,-95.854001,38.942379],
+  "bbox": [
+    -95.854001,
+    38.942379,
+    -95.854001,
+    38.942379
+],
   "geometry": {"coordinates":[-95.854001,38.942379],"type":"Point"}
 }

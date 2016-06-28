@@ -2,13 +2,14 @@
   "id": 202950241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.648933,38.933853,-94.648933,38.933853",
     "geom:latitude":38.933853,
     "geom:longitude":-94.648933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10740 Nall Ave Ste 120",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202950241,
-    "wof:lastmodified":1449061110,
+    "wof:lastmodified":1466520140,
     "wof:name":"Ing Financial Advisers",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "pension"
     ]
 },
-  "bbox": [-94.648933,38.933853,-94.648933,38.933853],
+  "bbox": [
+    -94.648933,
+    38.933853,
+    -94.648933,
+    38.933853
+],
   "geometry": {"coordinates":[-94.648933,38.933853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202934011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.820674,38.880287,-94.820674,38.880287",
     "geom:latitude":38.880287,
     "geom:longitude":-94.820674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S Kansas Ave",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202934011,
-    "wof:lastmodified":1449060231,
+    "wof:lastmodified":1466529887,
     "wof:name":"Money N Minutes",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "order"
     ]
 },
-  "bbox": [-94.820674,38.880287,-94.820674,38.880287],
+  "bbox": [
+    -94.820674,
+    38.880287,
+    -94.820674,
+    38.880287
+],
   "geometry": {"coordinates":[-94.820674,38.880287],"type":"Point"}
 }

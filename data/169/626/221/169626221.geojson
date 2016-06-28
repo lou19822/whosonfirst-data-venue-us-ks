@@ -2,13 +2,14 @@
   "id": 169626221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.213723,38.343707,-98.213723,38.343707",
     "geom:latitude":38.343707,
     "geom:longitude":-98.213723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 S Garfield Ave",
     "sg:city":"Lyons",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169626221,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466520052,
     "wof:name":"Economy Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.213723,38.343707,-98.213723,38.343707],
+  "bbox": [
+    -98.213723,
+    38.343707,
+    -98.213723,
+    38.343707
+],
   "geometry": {"coordinates":[-98.213723,38.343707],"type":"Point"}
 }

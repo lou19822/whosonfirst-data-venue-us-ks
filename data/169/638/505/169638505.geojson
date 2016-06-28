@@ -2,13 +2,14 @@
   "id": 169638505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.776105,38.898832,-94.776105,38.898832",
     "geom:latitude":38.898832,
     "geom:longitude":-94.776105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16403 W 126th Ter",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169638505,
-    "wof:lastmodified":1449032867,
+    "wof:lastmodified":1466520243,
     "wof:name":"T R Cartographics",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "map"
     ]
 },
-  "bbox": [-94.776105,38.898832,-94.776105,38.898832],
+  "bbox": [
+    -94.776105,
+    38.898832,
+    -94.776105,
+    38.898832
+],
   "geometry": {"coordinates":[-94.776105,38.898832],"type":"Point"}
 }

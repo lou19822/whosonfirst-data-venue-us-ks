@@ -2,13 +2,14 @@
   "id": 169650997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.732892,38.970633,-94.732892,38.970633",
     "geom:latitude":38.970633,
     "geom:longitude":-94.732892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8725 Rosehill Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169650997,
-    "wof:lastmodified":1449034701,
+    "wof:lastmodified":1466520386,
     "wof:name":"World Savings",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "association"
     ]
 },
-  "bbox": [-94.732892,38.970633,-94.732892,38.970633],
-  "geometry": {"coordinates":[-94.732892,38.970633],"type":"Point"}
+  "bbox": [
+    -94.732892,
+    38.970633,
+    -94.732892,
+    38.970633
+],
+  "geometry": {"coordinates":[-94.73289200000001,38.970633],"type":"Point"}
 }

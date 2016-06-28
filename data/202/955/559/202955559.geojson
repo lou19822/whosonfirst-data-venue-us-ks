@@ -2,13 +2,14 @@
   "id": 202955559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.849618,39.044588,-94.849618,39.044588",
     "geom:latitude":39.044588,
     "geom:longitude":-94.849618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4606 Anderson St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202955559,
-    "wof:lastmodified":1449061851,
+    "wof:lastmodified":1466520185,
     "wof:name":"Bottom Line Bar-B-Que",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-94.849618,39.044588,-94.849618,39.044588],
-  "geometry": {"coordinates":[-94.849618,39.044588],"type":"Point"}
+  "bbox": [
+    -94.849618,
+    39.044588,
+    -94.849618,
+    39.044588
+],
+  "geometry": {"coordinates":[-94.84961800000001,39.044588],"type":"Point"}
 }

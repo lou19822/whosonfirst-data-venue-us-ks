@@ -2,13 +2,14 @@
   "id": 202964191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.680806,38.979186,-95.680806,38.979186",
     "geom:latitude":38.979186,
     "geom:longitude":-95.680806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 SE Willow Way",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202964191,
-    "wof:lastmodified":1449062023,
+    "wof:lastmodified":1466520266,
     "wof:name":"Jack Hendrix Painting And Sandblasting",
     "wof:parent_id":85851947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.680806,38.979186,-95.680806,38.979186],
+  "bbox": [
+    -95.680806,
+    38.979186,
+    -95.680806,
+    38.979186
+],
   "geometry": {"coordinates":[-95.680806,38.979186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202935299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.779503,38.882538,-94.779503,38.882538",
     "geom:latitude":38.882538,
     "geom:longitude":-94.779503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13511 S Mur Len Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202935299,
-    "wof:lastmodified":1449062213,
+    "wof:lastmodified":1466519858,
     "wof:name":"Something Different Video",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "picture"
     ]
 },
-  "bbox": [-94.779503,38.882538,-94.779503,38.882538],
-  "geometry": {"coordinates":[-94.779503,38.882538],"type":"Point"}
+  "bbox": [
+    -94.779503,
+    38.882538,
+    -94.779503,
+    38.882538
+],
+  "geometry": {"coordinates":[-94.77950300000001,38.882538],"type":"Point"}
 }

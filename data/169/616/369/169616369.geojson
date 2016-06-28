@@ -2,13 +2,14 @@
   "id": 169616369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.820542,38.871409,-94.820542,38.871409",
     "geom:latitude":38.871409,
     "geom:longitude":-94.820542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Kansas Ave",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169616369,
-    "wof:lastmodified":1449035103,
+    "wof:lastmodified":1466519859,
     "wof:name":"Vic's Auto & Trans Repair",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-94.820542,38.871409,-94.820542,38.871409],
+  "bbox": [
+    -94.820542,
+    38.871409,
+    -94.820542,
+    38.871409
+],
   "geometry": {"coordinates":[-94.820542,38.871409],"type":"Point"}
 }

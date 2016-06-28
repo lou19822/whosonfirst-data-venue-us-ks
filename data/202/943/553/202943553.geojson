@@ -2,13 +2,14 @@
   "id": 202943553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.689614,39.014916,-94.689614,39.014916",
     "geom:latitude":39.014916,
     "geom:longitude":-94.689614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9010 Shawnee Mission Pkwy",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202943553,
-    "wof:lastmodified":1449060784,
+    "wof:lastmodified":1466520084,
     "wof:name":"Baron BMW-MINI",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "new"
     ]
 },
-  "bbox": [-94.689614,39.014916,-94.689614,39.014916],
-  "geometry": {"coordinates":[-94.689614,39.014916],"type":"Point"}
+  "bbox": [
+    -94.689614,
+    39.014916,
+    -94.689614,
+    39.014916
+],
+  "geometry": {"coordinates":[-94.68961400000001,39.014916],"type":"Point"}
 }

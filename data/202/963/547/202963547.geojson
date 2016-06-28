@@ -2,13 +2,14 @@
   "id": 202963547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.648429,39.043767,-95.648429,39.043767",
     "geom:latitude":39.043767,
     "geom:longitude":-95.648429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 SE Republican Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202963547,
-    "wof:lastmodified":1449060357,
+    "wof:lastmodified":1466520244,
     "wof:name":"Midwest Window Coverings Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-95.648429,39.043767,-95.648429,39.043767],
-  "geometry": {"coordinates":[-95.648429,39.043767],"type":"Point"}
+  "bbox": [
+    -95.648429,
+    39.043767,
+    -95.648429,
+    39.043767
+],
+  "geometry": {"coordinates":[-95.64842899999999,39.043767],"type":"Point"}
 }

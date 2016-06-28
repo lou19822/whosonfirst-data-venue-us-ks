@@ -2,13 +2,14 @@
   "id": 202958881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.78892,39.903352,-95.78892,39.903352",
     "geom:latitude":39.903352,
     "geom:longitude":-95.78892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Main St",
     "sg:city":"Sabetha",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202958881,
-    "wof:lastmodified":1449062099,
+    "wof:lastmodified":1466520211,
     "wof:name":"Saylor Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-95.78892,39.903352,-95.78892,39.903352],
+  "bbox": [
+    -95.78892,
+    39.903352,
+    -95.78892,
+    39.903352
+],
   "geometry": {"coordinates":[-95.78892,39.903352],"type":"Point"}
 }

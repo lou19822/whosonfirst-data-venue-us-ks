@@ -2,13 +2,14 @@
   "id": 169636403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.835046,37.696076,-99.835046,37.696076",
     "geom:latitude":37.696076,
     "geom:longitude":-99.835046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12098 US Hwy 400",
     "sg:city":"Dodge City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169636403,
-    "wof:lastmodified":1449033990,
+    "wof:lastmodified":1466520230,
     "wof:name":"Ricke Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.835046,37.696076,-99.835046,37.696076],
-  "geometry": {"coordinates":[-99.835046,37.696076],"type":"Point"}
+  "bbox": [
+    -99.835046,
+    37.696076,
+    -99.835046,
+    37.696076
+],
+  "geometry": {"coordinates":[-99.83504600000001,37.696076],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202914259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.12045,39.563201,-95.12045,39.563201",
     "geom:latitude":39.563201,
     "geom:longitude":-95.12045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 N 6th St",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202914259,
-    "wof:lastmodified":1449061079,
+    "wof:lastmodified":1466529882,
     "wof:name":"Patsy A Porter Cpa Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "public"
     ]
 },
-  "bbox": [-95.12045,39.563201,-95.12045,39.563201],
-  "geometry": {"coordinates":[-95.12045,39.563201],"type":"Point"}
+  "bbox": [
+    -95.12045,
+    39.563201,
+    -95.12045,
+    39.563201
+],
+  "geometry": {"coordinates":[-95.12045000000001,39.563201],"type":"Point"}
 }

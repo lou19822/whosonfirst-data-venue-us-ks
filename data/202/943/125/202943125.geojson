@@ -2,13 +2,14 @@
   "id": 202943125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.651728,39.022209,-94.651728,39.022209",
     "geom:latitude":39.022209,
     "geom:longitude":-94.651728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5726 Johnson Dr",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202943125,
-    "wof:lastmodified":1449060786,
+    "wof:lastmodified":1466520067,
     "wof:name":"Rodman Thomas",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.651728,39.022209,-94.651728,39.022209],
-  "geometry": {"coordinates":[-94.651728,39.022209],"type":"Point"}
+  "bbox": [
+    -94.651728,
+    39.022209,
+    -94.651728,
+    39.022209
+],
+  "geometry": {"coordinates":[-94.65172800000001,39.022209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169673687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.695376,39.036852,-95.695376,39.036852",
     "geom:latitude":39.036852,
     "geom:longitude":-95.695376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 SW 17th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169673687,
-    "wof:lastmodified":1449033956,
+    "wof:lastmodified":1466520509,
     "wof:name":"Charlesettas Beauty Supply",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [-95.695376,39.036852,-95.695376,39.036852],
+  "bbox": [
+    -95.695376,
+    39.036852,
+    -95.695376,
+    39.036852
+],
   "geometry": {"coordinates":[-95.695376,39.036852],"type":"Point"}
 }

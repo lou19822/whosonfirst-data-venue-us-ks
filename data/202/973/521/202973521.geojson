@@ -2,13 +2,14 @@
   "id": 202973521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.701783,37.411125,-94.701783,37.411125",
     "geom:latitude":37.411125,
     "geom:longitude":-94.701783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E 4th St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202973521,
-    "wof:lastmodified":1449061643,
+    "wof:lastmodified":1466520328,
     "wof:name":"Hart, Joe A",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-94.701783,37.411125,-94.701783,37.411125],
-  "geometry": {"coordinates":[-94.701783,37.411125],"type":"Point"}
+  "bbox": [
+    -94.701783,
+    37.411125,
+    -94.701783,
+    37.411125
+],
+  "geometry": {"coordinates":[-94.70178300000001,37.411125],"type":"Point"}
 }

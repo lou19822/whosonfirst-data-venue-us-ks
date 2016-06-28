@@ -2,13 +2,14 @@
   "id": 202951151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.737556,38.955608,-94.737556,38.955608",
     "geom:latitude":38.955608,
     "geom:longitude":-94.737556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12601 W 95th St",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202951151,
-    "wof:lastmodified":1449060205,
+    "wof:lastmodified":1466520137,
     "wof:name":"Crowne Plaza Hotel Kansas City - Overland Park",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "facility"
     ]
 },
-  "bbox": [-94.737556,38.955608,-94.737556,38.955608],
+  "bbox": [
+    -94.737556,
+    38.955608,
+    -94.737556,
+    38.955608
+],
   "geometry": {"coordinates":[-94.737556,38.955608],"type":"Point"}
 }

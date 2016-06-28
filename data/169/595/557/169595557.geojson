@@ -2,13 +2,14 @@
   "id": 169595557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.202032,38.350375,-97.202032,38.350375",
     "geom:latitude":38.350375,
     "geom:longitude":-97.202032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Lincoln St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169595557,
-    "wof:lastmodified":1449035637,
+    "wof:lastmodified":1466529863,
     "wof:name":"Mennonite Brethren Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.202032,38.350375,-97.202032,38.350375],
+  "bbox": [
+    -97.202032,
+    38.350375,
+    -97.202032,
+    38.350375
+],
   "geometry": {"coordinates":[-97.202032,38.350375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169659961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.263412,38.961852,-95.263412,38.961852",
     "geom:latitude":38.961852,
     "geom:longitude":-95.263412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 Oxford Rd",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169659961,
-    "wof:lastmodified":1449033033,
+    "wof:lastmodified":1466520436,
     "wof:name":"Career Advantage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "reporting"
     ]
 },
-  "bbox": [-95.263412,38.961852,-95.263412,38.961852],
+  "bbox": [
+    -95.263412,
+    38.961852,
+    -95.263412,
+    38.961852
+],
   "geometry": {"coordinates":[-95.263412,38.961852],"type":"Point"}
 }

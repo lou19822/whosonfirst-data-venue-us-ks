@@ -2,13 +2,14 @@
   "id": 169627629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.322164,39.75595,-99.322164,39.75595",
     "geom:latitude":39.75595,
     "geom:longitude":-99.322164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 State St",
     "sg:city":"Phillipsburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169627629,
-    "wof:lastmodified":1449036043,
+    "wof:lastmodified":1466520076,
     "wof:name":"Golden Plains Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.322164,39.75595,-99.322164,39.75595],
+  "bbox": [
+    -99.322164,
+    39.75595,
+    -99.322164,
+    39.75595
+],
   "geometry": {"coordinates":[-99.322164,39.75595],"type":"Point"}
 }

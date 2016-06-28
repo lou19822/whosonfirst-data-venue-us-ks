@@ -2,13 +2,14 @@
   "id": 202979453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.031937,37.175684,-97.031937,37.175684",
     "geom:latitude":37.175684,
     "geom:longitude":-97.031937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E 9th Ave",
     "sg:city":"Winfield",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202979453,
-    "wof:lastmodified":1449061893,
+    "wof:lastmodified":1466520337,
     "wof:name":"William E Muret",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "agency"
     ]
 },
-  "bbox": [-97.031937,37.175684,-97.031937,37.175684],
+  "bbox": [
+    -97.031937,
+    37.175684,
+    -97.031937,
+    37.175684
+],
   "geometry": {"coordinates":[-97.031937,37.175684],"type":"Point"}
 }

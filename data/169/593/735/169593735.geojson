@@ -2,13 +2,14 @@
   "id": 169593735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.472425,37.619687,-97.472425,37.619687",
     "geom:latitude":37.619687,
     "geom:longitude":-97.472425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11012 W Southwest Blvd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169593735,
-    "wof:lastmodified":1449034879,
+    "wof:lastmodified":1466529844,
     "wof:name":"Schulte Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.472425,37.619687,-97.472425,37.619687],
+  "bbox": [
+    -97.472425,
+    37.619687,
+    -97.472425,
+    37.619687
+],
   "geometry": {"coordinates":[-97.472425,37.619687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202936681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.859255,38.5724,-94.859255,38.5724",
     "geom:latitude":38.5724,
     "geom:longitude":-94.859255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Baptiste Dr",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202936681,
-    "wof:lastmodified":1449060957,
+    "wof:lastmodified":1466519873,
     "wof:name":"Great Southern Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-94.859255,38.5724,-94.859255,38.5724],
+  "bbox": [
+    -94.859255,
+    38.5724,
+    -94.859255,
+    38.5724
+],
   "geometry": {"coordinates":[-94.859255,38.5724],"type":"Point"}
 }

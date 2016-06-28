@@ -2,13 +2,14 @@
   "id": 202972579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.830165,37.506309,-94.830165,37.506309",
     "geom:latitude":37.506309,
     "geom:longitude":-94.830165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Carline Rd",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202972579,
-    "wof:lastmodified":1449061393,
+    "wof:lastmodified":1466520317,
     "wof:name":"Don Murphy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.830165,37.506309,-94.830165,37.506309],
-  "geometry": {"coordinates":[-94.830165,37.506309],"type":"Point"}
+  "bbox": [
+    -94.830165,
+    37.506309,
+    -94.830165,
+    37.506309
+],
+  "geometry": {"coordinates":[-94.83016499999999,37.506309],"type":"Point"}
 }

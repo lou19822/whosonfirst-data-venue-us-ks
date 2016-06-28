@@ -2,13 +2,14 @@
   "id": 202946271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.63041,39.015779,-94.63041,39.015779",
     "geom:latitude":39.015779,
     "geom:longitude":-94.63041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6233 Mission Rd",
     "sg:city":"Fairway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202946271,
-    "wof:lastmodified":1449062345,
+    "wof:lastmodified":1466520092,
     "wof:name":"Air Compressor Solutions",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "compressor"
     ]
 },
-  "bbox": [-94.63041,39.015779,-94.63041,39.015779],
+  "bbox": [
+    -94.63041,
+    39.015779,
+    -94.63041,
+    39.015779
+],
   "geometry": {"coordinates":[-94.63041,39.015779],"type":"Point"}
 }

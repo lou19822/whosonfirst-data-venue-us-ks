@@ -2,13 +2,14 @@
   "id": 169618767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.318074,39.252255,-96.318074,39.252255",
     "geom:latitude":39.252255,
     "geom:longitude":-96.318074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Hickory St",
     "sg:city":"Wamego",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169618767,
-    "wof:lastmodified":1449034737,
+    "wof:lastmodified":1466519913,
     "wof:name":"L F Brayton Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.318074,39.252255,-96.318074,39.252255],
+  "bbox": [
+    -96.318074,
+    39.252255,
+    -96.318074,
+    39.252255
+],
   "geometry": {"coordinates":[-96.318074,39.252255],"type":"Point"}
 }

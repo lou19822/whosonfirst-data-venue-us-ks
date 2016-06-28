@@ -2,13 +2,14 @@
   "id": 169617311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.262065,37.550633,-97.262065,37.550633",
     "geom:latitude":37.550633,
     "geom:longitude":-97.262065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 N Woodlawn Blvd",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169617311,
-    "wof:lastmodified":1449032799,
+    "wof:lastmodified":1466519858,
     "wof:name":"First Bretheren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.262065,37.550633,-97.262065,37.550633],
-  "geometry": {"coordinates":[-97.262065,37.550633],"type":"Point"}
+  "bbox": [
+    -97.262065,
+    37.550633,
+    -97.262065,
+    37.550633
+],
+  "geometry": {"coordinates":[-97.26206500000001,37.550633],"type":"Point"}
 }

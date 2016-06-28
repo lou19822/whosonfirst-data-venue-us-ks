@@ -2,13 +2,14 @@
   "id": 169637151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.244613,37.748812,-97.244613,37.748812",
     "geom:latitude":37.748812,
     "geom:longitude":-97.244613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 N Rock Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169637151,
-    "wof:lastmodified":1449032687,
+    "wof:lastmodified":1466520224,
     "wof:name":"Chocolate Fountain",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "chocolate"
     ]
 },
-  "bbox": [-97.244613,37.748812,-97.244613,37.748812],
+  "bbox": [
+    -97.244613,
+    37.748812,
+    -97.244613,
+    37.748812
+],
   "geometry": {"coordinates":[-97.244613,37.748812],"type":"Point"}
 }

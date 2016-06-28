@@ -2,13 +2,14 @@
   "id": 169647661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.650477,39.158419,-95.650477,39.158419",
     "geom:latitude":39.158419,
     "geom:longitude":-95.650477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 NE 62nd St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169647661,
-    "wof:lastmodified":1449034242,
+    "wof:lastmodified":1466520344,
     "wof:name":"Canon Siding & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.650477,39.158419,-95.650477,39.158419],
+  "bbox": [
+    -95.650477,
+    39.158419,
+    -95.650477,
+    39.158419
+],
   "geometry": {"coordinates":[-95.650477,39.158419],"type":"Point"}
 }

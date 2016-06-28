@@ -2,13 +2,14 @@
   "id": 169661591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.677819,39.05617,-95.677819,39.05617",
     "geom:latitude":39.05617,
     "geom:longitude":-95.677819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169661591,
-    "wof:lastmodified":1449035598,
+    "wof:lastmodified":1466520446,
     "wof:name":"Rack & Melkus",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.677819,39.05617,-95.677819,39.05617],
+  "bbox": [
+    -95.677819,
+    39.05617,
+    -95.677819,
+    39.05617
+],
   "geometry": {"coordinates":[-95.677819,39.05617],"type":"Point"}
 }

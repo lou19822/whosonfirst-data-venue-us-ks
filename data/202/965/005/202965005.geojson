@@ -2,13 +2,14 @@
   "id": 202965005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.679413,39.026086,-95.679413,39.026086",
     "geom:latitude":39.026086,
     "geom:longitude":-95.679413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 S Kansas Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":202965005,
-    "wof:lastmodified":1449061867,
+    "wof:lastmodified":1466529897,
     "wof:name":"Laird Noller Ford Body Shop",
     "wof:parent_id":85881563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.679413,39.026086,-95.679413,39.026086],
+  "bbox": [
+    -95.679413,
+    39.026086,
+    -95.679413,
+    39.026086
+],
   "geometry": {"coordinates":[-95.679413,39.026086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169614815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.745605,39.116613,-94.745605,39.116613",
     "geom:latitude":39.116613,
     "geom:longitude":-94.745605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7250 State Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169614815,
-    "wof:lastmodified":1449036058,
+    "wof:lastmodified":1466519835,
     "wof:name":"Kansas City Community College",
     "wof:parent_id":85878509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-94.745605,39.116613,-94.745605,39.116613],
+  "bbox": [
+    -94.745605,
+    39.116613,
+    -94.745605,
+    39.116613
+],
   "geometry": {"coordinates":[-94.745605,39.116613],"type":"Point"}
 }

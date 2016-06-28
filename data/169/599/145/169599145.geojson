@@ -2,13 +2,14 @@
   "id": 169599145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.91903,38.8111,-94.91903,38.8111",
     "geom:latitude":38.8111,
     "geom:longitude":-94.91903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 E Main St",
     "sg:city":"Gardner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169599145,
-    "wof:lastmodified":1449034206,
+    "wof:lastmodified":1466519424,
     "wof:name":"E Z Carwash Coct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-94.91903,38.8111,-94.91903,38.8111],
-  "geometry": {"coordinates":[-94.91903,38.8111],"type":"Point"}
+  "bbox": [
+    -94.91903,
+    38.8111,
+    -94.91903,
+    38.8111
+],
+  "geometry": {"coordinates":[-94.91903000000001,38.8111],"type":"Point"}
 }

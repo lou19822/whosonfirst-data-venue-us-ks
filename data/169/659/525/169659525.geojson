@@ -2,13 +2,14 @@
   "id": 169659525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.320519,37.657218,-97.320519,37.657218",
     "geom:latitude":37.657218,
     "geom:longitude":-97.320519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 E Mount Vernon St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169659525,
-    "wof:lastmodified":1449033030,
+    "wof:lastmodified":1466520418,
     "wof:name":"Rental Exchange System Inc",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-97.320519,37.657218,-97.320519,37.657218],
+  "bbox": [
+    -97.320519,
+    37.657218,
+    -97.320519,
+    37.657218
+],
   "geometry": {"coordinates":[-97.320519,37.657218],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169674973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.035032,39.353861,-97.035032,39.353861",
     "geom:latitude":39.353861,
     "geom:longitude":-97.035032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1634 Sunflower Rd",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169674973,
-    "wof:lastmodified":1449035137,
+    "wof:lastmodified":1466520526,
     "wof:name":"Jumpin' Joe's Family Fun Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "video"
     ]
 },
-  "bbox": [-97.035032,39.353861,-97.035032,39.353861],
+  "bbox": [
+    -97.035032,
+    39.353861,
+    -97.035032,
+    39.353861
+],
   "geometry": {"coordinates":[-97.035032,39.353861],"type":"Point"}
 }

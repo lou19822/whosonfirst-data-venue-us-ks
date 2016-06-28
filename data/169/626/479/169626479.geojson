@@ -2,13 +2,14 @@
   "id": 169626479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.785674,39.777816,-98.785674,39.777816",
     "geom:latitude":39.777816,
     "geom:longitude":-98.785674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Main St",
     "sg:city":"Smith Center",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169626479,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466520062,
     "wof:name":"Second Cup Cafe & Pastries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.785674,39.777816,-98.785674,39.777816],
+  "bbox": [
+    -98.785674,
+    39.777816,
+    -98.785674,
+    39.777816
+],
   "geometry": {"coordinates":[-98.785674,39.777816],"type":"Point"}
 }

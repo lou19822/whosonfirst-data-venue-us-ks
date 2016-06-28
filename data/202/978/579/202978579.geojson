@@ -2,13 +2,14 @@
   "id": 202978579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37661,37.556492,-97.37661,37.556492",
     "geom:latitude":37.556492,
     "geom:longitude":-97.37661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 W Schoolhouse St",
     "sg:city":"Haysville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202978579,
-    "wof:lastmodified":1449061569,
+    "wof:lastmodified":1466520335,
     "wof:name":"Hillhouse Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-97.37661,37.556492,-97.37661,37.556492],
+  "bbox": [
+    -97.37661,
+    37.556492,
+    -97.37661,
+    37.556492
+],
   "geometry": {"coordinates":[-97.37661,37.556492],"type":"Point"}
 }

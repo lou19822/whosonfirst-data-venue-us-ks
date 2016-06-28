@@ -2,13 +2,14 @@
   "id": 202944011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.66217,39.041481,-94.66217,39.041481",
     "geom:latitude":39.041481,
     "geom:longitude":-94.66217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6565 Foxridge Dr Apt 235",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202944011,
-    "wof:lastmodified":1449061392,
+    "wof:lastmodified":1466529890,
     "wof:name":"Video Renovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "editing"
     ]
 },
-  "bbox": [-94.66217,39.041481,-94.66217,39.041481],
+  "bbox": [
+    -94.66217,
+    39.041481,
+    -94.66217,
+    39.041481
+],
   "geometry": {"coordinates":[-94.66217,39.041481],"type":"Point"}
 }

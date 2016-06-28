@@ -2,13 +2,14 @@
   "id": 202946585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.611954,39.041745,-94.611954,39.041745",
     "geom:latitude":39.041745,
     "geom:longitude":-94.611954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4748 Rainbow Blvd 4",
     "sg:city":"Westwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202946585,
-    "wof:lastmodified":1449062345,
+    "wof:lastmodified":1466520098,
     "wof:name":"The Hair Fix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stylist"
     ]
 },
-  "bbox": [-94.611954,39.041745,-94.611954,39.041745],
+  "bbox": [
+    -94.611954,
+    39.041745,
+    -94.611954,
+    39.041745
+],
   "geometry": {"coordinates":[-94.611954,39.041745],"type":"Point"}
 }

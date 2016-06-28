@@ -2,13 +2,14 @@
   "id": 202983071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.298843,37.636713,-97.298843,37.636713",
     "geom:latitude":37.636713,
     "geom:longitude":-97.298843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3141 S Hillside St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202983071,
-    "wof:lastmodified":1449062444,
+    "wof:lastmodified":1466520345,
     "wof:name":"Chiang Mai Thai Restaurant",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "thai"
     ]
 },
-  "bbox": [-97.298843,37.636713,-97.298843,37.636713],
-  "geometry": {"coordinates":[-97.298843,37.636713],"type":"Point"}
+  "bbox": [
+    -97.298843,
+    37.636713,
+    -97.298843,
+    37.636713
+],
+  "geometry": {"coordinates":[-97.29884300000001,37.636713],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202980967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.230972,37.66465,-97.230972,37.66465",
     "geom:latitude":37.66465,
     "geom:longitude":-97.230972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9319 E Harry St Ste 122",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202980967,
-    "wof:lastmodified":1449060284,
+    "wof:lastmodified":1466520378,
     "wof:name":"Texas Farm Bureau Insurance",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-97.230972,37.66465,-97.230972,37.66465],
-  "geometry": {"coordinates":[-97.230972,37.66465],"type":"Point"}
+  "bbox": [
+    -97.230972,
+    37.66465,
+    -97.230972,
+    37.66465
+],
+  "geometry": {"coordinates":[-97.23097199999999,37.66465],"type":"Point"}
 }

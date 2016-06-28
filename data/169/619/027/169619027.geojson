@@ -2,13 +2,14 @@
   "id": 169619027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.226247,38.412755,-96.226247,38.412755",
     "geom:latitude":38.412755,
     "geom:longitude":-96.226247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Graphic Arts Rd",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169619027,
-    "wof:lastmodified":1449033281,
+    "wof:lastmodified":1466519900,
     "wof:name":"IVS Animal Health",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-96.226247,38.412755,-96.226247,38.412755],
+  "bbox": [
+    -96.226247,
+    38.412755,
+    -96.226247,
+    38.412755
+],
   "geometry": {"coordinates":[-96.226247,38.412755],"type":"Point"}
 }

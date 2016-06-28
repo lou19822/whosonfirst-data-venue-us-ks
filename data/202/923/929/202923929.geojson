@@ -2,13 +2,14 @@
   "id": 202923929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.916969,39.31116,-94.916969,39.31116",
     "geom:latitude":39.31116,
     "geom:longitude":-94.916969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 S 7th St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202923929,
-    "wof:lastmodified":1449062556,
+    "wof:lastmodified":1466519647,
     "wof:name":"Union Park Guest House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.916969,39.31116,-94.916969,39.31116],
-  "geometry": {"coordinates":[-94.916969,39.31116],"type":"Point"}
+  "bbox": [
+    -94.916969,
+    39.31116,
+    -94.916969,
+    39.31116
+],
+  "geometry": {"coordinates":[-94.91696899999999,39.31116],"type":"Point"}
 }

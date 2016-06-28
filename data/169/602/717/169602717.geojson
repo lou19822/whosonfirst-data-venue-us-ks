@@ -2,13 +2,14 @@
   "id": 169602717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.352501,37.631964,-97.352501,37.631964",
     "geom:latitude":37.631964,
     "geom:longitude":-97.352501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3402 S Seneca St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169602717,
-    "wof:lastmodified":1449034225,
+    "wof:lastmodified":1466519493,
     "wof:name":"Max Spurlock Tax Specialist",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-97.352501,37.631964,-97.352501,37.631964],
+  "bbox": [
+    -97.352501,
+    37.631964,
+    -97.352501,
+    37.631964
+],
   "geometry": {"coordinates":[-97.352501,37.631964],"type":"Point"}
 }

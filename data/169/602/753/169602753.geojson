@@ -2,13 +2,14 @@
   "id": 169602753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.711619,39.350072,-101.711619,39.350072",
     "geom:latitude":39.350072,
     "geom:longitude":-101.711619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E 9th St",
     "sg:city":"Goodland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169602753,
-    "wof:lastmodified":1449034226,
+    "wof:lastmodified":1466519494,
     "wof:name":"Jones Land Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.711619,39.350072,-101.711619,39.350072],
+  "bbox": [
+    -101.711619,
+    39.350072,
+    -101.711619,
+    39.350072
+],
   "geometry": {"coordinates":[-101.711619,39.350072],"type":"Point"}
 }

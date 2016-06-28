@@ -2,13 +2,14 @@
   "id": 169664975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.105333,38.862505,-96.105333,38.862505",
     "geom:latitude":38.862505,
     "geom:longitude":-96.105333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Main St",
     "sg:city":"Eskridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169664975,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1466520465,
     "wof:name":"Heritage Village Of Eskridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-96.105333,38.862505,-96.105333,38.862505],
+  "bbox": [
+    -96.105333,
+    38.862505,
+    -96.105333,
+    38.862505
+],
   "geometry": {"coordinates":[-96.105333,38.862505],"type":"Point"}
 }

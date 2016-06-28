@@ -2,13 +2,14 @@
   "id": 202976661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.72792,37.469593,-94.72792,37.469593",
     "geom:latitude":37.469593,
     "geom:longitude":-94.72792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S Hickory Rd",
     "sg:city":"Frontenac",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":202976661,
-    "wof:lastmodified":1449061164,
+    "wof:lastmodified":1466520346,
     "wof:name":"Steve Merando Plumbing",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-94.72792,37.469593,-94.72792,37.469593],
+  "bbox": [
+    -94.72792,
+    37.469593,
+    -94.72792,
+    37.469593
+],
   "geometry": {"coordinates":[-94.72792,37.469593],"type":"Point"}
 }

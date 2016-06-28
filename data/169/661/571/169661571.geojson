@@ -2,13 +2,14 @@
   "id": 169661571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.364505,37.722837,-97.364505,37.722837",
     "geom:latitude":37.722837,
     "geom:longitude":-97.364505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 W 21st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169661571,
-    "wof:lastmodified":1449035599,
+    "wof:lastmodified":1466520445,
     "wof:name":"Reiss & Goodness Engineers",
     "wof:parent_id":85872817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.364505,37.722837,-97.364505,37.722837],
-  "geometry": {"coordinates":[-97.364505,37.722837],"type":"Point"}
+  "bbox": [
+    -97.364505,
+    37.722837,
+    -97.364505,
+    37.722837
+],
+  "geometry": {"coordinates":[-97.36450499999999,37.722837],"type":"Point"}
 }

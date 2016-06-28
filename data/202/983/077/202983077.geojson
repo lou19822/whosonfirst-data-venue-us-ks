@@ -2,13 +2,14 @@
   "id": 202983077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.334068,37.590615,-97.334068,37.590615",
     "geom:latitude":37.590615,
     "geom:longitude":-97.334068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5736 S. Broadway Lot 21",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202983077,
-    "wof:lastmodified":1449062441,
+    "wof:lastmodified":1466520346,
     "wof:name":"Ecigarettes-Liquid Dot Com",
     "wof:parent_id":85834079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "article"
     ]
 },
-  "bbox": [-97.334068,37.590615,-97.334068,37.590615],
+  "bbox": [
+    -97.334068,
+    37.590615,
+    -97.334068,
+    37.590615
+],
   "geometry": {"coordinates":[-97.334068,37.590615],"type":"Point"}
 }

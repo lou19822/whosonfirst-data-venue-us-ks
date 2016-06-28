@@ -2,13 +2,14 @@
   "id": 169610903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.691618,39.032509,-95.691618,39.032509",
     "geom:latitude":39.032509,
     "geom:longitude":-95.691618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 SW Clay St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169610903,
-    "wof:lastmodified":1449035910,
+    "wof:lastmodified":1466519729,
     "wof:name":"Professional Martial Arts Inc",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-95.691618,39.032509,-95.691618,39.032509],
-  "geometry": {"coordinates":[-95.691618,39.032509],"type":"Point"}
+  "bbox": [
+    -95.691618,
+    39.032509,
+    -95.691618,
+    39.032509
+],
+  "geometry": {"coordinates":[-95.69161800000001,39.032509],"type":"Point"}
 }

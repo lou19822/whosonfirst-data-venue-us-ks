@@ -2,13 +2,14 @@
   "id": 169662227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.620558,39.044142,-94.620558,39.044142",
     "geom:latitude":39.044142,
     "geom:longitude":-94.620558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2872 W 47th Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169662227,
-    "wof:lastmodified":1449034921,
+    "wof:lastmodified":1466520429,
     "wof:name":"Quik Cash",
     "wof:parent_id":85866785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-94.620558,39.044142,-94.620558,39.044142],
+  "bbox": [
+    -94.620558,
+    39.044142,
+    -94.620558,
+    39.044142
+],
   "geometry": {"coordinates":[-94.620558,39.044142],"type":"Point"}
 }

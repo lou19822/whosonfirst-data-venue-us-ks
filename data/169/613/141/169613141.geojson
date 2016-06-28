@@ -2,13 +2,14 @@
   "id": 169613141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.664245,39.572533,-97.664245,39.572533",
     "geom:latitude":39.572533,
     "geom:longitude":-97.664245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W 5th St",
     "sg:city":"Concordia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169613141,
-    "wof:lastmodified":1449034212,
+    "wof:lastmodified":1466519768,
     "wof:name":"Ecowater Of NCK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "treatment"
     ]
 },
-  "bbox": [-97.664245,39.572533,-97.664245,39.572533],
-  "geometry": {"coordinates":[-97.664245,39.572533],"type":"Point"}
+  "bbox": [
+    -97.664245,
+    39.572533,
+    -97.664245,
+    39.572533
+],
+  "geometry": {"coordinates":[-97.66424499999999,39.572533],"type":"Point"}
 }

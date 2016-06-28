@@ -2,13 +2,14 @@
   "id": 169592271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.61533,39.042296,-94.61533,39.042296",
     "geom:latitude":39.042296,
     "geom:longitude":-94.61533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 W 47th Ter",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169592271,
-    "wof:lastmodified":1449034585,
+    "wof:lastmodified":1466520168,
     "wof:name":"Harbison Phillp Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-94.61533,39.042296,-94.61533,39.042296],
+  "bbox": [
+    -94.61533,
+    39.042296,
+    -94.61533,
+    39.042296
+],
   "geometry": {"coordinates":[-94.61533,39.042296],"type":"Point"}
 }

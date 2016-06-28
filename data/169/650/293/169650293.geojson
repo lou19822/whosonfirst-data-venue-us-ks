@@ -2,13 +2,14 @@
   "id": 169650293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.702329,38.933361,-94.702329,38.933361",
     "geom:latitude":38.933361,
     "geom:longitude":-94.702329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10801 Mastin St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169650293,
-    "wof:lastmodified":1449034700,
+    "wof:lastmodified":1466520368,
     "wof:name":"Cafe 84",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.702329,38.933361,-94.702329,38.933361],
-  "geometry": {"coordinates":[-94.702329,38.933361],"type":"Point"}
+  "bbox": [
+    -94.702329,
+    38.933361,
+    -94.702329,
+    38.933361
+],
+  "geometry": {"coordinates":[-94.70232900000001,38.933361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169648447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.807738,39.025686,-95.807738,39.025686",
     "geom:latitude":39.025686,
     "geom:longitude":-95.807738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8010 SW 22nd Ter",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169648447,
-    "wof:lastmodified":1449033584,
+    "wof:lastmodified":1466520358,
     "wof:name":"Inter-State Assurance Conn",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.807738,39.025686,-95.807738,39.025686],
+  "bbox": [
+    -95.807738,
+    39.025686,
+    -95.807738,
+    39.025686
+],
   "geometry": {"coordinates":[-95.807738,39.025686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169630899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.251778,38.947392,-95.251778,38.947392",
     "geom:latitude":38.947392,
     "geom:longitude":-95.251778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Emerald Dr",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169630899,
-    "wof:lastmodified":1449033871,
+    "wof:lastmodified":1466520162,
     "wof:name":"Haynes Electric East Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.251778,38.947392,-95.251778,38.947392],
+  "bbox": [
+    -95.251778,
+    38.947392,
+    -95.251778,
+    38.947392
+],
   "geometry": {"coordinates":[-95.251778,38.947392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169658283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.562887,38.935586,-99.562887,38.935586",
     "geom:latitude":38.935586,
     "geom:longitude":-99.562887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W 11th St",
     "sg:city":"Ellis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169658283,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466520407,
     "wof:name":"Drools & Dreams Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.562887,38.935586,-99.562887,38.935586],
+  "bbox": [
+    -99.562887,
+    38.935586,
+    -99.562887,
+    38.935586
+],
   "geometry": {"coordinates":[-99.562887,38.935586],"type":"Point"}
 }

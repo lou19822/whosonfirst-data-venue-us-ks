@@ -2,13 +2,14 @@
   "id": 202946951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.621628,38.960949,-94.621628,38.960949",
     "geom:latitude":38.960949,
     "geom:longitude":-94.621628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 Ensley Ln",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202946951,
-    "wof:lastmodified":1449062343,
+    "wof:lastmodified":1466520112,
     "wof:name":"Leawood Tree Service-The Original",
     "wof:parent_id":85879549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-94.621628,38.960949,-94.621628,38.960949],
+  "bbox": [
+    -94.621628,
+    38.960949,
+    -94.621628,
+    38.960949
+],
   "geometry": {"coordinates":[-94.621628,38.960949],"type":"Point"}
 }

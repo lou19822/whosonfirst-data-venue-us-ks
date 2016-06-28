@@ -2,13 +2,14 @@
   "id": 169665041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.326382,37.680212,-97.326382,37.680212",
     "geom:latitude":37.680212,
     "geom:longitude":-97.326382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 S Washington St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169665041,
-    "wof:lastmodified":1449033695,
+    "wof:lastmodified":1466520439,
     "wof:name":"American Electric Co",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.326382,37.680212,-97.326382,37.680212],
+  "bbox": [
+    -97.326382,
+    37.680212,
+    -97.326382,
+    37.680212
+],
   "geometry": {"coordinates":[-97.326382,37.680212],"type":"Point"}
 }

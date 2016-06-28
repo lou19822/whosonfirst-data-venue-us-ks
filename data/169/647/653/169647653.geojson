@@ -2,13 +2,14 @@
   "id": 169647653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.709047,39.025746,-94.709047,39.025746",
     "geom:latitude":39.025746,
     "geom:longitude":-94.709047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10516 W 57th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169647653,
-    "wof:lastmodified":1449034239,
+    "wof:lastmodified":1466520341,
     "wof:name":"Lawson Smith Homes Inc",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-94.709047,39.025746,-94.709047,39.025746],
+  "bbox": [
+    -94.709047,
+    39.025746,
+    -94.709047,
+    39.025746
+],
   "geometry": {"coordinates":[-94.709047,39.025746],"type":"Point"}
 }

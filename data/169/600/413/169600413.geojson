@@ -2,13 +2,14 @@
   "id": 169600413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.361124,37.580674,-101.361124,37.580674",
     "geom:latitude":37.580674,
     "geom:longitude":-101.361124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W Grant Ave",
     "sg:city":"Ulysses",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169600413,
-    "wof:lastmodified":1449032969,
+    "wof:lastmodified":1466519438,
     "wof:name":"United Methodist Western KS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-101.361124,37.580674,-101.361124,37.580674],
+  "bbox": [
+    -101.361124,
+    37.580674,
+    -101.361124,
+    37.580674
+],
   "geometry": {"coordinates":[-101.361124,37.580674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169602269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.669317,38.952974,-94.669317,38.952974",
     "geom:latitude":38.952974,
     "geom:longitude":-94.669317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7377 W 97th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169602269,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466519474,
     "wof:name":"Amazing Garment Repair LLC",
     "wof:parent_id":85879581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garment"
     ]
 },
-  "bbox": [-94.669317,38.952974,-94.669317,38.952974],
-  "geometry": {"coordinates":[-94.669317,38.952974],"type":"Point"}
+  "bbox": [
+    -94.669317,
+    38.952974,
+    -94.669317,
+    38.952974
+],
+  "geometry": {"coordinates":[-94.66931700000001,38.952974],"type":"Point"}
 }

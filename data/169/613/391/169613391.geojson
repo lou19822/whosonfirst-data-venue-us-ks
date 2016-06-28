@@ -2,13 +2,14 @@
   "id": 169613391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.52909,39.819157,-100.52909,39.819157",
     "geom:latitude":39.819157,
     "geom:longitude":-100.52909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 S Penn Ave",
     "sg:city":"Oberlin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169613391,
-    "wof:lastmodified":1449034212,
+    "wof:lastmodified":1466519775,
     "wof:name":"Landmark Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-100.52909,39.819157,-100.52909,39.819157],
+  "bbox": [
+    -100.52909,
+    39.819157,
+    -100.52909,
+    39.819157
+],
   "geometry": {"coordinates":[-100.52909,39.819157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202950755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.636124,38.927601,-94.636124,38.927601",
     "geom:latitude":38.927601,
     "geom:longitude":-94.636124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 College Blvd Ste 180",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202950755,
-    "wof:lastmodified":1449061106,
+    "wof:lastmodified":1466520165,
     "wof:name":"March Of Dimes",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "charity"
     ]
 },
-  "bbox": [-94.636124,38.927601,-94.636124,38.927601],
+  "bbox": [
+    -94.636124,
+    38.927601,
+    -94.636124,
+    38.927601
+],
   "geometry": {"coordinates":[-94.636124,38.927601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169620769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.739121,39.463414,-95.739121,39.463414",
     "geom:latitude":39.463414,
     "geom:longitude":-95.739121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 W 4th St",
     "sg:city":"Holton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169620769,
-    "wof:lastmodified":1449035673,
+    "wof:lastmodified":1466519975,
     "wof:name":"Parsonage Guest House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-95.739121,39.463414,-95.739121,39.463414],
+  "bbox": [
+    -95.739121,
+    39.463414,
+    -95.739121,
+    39.463414
+],
   "geometry": {"coordinates":[-95.739121,39.463414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169605707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.878156,38.57065,-94.878156,38.57065",
     "geom:latitude":38.57065,
     "geom:longitude":-94.878156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Pearl St",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169605707,
-    "wof:lastmodified":1449034292,
+    "wof:lastmodified":1466519534,
     "wof:name":"Morris & Assoc Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.878156,38.57065,-94.878156,38.57065],
+  "bbox": [
+    -94.878156,
+    38.57065,
+    -94.878156,
+    38.57065
+],
   "geometry": {"coordinates":[-94.878156,38.57065],"type":"Point"}
 }

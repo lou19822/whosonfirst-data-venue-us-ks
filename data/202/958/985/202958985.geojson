@@ -2,13 +2,14 @@
   "id": 202958985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.788429,39.866881,-95.788429,39.866881",
     "geom:latitude":39.866881,
     "geom:longitude":-95.788429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 S US Old Highway 75",
     "sg:city":"Sabetha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202958985,
-    "wof:lastmodified":1449062097,
+    "wof:lastmodified":1466520213,
     "wof:name":"American Family Insurance- Dorothy Goodman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-95.788429,39.866881,-95.788429,39.866881],
-  "geometry": {"coordinates":[-95.788429,39.866881],"type":"Point"}
+  "bbox": [
+    -95.788429,
+    39.866881,
+    -95.788429,
+    39.866881
+],
+  "geometry": {"coordinates":[-95.78842899999999,39.866881],"type":"Point"}
 }

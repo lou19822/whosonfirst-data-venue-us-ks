@@ -2,13 +2,14 @@
   "id": 202937329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.859937,38.571843,-94.859937,38.571843",
     "geom:latitude":38.571843,
     "geom:longitude":-94.859937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Angela St Ste B",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202937329,
-    "wof:lastmodified":1449060590,
+    "wof:lastmodified":1466519884,
     "wof:name":"Prudential KC Realty-Branine Team",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.859937,38.571843,-94.859937,38.571843],
+  "bbox": [
+    -94.859937,
+    38.571843,
+    -94.859937,
+    38.571843
+],
   "geometry": {"coordinates":[-94.859937,38.571843],"type":"Point"}
 }

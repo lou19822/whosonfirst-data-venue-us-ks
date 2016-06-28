@@ -2,13 +2,14 @@
   "id": 202981183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.325056,37.683879,-97.325056,37.683879",
     "geom:latitude":37.683879,
     "geom:longitude":-97.325056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 S Ida St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":202981183,
-    "wof:lastmodified":1449062700,
+    "wof:lastmodified":1466520353,
     "wof:name":"Ben Franklin Plumbing",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.325056,37.683879,-97.325056,37.683879],
+  "bbox": [
+    -97.325056,
+    37.683879,
+    -97.325056,
+    37.683879
+],
   "geometry": {"coordinates":[-97.325056,37.683879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169634021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.136355,37.704915,-97.136355,37.704915",
     "geom:latitude":37.704915,
     "geom:longitude":-97.136355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 N Main St",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169634021,
-    "wof:lastmodified":1449034257,
+    "wof:lastmodified":1466529895,
     "wof:name":"Wheatley Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.136355,37.704915,-97.136355,37.704915],
-  "geometry": {"coordinates":[-97.136355,37.704915],"type":"Point"}
+  "bbox": [
+    -97.136355,
+    37.704915,
+    -97.136355,
+    37.704915
+],
+  "geometry": {"coordinates":[-97.13635499999999,37.704915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202914651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.147423,39.559429,-95.147423,39.559429",
     "geom:latitude":39.559429,
     "geom:longitude":-95.147423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Woodlawn Ave",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202914651,
-    "wof:lastmodified":1449061080,
+    "wof:lastmodified":1466519427,
     "wof:name":"Kansas Department Of Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.147423,39.559429,-95.147423,39.559429],
+  "bbox": [
+    -95.147423,
+    39.559429,
+    -95.147423,
+    39.559429
+],
   "geometry": {"coordinates":[-95.147423,39.559429],"type":"Point"}
 }

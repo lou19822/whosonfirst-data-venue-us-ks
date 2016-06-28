@@ -2,13 +2,14 @@
   "id": 169611997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.683325,38.911071,-94.683325,38.911071",
     "geom:latitude":38.911071,
     "geom:longitude":-94.683325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12019 Hemlock St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169611997,
-    "wof:lastmodified":1449035264,
+    "wof:lastmodified":1466519752,
     "wof:name":"Maria L Boudreaux & Assoc",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dietitian"
     ]
 },
-  "bbox": [-94.683325,38.911071,-94.683325,38.911071],
+  "bbox": [
+    -94.683325,
+    38.911071,
+    -94.683325,
+    38.911071
+],
   "geometry": {"coordinates":[-94.683325,38.911071],"type":"Point"}
 }

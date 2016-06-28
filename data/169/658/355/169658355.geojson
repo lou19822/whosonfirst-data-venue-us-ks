@@ -2,13 +2,14 @@
   "id": 169658355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.135339,37.683487,-97.135339,37.683487",
     "geom:latitude":37.683487,
     "geom:longitude":-97.135339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S Andover Rd",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169658355,
-    "wof:lastmodified":1449032614,
+    "wof:lastmodified":1466520409,
     "wof:name":"College Hill Cleaners",
     "wof:parent_id":85834115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-97.135339,37.683487,-97.135339,37.683487],
+  "bbox": [
+    -97.135339,
+    37.683487,
+    -97.135339,
+    37.683487
+],
   "geometry": {"coordinates":[-97.135339,37.683487],"type":"Point"}
 }

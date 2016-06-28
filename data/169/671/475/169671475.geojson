@@ -2,13 +2,14 @@
   "id": 169671475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.790787,39.610198,-97.790787,39.610198",
     "geom:latitude":39.610198,
     "geom:longitude":-97.790787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Union Rd",
     "sg:city":"Courtland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169671475,
-    "wof:lastmodified":1449033452,
+    "wof:lastmodified":1466520480,
     "wof:name":"Hansen-Mueller Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "elevator"
     ]
 },
-  "bbox": [-97.790787,39.610198,-97.790787,39.610198],
-  "geometry": {"coordinates":[-97.790787,39.610198],"type":"Point"}
+  "bbox": [
+    -97.790787,
+    39.610198,
+    -97.790787,
+    39.610198
+],
+  "geometry": {"coordinates":[-97.79078699999999,39.610198],"type":"Point"}
 }

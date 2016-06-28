@@ -2,13 +2,14 @@
   "id": 169649495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.827537,39.030346,-96.827537,39.030346",
     "geom:latitude":39.030346,
     "geom:longitude":-96.827537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E 8th St",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169649495,
-    "wof:lastmodified":1449034941,
+    "wof:lastmodified":1466520376,
     "wof:name":"Geary Register Of Deeds Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.827537,39.030346,-96.827537,39.030346],
-  "geometry": {"coordinates":[-96.827537,39.030346],"type":"Point"}
+  "bbox": [
+    -96.827537,
+    39.030346,
+    -96.827537,
+    39.030346
+],
+  "geometry": {"coordinates":[-96.82753700000001,39.030346],"type":"Point"}
 }

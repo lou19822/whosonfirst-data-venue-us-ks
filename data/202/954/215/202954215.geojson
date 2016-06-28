@@ -2,13 +2,14 @@
   "id": 202954215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.821972,39.007181,-94.821972,39.007181",
     "geom:latitude":39.007181,
     "geom:longitude":-94.821972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20505 W 67th St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":202954215,
-    "wof:lastmodified":1449062331,
+    "wof:lastmodified":1466520174,
     "wof:name":"Airsource Technologies",
     "wof:parent_id":85859465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "engineer"
     ]
 },
-  "bbox": [-94.821972,39.007181,-94.821972,39.007181],
+  "bbox": [
+    -94.821972,
+    39.007181,
+    -94.821972,
+    39.007181
+],
   "geometry": {"coordinates":[-94.821972,39.007181],"type":"Point"}
 }

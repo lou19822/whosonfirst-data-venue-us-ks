@@ -2,13 +2,14 @@
   "id": 169620563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.779552,38.514897,-98.779552,38.514897",
     "geom:latitude":38.514897,
     "geom:longitude":-98.779552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 W 2nd St",
     "sg:city":"Hoisington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169620563,
-    "wof:lastmodified":1449035674,
+    "wof:lastmodified":1466519963,
     "wof:name":"Chiropractic Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.779552,38.514897,-98.779552,38.514897],
+  "bbox": [
+    -98.779552,
+    38.514897,
+    -98.779552,
+    38.514897
+],
   "geometry": {"coordinates":[-98.779552,38.514897],"type":"Point"}
 }

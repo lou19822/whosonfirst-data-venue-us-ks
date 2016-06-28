@@ -2,13 +2,14 @@
   "id": 169593315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.586404,38.361586,-98.586404,38.361586",
     "geom:latitude":38.361586,
     "geom:longitude":-98.586404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Old Manor Rd",
     "sg:city":"Ellinwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169593315,
-    "wof:lastmodified":1449034879,
+    "wof:lastmodified":1466529837,
     "wof:name":"Billiards Of Kansas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.586404,38.361586,-98.586404,38.361586],
+  "bbox": [
+    -98.586404,
+    38.361586,
+    -98.586404,
+    38.361586
+],
   "geometry": {"coordinates":[-98.586404,38.361586],"type":"Point"}
 }

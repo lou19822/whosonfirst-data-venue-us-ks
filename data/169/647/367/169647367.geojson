@@ -2,13 +2,14 @@
   "id": 169647367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.338171,37.685617,-97.338171,37.685617",
     "geom:latitude":37.685617,
     "geom:longitude":-97.338171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Main St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169647367,
-    "wof:lastmodified":1449034239,
+    "wof:lastmodified":1466520330,
     "wof:name":"Rine M Bradford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "exploration"
     ]
 },
-  "bbox": [-97.338171,37.685617,-97.338171,37.685617],
+  "bbox": [
+    -97.338171,
+    37.685617,
+    -97.338171,
+    37.685617
+],
   "geometry": {"coordinates":[-97.338171,37.685617],"type":"Point"}
 }

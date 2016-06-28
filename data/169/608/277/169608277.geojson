@@ -2,13 +2,14 @@
   "id": 169608277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.132565,38.864501,-99.132565,38.864501",
     "geom:latitude":38.864501,
     "geom:longitude":-99.132565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 350th Ave",
     "sg:city":"Victoria",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169608277,
-    "wof:lastmodified":1449034081,
+    "wof:lastmodified":1466519659,
     "wof:name":"Kippes Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.132565,38.864501,-99.132565,38.864501],
+  "bbox": [
+    -99.132565,
+    38.864501,
+    -99.132565,
+    38.864501
+],
   "geometry": {"coordinates":[-99.132565,38.864501],"type":"Point"}
 }

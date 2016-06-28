@@ -2,13 +2,14 @@
   "id": 169601791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.854609,39.012629,-96.854609,39.012629",
     "geom:latitude":39.012629,
     "geom:longitude":-96.854609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Pearl Dr",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169601791,
-    "wof:lastmodified":1449034148,
+    "wof:lastmodified":1466519469,
     "wof:name":"Children's Resource Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.854609,39.012629,-96.854609,39.012629],
+  "bbox": [
+    -96.854609,
+    39.012629,
+    -96.854609,
+    39.012629
+],
   "geometry": {"coordinates":[-96.854609,39.012629],"type":"Point"}
 }

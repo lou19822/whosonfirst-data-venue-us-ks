@@ -2,13 +2,14 @@
   "id": 202938213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.860619,38.581199,-94.860619,38.581199",
     "geom:latitude":38.581199,
     "geom:longitude":-94.860619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Hemlock St",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202938213,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466519913,
     "wof:name":"Cdm Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "consultant"
     ]
 },
-  "bbox": [-94.860619,38.581199,-94.860619,38.581199],
+  "bbox": [
+    -94.860619,
+    38.581199,
+    -94.860619,
+    38.581199
+],
   "geometry": {"coordinates":[-94.860619,38.581199],"type":"Point"}
 }

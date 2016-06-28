@@ -2,13 +2,14 @@
   "id": 169644619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.765119,38.371947,-98.765119,38.371947",
     "geom:latitude":38.371947,
     "geom:longitude":-98.765119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Main St",
     "sg:city":"Great Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169644619,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466520306,
     "wof:name":"Mary Holloway Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-98.765119,38.371947,-98.765119,38.371947],
+  "bbox": [
+    -98.765119,
+    38.371947,
+    -98.765119,
+    38.371947
+],
   "geometry": {"coordinates":[-98.765119,38.371947],"type":"Point"}
 }

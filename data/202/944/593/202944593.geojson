@@ -2,13 +2,14 @@
   "id": 202944593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.687308,39.03601,-94.687308,39.03601",
     "geom:latitude":39.03601,
     "geom:longitude":-94.687308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 Benson St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202944593,
-    "wof:lastmodified":1449061389,
+    "wof:lastmodified":1466520099,
     "wof:name":"All Ridd Pest Control",
     "wof:parent_id":85879555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mothproofing"
     ]
 },
-  "bbox": [-94.687308,39.03601,-94.687308,39.03601],
+  "bbox": [
+    -94.687308,
+    39.03601,
+    -94.687308,
+    39.03601
+],
   "geometry": {"coordinates":[-94.687308,39.03601],"type":"Point"}
 }

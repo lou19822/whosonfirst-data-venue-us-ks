@@ -2,13 +2,14 @@
   "id": 202950851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.6376,38.930963,-94.6376,38.930963",
     "geom:latitude":38.930963,
     "geom:longitude":-94.6376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 W 109th St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202950851,
-    "wof:lastmodified":1449061111,
+    "wof:lastmodified":1466520167,
     "wof:name":"Continental Title",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abstracter"
     ]
 },
-  "bbox": [-94.6376,38.930963,-94.6376,38.930963],
-  "geometry": {"coordinates":[-94.6376,38.930963],"type":"Point"}
+  "bbox": [
+    -94.6376,
+    38.930963,
+    -94.6376,
+    38.930963
+],
+  "geometry": {"coordinates":[-94.63760000000001,38.930963],"type":"Point"}
 }

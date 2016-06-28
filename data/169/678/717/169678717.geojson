@@ -2,13 +2,14 @@
   "id": 169678717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.716223,38.97569,-94.716223,38.97569",
     "geom:latitude":38.97569,
     "geom:longitude":-94.716223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8377 Nieman Rd",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169678717,
-    "wof:lastmodified":1449034274,
+    "wof:lastmodified":1466520504,
     "wof:name":"Alpine Mechanical & Svc",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.716223,38.97569,-94.716223,38.97569],
+  "bbox": [
+    -94.716223,
+    38.97569,
+    -94.716223,
+    38.97569
+],
   "geometry": {"coordinates":[-94.716223,38.97569],"type":"Point"}
 }

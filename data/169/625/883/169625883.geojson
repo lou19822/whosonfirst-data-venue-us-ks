@@ -2,13 +2,14 @@
   "id": 169625883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.047959,37.056407,-97.047959,37.056407",
     "geom:latitude":37.056407,
     "geom:longitude":-97.047959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 W Madison Ave",
     "sg:city":"Arkansas City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169625883,
-    "wof:lastmodified":1449036025,
+    "wof:lastmodified":1466520061,
     "wof:name":"US Army Reserve Training Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "security"
     ]
 },
-  "bbox": [-97.047959,37.056407,-97.047959,37.056407],
-  "geometry": {"coordinates":[-97.047959,37.056407],"type":"Point"}
+  "bbox": [
+    -97.047959,
+    37.056407,
+    -97.047959,
+    37.056407
+],
+  "geometry": {"coordinates":[-97.04795900000001,37.056407],"type":"Point"}
 }

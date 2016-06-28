@@ -2,13 +2,14 @@
   "id": 169622485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.620536,38.975279,-94.620536,38.975279",
     "geom:latitude":38.975279,
     "geom:longitude":-94.620536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8522 Cherokee Ln",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169622485,
-    "wof:lastmodified":1449035369,
+    "wof:lastmodified":1466519995,
     "wof:name":"Mallen & Friends Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-94.620536,38.975279,-94.620536,38.975279],
+  "bbox": [
+    -94.620536,
+    38.975279,
+    -94.620536,
+    38.975279
+],
   "geometry": {"coordinates":[-94.620536,38.975279],"type":"Point"}
 }

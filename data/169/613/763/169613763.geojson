@@ -2,13 +2,14 @@
   "id": 169613763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.784489,37.680189,-99.784489,37.680189",
     "geom:latitude":37.680189,
     "geom:longitude":-99.784489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12366 US Hwy 400",
     "sg:city":"Dodge City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169613763,
-    "wof:lastmodified":1449034214,
+    "wof:lastmodified":1466519791,
     "wof:name":"Riegel Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-99.784489,37.680189,-99.784489,37.680189],
-  "geometry": {"coordinates":[-99.784489,37.680189],"type":"Point"}
+  "bbox": [
+    -99.784489,
+    37.680189,
+    -99.784489,
+    37.680189
+],
+  "geometry": {"coordinates":[-99.78448899999999,37.680189],"type":"Point"}
 }

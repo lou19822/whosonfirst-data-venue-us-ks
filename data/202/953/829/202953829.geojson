@@ -2,13 +2,14 @@
   "id": 202953829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.744321,39.031572,-94.744321,39.031572",
     "geom:latitude":39.031572,
     "geom:longitude":-94.744321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5408 Summit Ct",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202953829,
-    "wof:lastmodified":1449061836,
+    "wof:lastmodified":1466520185,
     "wof:name":"Insurance Consultants Ks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "analyst"
     ]
 },
-  "bbox": [-94.744321,39.031572,-94.744321,39.031572],
+  "bbox": [
+    -94.744321,
+    39.031572,
+    -94.744321,
+    39.031572
+],
   "geometry": {"coordinates":[-94.744321,39.031572],"type":"Point"}
 }

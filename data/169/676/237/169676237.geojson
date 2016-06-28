@@ -2,13 +2,14 @@
   "id": 169676237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.779558,38.881347,-94.779558,38.881347",
     "geom:latitude":38.881347,
     "geom:longitude":-94.779558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13507 S Mur-Len Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169676237,
-    "wof:lastmodified":1449034805,
+    "wof:lastmodified":1466520493,
     "wof:name":"Santa Fe Pet Clinic",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-94.779558,38.881347,-94.779558,38.881347],
-  "geometry": {"coordinates":[-94.779558,38.881347],"type":"Point"}
+  "bbox": [
+    -94.779558,
+    38.881347,
+    -94.779558,
+    38.881347
+],
+  "geometry": {"coordinates":[-94.77955799999999,38.881347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202913699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.119295,39.562981,-95.119295,39.562981",
     "geom:latitude":39.562981,
     "geom:longitude":-95.119295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Kansas Ave",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":202913699,
-    "wof:lastmodified":1449061095,
+    "wof:lastmodified":1466519423,
     "wof:name":"Atchison-City Administrative Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "inspection"
     ]
 },
-  "bbox": [-95.119295,39.562981,-95.119295,39.562981],
-  "geometry": {"coordinates":[-95.119295,39.562981],"type":"Point"}
+  "bbox": [
+    -95.119295,
+    39.562981,
+    -95.119295,
+    39.562981
+],
+  "geometry": {"coordinates":[-95.11929499999999,39.562981],"type":"Point"}
 }

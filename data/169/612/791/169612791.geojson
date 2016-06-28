@@ -2,13 +2,14 @@
   "id": 169612791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.747781,39.467375,-95.747781,39.467375",
     "geom:latitude":39.467375,
     "geom:longitude":-95.747781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Arizona Ave",
     "sg:city":"Holton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169612791,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1466519788,
     "wof:name":"Robert Baum Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-95.747781,39.467375,-95.747781,39.467375],
+  "bbox": [
+    -95.747781,
+    39.467375,
+    -95.747781,
+    39.467375
+],
   "geometry": {"coordinates":[-95.747781,39.467375],"type":"Point"}
 }

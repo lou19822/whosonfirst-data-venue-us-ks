@@ -2,13 +2,14 @@
   "id": 169614853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.656129,39.046305,-94.656129,39.046305",
     "geom:latitude":39.046305,
     "geom:longitude":-94.656129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3052 S 24 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169614853,
-    "wof:lastmodified":1449036057,
+    "wof:lastmodified":1466519838,
     "wof:name":"Central Packaging",
     "wof:parent_id":85803445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "material"
     ]
 },
-  "bbox": [-94.656129,39.046305,-94.656129,39.046305],
-  "geometry": {"coordinates":[-94.656129,39.046305],"type":"Point"}
+  "bbox": [
+    -94.656129,
+    39.046305,
+    -94.656129,
+    39.046305
+],
+  "geometry": {"coordinates":[-94.65612900000001,39.046305],"type":"Point"}
 }

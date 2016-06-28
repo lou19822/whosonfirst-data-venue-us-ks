@@ -2,13 +2,14 @@
   "id": 169636501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.792106,38.880156,-94.792106,38.880156",
     "geom:latitude":38.880156,
     "geom:longitude":-94.792106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 S Rogers Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169636501,
-    "wof:lastmodified":1449033989,
+    "wof:lastmodified":1466520234,
     "wof:name":"Double Nickel Bar & Grill",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.792106,38.880156,-94.792106,38.880156],
+  "bbox": [
+    -94.792106,
+    38.880156,
+    -94.792106,
+    38.880156
+],
   "geometry": {"coordinates":[-94.792106,38.880156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169606977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.004202,37.241288,-97.004202,37.241288",
     "geom:latitude":37.241288,
     "geom:longitude":-97.004202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 W 8th Ave",
     "sg:city":"Winfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169606977,
-    "wof:lastmodified":1449033203,
+    "wof:lastmodified":1466519596,
     "wof:name":"Schwan's Sales Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen"
     ]
 },
-  "bbox": [-97.004202,37.241288,-97.004202,37.241288],
-  "geometry": {"coordinates":[-97.004202,37.241288],"type":"Point"}
+  "bbox": [
+    -97.004202,
+    37.241288,
+    -97.004202,
+    37.241288
+],
+  "geometry": {"coordinates":[-97.00420200000001,37.241288],"type":"Point"}
 }

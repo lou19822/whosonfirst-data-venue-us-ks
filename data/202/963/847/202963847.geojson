@@ -2,13 +2,14 @@
   "id": 202963847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.658523,39.046077,-95.658523,39.046077",
     "geom:latitude":39.046077,
     "geom:longitude":-95.658523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 SE Lime St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202963847,
-    "wof:lastmodified":1449060358,
+    "wof:lastmodified":1466520257,
     "wof:name":"Fellowship & Faith Ministry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "denomination"
     ]
 },
-  "bbox": [-95.658523,39.046077,-95.658523,39.046077],
+  "bbox": [
+    -95.658523,
+    39.046077,
+    -95.658523,
+    39.046077
+],
   "geometry": {"coordinates":[-95.658523,39.046077],"type":"Point"}
 }

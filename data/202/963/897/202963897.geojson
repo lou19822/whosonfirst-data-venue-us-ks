@@ -2,13 +2,14 @@
   "id": 202963897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.673307,39.076514,-95.673307,39.076514",
     "geom:latitude":39.076514,
     "geom:longitude":-95.673307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 NW Paramore St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202963897,
-    "wof:lastmodified":1449060359,
+    "wof:lastmodified":1466520260,
     "wof:name":"Mather Flare Rental Inc",
     "wof:parent_id":85838117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "toilets-portable"
     ]
 },
-  "bbox": [-95.673307,39.076514,-95.673307,39.076514],
-  "geometry": {"coordinates":[-95.673307,39.076514],"type":"Point"}
+  "bbox": [
+    -95.673307,
+    39.076514,
+    -95.673307,
+    39.076514
+],
+  "geometry": {"coordinates":[-95.67330699999999,39.076514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169635589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.327638,37.664384,-97.327638,37.664384",
     "geom:latitude":37.664384,
     "geom:longitude":-97.327638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169635589,
-    "wof:lastmodified":1449034099,
+    "wof:lastmodified":1466520223,
     "wof:name":"Dean's Auto Ctr Inc",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-97.327638,37.664384,-97.327638,37.664384],
-  "geometry": {"coordinates":[-97.327638,37.664384],"type":"Point"}
+  "bbox": [
+    -97.327638,
+    37.664384,
+    -97.327638,
+    37.664384
+],
+  "geometry": {"coordinates":[-97.32763799999999,37.664384],"type":"Point"}
 }

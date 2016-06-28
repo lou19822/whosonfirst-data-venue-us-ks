@@ -2,13 +2,14 @@
   "id": 169617583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.618508,37.035122,-95.618508,37.035122",
     "geom:latitude":37.035122,
     "geom:longitude":-95.618508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 W 9th St",
     "sg:city":"Coffeyville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169617583,
-    "wof:lastmodified":1449032803,
+    "wof:lastmodified":1466519869,
     "wof:name":"Frederick Auction & Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.618508,37.035122,-95.618508,37.035122],
-  "geometry": {"coordinates":[-95.618508,37.035122],"type":"Point"}
+  "bbox": [
+    -95.618508,
+    37.035122,
+    -95.618508,
+    37.035122
+],
+  "geometry": {"coordinates":[-95.61850800000001,37.035122],"type":"Point"}
 }

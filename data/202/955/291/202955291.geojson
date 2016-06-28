@@ -2,13 +2,14 @@
   "id": 202955291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.650044,38.957059,-95.650044,38.957059",
     "geom:latitude":38.957059,
     "geom:longitude":-95.650044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 SE 61st St",
     "sg:city":"Berryton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202955291,
-    "wof:lastmodified":1449061846,
+    "wof:lastmodified":1466520180,
     "wof:name":"Kisawa Designs",
     "wof:parent_id":85851947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "artist"
     ]
 },
-  "bbox": [-95.650044,38.957059,-95.650044,38.957059],
-  "geometry": {"coordinates":[-95.650044,38.957059],"type":"Point"}
+  "bbox": [
+    -95.650044,
+    38.957059,
+    -95.650044,
+    38.957059
+],
+  "geometry": {"coordinates":[-95.65004399999999,38.957059],"type":"Point"}
 }

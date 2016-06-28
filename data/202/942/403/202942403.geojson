@@ -2,13 +2,14 @@
   "id": 202942403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.665611,39.023949,-94.665611,39.023949",
     "geom:latitude":39.023949,
     "geom:longitude":-94.665611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5799 Broadmoor St Ste 120",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202942403,
-    "wof:lastmodified":1449061285,
+    "wof:lastmodified":1466520024,
     "wof:name":"Polson Architects",
     "wof:parent_id":85879553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "architectural"
     ]
 },
-  "bbox": [-94.665611,39.023949,-94.665611,39.023949],
+  "bbox": [
+    -94.665611,
+    39.023949,
+    -94.665611,
+    39.023949
+],
   "geometry": {"coordinates":[-94.665611,39.023949],"type":"Point"}
 }

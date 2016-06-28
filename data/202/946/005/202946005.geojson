@@ -2,13 +2,14 @@
   "id": 202946005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.714569,39.02203,-94.714569,39.02203",
     "geom:latitude":39.02203,
     "geom:longitude":-94.714569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Nieman Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":202946005,
-    "wof:lastmodified":1449062346,
+    "wof:lastmodified":1466529890,
     "wof:name":"Nieman Chiropractic Clinic",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "referral"
     ]
 },
-  "bbox": [-94.714569,39.02203,-94.714569,39.02203],
+  "bbox": [
+    -94.714569,
+    39.02203,
+    -94.714569,
+    39.02203
+],
   "geometry": {"coordinates":[-94.714569,39.02203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202925035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.914129,39.312507,-94.914129,39.312507",
     "geom:latitude":39.312507,
     "geom:longitude":-94.914129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 S 5th St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202925035,
-    "wof:lastmodified":1449060132,
+    "wof:lastmodified":1466519682,
     "wof:name":"Hyundai Oriental Food Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.914129,39.312507,-94.914129,39.312507],
+  "bbox": [
+    -94.914129,
+    39.312507,
+    -94.914129,
+    39.312507
+],
   "geometry": {"coordinates":[-94.914129,39.312507],"type":"Point"}
 }

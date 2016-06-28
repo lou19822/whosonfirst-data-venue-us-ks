@@ -2,13 +2,14 @@
   "id": 169665161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.400089,37.680142,-97.400089,37.680142",
     "geom:latitude":37.680142,
     "geom:longitude":-97.400089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 W Maple St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169665161,
-    "wof:lastmodified":1449033695,
+    "wof:lastmodified":1466520443,
     "wof:name":"Maple Nails",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-97.400089,37.680142,-97.400089,37.680142],
-  "geometry": {"coordinates":[-97.400089,37.680142],"type":"Point"}
+  "bbox": [
+    -97.400089,
+    37.680142,
+    -97.400089,
+    37.680142
+],
+  "geometry": {"coordinates":[-97.40008899999999,37.680142],"type":"Point"}
 }

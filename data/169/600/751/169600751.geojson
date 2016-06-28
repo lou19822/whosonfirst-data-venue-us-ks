@@ -2,13 +2,14 @@
   "id": 169600751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.768827,38.946653,-94.768827,38.946653",
     "geom:latitude":38.946653,
     "geom:longitude":-94.768827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9909 Lakeview Ave",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169600751,
-    "wof:lastmodified":1449032969,
+    "wof:lastmodified":1466519452,
     "wof:name":"Tower Properties Co",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.768827,38.946653,-94.768827,38.946653],
+  "bbox": [
+    -94.768827,
+    38.946653,
+    -94.768827,
+    38.946653
+],
   "geometry": {"coordinates":[-94.768827,38.946653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169648229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.174855,38.415302,-96.174855,38.415302",
     "geom:latitude":38.415302,
     "geom:longitude":-96.174855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Exchange Ct",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169648229,
-    "wof:lastmodified":1449033587,
+    "wof:lastmodified":1466520347,
     "wof:name":"MEND KS",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.174855,38.415302,-96.174855,38.415302],
-  "geometry": {"coordinates":[-96.174855,38.415302],"type":"Point"}
+  "bbox": [
+    -96.174855,
+    38.415302,
+    -96.174855,
+    38.415302
+],
+  "geometry": {"coordinates":[-96.17485499999999,38.415302],"type":"Point"}
 }

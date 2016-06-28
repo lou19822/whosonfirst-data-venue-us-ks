@@ -2,13 +2,14 @@
   "id": 169646779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.913096,39.316522,-94.913096,39.316522",
     "geom:latitude":39.316522,
     "geom:longitude":-94.913096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Choctaw St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169646779,
-    "wof:lastmodified":1449032606,
+    "wof:lastmodified":1466520337,
     "wof:name":"Young Sign Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.913096,39.316522,-94.913096,39.316522],
+  "bbox": [
+    -94.913096,
+    39.316522,
+    -94.913096,
+    39.316522
+],
   "geometry": {"coordinates":[-94.913096,39.316522],"type":"Point"}
 }

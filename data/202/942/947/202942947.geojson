@@ -2,13 +2,14 @@
   "id": 202942947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.64904,39.021549,-94.64904,39.021549",
     "geom:latitude":39.021549,
     "geom:longitude":-94.64904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 Nall Ave",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202942947,
-    "wof:lastmodified":1449061284,
+    "wof:lastmodified":1466520043,
     "wof:name":"Absolute Cleaning",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "carpet"
     ]
 },
-  "bbox": [-94.64904,39.021549,-94.64904,39.021549],
+  "bbox": [
+    -94.64904,
+    39.021549,
+    -94.64904,
+    39.021549
+],
   "geometry": {"coordinates":[-94.64904,39.021549],"type":"Point"}
 }

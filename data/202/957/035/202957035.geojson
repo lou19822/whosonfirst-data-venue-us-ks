@@ -2,13 +2,14 @@
   "id": 202957035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.567115,39.179413,-96.567115,39.179413",
     "geom:latitude":39.179413,
     "geom:longitude":-96.567115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Poyntz Ave",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202957035,
-    "wof:lastmodified":1449062280,
+    "wof:lastmodified":1466529895,
     "wof:name":"Sullivan & Associates Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-96.567115,39.179413,-96.567115,39.179413],
+  "bbox": [
+    -96.567115,
+    39.179413,
+    -96.567115,
+    39.179413
+],
   "geometry": {"coordinates":[-96.567115,39.179413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169601377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.692648,38.928474,-94.692648,38.928474",
     "geom:latitude":38.928474,
     "geom:longitude":-94.692648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 W 110th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169601377,
-    "wof:lastmodified":1449034147,
+    "wof:lastmodified":1466519454,
     "wof:name":"Franklin Financial Group",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-94.692648,38.928474,-94.692648,38.928474],
-  "geometry": {"coordinates":[-94.692648,38.928474],"type":"Point"}
+  "bbox": [
+    -94.692648,
+    38.928474,
+    -94.692648,
+    38.928474
+],
+  "geometry": {"coordinates":[-94.69264800000001,38.928474],"type":"Point"}
 }

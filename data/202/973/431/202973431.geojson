@@ -2,13 +2,14 @@
   "id": 202973431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.704797,37.408193,-94.704797,37.408193",
     "geom:latitude":37.408193,
     "geom:longitude":-94.704797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Broadway St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -91,10 +92,11 @@
         }
     ],
     "wof:id":202973431,
-    "wof:lastmodified":1449061641,
+    "wof:lastmodified":1466520321,
     "wof:name":"Touchton Alarms",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -116,6 +118,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.704797,37.408193,-94.704797,37.408193],
+  "bbox": [
+    -94.704797,
+    37.408193,
+    -94.704797,
+    37.408193
+],
   "geometry": {"coordinates":[-94.704797,37.408193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337285517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.708414,39.044906,-95.708414,39.044906",
     "geom:latitude":39.044906,
     "geom:longitude":-95.708414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 SW High Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":337285517,
-    "wof:lastmodified":1449026956,
+    "wof:lastmodified":1466519418,
     "wof:name":"Bredows Cleaning Service",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-95.708414,39.044906,-95.708414,39.044906],
+  "bbox": [
+    -95.708414,
+    39.044906,
+    -95.708414,
+    39.044906
+],
   "geometry": {"coordinates":[-95.708414,39.044906],"type":"Point"}
 }

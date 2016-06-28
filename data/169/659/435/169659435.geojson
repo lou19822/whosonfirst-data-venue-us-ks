@@ -2,13 +2,14 @@
   "id": 169659435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.53218,39.853975,-95.53218,39.853975",
     "geom:latitude":39.853975,
     "geom:longitude":-95.53218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N 4th St",
     "sg:city":"Hiawatha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169659435,
-    "wof:lastmodified":1449033029,
+    "wof:lastmodified":1466520415,
     "wof:name":"Dee's Styling Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.53218,39.853975,-95.53218,39.853975],
+  "bbox": [
+    -95.53218,
+    39.853975,
+    -95.53218,
+    39.853975
+],
   "geometry": {"coordinates":[-95.53218,39.853975],"type":"Point"}
 }

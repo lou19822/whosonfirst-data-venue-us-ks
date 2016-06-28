@@ -2,13 +2,14 @@
   "id": 202950359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.662697,38.92894,-94.662697,38.92894",
     "geom:latitude":38.92894,
     "geom:longitude":-94.662697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 W 110th St",
     "sg:city":"Leawood",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202950359,
-    "wof:lastmodified":1449061105,
+    "wof:lastmodified":1466520147,
     "wof:name":"Midtown Tennis Club Overland Park",
     "wof:parent_id":85879547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.662697,38.92894,-94.662697,38.92894],
-  "geometry": {"coordinates":[-94.662697,38.92894],"type":"Point"}
+  "bbox": [
+    -94.662697,
+    38.92894,
+    -94.662697,
+    38.92894
+],
+  "geometry": {"coordinates":[-94.66269699999999,38.92894],"type":"Point"}
 }

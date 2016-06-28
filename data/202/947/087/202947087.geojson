@@ -2,13 +2,14 @@
   "id": 202947087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.630417,38.958611,-94.630417,38.958611",
     "geom:latitude":38.958611,
     "geom:longitude":-94.630417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9420 Mission Rd",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":202947087,
-    "wof:lastmodified":1449061937,
+    "wof:lastmodified":1466520101,
     "wof:name":"Mission Road Animal Clinic",
     "wof:parent_id":85879549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "kennel"
     ]
 },
-  "bbox": [-94.630417,38.958611,-94.630417,38.958611],
-  "geometry": {"coordinates":[-94.630417,38.958611],"type":"Point"}
+  "bbox": [
+    -94.630417,
+    38.958611,
+    -94.630417,
+    38.958611
+],
+  "geometry": {"coordinates":[-94.63041699999999,38.958611],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169633423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359835,37.667188,-97.359835,37.667188",
     "geom:latitude":37.667188,
     "geom:longitude":-97.359835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 W Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169633423,
-    "wof:lastmodified":1449035936,
+    "wof:lastmodified":1466520199,
     "wof:name":"Titan Industries Inc",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-97.359835,37.667188,-97.359835,37.667188],
+  "bbox": [
+    -97.359835,
+    37.667188,
+    -97.359835,
+    37.667188
+],
   "geometry": {"coordinates":[-97.359835,37.667188],"type":"Point"}
 }

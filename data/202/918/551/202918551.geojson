@@ -2,13 +2,14 @@
   "id": 202918551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.116717,39.344929,-95.116717,39.344929",
     "geom:latitude":39.344929,
     "geom:longitude":-95.116717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W Riley St",
     "sg:city":"Easton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202918551,
-    "wof:lastmodified":1449061809,
+    "wof:lastmodified":1466519485,
     "wof:name":"St Lawrence Public Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-catholic"
     ]
 },
-  "bbox": [-95.116717,39.344929,-95.116717,39.344929],
-  "geometry": {"coordinates":[-95.116717,39.344929],"type":"Point"}
+  "bbox": [
+    -95.116717,
+    39.344929,
+    -95.116717,
+    39.344929
+],
+  "geometry": {"coordinates":[-95.11671699999999,39.344929],"type":"Point"}
 }

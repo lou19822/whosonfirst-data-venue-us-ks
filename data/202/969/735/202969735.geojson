@@ -2,13 +2,14 @@
   "id": 202969735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.842687,37.170879,-94.842687,37.170879",
     "geom:latitude":37.170879,
     "geom:longitude":-94.842687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Maple St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202969735,
-    "wof:lastmodified":1449060721,
+    "wof:lastmodified":1466520297,
     "wof:name":"Motor Vehicle Registration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "government-state"
     ]
 },
-  "bbox": [-94.842687,37.170879,-94.842687,37.170879],
+  "bbox": [
+    -94.842687,
+    37.170879,
+    -94.842687,
+    37.170879
+],
   "geometry": {"coordinates":[-94.842687,37.170879],"type":"Point"}
 }

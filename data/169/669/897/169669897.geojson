@@ -2,13 +2,14 @@
   "id": 169669897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.760731,38.949084,-94.760731,38.949084",
     "geom:latitude":38.949084,
     "geom:longitude":-94.760731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14815 W 99th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169669897,
-    "wof:lastmodified":1449033061,
+    "wof:lastmodified":1466520497,
     "wof:name":"Midwest Systems Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.760731,38.949084,-94.760731,38.949084],
-  "geometry": {"coordinates":[-94.760731,38.949084],"type":"Point"}
+  "bbox": [
+    -94.760731,
+    38.949084,
+    -94.760731,
+    38.949084
+],
+  "geometry": {"coordinates":[-94.76073100000001,38.949084],"type":"Point"}
 }

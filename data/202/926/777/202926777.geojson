@@ -2,13 +2,14 @@
   "id": 202926777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.900576,39.28422,-94.900576,39.28422",
     "geom:latitude":39.28422,
     "geom:longitude":-94.900576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Ash St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":202926777,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466519700,
     "wof:name":"Denney JF Plumbing & Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.900576,39.28422,-94.900576,39.28422],
+  "bbox": [
+    -94.900576,
+    39.28422,
+    -94.900576,
+    39.28422
+],
   "geometry": {"coordinates":[-94.900576,39.28422],"type":"Point"}
 }

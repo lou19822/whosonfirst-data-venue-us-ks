@@ -2,13 +2,14 @@
   "id": 169610171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.384437,37.67299,-97.384437,37.67299",
     "geom:latitude":37.67299,
     "geom:longitude":-97.384437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3769 W McCormick St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169610171,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466519699,
     "wof:name":"Berry Material Handling",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.384437,37.67299,-97.384437,37.67299],
-  "geometry": {"coordinates":[-97.384437,37.67299],"type":"Point"}
+  "bbox": [
+    -97.384437,
+    37.67299,
+    -97.384437,
+    37.67299
+],
+  "geometry": {"coordinates":[-97.38443700000001,37.67299],"type":"Point"}
 }

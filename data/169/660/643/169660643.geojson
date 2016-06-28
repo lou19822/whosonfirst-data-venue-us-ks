@@ -2,13 +2,14 @@
   "id": 169660643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.669235,38.890313,-94.669235,38.890313",
     "geom:latitude":38.890313,
     "geom:longitude":-94.669235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 W 132nd St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169660643,
-    "wof:lastmodified":1449035613,
+    "wof:lastmodified":1466520443,
     "wof:name":"Dean Development Inc",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.669235,38.890313,-94.669235,38.890313],
+  "bbox": [
+    -94.669235,
+    38.890313,
+    -94.669235,
+    38.890313
+],
   "geometry": {"coordinates":[-94.669235,38.890313],"type":"Point"}
 }

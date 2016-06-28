@@ -2,13 +2,14 @@
   "id": 169609645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.755478,38.915762,-94.755478,38.915762",
     "geom:latitude":38.915762,
     "geom:longitude":-94.755478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11740 S Shannan St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169609645,
-    "wof:lastmodified":1449033917,
+    "wof:lastmodified":1466519690,
     "wof:name":"For Him Processing",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "card"
     ]
 },
-  "bbox": [-94.755478,38.915762,-94.755478,38.915762],
+  "bbox": [
+    -94.755478,
+    38.915762,
+    -94.755478,
+    38.915762
+],
   "geometry": {"coordinates":[-94.755478,38.915762],"type":"Point"}
 }

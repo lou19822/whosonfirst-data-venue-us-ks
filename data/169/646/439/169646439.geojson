@@ -2,13 +2,14 @@
   "id": 169646439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.318264,39.205537,-96.318264,39.205537",
     "geom:latitude":39.205537,
     "geom:longitude":-96.318264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Genn Dr",
     "sg:city":"Wamego",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169646439,
-    "wof:lastmodified":1449032606,
+    "wof:lastmodified":1466520324,
     "wof:name":"Pottawatomie County Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.318264,39.205537,-96.318264,39.205537],
+  "bbox": [
+    -96.318264,
+    39.205537,
+    -96.318264,
+    39.205537
+],
   "geometry": {"coordinates":[-96.318264,39.205537],"type":"Point"}
 }

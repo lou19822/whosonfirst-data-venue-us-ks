@@ -2,13 +2,14 @@
   "id": 169621895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.271592,38.611477,-95.271592,38.611477",
     "geom:latitude":38.611477,
     "geom:longitude":-95.271592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 W 5th St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169621895,
-    "wof:lastmodified":1449035559,
+    "wof:lastmodified":1466519979,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.271592,38.611477,-95.271592,38.611477],
+  "bbox": [
+    -95.271592,
+    38.611477,
+    -95.271592,
+    38.611477
+],
   "geometry": {"coordinates":[-95.271592,38.611477],"type":"Point"}
 }

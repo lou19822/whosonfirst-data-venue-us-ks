@@ -2,13 +2,14 @@
   "id": 169648843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.275493,37.340511,-95.275493,37.340511",
     "geom:latitude":37.340511,
     "geom:longitude":-95.275493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Main St",
     "sg:city":"Parsons",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169648843,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466520369,
     "wof:name":"To The Last Detail Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-95.275493,37.340511,-95.275493,37.340511],
+  "bbox": [
+    -95.275493,
+    37.340511,
+    -95.275493,
+    37.340511
+],
   "geometry": {"coordinates":[-95.275493,37.340511],"type":"Point"}
 }

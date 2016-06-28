@@ -2,13 +2,14 @@
   "id": 169605235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.304363,38.883354,-99.304363,38.883354",
     "geom:latitude":38.883354,
     "geom:longitude":-99.304363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 Felten Dr",
     "sg:city":"Hays",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169605235,
-    "wof:lastmodified":1449034287,
+    "wof:lastmodified":1466519516,
     "wof:name":"Linenberger Painting Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-99.304363,38.883354,-99.304363,38.883354],
+  "bbox": [
+    -99.304363,
+    38.883354,
+    -99.304363,
+    38.883354
+],
   "geometry": {"coordinates":[-99.304363,38.883354],"type":"Point"}
 }

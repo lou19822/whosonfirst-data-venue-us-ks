@@ -2,13 +2,14 @@
   "id": 202947483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.621219,39.039576,-94.621219,39.039576",
     "geom:latitude":39.039576,
     "geom:longitude":-94.621219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Mission Rd",
     "sg:city":"Westwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202947483,
-    "wof:lastmodified":1449061940,
+    "wof:lastmodified":1466520107,
     "wof:name":"Grace Amazing Bookstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.621219,39.039576,-94.621219,39.039576],
+  "bbox": [
+    -94.621219,
+    39.039576,
+    -94.621219,
+    39.039576
+],
   "geometry": {"coordinates":[-94.621219,39.039576],"type":"Point"}
 }

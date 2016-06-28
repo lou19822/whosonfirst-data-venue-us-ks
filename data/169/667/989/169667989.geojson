@@ -2,13 +2,14 @@
   "id": 169667989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.316318,37.673552,-97.316318,37.673552",
     "geom:latitude":37.673552,
     "geom:longitude":-97.316318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 E Morris St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169667989,
-    "wof:lastmodified":1449034846,
+    "wof:lastmodified":1466520491,
     "wof:name":"A 1 Liquor",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.316318,37.673552,-97.316318,37.673552],
+  "bbox": [
+    -97.316318,
+    37.673552,
+    -97.316318,
+    37.673552
+],
   "geometry": {"coordinates":[-97.316318,37.673552],"type":"Point"}
 }

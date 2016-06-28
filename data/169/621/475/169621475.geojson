@@ -2,13 +2,14 @@
   "id": 169621475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.88243,39.022922,-99.88243,39.022922",
     "geom:latitude":39.022922,
     "geom:longitude":-99.88243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S 6th St",
     "sg:city":"Wa Keeney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169621475,
-    "wof:lastmodified":1449035559,
+    "wof:lastmodified":1466519962,
     "wof:name":"Harries Leasing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.88243,39.022922,-99.88243,39.022922],
+  "bbox": [
+    -99.88243,
+    39.022922,
+    -99.88243,
+    39.022922
+],
   "geometry": {"coordinates":[-99.88243,39.022922],"type":"Point"}
 }

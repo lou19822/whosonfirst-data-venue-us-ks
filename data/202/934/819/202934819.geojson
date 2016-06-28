@@ -2,13 +2,14 @@
   "id": 202934819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.710844,38.840089,-94.710844,38.840089",
     "geom:latitude":38.840089,
     "geom:longitude":-94.710844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10788 W 159th St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202934819,
-    "wof:lastmodified":1449060228,
+    "wof:lastmodified":1466519848,
     "wof:name":"Artisan Equipment",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-94.710844,38.840089,-94.710844,38.840089],
-  "geometry": {"coordinates":[-94.710844,38.840089],"type":"Point"}
+  "bbox": [
+    -94.710844,
+    38.840089,
+    -94.710844,
+    38.840089
+],
+  "geometry": {"coordinates":[-94.71084399999999,38.840089],"type":"Point"}
 }

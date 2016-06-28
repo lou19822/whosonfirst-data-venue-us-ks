@@ -2,13 +2,14 @@
   "id": 202917685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.622441,38.724699,-94.622441,38.724699",
     "geom:latitude":38.724699,
     "geom:longitude":-94.622441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22220 Canterbury Ln",
     "sg:city":"Bucyrus",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202917685,
-    "wof:lastmodified":1449062324,
+    "wof:lastmodified":1466519473,
     "wof:name":"Maxam Construction Company, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.622441,38.724699,-94.622441,38.724699],
-  "geometry": {"coordinates":[-94.622441,38.724699],"type":"Point"}
+  "bbox": [
+    -94.622441,
+    38.724699,
+    -94.622441,
+    38.724699
+],
+  "geometry": {"coordinates":[-94.62244099999999,38.724699],"type":"Point"}
 }

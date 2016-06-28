@@ -2,13 +2,14 @@
   "id": 202952971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.747326,38.935389,-94.747326,38.935389",
     "geom:latitude":38.935389,
     "geom:longitude":-94.747326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10591 Widmer Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202952971,
-    "wof:lastmodified":1449061926,
+    "wof:lastmodified":1466520190,
     "wof:name":"One Source Tree Care",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-94.747326,38.935389,-94.747326,38.935389],
+  "bbox": [
+    -94.747326,
+    38.935389,
+    -94.747326,
+    38.935389
+],
   "geometry": {"coordinates":[-94.747326,38.935389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169660843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.760742,38.938034,-94.760742,38.938034",
     "geom:latitude":38.938034,
     "geom:longitude":-94.760742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10577 Lackman Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169660843,
-    "wof:lastmodified":1449035609,
+    "wof:lastmodified":1466520451,
     "wof:name":"Life Priority",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "diet"
     ]
 },
-  "bbox": [-94.760742,38.938034,-94.760742,38.938034],
-  "geometry": {"coordinates":[-94.760742,38.938034],"type":"Point"}
+  "bbox": [
+    -94.760742,
+    38.938034,
+    -94.760742,
+    38.938034
+],
+  "geometry": {"coordinates":[-94.76074199999999,38.938034],"type":"Point"}
 }

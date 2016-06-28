@@ -2,13 +2,14 @@
   "id": 202972091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.61808,37.074881,-94.61808,37.074881",
     "geom:latitude":37.074881,
     "geom:longitude":-94.61808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 E 7th St",
     "sg:city":"Galena",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202972091,
-    "wof:lastmodified":1449061392,
+    "wof:lastmodified":1466520301,
     "wof:name":"First Regular Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-94.61808,37.074881,-94.61808,37.074881],
-  "geometry": {"coordinates":[-94.61808,37.074881],"type":"Point"}
+  "bbox": [
+    -94.61808,
+    37.074881,
+    -94.61808,
+    37.074881
+],
+  "geometry": {"coordinates":[-94.61808000000001,37.074881],"type":"Point"}
 }

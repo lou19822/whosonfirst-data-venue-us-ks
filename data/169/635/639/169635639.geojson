@@ -2,13 +2,14 @@
   "id": 169635639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.735878,38.980308,-94.735878,38.980308",
     "geom:latitude":38.980308,
     "geom:longitude":-94.735878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12815 W 82nd St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169635639,
-    "wof:lastmodified":1449034101,
+    "wof:lastmodified":1466520224,
     "wof:name":"K C Connection",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-94.735878,38.980308,-94.735878,38.980308],
+  "bbox": [
+    -94.735878,
+    38.980308,
+    -94.735878,
+    38.980308
+],
   "geometry": {"coordinates":[-94.735878,38.980308],"type":"Point"}
 }

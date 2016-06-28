@@ -2,13 +2,14 @@
   "id": 169641317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.722835,38.724452,-95.722835,38.724452",
     "geom:latitude":38.724452,
     "geom:longitude":-95.722835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1334 W 189th St",
     "sg:city":"Scranton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169641317,
-    "wof:lastmodified":1449035169,
+    "wof:lastmodified":1466520275,
     "wof:name":"Scranton Attendance Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.722835,38.724452,-95.722835,38.724452],
+  "bbox": [
+    -95.722835,
+    38.724452,
+    -95.722835,
+    38.724452
+],
   "geometry": {"coordinates":[-95.722835,38.724452],"type":"Point"}
 }

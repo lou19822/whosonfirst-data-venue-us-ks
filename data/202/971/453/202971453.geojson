@@ -2,13 +2,14 @@
   "id": 202971453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.668857,37.048225,-94.668857,37.048225",
     "geom:latitude":37.048225,
     "geom:longitude":-94.668857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8514 SE Plum Ln",
     "sg:city":"Galena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202971453,
-    "wof:lastmodified":1449061405,
+    "wof:lastmodified":1466520312,
     "wof:name":"Howard Lee Kent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.668857,37.048225,-94.668857,37.048225],
+  "bbox": [
+    -94.668857,
+    37.048225,
+    -94.668857,
+    37.048225
+],
   "geometry": {"coordinates":[-94.668857,37.048225],"type":"Point"}
 }

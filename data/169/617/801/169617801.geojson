@@ -2,13 +2,14 @@
   "id": 169617801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.739641,38.770374,-94.739641,38.770374",
     "geom:latitude":38.770374,
     "geom:longitude":-94.739641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19740 S Clearview Rd",
     "sg:city":"Spring Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169617801,
-    "wof:lastmodified":1449032803,
+    "wof:lastmodified":1466519876,
     "wof:name":"Cardinal Brush Inc",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.739641,38.770374,-94.739641,38.770374],
-  "geometry": {"coordinates":[-94.739641,38.770374],"type":"Point"}
+  "bbox": [
+    -94.739641,
+    38.770374,
+    -94.739641,
+    38.770374
+],
+  "geometry": {"coordinates":[-94.73964100000001,38.770374],"type":"Point"}
 }

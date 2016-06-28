@@ -2,13 +2,14 @@
   "id": 169615405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.504631,38.002934,-97.504631,38.002934",
     "geom:latitude":38.002934,
     "geom:longitude":-97.504631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Spruce St",
     "sg:city":"Halstead",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169615405,
-    "wof:lastmodified":1449033734,
+    "wof:lastmodified":1466519815,
     "wof:name":"Equus Beds Groundwater Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "conservation"
     ]
 },
-  "bbox": [-97.504631,38.002934,-97.504631,38.002934],
+  "bbox": [
+    -97.504631,
+    38.002934,
+    -97.504631,
+    38.002934
+],
   "geometry": {"coordinates":[-97.504631,38.002934],"type":"Point"}
 }

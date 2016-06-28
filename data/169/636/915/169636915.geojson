@@ -2,13 +2,14 @@
   "id": 169636915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.724933,39.08817,-95.724933,39.08817",
     "geom:latitude":39.08817,
     "geom:longitude":-95.724933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 NW Brickyard Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169636915,
-    "wof:lastmodified":1449033989,
+    "wof:lastmodified":1466520254,
     "wof:name":"Hydro-Flex Inc",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "power"
     ]
 },
-  "bbox": [-95.724933,39.08817,-95.724933,39.08817],
-  "geometry": {"coordinates":[-95.724933,39.08817],"type":"Point"}
+  "bbox": [
+    -95.724933,
+    39.08817,
+    -95.724933,
+    39.08817
+],
+  "geometry": {"coordinates":[-95.72493299999999,39.08817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202975089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.700303,37.42217,-94.700303,37.42217",
     "geom:latitude":37.42217,
     "geom:longitude":-94.700303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Joplin St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202975089,
-    "wof:lastmodified":1449062303,
+    "wof:lastmodified":1466520308,
     "wof:name":"Brooks Rentals",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "finder"
     ]
 },
-  "bbox": [-94.700303,37.42217,-94.700303,37.42217],
-  "geometry": {"coordinates":[-94.700303,37.42217],"type":"Point"}
+  "bbox": [
+    -94.700303,
+    37.42217,
+    -94.700303,
+    37.42217
+],
+  "geometry": {"coordinates":[-94.70030300000001,37.42217],"type":"Point"}
 }

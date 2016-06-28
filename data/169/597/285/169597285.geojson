@@ -2,13 +2,14 @@
   "id": 169597285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.622207,37.03184,-95.622207,37.03184",
     "geom:latitude":37.03184,
     "geom:longitude":-95.622207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 S Spruce St",
     "sg:city":"Coffeyville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169597285,
-    "wof:lastmodified":1449035921,
+    "wof:lastmodified":1466529872,
     "wof:name":"Wanda Brook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-95.622207,37.03184,-95.622207,37.03184],
+  "bbox": [
+    -95.622207,
+    37.03184,
+    -95.622207,
+    37.03184
+],
   "geometry": {"coordinates":[-95.622207,37.03184],"type":"Point"}
 }

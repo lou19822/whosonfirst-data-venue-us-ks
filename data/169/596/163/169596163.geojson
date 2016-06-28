@@ -2,13 +2,14 @@
   "id": 169596163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.931844,38.053439,-97.931844,38.053439",
     "geom:latitude":38.053439,
     "geom:longitude":-97.931844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Main St",
     "sg:city":"Hutchinson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169596163,
-    "wof:lastmodified":1449034375,
+    "wof:lastmodified":1466529866,
     "wof:name":"Paige Don Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.931844,38.053439,-97.931844,38.053439],
+  "bbox": [
+    -97.931844,
+    38.053439,
+    -97.931844,
+    38.053439
+],
   "geometry": {"coordinates":[-97.931844,38.053439],"type":"Point"}
 }

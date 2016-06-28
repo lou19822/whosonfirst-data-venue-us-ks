@@ -2,13 +2,14 @@
   "id": 169628105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.654171,39.568143,-97.654171,39.568143",
     "geom:latitude":39.568143,
     "geom:longitude":-97.654171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Olive St",
     "sg:city":"Concordia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169628105,
-    "wof:lastmodified":1449035333,
+    "wof:lastmodified":1466520089,
     "wof:name":"Bobs Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.654171,39.568143,-97.654171,39.568143],
-  "geometry": {"coordinates":[-97.654171,39.568143],"type":"Point"}
+  "bbox": [
+    -97.654171,
+    39.568143,
+    -97.654171,
+    39.568143
+],
+  "geometry": {"coordinates":[-97.65417100000001,39.568143],"type":"Point"}
 }

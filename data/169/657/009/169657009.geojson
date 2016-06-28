@@ -2,13 +2,14 @@
   "id": 169657009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.605113,38.980676,-94.605113,38.980676",
     "geom:latitude":38.980676,
     "geom:longitude":-94.605113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8229 Mercier St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169657009,
-    "wof:lastmodified":1449033051,
+    "wof:lastmodified":1466520387,
     "wof:name":"Engraph",
     "wof:parent_id":85871973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-94.605113,38.980676,-94.605113,38.980676],
+  "bbox": [
+    -94.605113,
+    38.980676,
+    -94.605113,
+    38.980676
+],
   "geometry": {"coordinates":[-94.605113,38.980676],"type":"Point"}
 }

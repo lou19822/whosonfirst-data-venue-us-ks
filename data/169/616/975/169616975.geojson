@@ -2,13 +2,14 @@
   "id": 169616975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.697722,39.090699,-95.697722,39.090699",
     "geom:latitude":39.090699,
     "geom:longitude":-95.697722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2634 US Hwy 24",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169616975,
-    "wof:lastmodified":1449035103,
+    "wof:lastmodified":1466519880,
     "wof:name":"Rubber Workers Local 307 CU",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.697722,39.090699,-95.697722,39.090699],
+  "bbox": [
+    -95.697722,
+    39.090699,
+    -95.697722,
+    39.090699
+],
   "geometry": {"coordinates":[-95.697722,39.090699],"type":"Point"}
 }

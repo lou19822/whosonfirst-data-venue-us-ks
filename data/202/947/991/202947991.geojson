@@ -2,13 +2,14 @@
   "id": 202947991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.609189,38.940069,-94.609189,38.940069",
     "geom:latitude":38.940069,
     "geom:longitude":-94.609189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 W 103rd Ter",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202947991,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1466520129,
     "wof:name":"K.C. Colors Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.609189,38.940069,-94.609189,38.940069],
+  "bbox": [
+    -94.609189,
+    38.940069,
+    -94.609189,
+    38.940069
+],
   "geometry": {"coordinates":[-94.609189,38.940069],"type":"Point"}
 }

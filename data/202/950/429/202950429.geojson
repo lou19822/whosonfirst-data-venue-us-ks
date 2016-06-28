@@ -2,13 +2,14 @@
   "id": 202950429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.639746,38.913338,-94.639746,38.913338",
     "geom:latitude":38.913338,
     "geom:longitude":-94.639746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11843 Roe Ave",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202950429,
-    "wof:lastmodified":1449061111,
+    "wof:lastmodified":1466520150,
     "wof:name":"Leawood Fine Art",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "consultant"
     ]
 },
-  "bbox": [-94.639746,38.913338,-94.639746,38.913338],
+  "bbox": [
+    -94.639746,
+    38.913338,
+    -94.639746,
+    38.913338
+],
   "geometry": {"coordinates":[-94.639746,38.913338],"type":"Point"}
 }

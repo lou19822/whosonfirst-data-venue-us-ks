@@ -2,13 +2,14 @@
   "id": 169625625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.332857,38.701225,-101.332857,38.701225",
     "geom:latitude":38.701225,
     "geom:longitude":-101.332857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Adobe Rd",
     "sg:city":"Leoti",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169625625,
-    "wof:lastmodified":1449036025,
+    "wof:lastmodified":1466520046,
     "wof:name":"Daniel Schumacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-101.332857,38.701225,-101.332857,38.701225],
+  "bbox": [
+    -101.332857,
+    38.701225,
+    -101.332857,
+    38.701225
+],
   "geometry": {"coordinates":[-101.332857,38.701225],"type":"Point"}
 }

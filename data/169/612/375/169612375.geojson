@@ -2,13 +2,14 @@
   "id": 169612375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.110446,39.459882,-98.110446,39.459882",
     "geom:latitude":39.459882,
     "geom:longitude":-98.110446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Mill St",
     "sg:city":"Beloit",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169612375,
-    "wof:lastmodified":1449034129,
+    "wof:lastmodified":1466519774,
     "wof:name":"Thummel Real Estate & Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-98.110446,39.459882,-98.110446,39.459882],
+  "bbox": [
+    -98.110446,
+    39.459882,
+    -98.110446,
+    39.459882
+],
   "geometry": {"coordinates":[-98.110446,39.459882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169669257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.714505,39.02324,-94.714505,39.02324",
     "geom:latitude":39.02324,
     "geom:longitude":-94.714505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5817 Nieman Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169669257,
-    "wof:lastmodified":1449033057,
+    "wof:lastmodified":1466520470,
     "wof:name":"Mercy & Truth Medical Mission",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.714505,39.02324,-94.714505,39.02324],
+  "bbox": [
+    -94.714505,
+    39.02324,
+    -94.714505,
+    39.02324
+],
   "geometry": {"coordinates":[-94.714505,39.02324],"type":"Point"}
 }

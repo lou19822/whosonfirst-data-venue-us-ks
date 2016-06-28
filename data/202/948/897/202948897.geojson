@@ -2,13 +2,14 @@
   "id": 202948897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.623755,38.910935,-94.623755,38.910935",
     "geom:latitude":38.910935,
     "geom:longitude":-94.623755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12012 Ensley Ln",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202948897,
-    "wof:lastmodified":1449062142,
+    "wof:lastmodified":1466520147,
     "wof:name":"Right On Sight Editing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "editorial"
     ]
 },
-  "bbox": [-94.623755,38.910935,-94.623755,38.910935],
+  "bbox": [
+    -94.623755,
+    38.910935,
+    -94.623755,
+    38.910935
+],
   "geometry": {"coordinates":[-94.623755,38.910935],"type":"Point"}
 }

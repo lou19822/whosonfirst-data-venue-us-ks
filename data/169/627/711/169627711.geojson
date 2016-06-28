@@ -2,13 +2,14 @@
   "id": 169627711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.664555,39.096251,-95.664555,39.096251",
     "geom:latitude":39.096251,
     "geom:longitude":-95.664555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169627711,
-    "wof:lastmodified":1449036044,
+    "wof:lastmodified":1466520078,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85881557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.664555,39.096251,-95.664555,39.096251],
-  "geometry": {"coordinates":[-95.664555,39.096251],"type":"Point"}
+  "bbox": [
+    -95.664555,
+    39.096251,
+    -95.664555,
+    39.096251
+],
+  "geometry": {"coordinates":[-95.66455499999999,39.096251],"type":"Point"}
 }

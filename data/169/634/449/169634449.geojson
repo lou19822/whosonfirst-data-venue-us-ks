@@ -2,13 +2,14 @@
   "id": 169634449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.584737,38.350602,-98.584737,38.350602",
     "geom:latitude":38.350602,
     "geom:longitude":-98.584737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W C St",
     "sg:city":"Ellinwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169634449,
-    "wof:lastmodified":1449034257,
+    "wof:lastmodified":1466520206,
     "wof:name":"A & B Self Service Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-98.584737,38.350602,-98.584737,38.350602],
+  "bbox": [
+    -98.584737,
+    38.350602,
+    -98.584737,
+    38.350602
+],
   "geometry": {"coordinates":[-98.584737,38.350602],"type":"Point"}
 }

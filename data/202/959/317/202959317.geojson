@@ -2,13 +2,14 @@
   "id": 202959317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.671582,39.059581,-95.671582,39.059581",
     "geom:latitude":39.059581,
     "geom:longitude":-95.671582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 NW Jackson St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":202959317,
-    "wof:lastmodified":1449062391,
+    "wof:lastmodified":1466520203,
     "wof:name":"Cytek Media Systems Inc",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [-95.671582,39.059581,-95.671582,39.059581],
+  "bbox": [
+    -95.671582,
+    39.059581,
+    -95.671582,
+    39.059581
+],
   "geometry": {"coordinates":[-95.671582,39.059581],"type":"Point"}
 }

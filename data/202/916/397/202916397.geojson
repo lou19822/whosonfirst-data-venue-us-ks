@@ -2,13 +2,14 @@
   "id": 202916397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.135708,39.565283,-95.135708,39.565283",
     "geom:latitude":39.565283,
     "geom:longitude":-95.135708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 Atchison St",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202916397,
-    "wof:lastmodified":1449061500,
+    "wof:lastmodified":1466519453,
     "wof:name":"Abagal's Yard Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.135708,39.565283,-95.135708,39.565283],
-  "geometry": {"coordinates":[-95.135708,39.565283],"type":"Point"}
+  "bbox": [
+    -95.135708,
+    39.565283,
+    -95.135708,
+    39.565283
+],
+  "geometry": {"coordinates":[-95.13570799999999,39.565283],"type":"Point"}
 }

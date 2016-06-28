@@ -2,13 +2,14 @@
   "id": 202945109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.695839,39.018399,-94.695839,39.018399",
     "geom:latitude":39.018399,
     "geom:longitude":-94.695839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6114 Merriam Ln",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202945109,
-    "wof:lastmodified":1449060332,
+    "wof:lastmodified":1466520089,
     "wof:name":"Interstate Battery",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.695839,39.018399,-94.695839,39.018399],
-  "geometry": {"coordinates":[-94.695839,39.018399],"type":"Point"}
+  "bbox": [
+    -94.695839,
+    39.018399,
+    -94.695839,
+    39.018399
+],
+  "geometry": {"coordinates":[-94.69583900000001,39.018399],"type":"Point"}
 }

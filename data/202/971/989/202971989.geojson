@@ -2,13 +2,14 @@
   "id": 202971989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.854724,37.455456,-94.854724,37.455456",
     "geom:latitude":37.455456,
     "geom:longitude":-94.854724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 W 580th Ave",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202971989,
-    "wof:lastmodified":1449061405,
+    "wof:lastmodified":1466520317,
     "wof:name":"Geier, Ann",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.854724,37.455456,-94.854724,37.455456],
+  "bbox": [
+    -94.854724,
+    37.455456,
+    -94.854724,
+    37.455456
+],
   "geometry": {"coordinates":[-94.854724,37.455456],"type":"Point"}
 }

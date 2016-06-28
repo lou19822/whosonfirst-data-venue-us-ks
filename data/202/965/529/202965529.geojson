@@ -2,13 +2,14 @@
   "id": 202965529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.682842,39.038171,-95.682842,39.038171",
     "geom:latitude":39.038171,
     "geom:longitude":-95.682842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 SW Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202965529,
-    "wof:lastmodified":1449061867,
+    "wof:lastmodified":1466520278,
     "wof:name":"Law Firm of Tenopir & Huerter",
     "wof:parent_id":85881553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "law"
     ]
 },
-  "bbox": [-95.682842,39.038171,-95.682842,39.038171],
-  "geometry": {"coordinates":[-95.682842,39.038171],"type":"Point"}
+  "bbox": [
+    -95.682842,
+    39.038171,
+    -95.682842,
+    39.038171
+],
+  "geometry": {"coordinates":[-95.68284199999999,39.038171],"type":"Point"}
 }

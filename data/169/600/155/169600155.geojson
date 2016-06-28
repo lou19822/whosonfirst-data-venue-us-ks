@@ -2,13 +2,14 @@
   "id": 169600155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.691031,38.980633,-94.691031,38.980633",
     "geom:latitude":38.980633,
     "geom:longitude":-94.691031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9008 W 82nd Ter",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169600155,
-    "wof:lastmodified":1449032971,
+    "wof:lastmodified":1466519424,
     "wof:name":"ABC A Burst Color Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-94.691031,38.980633,-94.691031,38.980633],
+  "bbox": [
+    -94.691031,
+    38.980633,
+    -94.691031,
+    38.980633
+],
   "geometry": {"coordinates":[-94.691031,38.980633],"type":"Point"}
 }

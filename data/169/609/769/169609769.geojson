@@ -2,13 +2,14 @@
   "id": 169609769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.852141,37.979605,-100.852141,37.979605",
     "geom:latitude":37.979605,
     "geom:longitude":-100.852141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Longhorn Dr",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169609769,
-    "wof:lastmodified":1449033919,
+    "wof:lastmodified":1466519696,
     "wof:name":"Sander Custom Harvesting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "harvesting"
     ]
 },
-  "bbox": [-100.852141,37.979605,-100.852141,37.979605],
+  "bbox": [
+    -100.852141,
+    37.979605,
+    -100.852141,
+    37.979605
+],
   "geometry": {"coordinates":[-100.852141,37.979605],"type":"Point"}
 }

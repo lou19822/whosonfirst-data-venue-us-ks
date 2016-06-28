@@ -2,13 +2,14 @@
   "id": 202950665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.637911,38.930128,-94.637911,38.930128",
     "geom:latitude":38.930128,
     "geom:longitude":-94.637911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10965 Granada Ln",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202950665,
-    "wof:lastmodified":1449061106,
+    "wof:lastmodified":1466520159,
     "wof:name":"Peakvision",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "sunglass"
     ]
 },
-  "bbox": [-94.637911,38.930128,-94.637911,38.930128],
+  "bbox": [
+    -94.637911,
+    38.930128,
+    -94.637911,
+    38.930128
+],
   "geometry": {"coordinates":[-94.637911,38.930128],"type":"Point"}
 }

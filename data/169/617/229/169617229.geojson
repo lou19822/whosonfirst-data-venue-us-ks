@@ -2,13 +2,14 @@
   "id": 169617229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.700478,39.051899,-95.700478,39.051899",
     "geom:latitude":39.051899,
     "geom:longitude":-95.700478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 SW College Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169617229,
-    "wof:lastmodified":1449032803,
+    "wof:lastmodified":1466519852,
     "wof:name":"Oxford House Elmhurst",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-95.700478,39.051899,-95.700478,39.051899],
+  "bbox": [
+    -95.700478,
+    39.051899,
+    -95.700478,
+    39.051899
+],
   "geometry": {"coordinates":[-95.700478,39.051899],"type":"Point"}
 }

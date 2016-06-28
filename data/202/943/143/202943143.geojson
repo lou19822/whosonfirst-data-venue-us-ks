@@ -2,13 +2,14 @@
   "id": 202943143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.651386,39.023864,-94.651386,39.023864",
     "geom:latitude":39.023864,
     "geom:longitude":-94.651386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5809 Reeds Rd",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202943143,
-    "wof:lastmodified":1449060786,
+    "wof:lastmodified":1466520068,
     "wof:name":"Rheuark Fsi Sales Inc",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-94.651386,39.023864,-94.651386,39.023864],
+  "bbox": [
+    -94.651386,
+    39.023864,
+    -94.651386,
+    39.023864
+],
   "geometry": {"coordinates":[-94.651386,39.023864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337285375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.736512,39.015015,-94.736512,39.015015",
     "geom:latitude":39.015015,
     "geom:longitude":-94.736512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12902 Shawnee Mission Pkwy",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337285375,
-    "wof:lastmodified":1449026955,
+    "wof:lastmodified":1466519418,
     "wof:name":"Reynolds Lawn & Leisure Inc",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mower"
     ]
 },
-  "bbox": [-94.736512,39.015015,-94.736512,39.015015],
+  "bbox": [
+    -94.736512,
+    39.015015,
+    -94.736512,
+    39.015015
+],
   "geometry": {"coordinates":[-94.736512,39.015015],"type":"Point"}
 }

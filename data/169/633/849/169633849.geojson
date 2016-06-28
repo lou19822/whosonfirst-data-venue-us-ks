@@ -2,13 +2,14 @@
   "id": 169633849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.714236,38.958952,-94.714236,38.958952",
     "geom:latitude":38.958952,
     "geom:longitude":-94.714236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9215 Nieman Rd",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169633849,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1466520213,
     "wof:name":"Ahlers Cleaning Co",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-94.714236,38.958952,-94.714236,38.958952],
+  "bbox": [
+    -94.714236,
+    38.958952,
+    -94.714236,
+    38.958952
+],
   "geometry": {"coordinates":[-94.714236,38.958952],"type":"Point"}
 }

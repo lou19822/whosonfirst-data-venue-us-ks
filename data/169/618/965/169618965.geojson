@@ -2,13 +2,14 @@
   "id": 169618965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.673086,39.102425,-95.673086,39.102425",
     "geom:latitude":39.102425,
     "geom:longitude":-95.673086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 NW Rochester Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169618965,
-    "wof:lastmodified":1449034738,
+    "wof:lastmodified":1466519919,
     "wof:name":"R & K Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.673086,39.102425,-95.673086,39.102425],
+  "bbox": [
+    -95.673086,
+    39.102425,
+    -95.673086,
+    39.102425
+],
   "geometry": {"coordinates":[-95.673086,39.102425],"type":"Point"}
 }

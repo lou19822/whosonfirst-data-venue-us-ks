@@ -2,13 +2,14 @@
   "id": 169609963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.210041,39.786778,-98.210041,39.786778",
     "geom:latitude":39.786778,
     "geom:longitude":-98.210041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Commercial St",
     "sg:city":"Mankato",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169609963,
-    "wof:lastmodified":1449033917,
+    "wof:lastmodified":1466519704,
     "wof:name":"Dick's TV & Furniture Mankato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.210041,39.786778,-98.210041,39.786778],
+  "bbox": [
+    -98.210041,
+    39.786778,
+    -98.210041,
+    39.786778
+],
   "geometry": {"coordinates":[-98.210041,39.786778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169638373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.432922,37.646115,-98.432922,37.646115",
     "geom:latitude":37.646115,
     "geom:longitude":-98.432922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Main St",
     "sg:city":"Cunningham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169638373,
-    "wof:lastmodified":1449032869,
+    "wof:lastmodified":1466520237,
     "wof:name":"Timberline Tree Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.432922,37.646115,-98.432922,37.646115],
+  "bbox": [
+    -98.432922,
+    37.646115,
+    -98.432922,
+    37.646115
+],
   "geometry": {"coordinates":[-98.432922,37.646115],"type":"Point"}
 }

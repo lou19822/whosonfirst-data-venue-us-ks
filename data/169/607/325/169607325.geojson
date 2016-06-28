@@ -2,13 +2,14 @@
   "id": 169607325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.66755,38.953138,-94.66755,38.953138",
     "geom:latitude":38.953138,
     "geom:longitude":-94.66755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9605 Metcalf Ave",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169607325,
-    "wof:lastmodified":1449033122,
+    "wof:lastmodified":1466519603,
     "wof:name":"Gifts & Accents",
     "wof:parent_id":85879581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.66755,38.953138,-94.66755,38.953138],
-  "geometry": {"coordinates":[-94.66755,38.953138],"type":"Point"}
+  "bbox": [
+    -94.66755,
+    38.953138,
+    -94.66755,
+    38.953138
+],
+  "geometry": {"coordinates":[-94.66755000000001,38.953138],"type":"Point"}
 }

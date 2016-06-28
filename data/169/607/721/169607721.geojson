@@ -2,13 +2,14 @@
   "id": 169607721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.367364,37.646298,-97.367364,37.646298",
     "geom:latitude":37.646298,
     "geom:longitude":-97.367364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 Everett St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169607721,
-    "wof:lastmodified":1449033126,
+    "wof:lastmodified":1466519622,
     "wof:name":"Native American Intertribal Ve",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "raising"
     ]
 },
-  "bbox": [-97.367364,37.646298,-97.367364,37.646298],
-  "geometry": {"coordinates":[-97.367364,37.646298],"type":"Point"}
+  "bbox": [
+    -97.367364,
+    37.646298,
+    -97.367364,
+    37.646298
+],
+  "geometry": {"coordinates":[-97.36736399999999,37.646298],"type":"Point"}
 }

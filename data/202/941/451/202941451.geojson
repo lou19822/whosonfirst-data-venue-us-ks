@@ -2,13 +2,14 @@
   "id": 202941451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.65638,38.827351,-94.65638,38.827351",
     "geom:latitude":38.827351,
     "geom:longitude":-94.65638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Fox Chase Dr",
     "sg:city":"Stilwell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202941451,
-    "wof:lastmodified":1449061632,
+    "wof:lastmodified":1466519992,
     "wof:name":"Davco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.65638,38.827351,-94.65638,38.827351],
+  "bbox": [
+    -94.65638,
+    38.827351,
+    -94.65638,
+    38.827351
+],
   "geometry": {"coordinates":[-94.65638,38.827351],"type":"Point"}
 }

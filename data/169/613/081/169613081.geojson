@@ -2,13 +2,14 @@
   "id": 169613081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.292821,37.821096,-96.292821,37.821096",
     "geom:latitude":37.821096,
     "geom:longitude":-96.292821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E 3rd St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169613081,
-    "wof:lastmodified":1449034212,
+    "wof:lastmodified":1466519765,
     "wof:name":"Mary Ann Shirley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.292821,37.821096,-96.292821,37.821096],
+  "bbox": [
+    -96.292821,
+    37.821096,
+    -96.292821,
+    37.821096
+],
   "geometry": {"coordinates":[-96.292821,37.821096],"type":"Point"}
 }

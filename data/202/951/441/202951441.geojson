@@ -2,13 +2,14 @@
   "id": 202951441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.745693,38.958582,-94.745693,38.958582",
     "geom:latitude":38.958582,
     "geom:longitude":-94.745693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13830 Santa Fe Trail Dr Ste 104",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202951441,
-    "wof:lastmodified":1449060206,
+    "wof:lastmodified":1466520150,
     "wof:name":"Alphi Creations",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "specialty"
     ]
 },
-  "bbox": [-94.745693,38.958582,-94.745693,38.958582],
+  "bbox": [
+    -94.745693,
+    38.958582,
+    -94.745693,
+    38.958582
+],
   "geometry": {"coordinates":[-94.745693,38.958582],"type":"Point"}
 }

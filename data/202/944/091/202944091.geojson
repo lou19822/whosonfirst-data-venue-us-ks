@@ -2,13 +2,14 @@
   "id": 202944091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.667375,39.024423,-94.667375,39.024423",
     "geom:latitude":39.024423,
     "geom:longitude":-94.667375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Foxridge Dr",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202944091,
-    "wof:lastmodified":1449061387,
+    "wof:lastmodified":1466520073,
     "wof:name":"Total Medical Management LLC",
     "wof:parent_id":85879553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "billing"
     ]
 },
-  "bbox": [-94.667375,39.024423,-94.667375,39.024423],
-  "geometry": {"coordinates":[-94.667375,39.024423],"type":"Point"}
+  "bbox": [
+    -94.667375,
+    39.024423,
+    -94.667375,
+    39.024423
+],
+  "geometry": {"coordinates":[-94.66737500000001,39.024423],"type":"Point"}
 }

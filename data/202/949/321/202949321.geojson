@@ -2,13 +2,14 @@
   "id": 202949321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.658945,38.902919,-94.658945,38.902919",
     "geom:latitude":38.902919,
     "geom:longitude":-94.658945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12413 Russell St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202949321,
-    "wof:lastmodified":1449061678,
+    "wof:lastmodified":1466520134,
     "wof:name":"Kc Police Upfitters",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-94.658945,38.902919,-94.658945,38.902919],
+  "bbox": [
+    -94.658945,
+    38.902919,
+    -94.658945,
+    38.902919
+],
   "geometry": {"coordinates":[-94.658945,38.902919],"type":"Point"}
 }

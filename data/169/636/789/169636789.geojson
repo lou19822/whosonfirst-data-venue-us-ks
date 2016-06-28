@@ -2,13 +2,14 @@
   "id": 169636789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.936165,37.006521,-95.936165,37.006521",
     "geom:latitude":37.006521,
     "geom:longitude":-95.936165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W 9th Ave",
     "sg:city":"Caney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169636789,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1466520248,
     "wof:name":"Amy Rae Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.936165,37.006521,-95.936165,37.006521],
+  "bbox": [
+    -95.936165,
+    37.006521,
+    -95.936165,
+    37.006521
+],
   "geometry": {"coordinates":[-95.936165,37.006521],"type":"Point"}
 }

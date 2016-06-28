@@ -2,13 +2,14 @@
   "id": 202913767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.123193,39.55946,-95.123193,39.55946",
     "geom:latitude":39.55946,
     "geom:longitude":-95.123193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Skyway Hwy",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202913767,
-    "wof:lastmodified":1449061095,
+    "wof:lastmodified":1466519427,
     "wof:name":"Young Dragon Chinese Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pan"
     ]
 },
-  "bbox": [-95.123193,39.55946,-95.123193,39.55946],
+  "bbox": [
+    -95.123193,
+    39.55946,
+    -95.123193,
+    39.55946
+],
   "geometry": {"coordinates":[-95.123193,39.55946],"type":"Point"}
 }

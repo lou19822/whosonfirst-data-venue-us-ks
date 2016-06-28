@@ -2,13 +2,14 @@
   "id": 169629163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.766244,37.024121,-97.766244,37.024121",
     "geom:latitude":37.024121,
     "geom:longitude":-97.766244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1782 W 180th St S",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169629163,
-    "wof:lastmodified":1449035186,
+    "wof:lastmodified":1466520121,
     "wof:name":"Petrik-Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.766244,37.024121,-97.766244,37.024121],
+  "bbox": [
+    -97.766244,
+    37.024121,
+    -97.766244,
+    37.024121
+],
   "geometry": {"coordinates":[-97.766244,37.024121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169622705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.0015,38.817844,-95.0015,38.817844",
     "geom:latitude":38.817844,
     "geom:longitude":-95.0015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17230 S Sunflower Rd",
     "sg:city":"Gardner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169622705,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466520005,
     "wof:name":"Donald Gillespie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.0015,38.817844,-95.0015,38.817844],
-  "geometry": {"coordinates":[-95.0015,38.817844],"type":"Point"}
+  "bbox": [
+    -95.0015,
+    38.817844,
+    -95.0015,
+    38.817844
+],
+  "geometry": {"coordinates":[-95.00149999999999,38.817844],"type":"Point"}
 }

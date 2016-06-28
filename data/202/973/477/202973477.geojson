@@ -2,13 +2,14 @@
   "id": 202973477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.668117,37.434895,-94.668117,37.434895",
     "geom:latitude":37.434895,
     "geom:longitude":-94.668117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 N Free King Hwy",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202973477,
-    "wof:lastmodified":1449061640,
+    "wof:lastmodified":1466520326,
     "wof:name":"Jerry L Degrufon",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-94.668117,37.434895,-94.668117,37.434895],
+  "bbox": [
+    -94.668117,
+    37.434895,
+    -94.668117,
+    37.434895
+],
   "geometry": {"coordinates":[-94.668117,37.434895],"type":"Point"}
 }

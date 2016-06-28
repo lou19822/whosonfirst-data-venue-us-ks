@@ -2,13 +2,14 @@
   "id": 169601923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.243431,37.568377,-95.243431,37.568377",
     "geom:latitude":37.568377,
     "geom:longitude":-95.243431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Main St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169601923,
-    "wof:lastmodified":1449034148,
+    "wof:lastmodified":1466519476,
     "wof:name":"Neosho County Appraiser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.243431,37.568377,-95.243431,37.568377],
+  "bbox": [
+    -95.243431,
+    37.568377,
+    -95.243431,
+    37.568377
+],
   "geometry": {"coordinates":[-95.243431,37.568377],"type":"Point"}
 }

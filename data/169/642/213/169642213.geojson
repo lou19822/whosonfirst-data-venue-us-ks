@@ -2,13 +2,14 @@
   "id": 169642213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.910797,38.054789,-97.910797,38.054789",
     "geom:latitude":38.054789,
     "geom:longitude":-97.910797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Clay St",
     "sg:city":"Hutchinson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169642213,
-    "wof:lastmodified":1449032877,
+    "wof:lastmodified":1466520275,
     "wof:name":"Bridgman Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gas"
     ]
 },
-  "bbox": [-97.910797,38.054789,-97.910797,38.054789],
+  "bbox": [
+    -97.910797,
+    38.054789,
+    -97.910797,
+    38.054789
+],
   "geometry": {"coordinates":[-97.910797,38.054789],"type":"Point"}
 }

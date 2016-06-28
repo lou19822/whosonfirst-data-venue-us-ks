@@ -2,13 +2,14 @@
   "id": 169674115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.149617,39.048576,-98.149617,39.048576",
     "geom:latitude":39.048576,
     "geom:longitude":-98.149617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Center St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169674115,
-    "wof:lastmodified":1449035135,
+    "wof:lastmodified":1466520496,
     "wof:name":"Kerth's Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-98.149617,39.048576,-98.149617,39.048576],
-  "geometry": {"coordinates":[-98.149617,39.048576],"type":"Point"}
+  "bbox": [
+    -98.149617,
+    39.048576,
+    -98.149617,
+    39.048576
+],
+  "geometry": {"coordinates":[-98.14961700000001,39.048576],"type":"Point"}
 }

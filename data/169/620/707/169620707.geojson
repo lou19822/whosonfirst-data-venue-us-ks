@@ -2,13 +2,14 @@
   "id": 169620707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.131109,38.848785,-101.131109,38.848785",
     "geom:latitude":38.848785,
     "geom:longitude":-101.131109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Co Rd 290",
     "sg:city":"Winona",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169620707,
-    "wof:lastmodified":1449035674,
+    "wof:lastmodified":1466519970,
     "wof:name":"Michael Kough",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-101.131109,38.848785,-101.131109,38.848785],
+  "bbox": [
+    -101.131109,
+    38.848785,
+    -101.131109,
+    38.848785
+],
   "geometry": {"coordinates":[-101.131109,38.848785],"type":"Point"}
 }

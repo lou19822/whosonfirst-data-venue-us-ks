@@ -2,13 +2,14 @@
   "id": 169626613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.302413,37.921879,-95.302413,37.921879",
     "geom:latitude":37.921879,
     "geom:longitude":-95.302413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S Broadway St",
     "sg:city":"La Harpe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169626613,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466520065,
     "wof:name":"Jayhawkers Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.302413,37.921879,-95.302413,37.921879],
+  "bbox": [
+    -95.302413,
+    37.921879,
+    -95.302413,
+    37.921879
+],
   "geometry": {"coordinates":[-95.302413,37.921879],"type":"Point"}
 }

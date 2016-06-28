@@ -2,13 +2,14 @@
   "id": 202953815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.730724,39.013677,-94.730724,39.013677",
     "geom:latitude":39.013677,
     "geom:longitude":-94.730724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6345 Long Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202953815,
-    "wof:lastmodified":1449061833,
+    "wof:lastmodified":1466520183,
     "wof:name":"Carlos Palmeri",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-94.730724,39.013677,-94.730724,39.013677],
+  "bbox": [
+    -94.730724,
+    39.013677,
+    -94.730724,
+    39.013677
+],
   "geometry": {"coordinates":[-94.730724,39.013677],"type":"Point"}
 }

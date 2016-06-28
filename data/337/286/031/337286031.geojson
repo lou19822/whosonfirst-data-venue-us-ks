@@ -2,13 +2,14 @@
   "id": 337286031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519028,38.203322,-97.519028,38.203322",
     "geom:latitude":38.203322,
     "geom:longitude":-97.519028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 S Christian Ave",
     "sg:city":"Moundridge",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":337286031,
-    "wof:lastmodified":1449027147,
+    "wof:lastmodified":1466519415,
     "wof:name":"Memory Lane Flowers & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.519028,38.203322,-97.519028,38.203322],
-  "geometry": {"coordinates":[-97.519028,38.203322],"type":"Point"}
+  "bbox": [
+    -97.519028,
+    38.203322,
+    -97.519028,
+    38.203322
+],
+  "geometry": {"coordinates":[-97.51902800000001,38.203322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169627551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.740562,39.029395,-95.740562,39.029395",
     "geom:latitude":39.029395,
     "geom:longitude":-95.740562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4990 SW 21st St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169627551,
-    "wof:lastmodified":1449036041,
+    "wof:lastmodified":1466520072,
     "wof:name":"Bolz & Lucas Chiropractic Clnc",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.740562,39.029395,-95.740562,39.029395],
+  "bbox": [
+    -95.740562,
+    39.029395,
+    -95.740562,
+    39.029395
+],
   "geometry": {"coordinates":[-95.740562,39.029395],"type":"Point"}
 }

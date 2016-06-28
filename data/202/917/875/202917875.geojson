@@ -2,13 +2,14 @@
   "id": 202917875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.634095,38.752611,-94.634095,38.752611",
     "geom:latitude":38.752611,
     "geom:longitude":-94.634095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4530 W 207th St",
     "sg:city":"Bucyrus",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202917875,
-    "wof:lastmodified":1449062322,
+    "wof:lastmodified":1466519479,
     "wof:name":"Cmf Leasing, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "store"
     ]
 },
-  "bbox": [-94.634095,38.752611,-94.634095,38.752611],
+  "bbox": [
+    -94.634095,
+    38.752611,
+    -94.634095,
+    38.752611
+],
   "geometry": {"coordinates":[-94.634095,38.752611],"type":"Point"}
 }

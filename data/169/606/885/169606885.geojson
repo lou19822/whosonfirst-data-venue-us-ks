@@ -2,13 +2,14 @@
   "id": 169606885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.666168,39.145948,-94.666168,39.145948",
     "geom:latitude":39.145948,
     "geom:longitude":-94.666168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 N 33 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169606885,
-    "wof:lastmodified":1449033200,
+    "wof:lastmodified":1466519586,
     "wof:name":"Health Products of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.666168,39.145948,-94.666168,39.145948],
+  "bbox": [
+    -94.666168,
+    39.145948,
+    -94.666168,
+    39.145948
+],
   "geometry": {"coordinates":[-94.666168,39.145948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169628577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.882192,39.016689,-99.882192,39.016689",
     "geom:latitude":39.016689,
     "geom:longitude":-99.882192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 S 6th St",
     "sg:city":"Wa Keeney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169628577,
-    "wof:lastmodified":1449035336,
+    "wof:lastmodified":1466520103,
     "wof:name":"Rush Tank Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-99.882192,39.016689,-99.882192,39.016689],
+  "bbox": [
+    -99.882192,
+    39.016689,
+    -99.882192,
+    39.016689
+],
   "geometry": {"coordinates":[-99.882192,39.016689],"type":"Point"}
 }

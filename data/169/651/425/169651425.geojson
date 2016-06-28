@@ -2,13 +2,14 @@
   "id": 169651425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.364342,37.75409,-97.364342,37.75409",
     "geom:latitude":37.75409,
     "geom:longitude":-97.364342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 W Nottingham Ln",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169651425,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1466520373,
     "wof:name":"Get Wired",
     "wof:parent_id":85872817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.364342,37.75409,-97.364342,37.75409],
-  "geometry": {"coordinates":[-97.364342,37.75409],"type":"Point"}
+  "bbox": [
+    -97.364342,
+    37.75409,
+    -97.364342,
+    37.75409
+],
+  "geometry": {"coordinates":[-97.36434199999999,37.75409],"type":"Point"}
 }

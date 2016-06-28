@@ -2,13 +2,14 @@
   "id": 202946591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.620002,39.031784,-94.620002,39.031784",
     "geom:latitude":39.031784,
     "geom:longitude":-94.620002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5410 Aberdeen Rd",
     "sg:city":"Fairway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202946591,
-    "wof:lastmodified":1449062345,
+    "wof:lastmodified":1466520099,
     "wof:name":"Young Brooks Janice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "online"
     ]
 },
-  "bbox": [-94.620002,39.031784,-94.620002,39.031784],
+  "bbox": [
+    -94.620002,
+    39.031784,
+    -94.620002,
+    39.031784
+],
   "geometry": {"coordinates":[-94.620002,39.031784],"type":"Point"}
 }

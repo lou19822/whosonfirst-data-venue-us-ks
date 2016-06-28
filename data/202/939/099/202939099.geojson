@@ -2,13 +2,14 @@
   "id": 202939099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.712112,38.180148,-94.712112,38.180148",
     "geom:latitude":38.180148,
     "geom:longitude":-94.712112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Main St",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202939099,
-    "wof:lastmodified":1449060866,
+    "wof:lastmodified":1466519921,
     "wof:name":"Snow Hill Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-94.712112,38.180148,-94.712112,38.180148],
+  "bbox": [
+    -94.712112,
+    38.180148,
+    -94.712112,
+    38.180148
+],
   "geometry": {"coordinates":[-94.712112,38.180148],"type":"Point"}
 }

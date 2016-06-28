@@ -2,13 +2,14 @@
   "id": 169610753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.318357,37.789357,-97.318357,37.789357",
     "geom:latitude":37.789357,
     "geom:longitude":-97.318357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Prairie Hill",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169610753,
-    "wof:lastmodified":1449035909,
+    "wof:lastmodified":1466519723,
     "wof:name":"Perennial Lawn Care Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.318357,37.789357,-97.318357,37.789357],
-  "geometry": {"coordinates":[-97.318357,37.789357],"type":"Point"}
+  "bbox": [
+    -97.318357,
+    37.789357,
+    -97.318357,
+    37.789357
+],
+  "geometry": {"coordinates":[-97.31835700000001,37.789357],"type":"Point"}
 }

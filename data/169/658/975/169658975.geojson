@@ -2,13 +2,14 @@
   "id": 169658975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.018014,37.936337,-97.018014,37.936337",
     "geom:latitude":37.936337,
     "geom:longitude":-97.018014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Kellogg Ave",
     "sg:city":"Potwin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169658975,
-    "wof:lastmodified":1449032615,
+    "wof:lastmodified":1466520431,
     "wof:name":"Larsen Painting",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.018014,37.936337,-97.018014,37.936337],
-  "geometry": {"coordinates":[-97.018014,37.936337],"type":"Point"}
+  "bbox": [
+    -97.018014,
+    37.936337,
+    -97.018014,
+    37.936337
+],
+  "geometry": {"coordinates":[-97.01801399999999,37.936337],"type":"Point"}
 }

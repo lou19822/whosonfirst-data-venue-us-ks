@@ -2,13 +2,14 @@
   "id": 202918631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.057976,39.362408,-95.057976,39.362408",
     "geom:latitude":39.362408,
     "geom:longitude":-95.057976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32500 Easton Rd",
     "sg:city":"Easton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202918631,
-    "wof:lastmodified":1449061809,
+    "wof:lastmodified":1466519490,
     "wof:name":"Pleasant Ridge High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.057976,39.362408,-95.057976,39.362408],
+  "bbox": [
+    -95.057976,
+    39.362408,
+    -95.057976,
+    39.362408
+],
   "geometry": {"coordinates":[-95.057976,39.362408],"type":"Point"}
 }

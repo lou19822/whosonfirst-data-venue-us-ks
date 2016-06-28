@@ -2,13 +2,14 @@
   "id": 169670021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.70369,38.955523,-94.70369,38.955523",
     "geom:latitude":38.955523,
     "geom:longitude":-94.70369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9515 Perry Ln",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169670021,
-    "wof:lastmodified":1449033186,
+    "wof:lastmodified":1466520463,
     "wof:name":"Midwest Maintenance",
     "wof:parent_id":85879573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.70369,38.955523,-94.70369,38.955523],
-  "geometry": {"coordinates":[-94.70369,38.955523],"type":"Point"}
+  "bbox": [
+    -94.70369,
+    38.955523,
+    -94.70369,
+    38.955523
+],
+  "geometry": {"coordinates":[-94.70368999999999,38.955523],"type":"Point"}
 }

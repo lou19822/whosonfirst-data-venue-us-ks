@@ -2,13 +2,14 @@
   "id": 202945249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.714597,39.02325,-94.714597,39.02325",
     "geom:latitude":39.02325,
     "geom:longitude":-94.714597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5819 Nieman Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202945249,
-    "wof:lastmodified":1449060329,
+    "wof:lastmodified":1466520092,
     "wof:name":"G&W Entertainment Inc",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.714597,39.02325,-94.714597,39.02325],
+  "bbox": [
+    -94.714597,
+    39.02325,
+    -94.714597,
+    39.02325
+],
   "geometry": {"coordinates":[-94.714597,39.02325],"type":"Point"}
 }

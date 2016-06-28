@@ -2,13 +2,14 @@
   "id": 202949729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.647711,38.917969,-94.647711,38.917969",
     "geom:latitude":38.917969,
     "geom:longitude":-94.647711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11560 Ash St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202949729,
-    "wof:lastmodified":1449061680,
+    "wof:lastmodified":1466520155,
     "wof:name":"Park Place Gallery",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "instruction"
     ]
 },
-  "bbox": [-94.647711,38.917969,-94.647711,38.917969],
+  "bbox": [
+    -94.647711,
+    38.917969,
+    -94.647711,
+    38.917969
+],
   "geometry": {"coordinates":[-94.647711,38.917969],"type":"Point"}
 }

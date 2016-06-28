@@ -2,13 +2,14 @@
   "id": 169618147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.684434,39.08952,-94.684434,39.08952",
     "geom:latitude":39.08952,
     "geom:longitude":-94.684434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4510 Kansas Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169618147,
-    "wof:lastmodified":1449034739,
+    "wof:lastmodified":1466519887,
     "wof:name":"Lara Corp",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-94.684434,39.08952,-94.684434,39.08952],
+  "bbox": [
+    -94.684434,
+    39.08952,
+    -94.684434,
+    39.08952
+],
   "geometry": {"coordinates":[-94.684434,39.08952],"type":"Point"}
 }

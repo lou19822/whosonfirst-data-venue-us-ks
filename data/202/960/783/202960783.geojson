@@ -2,13 +2,14 @@
   "id": 202960783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.761665,39.046155,-95.761665,39.046155",
     "geom:latitude":39.046155,
     "geom:longitude":-95.761665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 SW Wanamaker Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":202960783,
-    "wof:lastmodified":1449061918,
+    "wof:lastmodified":1466520236,
     "wof:name":"Discovery Furniture By Winter",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "store"
     ]
 },
-  "bbox": [-95.761665,39.046155,-95.761665,39.046155],
-  "geometry": {"coordinates":[-95.761665,39.046155],"type":"Point"}
+  "bbox": [
+    -95.761665,
+    39.046155,
+    -95.761665,
+    39.046155
+],
+  "geometry": {"coordinates":[-95.76166499999999,39.046155],"type":"Point"}
 }

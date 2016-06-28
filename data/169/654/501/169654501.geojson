@@ -2,13 +2,14 @@
   "id": 169654501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.948992,38.499094,-94.948992,38.499094",
     "geom:latitude":38.499094,
     "geom:longitude":-94.948992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Main St",
     "sg:city":"Osawatomie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169654501,
-    "wof:lastmodified":1449033794,
+    "wof:lastmodified":1466520398,
     "wof:name":"Movie Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cassette"
     ]
 },
-  "bbox": [-94.948992,38.499094,-94.948992,38.499094],
+  "bbox": [
+    -94.948992,
+    38.499094,
+    -94.948992,
+    38.499094
+],
   "geometry": {"coordinates":[-94.948992,38.499094],"type":"Point"}
 }

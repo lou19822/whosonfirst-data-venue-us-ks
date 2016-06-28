@@ -2,13 +2,14 @@
   "id": 169671819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.810476,37.864223,-95.810476,37.864223",
     "geom:latitude":37.864223,
     "geom:longitude":-95.810476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"888 100th Rd",
     "sg:city":"Yates Center",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169671819,
-    "wof:lastmodified":1449033451,
+    "wof:lastmodified":1466520493,
     "wof:name":"Scott Wendland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.810476,37.864223,-95.810476,37.864223],
-  "geometry": {"coordinates":[-95.810476,37.864223],"type":"Point"}
+  "bbox": [
+    -95.810476,
+    37.864223,
+    -95.810476,
+    37.864223
+],
+  "geometry": {"coordinates":[-95.81047599999999,37.864223],"type":"Point"}
 }

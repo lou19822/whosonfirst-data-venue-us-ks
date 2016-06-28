@@ -2,13 +2,14 @@
   "id": 202951501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.742702,38.93465,-94.742702,38.93465",
     "geom:latitude":38.93465,
     "geom:longitude":-94.742702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13524 W 107th St",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202951501,
-    "wof:lastmodified":1449060210,
+    "wof:lastmodified":1466520153,
     "wof:name":"Hume Music",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.742702,38.93465,-94.742702,38.93465],
-  "geometry": {"coordinates":[-94.742702,38.93465],"type":"Point"}
+  "bbox": [
+    -94.742702,
+    38.93465,
+    -94.742702,
+    38.93465
+],
+  "geometry": {"coordinates":[-94.74270199999999,38.93465],"type":"Point"}
 }

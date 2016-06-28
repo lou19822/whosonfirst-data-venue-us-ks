@@ -2,13 +2,14 @@
   "id": 169670987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.291162,38.981505,-95.291162,38.981505",
     "geom:latitude":38.981505,
     "geom:longitude":-95.291162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Tumbleweed Dr",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169670987,
-    "wof:lastmodified":1449033185,
+    "wof:lastmodified":1466520490,
     "wof:name":"Green Dreams Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.291162,38.981505,-95.291162,38.981505],
+  "bbox": [
+    -95.291162,
+    38.981505,
+    -95.291162,
+    38.981505
+],
   "geometry": {"coordinates":[-95.291162,38.981505],"type":"Point"}
 }

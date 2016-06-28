@@ -2,13 +2,14 @@
   "id": 169666441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.016061,37.751348,-100.016061,37.751348",
     "geom:latitude":37.751348,
     "geom:longitude":-100.016061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Trail St",
     "sg:city":"Dodge City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169666441,
-    "wof:lastmodified":1449033896,
+    "wof:lastmodified":1466520465,
     "wof:name":"Western Supply Co",
     "wof:parent_id":85849601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-100.016061,37.751348,-100.016061,37.751348],
-  "geometry": {"coordinates":[-100.016061,37.751348],"type":"Point"}
+  "bbox": [
+    -100.016061,
+    37.751348,
+    -100.016061,
+    37.751348
+],
+  "geometry": {"coordinates":[-100.01606099999999,37.751348],"type":"Point"}
 }

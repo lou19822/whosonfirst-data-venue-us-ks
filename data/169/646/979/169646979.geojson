@@ -2,13 +2,14 @@
   "id": 169646979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.044141,37.059826,-97.044141,37.059826",
     "geom:latitude":37.059826,
     "geom:longitude":-97.044141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 W Washington Ave",
     "sg:city":"Arkansas City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169646979,
-    "wof:lastmodified":1449032607,
+    "wof:lastmodified":1466520345,
     "wof:name":"Arkansas City Water Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-97.044141,37.059826,-97.044141,37.059826],
+  "bbox": [
+    -97.044141,
+    37.059826,
+    -97.044141,
+    37.059826
+],
   "geometry": {"coordinates":[-97.044141,37.059826],"type":"Point"}
 }

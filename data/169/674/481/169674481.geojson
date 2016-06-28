@@ -2,13 +2,14 @@
   "id": 169674481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.705998,37.842768,-94.705998,37.842768",
     "geom:latitude":37.842768,
     "geom:longitude":-94.705998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 N Main St",
     "sg:city":"Fort Scott",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":169674481,
-    "wof:lastmodified":1449035138,
+    "wof:lastmodified":1466520504,
     "wof:name":"Dusty Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-94.705998,37.842768,-94.705998,37.842768],
-  "geometry": {"coordinates":[-94.705998,37.842768],"type":"Point"}
+  "bbox": [
+    -94.705998,
+    37.842768,
+    -94.705998,
+    37.842768
+],
+  "geometry": {"coordinates":[-94.70599799999999,37.842768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169612357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234137,37.994557,-98.234137,37.994557",
     "geom:latitude":37.994557,
     "geom:longitude":-98.234137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5017 S Peace Rd",
     "sg:city":"Abbyville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169612357,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1466519773,
     "wof:name":"Dale Gagnebin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.234137,37.994557,-98.234137,37.994557],
+  "bbox": [
+    -98.234137,
+    37.994557,
+    -98.234137,
+    37.994557
+],
   "geometry": {"coordinates":[-98.234137,37.994557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169596827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.718656,37.227754,-95.718656,37.227754",
     "geom:latitude":37.227754,
     "geom:longitude":-95.718656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Locust St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169596827,
-    "wof:lastmodified":1449034371,
+    "wof:lastmodified":1466529869,
     "wof:name":"Marian's Hair Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.718656,37.227754,-95.718656,37.227754],
+  "bbox": [
+    -95.718656,
+    37.227754,
+    -95.718656,
+    37.227754
+],
   "geometry": {"coordinates":[-95.718656,37.227754],"type":"Point"}
 }

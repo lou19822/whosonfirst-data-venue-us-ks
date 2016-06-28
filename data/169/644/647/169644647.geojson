@@ -2,13 +2,14 @@
   "id": 169644647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.751029,38.94313,-94.751029,38.94313",
     "geom:latitude":38.94313,
     "geom:longitude":-94.751029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14119 Marshall Dr",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169644647,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466520309,
     "wof:name":"Sunlight Saunas",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-94.751029,38.94313,-94.751029,38.94313],
+  "bbox": [
+    -94.751029,
+    38.94313,
+    -94.751029,
+    38.94313
+],
   "geometry": {"coordinates":[-94.751029,38.94313],"type":"Point"}
 }

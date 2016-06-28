@@ -2,13 +2,14 @@
   "id": 169605705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.838677,38.867375,-94.838677,38.867375",
     "geom:latitude":38.867375,
     "geom:longitude":-94.838677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1351 US Hwy 56",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169605705,
-    "wof:lastmodified":1449034291,
+    "wof:lastmodified":1466519532,
     "wof:name":"Unavet Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-94.838677,38.867375,-94.838677,38.867375],
+  "bbox": [
+    -94.838677,
+    38.867375,
+    -94.838677,
+    38.867375
+],
   "geometry": {"coordinates":[-94.838677,38.867375],"type":"Point"}
 }

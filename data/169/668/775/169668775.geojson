@@ -2,13 +2,14 @@
   "id": 169668775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.593939,38.829523,-97.593939,38.829523",
     "geom:latitude":38.829523,
     "geom:longitude":-97.593939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"643 S Ohio St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169668775,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1466520481,
     "wof:name":"Bob-KAT Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-97.593939,38.829523,-97.593939,38.829523],
-  "geometry": {"coordinates":[-97.593939,38.829523],"type":"Point"}
+  "bbox": [
+    -97.593939,
+    38.829523,
+    -97.593939,
+    38.829523
+],
+  "geometry": {"coordinates":[-97.59393900000001,38.829523],"type":"Point"}
 }

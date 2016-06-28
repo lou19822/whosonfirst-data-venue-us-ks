@@ -2,13 +2,14 @@
   "id": 337285349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.75521,38.986555,-94.75521,38.986555",
     "geom:latitude":38.986555,
     "geom:longitude":-94.75521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7808 Oakview Ln",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337285349,
-    "wof:lastmodified":1449026955,
+    "wof:lastmodified":1466519417,
     "wof:name":"Bill Mcghie & Associates",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.75521,38.986555,-94.75521,38.986555],
-  "geometry": {"coordinates":[-94.75521,38.986555],"type":"Point"}
+  "bbox": [
+    -94.75521,
+    38.986555,
+    -94.75521,
+    38.986555
+],
+  "geometry": {"coordinates":[-94.75521000000001,38.986555],"type":"Point"}
 }

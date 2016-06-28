@@ -2,13 +2,14 @@
   "id": 202958175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.563479,39.181481,-96.563479,39.181481",
     "geom:latitude":39.181481,
     "geom:longitude":-96.563479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Leavenworth St",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202958175,
-    "wof:lastmodified":1449062100,
+    "wof:lastmodified":1466520196,
     "wof:name":"Cardinal Ins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-96.563479,39.181481,-96.563479,39.181481],
+  "bbox": [
+    -96.563479,
+    39.181481,
+    -96.563479,
+    39.181481
+],
   "geometry": {"coordinates":[-96.563479,39.181481],"type":"Point"}
 }

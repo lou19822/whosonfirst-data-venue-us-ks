@@ -2,13 +2,14 @@
   "id": 169612223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.630909,39.823608,-97.630909,39.823608",
     "geom:latitude":39.823608,
     "geom:longitude":-97.630909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 M St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169612223,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466519765,
     "wof:name":"Republic County Emergency Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "order"
     ]
 },
-  "bbox": [-97.630909,39.823608,-97.630909,39.823608],
+  "bbox": [
+    -97.630909,
+    39.823608,
+    -97.630909,
+    39.823608
+],
   "geometry": {"coordinates":[-97.630909,39.823608],"type":"Point"}
 }

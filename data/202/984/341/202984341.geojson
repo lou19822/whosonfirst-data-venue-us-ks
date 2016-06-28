@@ -2,13 +2,14 @@
   "id": 202984341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.186907,37.673295,-97.186907,37.673295",
     "geom:latitude":37.673295,
     "geom:longitude":-97.186907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 S Peckham Ct",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202984341,
-    "wof:lastmodified":1449061540,
+    "wof:lastmodified":1466520345,
     "wof:name":"Jones Carpet Upholstery Clea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.186907,37.673295,-97.186907,37.673295],
-  "geometry": {"coordinates":[-97.186907,37.673295],"type":"Point"}
+  "bbox": [
+    -97.186907,
+    37.673295,
+    -97.186907,
+    37.673295
+],
+  "geometry": {"coordinates":[-97.18690700000001,37.673295],"type":"Point"}
 }

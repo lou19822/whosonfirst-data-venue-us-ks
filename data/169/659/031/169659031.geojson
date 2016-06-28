@@ -2,13 +2,14 @@
   "id": 169659031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.397943,37.266724,-97.397943,37.266724",
     "geom:latitude":37.266724,
     "geom:longitude":-97.397943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Washington Ave",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169659031,
-    "wof:lastmodified":1449033029,
+    "wof:lastmodified":1466520399,
     "wof:name":"Wild About Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.397943,37.266724,-97.397943,37.266724],
+  "bbox": [
+    -97.397943,
+    37.266724,
+    -97.397943,
+    37.266724
+],
   "geometry": {"coordinates":[-97.397943,37.266724],"type":"Point"}
 }

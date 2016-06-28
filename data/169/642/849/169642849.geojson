@@ -2,13 +2,14 @@
   "id": 169642849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.2059,39.781701,-98.2059,39.781701",
     "geom:latitude":39.781701,
     "geom:longitude":-98.2059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 S Clinton St",
     "sg:city":"Mankato",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169642849,
-    "wof:lastmodified":1449032878,
+    "wof:lastmodified":1466520297,
     "wof:name":"Kents Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.2059,39.781701,-98.2059,39.781701],
+  "bbox": [
+    -98.2059,
+    39.781701,
+    -98.2059,
+    39.781701
+],
   "geometry": {"coordinates":[-98.2059,39.781701],"type":"Point"}
 }

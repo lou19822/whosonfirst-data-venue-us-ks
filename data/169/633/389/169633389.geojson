@@ -2,13 +2,14 @@
   "id": 169633389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.767511,38.910546,-94.767511,38.910546",
     "geom:latitude":38.910546,
     "geom:longitude":-94.767511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11957 S Strang Line Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169633389,
-    "wof:lastmodified":1449035940,
+    "wof:lastmodified":1466520195,
     "wof:name":"Fookee Chinese Buffet",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.767511,38.910546,-94.767511,38.910546],
+  "bbox": [
+    -94.767511,
+    38.910546,
+    -94.767511,
+    38.910546
+],
   "geometry": {"coordinates":[-94.767511,38.910546],"type":"Point"}
 }

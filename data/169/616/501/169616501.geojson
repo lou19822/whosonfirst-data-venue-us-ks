@@ -2,13 +2,14 @@
   "id": 169616501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.829796,38.887385,-94.829796,38.887385",
     "geom:latitude":38.887385,
     "geom:longitude":-94.829796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 W Spruce St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169616501,
-    "wof:lastmodified":1449035103,
+    "wof:lastmodified":1466519866,
     "wof:name":"Diamond T Productions",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-94.829796,38.887385,-94.829796,38.887385],
+  "bbox": [
+    -94.829796,
+    38.887385,
+    -94.829796,
+    38.887385
+],
   "geometry": {"coordinates":[-94.829796,38.887385],"type":"Point"}
 }

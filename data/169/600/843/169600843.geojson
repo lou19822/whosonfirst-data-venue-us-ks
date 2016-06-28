@@ -2,13 +2,14 @@
   "id": 169600843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.043849,37.731227,-97.043849,37.731227",
     "geom:latitude":37.731227,
     "geom:longitude":-97.043849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6333 SW Santa Fe Lake Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169600843,
-    "wof:lastmodified":1449032970,
+    "wof:lastmodified":1466519455,
     "wof:name":"RTI",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.043849,37.731227,-97.043849,37.731227],
-  "geometry": {"coordinates":[-97.043849,37.731227],"type":"Point"}
+  "bbox": [
+    -97.043849,
+    37.731227,
+    -97.043849,
+    37.731227
+],
+  "geometry": {"coordinates":[-97.04384899999999,37.731227],"type":"Point"}
 }

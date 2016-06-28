@@ -2,13 +2,14 @@
   "id": 169629347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.686241,37.41742,-95.686241,37.41742",
     "geom:latitude":37.41742,
     "geom:longitude":-95.686241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Main St",
     "sg:city":"Neodesha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169629347,
-    "wof:lastmodified":1449035184,
+    "wof:lastmodified":1466520131,
     "wof:name":"Bailey Oil Com Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-95.686241,37.41742,-95.686241,37.41742],
+  "bbox": [
+    -95.686241,
+    37.41742,
+    -95.686241,
+    37.41742
+],
   "geometry": {"coordinates":[-95.686241,37.41742],"type":"Point"}
 }

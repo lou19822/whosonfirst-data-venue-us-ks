@@ -2,13 +2,14 @@
   "id": 202974821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.704849,37.416061,-94.704849,37.416061",
     "geom:latitude":37.416061,
     "geom:longitude":-94.704849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Broadway St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202974821,
-    "wof:lastmodified":1449062326,
+    "wof:lastmodified":1466520332,
     "wof:name":"Kansasland Tire",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-94.704849,37.416061,-94.704849,37.416061],
+  "bbox": [
+    -94.704849,
+    37.416061,
+    -94.704849,
+    37.416061
+],
   "geometry": {"coordinates":[-94.704849,37.416061],"type":"Point"}
 }

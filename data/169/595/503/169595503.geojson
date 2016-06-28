@@ -2,13 +2,14 @@
   "id": 169595503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.338108,37.686942,-97.338108,37.686942",
     "geom:latitude":37.686942,
     "geom:longitude":-97.338108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 N Main St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169595503,
-    "wof:lastmodified":1449035639,
+    "wof:lastmodified":1466529863,
     "wof:name":"Star Business Svc LTD",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-97.338108,37.686942,-97.338108,37.686942],
-  "geometry": {"coordinates":[-97.338108,37.686942],"type":"Point"}
+  "bbox": [
+    -97.338108,
+    37.686942,
+    -97.338108,
+    37.686942
+],
+  "geometry": {"coordinates":[-97.33810800000001,37.686942],"type":"Point"}
 }

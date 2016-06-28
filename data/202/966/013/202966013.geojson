@@ -2,13 +2,14 @@
   "id": 202966013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.721937,39.00723,-95.721937,39.00723",
     "geom:latitude":39.00723,
     "geom:longitude":-95.721937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3522 SW 33rd Ter",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202966013,
-    "wof:lastmodified":1449060127,
+    "wof:lastmodified":1466529897,
     "wof:name":"The Pet Lady",
     "wof:parent_id":85881549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cat"
     ]
 },
-  "bbox": [-95.721937,39.00723,-95.721937,39.00723],
+  "bbox": [
+    -95.721937,
+    39.00723,
+    -95.721937,
+    39.00723
+],
   "geometry": {"coordinates":[-95.721937,39.00723],"type":"Point"}
 }

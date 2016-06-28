@@ -2,13 +2,14 @@
   "id": 202951783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.742233,38.949299,-94.742233,38.949299",
     "geom:latitude":38.949299,
     "geom:longitude":-94.742233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9898 Pflumm Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202951783,
-    "wof:lastmodified":1449060206,
+    "wof:lastmodified":1466520162,
     "wof:name":"Apcompower Inc.",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "heating"
     ]
 },
-  "bbox": [-94.742233,38.949299,-94.742233,38.949299],
+  "bbox": [
+    -94.742233,
+    38.949299,
+    -94.742233,
+    38.949299
+],
   "geometry": {"coordinates":[-94.742233,38.949299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169670323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.938894,38.031664,-97.938894,38.031664",
     "geom:latitude":38.031664,
     "geom:longitude":-97.938894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E 3rd Ave",
     "sg:city":"Hutchinson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169670323,
-    "wof:lastmodified":1449033184,
+    "wof:lastmodified":1466520470,
     "wof:name":"S B S Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.938894,38.031664,-97.938894,38.031664],
+  "bbox": [
+    -97.938894,
+    38.031664,
+    -97.938894,
+    38.031664
+],
   "geometry": {"coordinates":[-97.938894,38.031664],"type":"Point"}
 }

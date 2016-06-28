@@ -2,13 +2,14 @@
   "id": 169614327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.632194,39.986829,-96.632194,39.986829",
     "geom:latitude":39.986829,
     "geom:longitude":-96.632194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Arrowhead Rd",
     "sg:city":"Oketo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169614327,
-    "wof:lastmodified":1449036057,
+    "wof:lastmodified":1466519811,
     "wof:name":"Creative Evangelism Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.632194,39.986829,-96.632194,39.986829],
+  "bbox": [
+    -96.632194,
+    39.986829,
+    -96.632194,
+    39.986829
+],
   "geometry": {"coordinates":[-96.632194,39.986829],"type":"Point"}
 }

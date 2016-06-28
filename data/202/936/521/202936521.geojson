@@ -2,13 +2,14 @@
   "id": 202936521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.85376,38.464679,-94.85376,38.464679",
     "geom:latitude":38.464679,
     "geom:longitude":-94.85376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36597 Hedge Ln",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202936521,
-    "wof:lastmodified":1449060957,
+    "wof:lastmodified":1466519864,
     "wof:name":"Fletcher Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.85376,38.464679,-94.85376,38.464679],
-  "geometry": {"coordinates":[-94.85376,38.464679],"type":"Point"}
+  "bbox": [
+    -94.85376,
+    38.464679,
+    -94.85376,
+    38.464679
+],
+  "geometry": {"coordinates":[-94.85375999999999,38.464679],"type":"Point"}
 }

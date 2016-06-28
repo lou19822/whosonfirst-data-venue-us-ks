@@ -2,13 +2,14 @@
   "id": 169630073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.43522,37.766387,-97.43522,37.766387",
     "geom:latitude":37.766387,
     "geom:longitude":-97.43522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 W 45th St N",
     "sg:city":"Maize",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169630073,
-    "wof:lastmodified":1449033867,
+    "wof:lastmodified":1466520126,
     "wof:name":"Maize Airport Inc",
     "wof:parent_id":85872803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.43522,37.766387,-97.43522,37.766387],
+  "bbox": [
+    -97.43522,
+    37.766387,
+    -97.43522,
+    37.766387
+],
   "geometry": {"coordinates":[-97.43522,37.766387],"type":"Point"}
 }

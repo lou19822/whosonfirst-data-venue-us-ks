@@ -2,13 +2,14 @@
   "id": 169622421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.754006,37.999539,-98.754006,37.999539",
     "geom:latitude":37.999539,
     "geom:longitude":-98.754006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 E 1st Ave",
     "sg:city":"St John",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169622421,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466519991,
     "wof:name":"St John Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-98.754006,37.999539,-98.754006,37.999539],
+  "bbox": [
+    -98.754006,
+    37.999539,
+    -98.754006,
+    37.999539
+],
   "geometry": {"coordinates":[-98.754006,37.999539],"type":"Point"}
 }

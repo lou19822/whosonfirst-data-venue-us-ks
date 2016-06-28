@@ -2,13 +2,14 @@
   "id": 202947063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.610832,39.041151,-94.610832,39.041151",
     "geom:latitude":39.041151,
     "geom:longitude":-94.610832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 W 48th St",
     "sg:city":"Westwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202947063,
-    "wof:lastmodified":1449061935,
+    "wof:lastmodified":1466520100,
     "wof:name":"Reeds Woodworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.610832,39.041151,-94.610832,39.041151],
+  "bbox": [
+    -94.610832,
+    39.041151,
+    -94.610832,
+    39.041151
+],
   "geometry": {"coordinates":[-94.610832,39.041151],"type":"Point"}
 }

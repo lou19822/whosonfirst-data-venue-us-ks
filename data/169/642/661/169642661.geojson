@@ -2,13 +2,14 @@
   "id": 169642661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.450572,38.608534,-95.450572,38.608534",
     "geom:latitude":38.608534,
     "geom:longitude":-95.450572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Franklin St",
     "sg:city":"Pomona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169642661,
-    "wof:lastmodified":1449032879,
+    "wof:lastmodified":1466520291,
     "wof:name":"Cindy's Dairy Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.450572,38.608534,-95.450572,38.608534],
-  "geometry": {"coordinates":[-95.450572,38.608534],"type":"Point"}
+  "bbox": [
+    -95.450572,
+    38.608534,
+    -95.450572,
+    38.608534
+],
+  "geometry": {"coordinates":[-95.45057199999999,38.608534],"type":"Point"}
 }

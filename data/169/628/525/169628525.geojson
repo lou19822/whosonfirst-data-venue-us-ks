@@ -2,13 +2,14 @@
   "id": 169628525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.97807,39.725879,-96.97807,39.725879",
     "geom:latitude":39.725879,
     "geom:longitude":-96.97807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 5th St",
     "sg:city":"Greenleaf",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169628525,
-    "wof:lastmodified":1449035336,
+    "wof:lastmodified":1466520098,
     "wof:name":"Ward Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-96.97807,39.725879,-96.97807,39.725879],
+  "bbox": [
+    -96.97807,
+    39.725879,
+    -96.97807,
+    39.725879
+],
   "geometry": {"coordinates":[-96.97807,39.725879],"type":"Point"}
 }

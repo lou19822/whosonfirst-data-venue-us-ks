@@ -2,13 +2,14 @@
   "id": 202935523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.763578,38.912682,-94.763578,38.912682",
     "geom:latitude":38.912682,
     "geom:longitude":-94.763578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15345 W 119th St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202935523,
-    "wof:lastmodified":1449062216,
+    "wof:lastmodified":1466519867,
     "wof:name":"Super Target Store",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-94.763578,38.912682,-94.763578,38.912682],
+  "bbox": [
+    -94.763578,
+    38.912682,
+    -94.763578,
+    38.912682
+],
   "geometry": {"coordinates":[-94.763578,38.912682],"type":"Point"}
 }

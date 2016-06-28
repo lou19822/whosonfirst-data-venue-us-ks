@@ -2,13 +2,14 @@
   "id": 169639391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.854496,38.883261,-98.854496,38.883261",
     "geom:latitude":38.883261,
     "geom:longitude":-98.854496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 S Front St",
     "sg:city":"Russell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169639391,
-    "wof:lastmodified":1449035950,
+    "wof:lastmodified":1466520253,
     "wof:name":"A A Village Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.854496,38.883261,-98.854496,38.883261],
+  "bbox": [
+    -98.854496,
+    38.883261,
+    -98.854496,
+    38.883261
+],
   "geometry": {"coordinates":[-98.854496,38.883261],"type":"Point"}
 }

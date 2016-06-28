@@ -2,13 +2,14 @@
   "id": 202925113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.921085,39.318054,-94.921085,39.318054",
     "geom:latitude":39.318054,
     "geom:longitude":-94.921085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Shawnee St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202925113,
-    "wof:lastmodified":1449060133,
+    "wof:lastmodified":1466519684,
     "wof:name":"Vetter's Collision Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-94.921085,39.318054,-94.921085,39.318054],
-  "geometry": {"coordinates":[-94.921085,39.318054],"type":"Point"}
+  "bbox": [
+    -94.921085,
+    39.318054,
+    -94.921085,
+    39.318054
+],
+  "geometry": {"coordinates":[-94.92108500000001,39.318054],"type":"Point"}
 }

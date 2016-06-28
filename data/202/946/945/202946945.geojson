@@ -2,13 +2,14 @@
   "id": 202946945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.617681,39.030039,-94.617681,39.030039",
     "geom:latitude":39.030039,
     "geom:longitude":-94.617681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5514 Norwood St",
     "sg:city":"Fairway",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202946945,
-    "wof:lastmodified":1449062343,
+    "wof:lastmodified":1466520111,
     "wof:name":"Smith Brothers Lawn & Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "landscape"
     ]
 },
-  "bbox": [-94.617681,39.030039,-94.617681,39.030039],
+  "bbox": [
+    -94.617681,
+    39.030039,
+    -94.617681,
+    39.030039
+],
   "geometry": {"coordinates":[-94.617681,39.030039],"type":"Point"}
 }

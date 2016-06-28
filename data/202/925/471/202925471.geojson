@@ -2,13 +2,14 @@
   "id": 202925471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.89444,39.272648,-94.89444,39.272648",
     "geom:latitude":39.272648,
     "geom:longitude":-94.89444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4651 Brewer Pl",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202925471,
-    "wof:lastmodified":1449060132,
+    "wof:lastmodified":1466519697,
     "wof:name":"Crockett Electric Co.",
     "wof:parent_id":85811613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "system"
     ]
 },
-  "bbox": [-94.89444,39.272648,-94.89444,39.272648],
+  "bbox": [
+    -94.89444,
+    39.272648,
+    -94.89444,
+    39.272648
+],
   "geometry": {"coordinates":[-94.89444,39.272648],"type":"Point"}
 }

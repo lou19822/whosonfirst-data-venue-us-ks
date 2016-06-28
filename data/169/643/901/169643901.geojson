@@ -2,13 +2,14 @@
   "id": 169643901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.879662,38.574746,-94.879662,38.574746",
     "geom:latitude":38.574746,
     "geom:longitude":-94.879662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Kaskaskia St",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169643901,
-    "wof:lastmodified":1449035523,
+    "wof:lastmodified":1466520317,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.879662,38.574746,-94.879662,38.574746],
+  "bbox": [
+    -94.879662,
+    38.574746,
+    -94.879662,
+    38.574746
+],
   "geometry": {"coordinates":[-94.879662,38.574746],"type":"Point"}
 }

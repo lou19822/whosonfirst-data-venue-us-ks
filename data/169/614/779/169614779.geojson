@@ -2,13 +2,14 @@
   "id": 169614779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.553148,39.204498,-96.553148,39.204498",
     "geom:latitude":39.204498,
     "geom:longitude":-96.553148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Patricia Pl",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169614779,
-    "wof:lastmodified":1449036058,
+    "wof:lastmodified":1466519833,
     "wof:name":"Midland Mobile Home Svc & Supl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-96.553148,39.204498,-96.553148,39.204498],
-  "geometry": {"coordinates":[-96.553148,39.204498],"type":"Point"}
+  "bbox": [
+    -96.553148,
+    39.204498,
+    -96.553148,
+    39.204498
+],
+  "geometry": {"coordinates":[-96.55314799999999,39.204498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169670321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.082551,37.601835,-95.082551,37.601835",
     "geom:latitude":37.601835,
     "geom:longitude":-95.082551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Front St",
     "sg:city":"Walnut",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169670321,
-    "wof:lastmodified":1449033184,
+    "wof:lastmodified":1466520469,
     "wof:name":"Walnut Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-95.082551,37.601835,-95.082551,37.601835],
+  "bbox": [
+    -95.082551,
+    37.601835,
+    -95.082551,
+    37.601835
+],
   "geometry": {"coordinates":[-95.082551,37.601835],"type":"Point"}
 }

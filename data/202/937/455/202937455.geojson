@@ -2,13 +2,14 @@
   "id": 202937455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.872194,38.5845,-94.872194,38.5845",
     "geom:latitude":38.5845,
     "geom:longitude":-94.872194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Brookside Dr",
     "sg:city":"Paola",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202937455,
-    "wof:lastmodified":1449060590,
+    "wof:lastmodified":1466519891,
     "wof:name":"Mirable Home Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "patio"
     ]
 },
-  "bbox": [-94.872194,38.5845,-94.872194,38.5845],
-  "geometry": {"coordinates":[-94.872194,38.5845],"type":"Point"}
+  "bbox": [
+    -94.872194,
+    38.5845,
+    -94.872194,
+    38.5845
+],
+  "geometry": {"coordinates":[-94.87219399999999,38.5845],"type":"Point"}
 }

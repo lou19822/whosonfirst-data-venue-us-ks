@@ -2,13 +2,14 @@
   "id": 202954767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.827984,39.033121,-94.827984,39.033121",
     "geom:latitude":39.033121,
     "geom:longitude":-94.827984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20902 W 52nd Ter",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202954767,
-    "wof:lastmodified":1449062327,
+    "wof:lastmodified":1466520191,
     "wof:name":"Jones Eng Consultant Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-94.827984,39.033121,-94.827984,39.033121],
+  "bbox": [
+    -94.827984,
+    39.033121,
+    -94.827984,
+    39.033121
+],
   "geometry": {"coordinates":[-94.827984,39.033121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202928559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.911027,39.318497,-94.911027,39.318497",
     "geom:latitude":39.318497,
     "geom:longitude":-94.911027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Delaware St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202928559,
-    "wof:lastmodified":1449062304,
+    "wof:lastmodified":1466519716,
     "wof:name":"American Family Insurance- Brett Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-94.911027,39.318497,-94.911027,39.318497],
+  "bbox": [
+    -94.911027,
+    39.318497,
+    -94.911027,
+    39.318497
+],
   "geometry": {"coordinates":[-94.911027,39.318497],"type":"Point"}
 }

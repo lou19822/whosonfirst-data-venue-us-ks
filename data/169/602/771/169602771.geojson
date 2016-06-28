@@ -2,13 +2,14 @@
   "id": 169602771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.862425,39.126486,-100.862425,39.126486",
     "geom:latitude":39.126486,
     "geom:longitude":-100.862425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W 2nd St",
     "sg:city":"Oakley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169602771,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466519495,
     "wof:name":"Oakley Wesleyan Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.862425,39.126486,-100.862425,39.126486],
+  "bbox": [
+    -100.862425,
+    39.126486,
+    -100.862425,
+    39.126486
+],
   "geometry": {"coordinates":[-100.862425,39.126486],"type":"Point"}
 }

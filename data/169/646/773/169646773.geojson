@@ -2,13 +2,14 @@
   "id": 169646773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.349127,39.244768,-96.349127,39.244768",
     "geom:latitude":39.244768,
     "geom:longitude":-96.349127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15905 Stoneybrick Dr",
     "sg:city":"Wamego",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169646773,
-    "wof:lastmodified":1449032605,
+    "wof:lastmodified":1466520336,
     "wof:name":"Electrical Concepts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.349127,39.244768,-96.349127,39.244768],
+  "bbox": [
+    -96.349127,
+    39.244768,
+    -96.349127,
+    39.244768
+],
   "geometry": {"coordinates":[-96.349127,39.244768],"type":"Point"}
 }

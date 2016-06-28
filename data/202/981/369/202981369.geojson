@@ -2,13 +2,14 @@
   "id": 202981369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.323697,37.6822,-97.323697,37.6822",
     "geom:latitude":37.6822,
     "geom:longitude":-97.323697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Laura St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202981369,
-    "wof:lastmodified":1449062703,
+    "wof:lastmodified":1466520360,
     "wof:name":"Plumbing Association of Central Kansas",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-97.323697,37.6822,-97.323697,37.6822],
+  "bbox": [
+    -97.323697,
+    37.6822,
+    -97.323697,
+    37.6822
+],
   "geometry": {"coordinates":[-97.323697,37.6822],"type":"Point"}
 }

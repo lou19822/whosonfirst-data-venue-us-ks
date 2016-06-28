@@ -2,13 +2,14 @@
   "id": 169602299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.026508,38.057543,-97.026508,38.057543",
     "geom:latitude":38.057543,
     "geom:longitude":-97.026508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10116 NW 160th St",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169602299,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466519475,
     "wof:name":"Graber Backhoe Inc",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.026508,38.057543,-97.026508,38.057543],
-  "geometry": {"coordinates":[-97.026508,38.057543],"type":"Point"}
+  "bbox": [
+    -97.026508,
+    38.057543,
+    -97.026508,
+    38.057543
+],
+  "geometry": {"coordinates":[-97.02650800000001,38.057543],"type":"Point"}
 }

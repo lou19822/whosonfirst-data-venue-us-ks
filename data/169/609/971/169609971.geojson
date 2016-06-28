@@ -2,13 +2,14 @@
   "id": 169609971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.703933,39.043923,-94.703933,39.043923",
     "geom:latitude":39.043923,
     "geom:longitude":-94.703933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10201 W 47th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169609971,
-    "wof:lastmodified":1449033921,
+    "wof:lastmodified":1466519706,
     "wof:name":"Juan Miguel Inc",
     "wof:parent_id":85879555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-94.703933,39.043923,-94.703933,39.043923],
-  "geometry": {"coordinates":[-94.703933,39.043923],"type":"Point"}
+  "bbox": [
+    -94.703933,
+    39.043923,
+    -94.703933,
+    39.043923
+],
+  "geometry": {"coordinates":[-94.70393300000001,39.043923],"type":"Point"}
 }

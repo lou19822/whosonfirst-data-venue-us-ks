@@ -2,13 +2,14 @@
   "id": 169612699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.611382,38.841486,-97.611382,38.841486",
     "geom:latitude":38.841486,
     "geom:longitude":-97.611382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 N 8th St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169612699,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466519785,
     "wof:name":"Robert Pruett Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.611382,38.841486,-97.611382,38.841486],
-  "geometry": {"coordinates":[-97.611382,38.841486],"type":"Point"}
+  "bbox": [
+    -97.611382,
+    38.841486,
+    -97.611382,
+    38.841486
+],
+  "geometry": {"coordinates":[-97.61138200000001,38.841486],"type":"Point"}
 }

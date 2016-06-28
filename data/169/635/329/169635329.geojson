@@ -2,13 +2,14 @@
   "id": 169635329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.871524,38.884076,-94.871524,38.884076",
     "geom:latitude":38.884076,
     "geom:longitude":-94.871524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13465 S Lakeshore Dr",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169635329,
-    "wof:lastmodified":1449034098,
+    "wof:lastmodified":1466520209,
     "wof:name":"Ames Residential Inspection",
     "wof:parent_id":85812711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [-94.871524,38.884076,-94.871524,38.884076],
-  "geometry": {"coordinates":[-94.871524,38.884076],"type":"Point"}
+  "bbox": [
+    -94.871524,
+    38.884076,
+    -94.871524,
+    38.884076
+],
+  "geometry": {"coordinates":[-94.87152399999999,38.884076],"type":"Point"}
 }

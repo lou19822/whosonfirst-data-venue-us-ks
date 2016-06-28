@@ -2,13 +2,14 @@
   "id": 202947511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.636554,39.027702,-94.636554,39.027702",
     "geom:latitude":39.027702,
     "geom:longitude":-94.636554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4330 Shawnee Mission Pkwy",
     "sg:city":"Fairway",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202947511,
-    "wof:lastmodified":1449061937,
+    "wof:lastmodified":1466520109,
     "wof:name":"Compresults",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "referral"
     ]
 },
-  "bbox": [-94.636554,39.027702,-94.636554,39.027702],
+  "bbox": [
+    -94.636554,
+    39.027702,
+    -94.636554,
+    39.027702
+],
   "geometry": {"coordinates":[-94.636554,39.027702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202980119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.338176,37.700745,-97.338176,37.700745",
     "geom:latitude":37.700745,
     "geom:longitude":-97.338176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 N Main St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202980119,
-    "wof:lastmodified":1449060281,
+    "wof:lastmodified":1466520342,
     "wof:name":"Dewey & Lund LLP",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-97.338176,37.700745,-97.338176,37.700745],
+  "bbox": [
+    -97.338176,
+    37.700745,
+    -97.338176,
+    37.700745
+],
   "geometry": {"coordinates":[-97.338176,37.700745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202917733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.717295,38.726882,-94.717295,38.726882",
     "geom:latitude":38.726882,
     "geom:longitude":-94.717295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Elm St",
     "sg:city":"Bucyrus",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202917733,
-    "wof:lastmodified":1449062319,
+    "wof:lastmodified":1466519475,
     "wof:name":"Dulaney Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.717295,38.726882,-94.717295,38.726882],
-  "geometry": {"coordinates":[-94.717295,38.726882],"type":"Point"}
+  "bbox": [
+    -94.717295,
+    38.726882,
+    -94.717295,
+    38.726882
+],
+  "geometry": {"coordinates":[-94.71729499999999,38.726882],"type":"Point"}
 }

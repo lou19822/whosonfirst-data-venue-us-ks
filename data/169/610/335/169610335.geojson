@@ -2,13 +2,14 @@
   "id": 169610335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.017595,37.763058,-100.017595,37.763058",
     "geom:latitude":37.763058,
     "geom:longitude":-100.017595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W Mulberry St",
     "sg:city":"Dodge City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169610335,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466519709,
     "wof:name":"Jan's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-100.017595,37.763058,-100.017595,37.763058],
+  "bbox": [
+    -100.017595,
+    37.763058,
+    -100.017595,
+    37.763058
+],
   "geometry": {"coordinates":[-100.017595,37.763058],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202956467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.560355,39.17934,-96.560355,39.17934",
     "geom:latitude":39.17934,
     "geom:longitude":-96.560355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 E Poyntz Ave",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202956467,
-    "wof:lastmodified":1449060528,
+    "wof:lastmodified":1466520183,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "car"
     ]
 },
-  "bbox": [-96.560355,39.17934,-96.560355,39.17934],
+  "bbox": [
+    -96.560355,
+    39.17934,
+    -96.560355,
+    39.17934
+],
   "geometry": {"coordinates":[-96.560355,39.17934],"type":"Point"}
 }

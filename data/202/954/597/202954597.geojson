@@ -2,13 +2,14 @@
   "id": 202954597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.822277,39.029301,-94.822277,39.029301",
     "geom:latitude":39.029301,
     "geom:longitude":-94.822277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5425 Martindale Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202954597,
-    "wof:lastmodified":1449062330,
+    "wof:lastmodified":1466520185,
     "wof:name":"All Modes Transport Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-94.822277,39.029301,-94.822277,39.029301],
+  "bbox": [
+    -94.822277,
+    39.029301,
+    -94.822277,
+    39.029301
+],
   "geometry": {"coordinates":[-94.822277,39.029301],"type":"Point"}
 }

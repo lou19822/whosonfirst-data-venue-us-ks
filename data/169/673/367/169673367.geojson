@@ -2,13 +2,14 @@
   "id": 169673367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.262153,37.679041,-97.262153,37.679041",
     "geom:latitude":37.679041,
     "geom:longitude":-97.262153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 E Kellogg Dr S",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169673367,
-    "wof:lastmodified":1449033958,
+    "wof:lastmodified":1466520498,
     "wof:name":"Mz-Motorrad Motorcycles Atvs",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-97.262153,37.679041,-97.262153,37.679041],
+  "bbox": [
+    -97.262153,
+    37.679041,
+    -97.262153,
+    37.679041
+],
   "geometry": {"coordinates":[-97.262153,37.679041],"type":"Point"}
 }

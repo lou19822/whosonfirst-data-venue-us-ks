@@ -2,13 +2,14 @@
   "id": 169652837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.113134,37.643951,-98.113134,37.643951",
     "geom:latitude":37.643951,
     "geom:longitude":-98.113134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 N Main St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169652837,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466520394,
     "wof:name":"Interiors By Mary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drapery"
     ]
 },
-  "bbox": [-98.113134,37.643951,-98.113134,37.643951],
+  "bbox": [
+    -98.113134,
+    37.643951,
+    -98.113134,
+    37.643951
+],
   "geometry": {"coordinates":[-98.113134,37.643951],"type":"Point"}
 }

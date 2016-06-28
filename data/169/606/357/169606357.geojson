@@ -2,13 +2,14 @@
   "id": 169606357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.636824,39.839943,-96.636824,39.839943",
     "geom:latitude":39.839943,
     "geom:longitude":-96.636824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S 17th St",
     "sg:city":"Marysville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169606357,
-    "wof:lastmodified":1449033202,
+    "wof:lastmodified":1466519569,
     "wof:name":"Good Shepherd Lutheran School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.636824,39.839943,-96.636824,39.839943],
+  "bbox": [
+    -96.636824,
+    39.839943,
+    -96.636824,
+    39.839943
+],
   "geometry": {"coordinates":[-96.636824,39.839943],"type":"Point"}
 }

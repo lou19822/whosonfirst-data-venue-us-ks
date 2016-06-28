@@ -2,13 +2,14 @@
   "id": 202941757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.170449,39.834682,-95.170449,39.834682",
     "geom:latitude":39.834682,
     "geom:longitude":-95.170449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 225th Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202941757,
-    "wof:lastmodified":1449061632,
+    "wof:lastmodified":1466519996,
     "wof:name":"Countryside Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "new"
     ]
 },
-  "bbox": [-95.170449,39.834682,-95.170449,39.834682],
+  "bbox": [
+    -95.170449,
+    39.834682,
+    -95.170449,
+    39.834682
+],
   "geometry": {"coordinates":[-95.170449,39.834682],"type":"Point"}
 }

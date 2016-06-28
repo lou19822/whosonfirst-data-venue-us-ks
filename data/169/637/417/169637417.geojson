@@ -2,13 +2,14 @@
   "id": 169637417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.688974,37.455013,-94.688974,37.455013",
     "geom:latitude":37.455013,
     "geom:longitude":-94.688974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Crawford St",
     "sg:city":"Frontenac",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169637417,
-    "wof:lastmodified":1449032688,
+    "wof:lastmodified":1466520238,
     "wof:name":"Frontenac Senior Citizen Ctr",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-94.688974,37.455013,-94.688974,37.455013],
+  "bbox": [
+    -94.688974,
+    37.455013,
+    -94.688974,
+    37.455013
+],
   "geometry": {"coordinates":[-94.688974,37.455013],"type":"Point"}
 }

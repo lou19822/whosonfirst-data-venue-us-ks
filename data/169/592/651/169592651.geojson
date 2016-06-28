@@ -2,13 +2,14 @@
   "id": 169592651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.67433,38.981538,-94.67433,38.981538",
     "geom:latitude":38.981538,
     "geom:longitude":-94.67433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8125 Santa Fe Dr",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169592651,
-    "wof:lastmodified":1449034581,
+    "wof:lastmodified":1466520175,
     "wof:name":"Kenmark Inc",
     "wof:parent_id":85879559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.67433,38.981538,-94.67433,38.981538],
+  "bbox": [
+    -94.67433,
+    38.981538,
+    -94.67433,
+    38.981538
+],
   "geometry": {"coordinates":[-94.67433,38.981538],"type":"Point"}
 }

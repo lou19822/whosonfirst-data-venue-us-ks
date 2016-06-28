@@ -2,13 +2,14 @@
   "id": 169651077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.260444,38.979206,-95.260444,38.979206",
     "geom:latitude":38.979206,
     "geom:longitude":-95.260444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Iowa St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169651077,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1466520360,
     "wof:name":"US Army National Guard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-95.260444,38.979206,-95.260444,38.979206],
-  "geometry": {"coordinates":[-95.260444,38.979206],"type":"Point"}
+  "bbox": [
+    -95.260444,
+    38.979206,
+    -95.260444,
+    38.979206
+],
+  "geometry": {"coordinates":[-95.26044400000001,38.979206],"type":"Point"}
 }

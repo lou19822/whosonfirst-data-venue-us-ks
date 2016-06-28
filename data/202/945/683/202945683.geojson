@@ -2,13 +2,14 @@
   "id": 202945683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.695866,38.996614,-94.695866,38.996614",
     "geom:latitude":38.996614,
     "geom:longitude":-94.695866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 Frontage Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202945683,
-    "wof:lastmodified":1449060331,
+    "wof:lastmodified":1466520112,
     "wof:name":"Eveland Bros Collision Repair",
     "wof:parent_id":85879543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.695866,38.996614,-94.695866,38.996614],
+  "bbox": [
+    -94.695866,
+    38.996614,
+    -94.695866,
+    38.996614
+],
   "geometry": {"coordinates":[-94.695866,38.996614],"type":"Point"}
 }

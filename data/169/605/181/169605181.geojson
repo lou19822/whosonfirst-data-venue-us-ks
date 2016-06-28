@@ -2,13 +2,14 @@
   "id": 169605181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.684346,38.610068,-95.684346,38.610068",
     "geom:latitude":38.610068,
     "geom:longitude":-95.684346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Topeka Ave",
     "sg:city":"Lyndon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169605181,
-    "wof:lastmodified":1449034288,
+    "wof:lastmodified":1466519511,
     "wof:name":"Osage County Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "counsel"
     ]
 },
-  "bbox": [-95.684346,38.610068,-95.684346,38.610068],
-  "geometry": {"coordinates":[-95.684346,38.610068],"type":"Point"}
+  "bbox": [
+    -95.684346,
+    38.610068,
+    -95.684346,
+    38.610068
+],
+  "geometry": {"coordinates":[-95.68434600000001,38.610068],"type":"Point"}
 }

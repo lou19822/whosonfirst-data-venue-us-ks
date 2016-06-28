@@ -2,13 +2,14 @@
   "id": 337285747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.694079,37.458013,-94.694079,37.458013",
     "geom:latitude":37.458013,
     "geom:longitude":-94.694079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Carlton St",
     "sg:city":"Frontenac",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":337285747,
-    "wof:lastmodified":1449026956,
+    "wof:lastmodified":1466519419,
     "wof:name":"Zemlocks Farm",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-94.694079,37.458013,-94.694079,37.458013],
+  "bbox": [
+    -94.694079,
+    37.458013,
+    -94.694079,
+    37.458013
+],
   "geometry": {"coordinates":[-94.694079,37.458013],"type":"Point"}
 }

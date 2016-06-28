@@ -2,13 +2,14 @@
   "id": 169612393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.648986,39.016701,-94.648986,39.016701",
     "geom:latitude":39.016701,
     "geom:longitude":-94.648986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6299 Nall Ave",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169612393,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466519775,
     "wof:name":"Expert Internet Svc",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.648986,39.016701,-94.648986,39.016701],
-  "geometry": {"coordinates":[-94.648986,39.016701],"type":"Point"}
+  "bbox": [
+    -94.648986,
+    39.016701,
+    -94.648986,
+    39.016701
+],
+  "geometry": {"coordinates":[-94.64898599999999,39.016701],"type":"Point"}
 }

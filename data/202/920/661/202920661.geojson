@@ -2,13 +2,14 @@
   "id": 202920661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.899112,39.247977,-94.899112,39.247977",
     "geom:latitude":39.247977,
     "geom:longitude":-94.899112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Kay St",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202920661,
-    "wof:lastmodified":1449062084,
+    "wof:lastmodified":1466519550,
     "wof:name":"Apostolic Deliverance Tabernacle",
     "wof:parent_id":85844391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "denomination"
     ]
 },
-  "bbox": [-94.899112,39.247977,-94.899112,39.247977],
+  "bbox": [
+    -94.899112,
+    39.247977,
+    -94.899112,
+    39.247977
+],
   "geometry": {"coordinates":[-94.899112,39.247977],"type":"Point"}
 }

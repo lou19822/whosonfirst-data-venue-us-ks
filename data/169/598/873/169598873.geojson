@@ -2,13 +2,14 @@
   "id": 169598873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.726699,38.850962,-94.726699,38.850962",
     "geom:latitude":38.850962,
     "geom:longitude":-94.726699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15201 Monrovia St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169598873,
-    "wof:lastmodified":1449032859,
+    "wof:lastmodified":1466519453,
     "wof:name":"Morse Elementary School",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.726699,38.850962,-94.726699,38.850962],
+  "bbox": [
+    -94.726699,
+    38.850962,
+    -94.726699,
+    38.850962
+],
   "geometry": {"coordinates":[-94.726699,38.850962],"type":"Point"}
 }

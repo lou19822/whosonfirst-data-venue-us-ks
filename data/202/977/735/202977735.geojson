@@ -2,13 +2,14 @@
   "id": 202977735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.217323,37.60645,-97.217323,37.60645",
     "geom:latitude":37.60645,
     "geom:longitude":-97.217323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10413 E 47th St S",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202977735,
-    "wof:lastmodified":1449062731,
+    "wof:lastmodified":1466520337,
     "wof:name":"Darren Young's Custom Flooring",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.217323,37.60645,-97.217323,37.60645],
-  "geometry": {"coordinates":[-97.217323,37.60645],"type":"Point"}
+  "bbox": [
+    -97.217323,
+    37.60645,
+    -97.217323,
+    37.60645
+],
+  "geometry": {"coordinates":[-97.21732299999999,37.60645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169600333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.683844,39.02683,-95.683844,39.02683",
     "geom:latitude":39.02683,
     "geom:longitude":-95.683844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2348 Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169600333,
-    "wof:lastmodified":1449032972,
+    "wof:lastmodified":1466519430,
     "wof:name":"Educational Opportunities",
     "wof:parent_id":85881563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-95.683844,39.02683,-95.683844,39.02683],
-  "geometry": {"coordinates":[-95.683844,39.02683],"type":"Point"}
+  "bbox": [
+    -95.683844,
+    39.02683,
+    -95.683844,
+    39.02683
+],
+  "geometry": {"coordinates":[-95.68384399999999,39.02683],"type":"Point"}
 }

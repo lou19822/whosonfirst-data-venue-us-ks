@@ -2,13 +2,14 @@
   "id": 169598237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.728943,39.016036,-94.728943,39.016036",
     "geom:latitude":39.016036,
     "geom:longitude":-94.728943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12400 W 62nd Ter",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169598237,
-    "wof:lastmodified":1449032856,
+    "wof:lastmodified":1466519427,
     "wof:name":"LHD Construction Co Inc",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-94.728943,39.016036,-94.728943,39.016036],
+  "bbox": [
+    -94.728943,
+    39.016036,
+    -94.728943,
+    39.016036
+],
   "geometry": {"coordinates":[-94.728943,39.016036],"type":"Point"}
 }

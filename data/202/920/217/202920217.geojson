@@ -2,13 +2,14 @@
   "id": 202920217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.899929,39.261932,-94.899929,39.261932",
     "geom:latitude":39.261932,
     "geom:longitude":-94.899929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 N Main St",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202920217,
-    "wof:lastmodified":1449062085,
+    "wof:lastmodified":1466519526,
     "wof:name":"Lansing Liquor & Wine",
     "wof:parent_id":85844391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "store"
     ]
 },
-  "bbox": [-94.899929,39.261932,-94.899929,39.261932],
+  "bbox": [
+    -94.899929,
+    39.261932,
+    -94.899929,
+    39.261932
+],
   "geometry": {"coordinates":[-94.899929,39.261932],"type":"Point"}
 }

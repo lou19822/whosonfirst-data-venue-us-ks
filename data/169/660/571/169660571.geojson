@@ -2,13 +2,14 @@
   "id": 169660571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.062161,37.667126,-97.062161,37.667126",
     "geom:latitude":37.667126,
     "geom:longitude":-97.062161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10709 SW Tawakoni Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169660571,
-    "wof:lastmodified":1449035613,
+    "wof:lastmodified":1466520439,
     "wof:name":"Rupp Construction",
     "wof:parent_id":85834115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.062161,37.667126,-97.062161,37.667126],
+  "bbox": [
+    -97.062161,
+    37.667126,
+    -97.062161,
+    37.667126
+],
   "geometry": {"coordinates":[-97.062161,37.667126],"type":"Point"}
 }

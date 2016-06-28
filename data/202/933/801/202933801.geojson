@@ -2,13 +2,14 @@
   "id": 202933801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.832176,38.88372,-94.832176,38.88372",
     "geom:latitude":38.88372,
     "geom:longitude":-94.832176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 W Santa Fe St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202933801,
-    "wof:lastmodified":1449060632,
+    "wof:lastmodified":1466519800,
     "wof:name":"Boone Brothers Roofing",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.832176,38.88372,-94.832176,38.88372],
+  "bbox": [
+    -94.832176,
+    38.88372,
+    -94.832176,
+    38.88372
+],
   "geometry": {"coordinates":[-94.832176,38.88372],"type":"Point"}
 }

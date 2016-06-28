@@ -2,13 +2,14 @@
   "id": 202959815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.673427,39.051406,-95.673427,39.051406",
     "geom:latitude":39.051406,
     "geom:longitude":-95.673427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 S Kansas Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":202959815,
-    "wof:lastmodified":1449062392,
+    "wof:lastmodified":1466520222,
     "wof:name":"David's Jewelers",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "silver"
     ]
 },
-  "bbox": [-95.673427,39.051406,-95.673427,39.051406],
+  "bbox": [
+    -95.673427,
+    39.051406,
+    -95.673427,
+    39.051406
+],
   "geometry": {"coordinates":[-95.673427,39.051406],"type":"Point"}
 }

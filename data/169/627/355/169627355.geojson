@@ -2,13 +2,14 @@
   "id": 169627355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.253771,38.957141,-95.253771,38.957141",
     "geom:latitude":38.957141,
     "geom:longitude":-95.253771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 W 15th St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169627355,
-    "wof:lastmodified":1449036041,
+    "wof:lastmodified":1466520061,
     "wof:name":"Engineering Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.253771,38.957141,-95.253771,38.957141],
+  "bbox": [
+    -95.253771,
+    38.957141,
+    -95.253771,
+    38.957141
+],
   "geometry": {"coordinates":[-95.253771,38.957141],"type":"Point"}
 }

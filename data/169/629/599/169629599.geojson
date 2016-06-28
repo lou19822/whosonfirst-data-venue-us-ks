@@ -2,13 +2,14 @@
   "id": 169629599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.80336,39.903455,-95.80336,39.903455",
     "geom:latitude":39.903455,
     "geom:longitude":-95.80336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Main St",
     "sg:city":"Sabetha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169629599,
-    "wof:lastmodified":1449035183,
+    "wof:lastmodified":1466520138,
     "wof:name":"Sabetha Herald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-95.80336,39.903455,-95.80336,39.903455],
+  "bbox": [
+    -95.80336,
+    39.903455,
+    -95.80336,
+    39.903455
+],
   "geometry": {"coordinates":[-95.80336,39.903455],"type":"Point"}
 }

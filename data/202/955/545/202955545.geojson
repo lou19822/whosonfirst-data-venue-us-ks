@@ -2,13 +2,14 @@
   "id": 202955545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.859608,39.052127,-94.859608,39.052127",
     "geom:latitude":39.052127,
     "geom:longitude":-94.859608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Bonner Industrial Dr",
     "sg:city":"Shawnee",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202955545,
-    "wof:lastmodified":1449061847,
+    "wof:lastmodified":1466520184,
     "wof:name":"Reddi Services, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.859608,39.052127,-94.859608,39.052127],
-  "geometry": {"coordinates":[-94.859608,39.052127],"type":"Point"}
+  "bbox": [
+    -94.859608,
+    39.052127,
+    -94.859608,
+    39.052127
+],
+  "geometry": {"coordinates":[-94.85960799999999,39.052127],"type":"Point"}
 }

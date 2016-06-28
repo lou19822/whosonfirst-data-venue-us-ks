@@ -2,13 +2,14 @@
   "id": 169645593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.68703,38.93645,-95.68703,38.93645",
     "geom:latitude":38.93645,
     "geom:longitude":-95.68703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169645593,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466520322,
     "wof:name":"Anderson News Co",
     "wof:parent_id":85851947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-95.68703,38.93645,-95.68703,38.93645],
-  "geometry": {"coordinates":[-95.68703,38.93645],"type":"Point"}
+  "bbox": [
+    -95.68703,
+    38.93645,
+    -95.68703,
+    38.93645
+],
+  "geometry": {"coordinates":[-95.68702999999999,38.93645],"type":"Point"}
 }

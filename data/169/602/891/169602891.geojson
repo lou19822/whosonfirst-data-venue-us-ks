@@ -2,13 +2,14 @@
   "id": 169602891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.752276,38.951963,-94.752276,38.951963",
     "geom:latitude":38.951963,
     "geom:longitude":-94.752276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14300 W 97th Ter",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169602891,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466519501,
     "wof:name":"George Trible Co LLC",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.752276,38.951963,-94.752276,38.951963],
-  "geometry": {"coordinates":[-94.752276,38.951963],"type":"Point"}
+  "bbox": [
+    -94.752276,
+    38.951963,
+    -94.752276,
+    38.951963
+],
+  "geometry": {"coordinates":[-94.75227599999999,38.951963],"type":"Point"}
 }

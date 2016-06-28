@@ -2,13 +2,14 @@
   "id": 202966777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.772212,39.017642,-95.772212,39.017642",
     "geom:latitude":39.017642,
     "geom:longitude":-95.772212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6403 SW 27th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202966777,
-    "wof:lastmodified":1449060126,
+    "wof:lastmodified":1466520292,
     "wof:name":"Custom Carpet Care",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "carpet"
     ]
 },
-  "bbox": [-95.772212,39.017642,-95.772212,39.017642],
+  "bbox": [
+    -95.772212,
+    39.017642,
+    -95.772212,
+    39.017642
+],
   "geometry": {"coordinates":[-95.772212,39.017642],"type":"Point"}
 }

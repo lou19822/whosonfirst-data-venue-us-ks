@@ -2,13 +2,14 @@
   "id": 169644151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.660679,39.035432,-94.660679,39.035432",
     "geom:latitude":39.035432,
     "geom:longitude":-94.660679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5223 Walmer St",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169644151,
-    "wof:lastmodified":1449034573,
+    "wof:lastmodified":1466520290,
     "wof:name":"Fhi Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.660679,39.035432,-94.660679,39.035432],
+  "bbox": [
+    -94.660679,
+    39.035432,
+    -94.660679,
+    39.035432
+],
   "geometry": {"coordinates":[-94.660679,39.035432],"type":"Point"}
 }

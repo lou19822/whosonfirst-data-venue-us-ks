@@ -2,13 +2,14 @@
   "id": 169668651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.590072,39.185973,-96.590072,39.185973",
     "geom:latitude":39.185973,
     "geom:longitude":-96.590072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Anderson Ave",
     "sg:city":"Manhattan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169668651,
-    "wof:lastmodified":1449034988,
+    "wof:lastmodified":1466520477,
     "wof:name":"Charles Faulk Piano Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-96.590072,39.185973,-96.590072,39.185973],
-  "geometry": {"coordinates":[-96.590072,39.185973],"type":"Point"}
+  "bbox": [
+    -96.590072,
+    39.185973,
+    -96.590072,
+    39.185973
+],
+  "geometry": {"coordinates":[-96.59007200000001,39.185973],"type":"Point"}
 }

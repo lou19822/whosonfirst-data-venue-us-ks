@@ -2,13 +2,14 @@
   "id": 169647359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.262376,37.339474,-95.262376,37.339474",
     "geom:latitude":37.339474,
     "geom:longitude":-95.262376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S 18th St",
     "sg:city":"Parsons",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169647359,
-    "wof:lastmodified":1449034238,
+    "wof:lastmodified":1466520329,
     "wof:name":"Computer Services",
     "wof:parent_id":85858383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-95.262376,37.339474,-95.262376,37.339474],
+  "bbox": [
+    -95.262376,
+    37.339474,
+    -95.262376,
+    37.339474
+],
   "geometry": {"coordinates":[-95.262376,37.339474],"type":"Point"}
 }

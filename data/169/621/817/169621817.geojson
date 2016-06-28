@@ -2,13 +2,14 @@
   "id": 169621817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.330731,37.707987,-97.330731,37.707987",
     "geom:latitude":37.707987,
     "geom:longitude":-97.330731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 E 13th St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169621817,
-    "wof:lastmodified":1449035559,
+    "wof:lastmodified":1466519974,
     "wof:name":"MSI Svc",
     "wof:parent_id":85872827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.330731,37.707987,-97.330731,37.707987],
+  "bbox": [
+    -97.330731,
+    37.707987,
+    -97.330731,
+    37.707987
+],
   "geometry": {"coordinates":[-97.330731,37.707987],"type":"Point"}
 }

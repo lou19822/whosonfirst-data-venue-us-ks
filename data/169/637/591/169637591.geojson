@@ -2,13 +2,14 @@
   "id": 169637591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.688143,39.029965,-94.688143,39.029965",
     "geom:latitude":39.029965,
     "geom:longitude":-94.688143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5424 Antioch Dr",
     "sg:city":"Merriam",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169637591,
-    "wof:lastmodified":1449032689,
+    "wof:lastmodified":1466520244,
     "wof:name":"Ohrt Brokerage Co",
     "wof:parent_id":85879555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "candy"
     ]
 },
-  "bbox": [-94.688143,39.029965,-94.688143,39.029965],
+  "bbox": [
+    -94.688143,
+    39.029965,
+    -94.688143,
+    39.029965
+],
   "geometry": {"coordinates":[-94.688143,39.029965],"type":"Point"}
 }

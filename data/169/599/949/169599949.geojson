@@ -2,13 +2,14 @@
   "id": 169599949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.244726,37.735813,-97.244726,37.735813",
     "geom:latitude":37.735813,
     "geom:longitude":-97.244726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2949 N Rock Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169599949,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466519459,
     "wof:name":"Olive Tree Banquet & Caterers",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-97.244726,37.735813,-97.244726,37.735813],
+  "bbox": [
+    -97.244726,
+    37.735813,
+    -97.244726,
+    37.735813
+],
   "geometry": {"coordinates":[-97.244726,37.735813],"type":"Point"}
 }

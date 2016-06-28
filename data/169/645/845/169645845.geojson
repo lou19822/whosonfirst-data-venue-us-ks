@@ -2,13 +2,14 @@
   "id": 169645845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.300877,37.821156,-96.300877,37.821156",
     "geom:latitude":37.821156,
     "geom:longitude":-96.300877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Poplar St",
     "sg:city":"Goessel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169645845,
-    "wof:lastmodified":1449033002,
+    "wof:lastmodified":1466520333,
     "wof:name":"Mennonite Heritage Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.300877,37.821156,-96.300877,37.821156],
+  "bbox": [
+    -96.300877,
+    37.821156,
+    -96.300877,
+    37.821156
+],
   "geometry": {"coordinates":[-96.300877,37.821156],"type":"Point"}
 }

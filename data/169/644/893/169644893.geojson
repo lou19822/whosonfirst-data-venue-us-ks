@@ -2,13 +2,14 @@
   "id": 169644893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.87293,37.751764,-96.87293,37.751764",
     "geom:latitude":37.751764,
     "geom:longitude":-96.87293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1485 SW 50th St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169644893,
-    "wof:lastmodified":1449034578,
+    "wof:lastmodified":1466520317,
     "wof:name":"Fullinwider Accounting",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-96.87293,37.751764,-96.87293,37.751764],
+  "bbox": [
+    -96.87293,
+    37.751764,
+    -96.87293,
+    37.751764
+],
   "geometry": {"coordinates":[-96.87293,37.751764],"type":"Point"}
 }

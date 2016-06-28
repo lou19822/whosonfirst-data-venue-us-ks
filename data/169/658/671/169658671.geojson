@@ -2,13 +2,14 @@
   "id": 169658671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.262392,37.735014,-97.262392,37.735014",
     "geom:latitude":37.735014,
     "geom:longitude":-97.262392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2734 N Woodlawn St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169658671,
-    "wof:lastmodified":1449032614,
+    "wof:lastmodified":1466520421,
     "wof:name":"Anatomi Imaging North Point",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.262392,37.735014,-97.262392,37.735014],
-  "geometry": {"coordinates":[-97.262392,37.735014],"type":"Point"}
+  "bbox": [
+    -97.262392,
+    37.735014,
+    -97.262392,
+    37.735014
+],
+  "geometry": {"coordinates":[-97.26239200000001,37.735014],"type":"Point"}
 }

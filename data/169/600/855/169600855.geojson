@@ -2,13 +2,14 @@
   "id": 169600855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37102,37.680332,-97.37102,37.680332",
     "geom:latitude":37.680332,
     "geom:longitude":-97.37102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 W Maple St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169600855,
-    "wof:lastmodified":1449032971,
+    "wof:lastmodified":1466519456,
     "wof:name":"Prohome Of Mid-America",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.37102,37.680332,-97.37102,37.680332],
+  "bbox": [
+    -97.37102,
+    37.680332,
+    -97.37102,
+    37.680332
+],
   "geometry": {"coordinates":[-97.37102,37.680332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202940831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.084959,39.112331,-95.084959,39.112331",
     "geom:latitude":39.112331,
     "geom:longitude":-95.084959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Main St",
     "sg:city":"Tonganoxie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202940831,
-    "wof:lastmodified":1449060736,
+    "wof:lastmodified":1466519970,
     "wof:name":"Air Specialists Inc",
     "wof:parent_id":85849437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-95.084959,39.112331,-95.084959,39.112331],
+  "bbox": [
+    -95.084959,
+    39.112331,
+    -95.084959,
+    39.112331
+],
   "geometry": {"coordinates":[-95.084959,39.112331],"type":"Point"}
 }

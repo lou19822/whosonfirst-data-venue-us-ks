@@ -2,13 +2,14 @@
   "id": 169646167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.784857,38.883682,-94.784857,38.883682",
     "geom:latitude":38.883682,
     "geom:longitude":-94.784857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 E Santa Fe St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169646167,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466520312,
     "wof:name":"Essential Realty Group",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.784857,38.883682,-94.784857,38.883682],
+  "bbox": [
+    -94.784857,
+    38.883682,
+    -94.784857,
+    38.883682
+],
   "geometry": {"coordinates":[-94.784857,38.883682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202933925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.810148,38.885621,-94.810148,38.885621",
     "geom:latitude":38.885621,
     "geom:longitude":-94.810148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 E Kansas City Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202933925,
-    "wof:lastmodified":1449060629,
+    "wof:lastmodified":1466519805,
     "wof:name":"Smithers Customs",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.810148,38.885621,-94.810148,38.885621],
+  "bbox": [
+    -94.810148,
+    38.885621,
+    -94.810148,
+    38.885621
+],
   "geometry": {"coordinates":[-94.810148,38.885621],"type":"Point"}
 }

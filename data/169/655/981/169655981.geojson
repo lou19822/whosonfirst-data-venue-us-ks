@@ -2,13 +2,14 @@
   "id": 169655981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.704655,37.068844,-94.704655,37.068844",
     "geom:latitude":37.068844,
     "geom:longitude":-94.704655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Military St",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169655981,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1466520421,
     "wof:name":"Riverton Friends Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.704655,37.068844,-94.704655,37.068844],
+  "bbox": [
+    -94.704655,
+    37.068844,
+    -94.704655,
+    37.068844
+],
   "geometry": {"coordinates":[-94.704655,37.068844],"type":"Point"}
 }

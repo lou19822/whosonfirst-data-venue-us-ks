@@ -2,13 +2,14 @@
   "id": 169650581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.765214,38.365254,-98.765214,38.365254",
     "geom:latitude":38.365254,
     "geom:longitude":-98.765214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Main St",
     "sg:city":"Great Bend",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169650581,
-    "wof:lastmodified":1449034699,
+    "wof:lastmodified":1466520376,
     "wof:name":"Watkins Calcara Rondeau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.765214,38.365254,-98.765214,38.365254],
+  "bbox": [
+    -98.765214,
+    38.365254,
+    -98.765214,
+    38.365254
+],
   "geometry": {"coordinates":[-98.765214,38.365254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169620481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.828432,38.854669,-94.828432,38.854669",
     "geom:latitude":38.854669,
     "geom:longitude":-94.828432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20700 W 151st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169620481,
-    "wof:lastmodified":1449035676,
+    "wof:lastmodified":1466519958,
     "wof:name":"Tickets At Ctr Stage",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ticket"
     ]
 },
-  "bbox": [-94.828432,38.854669,-94.828432,38.854669],
-  "geometry": {"coordinates":[-94.828432,38.854669],"type":"Point"}
+  "bbox": [
+    -94.828432,
+    38.854669,
+    -94.828432,
+    38.854669
+],
+  "geometry": {"coordinates":[-94.82843200000001,38.854669],"type":"Point"}
 }

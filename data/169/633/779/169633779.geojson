@@ -2,13 +2,14 @@
   "id": 169633779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.244057,37.47481,-97.244057,37.47481",
     "geom:latitude":37.47481,
     "geom:longitude":-97.244057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Main St",
     "sg:city":"Mulvane",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169633779,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1466520211,
     "wof:name":"R & M Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-97.244057,37.47481,-97.244057,37.47481],
+  "bbox": [
+    -97.244057,
+    37.47481,
+    -97.244057,
+    37.47481
+],
   "geometry": {"coordinates":[-97.244057,37.47481],"type":"Point"}
 }

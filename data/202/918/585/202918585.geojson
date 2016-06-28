@@ -2,13 +2,14 @@
   "id": 202918585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.094728,39.324692,-95.094728,39.324692",
     "geom:latitude":39.324692,
     "geom:longitude":-95.094728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22019 Meagher Rd",
     "sg:city":"Easton",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202918585,
-    "wof:lastmodified":1449061812,
+    "wof:lastmodified":1466519487,
     "wof:name":"Shantivanam House Of Prayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "rental"
     ]
 },
-  "bbox": [-95.094728,39.324692,-95.094728,39.324692],
+  "bbox": [
+    -95.094728,
+    39.324692,
+    -95.094728,
+    39.324692
+],
   "geometry": {"coordinates":[-95.094728,39.324692],"type":"Point"}
 }

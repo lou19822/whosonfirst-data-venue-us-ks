@@ -2,13 +2,14 @@
   "id": 202967479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.717812,39.077967,-95.717812,39.077967",
     "geom:latitude":39.077967,
     "geom:longitude":-95.717812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 NW Saline St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":202967479,
-    "wof:lastmodified":1449062460,
+    "wof:lastmodified":1466520271,
     "wof:name":"Kriz-Davis Company Topeka Division",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.717812,39.077967,-95.717812,39.077967],
+  "bbox": [
+    -95.717812,
+    39.077967,
+    -95.717812,
+    39.077967
+],
   "geometry": {"coordinates":[-95.717812,39.077967],"type":"Point"}
 }

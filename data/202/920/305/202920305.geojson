@@ -2,13 +2,14 @@
   "id": 202920305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.761204,38.403414,-94.761204,38.403414",
     "geom:latitude":38.403414,
     "geom:longitude":-94.761204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39693 Somerset Rd",
     "sg:city":"Lacygne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202920305,
-    "wof:lastmodified":1449062081,
+    "wof:lastmodified":1466519531,
     "wof:name":"Black River Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.761204,38.403414,-94.761204,38.403414],
-  "geometry": {"coordinates":[-94.761204,38.403414],"type":"Point"}
+  "bbox": [
+    -94.761204,
+    38.403414,
+    -94.761204,
+    38.403414
+],
+  "geometry": {"coordinates":[-94.76120400000001,38.403414],"type":"Point"}
 }

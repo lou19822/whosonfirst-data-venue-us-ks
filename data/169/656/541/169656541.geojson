@@ -2,13 +2,14 @@
   "id": 169656541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.887271,38.089444,-96.887271,38.089444",
     "geom:latitude":38.089444,
     "geom:longitude":-96.887271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Main St",
     "sg:city":"Burns",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169656541,
-    "wof:lastmodified":1449034835,
+    "wof:lastmodified":1466520399,
     "wof:name":"Burns Hardware Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.887271,38.089444,-96.887271,38.089444],
+  "bbox": [
+    -96.887271,
+    38.089444,
+    -96.887271,
+    38.089444
+],
   "geometry": {"coordinates":[-96.887271,38.089444],"type":"Point"}
 }

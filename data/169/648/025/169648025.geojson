@@ -2,13 +2,14 @@
   "id": 169648025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.594164,38.810007,-97.594164,38.810007",
     "geom:latitude":38.810007,
     "geom:longitude":-97.594164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1945 S Ohio St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169648025,
-    "wof:lastmodified":1449033587,
+    "wof:lastmodified":1466520341,
     "wof:name":"Workman Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.594164,38.810007,-97.594164,38.810007],
-  "geometry": {"coordinates":[-97.594164,38.810007],"type":"Point"}
+  "bbox": [
+    -97.594164,
+    38.810007,
+    -97.594164,
+    38.810007
+],
+  "geometry": {"coordinates":[-97.59416400000001,38.810007],"type":"Point"}
 }

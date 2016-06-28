@@ -2,13 +2,14 @@
   "id": 202921369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.232159,38.989351,-95.232159,38.989351",
     "geom:latitude":38.989351,
     "geom:longitude":-95.232159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 NE Industrial Ln",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":202921369,
-    "wof:lastmodified":1449061723,
+    "wof:lastmodified":1466519543,
     "wof:name":"Ups",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "forwarding"
     ]
 },
-  "bbox": [-95.232159,38.989351,-95.232159,38.989351],
+  "bbox": [
+    -95.232159,
+    38.989351,
+    -95.232159,
+    38.989351
+],
   "geometry": {"coordinates":[-95.232159,38.989351],"type":"Point"}
 }

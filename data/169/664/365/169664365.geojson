@@ -2,13 +2,14 @@
   "id": 169664365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.658442,39.013952,-94.658442,39.013952",
     "geom:latitude":39.013952,
     "geom:longitude":-94.658442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Frontage Rd",
     "sg:city":"Merriam",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169664365,
-    "wof:lastmodified":1449033912,
+    "wof:lastmodified":1466520443,
     "wof:name":"Transitions Consulting Firm",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-94.658442,39.013952,-94.658442,39.013952],
-  "geometry": {"coordinates":[-94.658442,39.013952],"type":"Point"}
+  "bbox": [
+    -94.658442,
+    39.013952,
+    -94.658442,
+    39.013952
+],
+  "geometry": {"coordinates":[-94.65844199999999,39.013952],"type":"Point"}
 }

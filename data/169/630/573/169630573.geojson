@@ -2,13 +2,14 @@
   "id": 169630573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.819848,38.745259,-94.819848,38.745259",
     "geom:latitude":38.745259,
     "geom:longitude":-94.819848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 E Wilson St",
     "sg:city":"Spring Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169630573,
-    "wof:lastmodified":1449033869,
+    "wof:lastmodified":1466520146,
     "wof:name":"Spring Hill Plaza Apartments",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.819848,38.745259,-94.819848,38.745259],
-  "geometry": {"coordinates":[-94.819848,38.745259],"type":"Point"}
+  "bbox": [
+    -94.819848,
+    38.745259,
+    -94.819848,
+    38.745259
+],
+  "geometry": {"coordinates":[-94.81984799999999,38.745259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202960021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.673553,39.054939,-95.673553,39.054939",
     "geom:latitude":39.054939,
     "geom:longitude":-95.673553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 SW Jackson St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202960021,
-    "wof:lastmodified":1449061921,
+    "wof:lastmodified":1466520200,
     "wof:name":"American Medical Response",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-95.673553,39.054939,-95.673553,39.054939],
+  "bbox": [
+    -95.673553,
+    39.054939,
+    -95.673553,
+    39.054939
+],
   "geometry": {"coordinates":[-95.673553,39.054939],"type":"Point"}
 }

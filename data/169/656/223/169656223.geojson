@@ -2,13 +2,14 @@
   "id": 169656223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.874945,38.89661,-97.874945,38.89661",
     "geom:latitude":38.89661,
     "geom:longitude":-97.874945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Main St",
     "sg:city":"Roxbury",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169656223,
-    "wof:lastmodified":1449034835,
+    "wof:lastmodified":1466520387,
     "wof:name":"Florine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.874945,38.89661,-97.874945,38.89661],
+  "bbox": [
+    -97.874945,
+    38.89661,
+    -97.874945,
+    38.89661
+],
   "geometry": {"coordinates":[-97.874945,38.89661],"type":"Point"}
 }

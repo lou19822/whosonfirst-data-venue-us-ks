@@ -2,13 +2,14 @@
   "id": 202945217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.716614,39.01841,-94.716614,39.01841",
     "geom:latitude":39.01841,
     "geom:longitude":-94.716614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11206 W 61st St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202945217,
-    "wof:lastmodified":1449060333,
+    "wof:lastmodified":1466520091,
     "wof:name":"Window King Of Kc",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "door"
     ]
 },
-  "bbox": [-94.716614,39.01841,-94.716614,39.01841],
-  "geometry": {"coordinates":[-94.716614,39.01841],"type":"Point"}
+  "bbox": [
+    -94.716614,
+    39.01841,
+    -94.716614,
+    39.01841
+],
+  "geometry": {"coordinates":[-94.71661400000001,39.01841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202974603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.707766,37.406021,-94.707766,37.406021",
     "geom:latitude":37.406021,
     "geom:longitude":-94.707766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Walnut St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202974603,
-    "wof:lastmodified":1449062325,
+    "wof:lastmodified":1466520323,
     "wof:name":"U.S.Electric Inc.",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-94.707766,37.406021,-94.707766,37.406021],
-  "geometry": {"coordinates":[-94.707766,37.406021],"type":"Point"}
+  "bbox": [
+    -94.707766,
+    37.406021,
+    -94.707766,
+    37.406021
+],
+  "geometry": {"coordinates":[-94.70776600000001,37.406021],"type":"Point"}
 }

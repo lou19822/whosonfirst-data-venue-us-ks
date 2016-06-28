@@ -2,13 +2,14 @@
   "id": 169638869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.685469,39.007337,-95.685469,39.007337",
     "geom:latitude":39.007337,
     "geom:longitude":-95.685469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 SW 33rd St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169638869,
-    "wof:lastmodified":1449032869,
+    "wof:lastmodified":1466520260,
     "wof:name":"C P Engineers & Land Surveyors",
     "wof:parent_id":85881565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveying"
     ]
 },
-  "bbox": [-95.685469,39.007337,-95.685469,39.007337],
+  "bbox": [
+    -95.685469,
+    39.007337,
+    -95.685469,
+    39.007337
+],
   "geometry": {"coordinates":[-95.685469,39.007337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169673287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.684974,39.038881,-94.684974,39.038881",
     "geom:latitude":39.038881,
     "geom:longitude":-94.684974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5030 Mackey St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169673287,
-    "wof:lastmodified":1449033957,
+    "wof:lastmodified":1466520495,
     "wof:name":"Yarnell Associates LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lighting"
     ]
 },
-  "bbox": [-94.684974,39.038881,-94.684974,39.038881],
+  "bbox": [
+    -94.684974,
+    39.038881,
+    -94.684974,
+    39.038881
+],
   "geometry": {"coordinates":[-94.684974,39.038881],"type":"Point"}
 }

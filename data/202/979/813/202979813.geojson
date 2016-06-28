@@ -2,13 +2,14 @@
   "id": 202979813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.340551,37.682358,-97.340551,37.682358",
     "geom:latitude":37.682358,
     "geom:longitude":-97.340551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W WATERMAN ST",
     "sg:city":"WICHITA",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202979813,
-    "wof:lastmodified":1449061888,
+    "wof:lastmodified":1466520353,
     "wof:name":"Hyatt Regency Wichita",
     "wof:parent_id":85872835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-97.340551,37.682358,-97.340551,37.682358],
+  "bbox": [
+    -97.340551,
+    37.682358,
+    -97.340551,
+    37.682358
+],
   "geometry": {"coordinates":[-97.340551,37.682358],"type":"Point"}
 }

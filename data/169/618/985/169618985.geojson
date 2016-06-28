@@ -2,13 +2,14 @@
   "id": 169618985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.841594,38.050187,-97.841594,38.050187",
     "geom:latitude":38.050187,
     "geom:longitude":-97.841594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5205 Frank Rd",
     "sg:city":"Hutchinson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169618985,
-    "wof:lastmodified":1449034738,
+    "wof:lastmodified":1466519920,
     "wof:name":"Pamela Elam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-97.841594,38.050187,-97.841594,38.050187],
+  "bbox": [
+    -97.841594,
+    38.050187,
+    -97.841594,
+    38.050187
+],
   "geometry": {"coordinates":[-97.841594,38.050187],"type":"Point"}
 }

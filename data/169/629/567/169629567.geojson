@@ -2,13 +2,14 @@
   "id": 169629567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.940306,38.039431,-97.940306,38.039431",
     "geom:latitude":38.039431,
     "geom:longitude":-97.940306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 W 10th Ave",
     "sg:city":"South Hutchinson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169629567,
-    "wof:lastmodified":1449035186,
+    "wof:lastmodified":1466520138,
     "wof:name":"Reno County Weed Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-97.940306,38.039431,-97.940306,38.039431],
-  "geometry": {"coordinates":[-97.940306,38.039431],"type":"Point"}
+  "bbox": [
+    -97.940306,
+    38.039431,
+    -97.940306,
+    38.039431
+],
+  "geometry": {"coordinates":[-97.94030600000001,38.039431],"type":"Point"}
 }

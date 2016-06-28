@@ -2,13 +2,14 @@
   "id": 202964487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.818735,38.974389,-95.818735,38.974389",
     "geom:latitude":38.974389,
     "geom:longitude":-95.818735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8511 SW 51st St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202964487,
-    "wof:lastmodified":1449062025,
+    "wof:lastmodified":1466520281,
     "wof:name":"Seminars 2000",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.818735,38.974389,-95.818735,38.974389],
+  "bbox": [
+    -95.818735,
+    38.974389,
+    -95.818735,
+    38.974389
+],
   "geometry": {"coordinates":[-95.818735,38.974389],"type":"Point"}
 }

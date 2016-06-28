@@ -2,13 +2,14 @@
   "id": 202935711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.818664,38.833956,-94.818664,38.833956",
     "geom:latitude":38.833956,
     "geom:longitude":-94.818664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19947 W 162nd St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202935711,
-    "wof:lastmodified":1449062217,
+    "wof:lastmodified":1466519875,
     "wof:name":"DWG Drywall LLC",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "drywall"
     ]
 },
-  "bbox": [-94.818664,38.833956,-94.818664,38.833956],
+  "bbox": [
+    -94.818664,
+    38.833956,
+    -94.818664,
+    38.833956
+],
   "geometry": {"coordinates":[-94.818664,38.833956],"type":"Point"}
 }

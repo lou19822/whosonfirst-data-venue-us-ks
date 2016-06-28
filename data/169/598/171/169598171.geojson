@@ -2,13 +2,14 @@
   "id": 169598171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.874038,37.966603,-100.874038,37.966603",
     "geom:latitude":37.966603,
     "geom:longitude":-100.874038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Main St",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169598171,
-    "wof:lastmodified":1449032859,
+    "wof:lastmodified":1466519424,
     "wof:name":"Bike Rack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.874038,37.966603,-100.874038,37.966603],
+  "bbox": [
+    -100.874038,
+    37.966603,
+    -100.874038,
+    37.966603
+],
   "geometry": {"coordinates":[-100.874038,37.966603],"type":"Point"}
 }

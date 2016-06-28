@@ -2,13 +2,14 @@
   "id": 169622101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.449059,37.621824,-97.449059,37.621824",
     "geom:latitude":37.621824,
     "geom:longitude":-97.449059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9333 W Macarthur Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169622101,
-    "wof:lastmodified":1449035367,
+    "wof:lastmodified":1466519982,
     "wof:name":"Pumpkin Junction",
     "wof:parent_id":85852945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-97.449059,37.621824,-97.449059,37.621824],
-  "geometry": {"coordinates":[-97.449059,37.621824],"type":"Point"}
+  "bbox": [
+    -97.449059,
+    37.621824,
+    -97.449059,
+    37.621824
+],
+  "geometry": {"coordinates":[-97.44905900000001,37.621824],"type":"Point"}
 }

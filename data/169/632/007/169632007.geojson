@@ -2,13 +2,14 @@
   "id": 169632007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.491979,38.660716,-96.491979,38.660716",
     "geom:latitude":38.660716,
     "geom:longitude":-96.491979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 W Main St",
     "sg:city":"Council Grove",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169632007,
-    "wof:lastmodified":1449034797,
+    "wof:lastmodified":1466529892,
     "wof:name":"Sorell Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.491979,38.660716,-96.491979,38.660716],
+  "bbox": [
+    -96.491979,
+    38.660716,
+    -96.491979,
+    38.660716
+],
   "geometry": {"coordinates":[-96.491979,38.660716],"type":"Point"}
 }

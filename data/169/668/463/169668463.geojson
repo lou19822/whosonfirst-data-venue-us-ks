@@ -2,13 +2,14 @@
   "id": 169668463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.705011,38.971136,-94.705011,38.971136",
     "geom:latitude":38.971136,
     "geom:longitude":-94.705011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10100 W 87th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169668463,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1466520469,
     "wof:name":"Capstone Associates",
     "wof:parent_id":85879599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-94.705011,38.971136,-94.705011,38.971136],
+  "bbox": [
+    -94.705011,
+    38.971136,
+    -94.705011,
+    38.971136
+],
   "geometry": {"coordinates":[-94.705011,38.971136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202964185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.685049,38.971567,-95.685049,38.971567",
     "geom:latitude":38.971567,
     "geom:longitude":-95.685049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 SE 53rd St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":202964185,
-    "wof:lastmodified":1449062024,
+    "wof:lastmodified":1466520265,
     "wof:name":"Propane Central",
     "wof:parent_id":85851947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.685049,38.971567,-95.685049,38.971567],
-  "geometry": {"coordinates":[-95.685049,38.971567],"type":"Point"}
+  "bbox": [
+    -95.685049,
+    38.971567,
+    -95.685049,
+    38.971567
+],
+  "geometry": {"coordinates":[-95.68504900000001,38.971567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169608993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.106515,38.178847,-99.106515,38.178847",
     "geom:latitude":38.178847,
     "geom:longitude":-99.106515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Carroll Ave",
     "sg:city":"Larned",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169608993,
-    "wof:lastmodified":1449034083,
+    "wof:lastmodified":1466519684,
     "wof:name":"Grace Lutheran Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.106515,38.178847,-99.106515,38.178847],
+  "bbox": [
+    -99.106515,
+    38.178847,
+    -99.106515,
+    38.178847
+],
   "geometry": {"coordinates":[-99.106515,38.178847],"type":"Point"}
 }

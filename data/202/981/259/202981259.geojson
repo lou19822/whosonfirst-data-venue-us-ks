@@ -2,13 +2,14 @@
   "id": 202981259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.328929,37.656515,-97.328929,37.656515",
     "geom:latitude":37.656515,
     "geom:longitude":-97.328929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 S Mead St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202981259,
-    "wof:lastmodified":1449062700,
+    "wof:lastmodified":1466520357,
     "wof:name":"Farmer Paul",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-97.328929,37.656515,-97.328929,37.656515],
+  "bbox": [
+    -97.328929,
+    37.656515,
+    -97.328929,
+    37.656515
+],
   "geometry": {"coordinates":[-97.328929,37.656515],"type":"Point"}
 }

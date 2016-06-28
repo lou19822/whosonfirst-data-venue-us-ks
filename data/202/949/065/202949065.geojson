@@ -2,13 +2,14 @@
   "id": 202949065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.643686,38.912833,-94.643686,38.912833",
     "geom:latitude":38.912833,
     "geom:longitude":-94.643686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5049 W 119th St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202949065,
-    "wof:lastmodified":1449061682,
+    "wof:lastmodified":1466520125,
     "wof:name":"Natural Pet Food & Supply",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-94.643686,38.912833,-94.643686,38.912833],
+  "bbox": [
+    -94.643686,
+    38.912833,
+    -94.643686,
+    38.912833
+],
   "geometry": {"coordinates":[-94.643686,38.912833],"type":"Point"}
 }

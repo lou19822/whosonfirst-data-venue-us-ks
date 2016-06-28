@@ -2,13 +2,14 @@
   "id": 202915667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.131882,39.581532,-95.131882,39.581532",
     "geom:latitude":39.581532,
     "geom:longitude":-95.131882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Applegate Dr",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202915667,
-    "wof:lastmodified":1449062609,
+    "wof:lastmodified":1466519447,
     "wof:name":"Applegate Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "finder"
     ]
 },
-  "bbox": [-95.131882,39.581532,-95.131882,39.581532],
+  "bbox": [
+    -95.131882,
+    39.581532,
+    -95.131882,
+    39.581532
+],
   "geometry": {"coordinates":[-95.131882,39.581532],"type":"Point"}
 }

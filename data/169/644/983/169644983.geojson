@@ -2,13 +2,14 @@
   "id": 169644983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.328713,37.683762,-97.328713,37.683762",
     "geom:latitude":37.683762,
     "geom:longitude":-97.328713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 S Mead St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169644983,
-    "wof:lastmodified":1449034578,
+    "wof:lastmodified":1466520327,
     "wof:name":"Kansas Secured Title Sedgwick",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "escrow"
     ]
 },
-  "bbox": [-97.328713,37.683762,-97.328713,37.683762],
-  "geometry": {"coordinates":[-97.328713,37.683762],"type":"Point"}
+  "bbox": [
+    -97.328713,
+    37.683762,
+    -97.328713,
+    37.683762
+],
+  "geometry": {"coordinates":[-97.32871299999999,37.683762],"type":"Point"}
 }

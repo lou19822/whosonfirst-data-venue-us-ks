@@ -2,13 +2,14 @@
   "id": 169602035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.13533,37.68072,-97.13533,37.68072",
     "geom:latitude":37.68072,
     "geom:longitude":-97.13533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 S Andover Rd",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169602035,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466529883,
     "wof:name":"Buildcraft LLC",
     "wof:parent_id":85834115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.13533,37.68072,-97.13533,37.68072],
+  "bbox": [
+    -97.13533,
+    37.68072,
+    -97.13533,
+    37.68072
+],
   "geometry": {"coordinates":[-97.13533,37.68072],"type":"Point"}
 }

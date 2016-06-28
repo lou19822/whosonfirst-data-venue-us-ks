@@ -2,13 +2,14 @@
   "id": 169626747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.752765,38.947399,-94.752765,38.947399",
     "geom:latitude":38.947399,
     "geom:longitude":-94.752765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14414 W 100th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169626747,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466520072,
     "wof:name":"Jeffries Enterprise Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-94.752765,38.947399,-94.752765,38.947399],
+  "bbox": [
+    -94.752765,
+    38.947399,
+    -94.752765,
+    38.947399
+],
   "geometry": {"coordinates":[-94.752765,38.947399],"type":"Point"}
 }

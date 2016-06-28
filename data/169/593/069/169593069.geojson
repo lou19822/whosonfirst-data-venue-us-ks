@@ -2,13 +2,14 @@
   "id": 169593069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.33057,37.707487,-97.33057,37.707487",
     "geom:latitude":37.707487,
     "geom:longitude":-97.33057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 N Santa Fe St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169593069,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466529832,
     "wof:name":"Artistic Limousine",
     "wof:parent_id":85872827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-97.33057,37.707487,-97.33057,37.707487],
-  "geometry": {"coordinates":[-97.33057,37.707487],"type":"Point"}
+  "bbox": [
+    -97.33057,
+    37.707487,
+    -97.33057,
+    37.707487
+],
+  "geometry": {"coordinates":[-97.33056999999999,37.707487],"type":"Point"}
 }

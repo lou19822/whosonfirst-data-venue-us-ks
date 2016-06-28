@@ -2,13 +2,14 @@
   "id": 169623155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.642076,39.036743,-94.642076,39.036743",
     "geom:latitude":39.036743,
     "geom:longitude":-94.642076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5120 Cedar St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169623155,
-    "wof:lastmodified":1449035000,
+    "wof:lastmodified":1466519985,
     "wof:name":"Cedar Roe Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.642076,39.036743,-94.642076,39.036743],
+  "bbox": [
+    -94.642076,
+    39.036743,
+    -94.642076,
+    39.036743
+],
   "geometry": {"coordinates":[-94.642076,39.036743],"type":"Point"}
 }

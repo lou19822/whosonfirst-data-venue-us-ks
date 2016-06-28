@@ -2,13 +2,14 @@
   "id": 202960949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.729088,39.050914,-95.729088,39.050914",
     "geom:latitude":39.050914,
     "geom:longitude":-95.729088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 SW Fleming Ct",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202960949,
-    "wof:lastmodified":1449061921,
+    "wof:lastmodified":1466520244,
     "wof:name":"Fleming Court Apartments",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-95.729088,39.050914,-95.729088,39.050914],
+  "bbox": [
+    -95.729088,
+    39.050914,
+    -95.729088,
+    39.050914
+],
   "geometry": {"coordinates":[-95.729088,39.050914],"type":"Point"}
 }

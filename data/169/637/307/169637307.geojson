@@ -2,13 +2,14 @@
   "id": 169637307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.022621,39.188928,-99.022621,39.188928",
     "geom:latitude":39.188928,
     "geom:longitude":-99.022621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N 2nd St",
     "sg:city":"Natoma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169637307,
-    "wof:lastmodified":1449032689,
+    "wof:lastmodified":1466520231,
     "wof:name":"Russell Co Rural Fire Dept #3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-99.022621,39.188928,-99.022621,39.188928],
+  "bbox": [
+    -99.022621,
+    39.188928,
+    -99.022621,
+    39.188928
+],
   "geometry": {"coordinates":[-99.022621,39.188928],"type":"Point"}
 }

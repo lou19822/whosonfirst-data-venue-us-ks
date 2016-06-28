@@ -2,13 +2,14 @@
   "id": 202983695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.360329,37.612998,-97.360329,37.612998",
     "geom:latitude":37.612998,
     "geom:longitude":-97.360329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4519 S Charles Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202983695,
-    "wof:lastmodified":1449062441,
+    "wof:lastmodified":1466520372,
     "wof:name":"Done Right",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-97.360329,37.612998,-97.360329,37.612998],
-  "geometry": {"coordinates":[-97.360329,37.612998],"type":"Point"}
+  "bbox": [
+    -97.360329,
+    37.612998,
+    -97.360329,
+    37.612998
+],
+  "geometry": {"coordinates":[-97.36032899999999,37.612998],"type":"Point"}
 }

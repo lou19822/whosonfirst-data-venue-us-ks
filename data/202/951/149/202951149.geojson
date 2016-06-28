@@ -2,13 +2,14 @@
   "id": 202951149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.757088,38.956283,-94.757088,38.956283",
     "geom:latitude":38.956283,
     "geom:longitude":-94.757088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14643 W 95th St",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202951149,
-    "wof:lastmodified":1449060204,
+    "wof:lastmodified":1466520136,
     "wof:name":"Allegiant Networks",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "system"
     ]
 },
-  "bbox": [-94.757088,38.956283,-94.757088,38.956283],
+  "bbox": [
+    -94.757088,
+    38.956283,
+    -94.757088,
+    38.956283
+],
   "geometry": {"coordinates":[-94.757088,38.956283],"type":"Point"}
 }

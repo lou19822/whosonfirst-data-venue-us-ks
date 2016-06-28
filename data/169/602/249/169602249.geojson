@@ -2,13 +2,14 @@
   "id": 169602249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.736224,39.464925,-95.736224,39.464925",
     "geom:latitude":39.464925,
     "geom:longitude":-95.736224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 New York Ave",
     "sg:city":"Holton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169602249,
-    "wof:lastmodified":1449034226,
+    "wof:lastmodified":1466519471,
     "wof:name":"Jackson County Custodial Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.736224,39.464925,-95.736224,39.464925],
-  "geometry": {"coordinates":[-95.736224,39.464925],"type":"Point"}
+  "bbox": [
+    -95.736224,
+    39.464925,
+    -95.736224,
+    39.464925
+],
+  "geometry": {"coordinates":[-95.73622400000001,39.464925],"type":"Point"}
 }

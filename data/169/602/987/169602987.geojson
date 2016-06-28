@@ -2,13 +2,14 @@
   "id": 169602987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.226841,38.942646,-95.226841,38.942646",
     "geom:latitude":38.942646,
     "geom:longitude":-95.226841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 E 23rd St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169602987,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466519506,
     "wof:name":"Noxious Weeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.226841,38.942646,-95.226841,38.942646],
-  "geometry": {"coordinates":[-95.226841,38.942646],"type":"Point"}
+  "bbox": [
+    -95.226841,
+    38.942646,
+    -95.226841,
+    38.942646
+],
+  "geometry": {"coordinates":[-95.22684099999999,38.942646],"type":"Point"}
 }

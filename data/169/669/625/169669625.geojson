@@ -2,13 +2,14 @@
   "id": 169669625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.04217,38.000918,-97.04217,38.000918",
     "geom:latitude":38.000918,
     "geom:longitude":-97.04217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12384 NW Santa Fe Lake Rd",
     "sg:city":"Whitewater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169669625,
-    "wof:lastmodified":1449033063,
+    "wof:lastmodified":1466520486,
     "wof:name":"Grace Hill Mennonite Church",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.04217,38.000918,-97.04217,38.000918],
+  "bbox": [
+    -97.04217,
+    38.000918,
+    -97.04217,
+    38.000918
+],
   "geometry": {"coordinates":[-97.04217,38.000918],"type":"Point"}
 }

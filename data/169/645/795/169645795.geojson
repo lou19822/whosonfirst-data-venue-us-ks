@@ -2,13 +2,14 @@
   "id": 169645795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.840344,39.028176,-96.840344,39.028176",
     "geom:latitude":39.028176,
     "geom:longitude":-96.840344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"639 W 6th St",
     "sg:city":"Junction City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169645795,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466520330,
     "wof:name":"Shear Effects Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.840344,39.028176,-96.840344,39.028176],
+  "bbox": [
+    -96.840344,
+    39.028176,
+    -96.840344,
+    39.028176
+],
   "geometry": {"coordinates":[-96.840344,39.028176],"type":"Point"}
 }

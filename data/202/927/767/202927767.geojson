@@ -2,13 +2,14 @@
   "id": 202927767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.912444,39.318321,-94.912444,39.318321",
     "geom:latitude":39.318321,
     "geom:longitude":-94.912444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Delaware St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202927767,
-    "wof:lastmodified":1449062379,
+    "wof:lastmodified":1466519712,
     "wof:name":"Yac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.912444,39.318321,-94.912444,39.318321],
-  "geometry": {"coordinates":[-94.912444,39.318321],"type":"Point"}
+  "bbox": [
+    -94.912444,
+    39.318321,
+    -94.912444,
+    39.318321
+],
+  "geometry": {"coordinates":[-94.91244399999999,39.318321],"type":"Point"}
 }

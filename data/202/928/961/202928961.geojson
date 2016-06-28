@@ -2,13 +2,14 @@
   "id": 202928961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.935107,39.298859,-94.935107,39.298859",
     "geom:latitude":39.298859,
     "geom:longitude":-94.935107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Westwood Dr",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202928961,
-    "wof:lastmodified":1449062302,
+    "wof:lastmodified":1466519727,
     "wof:name":"Leavenworth Management Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-94.935107,39.298859,-94.935107,39.298859],
+  "bbox": [
+    -94.935107,
+    39.298859,
+    -94.935107,
+    39.298859
+],
   "geometry": {"coordinates":[-94.935107,39.298859],"type":"Point"}
 }

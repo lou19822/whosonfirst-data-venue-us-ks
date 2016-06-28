@@ -2,13 +2,14 @@
   "id": 202944613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.699742,39.007564,-94.699742,39.007564",
     "geom:latitude":39.007564,
     "geom:longitude":-94.699742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9817 W 67th St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202944613,
-    "wof:lastmodified":1449061388,
+    "wof:lastmodified":1466520100,
     "wof:name":"Sante Fe Glass Company",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.699742,39.007564,-94.699742,39.007564],
+  "bbox": [
+    -94.699742,
+    39.007564,
+    -94.699742,
+    39.007564
+],
   "geometry": {"coordinates":[-94.699742,39.007564],"type":"Point"}
 }

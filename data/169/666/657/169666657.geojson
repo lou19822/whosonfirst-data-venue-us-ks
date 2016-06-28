@@ -2,13 +2,14 @@
   "id": 169666657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.077652,38.693449,-97.077652,38.693449",
     "geom:latitude":38.693449,
     "geom:longitude":-97.077652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 N Main St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169666657,
-    "wof:lastmodified":1449033896,
+    "wof:lastmodified":1466520478,
     "wof:name":"Wuthnow Amoco & Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.077652,38.693449,-97.077652,38.693449],
+  "bbox": [
+    -97.077652,
+    38.693449,
+    -97.077652,
+    38.693449
+],
   "geometry": {"coordinates":[-97.077652,38.693449],"type":"Point"}
 }

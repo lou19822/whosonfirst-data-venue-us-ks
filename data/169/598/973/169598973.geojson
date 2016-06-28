@@ -2,13 +2,14 @@
   "id": 169598973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.694202,39.089007,-95.694202,39.089007",
     "geom:latitude":39.089007,
     "geom:longitude":-95.694202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 NW Vail Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169598973,
-    "wof:lastmodified":1449032858,
+    "wof:lastmodified":1466519458,
     "wof:name":"Insurance Salvage Co",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-95.694202,39.089007,-95.694202,39.089007],
+  "bbox": [
+    -95.694202,
+    39.089007,
+    -95.694202,
+    39.089007
+],
   "geometry": {"coordinates":[-95.694202,39.089007],"type":"Point"}
 }

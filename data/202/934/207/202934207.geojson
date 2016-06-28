@@ -2,13 +2,14 @@
   "id": 202934207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.819276,38.882011,-94.819276,38.882011",
     "geom:latitude":38.882011,
     "geom:longitude":-94.819276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 East Park St Ste C",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202934207,
-    "wof:lastmodified":1449060231,
+    "wof:lastmodified":1466519815,
     "wof:name":"Langston Law, Chartered",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "law"
     ]
 },
-  "bbox": [-94.819276,38.882011,-94.819276,38.882011],
+  "bbox": [
+    -94.819276,
+    38.882011,
+    -94.819276,
+    38.882011
+],
   "geometry": {"coordinates":[-94.819276,38.882011],"type":"Point"}
 }

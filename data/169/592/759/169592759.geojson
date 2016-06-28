@@ -2,13 +2,14 @@
   "id": 169592759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.664627,38.850282,-94.664627,38.850282",
     "geom:latitude":38.850282,
     "geom:longitude":-94.664627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6785 W 152nd Ter",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169592759,
-    "wof:lastmodified":1449034586,
+    "wof:lastmodified":1466520182,
     "wof:name":"AIO Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-94.664627,38.850282,-94.664627,38.850282],
+  "bbox": [
+    -94.664627,
+    38.850282,
+    -94.664627,
+    38.850282
+],
   "geometry": {"coordinates":[-94.664627,38.850282],"type":"Point"}
 }

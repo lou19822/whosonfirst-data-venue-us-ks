@@ -2,13 +2,14 @@
   "id": 202964957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.704008,39.029177,-95.704008,39.029177",
     "geom:latitude":39.029177,
     "geom:longitude":-95.704008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 SW Jewell Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202964957,
-    "wof:lastmodified":1449062027,
+    "wof:lastmodified":1466520304,
     "wof:name":"T L Wing",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.704008,39.029177,-95.704008,39.029177],
+  "bbox": [
+    -95.704008,
+    39.029177,
+    -95.704008,
+    39.029177
+],
   "geometry": {"coordinates":[-95.704008,39.029177],"type":"Point"}
 }

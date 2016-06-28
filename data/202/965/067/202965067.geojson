@@ -2,13 +2,14 @@
   "id": 202965067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.709014,39.024291,-95.709014,39.024291",
     "geom:latitude":39.024291,
     "geom:longitude":-95.709014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 SW High Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202965067,
-    "wof:lastmodified":1449061866,
+    "wof:lastmodified":1466520260,
     "wof:name":"Facilities & Operations",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-95.709014,39.024291,-95.709014,39.024291],
+  "bbox": [
+    -95.709014,
+    39.024291,
+    -95.709014,
+    39.024291
+],
   "geometry": {"coordinates":[-95.709014,39.024291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169658159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.911716,38.46196,-99.911716,38.46196",
     "geom:latitude":38.46196,
     "geom:longitude":-99.911716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Johnson St",
     "sg:city":"Ness City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169658159,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466520403,
     "wof:name":"American Building Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.911716,38.46196,-99.911716,38.46196],
+  "bbox": [
+    -99.911716,
+    38.46196,
+    -99.911716,
+    38.46196
+],
   "geometry": {"coordinates":[-99.911716,38.46196],"type":"Point"}
 }

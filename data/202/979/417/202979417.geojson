@@ -2,13 +2,14 @@
   "id": 202979417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.997414,37.24667,-96.997414,37.24667",
     "geom:latitude":37.24667,
     "geom:longitude":-96.997414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Main St",
     "sg:city":"Winfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202979417,
-    "wof:lastmodified":1449061888,
+    "wof:lastmodified":1466520335,
     "wof:name":"Lynes Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.997414,37.24667,-96.997414,37.24667],
-  "geometry": {"coordinates":[-96.997414,37.24667],"type":"Point"}
+  "bbox": [
+    -96.997414,
+    37.24667,
+    -96.997414,
+    37.24667
+],
+  "geometry": {"coordinates":[-96.99741400000001,37.24667],"type":"Point"}
 }

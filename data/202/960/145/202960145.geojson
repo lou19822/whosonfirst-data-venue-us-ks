@@ -2,13 +2,14 @@
   "id": 202960145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.695633,39.03991,-95.695633,39.03991",
     "geom:latitude":39.03991,
     "geom:longitude":-95.695633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 SW Lane St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202960145,
-    "wof:lastmodified":1449061921,
+    "wof:lastmodified":1466520209,
     "wof:name":"College Villas",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "listing"
     ]
 },
-  "bbox": [-95.695633,39.03991,-95.695633,39.03991],
+  "bbox": [
+    -95.695633,
+    39.03991,
+    -95.695633,
+    39.03991
+],
   "geometry": {"coordinates":[-95.695633,39.03991],"type":"Point"}
 }

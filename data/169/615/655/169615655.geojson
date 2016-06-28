@@ -2,13 +2,14 @@
   "id": 169615655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.606636,39.025448,-95.606636,39.025448",
     "geom:latitude":39.025448,
     "geom:longitude":-95.606636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 SE 23rd Ter",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169615655,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466519828,
     "wof:name":"Mason Simpson Remodeling",
     "wof:parent_id":85881535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.606636,39.025448,-95.606636,39.025448],
-  "geometry": {"coordinates":[-95.606636,39.025448],"type":"Point"}
+  "bbox": [
+    -95.606636,
+    39.025448,
+    -95.606636,
+    39.025448
+],
+  "geometry": {"coordinates":[-95.60663599999999,39.025448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202982705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.407744,37.628877,-97.407744,37.628877",
     "geom:latitude":37.628877,
     "geom:longitude":-97.407744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5721 W 35th St S",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202982705,
-    "wof:lastmodified":1449060534,
+    "wof:lastmodified":1466520378,
     "wof:name":"Rz Electric",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-97.407744,37.628877,-97.407744,37.628877],
-  "geometry": {"coordinates":[-97.407744,37.628877],"type":"Point"}
+  "bbox": [
+    -97.407744,
+    37.628877,
+    -97.407744,
+    37.628877
+],
+  "geometry": {"coordinates":[-97.40774399999999,37.628877],"type":"Point"}
 }

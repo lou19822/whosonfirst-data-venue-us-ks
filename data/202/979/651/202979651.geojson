@@ -2,13 +2,14 @@
   "id": 202979651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.327548,37.68605,-97.327548,37.68605",
     "geom:latitude":37.68605,
     "geom:longitude":-97.327548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 E Douglas Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202979651,
-    "wof:lastmodified":1449061888,
+    "wof:lastmodified":1466520346,
     "wof:name":"Beacon Restaurant",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-97.327548,37.68605,-97.327548,37.68605],
-  "geometry": {"coordinates":[-97.327548,37.68605],"type":"Point"}
+  "bbox": [
+    -97.327548,
+    37.68605,
+    -97.327548,
+    37.68605
+],
+  "geometry": {"coordinates":[-97.32754799999999,37.68605],"type":"Point"}
 }

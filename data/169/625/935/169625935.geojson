@@ -2,13 +2,14 @@
   "id": 169625935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.316067,37.692765,-97.316067,37.692765",
     "geom:latitude":37.692765,
     "geom:longitude":-97.316067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 N Kansas St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169625935,
-    "wof:lastmodified":1449036026,
+    "wof:lastmodified":1466520061,
     "wof:name":"Clevenger Auto Reconditioning",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-97.316067,37.692765,-97.316067,37.692765],
+  "bbox": [
+    -97.316067,
+    37.692765,
+    -97.316067,
+    37.692765
+],
   "geometry": {"coordinates":[-97.316067,37.692765],"type":"Point"}
 }

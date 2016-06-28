@@ -2,13 +2,14 @@
   "id": 169601183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.370201,37.589468,-101.370201,37.589468",
     "geom:latitude":37.589468,
     "geom:longitude":-101.370201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 N Wilson St",
     "sg:city":"Ulysses",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169601183,
-    "wof:lastmodified":1449034147,
+    "wof:lastmodified":1466519446,
     "wof:name":"De Olde Tyme Chimney Sweep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-101.370201,37.589468,-101.370201,37.589468],
-  "geometry": {"coordinates":[-101.370201,37.589468],"type":"Point"}
+  "bbox": [
+    -101.370201,
+    37.589468,
+    -101.370201,
+    37.589468
+],
+  "geometry": {"coordinates":[-101.37020099999999,37.589468],"type":"Point"}
 }

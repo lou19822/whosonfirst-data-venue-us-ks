@@ -2,13 +2,14 @@
   "id": 169603133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.333952,37.566769,-97.333952,37.566769",
     "geom:latitude":37.566769,
     "geom:longitude":-97.333952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7131 S Broadway Ave",
     "sg:city":"Haysville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169603133,
-    "wof:lastmodified":1449035455,
+    "wof:lastmodified":1466519483,
     "wof:name":"Broadway Street Bikes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-97.333952,37.566769,-97.333952,37.566769],
+  "bbox": [
+    -97.333952,
+    37.566769,
+    -97.333952,
+    37.566769
+],
   "geometry": {"coordinates":[-97.333952,37.566769],"type":"Point"}
 }

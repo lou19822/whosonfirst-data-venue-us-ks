@@ -2,13 +2,14 @@
   "id": 202935583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.821485,38.849503,-94.821485,38.849503",
     "geom:latitude":38.849503,
     "geom:longitude":-94.821485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20255 W 154th St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202935583,
-    "wof:lastmodified":1449062217,
+    "wof:lastmodified":1466519870,
     "wof:name":"Target",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-94.821485,38.849503,-94.821485,38.849503],
+  "bbox": [
+    -94.821485,
+    38.849503,
+    -94.821485,
+    38.849503
+],
   "geometry": {"coordinates":[-94.821485,38.849503],"type":"Point"}
 }
