@@ -2,14 +2,20 @@
   "id": 840689135,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 N West St Wichita KS 67203",
+    "addr:housenumber":"701",
+    "addr:postcode":"67203",
+    "addr:street":"N West St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.38953,37.696507,-97.38953,37.696507",
     "geom:latitude":37.696507,
     "geom:longitude":-97.38953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 N West St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872817
     ],
+    "wof:brand_id":1125156655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZsUtyevCtH6LALCHE9YxS_37.696507_-97.389530@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045798,
-    "wof:geomhash":"2ae4c3d7718820e9b5111b832fd7bd81",
+    "wof:geomhash":"c927c15946acfa47a34923f883691138",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840689135,
-    "wof:lastmodified":1466523780,
+    "wof:lastmodified":1510698682,
     "wof:name":"Speedy Cash",
     "wof:parent_id":85872817,
     "wof:placetype":"venue",

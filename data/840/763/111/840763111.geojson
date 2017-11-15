@@ -2,14 +2,20 @@
   "id": 840763111,
   "type": "Feature",
   "properties": {
+    "addr:full":"1808 E Kansas City Rd Olathe KS 66061",
+    "addr:housenumber":"1808",
+    "addr:postcode":"66061",
+    "addr:street":"E Kansas City Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.787733,38.900426,-94.787733,38.900426",
     "geom:latitude":38.900426,
     "geom:longitude":-94.787733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1808 E Kansas City Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00ILldTNSima9Nz9eAldgA_38.900426_-94.787733@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047412,
-    "wof:geomhash":"740f0bb1b70b2848af4244cb49ac3ed4",
+    "wof:geomhash":"80c5629c2a645384b210664b6ad7c7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840763111,
-    "wof:lastmodified":1466525361,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

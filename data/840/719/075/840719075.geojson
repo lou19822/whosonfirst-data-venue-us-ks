@@ -2,6 +2,10 @@
   "id": 840719075,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 S 18 St Kansas City KS 66102",
+    "addr:housenumber":"155;18",
+    "addr:postcode":"66102",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840719075,
-    "wof:lastmodified":1466524365,
+    "wof:lastmodified":1472623483,
     "wof:name":"Dccca Family Preservation",
     "wof:parent_id":85878487,
     "wof:placetype":"venue",

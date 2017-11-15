@@ -2,14 +2,20 @@
   "id": 840954359,
   "type": "Feature",
   "properties": {
+    "addr:full":"4431 US Hwy 24 Topeka KS 66618",
+    "addr:housenumber":"4431",
+    "addr:postcode":"66618",
+    "addr:street":"Us Hwy 24",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.732942,39.09043,-95.732942,39.09043",
     "geom:latitude":39.09043,
     "geom:longitude":-95.732942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4431 US Hwy 24",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85881559,
         102084175
     ],
+    "wof:brand_id":1125159437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r22INo2KBjNBoBUJntAJf_39.090430_-95.732942@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051733,
-    "wof:geomhash":"4338bcee6298f71c91b61c5945c4df1d",
+    "wof:geomhash":"b60832f29f6799c24702b52e08c39e64",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840954359,
-    "wof:lastmodified":1466529742,
+    "wof:lastmodified":1510697978,
     "wof:name":"Wingfoot Commercial Tire Systs",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",

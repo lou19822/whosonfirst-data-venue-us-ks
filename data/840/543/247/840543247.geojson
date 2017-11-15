@@ -2,6 +2,10 @@
   "id": 840543247,
   "type": "Feature",
   "properties": {
+    "addr:full":"2847 S 9 St Kansas City KS 66103",
+    "addr:housenumber":"2847;9",
+    "addr:postcode":"66103",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840543247,
-    "wof:lastmodified":1466520594,
+    "wof:lastmodified":1472623299,
     "wof:name":"Lawn Ranger",
     "wof:parent_id":85866785,
     "wof:placetype":"venue",

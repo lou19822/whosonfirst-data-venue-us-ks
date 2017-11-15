@@ -2,14 +2,20 @@
   "id": 856698017,
   "type": "Feature",
   "properties": {
+    "addr:full":"2837 Roe Ln Kansas City KS 66103",
+    "addr:housenumber":"2837",
+    "addr:postcode":"66103",
+    "addr:street":"Roe Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.641431,39.050422,-94.641431,39.050422",
     "geom:latitude":39.050422,
     "geom:longitude":-94.641431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2837 Roe Ln",
     "sg:city":"Kansas City",
     "sg:classifiers":[],
@@ -31,13 +37,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":420575037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GGP7fsLQ91iRomDZN5C60_39.050422_-94.641431@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052021,
-    "wof:geomhash":"9720449f999a1881b76b679845a93fe7",
+    "wof:geomhash":"8859f4146faea135f1e7528036656bf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856698017,
-    "wof:lastmodified":1466519577,
+    "wof:lastmodified":1510602956,
     "wof:name":"Ferrellgas",
     "wof:parent_id":85866785,
     "wof:placetype":"venue",

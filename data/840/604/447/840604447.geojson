@@ -2,14 +2,20 @@
   "id": 840604447,
   "type": "Feature",
   "properties": {
+    "addr:full":"1041 Denmark St Wichita KS 67212",
+    "addr:housenumber":"",
+    "addr:postcode":"1041;67212",
+    "addr:street":"Denmark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.434088,37.701025,-97.434088,37.701025",
     "geom:latitude":37.701025,
     "geom:longitude":-97.434088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1041 Denmark St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125156245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6C9zMTahLw7KWlu1hX8tSS_37.701025_-97.434088@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043767,
-    "wof:geomhash":"627f64b62f803438818b68bd4e80d2fa",
+    "wof:geomhash":"c711f9733a70b4d96079373488daa3d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840604447,
-    "wof:lastmodified":1466522014,
+    "wof:lastmodified":1510695194,
     "wof:name":"Great Frame Up",
     "wof:parent_id":85812577,
     "wof:placetype":"venue",

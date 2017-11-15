@@ -2,14 +2,20 @@
   "id": 840765097,
   "type": "Feature",
   "properties": {
+    "addr:full":"15510 State Ave Basehor KS 66007",
+    "addr:housenumber":"15510",
+    "addr:postcode":"66007",
+    "addr:street":"State Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.93878,39.11627,-94.93878,39.11627",
     "geom:latitude":39.11627,
     "geom:longitude":-94.93878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15510 State Ave",
     "sg:city":"Basehor",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083429,
         85849437
     ],
+    "wof:brand_id":420574911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77TaFiW8EmwBjeewAaqpo6_39.116270_-94.938780@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047454,
-    "wof:geomhash":"211677209363a46355cb047b68772f8b",
+    "wof:geomhash":"374cc6fc407f7ef63384f46c8c3a84fe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840765097,
-    "wof:lastmodified":1466525349,
+    "wof:lastmodified":1510604579,
     "wof:name":"First American Title Ins Co",
     "wof:parent_id":85849437,
     "wof:placetype":"venue",

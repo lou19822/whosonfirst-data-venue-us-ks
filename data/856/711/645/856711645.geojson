@@ -2,6 +2,10 @@
   "id": 856711645,
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 SW Topeka Blvd Topeka KS 66611",
+    "addr:housenumber":"3210",
+    "addr:postcode":"66611",
+    "addr:street":"Sw Topeka Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":856711645,
-    "wof:lastmodified":1466520165,
+    "wof:lastmodified":1472623345,
     "wof:name":"Denny's",
     "wof:parent_id":85881549,
     "wof:placetype":"venue",

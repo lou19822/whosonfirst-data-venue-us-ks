@@ -2,14 +2,20 @@
   "id": 856708673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 N Waterfront Pkwy Wichita KS 67206",
+    "addr:housenumber":"1421",
+    "addr:postcode":"67206",
+    "addr:street":"N Waterfront Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.226587,37.693699,-97.226587,37.693699",
     "geom:latitude":37.693699,
     "geom:longitude":-97.226587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1421 N Waterfront Pkwy",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125159261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iupaTaeSNaIAJP2lxQCTU_37.693699_-97.226587@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052241,
-    "wof:geomhash":"45ec467c967ca2d59a0a90d4d4c697ea",
+    "wof:geomhash":"06f27f137fc04b4fcf2170adc44a24af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":856708673,
-    "wof:lastmodified":1466520070,
+    "wof:lastmodified":1510699645,
     "wof:name":"Fox and Hound",
     "wof:parent_id":85819881,
     "wof:placetype":"venue",

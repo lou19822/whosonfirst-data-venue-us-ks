@@ -2,14 +2,20 @@
   "id": 840759053,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 E Lewis St Wichita KS 67211",
+    "addr:housenumber":"1515",
+    "addr:postcode":"67211",
+    "addr:street":"E Lewis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.318562,37.680833,-97.318562,37.680833",
     "geom:latitude":37.680833,
     "geom:longitude":-97.318562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 E Lewis St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":420575201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o2uKKQkYtxPaG4FWilKjr_37.680833_-97.318562@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047311,
-    "wof:geomhash":"b322bceff3a0ed3fe58b5ce9735927fc",
+    "wof:geomhash":"12450773cc9843327c97cc3b3589d7a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840759053,
-    "wof:lastmodified":1466525212,
+    "wof:lastmodified":1510607658,
     "wof:name":"Consumer Credit Counseling Svc",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

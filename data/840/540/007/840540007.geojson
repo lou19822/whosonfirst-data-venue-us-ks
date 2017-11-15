@@ -2,6 +2,10 @@
   "id": 840540007,
   "type": "Feature",
   "properties": {
+    "addr:full":"690 S 4 St Kansas City KS 66113",
+    "addr:housenumber":"690;4",
+    "addr:postcode":"66113",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840540007,
-    "wof:lastmodified":1466520506,
+    "wof:lastmodified":1472623267,
     "wof:name":"Edwardsville Police Dept",
     "wof:parent_id":85810945,
     "wof:placetype":"venue",

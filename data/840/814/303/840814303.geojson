@@ -2,6 +2,10 @@
   "id": 840814303,
   "type": "Feature",
   "properties": {
+    "addr:full":"10801 Renner Blvd Lenexa KS 66219",
+    "addr:housenumber":"10801",
+    "addr:postcode":"66219",
+    "addr:street":"Renner Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840814303,
-    "wof:lastmodified":1466526464,
+    "wof:lastmodified":1472623578,
     "wof:name":"US Agricultural Marketing Svc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

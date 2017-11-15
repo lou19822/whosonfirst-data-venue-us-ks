@@ -2,14 +2,20 @@
   "id": 840614631,
   "type": "Feature",
   "properties": {
+    "addr:full":"7601 W 119th St Overland Park KS 66213",
+    "addr:housenumber":"7601",
+    "addr:postcode":"66213",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.674237,38.912826,-94.674237,38.912826",
     "geom:latitude":38.912826,
     "geom:longitude":-94.674237,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7601 W 119th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qmdfD2yKS12Jl7MdgAu8M_38.912826_-94.674237@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044028,
-    "wof:geomhash":"963dab3dd3201488f2bb236a02337415",
+    "wof:geomhash":"3d8a34600b83879a9fde430e8f918276",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840614631,
-    "wof:lastmodified":1466522253,
+    "wof:lastmodified":1510693834,
     "wof:name":"Tires Plus",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",

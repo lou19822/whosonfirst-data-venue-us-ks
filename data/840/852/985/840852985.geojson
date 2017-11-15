@@ -2,14 +2,20 @@
   "id": 840852985,
   "type": "Feature",
   "properties": {
+    "addr:full":"716 N 119th St W Wichita KS 67205",
+    "addr:housenumber":"716",
+    "addr:postcode":"67205",
+    "addr:street":"N 119Th St W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.480674,37.694879,-97.480674,37.694879",
     "geom:latitude":37.694879,
     "geom:longitude":-97.480674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"716 N 119th St W",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872815
     ],
+    "wof:brand_id":1125153223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2olPDL0QUV8YvSmlVgv4X1_37.694879_-97.480674@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049508,
-    "wof:geomhash":"482d43d7c8054caaf65b0065a0cd6a7d",
+    "wof:geomhash":"b15a507e2c4a7cdec65f26fdac075a02",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840852985,
-    "wof:lastmodified":1466527465,
+    "wof:lastmodified":1510699565,
     "wof:name":"Home Interiors & Gifts",
     "wof:parent_id":85872815,
     "wof:placetype":"venue",

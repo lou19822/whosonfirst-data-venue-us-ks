@@ -2,9 +2,14 @@
   "id": 202950079,
   "type": "Feature",
   "properties": {
+    "addr:full":"4601 W 109th St Ste 100 Leawood KS 66211",
+    "addr:housenumber":"4601",
+    "addr:postcode":"66211",
+    "addr:street":"W 109Th St Ste 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.638268,38.930672,-94.638268,38.930672",
     "geom:latitude":38.930672,
     "geom:longitude":-94.638268,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"6fb8dce2c0f9f33b5d80b675db1597e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":202950079,
-    "wof:lastmodified":1466520129,
+    "wof:lastmodified":1491901049,
     "wof:name":"Optical Options",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

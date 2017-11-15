@@ -2,14 +2,20 @@
   "id": 856711103,
   "type": "Feature",
   "properties": {
+    "addr:full":"8145 State Ave Kansas City KS 66112",
+    "addr:housenumber":"8145",
+    "addr:postcode":"66112",
+    "addr:street":"State Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.768406,39.116285,-94.768406,39.116285",
     "geom:latitude":39.116285,
     "geom:longitude":-94.768406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8145 State Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SigENlcPPKkOoJ3J8sAAq_39.116298_-94.768796@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052288,
-    "wof:geomhash":"ec7b56e019286e2e14c4c05b3d52deed",
+    "wof:geomhash":"152dadc1c43a801bba88bc061d8b249c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856711103,
-    "wof:lastmodified":1466520022,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85878509,
     "wof:placetype":"venue",

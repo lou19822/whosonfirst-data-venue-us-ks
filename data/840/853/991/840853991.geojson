@@ -2,14 +2,20 @@
   "id": 840853991,
   "type": "Feature",
   "properties": {
+    "addr:full":"4425 SE 29th St Topeka KS 66605",
+    "addr:housenumber":"4425",
+    "addr:postcode":"66605",
+    "addr:street":"Se 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.592889,39.014953,-95.592889,39.014953",
     "geom:latitude":39.014953,
     "geom:longitude":-95.592889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4425 SE 29th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084175,
         85881535
     ],
+    "wof:brand_id":1125154727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nJqxPLB7s6zpNovmlIhLm_39.014953_-95.592889@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049526,
-    "wof:geomhash":"e7256e7996272386d8898eae80af74e2",
+    "wof:geomhash":"82d326aa0699917c84d02be29de58b10",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840853991,
-    "wof:lastmodified":1466527494,
+    "wof:lastmodified":1510695868,
     "wof:name":"Eastside Baptist Church",
     "wof:parent_id":85881535,
     "wof:placetype":"venue",

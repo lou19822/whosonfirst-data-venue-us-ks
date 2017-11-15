@@ -2,14 +2,20 @@
   "id": 840543007,
   "type": "Feature",
   "properties": {
+    "addr:full":"546 S West St Wichita KS 67213",
+    "addr:housenumber":"546",
+    "addr:postcode":"west;67213",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.389287,37.67561,-97.389287,37.67561",
     "geom:latitude":37.67561,
     "geom:longitude":-97.389287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"546 S West St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":420575403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Zt72DCf9Gx8JWyZT6SOCr_37.675610_-97.389287@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464042302,
-    "wof:geomhash":"1d7891c21b8deef0f8665d6a680287e0",
+    "wof:geomhash":"401307aa4e8370c1150e5d560173cd8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840543007,
-    "wof:lastmodified":1466520507,
+    "wof:lastmodified":1510607570,
     "wof:name":"Pep Boys Supercenter",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",

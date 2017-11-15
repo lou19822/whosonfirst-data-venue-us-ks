@@ -2,14 +2,20 @@
   "id": 856712355,
   "type": "Feature",
   "properties": {
+    "addr:full":"3411 N Rock Rd Wichita KS 67226",
+    "addr:housenumber":"3411",
+    "addr:postcode":"67226",
+    "addr:street":"N Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.245326,37.745304,-97.245326,37.745304",
     "geom:latitude":37.745304,
     "geom:longitude":-97.245326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3411 N Rock Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IvU3aDIL3WbHsb1hna1MX_37.745493_-97.244781@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052312,
-    "wof:geomhash":"2d6a103ad7413c11f451bc4623133e3e",
+    "wof:geomhash":"1e5eb873580a23b9d23e366d0c9a98a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856712355,
-    "wof:lastmodified":1466520165,
+    "wof:lastmodified":1510699747,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",

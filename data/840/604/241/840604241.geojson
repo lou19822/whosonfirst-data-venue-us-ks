@@ -2,6 +2,10 @@
   "id": 840604241,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 E Central Ave Wichita KS 67214",
+    "addr:housenumber":"1001",
+    "addr:postcode":"67214",
+    "addr:street":"E Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840604241,
-    "wof:lastmodified":1466521958,
+    "wof:lastmodified":1472623372,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

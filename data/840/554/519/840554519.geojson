@@ -2,14 +2,20 @@
   "id": 840554519,
   "type": "Feature",
   "properties": {
+    "addr:full":"13512 S Alden St Olathe KS 66062",
+    "addr:housenumber":"13512",
+    "addr:postcode":"66062",
+    "addr:street":"S Alden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.756285,38.883492,-94.756285,38.883492",
     "geom:latitude":38.883492,
     "geom:longitude":-94.756285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13512 S Alden St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35u799xlVoDxQWAJi1Q2P6_38.883492_-94.756285@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464042617,
-    "wof:geomhash":"5c19def7fdacb4ec42c5bbdbbb102537",
+    "wof:geomhash":"62b57966321ae3db9344a9588bb7ef65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840554519,
-    "wof:lastmodified":1466520913,
+    "wof:lastmodified":1510693834,
     "wof:name":"Tires Plus",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840542225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1021 S 10 St Kansas City KS 66105",
+    "addr:housenumber":"1021;10",
+    "addr:postcode":"66105",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840542225,
-    "wof:lastmodified":1466520562,
+    "wof:lastmodified":1472623283,
     "wof:name":"Flares Unlimited Inc",
     "wof:parent_id":85873441,
     "wof:placetype":"venue",

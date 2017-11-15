@@ -2,6 +2,10 @@
   "id": 840587609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 S 5 St Kansas City KS 66105",
+    "addr:housenumber":"1200;5",
+    "addr:postcode":"66105",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840587609,
-    "wof:lastmodified":1466521614,
+    "wof:lastmodified":1472623352,
     "wof:name":"Total Distribution Inc",
     "wof:parent_id":85873441,
     "wof:placetype":"venue",

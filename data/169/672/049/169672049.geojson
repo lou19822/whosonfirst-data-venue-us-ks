@@ -2,9 +2,14 @@
   "id": 169672049,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 S 21 St Kansas City KS 66106",
+    "addr:housenumber":"1620;21",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.651839,39.070734,-94.651839,39.070734",
     "geom:latitude":39.070734,
     "geom:longitude":-94.651839,
@@ -25,11 +30,13 @@
     "sg:province":"KS",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85803445,
+        102191575,
+        404504875,
         85633793,
         85945801,
         102082163,
-        85803445
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"9d715e6ceffdb7ca66c494ce3d28f036",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082163,
+            "localadmin_id":404504875,
             "locality_id":85945801,
             "neighbourhood_id":85803445,
             "region_id":85688555,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":169672049,
-    "wof:lastmodified":1466529906,
+    "wof:lastmodified":1491910581,
     "wof:name":"Integrated Arts Resource Ctr",
     "wof:parent_id":85803445,
     "wof:placetype":"venue",

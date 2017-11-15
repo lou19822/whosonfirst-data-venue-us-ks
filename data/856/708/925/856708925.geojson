@@ -2,14 +2,20 @@
   "id": 856708925,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 S Tyler Rd Wichita KS 67209",
+    "addr:housenumber":"1212",
+    "addr:postcode":"67209",
+    "addr:street":"S Tyler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.443313,37.672084,-97.443313,37.672084",
     "geom:latitude":37.672084,
     "geom:longitude":-97.443313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1212 S Tyler Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hEj4UfdD6KMpXRKn6tJmY_37.672084_-97.443313@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052245,
-    "wof:geomhash":"a290f495f26c5e5ca46d8c3cff971fdd",
+    "wof:geomhash":"e8800394d4b1ad2908fb65738e78d9cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856708925,
-    "wof:lastmodified":1466520137,
+    "wof:lastmodified":1510699747,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85852945,
     "wof:placetype":"venue",

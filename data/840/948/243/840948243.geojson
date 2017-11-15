@@ -2,14 +2,20 @@
   "id": 840948243,
   "type": "Feature",
   "properties": {
+    "addr:full":"8101 State Ave Kansas City KS 66112",
+    "addr:housenumber":"8101",
+    "addr:postcode":"66112",
+    "addr:street":"State Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.769404,39.116295,-94.769404,39.116295",
     "geom:latitude":39.116295,
     "geom:longitude":-94.769404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8101 State Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W7w6FFVk9WpuuJZDfecjb_39.116295_-94.769404@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051612,
-    "wof:geomhash":"f3dea5962ebb9f4f5c86d2afe0270c2c",
+    "wof:geomhash":"689aa89cae6db99695817dbb24ba2d75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840948243,
-    "wof:lastmodified":1466529606,
+    "wof:lastmodified":1510622704,
     "wof:name":"Osco Drug",
     "wof:parent_id":85878509,
     "wof:placetype":"venue",

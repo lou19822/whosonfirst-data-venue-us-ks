@@ -2,9 +2,14 @@
   "id": 202950463,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 College Blvd Leawood KS 66211",
+    "addr:housenumber":"4501",
+    "addr:postcode":"66211",
+    "addr:street":"College Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.636645,38.927509,-94.636645,38.927509",
     "geom:latitude":38.927509,
     "geom:longitude":-94.636645,
@@ -25,11 +30,13 @@
     "sg:province":"KS",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"ed91b09fd17e29230dc97b23e0278286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":202950463,
-    "wof:lastmodified":1466520151,
+    "wof:lastmodified":1491901017,
     "wof:name":"Holiday Innday Inn Express",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840570445,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 S Cherry St Olathe KS 66061",
+    "addr:housenumber":"111",
+    "addr:postcode":"66061",
+    "addr:street":"S Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840570445,
-    "wof:lastmodified":1466521277,
+    "wof:lastmodified":1472623343,
     "wof:name":"Johnson County Information",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840547099,
   "type": "Feature",
   "properties": {
+    "addr:full":"8235 Melrose Dr Shawnee Mission KS 66214",
+    "addr:housenumber":"8235",
+    "addr:postcode":"66214",
+    "addr:street":"Melrose Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.708316,38.978933,-94.708316,38.978933",
     "geom:latitude":38.978933,
     "geom:longitude":-94.708316,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8235 Melrose Dr",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125157691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gSBycQg0hIt0YpSRZAnLV_38.978933_-94.708316@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464042437,
-    "wof:geomhash":"c417894ec33068e444fe7f96bb9e2a2d",
+    "wof:geomhash":"71204e73fe65468919c06681b65339f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840547099,
-    "wof:lastmodified":1466520657,
+    "wof:lastmodified":1510694901,
     "wof:name":"Oakwood Corporate Housing",
     "wof:parent_id":85879569,
     "wof:placetype":"venue",

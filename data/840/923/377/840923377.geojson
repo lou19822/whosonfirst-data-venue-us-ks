@@ -2,14 +2,20 @@
   "id": 840923377,
   "type": "Feature",
   "properties": {
+    "addr:full":"1259 S 220th St Pittsburg KS 66762",
+    "addr:housenumber":"1259",
+    "addr:postcode":"66762",
+    "addr:street":"S 220Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.705284,37.344007,-94.705284,37.344007",
     "geom:latitude":37.344007,
     "geom:longitude":-94.705284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1259 S 220th St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082657,
         85810831
     ],
+    "wof:brand_id":1125150313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kj6Onz9v8jAicq0gYxRRU_37.344007_-94.705284@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051089,
-    "wof:geomhash":"dae002be0fa4518b8ab57f9939e08a4e",
+    "wof:geomhash":"d28a5be5afd43277c86bd513de08cf3a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840923377,
-    "wof:lastmodified":1466528974,
+    "wof:lastmodified":1510697391,
     "wof:name":"Overhead Door Corp",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",

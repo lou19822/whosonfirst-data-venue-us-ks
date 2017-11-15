@@ -2,14 +2,20 @@
   "id": 840642023,
   "type": "Feature",
   "properties": {
+    "addr:full":"3979 N Woodlawn Ct Bel Aire KS 67220",
+    "addr:housenumber":"3979",
+    "addr:postcode":"67220",
+    "addr:street":"N Woodlawn Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.263702,37.755033,-97.263702,37.755033",
     "geom:latitude":37.755033,
     "geom:longitude":-97.263702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3979 N Woodlawn Ct",
     "sg:city":"Bel Aire",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125153635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YtsTIJDFc4dAxi6smh3eW_37.755033_-97.263702@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044721,
-    "wof:geomhash":"542ee3188d50324df59a1043457f5f82",
+    "wof:geomhash":"f58013bec517e426c8072c739b0d4538",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840642023,
-    "wof:lastmodified":1466522706,
+    "wof:lastmodified":1510695774,
     "wof:name":"Otis Elevator Co",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",

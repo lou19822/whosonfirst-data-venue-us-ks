@@ -2,9 +2,14 @@
   "id": 840613035,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 W 112th St Shawnee Mission KS 66211",
+    "addr:housenumber":"2701",
+    "addr:postcode":"66211",
+    "addr:street":"W 112Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.619784,38.925383,-94.619784,38.925383",
     "geom:latitude":38.925383,
     "geom:longitude":-94.619784,
@@ -27,7 +32,16 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555,
+        420525323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oxXcPaOWt5aUqXc7bHldW_38.925383_-94.619784@1294126544"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1464043997,
     "wof:geomhash":"87418050d12d41f4bf64d4ff0a6af316",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840613035
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":420525323,
+            "region_id":85688555,
+            "venue_id":840613035
+        }
+    ],
     "wof:id":840613035,
-    "wof:lastmodified":1466522072,
+    "wof:lastmodified":1491901049,
     "wof:name":"Intergrity Stratefies Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],

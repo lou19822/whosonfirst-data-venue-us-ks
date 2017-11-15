@@ -2,14 +2,20 @@
   "id": 840685201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 W 26th St S Wichita KS 67217",
+    "addr:housenumber":"1000",
+    "addr:postcode":"67217",
+    "addr:street":"W 26Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.350162,37.646616,-97.350162,37.646616",
     "geom:latitude":37.646616,
     "geom:longitude":-97.350162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 W 26th St S",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125153073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6R9Gs1YSKLxwub6JpOffRx_37.646616_-97.350162@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045689,
-    "wof:geomhash":"80e5c248eeea88a12bf857083511e100",
+    "wof:geomhash":"30a47f6e70bff588674526b7b27d90e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840685201,
-    "wof:lastmodified":1466523644,
+    "wof:lastmodified":1510613331,
     "wof:name":"Bethany Lutheran Church",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

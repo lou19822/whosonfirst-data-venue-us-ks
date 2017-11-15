@@ -2,14 +2,20 @@
   "id": 840663629,
   "type": "Feature",
   "properties": {
+    "addr:full":"938 NE Wabash Ave Topeka KS 66616",
+    "addr:housenumber":"938",
+    "addr:postcode":"66616",
+    "addr:street":"Ne Wabash Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.639575,39.069118,-95.639575,39.069118",
     "geom:latitude":39.069118,
     "geom:longitude":-95.639575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"938 NE Wabash Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":420575745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZgISFPLx4siXar023BiRI_39.069118_-95.639575@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045180,
-    "wof:geomhash":"3954e22e3d8f59a61f318151d65c4a94",
+    "wof:geomhash":"504ceaf93d09c9e3efb7cc6e4cfba029",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840663629,
-    "wof:lastmodified":1466523257,
+    "wof:lastmodified":1510602838,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":85838959,
     "wof:placetype":"venue",

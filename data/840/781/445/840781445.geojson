@@ -2,14 +2,20 @@
   "id": 840781445,
   "type": "Feature",
   "properties": {
+    "addr:full":"7700 E Kellogg Dr N Wichita KS 67207",
+    "addr:housenumber":"7700",
+    "addr:postcode":"67207",
+    "addr:street":"E Kellogg Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.247833,37.679583,-97.247833,37.679583",
     "geom:latitude":37.679583,
     "geom:longitude":-97.247833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7700 E Kellogg Dr N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":420575065,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c0Ha20kVOm2I0rX723Pow_37.679583_-97.247833@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047792,
-    "wof:geomhash":"ccf03bd86246a9dce2bc7dc59b0c031f",
+    "wof:geomhash":"031df5a999e9688b3c00c46f6a7a90a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840781445,
-    "wof:lastmodified":1466525824,
+    "wof:lastmodified":1510602420,
     "wof:name":"Limited Too",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840904377,
   "type": "Feature",
   "properties": {
+    "addr:full":"11153 W 95th St Overland Park KS 66214",
+    "addr:housenumber":"11153",
+    "addr:postcode":"66214",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.723152,38.95646,-94.723152,38.95646",
     "geom:latitude":38.95646,
     "geom:longitude":-94.723152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11153 W 95th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125159157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gFjNqdKW5CApKLcDHMMs7_38.956460_-94.723152@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050582,
-    "wof:geomhash":"e371ae905c598005fbc6fa0da8f0da99",
+    "wof:geomhash":"00c16c197691ea30339eddc802c3da85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840904377,
-    "wof:lastmodified":1466528393,
+    "wof:lastmodified":1510699956,
     "wof:name":"Bailey Banks & Biddle",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",

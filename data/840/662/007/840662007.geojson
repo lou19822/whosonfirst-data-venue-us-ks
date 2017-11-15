@@ -2,6 +2,10 @@
   "id": 840662007,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 S 38 St Kansas City KS 66106",
+    "addr:housenumber":"610;38",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840662007,
-    "wof:lastmodified":1466523128,
+    "wof:lastmodified":1472623430,
     "wof:name":"Layne Christensen Co",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

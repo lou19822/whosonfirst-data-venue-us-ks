@@ -2,14 +2,20 @@
   "id": 840788941,
   "type": "Feature",
   "properties": {
+    "addr:full":"419 Wabash St Wichita KS 67214",
+    "addr:housenumber":"419",
+    "addr:postcode":"67214",
+    "addr:street":"Wabash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.325374,37.693173,-97.325374,37.693173",
     "geom:latitude":37.693173,
     "geom:longitude":-97.325374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"419 Wabash St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6no8eZ6JM6G5GLyLf8WZKw_37.693173_-97.325374@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047956,
-    "wof:geomhash":"d1e79ee8d36e5e26967258f54e6c88a1",
+    "wof:geomhash":"80ff11f4d2e58f36809afc5fac443508",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840788941,
-    "wof:lastmodified":1466526090,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

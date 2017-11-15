@@ -2,14 +2,20 @@
   "id": 169637761,
   "type": "Feature",
   "properties": {
+    "addr:full":"4515 Kansas Ave Kansas City KS 66105",
+    "addr:housenumber":"4515",
+    "addr:postcode":"66105",
+    "addr:street":"Kansas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.684358,39.089371,-94.684358,39.089371",
     "geom:latitude":39.089371,
     "geom:longitude":-94.684358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4515 Kansas Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082163,
         85878507
     ],
+    "wof:brand_id":1125150857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ogoxLPqR8sEyjKZ3RhAJY_39.089371_-94.684358@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"f94b17839ccd98549b3307902b0d3b71",
+    "wof:geomhash":"8ed3441d42834435db88ab6356329915",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169637761,
-    "wof:lastmodified":1466520251,
+    "wof:lastmodified":1510694216,
     "wof:name":"Burlington Northern",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

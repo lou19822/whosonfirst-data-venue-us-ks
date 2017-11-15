@@ -2,14 +2,20 @@
   "id": 840737267,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 E 18 St Kansas City KS 64108",
+    "addr:housenumber":"1601;18",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.56212,39.091183,-94.56212,39.091183",
     "geom:latitude":39.091183,
     "geom:longitude":-94.56212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1601 E 18 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gghxyHBTg51kwiB0e2UDv_39.091183_-94.562120@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046841,
-    "wof:geomhash":"b063a22103c8c134f7460244ebd0fbe7",
+    "wof:geomhash":"7c07addedbe5f97fe941239952126905",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840737267,
-    "wof:lastmodified":1466524871,
+    "wof:lastmodified":1510697644,
     "wof:name":"NAACP",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

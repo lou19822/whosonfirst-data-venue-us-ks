@@ -2,14 +2,20 @@
   "id": 840666905,
   "type": "Feature",
   "properties": {
+    "addr:full":"9724 Legler Rd Lenexa KS 66219",
+    "addr:housenumber":"9724",
+    "addr:postcode":"66219",
+    "addr:street":"Legler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.772549,38.952879,-94.772549,38.952879",
     "geom:latitude":38.952879,
     "geom:longitude":-94.772549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9724 Legler Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125156377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SEyeJ0SM2MiL8wYOW4wyi_38.952879_-94.772549@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045253,
-    "wof:geomhash":"a8a7256f9999d4da67925bf2bf1c08e2",
+    "wof:geomhash":"52fc60decb723df1b1eaf36c0c06be0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840666905,
-    "wof:lastmodified":1466523389,
+    "wof:lastmodified":1510699358,
     "wof:name":"Concentra Medical Ctr",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840752473,
   "type": "Feature",
   "properties": {
+    "addr:full":"4123 E 37th St N Wichita KS 67220",
+    "addr:housenumber":"4123",
+    "addr:postcode":"67220",
+    "addr:street":"E 37Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840752473,
-    "wof:lastmodified":1466525244,
+    "wof:lastmodified":1472623522,
     "wof:name":"Invista",
     "wof:parent_id":85852315,
     "wof:placetype":"venue",

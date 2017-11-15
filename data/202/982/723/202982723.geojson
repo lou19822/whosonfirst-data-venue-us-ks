@@ -2,6 +2,10 @@
   "id": 202982723,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 W 29th Cir S Wichita KS 67215",
+    "addr:housenumber":"4321",
+    "addr:postcode":"67215",
+    "addr:street":"W 29Th Cir S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":202982723,
-    "wof:lastmodified":1466520381,
+    "wof:lastmodified":1472623296,
     "wof:name":"Interstate Mechanical Inc",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202950851,
   "type": "Feature",
   "properties": {
+    "addr:full":"4550 W 109th St Leawood KS 66211",
+    "addr:housenumber":"4550",
+    "addr:postcode":"66211",
+    "addr:street":"W 109Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.6376,38.930963,-94.6376,38.930963",
     "geom:latitude":38.930963,
     "geom:longitude":-94.6376,
@@ -38,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +59,10 @@
     "wof:geomhash":"4e28186cdd4cc2f398939ce585a35e47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":202950851,
-    "wof:lastmodified":1466520167,
+    "wof:lastmodified":1491901013,
     "wof:name":"Continental Title",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856702633,
   "type": "Feature",
   "properties": {
+    "addr:full":"2432 Hathway Cir Wichita KS 67226",
+    "addr:housenumber":"",
+    "addr:postcode":"2432;67226",
+    "addr:street":"Hathway Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.245529,37.727629,-97.245529,37.727629",
     "geom:latitude":37.727629,
     "geom:longitude":-97.245529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2432 Hathway Cir",
     "sg:city":"Wichita",
     "sg:classifiers":[],
@@ -30,13 +36,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125151871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70CVwxZYtubjLSp45E3v51_37.727629_-97.245529@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052121,
-    "wof:geomhash":"6980ba106864cf6f2ab5da76bfc794b0",
+    "wof:geomhash":"d99f1f2f9d96b158b4d25e40a065638d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":856702633,
-    "wof:lastmodified":1466519898,
+    "wof:lastmodified":1510698680,
     "wof:name":"Amsoil Synthetic Lubricants",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",

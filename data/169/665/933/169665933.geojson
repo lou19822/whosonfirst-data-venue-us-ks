@@ -2,14 +2,20 @@
   "id": 169665933,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 W Chestnut Ave Arkansas City KS 67005",
+    "addr:housenumber":"812",
+    "addr:postcode":"67005",
+    "addr:street":"W Chestnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.047899,37.063598,-97.047899,37.063598",
     "geom:latitude":37.063598,
     "geom:longitude":-97.047899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"812 W Chestnut Ave",
     "sg:city":"Arkansas City",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         85946335,
         102082165
     ],
+    "wof:brand_id":1125153167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hS5B9gLAHydaUNwhURBBX_37.063598_-97.047899@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cd7e4a8769bfeefd25c245f77958340",
+    "wof:geomhash":"204a764f3abbca5d3bfcab5389408d84",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":169665933,
-    "wof:lastmodified":1466520466,
+    "wof:lastmodified":1510694655,
     "wof:name":"Narcotics Anonymous",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

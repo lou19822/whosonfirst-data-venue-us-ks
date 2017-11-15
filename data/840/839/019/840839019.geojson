@@ -2,6 +2,10 @@
   "id": 840839019,
   "type": "Feature",
   "properties": {
+    "addr:full":"3123 Merriam Ln Kansas City KS 66106",
+    "addr:housenumber":"3123",
+    "addr:postcode":"66106",
+    "addr:street":"Merriam Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840839019,
-    "wof:lastmodified":1466526931,
+    "wof:lastmodified":1472623596,
     "wof:name":"Basic Business Products",
     "wof:parent_id":85803445,
     "wof:placetype":"venue",

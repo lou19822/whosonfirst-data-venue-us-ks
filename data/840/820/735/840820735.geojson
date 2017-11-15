@@ -2,14 +2,20 @@
   "id": 840820735,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Merchant St Emporia KS 66801",
+    "addr:housenumber":"625",
+    "addr:postcode":"66801",
+    "addr:street":"Merchant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.181508,38.405906,-96.181508,38.405906",
     "geom:latitude":38.405906,
     "geom:longitude":-96.181508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 Merchant St",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082661,
         85805839
     ],
+    "wof:brand_id":420575201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fLjgSzcbE3x6aInEiFFdd_38.405906_-96.181508@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048771,
-    "wof:geomhash":"54ef57fcf4699d2ecdb73eb194ae6abb",
+    "wof:geomhash":"3f5c79b97561fac68566a721e28a70a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840820735,
-    "wof:lastmodified":1466526733,
+    "wof:lastmodified":1510602697,
     "wof:name":"Consumer Credit Counseling Svc",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",

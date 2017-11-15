@@ -2,14 +2,20 @@
   "id": 856704275,
   "type": "Feature",
   "properties": {
+    "addr:full":"11969 S Strang Line Rd Olathe KS 66062",
+    "addr:housenumber":"11969",
+    "addr:postcode":"66062",
+    "addr:street":"S Strang Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.767246,38.909213,-94.767246,38.909213",
     "geom:latitude":38.909213,
     "geom:longitude":-94.767246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11969 S Strang Line Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r5rCYrEVkx8lEjo3FBb4N_38.909213_-94.767246@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052155,
-    "wof:geomhash":"d8fb45df4344bff60b73ad9717a5cb9c",
+    "wof:geomhash":"3822b4d14976aebe7a0f3e96feb3726a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":856704275,
-    "wof:lastmodified":1466519853,
+    "wof:lastmodified":1510696799,
     "wof:name":"Old Chicago",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

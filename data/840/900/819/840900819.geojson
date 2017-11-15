@@ -2,14 +2,20 @@
   "id": 840900819,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 N Elizabeth St Wichita KS 67203",
+    "addr:housenumber":"135",
+    "addr:postcode":"67203",
+    "addr:street":"N Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.357675,37.684959,-97.357675,37.684959",
     "geom:latitude":37.684959,
     "geom:longitude":-97.357675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 N Elizabeth St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125159143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64fIXWsO89ckxvBm3DeBRg_37.684959_-97.357675@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050514,
-    "wof:geomhash":"9c6c38705e6da0205013abf366a2090c",
+    "wof:geomhash":"25722c2caff78e6a301874a09d8f9418",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840900819,
-    "wof:lastmodified":1466528519,
+    "wof:lastmodified":1510698656,
     "wof:name":"American Lenders Svc Co",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",

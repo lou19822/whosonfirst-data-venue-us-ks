@@ -2,6 +2,10 @@
   "id": 840816949,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 N 5 St Kansas City KS 66101",
+    "addr:housenumber":"2001;5",
+    "addr:postcode":"66101",
+    "addr:street":"N;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840816949,
-    "wof:lastmodified":1466526656,
+    "wof:lastmodified":1472623589,
     "wof:name":"Corner Grill",
     "wof:parent_id":85878501,
     "wof:placetype":"venue",

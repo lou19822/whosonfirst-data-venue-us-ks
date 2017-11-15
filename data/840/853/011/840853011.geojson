@@ -2,14 +2,20 @@
   "id": 840853011,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 E Santa Fe St Olathe KS 66061",
+    "addr:housenumber":"216",
+    "addr:postcode":"66061",
+    "addr:street":"E Santa Fe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.817225,38.883614,-94.817225,38.883614",
     "geom:latitude":38.883614,
     "geom:longitude":-94.817225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"216 E Santa Fe St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125158467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Lb9lnDQQFPAyLy9SxksAx_38.883614_-94.817225@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049509,
-    "wof:geomhash":"5e57e77a3cc9c91debd6c25bff81ca90",
+    "wof:geomhash":"986c77d944303d111517818983b10ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840853011,
-    "wof:lastmodified":1466527233,
+    "wof:lastmodified":1510613246,
     "wof:name":"Butternut Bread",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

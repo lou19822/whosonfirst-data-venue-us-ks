@@ -2,14 +2,20 @@
   "id": 840602561,
   "type": "Feature",
   "properties": {
+    "addr:full":"2222 W Harry St Wichita KS 67213",
+    "addr:housenumber":"2222",
+    "addr:postcode":"67213",
+    "addr:street":"W Harry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.369729,37.665988,-97.369729,37.665988",
     "geom:latitude":37.665988,
     "geom:longitude":-97.369729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2222 W Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o7KS9ovhKi24OOS2Ba8SW_37.665988_-97.369729@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043715,
-    "wof:geomhash":"231ccc05f550d7cfe32b00eb04ed195c",
+    "wof:geomhash":"7d41da029152749bf7b328f2dc417174",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":840602561,
-    "wof:lastmodified":1466521985,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",

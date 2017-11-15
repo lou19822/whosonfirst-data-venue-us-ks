@@ -2,9 +2,14 @@
   "id": 840656549,
   "type": "Feature",
   "properties": {
+    "addr:full":"13200 Mission Rd Shawnee Mission KS 66209",
+    "addr:housenumber":"13200",
+    "addr:postcode":"66209",
+    "addr:street":"Mission Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.630546,38.888857,-94.630546,38.888857",
     "geom:latitude":38.888857,
     "geom:longitude":-94.630546,
@@ -25,7 +30,15 @@
     "sg:province":"KS",
     "sg:website":"www.bluevalley.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00avhdjJvvOCfBABhXQZEy_38.888857_-94.630546@1294126544"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1464045032,
     "wof:geomhash":"d1abd281358983bcd2c4ed22f5d4f1ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840656549
+        }
+    ],
     "wof:id":840656549,
-    "wof:lastmodified":1466523124,
+    "wof:lastmodified":1491901020,
     "wof:name":"Mission Trail Elementary Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85879563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],

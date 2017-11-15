@@ -2,6 +2,10 @@
   "id": 840643197,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 Washington Blvd Kansas City KS 66102",
+    "addr:housenumber":"1610",
+    "addr:postcode":"66102",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840643197,
-    "wof:lastmodified":1466522776,
+    "wof:lastmodified":1472623406,
     "wof:name":"Metropolitan Internal Med",
     "wof:parent_id":85878505,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840882611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1612 Industrial Rd Emporia KS 66801",
+    "addr:housenumber":"1612",
+    "addr:postcode":"66801",
+    "addr:street":"Industrial Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.216963,38.41749,-96.216963,38.41749",
     "geom:latitude":38.41749,
     "geom:longitude":-96.216963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1612 Industrial Rd",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082661,
         85805839
     ],
+    "wof:brand_id":1125152115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lY4WsiTD84WJOYxkABurB_38.417490_-96.216963@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050122,
-    "wof:geomhash":"3948e4a1501ed138eb3513629d884d83",
+    "wof:geomhash":"52d86fb14fa48b20d988c96066f83f93",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840882611,
-    "wof:lastmodified":1466527991,
+    "wof:lastmodified":1510628021,
     "wof:name":"US Navy Recruiting",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",

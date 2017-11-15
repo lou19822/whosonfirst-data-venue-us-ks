@@ -2,14 +2,20 @@
   "id": 840582429,
   "type": "Feature",
   "properties": {
+    "addr:full":"708 N Locust St Pittsburg KS 66762",
+    "addr:housenumber":"708",
+    "addr:postcode":"66762",
+    "addr:street":"N Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.703224,37.41496,-94.703224,37.41496",
     "geom:latitude":37.41496,
     "geom:longitude":-94.703224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"708 N Locust St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082657,
         85810831
     ],
+    "wof:brand_id":1125154795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AIghjTwb4k8VI0KUb4G3U_37.414960_-94.703224@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043263,
-    "wof:geomhash":"732f96fef099606fae5be3adb6414b80",
+    "wof:geomhash":"c45df4ea86c214161553e991b59d76a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840582429,
-    "wof:lastmodified":1466521528,
+    "wof:lastmodified":1510693704,
     "wof:name":"Probation & Parole Ofc",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",

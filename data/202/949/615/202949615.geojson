@@ -2,9 +2,14 @@
   "id": 202949615,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 W 110th St Leawood KS 66211",
+    "addr:housenumber":"4801",
+    "addr:postcode":"66211",
+    "addr:street":"W 110Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.640992,38.929131,-94.640992,38.929131",
     "geom:latitude":38.929131,
     "geom:longitude":-94.640992,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"dfd9f9dd61cdb3b215d58bd17a4b191f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":202949615,
-    "wof:lastmodified":1466520147,
+    "wof:lastmodified":1491901029,
     "wof:name":"B & W Investments",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

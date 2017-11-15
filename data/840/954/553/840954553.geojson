@@ -2,14 +2,20 @@
   "id": 840954553,
   "type": "Feature",
   "properties": {
+    "addr:full":"6485 Quivira Rd Shawnee KS 66216",
+    "addr:housenumber":"6485",
+    "addr:postcode":"66216",
+    "addr:street":"Quivira Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.723763,39.011488,-94.723763,39.011488",
     "geom:latitude":39.011488,
     "geom:longitude":-94.723763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6485 Quivira Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KEoRvcY7mGnqESFEMX39f_39.011488_-94.723763@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051736,
-    "wof:geomhash":"22b2cffdecd765d9db9462001f656b74",
+    "wof:geomhash":"7e67d3dac65a00074afb3f9ed3743e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840954553,
-    "wof:lastmodified":1466529963,
+    "wof:lastmodified":1510695435,
     "wof:name":"Rosati's Pizza",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",

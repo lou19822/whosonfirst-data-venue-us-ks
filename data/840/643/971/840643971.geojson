@@ -2,14 +2,20 @@
   "id": 840643971,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 E 1st St N Wichita KS 67214",
+    "addr:housenumber":"1321",
+    "addr:postcode":"67214",
+    "addr:street":"E 1St St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.322069,37.687922,-97.322069,37.687922",
     "geom:latitude":37.687922,
     "geom:longitude":-97.322069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1321 E 1st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125151207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AUTksJopXb9UsMQJRtSg1_37.687922_-97.322069@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044763,
-    "wof:geomhash":"eb6f81b5cc0d319bc25471e6314b924c",
+    "wof:geomhash":"edce61c18f3570eeafb14e946e977e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840643971,
-    "wof:lastmodified":1466522963,
+    "wof:lastmodified":1510613191,
     "wof:name":"ABC Supply Co",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

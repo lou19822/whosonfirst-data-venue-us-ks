@@ -2,14 +2,20 @@
   "id": 840624699,
   "type": "Feature",
   "properties": {
+    "addr:full":"2864 SW College Ct Topeka KS 66611",
+    "addr:housenumber":"2864",
+    "addr:postcode":"66611",
+    "addr:street":"Sw College Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.70025,39.016535,-95.70025,39.016535",
     "geom:latitude":39.016535,
     "geom:longitude":-95.70025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2864 SW College Ct",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ouYOJ8kWRBZDRGfnsnvm4_39.016535_-95.700250@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044287,
-    "wof:geomhash":"894391e01b641ba82a8b8c04b374b277",
+    "wof:geomhash":"60d66a8ce2f4e5b5e1f8a2b963fc48f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840624699,
-    "wof:lastmodified":1466522446,
+    "wof:lastmodified":1510602691,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85881549,
     "wof:placetype":"venue",

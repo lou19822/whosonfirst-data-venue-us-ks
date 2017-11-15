@@ -2,14 +2,20 @@
   "id": 840784607,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 SW Drury Ln Topeka KS 66604",
+    "addr:housenumber":"4300",
+    "addr:postcode":"66604",
+    "addr:street":"Sw Drury Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.730448,39.040333,-95.730448,39.040333",
     "geom:latitude":39.040333,
     "geom:longitude":-95.730448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 SW Drury Ln",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125155215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hOL6F9PBo4s3PgYfxJD3N_39.040333_-95.730448@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047850,
-    "wof:geomhash":"524df8bd9ec7b3d88dd6e6340c1c97bb",
+    "wof:geomhash":"e125d9692e4e1324764484e732111a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840784607,
-    "wof:lastmodified":1466525914,
+    "wof:lastmodified":1510695367,
     "wof:name":"American Lung Assn",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",

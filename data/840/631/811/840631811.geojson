@@ -2,14 +2,20 @@
   "id": 840631811,
   "type": "Feature",
   "properties": {
+    "addr:full":"5040 W 119th St Leawood KS 66209",
+    "addr:housenumber":"5040",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.64256,38.91299,-94.64256,38.91299",
     "geom:latitude":38.91299,
     "geom:longitude":-94.64256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5040 W 119th St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575065,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jNGvStfPBPZMpvQSvPZZB_38.912990_-94.642560@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044486,
-    "wof:geomhash":"4596f6266b138333cc6edd32cba8a193",
+    "wof:geomhash":"6d54a185bad3bd209f3088221fd297b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840631811,
-    "wof:lastmodified":1466522653,
+    "wof:lastmodified":1510602420,
     "wof:name":"Limited Too",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

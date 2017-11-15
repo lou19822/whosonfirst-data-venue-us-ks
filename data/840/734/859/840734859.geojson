@@ -2,6 +2,10 @@
   "id": 840734859,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 E 83 St Kansas City KS 64114",
+    "addr:housenumber":"115;83",
+    "addr:postcode":"64114",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840734859,
-    "wof:lastmodified":1466524915,
+    "wof:lastmodified":1472623507,
     "wof:name":"Hope Care Center Inc",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

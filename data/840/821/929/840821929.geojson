@@ -2,6 +2,10 @@
   "id": 840821929,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 S 38 St Kansas City KS 66106",
+    "addr:housenumber":"620;38",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":840821929,
-    "wof:lastmodified":1466526808,
+    "wof:lastmodified":1472623593,
     "wof:name":"Layne Western Co",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

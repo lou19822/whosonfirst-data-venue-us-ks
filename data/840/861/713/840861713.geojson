@@ -2,14 +2,20 @@
   "id": 840861713,
   "type": "Feature",
   "properties": {
+    "addr:full":"3045 N Rock Rd Wichita KS 67226",
+    "addr:housenumber":"3045",
+    "addr:postcode":"67226",
+    "addr:street":"N Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.244726,37.738333,-97.244726,37.738333",
     "geom:latitude":37.738333,
     "geom:longitude":-97.244726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3045 N Rock Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75hiOU6lHeiH75L9wRsU1Z_37.738333_-97.244726@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049687,
-    "wof:geomhash":"f9bffcb15c2b512d9a78f226fc5f17c5",
+    "wof:geomhash":"20a4cc44309636e76708cc3a0b23ada4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840861713,
-    "wof:lastmodified":1466527578,
+    "wof:lastmodified":1510604033,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",

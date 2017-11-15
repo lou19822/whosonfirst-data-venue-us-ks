@@ -2,14 +2,20 @@
   "id": 840815159,
   "type": "Feature",
   "properties": {
+    "addr:full":"8500 College Blvd Overland Park KS 66210",
+    "addr:housenumber":"8500",
+    "addr:postcode":"66210",
+    "addr:street":"College Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.684462,38.927543,-94.684462,38.927543",
     "geom:latitude":38.927543,
     "geom:longitude":-94.684462,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8500 College Blvd",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125153273,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wgAd47mnx6zQ4ci2txbQN_38.927543_-94.684462@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048619,
-    "wof:geomhash":"8756fdf7cad1e5d98fb902d3ecb208e9",
+    "wof:geomhash":"1de379e14f337aa50a257a83a40fcffe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840815159,
-    "wof:lastmodified":1466526441,
+    "wof:lastmodified":1510698837,
     "wof:name":"Adventures In Advertising",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",

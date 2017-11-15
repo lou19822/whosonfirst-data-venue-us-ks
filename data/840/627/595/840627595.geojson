@@ -2,14 +2,20 @@
   "id": 840627595,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 SW Shunga Dr Topeka KS 66614",
+    "addr:housenumber":"3900",
+    "addr:postcode":"66614",
+    "addr:street":"Sw Shunga Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.728412,39.018139,-95.728412,39.018139",
     "geom:latitude":39.018139,
     "geom:longitude":-95.728412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3900 SW Shunga Dr",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zKknKSFrSBBYPMImz5ACn_39.018139_-95.728412@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044369,
-    "wof:geomhash":"b4134e472637ea8901a6257c8a8b7a36",
+    "wof:geomhash":"2e82a1721b5ac463af90752ec7d40982",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840627595,
-    "wof:lastmodified":1466522553,
+    "wof:lastmodified":1510694183,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

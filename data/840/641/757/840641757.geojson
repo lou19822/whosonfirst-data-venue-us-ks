@@ -2,6 +2,10 @@
   "id": 840641757,
   "type": "Feature",
   "properties": {
+    "addr:full":"2406 S 24 St Kansas City KS 66106",
+    "addr:housenumber":"2406;24",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840641757,
-    "wof:lastmodified":1466522877,
+    "wof:lastmodified":1472623417,
     "wof:name":"Lally's Barber Shop",
     "wof:parent_id":85803445,
     "wof:placetype":"venue",

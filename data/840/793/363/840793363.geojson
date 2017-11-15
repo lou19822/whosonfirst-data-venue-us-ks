@@ -2,14 +2,20 @@
   "id": 840793363,
   "type": "Feature",
   "properties": {
+    "addr:full":"6750 Antioch Rd Overland Park KS 66204",
+    "addr:housenumber":"6750",
+    "addr:postcode":"66204",
+    "addr:street":"Antioch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.686527,39.005895,-94.686527,39.005895",
     "geom:latitude":39.005895,
     "geom:longitude":-94.686527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6750 Antioch Rd",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37WduR0S8jXr1JHd4OvZwb_39.005895_-94.686527@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048049,
-    "wof:geomhash":"3a0d1968a795d26cebc3a785f1b8f187",
+    "wof:geomhash":"d61d7bfd914e9e25223ff46279c991e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840793363,
-    "wof:lastmodified":1466526065,
+    "wof:lastmodified":1510697366,
     "wof:name":"Sandler Sales Institute",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",

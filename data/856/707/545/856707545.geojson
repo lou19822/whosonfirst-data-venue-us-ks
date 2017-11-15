@@ -2,14 +2,20 @@
   "id": 856707545,
   "type": "Feature",
   "properties": {
+    "addr:full":"4007 Parkview Dr Pittsburg KS 66762",
+    "addr:housenumber":"4007",
+    "addr:postcode":"66762",
+    "addr:street":"Parkview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.705036,37.441747,-94.705036,37.441747",
     "geom:latitude":37.441747,
     "geom:longitude":-94.705036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4007 Parkview Dr",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082657,
         85810831
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_267eAqid6sdycLRl2iqhjf_37.441747_-94.705036@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052221,
-    "wof:geomhash":"334a0c6e8eff332393cc6a08dd0e8e3e",
+    "wof:geomhash":"b89bbccae5f61f557b6696ea340c3da9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856707545,
-    "wof:lastmodified":1466520001,
+    "wof:lastmodified":1510699747,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",

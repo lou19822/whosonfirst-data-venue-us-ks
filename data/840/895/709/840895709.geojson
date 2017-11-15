@@ -2,14 +2,20 @@
   "id": 840895709,
   "type": "Feature",
   "properties": {
+    "addr:full":"3815 W 30th St S Wichita KS 67217",
+    "addr:housenumber":"3815",
+    "addr:postcode":"67217",
+    "addr:street":"W 30Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.384736,37.638893,-97.384736,37.638893",
     "geom:latitude":37.638893,
     "geom:longitude":-97.384736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3815 W 30th St S",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51bnveenU9zC4lRA7cMqjz_37.638893_-97.384736@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050399,
-    "wof:geomhash":"48a6e8e6270ff1623404b53a8267356b",
+    "wof:geomhash":"d98a4428ea0b2bb4cfea6b75de05b1c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840895709,
-    "wof:lastmodified":1466528358,
+    "wof:lastmodified":1510601963,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

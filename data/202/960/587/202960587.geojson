@@ -2,14 +2,20 @@
   "id": 202960587,
   "type": "Feature",
   "properties": {
+    "addr:full":"2038 SW Gage Blvd Topeka KS 66604",
+    "addr:housenumber":"2038",
+    "addr:postcode":"66604",
+    "addr:street":"Sw Gage Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.72494,39.029013,-95.72494,39.029013",
     "geom:latitude":39.029013,
     "geom:longitude":-95.72494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2038 SW Gage Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[],
@@ -25,12 +31,13 @@
         102084175,
         85881551
     ],
+    "wof:brand_id":1125151367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JDtTZqH5TbWOlA9uONaKl_39.029013_-95.724940@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"734c169dcec6a41ceac63cee3d326795",
+    "wof:geomhash":"09ec8fd53ea421b890d70925b055cf17",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +50,7 @@
         }
     ],
     "wof:id":202960587,
-    "wof:lastmodified":1466520231,
+    "wof:lastmodified":1510696777,
     "wof:name":"Jade Garden",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",

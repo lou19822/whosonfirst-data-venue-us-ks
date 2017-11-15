@@ -2,6 +2,10 @@
   "id": 840710451,
   "type": "Feature",
   "properties": {
+    "addr:full":"10611 S Cedar Niles Blvd Olathe KS 66061",
+    "addr:housenumber":"10611",
+    "addr:postcode":"66061",
+    "addr:street":"S Cedar;Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840710451,
-    "wof:lastmodified":1466524255,
+    "wof:lastmodified":1472623475,
     "wof:name":"Turner Court Reporting",
     "wof:parent_id":85812711,
     "wof:placetype":"venue",

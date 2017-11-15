@@ -2,6 +2,10 @@
   "id": 840718857,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 S Southwest Blvd Wichita KS 67213",
+    "addr:housenumber":"1901",
+    "addr:postcode":"67213",
+    "addr:street":"S Southwest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840718857,
-    "wof:lastmodified":1466524568,
+    "wof:lastmodified":1472623504,
     "wof:name":"Mid Continent Resource Rcvry",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",

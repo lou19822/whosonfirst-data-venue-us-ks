@@ -2,14 +2,20 @@
   "id": 856707593,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Commercial St Emporia KS 66801",
+    "addr:housenumber":"1113",
+    "addr:postcode":"66801",
+    "addr:street":"Commercial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.180165,38.411224,-96.180165,38.411224",
     "geom:latitude":38.411224,
     "geom:longitude":-96.180165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1113 Commercial St",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082661,
         85805839
     ],
+    "wof:brand_id":1125159749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KNXNcsnI11vFMw98hGh8i_38.411224_-96.180165@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052222,
-    "wof:geomhash":"661b8f3de05366bc4a7dc8cf445c1000",
+    "wof:geomhash":"59a3625962bfa296e319d3eb64754ba8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856707593,
-    "wof:lastmodified":1466520012,
+    "wof:lastmodified":1510708716,
     "wof:name":"Wings",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",

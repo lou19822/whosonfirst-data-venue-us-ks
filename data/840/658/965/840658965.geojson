@@ -2,14 +2,20 @@
   "id": 840658965,
   "type": "Feature",
   "properties": {
+    "addr:full":"2507 Laura St Wichita KS 67216",
+    "addr:housenumber":"2507",
+    "addr:postcode":"67216",
+    "addr:street":"Laura St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.323754,37.646057,-97.323754,37.646057",
     "geom:latitude":37.646057,
     "geom:longitude":-97.323754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2507 Laura St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":1125159879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GGBQJNOWvVgnragZD19Fv_37.646057_-97.323754@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045082,
-    "wof:geomhash":"dcafc4e896137676ed5dbe585a015cbd",
+    "wof:geomhash":"e69564a7ef3d60a9d1c277a46182af14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840658965,
-    "wof:lastmodified":1466523249,
+    "wof:lastmodified":1510699915,
     "wof:name":"Hairways",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

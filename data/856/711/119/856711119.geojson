@@ -2,14 +2,20 @@
   "id": 856711119,
   "type": "Feature",
   "properties": {
+    "addr:full":"6250 Johnson Dr Mission KS 66202",
+    "addr:housenumber":"6250",
+    "addr:postcode":"66202",
+    "addr:street":"Johnson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.658033,39.022442,-94.658033,39.022442",
     "geom:latitude":39.022442,
     "geom:longitude":-94.658033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6250 Johnson Dr",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xzk0h6RfVLTY7IPVfuQbT_39.022240_-94.657891@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052289,
-    "wof:geomhash":"4ee64f2d56bca8f188e4271d27a99e74",
+    "wof:geomhash":"2189c3d35a8800f6ab0e5f74c1ac48d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856711119,
-    "wof:lastmodified":1466520027,
+    "wof:lastmodified":1510699747,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85879553,
     "wof:placetype":"venue",

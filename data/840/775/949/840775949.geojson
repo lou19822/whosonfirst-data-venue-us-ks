@@ -2,14 +2,20 @@
   "id": 840775949,
   "type": "Feature",
   "properties": {
+    "addr:full":"7549 SW 25th St Topeka KS 66614",
+    "addr:housenumber":"7549",
+    "addr:postcode":"66614",
+    "addr:street":"Sw 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.797831,39.020492,-95.797831,39.020492",
     "geom:latitude":39.020492,
     "geom:longitude":-95.797831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7549 SW 25th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125154129,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oqYp3KYuXkskqHYVi0Del_39.020492_-95.797831@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047684,
-    "wof:geomhash":"9e271b012731f7448a94955323f9f5f4",
+    "wof:geomhash":"6b5aaa753b027caaa7d2642f5407533e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840775949,
-    "wof:lastmodified":1466525826,
+    "wof:lastmodified":1510697510,
     "wof:name":"Medtronic",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

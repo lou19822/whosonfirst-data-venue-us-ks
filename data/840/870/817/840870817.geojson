@@ -2,14 +2,20 @@
   "id": 840870817,
   "type": "Feature",
   "properties": {
+    "addr:full":"1026 SW Webster Ave Topeka KS 66604",
+    "addr:housenumber":"1026",
+    "addr:postcode":"66604",
+    "addr:street":"Sw Webster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.711817,39.04997,-95.711817,39.04997",
     "geom:latitude":39.04997,
     "geom:longitude":-95.711817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1026 SW Webster Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":420575791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36DDO7edGdqgzdQWYrmEvf_39.049970_-95.711817@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049868,
-    "wof:geomhash":"2863a57f0021417d94595a7055e021ce",
+    "wof:geomhash":"999df989be30e7e2e6efab167319bc60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840870817,
-    "wof:lastmodified":1466527800,
+    "wof:lastmodified":1510615107,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85881531,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840856569,
   "type": "Feature",
   "properties": {
+    "addr:full":"3020 E Douglas Ave Wichita KS 67214",
+    "addr:housenumber":"3020",
+    "addr:postcode":"67214",
+    "addr:street":"E Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.300373,37.686364,-97.300373,37.686364",
     "geom:latitude":37.686364,
     "geom:longitude":-97.300373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3020 E Douglas Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125150591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DVCN1tJD5QeMSb2MzuQIM_37.686364_-97.300373@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049580,
-    "wof:geomhash":"565d19deed17c8f2bdbd228ec9dce891",
+    "wof:geomhash":"41b412c1d74187f12a88499fabb024d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840856569,
-    "wof:lastmodified":1466527404,
+    "wof:lastmodified":1510613423,
     "wof:name":"Food 4 Less",
     "wof:parent_id":85872829,
     "wof:placetype":"venue",

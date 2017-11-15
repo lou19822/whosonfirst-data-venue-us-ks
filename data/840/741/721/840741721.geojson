@@ -2,14 +2,20 @@
   "id": 840741721,
   "type": "Feature",
   "properties": {
+    "addr:full":"2022 Topeka Blvd Topeka KS 66608",
+    "addr:housenumber":"2022",
+    "addr:postcode":"66608",
+    "addr:street":"Topeka Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.664572,39.0876,-95.664572,39.0876",
     "geom:latitude":39.0876,
     "geom:longitude":-95.664572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2022 Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084175,
         85881557
     ],
+    "wof:brand_id":1125159097,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KlIxgG5Rf5jy31jYoDnNB_39.087600_-95.664572@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046929,
-    "wof:geomhash":"52e2ea0b39ca22e868d0a6b1e845da26",
+    "wof:geomhash":"017eff05d1416cff2177a772531c6cd6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840741721,
-    "wof:lastmodified":1466525011,
+    "wof:lastmodified":1510697790,
     "wof:name":"Taste Of China",
     "wof:parent_id":85881557,
     "wof:placetype":"venue",

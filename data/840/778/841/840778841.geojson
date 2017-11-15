@@ -2,9 +2,14 @@
   "id": 840778841,
   "type": "Feature",
   "properties": {
+    "addr:full":"4707 W 135th St Leawood KS 66224",
+    "addr:housenumber":"4707",
+    "addr:postcode":"66224",
+    "addr:street":"W 135Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.639844,38.883736,-94.639844,38.883736",
     "geom:latitude":38.883736,
     "geom:longitude":-94.639844,
@@ -27,7 +32,15 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85879563,
+        102191575,
+        404504341,
+        85633793,
+        85945793,
+        102082673,
+        85688555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tWY1PqEFr7b7UiUV0hr44_38.883736_-94.639844@1294126544"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1464047735,
     "wof:geomhash":"817f3d8b6e180de0bac19149507130e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":85879563,
+            "region_id":85688555,
+            "venue_id":840778841
+        }
+    ],
     "wof:id":840778841,
-    "wof:lastmodified":1466525833,
+    "wof:lastmodified":1491901029,
     "wof:name":"Town & Country Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":85879563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],

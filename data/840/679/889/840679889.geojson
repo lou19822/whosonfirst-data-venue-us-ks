@@ -2,6 +2,10 @@
   "id": 840679889,
   "type": "Feature",
   "properties": {
+    "addr:full":"1034 S 8 St Kansas City KS 66105",
+    "addr:housenumber":"1034;8",
+    "addr:postcode":"66105",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840679889,
-    "wof:lastmodified":1466523766,
+    "wof:lastmodified":1472623455,
     "wof:name":"Oram Material Handling Systems",
     "wof:parent_id":85873441,
     "wof:placetype":"venue",

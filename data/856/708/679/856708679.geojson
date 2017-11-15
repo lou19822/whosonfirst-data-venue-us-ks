@@ -2,14 +2,20 @@
   "id": 856708679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 N Waterfront Pkwy Wichita KS 67206",
+    "addr:housenumber":"1401",
+    "addr:postcode":"67206",
+    "addr:street":"N Waterfront Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.223044,37.708456,-97.223044,37.708456",
     "geom:latitude":37.708456,
     "geom:longitude":-97.223044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 N Waterfront Pkwy",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125151851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J1Z8YYJahByZFxAiq8s9M_37.708456_-97.223044@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052241,
-    "wof:geomhash":"b45b5ad1f8139bcf77c9f9021705d436",
+    "wof:geomhash":"5061b6424a2d2eb7bd833c4c0838fd5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":856708679,
-    "wof:lastmodified":1466520072,
+    "wof:lastmodified":1510696691,
     "wof:name":"P.F. Chang's",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",

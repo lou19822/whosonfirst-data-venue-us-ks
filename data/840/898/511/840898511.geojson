@@ -2,14 +2,20 @@
   "id": 840898511,
   "type": "Feature",
   "properties": {
+    "addr:full":"8633 W 167th St Stilwell KS 66085",
+    "addr:housenumber":"8633",
+    "addr:postcode":"66085",
+    "addr:street":"W 167Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.685902,38.825388,-94.685902,38.825388",
     "geom:latitude":38.825388,
     "geom:longitude":-94.685902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8633 W 167th St",
     "sg:city":"Stilwell",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082673,
         85835339
     ],
+    "wof:brand_id":1125153599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19ZGsFliW60p4G5t2ABbAk_38.825388_-94.685902@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050460,
-    "wof:geomhash":"441187550e9ab5ba26c78f05afab8abe",
+    "wof:geomhash":"c2f0b4df818e4dca8dd173b400757363",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840898511,
-    "wof:lastmodified":1466528321,
+    "wof:lastmodified":1510695773,
     "wof:name":"First Apostolic Church",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",

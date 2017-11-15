@@ -2,14 +2,20 @@
   "id": 856711771,
   "type": "Feature",
   "properties": {
+    "addr:full":"818 S Broadway St Pittsburg KS 66762",
+    "addr:housenumber":"818",
+    "addr:postcode":"66762",
+    "addr:street":"S Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.704883,37.401194,-94.704883,37.401194",
     "geom:latitude":37.401194,
     "geom:longitude":-94.704883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"818 S Broadway St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082657,
         85810831
     ],
+    "wof:brand_id":1125150215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vpqJQ0RjQCmwWi82wMnBa_37.401160_-94.704968@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052301,
-    "wof:geomhash":"d7a7515fca3d867c48d15b237c0ef872",
+    "wof:geomhash":"6653983075bf65b288be9034970b4358",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856711771,
-    "wof:lastmodified":1466520194,
+    "wof:lastmodified":1510697720,
     "wof:name":"Mazzio's Pizza",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840564145,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 E 45th St N Wichita KS 67220",
+    "addr:housenumber":"3200",
+    "addr:postcode":"67220",
+    "addr:street":"E 45Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840564145,
-    "wof:lastmodified":1466521091,
+    "wof:lastmodified":1472623327,
     "wof:name":"Transportation Dept",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",

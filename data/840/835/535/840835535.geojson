@@ -2,14 +2,20 @@
   "id": 840835535,
   "type": "Feature",
   "properties": {
+    "addr:full":"4021 S Thompson St Kansas City KS 66103",
+    "addr:housenumber":"4021",
+    "addr:postcode":"66103",
+    "addr:street":"S Thompson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.619953,39.053746,-94.619953,39.053746",
     "geom:latitude":39.053746,
     "geom:longitude":-94.619953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4021 S Thompson St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125150763,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kXMNqqkqMl7Po6PMshNxx_39.053746_-94.619953@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049122,
-    "wof:geomhash":"0436a0c69537df000d557ffe85965e6c",
+    "wof:geomhash":"ba0972c952e31f6ce84871df2de8d17d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840835535,
-    "wof:lastmodified":1466527008,
+    "wof:lastmodified":1510697650,
     "wof:name":"Babies R Us",
     "wof:parent_id":85866785,
     "wof:placetype":"venue",

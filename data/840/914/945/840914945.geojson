@@ -2,14 +2,20 @@
   "id": 840914945,
   "type": "Feature",
   "properties": {
+    "addr:full":"2325 Argentine Blvd Kansas City KS 66106",
+    "addr:housenumber":"2325",
+    "addr:postcode":"66106",
+    "addr:street":"Argentine Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.65491,39.078765,-94.65491,39.078765",
     "geom:latitude":39.078765,
     "geom:longitude":-94.65491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2325 Argentine Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125159797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Qh2KgSlLYOFaZGGlyDRUM_39.078765_-94.654910@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050870,
-    "wof:geomhash":"666487d793c7c2754222ac2e19dbcaea",
+    "wof:geomhash":"8635aa83eea8b75fed5427e40ace168a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840914945,
-    "wof:lastmodified":1466528868,
+    "wof:lastmodified":1510699785,
     "wof:name":"BNSF Railway Co",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

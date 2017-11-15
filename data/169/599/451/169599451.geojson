@@ -2,14 +2,20 @@
   "id": 169599451,
   "type": "Feature",
   "properties": {
+    "addr:full":"609 Main St Alta Vista KS 66834",
+    "addr:housenumber":"609",
+    "addr:postcode":"66834",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.489791,38.86504,-96.489791,38.86504",
     "geom:latitude":38.86504,
     "geom:longitude":-96.489791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"609 Main St",
     "sg:city":"Alta Vista",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85945809,
         102082173
     ],
+    "wof:brand_id":1125154283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0snRP5fiE3pJ4CDnzaYGLd_38.865040_-96.489791@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"aaadb57259d430e309f0dfb16c5268dd",
+    "wof:geomhash":"4fc8dc14e166682c9a3c6b63a9fea65c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169599451,
-    "wof:lastmodified":1466519438,
+    "wof:lastmodified":1510693857,
     "wof:name":"Bill's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

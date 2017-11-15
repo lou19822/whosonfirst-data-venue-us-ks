@@ -2,14 +2,20 @@
   "id": 856712009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 W Central Ave El Dorado KS 67042",
+    "addr:housenumber":"1321",
+    "addr:postcode":"67042",
+    "addr:street":"W Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.867513,37.817355,-96.867513,37.817355",
     "geom:latitude":37.817355,
     "geom:longitude":-96.867513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1321 W Central Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85851529,
         102082695
     ],
+    "wof:brand_id":1125159871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06RuJMjChCRY9SUFlgzr6v_37.817320_-96.867494@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052305,
-    "wof:geomhash":"7eaa01a0ee503392cc5bcfece09de041",
+    "wof:geomhash":"088dc12a6c2b6785b18f12359150a71e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856712009,
-    "wof:lastmodified":1466520076,
+    "wof:lastmodified":1510699915,
     "wof:name":"Gambino's Pizza",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",

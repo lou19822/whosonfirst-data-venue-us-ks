@@ -2,14 +2,20 @@
   "id": 840810783,
   "type": "Feature",
   "properties": {
+    "addr:full":"6928 SW Crestwood Dr Topeka KS 66619",
+    "addr:housenumber":"6928",
+    "addr:postcode":"66619",
+    "addr:street":"Sw Crestwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.705322,38.939397,-95.705322,38.939397",
     "geom:latitude":38.939397,
     "geom:longitude":-95.705322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6928 SW Crestwood Dr",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084175,
         85851947
     ],
+    "wof:brand_id":1125157775,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jx1u3HgBSnfE5HjDkxwCb_38.939397_-95.705322@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048448,
-    "wof:geomhash":"86301e44d751df1630a7250bb337ceb3",
+    "wof:geomhash":"bf0267d4219c58e4ec8e1e0021ccbeca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840810783,
-    "wof:lastmodified":1466526521,
+    "wof:lastmodified":1510697444,
     "wof:name":"Avon Products Inc",
     "wof:parent_id":85851947,
     "wof:placetype":"venue",

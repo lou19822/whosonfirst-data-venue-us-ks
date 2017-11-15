@@ -2,14 +2,20 @@
   "id": 840700369,
   "type": "Feature",
   "properties": {
+    "addr:full":"6731 W 121st St Shawnee Mission KS 66209",
+    "addr:housenumber":"6731",
+    "addr:postcode":"66209",
+    "addr:street":"W 121St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.664723,38.906879,-94.664723,38.906879",
     "geom:latitude":38.906879,
     "geom:longitude":-94.664723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6731 W 121st St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Nt8Y4xEEdOVeslv657ojW_38.906879_-94.664723@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046092,
-    "wof:geomhash":"054cd35813e03da7b66ef56fbd3830dc",
+    "wof:geomhash":"04faaa312da24645a63271a020c5d18e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840700369,
-    "wof:lastmodified":1466523975,
+    "wof:lastmodified":1510693885,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",

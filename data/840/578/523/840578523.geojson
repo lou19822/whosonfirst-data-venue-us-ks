@@ -2,14 +2,20 @@
   "id": 840578523,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 E 75 St Kansas City KS 64114",
+    "addr:housenumber":"304;75",
+    "addr:postcode":"64114",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.58496,38.992023,-94.58496,38.992023",
     "geom:latitude":38.992023,
     "geom:longitude":-94.58496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"304 E 75 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WjlksrbT2wrfPfMfT8BLp_38.992023_-94.584960@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043174,
-    "wof:geomhash":"70cb66a97335e7881a8d4ca2af0bc22d",
+    "wof:geomhash":"82df5a715612635fd6fd41bf6e405176",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840578523,
-    "wof:lastmodified":1466521439,
+    "wof:lastmodified":1510698740,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840866749,
   "type": "Feature",
   "properties": {
+    "addr:full":"10000 College Blvd Shawnee Mission KS 66210",
+    "addr:housenumber":"10000",
+    "addr:postcode":"66210",
+    "addr:street":"College Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840866749,
-    "wof:lastmodified":1466527695,
+    "wof:lastmodified":1472623640,
     "wof:name":"Ticket Solutions",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",

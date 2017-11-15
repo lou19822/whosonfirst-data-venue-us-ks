@@ -2,14 +2,20 @@
   "id": 840794425,
   "type": "Feature",
   "properties": {
+    "addr:full":"10551 Barkley St Overland Park KS 66212",
+    "addr:housenumber":"10551",
+    "addr:postcode":"66212",
+    "addr:street":"Barkley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.663919,38.937197,-94.663919,38.937197",
     "geom:latitude":38.937197,
     "geom:longitude":-94.663919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10551 Barkley St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zlxp1x075HjhbJSZ9aMNi_38.937197_-94.663919@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048068,
-    "wof:geomhash":"15d22c178d423159e4f08e40607f89fc",
+    "wof:geomhash":"d387254ca3f63f075d1d672df60e98bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840794425,
-    "wof:lastmodified":1466526103,
+    "wof:lastmodified":1510613256,
     "wof:name":"GAB Robins",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",

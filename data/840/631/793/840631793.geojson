@@ -2,14 +2,20 @@
   "id": 840631793,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 N Tyler Rd Wichita KS 67212",
+    "addr:housenumber":"2121",
+    "addr:postcode":"67212",
+    "addr:street":"N Tyler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.444574,37.722486,-97.444574,37.722486",
     "geom:latitude":37.722486,
     "geom:longitude":-97.444574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2121 N Tyler Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872803
     ],
+    "wof:brand_id":1125150783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RblERPwNWTiePcCuKB9zc_37.722486_-97.444574@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044485,
-    "wof:geomhash":"3722c4de88f5596e8bf85f61b1220658",
+    "wof:geomhash":"b85b912bef754d7f75a9835f8832a609",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840631793,
-    "wof:lastmodified":1466522647,
+    "wof:lastmodified":1510698801,
     "wof:name":"Royal Cleaners",
     "wof:parent_id":85872803,
     "wof:placetype":"venue",

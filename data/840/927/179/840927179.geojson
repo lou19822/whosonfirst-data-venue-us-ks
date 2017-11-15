@@ -2,14 +2,20 @@
   "id": 840927179,
   "type": "Feature",
   "properties": {
+    "addr:full":"20327 W 151st St Olathe KS 66061",
+    "addr:housenumber":"20327",
+    "addr:postcode":"66061",
+    "addr:street":"W 151St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.821862,38.854539,-94.821862,38.854539",
     "geom:latitude":38.854539,
     "geom:longitude":-94.821862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20327 W 151st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17JcwGTxrRi6PeoYBTb8rx_38.854539_-94.821862@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051188,
-    "wof:geomhash":"ff66064a0eede7d5263b8f83e5932f45",
+    "wof:geomhash":"9942dea906a56b0c10b567b976de3bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840927179,
-    "wof:lastmodified":1466528934,
+    "wof:lastmodified":1510602935,
     "wof:name":"Aeropostale Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856707131,
   "type": "Feature",
   "properties": {
+    "addr:full":"3640 SW Topeka Blvd Topeka KS 66611",
+    "addr:housenumber":"3640",
+    "addr:postcode":"66611",
+    "addr:street":"Sw Topeka Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.687411,39.001589,-95.687411,39.001589",
     "geom:latitude":39.001589,
     "geom:longitude":-95.687411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3640 SW Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cVBx1UCftUrh32vPR5vh7_39.001589_-95.687411@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052210,
-    "wof:geomhash":"b0bf59b3f8126fbacb97a57660c2b913",
+    "wof:geomhash":"ff2b065ccbd025b4fa310dba34434b30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856707131,
-    "wof:lastmodified":1466519909,
+    "wof:lastmodified":1510699747,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85881565,
     "wof:placetype":"venue",

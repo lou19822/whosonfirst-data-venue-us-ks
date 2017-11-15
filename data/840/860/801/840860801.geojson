@@ -2,14 +2,20 @@
   "id": 840860801,
   "type": "Feature",
   "properties": {
+    "addr:full":"4510 W 63rd Ter Prairie Village KS 66208",
+    "addr:housenumber":"4510",
+    "addr:postcode":"66208",
+    "addr:street":"W 63Rd Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.636414,39.014228,-94.636414,39.014228",
     "geom:latitude":39.014228,
     "geom:longitude":-94.636414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4510 W 63rd Ter",
     "sg:city":"Prairie Village",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125158383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t0YpsqjTaEBo04mcXy5A8_39.014228_-94.636414@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049669,
-    "wof:geomhash":"d9599fd924beb9a6c8156cace3365ac8",
+    "wof:geomhash":"31fdd1986e0a6a513890c10463a623f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840860801,
-    "wof:lastmodified":1466527574,
+    "wof:lastmodified":1510699779,
     "wof:name":"Pride Stanley & Executive",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",

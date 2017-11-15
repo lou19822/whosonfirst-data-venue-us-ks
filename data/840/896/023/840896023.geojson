@@ -2,6 +2,10 @@
   "id": 840896023,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 S 9 St Kansas City KS 66103",
+    "addr:housenumber":"2000;9",
+    "addr:postcode":"66103",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840896023,
-    "wof:lastmodified":1466528159,
+    "wof:lastmodified":1472623646,
     "wof:name":"Absolute Restoration",
     "wof:parent_id":85873441,
     "wof:placetype":"venue",

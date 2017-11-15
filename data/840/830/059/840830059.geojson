@@ -2,14 +2,20 @@
   "id": 840830059,
   "type": "Feature",
   "properties": {
+    "addr:full":"3609 W Pawnee St Wichita KS 67213",
+    "addr:housenumber":"3609",
+    "addr:postcode":"67213",
+    "addr:street":"W Pawnee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.386194,37.651213,-97.386194,37.651213",
     "geom:latitude":37.651213,
     "geom:longitude":-97.386194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3609 W Pawnee St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AKvoFd4PFvhgJb0QrCJL7_37.651213_-97.386194@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049008,
-    "wof:geomhash":"2c7f8049b43d5cd2822b01037166f3c5",
+    "wof:geomhash":"031b7d5670e20d5928fa1a4b15789a97",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840830059,
-    "wof:lastmodified":1466526776,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

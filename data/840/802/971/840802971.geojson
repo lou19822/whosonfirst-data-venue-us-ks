@@ -2,14 +2,20 @@
   "id": 840802971,
   "type": "Feature",
   "properties": {
+    "addr:full":"1007 N Emporia St Wichita KS 67214",
+    "addr:housenumber":"1007",
+    "addr:postcode":"67214",
+    "addr:street":"N Emporia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.333041,37.701173,-97.333041,37.701173",
     "geom:latitude":37.701173,
     "geom:longitude":-97.333041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1007 N Emporia St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125153473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ekn8ICgnX99xoSBuFFdjs_37.701173_-97.333041@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048263,
-    "wof:geomhash":"cf7038774aa48edd6f7973061893372d",
+    "wof:geomhash":"5dc3a759cda087075112c7dbfb4ab49a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840802971,
-    "wof:lastmodified":1466526405,
+    "wof:lastmodified":1510699665,
     "wof:name":"Renal Care Group",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",

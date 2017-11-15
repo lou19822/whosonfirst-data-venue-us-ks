@@ -2,14 +2,20 @@
   "id": 840953793,
   "type": "Feature",
   "properties": {
+    "addr:full":"9645 Legler Rd Shawnee Mission KS 66219",
+    "addr:housenumber":"9645",
+    "addr:postcode":"66219",
+    "addr:street":"Legler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.772398,38.955143,-94.772398,38.955143",
     "geom:latitude":38.955143,
     "geom:longitude":-94.772398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9645 Legler Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oEN6YKX8a1T9SrwXOKEFR_38.955143_-94.772398@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051724,
-    "wof:geomhash":"5d9ad6b65e1287975a7817cba0a5c3c8",
+    "wof:geomhash":"40b5d8d95604d3cb0625da2e29e5a13e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840953793,
-    "wof:lastmodified":1466529970,
+    "wof:lastmodified":1510697769,
     "wof:name":"Kraft Foods",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202950127,
   "type": "Feature",
   "properties": {
+    "addr:full":"11213 Nall Ave Ste 140 Leawood KS 66211",
+    "addr:housenumber":"11213",
+    "addr:postcode":"66211",
+    "addr:street":"Nall Ave Ste 140",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.648885,38.924889,-94.648885,38.924889",
     "geom:latitude":38.924889,
     "geom:longitude":-94.648885,
@@ -20,11 +25,13 @@
     "sg:website":"http://www.lookmybest.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,9 +41,10 @@
     "wof:geomhash":"27a811328e643cfefcc0e59ed16333e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -44,7 +52,7 @@
         }
     ],
     "wof:id":202950127,
-    "wof:lastmodified":1466520134,
+    "wof:lastmodified":1491901006,
     "wof:name":"Midwest Medical Aesthetics",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

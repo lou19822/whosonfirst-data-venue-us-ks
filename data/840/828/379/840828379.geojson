@@ -2,14 +2,20 @@
   "id": 840828379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1607 S Georgetown St Wichita KS 67218",
+    "addr:housenumber":"1607",
+    "addr:postcode":"67218",
+    "addr:street":"S Georgetown St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.286625,37.661403,-97.286625,37.661403",
     "geom:latitude":37.661403,
     "geom:longitude":-97.286625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1607 S Georgetown St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":1125150591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W5tPnGKjtR6Tygimodq3Z_37.661403_-97.286625@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048971,
-    "wof:geomhash":"9242f519f6c74a7b42dd3710a43aec1e",
+    "wof:geomhash":"c02f64915a78a46b552a62964b9e59c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840828379,
-    "wof:lastmodified":1466526784,
+    "wof:lastmodified":1510613423,
     "wof:name":"Food 4 Less",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

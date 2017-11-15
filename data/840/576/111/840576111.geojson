@@ -2,6 +2,10 @@
   "id": 840576111,
   "type": "Feature",
   "properties": {
+    "addr:full":"823 S 53 St Kansas City KS 66106",
+    "addr:housenumber":"823;53",
+    "addr:postcode":"66106",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840576111,
-    "wof:lastmodified":1466521320,
+    "wof:lastmodified":1472623336,
     "wof:name":"Safe Neighborhood Watch Group",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

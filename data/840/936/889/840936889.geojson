@@ -2,14 +2,20 @@
   "id": 840936889,
   "type": "Feature",
   "properties": {
+    "addr:full":"5904 Woodson Rd Shawnee Mission KS 66202",
+    "addr:housenumber":"5904",
+    "addr:postcode":"66202",
+    "addr:street":"Woodson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.653783,39.021603,-94.653783,39.021603",
     "geom:latitude":39.021603,
     "geom:longitude":-94.653783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5904 Woodson Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125159567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c25MczDBwY7BT6d8kPxUD_39.021603_-94.653783@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051389,
-    "wof:geomhash":"131b569592dfff9c8bcded484e0ad411",
+    "wof:geomhash":"7911384cad7afc2400c109078a918daa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840936889,
-    "wof:lastmodified":1466529469,
+    "wof:lastmodified":1510695759,
     "wof:name":"Guide One Insurance",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",

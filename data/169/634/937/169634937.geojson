@@ -2,14 +2,20 @@
   "id": 169634937,
   "type": "Feature",
   "properties": {
+    "addr:full":"6914 E Timberon Wichita KS 67206",
+    "addr:housenumber":"6914",
+    "addr:postcode":"67206",
+    "addr:street":"E Timberon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.254438,37.709405,-97.254438,37.709405",
     "geom:latitude":37.709405,
     "geom:longitude":-97.254438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6914 E Timberon",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102084203,
         85834565
     ],
+    "wof:brand_id":1125159515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42pepoO6JzRhT1Kdk8ECHa_37.709405_-97.254438@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a1fbd775c3b6acf99534c72689c1cbe",
+    "wof:geomhash":"1f4b61e867b2b82782df2d0c9f11aeba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169634937,
-    "wof:lastmodified":1466520227,
+    "wof:lastmodified":1510698877,
     "wof:name":"Computers Plus",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",

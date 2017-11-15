@@ -2,14 +2,20 @@
   "id": 840846543,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 E 123rd St Olathe KS 66061",
+    "addr:housenumber":"1905",
+    "addr:postcode":"66061",
+    "addr:street":"E 123Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.786294,38.906032,-94.786294,38.906032",
     "geom:latitude":38.906032,
     "geom:longitude":-94.786294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1905 E 123rd St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KqU6oibudKho7szJzbECC_38.906032_-94.786294@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049362,
-    "wof:geomhash":"b95ffe6d205da0ea45d2e5aa447cd0a8",
+    "wof:geomhash":"f250192d5d72916d49c29d7480bbf4df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840846543,
-    "wof:lastmodified":1466527218,
+    "wof:lastmodified":1510613260,
     "wof:name":"Lumber Liquidators",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

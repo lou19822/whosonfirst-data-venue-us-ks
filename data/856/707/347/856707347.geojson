@@ -2,14 +2,20 @@
   "id": 856707347,
   "type": "Feature",
   "properties": {
+    "addr:full":"3613 NW 46th St Topeka KS 66618",
+    "addr:housenumber":"3613",
+    "addr:postcode":"66618",
+    "addr:street":"Nw 46Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.717766,39.12919,-95.717766,39.12919",
     "geom:latitude":39.12919,
     "geom:longitude":-95.717766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3613 NW 46th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85881559,
         102084175
     ],
+    "wof:brand_id":1125159871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gaATi6dfliIjj8rTq5ye4_39.129190_-95.717766@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052217,
-    "wof:geomhash":"7da2a7f291bfdc99da1be2bd6b68d1f1",
+    "wof:geomhash":"bd7482465c71385d925c72d7e5da36c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856707347,
-    "wof:lastmodified":1466519946,
+    "wof:lastmodified":1510699915,
     "wof:name":"Gambino's Pizza",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",

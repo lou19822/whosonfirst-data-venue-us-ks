@@ -2,14 +2,20 @@
   "id": 840578413,
   "type": "Feature",
   "properties": {
+    "addr:full":"8136 Metcalf Ave Shawnee Mission KS 66204",
+    "addr:housenumber":"8136",
+    "addr:postcode":"66204",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.667737,38.980571,-94.667737,38.980571",
     "geom:latitude":38.980571,
     "geom:longitude":-94.667737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8136 Metcalf Ave",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6upk28G5J4ZGJqnrj2i0ex_38.980571_-94.667737@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043172,
-    "wof:geomhash":"a08d294f8d629d0415073f2277cfd025",
+    "wof:geomhash":"50390b8604ccf2f75bee30be7b99b5b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":840578413,
-    "wof:lastmodified":1466521410,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85879559,
     "wof:placetype":"venue",

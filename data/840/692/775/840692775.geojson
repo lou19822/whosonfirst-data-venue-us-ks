@@ -2,14 +2,20 @@
   "id": 840692775,
   "type": "Feature",
   "properties": {
+    "addr:full":"3617 NW 46th St Topeka KS 66618",
+    "addr:housenumber":"3617",
+    "addr:postcode":"66618",
+    "addr:street":"Nw 46Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.719505,39.129352,-95.719505,39.129352",
     "geom:latitude":39.129352,
     "geom:longitude":-95.719505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3617 NW 46th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85881559,
         102084175
     ],
+    "wof:brand_id":1125158065,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dec6mAkYshmaxy8f7XDaI_39.129352_-95.719505@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045891,
-    "wof:geomhash":"643672145683d88ee09e9e34452b383d",
+    "wof:geomhash":"6dcd9ef8163411a307749f7042126b2d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840692775,
-    "wof:lastmodified":1466524035,
+    "wof:lastmodified":1510694586,
     "wof:name":"Classic Hair Design",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",

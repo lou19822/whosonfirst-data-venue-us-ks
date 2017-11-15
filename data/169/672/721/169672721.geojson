@@ -2,14 +2,20 @@
   "id": 169672721,
   "type": "Feature",
   "properties": {
+    "addr:full":"6000 Leavenworth Rd Kansas City KS 66104",
+    "addr:housenumber":"6000",
+    "addr:postcode":"66104",
+    "addr:street":"Leavenworth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.719256,39.143182,-94.719256,39.143182",
     "geom:latitude":39.143182,
     "geom:longitude":-94.719256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6000 Leavenworth Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85945801,
         102082163
     ],
+    "wof:brand_id":1125157775,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uhDINCys2BU6FDX6BsveE_39.143182_-94.719256@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"e87cef31014df8f2bcdc110037eb87f5",
+    "wof:geomhash":"44e93b519bc96c803c470b72bfdff0b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169672721,
-    "wof:lastmodified":1466520498,
+    "wof:lastmodified":1510697444,
     "wof:name":"Avon Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

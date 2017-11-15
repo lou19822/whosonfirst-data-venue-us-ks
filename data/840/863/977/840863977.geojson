@@ -2,14 +2,20 @@
   "id": 840863977,
   "type": "Feature",
   "properties": {
+    "addr:full":"2050 W 21st St N Wichita KS 67203",
+    "addr:housenumber":"2050",
+    "addr:postcode":"67203",
+    "addr:street":"W 21St St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.36628,37.722896,-97.36628,37.722896",
     "geom:latitude":37.722896,
     "geom:longitude":-97.36628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2050 W 21st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872817
     ],
+    "wof:brand_id":1125150783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LJ0uayKxxO0XsH6ogqNXE_37.722896_-97.366280@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049732,
-    "wof:geomhash":"7f1ef73e4c2f96316c344772d6471ede",
+    "wof:geomhash":"0c2037b988de597e7f0f1567eb9846a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840863977,
-    "wof:lastmodified":1466527724,
+    "wof:lastmodified":1510698801,
     "wof:name":"Royal Cleaners",
     "wof:parent_id":85872817,
     "wof:placetype":"venue",

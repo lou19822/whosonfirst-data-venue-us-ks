@@ -2,14 +2,20 @@
   "id": 840646749,
   "type": "Feature",
   "properties": {
+    "addr:full":"9111 Quivira Rd Lenexa KS 66215",
+    "addr:housenumber":"9111",
+    "addr:postcode":"66215",
+    "addr:street":"Quivira Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.723632,38.962365,-94.723632,38.962365",
     "geom:latitude":38.962365,
     "geom:longitude":-94.723632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9111 Quivira Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HcwOLn1RpwI3VNL5plyh6_38.962365_-94.723632@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044816,
-    "wof:geomhash":"32b5b25c220022fd726528a345dbede5",
+    "wof:geomhash":"3cd6257ec95b2400e73edfbb6fcea1e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840646749,
-    "wof:lastmodified":1466522913,
+    "wof:lastmodified":1510697048,
     "wof:name":"Cort Furniture Rental",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840841901,
   "type": "Feature",
   "properties": {
+    "addr:full":"8560 Quivira Rd Shawnee Mission KS 66215",
+    "addr:housenumber":"8560",
+    "addr:postcode":"66215",
+    "addr:street":"Quivira Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.723725,38.973349,-94.723725,38.973349",
     "geom:latitude":38.973349,
     "geom:longitude":-94.723725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8560 Quivira Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152869,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oHt4mfCHehryNukl1eezP_38.973349_-94.723725@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049272,
-    "wof:geomhash":"f8534e380f2d002848a66558310a0f0b",
+    "wof:geomhash":"818ddadb1b3b912a5e18c0db732a12c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840841901,
-    "wof:lastmodified":1466527204,
+    "wof:lastmodified":1510613359,
     "wof:name":"Econo Lube N' Tune",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

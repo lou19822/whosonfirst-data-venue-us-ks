@@ -2,14 +2,20 @@
   "id": 169640591,
   "type": "Feature",
   "properties": {
+    "addr:full":"4741 Rainbow Blvd Shawnee Mission KS 66205",
+    "addr:housenumber":"4741",
+    "addr:postcode":"66205",
+    "addr:street":"Rainbow Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.611827,39.041425,-94.611827,39.041425",
     "geom:latitude":39.041425,
     "geom:longitude":-94.611827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4741 Rainbow Blvd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85945767,
         102082673
     ],
+    "wof:brand_id":1125158383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nSgaPtnSSxoFyFVOtOnuX_39.041425_-94.611827@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"94e4aa23af44c1968d5f0de06b624fc4",
+    "wof:geomhash":"800a5def154c29689860f3ca484305ee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169640591,
-    "wof:lastmodified":1466520266,
+    "wof:lastmodified":1510699779,
     "wof:name":"Pride Stanley & Executive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

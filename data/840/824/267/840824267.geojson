@@ -2,14 +2,20 @@
   "id": 840824267,
   "type": "Feature",
   "properties": {
+    "addr:full":"3301 E Harry St Wichita KS 67218",
+    "addr:housenumber":"3301",
+    "addr:postcode":"67218",
+    "addr:street":"E Harry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.298043,37.664502,-97.298043,37.664502",
     "geom:latitude":37.664502,
     "geom:longitude":-97.298043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3301 E Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wW1ClzdKyfPMC3G89PQFF_37.664502_-97.298043@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048877,
-    "wof:geomhash":"f1d94e66ec36c70282fb57670cf35428",
+    "wof:geomhash":"e95b8cc805e9920e4580da9cb27cff8e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840824267,
-    "wof:lastmodified":1466526683,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

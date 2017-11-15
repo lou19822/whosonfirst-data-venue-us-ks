@@ -2,6 +2,10 @@
   "id": 840786065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1302 S 32 St Kansas City KS 66106",
+    "addr:housenumber":"1302;32",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840786065,
-    "wof:lastmodified":1466525850,
+    "wof:lastmodified":1472623547,
     "wof:name":"Powell Apartments",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

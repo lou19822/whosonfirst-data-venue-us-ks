@@ -2,6 +2,10 @@
   "id": 840578795,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 W Kellogg Dr N Wichita KS 67209",
+    "addr:housenumber":"4600",
+    "addr:postcode":"67209",
+    "addr:street":"W Kellogg Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840578795,
-    "wof:lastmodified":1466521513,
+    "wof:lastmodified":1472623344,
     "wof:name":"Finish Line",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

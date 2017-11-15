@@ -2,14 +2,20 @@
   "id": 840932593,
   "type": "Feature",
   "properties": {
+    "addr:full":"9290 Metcalf Ave Overland Park KS 66212",
+    "addr:housenumber":"9290",
+    "addr:postcode":"66212",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.667718,38.963848,-94.667718,38.963848",
     "geom:latitude":38.963848,
     "geom:longitude":-94.667718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9290 Metcalf Ave",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lwb5jeavMOMQZyDCo7R4X_38.963848_-94.667718@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051299,
-    "wof:geomhash":"d9c114ccf032b84c34f563c6472c365e",
+    "wof:geomhash":"9629c87f57cb98604614118f826587bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840932593,
-    "wof:lastmodified":1466529230,
+    "wof:lastmodified":1510602393,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":85879595,
     "wof:placetype":"venue",

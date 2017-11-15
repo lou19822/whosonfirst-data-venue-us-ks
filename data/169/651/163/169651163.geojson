@@ -2,9 +2,14 @@
   "id": 169651163,
   "type": "Feature",
   "properties": {
+    "addr:full":"13137 Birch St Overland Park KS 66209",
+    "addr:housenumber":"13137",
+    "addr:postcode":"66209",
+    "addr:street":"Birch St;Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.646284,38.890067,-94.646284,38.890067",
     "geom:latitude":38.890067,
     "geom:longitude":-94.646284,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"964cfbaeebbc2b9ae8a7de1eb5151046",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":169651163,
-    "wof:lastmodified":1466520362,
+    "wof:lastmodified":1491901045,
     "wof:name":"Inspectel",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

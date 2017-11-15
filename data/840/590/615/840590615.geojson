@@ -2,6 +2,10 @@
   "id": 840590615,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 S Hydraulic St Wichita KS 67211",
+    "addr:housenumber":"115;hydraulic",
+    "addr:postcode":"67211",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840590615,
-    "wof:lastmodified":1466521731,
+    "wof:lastmodified":1472623367,
     "wof:name":"Rapid Companies",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

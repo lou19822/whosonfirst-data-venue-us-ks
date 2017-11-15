@@ -2,6 +2,10 @@
   "id": 840726955,
   "type": "Feature",
   "properties": {
+    "addr:full":"2514 S 48 St Kansas City KS 66106",
+    "addr:housenumber":"2514;48",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840726955,
-    "wof:lastmodified":1466524826,
+    "wof:lastmodified":1472623506,
     "wof:name":"TMP Painting",
     "wof:parent_id":85852833,
     "wof:placetype":"venue",

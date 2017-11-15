@@ -2,6 +2,10 @@
   "id": 840753623,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 E 20 St Kansas City KS 64108",
+    "addr:housenumber":"330;20",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840753623,
-    "wof:lastmodified":1466525210,
+    "wof:lastmodified":1472623523,
     "wof:name":"District 4r",
     "wof:parent_id":85872019,
     "wof:placetype":"venue",

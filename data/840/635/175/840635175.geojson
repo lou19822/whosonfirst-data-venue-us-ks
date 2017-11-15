@@ -2,6 +2,10 @@
   "id": 840635175,
   "type": "Feature",
   "properties": {
+    "addr:full":"844 S 14 St Kansas City KS 66105",
+    "addr:housenumber":"844;14",
+    "addr:postcode":"66105",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840635175,
-    "wof:lastmodified":1466522567,
+    "wof:lastmodified":1472623403,
     "wof:name":"Queen Foods",
     "wof:parent_id":85878487,
     "wof:placetype":"venue",

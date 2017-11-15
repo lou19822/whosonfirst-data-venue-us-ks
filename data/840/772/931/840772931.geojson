@@ -2,14 +2,20 @@
   "id": 840772931,
   "type": "Feature",
   "properties": {
+    "addr:full":"11475 W 95th St Overland Park KS 66214",
+    "addr:housenumber":"11475",
+    "addr:postcode":"66214",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.719768,38.956469,-94.719768,38.956469",
     "geom:latitude":38.956469,
     "geom:longitude":-94.719768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11475 W 95th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IzdcnzHWNDNNdk9BQZclm_38.956469_-94.719768@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047631,
-    "wof:geomhash":"5d53bc343ad0e0a077ce1d2ea4f1dba5",
+    "wof:geomhash":"c8a08131d411e72be4fa483b2803ebfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840772931,
-    "wof:lastmodified":1466525719,
+    "wof:lastmodified":1510697629,
     "wof:name":"Joseph A Bank Clothiers",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",

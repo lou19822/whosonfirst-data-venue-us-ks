@@ -2,9 +2,14 @@
   "id": 169626445,
   "type": "Feature",
   "properties": {
+    "addr:full":"11201 Nall Ave Leawood KS 66211",
+    "addr:housenumber":"11201",
+    "addr:postcode":"66211",
+    "addr:street":"Nall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.64897,38.923044,-94.64897,38.923044",
     "geom:latitude":38.923044,
     "geom:longitude":-94.64897,
@@ -25,11 +30,13 @@
     "sg:province":"KS",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:brand_id":420573941,
     "wof:breaches":[],
@@ -40,9 +47,10 @@
     "wof:geomhash":"c1b92d2b1a9d0cb74c2235a2d8f882a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":169626445,
-    "wof:lastmodified":1466520060,
+    "wof:lastmodified":1491901021,
     "wof:name":"American Family Insurance",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

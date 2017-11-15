@@ -2,14 +2,20 @@
   "id": 840744939,
   "type": "Feature",
   "properties": {
+    "addr:full":"5799 Broadmoor St Shawnee Mission KS 66202",
+    "addr:housenumber":"5799",
+    "addr:postcode":"66202",
+    "addr:street":"Broadmoor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.665368,39.027096,-94.665368,39.027096",
     "geom:latitude":39.027096,
     "geom:longitude":-94.665368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5799 Broadmoor St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125158461,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QXHCZPzSsJGQxp3qxLuap_39.027096_-94.665368@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046986,
-    "wof:geomhash":"690775f0f99e4571c9e147227fb956c2",
+    "wof:geomhash":"fe3a9dfd03a2a6dcc397c0bc870dc49a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840744939,
-    "wof:lastmodified":1466525067,
+    "wof:lastmodified":1510613247,
     "wof:name":"Broadwing Communications",
     "wof:parent_id":85879553,
     "wof:placetype":"venue",

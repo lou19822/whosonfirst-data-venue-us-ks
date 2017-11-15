@@ -2,6 +2,10 @@
   "id": 840684673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1333 S 27 St Kansas City KS 66106",
+    "addr:housenumber":"1333;27",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840684673,
-    "wof:lastmodified":1466523745,
+    "wof:lastmodified":1472623467,
     "wof:name":"Arts In Prison",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

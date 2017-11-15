@@ -2,14 +2,20 @@
   "id": 840610793,
   "type": "Feature",
   "properties": {
+    "addr:full":"6020 SW 10th Ave Topeka KS 66615",
+    "addr:housenumber":"6020",
+    "addr:postcode":"66615",
+    "addr:street":"Sw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.763901,39.050898,-95.763901,39.050898",
     "geom:latitude":39.050898,
     "geom:longitude":-95.763901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6020 SW 10th Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hpszfop3N450mdG3MlsuE_39.050898_-95.763901@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043937,
-    "wof:geomhash":"e8e6a857fd148cb7f45caa694db083f0",
+    "wof:geomhash":"8ca7785f86379647a9892d20ea71bc9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840610793,
-    "wof:lastmodified":1466522160,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

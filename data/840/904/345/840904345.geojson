@@ -2,14 +2,20 @@
   "id": 840904345,
   "type": "Feature",
   "properties": {
+    "addr:full":"11533 W 95th St Overland Park KS 66214",
+    "addr:housenumber":"11533",
+    "addr:postcode":"66214",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.719275,38.956472,-94.719275,38.956472",
     "geom:latitude":38.956472,
     "geom:longitude":-94.719275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11533 W 95th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OA3dJEBZvFsw5i7KJtEes_38.956472_-94.719275@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050581,
-    "wof:geomhash":"6d5fbec83dc118d2ed6e2d1ce3453d0a",
+    "wof:geomhash":"507a31d9b31250125759f54caaec57d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840904345,
-    "wof:lastmodified":1466528385,
+    "wof:lastmodified":1510698847,
     "wof:name":"Mrs Field's Original Cookies",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",

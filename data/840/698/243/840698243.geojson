@@ -2,14 +2,20 @@
   "id": 840698243,
   "type": "Feature",
   "properties": {
+    "addr:full":"4120 E Harry St Wichita KS 67218",
+    "addr:housenumber":"4120",
+    "addr:postcode":"67218",
+    "addr:street":"E Harry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.289638,37.664638,-97.289638,37.664638",
     "geom:latitude":37.664638,
     "geom:longitude":-97.289638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4120 E Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jakZCP8ZFBjTLBRbY2h9c_37.664638_-97.289638@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046040,
-    "wof:geomhash":"228691283a85e966ca6926ac047ccffb",
+    "wof:geomhash":"88a052d43c911d80550b1d1f83c6f5ee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840698243,
-    "wof:lastmodified":1466523934,
+    "wof:lastmodified":1510602526,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840908717,
   "type": "Feature",
   "properties": {
+    "addr:full":"6465 Quivira Rd Shawnee Mission KS 66216",
+    "addr:housenumber":"6465",
+    "addr:postcode":"66216",
+    "addr:street":"Quivira Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.723762,39.011338,-94.723762,39.011338",
     "geom:latitude":39.011338,
     "geom:longitude":-94.723762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6465 Quivira Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125158383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XGKMNrdFnk3y2rnoV139w_39.011338_-94.723762@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050687,
-    "wof:geomhash":"9397baa421fbbe17b1942039fd7ff6ae",
+    "wof:geomhash":"0233d5e36483cf1671f6c8710039d25c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840908717,
-    "wof:lastmodified":1466528641,
+    "wof:lastmodified":1510699779,
     "wof:name":"Pride Stanley & Executive",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840645385,
   "type": "Feature",
   "properties": {
+    "addr:full":"5924 Broadmoor St Shawnee Mission KS 66202",
+    "addr:housenumber":"5924",
+    "addr:postcode":"66202",
+    "addr:street":"Broadmoor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.665708,39.020957,-94.665708,39.020957",
     "geom:latitude":39.020957,
     "geom:longitude":-94.665708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5924 Broadmoor St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125158383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jrQWZ9Z9INBdThbUQaNEy_39.020957_-94.665708@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044789,
-    "wof:geomhash":"6c0a178a1554b4fb780b30778b8172d5",
+    "wof:geomhash":"8b1a538af806b24005926b29b8c5785a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":840645385,
-    "wof:lastmodified":1466522873,
+    "wof:lastmodified":1510699779,
     "wof:name":"Pride Stanley & Executive",
     "wof:parent_id":85879553,
     "wof:placetype":"venue",

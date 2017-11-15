@@ -2,14 +2,20 @@
   "id": 840842255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 S Hamilton Cir Olathe KS 66061",
+    "addr:housenumber":"1501",
+    "addr:postcode":"66061",
+    "addr:street":"S Hamilton Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.812057,38.861126,-94.812057,38.861126",
     "geom:latitude":38.861126,
     "geom:longitude":-94.812057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1501 S Hamilton Cir",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TykmkkwqhMGYbKy3SabDF_38.861126_-94.812057@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049278,
-    "wof:geomhash":"6148d3b194789373c652d072c41f45bd",
+    "wof:geomhash":"8224a8bafe98a33e19782a31d9414306",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840842255,
-    "wof:lastmodified":1466527066,
+    "wof:lastmodified":1510694887,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

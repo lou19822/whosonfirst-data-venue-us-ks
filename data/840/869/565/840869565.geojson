@@ -2,14 +2,20 @@
   "id": 840869565,
   "type": "Feature",
   "properties": {
+    "addr:full":"2630 E Central Ave Wichita KS 67214",
+    "addr:housenumber":"2630",
+    "addr:postcode":"67214",
+    "addr:street":"E Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.305552,37.693735,-97.305552,37.693735",
     "geom:latitude":37.693735,
     "geom:longitude":-97.305552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2630 E Central Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38n9jLNFXbFbRiVXdcziO4_37.693735_-97.305552@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049846,
-    "wof:geomhash":"f035b72edd75abd038deea1d5dc1c06a",
+    "wof:geomhash":"2299553ebec4c63fee909454e8545476",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840869565,
-    "wof:lastmodified":1466527684,
+    "wof:lastmodified":1510700016,
     "wof:name":"American Cleaners",
     "wof:parent_id":85872829,
     "wof:placetype":"venue",

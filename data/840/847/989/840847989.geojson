@@ -2,14 +2,20 @@
   "id": 840847989,
   "type": "Feature",
   "properties": {
+    "addr:full":"842 N Tyler Rd Wichita KS 67212",
+    "addr:housenumber":"842",
+    "addr:postcode":"67212",
+    "addr:street":"N Tyler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.444342,37.69512,-97.444342,37.69512",
     "geom:latitude":37.69512,
     "geom:longitude":-97.444342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"842 N Tyler Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872815
     ],
+    "wof:brand_id":1125159785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4d9lfp5kmmfRnXK7jwxfjS_37.695120_-97.444342@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049398,
-    "wof:geomhash":"5edc54e8bf94bbe27616a40bd7a99658",
+    "wof:geomhash":"8aa27f8b11a810f47ee010e3ebc890a1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840847989,
-    "wof:lastmodified":1466527330,
+    "wof:lastmodified":1510696644,
     "wof:name":"Ascension Lutheran Church",
     "wof:parent_id":85872815,
     "wof:placetype":"venue",

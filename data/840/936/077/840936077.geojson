@@ -2,14 +2,20 @@
   "id": 840936077,
   "type": "Feature",
   "properties": {
+    "addr:full":"4921 Cessna Dr Wichita KS 67210",
+    "addr:housenumber":"4921",
+    "addr:postcode":"67210",
+    "addr:street":"Cessna Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.279638,37.648443,-97.279638,37.648443",
     "geom:latitude":37.648443,
     "geom:longitude":-97.279638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4921 Cessna Dr",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":1125157981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SGojR0UJfMHYzo7icNFsM_37.648443_-97.279638@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051367,
-    "wof:geomhash":"3dc634764556e010f32c0d75a0797d0a",
+    "wof:geomhash":"655ef3f79c0aea62bda9cc837a4b53de",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840936077,
-    "wof:lastmodified":1466529187,
+    "wof:lastmodified":1510694789,
     "wof:name":"Teamsters Local Union",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

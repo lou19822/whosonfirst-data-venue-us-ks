@@ -2,14 +2,20 @@
   "id": 840646381,
   "type": "Feature",
   "properties": {
+    "addr:full":"20325 W 151st St Olathe KS 66061",
+    "addr:housenumber":"20325",
+    "addr:postcode":"66061",
+    "addr:street":"W 151St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.821865,38.85454,-94.821865,38.85454",
     "geom:latitude":38.85454,
     "geom:longitude":-94.821865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20325 W 151st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BsepuoYYLPNV69RLgOQId_38.854540_-94.821865@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044810,
-    "wof:geomhash":"a2d59471ee27b07dd4acf322c08c1a93",
+    "wof:geomhash":"af0557d469254a190e7d41b373de9429",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":840646381,
-    "wof:lastmodified":1466522814,
+    "wof:lastmodified":1510607229,
     "wof:name":"Fye",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

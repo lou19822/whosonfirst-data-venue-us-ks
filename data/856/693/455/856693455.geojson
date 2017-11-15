@@ -2,14 +2,20 @@
   "id": 856693455,
   "type": "Feature",
   "properties": {
+    "addr:full":"5500 E Harry St Wichita KS 67218",
+    "addr:housenumber":"5500",
+    "addr:postcode":"67218",
+    "addr:street":"E Harry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.27129,37.664669,-97.27129,37.664669",
     "geom:latitude":37.664669,
     "geom:longitude":-97.27129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5500 E Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":1125159225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60JV64KnA1KZiFCZ1TUBme_37.664669_-97.271290@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051932,
-    "wof:geomhash":"01b4cfcfaa0b3425378bf9a15859e2c8",
+    "wof:geomhash":"c77044ba2a2218c0f9c5c6025b7441f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856693455,
-    "wof:lastmodified":1466519558,
+    "wof:lastmodified":1510699528,
     "wof:name":"Dillon Store",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

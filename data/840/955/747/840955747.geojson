@@ -2,14 +2,20 @@
   "id": 840955747,
   "type": "Feature",
   "properties": {
+    "addr:full":"1356 N Broadway St Wichita KS 67214",
+    "addr:housenumber":"1356",
+    "addr:postcode":"67214",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.335503,37.707017,-97.335503,37.707017",
     "geom:latitude":37.707017,
     "geom:longitude":-97.335503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1356 N Broadway St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125156485,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fd8IyclYgAQZ87jpzxTDs_37.707017_-97.335503@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051757,
-    "wof:geomhash":"7c8d78014b7c02f07b02eb8fe5781d58",
+    "wof:geomhash":"b3671bf2c557af3d70b746cedf0fe228",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840955747,
-    "wof:lastmodified":1466529865,
+    "wof:lastmodified":1510695425,
     "wof:name":"St Paul's United Methodist Chr",
     "wof:parent_id":85872827,
     "wof:placetype":"venue",

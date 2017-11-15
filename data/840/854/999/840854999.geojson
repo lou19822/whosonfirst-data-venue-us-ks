@@ -2,14 +2,20 @@
   "id": 840854999,
   "type": "Feature",
   "properties": {
+    "addr:full":"12018 W 95th St Lenexa KS 66215",
+    "addr:housenumber":"12018",
+    "addr:postcode":"66215",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.724597,38.956609,-94.724597,38.956609",
     "geom:latitude":38.956609,
     "geom:longitude":-94.724597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12018 W 95th St",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420574963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50JQ5PIc7dOrDKidfuF4wM_38.956609_-94.724597@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049545,
-    "wof:geomhash":"dd95c1b44a1f58bec608e3f1dd06c22a",
+    "wof:geomhash":"89224268188e8e7799c344be4a879b58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840854999,
-    "wof:lastmodified":1466527466,
+    "wof:lastmodified":1510604160,
     "wof:name":"Wells Fargo Financial Accptnce",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

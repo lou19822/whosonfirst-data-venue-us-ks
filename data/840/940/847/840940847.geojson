@@ -2,6 +2,10 @@
   "id": 840940847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 E Kellogg Dr N Wichita KS 67211",
+    "addr:housenumber":"1400",
+    "addr:postcode":"67211",
+    "addr:street":"E Kellogg Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840940847,
-    "wof:lastmodified":1466529493,
+    "wof:lastmodified":1472623705,
     "wof:name":"First Church Of The Nazarene",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

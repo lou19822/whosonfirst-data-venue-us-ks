@@ -2,14 +2,20 @@
   "id": 840711603,
   "type": "Feature",
   "properties": {
+    "addr:full":"12813 W 132nd St Overland Park KS 66213",
+    "addr:housenumber":"12813",
+    "addr:postcode":"66213",
+    "addr:street":"W 132Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.733603,38.887683,-94.733603,38.887683",
     "geom:latitude":38.887683,
     "geom:longitude":-94.733603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12813 W 132nd St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85835339
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_596N7DiPOiWilVqNez39fg_38.887683_-94.733603@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046334,
-    "wof:geomhash":"ce47b40ddb148d0cad5113de6677f5bd",
+    "wof:geomhash":"b05ff28ed27cbba1d3d6dcb0e9ffd0a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840711603,
-    "wof:lastmodified":1466524283,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",

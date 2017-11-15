@@ -2,14 +2,20 @@
   "id": 840623873,
   "type": "Feature",
   "properties": {
+    "addr:full":"1021 S 12 St Kansas City KS 66105",
+    "addr:housenumber":"1021;12",
+    "addr:postcode":"66105",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.63979,39.079348,-94.63979,39.079348",
     "geom:latitude":39.079348,
     "geom:longitude":-94.63979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1021 S 12 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pLoWLm1YAwM5qUUmGdtf1_39.079348_-94.639790@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044265,
-    "wof:geomhash":"edf4807a26c0049e23919e516d3d54c8",
+    "wof:geomhash":"994b614ac633a8e58476338884dc5915",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840623873,
-    "wof:lastmodified":1466522490,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":85873441,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840573221,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Baltimore Ave Kansas City KS 64108",
+    "addr:housenumber":"3030",
+    "addr:postcode":"64108",
+    "addr:street":"Baltimore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840573221,
-    "wof:lastmodified":1466521246,
+    "wof:lastmodified":1472623334,
     "wof:name":"Midwest Pathology Assoc",
     "wof:parent_id":85872013,
     "wof:placetype":"venue",

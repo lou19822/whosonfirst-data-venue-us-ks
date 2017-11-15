@@ -2,6 +2,10 @@
   "id": 202981141,
   "type": "Feature",
   "properties": {
+    "addr:full":"4444 S Southeast Blvd Wichita KS 67210",
+    "addr:housenumber":"4444",
+    "addr:postcode":"67210",
+    "addr:street":"S Southeast Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":202981141,
-    "wof:lastmodified":1466520349,
+    "wof:lastmodified":1472623296,
     "wof:name":"A Good Plumber Inc",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

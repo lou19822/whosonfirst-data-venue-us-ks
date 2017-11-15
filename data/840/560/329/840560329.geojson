@@ -2,14 +2,20 @@
   "id": 840560329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1830 US Hwy 50 Emporia KS 66801",
+    "addr:housenumber":"1830",
+    "addr:postcode":"66801",
+    "addr:street":"Us Hwy 50",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.202494,38.405096,-96.202494,38.405096",
     "geom:latitude":38.405096,
     "geom:longitude":-96.202494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1830 US Hwy 50",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082661,
         85805839
     ],
+    "wof:brand_id":1125159175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n4GKi6eRLiP9E7xunRIIj_38.405096_-96.202494@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464042742,
-    "wof:geomhash":"90f1d6ce9d36128ebc677105ed6127f5",
+    "wof:geomhash":"d8796c5c2510c03356924a182c6182b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840560329,
-    "wof:lastmodified":1466521001,
+    "wof:lastmodified":1510694035,
     "wof:name":"Budget Host Inn",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",

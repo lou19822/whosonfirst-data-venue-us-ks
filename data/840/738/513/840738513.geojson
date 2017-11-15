@@ -2,14 +2,20 @@
   "id": 840738513,
   "type": "Feature",
   "properties": {
+    "addr:full":"8500 W 110th St Overland Park KS 66210",
+    "addr:housenumber":"8500",
+    "addr:postcode":"66210",
+    "addr:street":"W 110Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.688544,38.929205,-94.688544,38.929205",
     "geom:latitude":38.929205,
     "geom:longitude":-94.688544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8500 W 110th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vKhP0u0u1V512uzTjzB42_38.929205_-94.688544@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046870,
-    "wof:geomhash":"6177f5a6f609a3bae9133f5312e577fc",
+    "wof:geomhash":"a9543335b00189314c3548671a58fef3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840738513,
-    "wof:lastmodified":1466524960,
+    "wof:lastmodified":1510613256,
     "wof:name":"GAB Robins",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",

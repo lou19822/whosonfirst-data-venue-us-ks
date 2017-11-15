@@ -2,14 +2,20 @@
   "id": 840839487,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 State St Augusta KS 67010",
+    "addr:housenumber":"504",
+    "addr:postcode":"67010",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.978869,37.676238,-96.978869,37.676238",
     "geom:latitude":37.676238,
     "geom:longitude":-96.978869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082695,
         85834115
     ],
+    "wof:brand_id":420573795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ggMa2whohj01QGD2sJDgp_37.676238_-96.978869@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049200,
-    "wof:geomhash":"220697dcc336cf6f015a087df4541854",
+    "wof:geomhash":"e0b766e3389ed298a3be1e3557ec45cb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840839487,
-    "wof:lastmodified":1466527048,
+    "wof:lastmodified":1510603336,
     "wof:name":"Farmers Insurance Group",
     "wof:parent_id":85834115,
     "wof:placetype":"venue",

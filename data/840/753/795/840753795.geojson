@@ -2,14 +2,20 @@
   "id": 840753795,
   "type": "Feature",
   "properties": {
+    "addr:full":"9509 W 115th Ter Shawnee Mission KS 66210",
+    "addr:housenumber":"9509",
+    "addr:postcode":"66210",
+    "addr:street":"W 115Th Ter Shawnee",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.691379,38.920548,-94.691379,38.920548",
     "geom:latitude":38.920548,
     "geom:longitude":-94.691379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9509 W 115th Ter",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150909,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WLu5nAaUl5StPpe8yfqa2_38.920548_-94.691379@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047190,
-    "wof:geomhash":"dd82c9d2013c7f7dd5526bfbc53f24e1",
+    "wof:geomhash":"a883b96e0fd16da33ea45b7358751299",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840753795,
-    "wof:lastmodified":1466525254,
+    "wof:lastmodified":1510696734,
     "wof:name":"AIG Sunamerica",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",

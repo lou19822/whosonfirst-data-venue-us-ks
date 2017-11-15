@@ -2,6 +2,10 @@
   "id": 840806691,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 S 11 St Kansas City KS 66105",
+    "addr:housenumber":"565;11",
+    "addr:postcode":"66105",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840806691,
-    "wof:lastmodified":1466526436,
+    "wof:lastmodified":1472623576,
     "wof:name":"Delta Innovative Svc Inc",
     "wof:parent_id":85878487,
     "wof:placetype":"venue",

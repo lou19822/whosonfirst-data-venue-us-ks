@@ -2,14 +2,20 @@
   "id": 840650341,
   "type": "Feature",
   "properties": {
+    "addr:full":"4909 W 119th St Overland Park KS 66209",
+    "addr:housenumber":"4909",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.643927,38.912844,-94.643927,38.912844",
     "geom:latitude":38.912844,
     "geom:longitude":-94.643927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4909 W 119th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BOkGk9dM7Yzl0ZDiMtpvq_38.912844_-94.643927@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044887,
-    "wof:geomhash":"9a607a8b2d157c63c659504103704682",
+    "wof:geomhash":"6ec163b050d286a473767964dcce0f88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840650341,
-    "wof:lastmodified":1466522970,
+    "wof:lastmodified":1510697629,
     "wof:name":"Joseph A Bank Clothiers",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840906987,
   "type": "Feature",
   "properties": {
+    "addr:full":"1419 E 19 St Kansas City KS 64108",
+    "addr:housenumber":"1419;19",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":840906987,
-    "wof:lastmodified":1466528572,
+    "wof:lastmodified":1472623668,
     "wof:name":"Martin Mechanical Corp",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

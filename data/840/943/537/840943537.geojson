@@ -2,14 +2,20 @@
   "id": 840943537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1880 S Florence Ct Wichita KS 67209",
+    "addr:housenumber":"1880",
+    "addr:postcode":"67209",
+    "addr:street":"S Florence Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.391907,37.660925,-97.391907,37.660925",
     "geom:latitude":37.660925,
     "geom:longitude":-97.391907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1880 S Florence Ct",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZWYJs9cfD3eudplZoRWbf_37.660925_-97.391907@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051525,
-    "wof:geomhash":"60a197ed9c68d6e3dcd23f972a9bf0d8",
+    "wof:geomhash":"0274811470bfcc5127eec7ceb61baaf6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840943537,
-    "wof:lastmodified":1466529523,
+    "wof:lastmodified":1510602070,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

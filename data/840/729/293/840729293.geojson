@@ -2,14 +2,20 @@
   "id": 840729293,
   "type": "Feature",
   "properties": {
+    "addr:full":"513 N Mur-Len Rd Olathe KS 66062",
+    "addr:housenumber":"513",
+    "addr:postcode":"66062",
+    "addr:street":"N Mur-Len Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.779642,38.898269,-94.779642,38.898269",
     "geom:latitude":38.898269,
     "geom:longitude":-94.779642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"513 N Mur-Len Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fyK1DJ1D2Qzo6KNMhYSlr_38.898269_-94.779642@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046694,
-    "wof:geomhash":"c0bcb10157f5dccb0831425697d909e1",
+    "wof:geomhash":"a6be7dae8ab6efd8761a2892be9b4773",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840729293,
-    "wof:lastmodified":1466524659,
+    "wof:lastmodified":1510695913,
     "wof:name":"Cleaning Authority",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

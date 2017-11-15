@@ -2,14 +2,20 @@
   "id": 840948881,
   "type": "Feature",
   "properties": {
+    "addr:full":"11060 Oakmont St Overland Park KS 66210",
+    "addr:housenumber":"11060",
+    "addr:postcode":"66210",
+    "addr:street":"Oakmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.72955,38.929278,-94.72955,38.929278",
     "geom:latitude":38.929278,
     "geom:longitude":-94.72955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11060 Oakmont St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125153221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YXNwgh2KgqXkpOQQiUTyo_38.929278_-94.729550@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051624,
-    "wof:geomhash":"be6c1b8561b69742fbba5c45fe1b6085",
+    "wof:geomhash":"76b4ce26c70209a3bf6c3c941c4cb535",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840948881,
-    "wof:lastmodified":1466529789,
+    "wof:lastmodified":1510699567,
     "wof:name":"Goddard School",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

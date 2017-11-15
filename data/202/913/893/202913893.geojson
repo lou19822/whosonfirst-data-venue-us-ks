@@ -2,6 +2,10 @@
   "id": 202913893,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 N 3rd St Apt 26 Atchison KS 66002",
+    "addr:housenumber":"221;26",
+    "addr:postcode":"66002",
+    "addr:street":"N 3Rd St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":202913893,
-    "wof:lastmodified":1466519437,
+    "wof:lastmodified":1472623254,
     "wof:name":"Deware Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

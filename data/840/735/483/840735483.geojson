@@ -2,14 +2,20 @@
   "id": 840735483,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 SE Jefferson St Topeka KS 66607",
+    "addr:housenumber":"501",
+    "addr:postcode":"66607",
+    "addr:street":"Se Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.667627,39.050229,-95.667627,39.050229",
     "geom:latitude":39.050229,
     "geom:longitude":-95.667627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 SE Jefferson St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125155505,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01ygZyiC7ofdvHmCkhkS9U_39.050229_-95.667627@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046809,
-    "wof:geomhash":"a26454285e812b80a3b3e3a058d4303a",
+    "wof:geomhash":"6f7c4b461c24a0fb13e82c7a3ac39d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840735483,
-    "wof:lastmodified":1466524858,
+    "wof:lastmodified":1510696755,
     "wof:name":"Junior Achievement",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",

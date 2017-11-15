@@ -2,14 +2,20 @@
   "id": 856708825,
   "type": "Feature",
   "properties": {
+    "addr:full":"8113 E Kellogg Dr Wichita KS 67207",
+    "addr:housenumber":"8113",
+    "addr:postcode":"67207",
+    "addr:street":"E Kellogg Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.240076,37.67821,-97.240076,37.67821",
     "geom:latitude":37.67821,
     "geom:longitude":-97.240076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8113 E Kellogg Dr",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R5GpcyeFZXfvpHJDGOguh_37.678210_-97.240076@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052244,
-    "wof:geomhash":"e6160e124184e6705df28edd6a015732",
+    "wof:geomhash":"b27f9893634211fa4dbc57d87893824a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856708825,
-    "wof:lastmodified":1466520110,
+    "wof:lastmodified":1510699747,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",

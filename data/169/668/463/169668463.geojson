@@ -2,9 +2,14 @@
   "id": 169668463,
   "type": "Feature",
   "properties": {
+    "addr:full":"10100 W 87th St Overland Park KS 66212",
+    "addr:housenumber":"10100",
+    "addr:postcode":"66212",
+    "addr:street":"W 87Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.705011,38.971136,-94.705011,38.971136",
     "geom:latitude":38.971136,
     "geom:longitude":-94.705011,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879599,
+        102191575,
+        404502689,
         85633793,
         85945755,
         102082673,
-        85879599
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"34154e685a053b1c7aad93eaf42dcca8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404502689,
             "locality_id":85945755,
             "neighbourhood_id":85879599,
             "region_id":85688555,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":169668463,
-    "wof:lastmodified":1466520469,
+    "wof:lastmodified":1491916270,
     "wof:name":"Capstone Associates",
     "wof:parent_id":85879599,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840731873,
   "type": "Feature",
   "properties": {
+    "addr:full":"2132 N Rock Rd Wichita KS 67206",
+    "addr:housenumber":"2132",
+    "addr:postcode":"67206",
+    "addr:street":"N Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.24454,37.720935,-97.24454,37.720935",
     "geom:latitude":37.720935,
     "geom:longitude":-97.24454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2132 N Rock Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125151387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ePq7ABUlpqVd34hLhVggR_37.720935_-97.244540@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046742,
-    "wof:geomhash":"5cf7179fb8407c118a30647a2d66a71d",
+    "wof:geomhash":"6ce923ceff4b55b25412fecd1ff37db5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840731873,
-    "wof:lastmodified":1466524830,
+    "wof:lastmodified":1510695304,
     "wof:name":"Rocky Mountain Chocolate Fctry",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",

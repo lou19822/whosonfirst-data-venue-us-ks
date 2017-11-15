@@ -2,14 +2,20 @@
   "id": 840768511,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 SW 37th St Topeka KS 66611",
+    "addr:housenumber":"211",
+    "addr:postcode":"66611",
+    "addr:street":"Sw 37Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.680872,39.000568,-95.680872,39.000568",
     "geom:latitude":39.000568,
     "geom:longitude":-95.680872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 SW 37th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125151003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NxwH4kSUGLF6wvLOeH6tk_39.000568_-95.680872@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047537,
-    "wof:geomhash":"8719141815b89e3f833c6e4e8126a152",
+    "wof:geomhash":"22d1f14ce4c8a6516773fab1cada421d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840768511,
-    "wof:lastmodified":1466525480,
+    "wof:lastmodified":1510695764,
     "wof:name":"Binswanger Glass Co",
     "wof:parent_id":85881565,
     "wof:placetype":"venue",

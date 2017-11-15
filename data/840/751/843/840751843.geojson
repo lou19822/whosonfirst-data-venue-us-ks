@@ -2,6 +2,10 @@
   "id": 840751843,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 S Main St Benton KS 67107",
+    "addr:housenumber":"135",
+    "addr:postcode":"67107",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":840751843,
-    "wof:lastmodified":1466525270,
+    "wof:lastmodified":1472623527,
     "wof:name":"US Post Office",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",

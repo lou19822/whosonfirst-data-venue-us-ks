@@ -2,14 +2,20 @@
   "id": 840845787,
   "type": "Feature",
   "properties": {
+    "addr:full":"11200 Outlook St Overland Park KS 66211",
+    "addr:housenumber":"11200",
+    "addr:postcode":"66211",
+    "addr:street":"Outlook St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.65427,38.922005,-94.65427,38.922005",
     "geom:latitude":38.922005,
     "geom:longitude":-94.65427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11200 Outlook St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,15 +42,19 @@
         85633793,
         85945793,
         102082673,
-        85688555
+        85688555,
+        85879577,
+        404502689,
+        85945755
     ],
+    "wof:brand_id":1125152249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XX4arWZj248OTc9wE93ez_38.922005_-94.654270@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049346,
-    "wof:geomhash":"dc36d555ec4cb42f7b5b11cc6993c611",
+    "wof:geomhash":"da76d2aefdaafeaba2a5de93c52fdb7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +65,22 @@
             "neighbourhood_id":85879563,
             "region_id":85688555,
             "venue_id":840845787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879577,
+            "region_id":85688555,
+            "venue_id":840845787
         }
     ],
     "wof:id":840845787,
-    "wof:lastmodified":1466527246,
+    "wof:lastmodified":1510694096,
     "wof:name":"Xerox Corp",
-    "wof:parent_id":85879563,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],

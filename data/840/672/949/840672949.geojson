@@ -2,14 +2,20 @@
   "id": 840672949,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 SW Wanamaker Rd Topeka KS 66614",
+    "addr:housenumber":"2201",
+    "addr:postcode":"66614",
+    "addr:street":"Sw Wanamaker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.762317,39.027999,-95.762317,39.027999",
     "geom:latitude":39.027999,
     "geom:longitude":-95.762317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 SW Wanamaker Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125152133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DTrSIaeeLXXIl4z4qvUpr_39.027999_-95.762317@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045386,
-    "wof:geomhash":"88d801ca91ba452e4a2db34ad837a16f",
+    "wof:geomhash":"be022276ba47bc835af19bca65528501",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":840672949,
-    "wof:lastmodified":1466523566,
+    "wof:lastmodified":1510695267,
     "wof:name":"Cingular Wireless LLC",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

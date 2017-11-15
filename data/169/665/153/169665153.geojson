@@ -2,9 +2,14 @@
   "id": 169665153,
   "type": "Feature",
   "properties": {
+    "addr:full":"4901 Town Center Dr Leawood KS 66211",
+    "addr:housenumber":"4901",
+    "addr:postcode":"66211",
+    "addr:street":"Town Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.644224,38.917991,-94.644224,38.917991",
     "geom:latitude":38.917991,
     "geom:longitude":-94.644224,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:brand_id":420574695,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"4560cacc3c9440e8803ce374aa3d20cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":169665153,
-    "wof:lastmodified":1466520440,
+    "wof:lastmodified":1491901048,
     "wof:name":"Sprint PCS",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

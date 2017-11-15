@@ -2,14 +2,20 @@
   "id": 856705847,
   "type": "Feature",
   "properties": {
+    "addr:full":"11748 W 95th St Lenexa KS 66214",
+    "addr:housenumber":"11748",
+    "addr:postcode":"66214",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.721527,38.958137,-94.721527,38.958137",
     "geom:latitude":38.958137,
     "geom:longitude":-94.721527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11748 W 95th St",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Grkcq4VRaExo5J1uJVyRV_38.958137_-94.721527@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052183,
-    "wof:geomhash":"0e50d7888e6e2f02a9b7daccbb7a8ca7",
+    "wof:geomhash":"3df8b4dc30401daf5f9b6ac4ea6a3a66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856705847,
-    "wof:lastmodified":1466520028,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",

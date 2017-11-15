@@ -2,6 +2,10 @@
   "id": 202951587,
   "type": "Feature",
   "properties": {
+    "addr:full":"8725 Rosehill Rd Ste 415 Lenexa KS 66215",
+    "addr:housenumber":"8725;415",
+    "addr:postcode":"66215",
+    "addr:street":"Rosehill Rd Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":202951587,
-    "wof:lastmodified":1466520158,
+    "wof:lastmodified":1472623276,
     "wof:name":"Kci",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169593139,
   "type": "Feature",
   "properties": {
+    "addr:full":"9617 W 87th St Overland Park KS 66212",
+    "addr:housenumber":"9617",
+    "addr:postcode":"66212",
+    "addr:street":"W 87Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.699002,38.971086,-94.699002,38.971086",
     "geom:latitude":38.971086,
     "geom:longitude":-94.699002,
@@ -25,11 +30,13 @@
     "sg:province":"KS",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879565,
+        102191575,
+        404502689,
         85633793,
         85945755,
         102082673,
-        85879565
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"d4a44cb440b95cc73baf207d1a7872f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404502689,
             "locality_id":85945755,
             "neighbourhood_id":85879565,
             "region_id":85688555,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":169593139,
-    "wof:lastmodified":1466529835,
+    "wof:lastmodified":1491895307,
     "wof:name":"Fieldhouse Sports Cafe",
     "wof:parent_id":85879565,
     "wof:placetype":"venue",

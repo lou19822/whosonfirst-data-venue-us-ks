@@ -2,6 +2,10 @@
   "id": 840540027,
   "type": "Feature",
   "properties": {
+    "addr:full":"1927 S 32 St Kansas City KS 66106",
+    "addr:housenumber":"1927;32",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840540027,
-    "wof:lastmodified":1466520516,
+    "wof:lastmodified":1472623275,
     "wof:name":"J & J Ceramic Tile",
     "wof:parent_id":85803445,
     "wof:placetype":"venue",

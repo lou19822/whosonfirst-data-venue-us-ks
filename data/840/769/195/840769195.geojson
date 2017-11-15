@@ -2,14 +2,20 @@
   "id": 840769195,
   "type": "Feature",
   "properties": {
+    "addr:full":"973 N Young St Wichita KS 67212",
+    "addr:housenumber":"973",
+    "addr:postcode":"67212",
+    "addr:street":"N Young St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.396187,37.700339,-97.396187,37.700339",
     "geom:latitude":37.700339,
     "geom:longitude":-97.396187,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"973 N Young St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872817
     ],
+    "wof:brand_id":1125159621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ispD6fyqZ7GGJETDyBogZ_37.700339_-97.396187@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047556,
-    "wof:geomhash":"90a8217246672c11962747910033475a",
+    "wof:geomhash":"751d6aa36e88c9b107ca7c899f710eb9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840769195,
-    "wof:lastmodified":1466525491,
+    "wof:lastmodified":1510696712,
     "wof:name":"Mt Sinai Baptist Church",
     "wof:parent_id":85872817,
     "wof:placetype":"venue",

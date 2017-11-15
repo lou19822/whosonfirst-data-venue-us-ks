@@ -2,9 +2,14 @@
   "id": 169632283,
   "type": "Feature",
   "properties": {
+    "addr:full":"5045 W 117th St Leawood KS 66211",
+    "addr:housenumber":"5045",
+    "addr:postcode":"66211",
+    "addr:street":"W 117Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.642527,38.916861,-94.642527,38.916861",
     "geom:latitude":38.916861,
     "geom:longitude":-94.642527,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"d340e98b5c35d8b81bc01e72335c6d58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":169632283,
-    "wof:lastmodified":1466520169,
+    "wof:lastmodified":1491901045,
     "wof:name":"Blue Chip Cookies",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

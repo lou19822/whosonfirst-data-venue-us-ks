@@ -2,6 +2,10 @@
   "id": 840805105,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 S Hydraulic St Wichita KS 67211",
+    "addr:housenumber":"140;hydraulic",
+    "addr:postcode":"67211",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840805105,
-    "wof:lastmodified":1466526256,
+    "wof:lastmodified":1472623564,
     "wof:name":"Alcoholics Anonymous",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

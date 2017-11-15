@@ -2,6 +2,10 @@
   "id": 840806403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 S 26 St Kansas City KS 66106",
+    "addr:housenumber":"1000;26",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840806403,
-    "wof:lastmodified":1466526360,
+    "wof:lastmodified":1472623570,
     "wof:name":"A To Z Auto Wrecking",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840777397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1940 SW Gage Blvd Topeka KS 66604",
+    "addr:housenumber":"1940",
+    "addr:postcode":"66604",
+    "addr:street":"Sw Gage Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.724827,39.032081,-95.724827,39.032081",
     "geom:latitude":39.032081,
     "geom:longitude":-95.724827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1940 SW Gage Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":420574965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QIg1mc7P8LIUlAKe6pQTo_39.032081_-95.724827@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047710,
-    "wof:geomhash":"118b66ce6affe92bd4bccee8ecc22f90",
+    "wof:geomhash":"a7718d7fb1711c7959f2fb356ef8d1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840777397,
-    "wof:lastmodified":1466525705,
+    "wof:lastmodified":1510604742,
     "wof:name":"Allied Home Mortgage Capital",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",

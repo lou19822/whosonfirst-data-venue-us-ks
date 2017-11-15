@@ -2,14 +2,20 @@
   "id": 840936639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1791 SW Wanamaker Rd Topeka KS 66604",
+    "addr:housenumber":"1791",
+    "addr:postcode":"66604",
+    "addr:street":"Sw Wanamaker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.76215,39.033502,-95.76215,39.033502",
     "geom:latitude":39.033502,
     "geom:longitude":-95.76215,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1791 SW Wanamaker Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125158809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hj91CzBL8eOIgo1bKyExj_39.033502_-95.762150@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051384,
-    "wof:geomhash":"044b4a9ec8c2c814f6dc50ddf8977a89",
+    "wof:geomhash":"c973fda91623be66db773b740d837eca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840936639,
-    "wof:lastmodified":1466529376,
+    "wof:lastmodified":1510613188,
     "wof:name":"Mac Cosmetics",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

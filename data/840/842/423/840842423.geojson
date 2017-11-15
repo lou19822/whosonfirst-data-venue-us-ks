@@ -2,14 +2,20 @@
   "id": 840842423,
   "type": "Feature",
   "properties": {
+    "addr:full":"4749 Johnson Dr Mission KS 66205",
+    "addr:housenumber":"4749",
+    "addr:postcode":"66205",
+    "addr:street":"Johnson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.640573,39.024872,-94.640573,39.024872",
     "geom:latitude":39.024872,
     "geom:longitude":-94.640573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4749 Johnson Dr",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dJcdhGyanDhoHOsTZ8guO_39.024872_-94.640573@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049281,
-    "wof:geomhash":"754010ba0baa801e5892c36523a33213",
+    "wof:geomhash":"5c4b9c5a2c9c52918677a5e762bfa830",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840842423,
-    "wof:lastmodified":1466527108,
+    "wof:lastmodified":1510695742,
     "wof:name":"Wolf Camera & Video",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",

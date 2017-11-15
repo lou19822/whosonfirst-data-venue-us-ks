@@ -2,14 +2,20 @@
   "id": 840683989,
   "type": "Feature",
   "properties": {
+    "addr:full":"718 N Eisenhower Wichita KS 67212",
+    "addr:housenumber":"718",
+    "addr:postcode":"67212",
+    "addr:street":"N Eisenhower",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.411158,37.695177,-97.411158,37.695177",
     "geom:latitude":37.695177,
     "geom:longitude":-97.411158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"718 N Eisenhower",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125156175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tgRjRTYiUKLSYHP7VoppK_37.695177_-97.411158@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045669,
-    "wof:geomhash":"6bae2b0c83816ce9d957cd68544c5ebc",
+    "wof:geomhash":"a4cfb1a6d0532624d2c62c41e3791e47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840683989,
-    "wof:lastmodified":1466523811,
+    "wof:lastmodified":1510697592,
     "wof:name":"World Inspection Network",
     "wof:parent_id":85833555,
     "wof:placetype":"venue",

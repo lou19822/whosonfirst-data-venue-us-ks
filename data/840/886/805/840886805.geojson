@@ -2,14 +2,20 @@
   "id": 840886805,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 E 6th Ave El Dorado KS 67042",
+    "addr:housenumber":"121",
+    "addr:postcode":"67042",
+    "addr:street":"E 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.849408,37.824872,-96.849408,37.824872",
     "geom:latitude":37.824872,
     "geom:longitude":-96.849408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 E 6th Ave",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85851529,
         102082695
     ],
+    "wof:brand_id":1125150135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PzkcFwdP2uK8eUN02drRq_37.824872_-96.849408@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050216,
-    "wof:geomhash":"574e0a9dd18032b97e04366a495f39ae",
+    "wof:geomhash":"2bd735cf0878369365e349785c7e5d12",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840886805,
-    "wof:lastmodified":1466528104,
+    "wof:lastmodified":1510696872,
     "wof:name":"Mane Attraction",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",

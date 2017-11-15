@@ -2,14 +2,20 @@
   "id": 856690419,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 Commercial St Emporia KS 66801",
+    "addr:housenumber":"411",
+    "addr:postcode":"66801",
+    "addr:street":"Commercial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.180239,38.403671,-96.180239,38.403671",
     "geom:latitude":38.403671,
     "geom:longitude":-96.180239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 Commercial St",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082661,
         85818077
     ],
+    "wof:brand_id":420574481,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ipn6EBgEPWotMMooepBP6_38.403671_-96.180239@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051876,
-    "wof:geomhash":"f23461be682e268b8efe7a007156be7b",
+    "wof:geomhash":"4a8e44f57830983e6e6025d677b5912e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":856690419,
-    "wof:lastmodified":1466519532,
+    "wof:lastmodified":1510604202,
     "wof:name":"Met Life",
     "wof:parent_id":85818077,
     "wof:placetype":"venue",

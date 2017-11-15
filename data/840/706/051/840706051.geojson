@@ -2,6 +2,10 @@
   "id": 840706051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 N Ridge Rd Wichita KS 67212",
+    "addr:housenumber":"1337",
+    "addr:postcode":"67212",
+    "addr:street":"N Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840706051,
-    "wof:lastmodified":1466524111,
+    "wof:lastmodified":1472623472,
     "wof:name":"J & D Wine & Liquor Mart",
     "wof:parent_id":85812577,
     "wof:placetype":"venue",

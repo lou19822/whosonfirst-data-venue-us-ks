@@ -2,14 +2,20 @@
   "id": 840899383,
   "type": "Feature",
   "properties": {
+    "addr:full":"3649 SW Burlingame Rd Topeka KS 66611",
+    "addr:housenumber":"3649",
+    "addr:postcode":"66611",
+    "addr:street":"Sw Burlingame Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.706063,39.001277,-95.706063,39.001277",
     "geom:latitude":39.001277,
     "geom:longitude":-95.706063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3649 SW Burlingame Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125151903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mdyrHtwwu9IcwWwKSdyMl_39.001277_-95.706063@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050476,
-    "wof:geomhash":"abfc303b67bff4212caedeec4a3587cb",
+    "wof:geomhash":"3f1c53f0fa37740b5e7739a27ece3a02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840899383,
-    "wof:lastmodified":1466528337,
+    "wof:lastmodified":1510697316,
     "wof:name":"Muscular Dystrophy Assn",
     "wof:parent_id":85881549,
     "wof:placetype":"venue",

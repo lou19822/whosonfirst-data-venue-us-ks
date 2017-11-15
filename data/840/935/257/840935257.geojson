@@ -2,14 +2,20 @@
   "id": 840935257,
   "type": "Feature",
   "properties": {
+    "addr:full":"925 N Broadway St Wichita KS 67214",
+    "addr:housenumber":"925",
+    "addr:postcode":"67214",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.335655,37.700286,-97.335655,37.700286",
     "geom:latitude":37.700286,
     "geom:longitude":-97.335655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"925 N Broadway St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s2nnRBXfMXS6PPWeemxcn_37.700286_-97.335655@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051350,
-    "wof:geomhash":"2cf67dc66fe5354501262a5e5faf7087",
+    "wof:geomhash":"db361cde3f93a1d8e7e0f810150ec6ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840935257,
-    "wof:lastmodified":1466529238,
+    "wof:lastmodified":1510697258,
     "wof:name":"Red Carpet Inn",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",

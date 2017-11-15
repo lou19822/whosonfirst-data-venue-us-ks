@@ -2,9 +2,14 @@
   "id": 202950759,
   "type": "Feature",
   "properties": {
+    "addr:full":"10770 El Monte St Leawood KS 66211",
+    "addr:housenumber":"10770",
+    "addr:postcode":"66211",
+    "addr:street":"El Monte St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.635761,38.934398,-94.635761,38.934398",
     "geom:latitude":38.934398,
     "geom:longitude":-94.635761,
@@ -38,11 +43,13 @@
     "sg:website":"http://www.alhuber.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +59,10 @@
     "wof:geomhash":"217a6a272708f5e950956f140ddf2d6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":202950759,
-    "wof:lastmodified":1466520166,
+    "wof:lastmodified":1491901042,
     "wof:name":"A.L. Huber Construction Inc",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

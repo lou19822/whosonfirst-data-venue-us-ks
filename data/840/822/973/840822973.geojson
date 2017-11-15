@@ -2,14 +2,20 @@
   "id": 840822973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1731 S Mur-Len Rd Olathe KS 66062",
+    "addr:housenumber":"1731",
+    "addr:postcode":"66062",
+    "addr:street":"S Mur-Len Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.779493,38.898086,-94.779493,38.898086",
     "geom:latitude":38.898086,
     "geom:longitude":-94.779493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1731 S Mur-Len Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GkUxjGBQPd4xLjnQHRjZ1_38.898086_-94.779493@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048844,
-    "wof:geomhash":"44fa55ed5aab700205dd3634b237b372",
+    "wof:geomhash":"2eceede7558be8c53c4942ed47ce1482",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840822973,
-    "wof:lastmodified":1466526824,
+    "wof:lastmodified":1510695152,
     "wof:name":"Star Cleaners",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202948671,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 W 119th St Leawood KS 66209",
+    "addr:housenumber":"5000",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.643536,38.913039,-94.643536,38.913039",
     "geom:latitude":38.913039,
     "geom:longitude":-94.643536,
@@ -26,11 +31,13 @@
     "sg:website":"http://www.macys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:brand_id":420575351,
     "wof:breaches":[],
@@ -41,9 +48,10 @@
     "wof:geomhash":"419f382c282f588de694fd73ea05edce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":202948671,
-    "wof:lastmodified":1466520140,
+    "wof:lastmodified":1491901045,
     "wof:name":"Macy's",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

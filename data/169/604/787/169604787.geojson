@@ -2,6 +2,10 @@
   "id": 169604787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1349 N 1000 Rd Lawrence KS 66046",
+    "addr:housenumber":"1349",
+    "addr:postcode":"1000;66046",
+    "addr:street":"N;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169604787,
-    "wof:lastmodified":1466519513,
+    "wof:lastmodified":1472623261,
     "wof:name":"Quality Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

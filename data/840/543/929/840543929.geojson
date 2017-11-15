@@ -2,6 +2,10 @@
   "id": 840543929,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 E 18 St Kansas City KS 64108",
+    "addr:housenumber":"1601;18",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840543929,
-    "wof:lastmodified":1466520804,
+    "wof:lastmodified":1472623323,
     "wof:name":"Ja Demier Mktg & Event Plg",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

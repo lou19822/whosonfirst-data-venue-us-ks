@@ -2,14 +2,20 @@
   "id": 840918365,
   "type": "Feature",
   "properties": {
+    "addr:full":"12760 W 87th St Shawnee Mission KS 66215",
+    "addr:housenumber":"12760",
+    "addr:postcode":"66215",
+    "addr:street":"W 87Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.73501,38.971091,-94.73501,38.971091",
     "geom:latitude":38.971091,
     "geom:longitude":-94.73501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12760 W 87th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SuLQX9FiIdcpeNj4WZdKt_38.971091_-94.735010@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050959,
-    "wof:geomhash":"e79904bd561fb2e16ab056bd64ecb23e",
+    "wof:geomhash":"472431eb5a61eb779a462e7028d748b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840918365,
-    "wof:lastmodified":1466528694,
+    "wof:lastmodified":1510696747,
     "wof:name":"First Command Financial Plan",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

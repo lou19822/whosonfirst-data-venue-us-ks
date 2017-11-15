@@ -2,14 +2,20 @@
   "id": 840823393,
   "type": "Feature",
   "properties": {
+    "addr:full":"7804 E Funston St Wichita KS 67207",
+    "addr:housenumber":"7804",
+    "addr:postcode":"67207",
+    "addr:street":"E Funston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.244473,37.661252,-97.244473,37.661252",
     "geom:latitude":37.661252,
     "geom:longitude":-97.244473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7804 E Funston St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125153947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jb6WAyU9cOzxRWv82WDSi_37.661252_-97.244473@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048858,
-    "wof:geomhash":"c74b199755a941298af6311428a9e099",
+    "wof:geomhash":"3fb914ac0f1c21d9b40ef90095a7362a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840823393,
-    "wof:lastmodified":1466526686,
+    "wof:lastmodified":1510695229,
     "wof:name":"Decision One",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",

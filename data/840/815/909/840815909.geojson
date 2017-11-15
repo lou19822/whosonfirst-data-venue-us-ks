@@ -2,14 +2,20 @@
   "id": 840815909,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 NW Moundview Dr Topeka KS 66618",
+    "addr:housenumber":"1401",
+    "addr:postcode":"66618",
+    "addr:street":"Nw Moundview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.726753,39.077661,-95.726753,39.077661",
     "geom:latitude":39.077661,
     "geom:longitude":-95.726753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 NW Moundview Dr",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85881559,
         102084175
     ],
+    "wof:brand_id":420575375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Xo4tBs7NLdVvjXSSEpMbE_39.077661_-95.726753@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048635,
-    "wof:geomhash":"0a68c336d6c872f4ce087619c785384b",
+    "wof:geomhash":"3c6d11c95c602f1578e4b0ebe9d5910a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840815909,
-    "wof:lastmodified":1466526664,
+    "wof:lastmodified":1510602057,
     "wof:name":"Ritz Camera Ctr",
     "wof:parent_id":85881559,
     "wof:placetype":"venue",

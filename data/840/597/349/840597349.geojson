@@ -2,14 +2,20 @@
   "id": 840597349,
   "type": "Feature",
   "properties": {
+    "addr:full":"827 SW Tyler St Topeka KS 66612",
+    "addr:housenumber":"827",
+    "addr:postcode":"66612",
+    "addr:street":"Sw Tyler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.68227,39.049653,-95.68227,39.049653",
     "geom:latitude":39.049653,
     "geom:longitude":-95.68227,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"827 SW Tyler St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125150001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58q9AVqyut18o4ElSMZIvo_39.049653_-95.682270@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043591,
-    "wof:geomhash":"c633e857c50e889aff8c40b8e45942b8",
+    "wof:geomhash":"ae018bc304fe9a05ecabd19ef3a1ca95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840597349,
-    "wof:lastmodified":1466521814,
+    "wof:lastmodified":1510698741,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",

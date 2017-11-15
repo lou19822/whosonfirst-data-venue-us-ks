@@ -2,14 +2,20 @@
   "id": 840761245,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 E Trail St Dodge City KS 67801",
+    "addr:housenumber":"600",
+    "addr:postcode":"67801",
+    "addr:street":"E Trail St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.010949,37.75065,-100.010949,37.75065",
     "geom:latitude":37.75065,
     "geom:longitude":-100.010949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 E Trail St",
     "sg:city":"Dodge City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082141,
         85688555
     ],
+    "wof:brand_id":1125156475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PJ0WhU0ni4zGvemeYDEzv_37.750650_-100.010949@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047374,
-    "wof:geomhash":"b0e32128626069714b93eee2461c31c6",
+    "wof:geomhash":"a81d394e21462cbc3e0c3dc4a8870659",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840761245,
-    "wof:lastmodified":1466525362,
+    "wof:lastmodified":1510696791,
     "wof:name":"Safety-Kleen Corp",
     "wof:parent_id":85849601,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840933419,
   "type": "Feature",
   "properties": {
+    "addr:full":"5920 E Central Ave Wichita KS 67208",
+    "addr:housenumber":"5920",
+    "addr:postcode":"67208",
+    "addr:street":"E Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.265059,37.693906,-97.265059,37.693906",
     "geom:latitude":37.693906,
     "geom:longitude":-97.265059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5920 E Central Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125150609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aX2Kip4aiXq6Hxax3Ua0b_37.693906_-97.265059@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051315,
-    "wof:geomhash":"7b9a83f333a4ce1353f40aca37ce8ff7",
+    "wof:geomhash":"385069cdd3e275c206cd6f17a7ca7b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840933419,
-    "wof:lastmodified":1466529167,
+    "wof:lastmodified":1510697773,
     "wof:name":"Premier Mortgage Funding",
     "wof:parent_id":85872831,
     "wof:placetype":"venue",

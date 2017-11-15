@@ -2,14 +2,20 @@
   "id": 856698313,
   "type": "Feature",
   "properties": {
+    "addr:full":"2077 Bayard Ave Kansas City KS 66105",
+    "addr:housenumber":"2077",
+    "addr:postcode":"66105",
+    "addr:street":"Bayard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.649366,39.09137,-94.649366,39.09137",
     "geom:latitude":39.09137,
     "geom:longitude":-94.649366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2077 Bayard Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[],
@@ -31,13 +37,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125153139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ou4yjVJ5rHWCnE8uzdVLe_39.091370_-94.649366@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052026,
-    "wof:geomhash":"c38027335d006830aa2b84fe96cafeee",
+    "wof:geomhash":"fb1ee0af598ed669de0e07ead47fd03c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856698313,
-    "wof:lastmodified":1466519658,
+    "wof:lastmodified":1510698883,
     "wof:name":"BOC Gases",
     "wof:parent_id":85878487,
     "wof:placetype":"venue",

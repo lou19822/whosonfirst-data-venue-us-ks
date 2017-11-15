@@ -2,14 +2,20 @@
   "id": 856708723,
   "type": "Feature",
   "properties": {
+    "addr:full":"8007 E Kellogg Dr Wichita KS 67207",
+    "addr:housenumber":"8007",
+    "addr:postcode":"67207",
+    "addr:street":"E Kellogg Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.243832,37.679171,-97.243832,37.679171",
     "geom:latitude":37.679171,
     "geom:longitude":-97.243832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8007 E Kellogg Dr",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125155309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_739uzYTPJn1kiqhaBqIC3c_37.679171_-97.243832@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052242,
-    "wof:geomhash":"6fe649840826954d23de962cdf4bc58b",
+    "wof:geomhash":"1a40468a07b04ff17e0ae23bf6899f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":856708723,
-    "wof:lastmodified":1466520084,
+    "wof:lastmodified":1510699919,
     "wof:name":"Souper Salad",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",

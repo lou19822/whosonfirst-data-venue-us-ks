@@ -2,14 +2,20 @@
   "id": 169617623,
   "type": "Feature",
   "properties": {
+    "addr:full":"15165 W 119th St Olathe KS 66062",
+    "addr:housenumber":"15165",
+    "addr:postcode":"66062",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.758895,38.912702,-94.758895,38.912702",
     "geom:latitude":38.912702,
     "geom:longitude":-94.758895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15165 W 119th St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082673,
         85828983
     ],
+    "wof:brand_id":1125159515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NrNQRNLUrlufpYtnCLcEi_38.912702_-94.758895@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"8728eb29f3f95c0b0c949c782d57d8f8",
+    "wof:geomhash":"ecb9041d66dcf2157eee5b57c031f809",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169617623,
-    "wof:lastmodified":1466519871,
+    "wof:lastmodified":1510698877,
     "wof:name":"Computers Plus",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

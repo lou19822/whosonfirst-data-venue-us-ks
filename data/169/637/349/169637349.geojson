@@ -2,9 +2,14 @@
   "id": 169637349,
   "type": "Feature",
   "properties": {
+    "addr:full":"10312 Mohawk Rd Shawnee Mission KS 66206",
+    "addr:housenumber":"10312",
+    "addr:postcode":"66206",
+    "addr:street":"Mohawk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.626219,38.940435,-94.626219,38.940435",
     "geom:latitude":38.940435,
     "geom:longitude":-94.626219,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"3792f897997d1932e36949227865a30d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":169637349,
-    "wof:lastmodified":1466520234,
+    "wof:lastmodified":1491901006,
     "wof:name":"Don A Rathbun",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

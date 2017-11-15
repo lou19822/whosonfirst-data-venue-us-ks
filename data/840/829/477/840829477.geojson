@@ -2,14 +2,20 @@
   "id": 840829477,
   "type": "Feature",
   "properties": {
+    "addr:full":"5742 Antioch Rd Shawnee Mission KS 66202",
+    "addr:housenumber":"5742",
+    "addr:postcode":"66202",
+    "addr:street":"Antioch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.686531,39.02302,-94.686531,39.02302",
     "geom:latitude":39.02302,
     "geom:longitude":-94.686531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5742 Antioch Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yCRGlap1TxAq42SwMF1OQ_39.023020_-94.686531@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048996,
-    "wof:geomhash":"c2b2d7e24be12a356e4f227644dd2a78",
+    "wof:geomhash":"017f8cc0241403b2ba6e285909f28cce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840829477,
-    "wof:lastmodified":1466526870,
+    "wof:lastmodified":1510699952,
     "wof:name":"Good Feet Store",
     "wof:parent_id":85879555,
     "wof:placetype":"venue",

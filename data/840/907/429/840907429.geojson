@@ -2,9 +2,14 @@
   "id": 840907429,
   "type": "Feature",
   "properties": {
+    "addr:full":"10700 W 87th St Overland Park KS 66214",
+    "addr:housenumber":"10700",
+    "addr:postcode":"66214",
+    "addr:street":"W 87Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.710719,38.971107,-94.710719,38.971107",
     "geom:latitude":38.971107,
     "geom:longitude":-94.710719,
@@ -34,7 +39,8 @@
         85633793,
         85945755,
         102082673,
-        85688555
+        85688555,
+        85879569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,22 @@
             "neighbourhood_id":85879599,
             "region_id":85688555,
             "venue_id":840907429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404502689,
+            "locality_id":85945755,
+            "neighbourhood_id":85879569,
+            "region_id":85688555,
+            "venue_id":840907429
         }
     ],
     "wof:id":840907429,
-    "wof:lastmodified":1466528536,
+    "wof:lastmodified":1491916267,
     "wof:name":"Lenexa Amoco",
-    "wof:parent_id":85879599,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],

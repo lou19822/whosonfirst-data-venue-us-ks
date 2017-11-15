@@ -2,14 +2,20 @@
   "id": 856704153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 E Kansas City Rd Olathe KS 66061",
+    "addr:housenumber":"1500",
+    "addr:postcode":"66061",
+    "addr:street":"E Kansas City Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.794552,38.894634,-94.794552,38.894634",
     "geom:latitude":38.894634,
     "geom:longitude":-94.794552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 E Kansas City Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51U06mdWTMIhvfs5Co4qZm_38.894634_-94.794552@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052154,
-    "wof:geomhash":"0ff6c2f0d1f6456e08fe23af4229a9fa",
+    "wof:geomhash":"856ae51f93e767abc9798e3f5d378ad1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856704153,
-    "wof:lastmodified":1466519821,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

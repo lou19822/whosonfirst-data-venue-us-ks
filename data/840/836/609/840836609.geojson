@@ -2,6 +2,10 @@
   "id": 840836609,
   "type": "Feature",
   "properties": {
+    "addr:full":"9876 Pflumm Rd Lenexa KS 66215",
+    "addr:housenumber":"9876",
+    "addr:postcode":"66215",
+    "addr:street":"Pflumm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840836609,
-    "wof:lastmodified":1466527033,
+    "wof:lastmodified":1472623604,
     "wof:name":"Biologix Research Co",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

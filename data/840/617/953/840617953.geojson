@@ -2,14 +2,20 @@
   "id": 840617953,
   "type": "Feature",
   "properties": {
+    "addr:full":"2707 N Broadway St Pittsburg KS 66762",
+    "addr:housenumber":"2707",
+    "addr:postcode":"66762",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.704996,37.434128,-94.704996,37.434128",
     "geom:latitude":37.434128,
     "geom:longitude":-94.704996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2707 N Broadway St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082657,
         85810831
     ],
+    "wof:brand_id":1125150319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0memnCpQW2Bz8KOufngGiy_37.434128_-94.704996@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044121,
-    "wof:geomhash":"a7181b84131003b2558da2fcf86fe8fb",
+    "wof:geomhash":"8168c63617d98c95e8e740f8ef7d3063",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840617953,
-    "wof:lastmodified":1466522424,
+    "wof:lastmodified":1510697395,
     "wof:name":"Color Tyme",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",

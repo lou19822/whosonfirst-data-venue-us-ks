@@ -2,14 +2,20 @@
   "id": 840793655,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 E Mary St Lansing KS 66043",
+    "addr:housenumber":"311",
+    "addr:postcode":"66043",
+    "addr:street":"E Mary St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.891015,39.245156,-94.891015,39.245156",
     "geom:latitude":39.245156,
     "geom:longitude":-94.891015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 E Mary St",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083429,
         85688555
     ],
+    "wof:brand_id":420575551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03PLS6jYyXgqckxmMhjhZv_39.245156_-94.891015@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048053,
-    "wof:geomhash":"9568c9cf3e37f162ec03e7ed2c9cff25",
+    "wof:geomhash":"1d254cf0b7f8e5ac09b6f75a5df90ef2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840793655,
-    "wof:lastmodified":1466526141,
+    "wof:lastmodified":1510602968,
     "wof:name":"Aerus Electrolux",
     "wof:parent_id":85844391,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840918265,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 American Ave Lansing KS 66043",
+    "addr:housenumber":"123",
+    "addr:postcode":"66043",
+    "addr:street":"American Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.896492,39.255378,-94.896492,39.255378",
     "geom:latitude":39.255378,
     "geom:longitude":-94.896492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 American Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083429,
         85688555
     ],
+    "wof:brand_id":1125153501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RnwEO11k2MqiMipUOHfFg_39.255378_-94.896492@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050958,
-    "wof:geomhash":"afdecfd8055d0146b2bdade1aee52ca4",
+    "wof:geomhash":"91f0ce52b4fe02a7b178ef0ce141c0ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840918265,
-    "wof:lastmodified":1466528657,
+    "wof:lastmodified":1510696031,
     "wof:name":"Aramark Uniform Svc",
     "wof:parent_id":85844391,
     "wof:placetype":"venue",

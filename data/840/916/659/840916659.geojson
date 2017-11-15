@@ -2,14 +2,20 @@
   "id": 840916659,
   "type": "Feature",
   "properties": {
+    "addr:full":"2636 N 83 St Kansas City KS 66109",
+    "addr:housenumber":"2636",
+    "addr:postcode":"66109",
+    "addr:street":"N 83 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.771095,39.136264,-94.771095,39.136264",
     "geom:latitude":39.136264,
     "geom:longitude":-94.771095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2636 N 83 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125156841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jcsltkAv8CZCJTMJRMZ3s_39.136264_-94.771095@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050928,
-    "wof:geomhash":"480ff8d69d2ff85892a42a1f4063d226",
+    "wof:geomhash":"d0ceb4d35d52f69cf861b7360ade07f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840916659,
-    "wof:lastmodified":1466528733,
+    "wof:lastmodified":1510696905,
     "wof:name":"Sisters Of Charity",
     "wof:parent_id":85878509,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840633103,
   "type": "Feature",
   "properties": {
+    "addr:full":"2559 S Sheridan St Wichita KS 67217",
+    "addr:housenumber":"2559",
+    "addr:postcode":"67217",
+    "addr:street":"S Sheridan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.379961,37.647904,-97.379961,37.647904",
     "geom:latitude":37.647904,
     "geom:longitude":-97.379961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2559 S Sheridan St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125151207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_387Y0609IweqLrZC03IZvF_37.647904_-97.379961@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044517,
-    "wof:geomhash":"349798e11c966c923a0dfe77d4cd4b1c",
+    "wof:geomhash":"079450639f2632d9f2b47a9e6f609d5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840633103,
-    "wof:lastmodified":1466522488,
+    "wof:lastmodified":1510613191,
     "wof:name":"ABC Supply Co",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

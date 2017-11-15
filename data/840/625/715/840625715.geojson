@@ -2,14 +2,20 @@
   "id": 840625715,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 S Laura St Wichita KS 67211",
+    "addr:housenumber":"230",
+    "addr:postcode":"67211",
+    "addr:street":"S Laura St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.323614,37.683138,-97.323614,37.683138",
     "geom:latitude":37.683138,
     "geom:longitude":-97.323614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"230 S Laura St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125150909,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38j4pLDqmFGYPcJYOZv3XL_37.683138_-97.323614@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044314,
-    "wof:geomhash":"c83150100c95b8b05e32c13ad3c02a7f",
+    "wof:geomhash":"4e9442ed7334ddc88ea492d3af6c001f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840625715,
-    "wof:lastmodified":1466522489,
+    "wof:lastmodified":1510696734,
     "wof:name":"AIG Sunamerica",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

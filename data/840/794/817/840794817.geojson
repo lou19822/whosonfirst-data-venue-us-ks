@@ -2,14 +2,20 @@
   "id": 840794817,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 SE 45th St Topeka KS 66609",
+    "addr:housenumber":"601",
+    "addr:postcode":"66609",
+    "addr:street":"Se 45Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.683896,38.986032,-95.683896,38.986032",
     "geom:latitude":38.986032,
     "geom:longitude":-95.683896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 SE 45th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f3FWSTMG3kw7kwmm5E2YP_38.986032_-95.683896@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048075,
-    "wof:geomhash":"ead18eda99c35a16663827edd2195a75",
+    "wof:geomhash":"777ec1a5e860f6e581cd958e40ca884b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840794817,
-    "wof:lastmodified":1466526210,
+    "wof:lastmodified":1510699751,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85881565,
     "wof:placetype":"venue",

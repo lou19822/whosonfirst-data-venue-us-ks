@@ -2,6 +2,10 @@
   "id": 840822853,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 N Sycamore St Wichita KS 67203",
+    "addr:housenumber":"123",
+    "addr:postcode":"67203",
+    "addr:street":"N Sycamore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840822853,
-    "wof:lastmodified":1466526791,
+    "wof:lastmodified":1472623595,
     "wof:name":"Alcoholics Anonymous",
     "wof:parent_id":85872809,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840842903,
   "type": "Feature",
   "properties": {
+    "addr:full":"12413 W 82nd Pl Lenexa KS 66215",
+    "addr:housenumber":"12413",
+    "addr:postcode":"66215",
+    "addr:street":"W 82Nd Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":840842903,
-    "wof:lastmodified":1466527233,
+    "wof:lastmodified":1472623613,
     "wof:name":"Service Electric",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

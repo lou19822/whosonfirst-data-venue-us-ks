@@ -2,9 +2,14 @@
   "id": 337285177,
   "type": "Feature",
   "properties": {
+    "addr:full":"11620 Ash St Leawood KS 66211",
+    "addr:housenumber":"11620",
+    "addr:postcode":"66211",
+    "addr:street":"Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.647772,38.920509,-94.647772,38.920509",
     "geom:latitude":38.920509,
     "geom:longitude":-94.647772,
@@ -40,11 +45,13 @@
     "sg:website":"http://clk.atdmt.com/NYC/go/156827351/direct/01/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +61,10 @@
     "wof:geomhash":"328fa7d1fa605a009a9f638db1135fee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":337285177,
-    "wof:lastmodified":1466519415,
+    "wof:lastmodified":1491901012,
     "wof:name":"aloft Leawood",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

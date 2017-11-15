@@ -2,14 +2,20 @@
   "id": 840719699,
   "type": "Feature",
   "properties": {
+    "addr:full":"16695 W 151st St Olathe KS 66062",
+    "addr:housenumber":"16695",
+    "addr:postcode":"66062",
+    "addr:street":"W 151St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.778034,38.854733,-94.778034,38.854733",
     "geom:latitude":38.854733,
     "geom:longitude":-94.778034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16695 W 151st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082673,
         85835339
     ],
+    "wof:brand_id":1125158383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fvVQDU4qLXHHutwUyAOrI_38.854733_-94.778034@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046503,
-    "wof:geomhash":"7d17391a5f7d1c41375a980f895d54be",
+    "wof:geomhash":"5b341d5d73c2586f729cf0711ab755d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840719699,
-    "wof:lastmodified":1466524483,
+    "wof:lastmodified":1510699779,
     "wof:name":"Pride Stanley & Executive",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",

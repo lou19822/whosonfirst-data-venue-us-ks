@@ -2,9 +2,14 @@
   "id": 169597533,
   "type": "Feature",
   "properties": {
+    "addr:full":"5211 W 103rd St Shawnee Mission KS 66207",
+    "addr:housenumber":"5211",
+    "addr:postcode":"66207",
+    "addr:street":"W 103Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.643161,38.942054,-94.643161,38.942054",
     "geom:latitude":38.942054,
     "geom:longitude":-94.643161,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"9dc2ed8cced4ccba016f06da904e3280",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":169597533,
-    "wof:lastmodified":1466529873,
+    "wof:lastmodified":1491901013,
     "wof:name":"Manor Care Health Svc",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

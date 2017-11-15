@@ -2,14 +2,20 @@
   "id": 840855143,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Commercial St Emporia KS 66801",
+    "addr:housenumber":"601",
+    "addr:postcode":"66801",
+    "addr:street":"Commercial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.180144,38.406195,-96.180144,38.406195",
     "geom:latitude":38.406195,
     "geom:longitude":-96.180144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 Commercial St",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082661,
         85818077
     ],
+    "wof:brand_id":420575441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mxqXIvhjmYOuPUmAeQqxT_38.406195_-96.180144@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049548,
-    "wof:geomhash":"d448b7857f115c6e5c853613cabc720f",
+    "wof:geomhash":"db0191eccc3eb7b0d08d0ae6b5149649",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840855143,
-    "wof:lastmodified":1466527292,
+    "wof:lastmodified":1510603011,
     "wof:name":"First Impressions",
     "wof:parent_id":85818077,
     "wof:placetype":"venue",

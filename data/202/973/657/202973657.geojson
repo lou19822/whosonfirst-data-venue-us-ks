@@ -2,6 +2,10 @@
   "id": 202973657,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 S Springdale St Apt 104 Pittsburg KS 66762",
+    "addr:housenumber":"2601;104",
+    "addr:postcode":"66762",
+    "addr:street":"S Springdale St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":202973657,
-    "wof:lastmodified":1466520331,
+    "wof:lastmodified":1472623294,
     "wof:name":"Summerfield Apartments",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",

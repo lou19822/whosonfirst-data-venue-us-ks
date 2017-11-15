@@ -2,14 +2,20 @@
   "id": 840629347,
   "type": "Feature",
   "properties": {
+    "addr:full":"9206 Farley St Shawnee Mission KS 66212",
+    "addr:housenumber":"9206",
+    "addr:postcode":"66212",
+    "addr:street":"Farley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.699831,38.960866,-94.699831,38.960866",
     "geom:latitude":38.960866,
     "geom:longitude":-94.699831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9206 Farley St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155723,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kwMS6oBuves9NsD5Kesqd_38.960866_-94.699831@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044421,
-    "wof:geomhash":"874444743d9220e348548db2e21dea5a",
+    "wof:geomhash":"3853593288220c6c161e2ee5083ad743",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840629347,
-    "wof:lastmodified":1466522518,
+    "wof:lastmodified":1510697284,
     "wof:name":"Appliance Doctor",
     "wof:parent_id":85879565,
     "wof:placetype":"venue",

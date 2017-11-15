@@ -2,14 +2,20 @@
   "id": 169650159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1118 N Taylor Ave Garden City KS 67846",
+    "addr:housenumber":"1118",
+    "addr:postcode":"67846",
+    "addr:street":"N Taylor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.883302,37.976266,-100.883302,37.976266",
     "geom:latitude":37.976266,
     "geom:longitude":-100.883302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1118 N Taylor Ave",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85946119,
         102082153
     ],
+    "wof:brand_id":1125150319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Yxpz3LFiLtdzfm8vfyvcZ_37.976266_-100.883302@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef520ef50e40438ce627dd0093d619ef",
+    "wof:geomhash":"d4383be55f62fb2d956a0a15c0198f91",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169650159,
-    "wof:lastmodified":1466520364,
+    "wof:lastmodified":1510697394,
     "wof:name":"Color Tyme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

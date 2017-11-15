@@ -2,14 +2,20 @@
   "id": 840607235,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 SW Wanamaker Rd Topeka KS 66604",
+    "addr:housenumber":"1725",
+    "addr:postcode":"66604",
+    "addr:street":"Sw Wanamaker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.762187,39.032282,-95.762187,39.032282",
     "geom:latitude":39.032282,
     "geom:longitude":-95.762187,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1725 SW Wanamaker Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":420575255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uhgl95uP70B1Q6qy0XHuL_39.032282_-95.762187@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043836,
-    "wof:geomhash":"2229415661186491ed53228e849d06ac",
+    "wof:geomhash":"2036d83097e727c9f7e46d64af5d7c55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840607235,
-    "wof:lastmodified":1466522012,
+    "wof:lastmodified":1510603010,
     "wof:name":"Game Stop Corp",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

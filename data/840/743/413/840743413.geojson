@@ -2,14 +2,20 @@
   "id": 840743413,
   "type": "Feature",
   "properties": {
+    "addr:full":"12221 Blue Valley Pkwy Shawnee Mission KS 66213",
+    "addr:housenumber":"12221",
+    "addr:postcode":"66213",
+    "addr:street":"Blue Valley Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.67286,38.907781,-94.67286,38.907781",
     "geom:latitude":38.907781,
     "geom:longitude":-94.67286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12221 Blue Valley Pkwy",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125153443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29v8u1BvGByBGcDy9B0zdI_38.907781_-94.672860@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046958,
-    "wof:geomhash":"b93d90ea32765659053d591cf6f192e7",
+    "wof:geomhash":"8576478ce0fc1dafeaba2525fe0f1508",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840743413,
-    "wof:lastmodified":1466524970,
+    "wof:lastmodified":1510699406,
     "wof:name":"Costco Warehouse",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",

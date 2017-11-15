@@ -2,6 +2,10 @@
   "id": 840820677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1333 S 27 St Kansas City KS 66106",
+    "addr:housenumber":"1333;27",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840820677,
-    "wof:lastmodified":1466526718,
+    "wof:lastmodified":1472623591,
     "wof:name":"El Centro Inc",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

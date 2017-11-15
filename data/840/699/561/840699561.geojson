@@ -2,14 +2,20 @@
   "id": 840699561,
   "type": "Feature",
   "properties": {
+    "addr:full":"8100 W 115th St Shawnee Mission KS 66210",
+    "addr:housenumber":"8100",
+    "addr:postcode":"66210",
+    "addr:street":"W 115Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.681844,38.921763,-94.681844,38.921763",
     "geom:latitude":38.921763,
     "geom:longitude":-94.681844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8100 W 115th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2m1o8YEmOUq6HHewXCeX5k_38.921763_-94.681844@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046076,
-    "wof:geomhash":"85eb5a47d3f36dc586db33c958afb916",
+    "wof:geomhash":"05e1be3bc217f6efd8239ff010ea1728",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840699561,
-    "wof:lastmodified":1466524028,
+    "wof:lastmodified":1510697365,
     "wof:name":"Sandler Sales Institute",
     "wof:parent_id":85879547,
     "wof:placetype":"venue",

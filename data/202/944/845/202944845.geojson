@@ -2,14 +2,20 @@
   "id": 202944845,
   "type": "Feature",
   "properties": {
+    "addr:full":"7400 Frontage Rd Shawnee KS 66203",
+    "addr:housenumber":"7400",
+    "addr:postcode":"66203",
+    "addr:street":"Frontage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.69892,38.993592,-94.69892,38.993592",
     "geom:latitude":38.993592,
     "geom:longitude":-94.69892,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7400 Frontage Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082673,
         85879543
     ],
+    "wof:brand_id":1125151431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wN3z3vXae8xP3ADreerkT_38.993592_-94.698920@1303262939"
     },
     "wof:country":"US",
-    "wof:geomhash":"a356072e3c6731f3015d593796e11d75",
+    "wof:geomhash":"85a6a6c88705881a311672115cdb10a7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":202944845,
-    "wof:lastmodified":1466520109,
+    "wof:lastmodified":1510697097,
     "wof:name":"Hampton Inn and Suites",
     "wof:parent_id":85879543,
     "wof:placetype":"venue",

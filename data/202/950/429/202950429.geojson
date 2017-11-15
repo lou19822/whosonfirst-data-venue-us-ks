@@ -2,9 +2,14 @@
   "id": 202950429,
   "type": "Feature",
   "properties": {
+    "addr:full":"11843 Roe Ave Leawood KS 66211",
+    "addr:housenumber":"11843",
+    "addr:postcode":"66211",
+    "addr:street":"Roe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.639746,38.913338,-94.639746,38.913338",
     "geom:latitude":38.913338,
     "geom:longitude":-94.639746,
@@ -37,11 +42,13 @@
     "sg:website":"http://www.leawoodfineart.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +58,10 @@
     "wof:geomhash":"b0f333ab2cf4fb4633ee1e6faed85713",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -61,7 +69,7 @@
         }
     ],
     "wof:id":202950429,
-    "wof:lastmodified":1466520150,
+    "wof:lastmodified":1491901018,
     "wof:name":"Leawood Fine Art",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

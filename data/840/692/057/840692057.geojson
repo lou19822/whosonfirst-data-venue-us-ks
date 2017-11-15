@@ -2,14 +2,20 @@
   "id": 840692057,
   "type": "Feature",
   "properties": {
+    "addr:full":"1804 E Santa Fe St Olathe KS 66062",
+    "addr:housenumber":"1804",
+    "addr:postcode":"66062",
+    "addr:street":"E Santa Fe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.788269,38.883772,-94.788269,38.883772",
     "geom:latitude":38.883772,
     "geom:longitude":-94.788269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1804 E Santa Fe St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WRINevrtKXM78U948QZSu_38.883772_-94.788269@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045864,
-    "wof:geomhash":"b496f720ab47798fddf343a2d7be8579",
+    "wof:geomhash":"9c5299dbe61257fb5da724ef3535aa6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":840692057,
-    "wof:lastmodified":1466523818,
+    "wof:lastmodified":1510695266,
     "wof:name":"Cingular Wireless LLC",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

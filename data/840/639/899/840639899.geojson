@@ -2,14 +2,20 @@
   "id": 840639899,
   "type": "Feature",
   "properties": {
+    "addr:full":"11251 W 95th St Overland Park KS 66214",
+    "addr:housenumber":"11251",
+    "addr:postcode":"66214",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.72232,38.956462,-94.72232,38.956462",
     "geom:latitude":38.956462,
     "geom:longitude":-94.72232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11251 W 95th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125159907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UdJ2sVFH9NihbTfTwZoAA_38.956462_-94.722320@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044674,
-    "wof:geomhash":"9251a55eeeb7157e9c4613e22b895318",
+    "wof:geomhash":"f4e0298564ab51ef130ec8852623fbd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840639899,
-    "wof:lastmodified":1466522901,
+    "wof:lastmodified":1510613335,
     "wof:name":"Johnston & Murphy",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169591917,
   "type": "Feature",
   "properties": {
+    "addr:full":"8500 Antioch Rd Shawnee Mission KS 66212",
+    "addr:housenumber":"8500",
+    "addr:postcode":"66212",
+    "addr:street":"Antioch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.686317,38.974126,-94.686317,38.974126",
     "geom:latitude":38.974126,
     "geom:longitude":-94.686317,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879585,
+        102191575,
+        404502689,
         85633793,
         85945755,
         102082673,
-        85879585
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"583878b1961e3b944c8fdd44e229cf3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404502689,
             "locality_id":85945755,
             "neighbourhood_id":85879585,
             "region_id":85688555,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":169591917,
-    "wof:lastmodified":1466519421,
+    "wof:lastmodified":1491901397,
     "wof:name":"Overland Park Police Dept",
     "wof:parent_id":85879585,
     "wof:placetype":"venue",

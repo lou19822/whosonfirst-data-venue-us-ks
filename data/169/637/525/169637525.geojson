@@ -2,14 +2,20 @@
   "id": 169637525,
   "type": "Feature",
   "properties": {
+    "addr:full":"15139 W 119th St Olathe KS 66062",
+    "addr:housenumber":"15139",
+    "addr:postcode":"66062",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.759122,38.912699,-94.759122,38.912699",
     "geom:latitude":38.912699,
     "geom:longitude":-94.759122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15139 W 119th St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082673,
         85828983
     ],
+    "wof:brand_id":1125155703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28C7Gl6gCiTAsjzH8nkoGh_38.912699_-94.759122@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"b459d2fcb1ce99a81c308e19b2812f05",
+    "wof:geomhash":"6bcf9699d031c5db6c6f23d0ee89ff02",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169637525,
-    "wof:lastmodified":1466520242,
+    "wof:lastmodified":1510694621,
     "wof:name":"3 Day Blinds",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

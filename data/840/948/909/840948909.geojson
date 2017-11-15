@@ -2,6 +2,10 @@
   "id": 840948909,
   "type": "Feature",
   "properties": {
+    "addr:full":"1642 S 45 St Kansas City KS 66106",
+    "addr:housenumber":"1642;45",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":840948909,
-    "wof:lastmodified":1466529798,
+    "wof:lastmodified":1472623713,
     "wof:name":"Trieb Sheet Metal Co",
     "wof:parent_id":85852833,
     "wof:placetype":"venue",

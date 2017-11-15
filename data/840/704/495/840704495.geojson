@@ -2,14 +2,20 @@
   "id": 840704495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1644 S Rock Rd Wichita KS 67207",
+    "addr:housenumber":"1644",
+    "addr:postcode":"67207",
+    "addr:street":"S Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.244367,37.663442,-97.244367,37.663442",
     "geom:latitude":37.663442,
     "geom:longitude":-97.244367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1644 S Rock Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FrQqwRrCzc78E1HCZFiUM_37.663442_-97.244367@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046192,
-    "wof:geomhash":"244678555692693e61ac5ce97f9e1f3b",
+    "wof:geomhash":"1b597004812e50dbf51fbfaed95252fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840704495,
-    "wof:lastmodified":1466524188,
+    "wof:lastmodified":1510698935,
     "wof:name":"Nail Tech",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",

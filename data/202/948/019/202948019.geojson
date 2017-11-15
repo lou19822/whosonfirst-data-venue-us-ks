@@ -2,9 +2,14 @@
   "id": 202948019,
   "type": "Feature",
   "properties": {
+    "addr:full":"5036 W 119th St Leawood KS 66209",
+    "addr:housenumber":"5036",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.643875,38.913043,-94.643875,38.913043",
     "geom:latitude":38.913043,
     "geom:longitude":-94.643875,
@@ -44,11 +49,13 @@
     "sg:website":"http://www.soma.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +65,10 @@
     "wof:geomhash":"9a4a0314ce0472f67e765203b5fb198b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":202948019,
-    "wof:lastmodified":1466529890,
+    "wof:lastmodified":1491901018,
     "wof:name":"Soma Intimates",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

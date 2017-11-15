@@ -2,6 +2,10 @@
   "id": 169612777,
   "type": "Feature",
   "properties": {
+    "addr:full":"2222 E US Hwy 50 Garden City KS 67846",
+    "addr:housenumber":"2222",
+    "addr:postcode":"67846",
+    "addr:street":"E Us Hwy 50",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169612777,
-    "wof:lastmodified":1466519787,
+    "wof:lastmodified":1472623265,
     "wof:name":"Highway Patrol Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

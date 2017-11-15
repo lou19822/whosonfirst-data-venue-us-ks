@@ -2,6 +2,10 @@
   "id": 856697327,
   "type": "Feature",
   "properties": {
+    "addr:full":"4343 S West St Wichita KS 67217",
+    "addr:housenumber":"4343",
+    "addr:postcode":"67217",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":856697327,
-    "wof:lastmodified":1466519649,
+    "wof:lastmodified":1472623278,
     "wof:name":"Parker Oil Co",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

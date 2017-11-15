@@ -2,6 +2,10 @@
   "id": 840689705,
   "type": "Feature",
   "properties": {
+    "addr:full":"3002 S 44 St Kansas City KS 66106",
+    "addr:housenumber":"3002;44",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840689705,
-    "wof:lastmodified":1466523931,
+    "wof:lastmodified":1472623467,
     "wof:name":"Advanced Fitness Tech",
     "wof:parent_id":85879579,
     "wof:placetype":"venue",

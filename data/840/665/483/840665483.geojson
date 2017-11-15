@@ -2,9 +2,14 @@
   "id": 840665483,
   "type": "Feature",
   "properties": {
+    "addr:full":"4462 State Line Rd Kansas City KS 66103",
+    "addr:housenumber":"4462",
+    "addr:postcode":"66103",
+    "addr:street":"State Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.607422,39.047526,-94.607422,39.047526",
     "geom:latitude":39.047526,
     "geom:longitude":-94.607422,
@@ -30,11 +35,11 @@
     "wof:belongsto":[
         85871977,
         102191575,
-        404504875,
+        404518075,
         85633793,
-        85945801,
-        102082163,
-        85688555
+        85970739,
+        102081227,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +52,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082163,
-            "localadmin_id":404504875,
-            "locality_id":85945801,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
             "neighbourhood_id":85871977,
-            "region_id":85688555,
+            "region_id":85688661,
             "venue_id":840665483
         }
     ],
     "wof:id":840665483,
-    "wof:lastmodified":1466523316,
+    "wof:lastmodified":1491908963,
     "wof:name":"Andrews & Abbey-Riley Inc",
     "wof:parent_id":85871977,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840699227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1652 S West St Wichita KS 67213",
+    "addr:housenumber":"1652",
+    "addr:postcode":"67213",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.389161,37.664996,-97.389161,37.664996",
     "geom:latitude":37.664996,
     "geom:longitude":-97.389161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1652 S West St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L5OhkukNECQQLF06LSIJM_37.664996_-97.389161@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046070,
-    "wof:geomhash":"c908621236d2c15aa7973f22b59f141f",
+    "wof:geomhash":"cd46561e73b9f142b98bb53e28f38efc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840699227,
-    "wof:lastmodified":1466523939,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

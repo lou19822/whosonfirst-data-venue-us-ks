@@ -2,14 +2,20 @@
   "id": 840703511,
   "type": "Feature",
   "properties": {
+    "addr:full":"14950 W 87th Street Pkwy Lenexa KS 66215",
+    "addr:housenumber":"14950",
+    "addr:postcode":"66215",
+    "addr:street":"W 87Th Street Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.758699,38.971126,-94.758699,38.971126",
     "geom:latitude":38.971126,
     "geom:longitude":-94.758699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14950 W 87th Street Pkwy",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sRaQOeiobWC54gHc0HfhP_38.971126_-94.758699@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046173,
-    "wof:geomhash":"fe21619eb82a53b65e52ff7e8259c06a",
+    "wof:geomhash":"fab7364836f2f2f61f79fcd333b3b295",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840703511,
-    "wof:lastmodified":1466524158,
+    "wof:lastmodified":1510622704,
     "wof:name":"Osco Drug",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

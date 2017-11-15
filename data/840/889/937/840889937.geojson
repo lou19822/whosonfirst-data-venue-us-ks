@@ -2,14 +2,20 @@
   "id": 840889937,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 W 4th St Tonganoxie KS 66086",
+    "addr:housenumber":"103",
+    "addr:postcode":"66086",
+    "addr:street":"W 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.09438,39.109341,-95.09438,39.109341",
     "geom:latitude":39.109341,
     "geom:longitude":-95.09438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 W 4th St",
     "sg:city":"Tonganoxie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083429,
         85849437
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XxUjRj5BuPWgHPUZ21VWS_39.109341_-95.094380@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050283,
-    "wof:geomhash":"9f8e7b91b3e43df1dddcec54b40d70b9",
+    "wof:geomhash":"1714fa6c349bf255983dd8f17d9aaad6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840889937,
-    "wof:lastmodified":1466528275,
+    "wof:lastmodified":1510693956,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":85849437,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840952767,
   "type": "Feature",
   "properties": {
+    "addr:full":"3324 N Jabara Rd Wichita KS 67226",
+    "addr:housenumber":"3324",
+    "addr:postcode":"67226",
+    "addr:street":"N Jabara Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840952767,
-    "wof:lastmodified":1466529811,
+    "wof:lastmodified":1472623716,
     "wof:name":"Wichita Air Svc",
     "wof:parent_id":102526417,
     "wof:placetype":"venue",

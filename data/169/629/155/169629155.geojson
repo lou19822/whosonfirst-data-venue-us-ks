@@ -2,14 +2,20 @@
   "id": 169629155,
   "type": "Feature",
   "properties": {
+    "addr:full":"2760 S 9th St Salina KS 67401",
+    "addr:housenumber":"2760",
+    "addr:postcode":"67401",
+    "addr:street":"S 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.612903,38.789366,-97.612903,38.789366",
     "geom:latitude":38.789366,
     "geom:longitude":-97.612903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2760 S 9th St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85946183,
         102083453
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qipRKKTKquyHJRXQEfRt7_38.789366_-97.612903@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"5060ea9fc66b572a0b5ca0392bd1eebd",
+    "wof:geomhash":"714c1fcb34acadff8e515df940c28fe3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":169629155,
-    "wof:lastmodified":1466520119,
+    "wof:lastmodified":1510695715,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

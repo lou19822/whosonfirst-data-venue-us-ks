@@ -2,6 +2,10 @@
   "id": 840756355,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 S 10 St Kansas City KS 66105",
+    "addr:housenumber":"565;10",
+    "addr:postcode":"66105",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840756355,
-    "wof:lastmodified":1466525236,
+    "wof:lastmodified":1472623529,
     "wof:name":"Wenzel Machinery Co",
     "wof:parent_id":85878487,
     "wof:placetype":"venue",

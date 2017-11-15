@@ -2,6 +2,10 @@
   "id": 840550197,
   "type": "Feature",
   "properties": {
+    "addr:full":"1414 E 19 St Kansas City KS 64108",
+    "addr:housenumber":"1414;19",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840550197,
-    "wof:lastmodified":1466520728,
+    "wof:lastmodified":1472623286,
     "wof:name":"Cindy Carolyn",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

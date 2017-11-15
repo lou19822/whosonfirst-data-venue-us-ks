@@ -2,14 +2,20 @@
   "id": 840857849,
   "type": "Feature",
   "properties": {
+    "addr:full":"7347 Quivira Rd Shawnee Mission KS 66216",
+    "addr:housenumber":"7347",
+    "addr:postcode":"66216",
+    "addr:street":"Quivira Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.723667,38.997502,-94.723667,38.997502",
     "geom:latitude":38.997502,
     "geom:longitude":-94.723667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7347 Quivira Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mHHTHhzh0QRRbTYvO32f1_38.997502_-94.723667@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049605,
-    "wof:geomhash":"435c6aa79e9c17fe5bcab88a2956c64d",
+    "wof:geomhash":"53f8a46a21a7d12e8f1084a56fa8a5ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840857849,
-    "wof:lastmodified":1466527477,
+    "wof:lastmodified":1510602705,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840622071,
   "type": "Feature",
   "properties": {
+    "addr:full":"583 S West St Wichita KS 67213",
+    "addr:housenumber":"583",
+    "addr:postcode":"west;67213",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840622071,
-    "wof:lastmodified":1466522263,
+    "wof:lastmodified":1472623388,
     "wof:name":"Check 'n Go",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",

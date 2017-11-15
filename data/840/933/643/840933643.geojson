@@ -2,6 +2,10 @@
   "id": 840933643,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Main St El Dorado KS 67042",
+    "addr:housenumber":"123",
+    "addr:postcode":"67042",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":840933643,
-    "wof:lastmodified":1466529230,
+    "wof:lastmodified":1472623693,
     "wof:name":"Seven K Co",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",

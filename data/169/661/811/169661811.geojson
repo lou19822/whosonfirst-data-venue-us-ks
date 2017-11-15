@@ -2,14 +2,20 @@
   "id": 169661811,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 Millington St Winfield KS 67156",
+    "addr:housenumber":"715",
+    "addr:postcode":"67156",
+    "addr:street":"Millington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.995999,37.242262,-96.995999,37.242262",
     "geom:latitude":37.242262,
     "geom:longitude":-96.995999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"715 Millington St",
     "sg:city":"Winfield",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85946351,
         102082165
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38ZImKzCGvp5QkRVqJQiOe_37.242262_-96.995999@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ac7fa6f7760d245f230f5a1bdccc6d1",
+    "wof:geomhash":"f45c72aecb146aeefa9b598ec9572eab",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169661811,
-    "wof:lastmodified":1466520452,
+    "wof:lastmodified":1510613226,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

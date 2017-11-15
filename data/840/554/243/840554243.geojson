@@ -2,14 +2,20 @@
   "id": 840554243,
   "type": "Feature",
   "properties": {
+    "addr:full":"6700 Topeka Blvd Topeka KS 66619",
+    "addr:housenumber":"6700",
+    "addr:postcode":"66619",
+    "addr:street":"Topeka Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.68703,38.93645,-95.68703,38.93645",
     "geom:latitude":38.93645,
     "geom:longitude":-95.68703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6700 Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084175,
         85851947
     ],
+    "wof:brand_id":1125156721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_555DZuWpG8TYfTT9IuNVrn_38.936450_-95.687030@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464042610,
-    "wof:geomhash":"2029dd0e6394c39b0aa48e1df099e984",
+    "wof:geomhash":"da05ffd4649045c2430affb4a5e45990",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840554243,
-    "wof:lastmodified":1466520850,
+    "wof:lastmodified":1510699520,
     "wof:name":"Computer Sciences Corp",
     "wof:parent_id":85851947,
     "wof:placetype":"venue",

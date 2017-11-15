@@ -2,6 +2,10 @@
   "id": 840756607,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 Rainbow Blvd Kansas City KS 66103",
+    "addr:housenumber":"3901",
+    "addr:postcode":"66103",
+    "addr:street":"Rainbow Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840756607,
-    "wof:lastmodified":1466525312,
+    "wof:lastmodified":1472623534,
     "wof:name":"Ob/Gyn Medical Svc-KUPI",
     "wof:parent_id":85871981,
     "wof:placetype":"venue",

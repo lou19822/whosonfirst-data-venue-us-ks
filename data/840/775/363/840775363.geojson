@@ -2,14 +2,20 @@
   "id": 840775363,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 S Tyler Rd Wichita KS 67209",
+    "addr:housenumber":"1212",
+    "addr:postcode":"67209",
+    "addr:street":"S Tyler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.443984,37.671254,-97.443984,37.671254",
     "geom:latitude":37.671254,
     "geom:longitude":-97.443984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1212 S Tyler Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":420574881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uOc1e4BUZUzFLL8o5Lp9g_37.671254_-97.443984@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047674,
-    "wof:geomhash":"2b067852c0e974db6f366b0a194480d2",
+    "wof:geomhash":"2994c843854bc9fc723926edd2a67769",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840775363,
-    "wof:lastmodified":1466525675,
+    "wof:lastmodified":1510604423,
     "wof:name":"Cost Cutters Family Hair Care",
     "wof:parent_id":85852945,
     "wof:placetype":"venue",

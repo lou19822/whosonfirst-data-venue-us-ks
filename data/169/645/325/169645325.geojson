@@ -2,14 +2,20 @@
   "id": 169645325,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 E Euclid St Mc Pherson KS 67460",
+    "addr:housenumber":"1600",
+    "addr:postcode":"67460",
+    "addr:street":"E Euclid St Mc Pherson",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.64453,38.3715,-97.64453,38.3715",
     "geom:latitude":38.3715,
     "geom:longitude":-97.64453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 E Euclid St",
     "sg:city":"Mc Pherson",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85945521,
         102083415
     ],
+    "wof:brand_id":1125154109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jqd8uOstCu1p3IF2wmhwz_38.371500_-97.644530@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7f000e23f77b5dcb6094f60d43def12",
+    "wof:geomhash":"bd51724a7157ceb7d4a944446b45a29e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169645325,
-    "wof:lastmodified":1466520313,
+    "wof:lastmodified":1510694939,
     "wof:name":"Church Of The Brethren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

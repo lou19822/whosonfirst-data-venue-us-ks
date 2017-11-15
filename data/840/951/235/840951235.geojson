@@ -2,14 +2,20 @@
   "id": 840951235,
   "type": "Feature",
   "properties": {
+    "addr:full":"13410 College Blvd Overland Park KS 66210",
+    "addr:housenumber":"13410",
+    "addr:postcode":"66210",
+    "addr:street":"College Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.740102,38.927501,-94.740102,38.927501",
     "geom:latitude":38.927501,
     "geom:longitude":-94.740102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13410 College Blvd",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67AJuqukkGrC6vLuu29SFr_38.927501_-94.740102@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051675,
-    "wof:geomhash":"b6ee495f989d786531bb4ecc3d9d1deb",
+    "wof:geomhash":"b63b7db627eab8c14f1967f97e6d029a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840951235,
-    "wof:lastmodified":1466529650,
+    "wof:lastmodified":1510694991,
     "wof:name":"Embroidme",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

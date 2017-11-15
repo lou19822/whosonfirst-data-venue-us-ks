@@ -2,14 +2,20 @@
   "id": 840570981,
   "type": "Feature",
   "properties": {
+    "addr:full":"20167 W 151st St Olathe KS 66061",
+    "addr:housenumber":"20167",
+    "addr:postcode":"66061",
+    "addr:street":"W 151St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.822073,38.854543,-94.822073,38.854543",
     "geom:latitude":38.854543,
     "geom:longitude":-94.822073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20167 W 151st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125157739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aRMVO0cYpAHdsyqVN2dCV_38.854543_-94.822073@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043011,
-    "wof:geomhash":"0dab6d904955c2c68fee9fef1c64bdf8",
+    "wof:geomhash":"2740250356304283079e5369a520c25f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840570981,
-    "wof:lastmodified":1466521484,
+    "wof:lastmodified":1510604916,
     "wof:name":"USA Nails",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

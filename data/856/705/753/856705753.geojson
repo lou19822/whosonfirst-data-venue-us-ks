@@ -2,14 +2,20 @@
   "id": 856705753,
   "type": "Feature",
   "properties": {
+    "addr:full":"13412 Metcalf Ave Overland Park KS 66213",
+    "addr:housenumber":"13412",
+    "addr:postcode":"66213",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.668225,38.885073,-94.668225,38.885073",
     "geom:latitude":38.885073,
     "geom:longitude":-94.668225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13412 Metcalf Ave",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_663duKFj1JFWLSymCstU7s_38.885073_-94.668225@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052182,
-    "wof:geomhash":"b0ff5474d64ded26b73f2ef22a79bfb7",
+    "wof:geomhash":"c52fa0a54ff3438b4b80f527ee54dae1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":856705753,
-    "wof:lastmodified":1466520004,
+    "wof:lastmodified":1510698854,
     "wof:name":"Noodles & Company",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840685507,
   "type": "Feature",
   "properties": {
+    "addr:full":"2232 S Broadway Ave Wichita KS 67211",
+    "addr:housenumber":"2232",
+    "addr:postcode":"67211",
+    "addr:street":"S Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.335438,37.652314,-97.335438,37.652314",
     "geom:latitude":37.652314,
     "geom:longitude":-97.335438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2232 S Broadway Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125152105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SM5THYfwan43dZ4J06oWS_37.652314_-97.335438@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045697,
-    "wof:geomhash":"79dfc0ca5b10495d841ef5dbf9574133",
+    "wof:geomhash":"bfe1120e37dd21155da4b0c873649438",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840685507,
-    "wof:lastmodified":1466523756,
+    "wof:lastmodified":1510694958,
     "wof:name":"Relax Inn",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

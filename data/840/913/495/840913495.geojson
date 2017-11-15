@@ -2,6 +2,10 @@
   "id": 840913495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1026 S 10 St Kansas City KS 66105",
+    "addr:housenumber":"1026;10",
+    "addr:postcode":"66105",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840913495,
-    "wof:lastmodified":1466528738,
+    "wof:lastmodified":1472623677,
     "wof:name":"Mid America Sign Contractors",
     "wof:parent_id":85873441,
     "wof:placetype":"venue",

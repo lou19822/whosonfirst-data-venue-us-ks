@@ -2,14 +2,20 @@
   "id": 856712161,
   "type": "Feature",
   "properties": {
+    "addr:full":"10231 W 21st St N Wichita KS 67205",
+    "addr:housenumber":"10231",
+    "addr:postcode":"67205",
+    "addr:street":"W 21St St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.46084,37.722126,-97.46084,37.722126",
     "geom:latitude":37.722126,
     "geom:longitude":-97.46084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10231 W 21st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084203,
         85872803
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JsOa0OXyErwUEtv3AYQxY_37.722673_-97.460764@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052308,
-    "wof:geomhash":"60606d5c2d90273e6f5277e2823bc974",
+    "wof:geomhash":"65cc5b1e7f5f00252112cb7ac802dc0e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856712161,
-    "wof:lastmodified":1466520116,
+    "wof:lastmodified":1510699747,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85872803,
     "wof:placetype":"venue",

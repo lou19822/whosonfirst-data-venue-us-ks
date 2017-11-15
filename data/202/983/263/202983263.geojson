@@ -2,14 +2,20 @@
   "id": 202983263,
   "type": "Feature",
   "properties": {
+    "addr:full":"3216 E Harry St Wichita KS 67218",
+    "addr:housenumber":"3216",
+    "addr:postcode":"67218",
+    "addr:street":"E Harry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.298467,37.664558,-97.298467,37.664558",
     "geom:latitude":37.664558,
     "geom:longitude":-97.298467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3216 E Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wkiu85YGT3nwsHfQsmtOp_37.664558_-97.298467@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"2299812d1c70f88ddb2e2e9748f9c7d8",
+    "wof:geomhash":"dec493c813141afda06ceccd5a2027da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":202983263,
-    "wof:lastmodified":1466520355,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

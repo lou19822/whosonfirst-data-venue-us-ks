@@ -2,14 +2,20 @@
   "id": 840622479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1914 Cherry St Kansas City KS 64108",
+    "addr:housenumber":"1914",
+    "addr:postcode":"64108",
+    "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.576886,39.089016,-94.576886,39.089016",
     "geom:latitude":39.089016,
     "geom:longitude":-94.576886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1914 Cherry St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mIakSqy6XicN1yFRQTfxz_39.089016_-94.576886@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044226,
-    "wof:geomhash":"82da2c0448d221355d95f48a4410fa60",
+    "wof:geomhash":"efdda8c04b3558732dfa1fc906a58a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840622479,
-    "wof:lastmodified":1466522389,
+    "wof:lastmodified":1510602716,
     "wof:name":"Central Parking System",
     "wof:parent_id":85872019,
     "wof:placetype":"venue",

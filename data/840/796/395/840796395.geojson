@@ -2,14 +2,20 @@
   "id": 840796395,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 N Rock Rd Wichita KS 67206",
+    "addr:housenumber":"2111",
+    "addr:postcode":"67206",
+    "addr:street":"N Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.24469,37.721337,-97.24469,37.721337",
     "geom:latitude":37.721337,
     "geom:longitude":-97.24469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2111 N Rock Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LXfOAmzbu1v9WCAUFuLmS_37.721337_-97.244690@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048104,
-    "wof:geomhash":"234635cd77f79ad32f388ea20dc33791",
+    "wof:geomhash":"3c40a6986963cec4b72b9cb3745d50ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840796395,
-    "wof:lastmodified":1466526137,
+    "wof:lastmodified":1510613207,
     "wof:name":"Cricket Communications",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",

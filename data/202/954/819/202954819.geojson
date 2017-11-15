@@ -2,9 +2,14 @@
   "id": 202954819,
   "type": "Feature",
   "properties": {
+    "addr:full":"4745 W 136th Street Leawood KS 66224",
+    "addr:housenumber":"4745",
+    "addr:postcode":"66224",
+    "addr:street":"W 136Th Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.640637,38.882484,-94.640637,38.882484",
     "geom:latitude":38.882484,
     "geom:longitude":-94.640637,
@@ -33,11 +38,13 @@
     "sg:website":"http://www.PCSdoc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +54,10 @@
     "wof:geomhash":"b644a92a83214a3d5acd9950f84b224b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":202954819,
-    "wof:lastmodified":1466529895,
+    "wof:lastmodified":1491901023,
     "wof:name":"Steven Wittenberg Gordon, MD",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

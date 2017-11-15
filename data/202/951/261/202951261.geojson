@@ -2,14 +2,20 @@
   "id": 202951261,
   "type": "Feature",
   "properties": {
+    "addr:full":"8605 Quivira Rd Lenexa KS 66215",
+    "addr:housenumber":"8605",
+    "addr:postcode":"66215",
+    "addr:street":"Quivira Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.723639,38.972485,-94.723639,38.972485",
     "geom:latitude":38.972485,
     "geom:longitude":-94.723639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8605 Quivira Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -52,12 +58,13 @@
         102082673,
         85879551
     ],
+    "wof:brand_id":1125150951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ul8LLQ5LsGFIhun5ouPgM_38.972485_-94.723639@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"80703ecbca494358bd969da91df4fe18",
+    "wof:geomhash":"21563ebe6f6ec04d742b4a79c8513f7b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":202951261,
-    "wof:lastmodified":1466520143,
+    "wof:lastmodified":1510696096,
     "wof:name":"Orkin Pest & Termite Control",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

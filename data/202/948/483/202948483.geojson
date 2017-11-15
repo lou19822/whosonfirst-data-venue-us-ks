@@ -2,9 +2,14 @@
   "id": 202948483,
   "type": "Feature",
   "properties": {
+    "addr:full":"4314 W 119th St Leawood KS 66209",
+    "addr:housenumber":"4314",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.636187,38.912995,-94.636187,38.912995",
     "geom:latitude":38.912995,
     "geom:longitude":-94.636187,
@@ -40,11 +45,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +61,10 @@
     "wof:geomhash":"e76c55ac9d7d69ec0d717b5410def364",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":202948483,
-    "wof:lastmodified":1466520133,
+    "wof:lastmodified":1491901027,
     "wof:name":"Massage Envy of Leawood",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

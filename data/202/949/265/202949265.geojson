@@ -2,9 +2,14 @@
   "id": 202949265,
   "type": "Feature",
   "properties": {
+    "addr:full":"4915 W 120th Pl Leawood KS 66209",
+    "addr:housenumber":"4915",
+    "addr:postcode":"66209",
+    "addr:street":"W 120Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.642727,38.910704,-94.642727,38.910704",
     "geom:latitude":38.910704,
     "geom:longitude":-94.642727,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +55,10 @@
     "wof:geomhash":"685c29e6f3b9df8aaf2760398c93f503",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":202949265,
-    "wof:lastmodified":1466520132,
+    "wof:lastmodified":1491901029,
     "wof:name":"Lumber Loc/Kk Manufactoring",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

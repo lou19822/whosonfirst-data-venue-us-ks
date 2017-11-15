@@ -2,14 +2,20 @@
   "id": 202950755,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 College Blvd Ste 180 Leawood KS 66211",
+    "addr:housenumber":"4400",
+    "addr:postcode":"66211",
+    "addr:street":"College Blvd Ste 180",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.636124,38.927601,-94.636124,38.927601",
     "geom:latitude":38.927601,
     "geom:longitude":-94.636124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4400 College Blvd Ste 180",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -36,23 +42,27 @@
     "sg:website":"http://www.marchofdimes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
+    "wof:brand_id":1125151559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40WN4m8zf6mBm3o82QTCpH_38.927601_-94.636124@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"396b3bf216b7e3838a71bb8a7a75f51f",
+    "wof:geomhash":"bd3893579b7ae838b0d6a6ec85436ff8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":202950755,
-    "wof:lastmodified":1466520165,
+    "wof:lastmodified":1510699754,
     "wof:name":"March Of Dimes",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

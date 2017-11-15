@@ -2,9 +2,14 @@
   "id": 202947319,
   "type": "Feature",
   "properties": {
+    "addr:full":"10205 Howe Dr Leawood KS 66206",
+    "addr:housenumber":"10205",
+    "addr:postcode":"66206",
+    "addr:street":"Howe Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.627763,38.944931,-94.627763,38.944931",
     "geom:latitude":38.944931,
     "geom:longitude":-94.627763,
@@ -44,11 +49,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +65,10 @@
     "wof:geomhash":"7a7bca5bf84efd022ae7f0b8c766eb43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":202947319,
-    "wof:lastmodified":1466520106,
+    "wof:lastmodified":1491901015,
     "wof:name":"W H E Homes",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

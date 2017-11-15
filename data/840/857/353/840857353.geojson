@@ -2,14 +2,20 @@
   "id": 840857353,
   "type": "Feature",
   "properties": {
+    "addr:full":"877 S Parker St Olathe KS 66061",
+    "addr:housenumber":"877",
+    "addr:postcode":"66061",
+    "addr:street":"S Parker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.834514,38.869704,-94.834514,38.869704",
     "geom:latitude":38.869704,
     "geom:longitude":-94.834514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"877 S Parker St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00FAl2MpH7yIj7ygJnp63n_38.869704_-94.834514@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049594,
-    "wof:geomhash":"0061ed21b9c2d73878dbcd68cc8e581f",
+    "wof:geomhash":"02a85f2d909a38a6304143ebd4788f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840857353,
-    "wof:lastmodified":1466527390,
+    "wof:lastmodified":1510622703,
     "wof:name":"Osco Drug",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

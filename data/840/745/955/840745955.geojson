@@ -2,6 +2,10 @@
   "id": 840745955,
   "type": "Feature",
   "properties": {
+    "addr:full":"11274 Renner Blvd Lenexa KS 66219",
+    "addr:housenumber":"11274",
+    "addr:postcode":"66219",
+    "addr:street":"Renner Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840745955,
-    "wof:lastmodified":1466525135,
+    "wof:lastmodified":1472623526,
     "wof:name":"IBT Reference Lab",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

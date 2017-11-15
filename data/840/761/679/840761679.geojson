@@ -2,14 +2,20 @@
   "id": 840761679,
   "type": "Feature",
   "properties": {
+    "addr:full":"11106 Shawnee Mission Pkwy Shawnee Mission KS 66203",
+    "addr:housenumber":"11106",
+    "addr:postcode":"66203",
+    "addr:street":"Shawnee Mission Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.717518,39.014871,-94.717518,39.014871",
     "geom:latitude":39.014871,
     "geom:longitude":-94.717518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11106 Shawnee Mission Pkwy",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Tk5PTaW1prNRaCupKLeDI_39.014871_-94.717518@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047385,
-    "wof:geomhash":"ebecd02e841e0b3d6b10371e52e07e61",
+    "wof:geomhash":"993618916c7319b2f41e934674c927b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840761679,
-    "wof:lastmodified":1466525432,
+    "wof:lastmodified":1510602943,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",

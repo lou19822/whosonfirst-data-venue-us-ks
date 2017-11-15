@@ -2,14 +2,20 @@
   "id": 840603803,
   "type": "Feature",
   "properties": {
+    "addr:full":"730 Sylvan St Emporia KS 66801",
+    "addr:housenumber":"730",
+    "addr:postcode":"66801",
+    "addr:street":"Sylvan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.17238,38.406998,-96.17238,38.406998",
     "geom:latitude":38.406998,
     "geom:longitude":-96.17238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"730 Sylvan St",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082661,
         85818077
     ],
+    "wof:brand_id":1125156305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RWfwKVyxNCQ5SbqVsKVMu_38.406998_-96.172380@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043749,
-    "wof:geomhash":"25e4925d7a0af2137d04f27a006df1a5",
+    "wof:geomhash":"501b1e1a171128674ed032f49f6c1573",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840603803,
-    "wof:lastmodified":1466522055,
+    "wof:lastmodified":1510698776,
     "wof:name":"St James Baptist Church",
     "wof:parent_id":85818077,
     "wof:placetype":"venue",

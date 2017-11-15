@@ -2,14 +2,20 @@
   "id": 840871119,
   "type": "Feature",
   "properties": {
+    "addr:full":"10330 Metcalf Ave Overland Park KS 66212",
+    "addr:housenumber":"10330",
+    "addr:postcode":"66212",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.667603,38.941309,-94.667603,38.941309",
     "geom:latitude":38.941309,
     "geom:longitude":-94.667603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10330 Metcalf Ave",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125158383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v9R7D7ywIVE7ykYtFYuXQ_38.941309_-94.667603@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049879,
-    "wof:geomhash":"6446597d8c8acd55229ccb5efdadd5f4",
+    "wof:geomhash":"42009b6df0501535d5fe0a33bdf037a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840871119,
-    "wof:lastmodified":1466527636,
+    "wof:lastmodified":1510699779,
     "wof:name":"Pride Stanley & Executive",
     "wof:parent_id":85879547,
     "wof:placetype":"venue",

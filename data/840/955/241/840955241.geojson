@@ -2,14 +2,20 @@
   "id": 840955241,
   "type": "Feature",
   "properties": {
+    "addr:full":"1008 W 4th St Pittsburg KS 66762",
+    "addr:housenumber":"1008",
+    "addr:postcode":"66762",
+    "addr:street":"W 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.721726,37.411288,-94.721726,37.411288",
     "geom:latitude":37.411288,
     "geom:longitude":-94.721726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1008 W 4th St",
     "sg:city":"Pittsburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082657,
         85810831
     ],
+    "wof:brand_id":1125154795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HHaJ4IgAdIti1MtdR4Djx_37.411288_-94.721726@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051748,
-    "wof:geomhash":"deac098674be571d81e14a59faff6715",
+    "wof:geomhash":"b7088d524a0634df09f5a5f07507e79a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840955241,
-    "wof:lastmodified":1466529751,
+    "wof:lastmodified":1510693704,
     "wof:name":"Probation & Parole Ofc",
     "wof:parent_id":85810831,
     "wof:placetype":"venue",

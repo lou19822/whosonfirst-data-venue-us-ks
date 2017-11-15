@@ -2,14 +2,20 @@
   "id": 840575859,
   "type": "Feature",
   "properties": {
+    "addr:full":"6350 Long St Shawnee KS 66216",
+    "addr:housenumber":"6350",
+    "addr:postcode":"66216",
+    "addr:street":"Long St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.729876,39.012411,-94.729876,39.012411",
     "geom:latitude":39.012411,
     "geom:longitude":-94.729876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6350 Long St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wfCsAIWQJW07ASwxu3vI5_39.012411_-94.729876@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043121,
-    "wof:geomhash":"7f1898df4a3a8943c6ab30753daac043",
+    "wof:geomhash":"97dce5421c7b602ce1fc876cf8a1e91e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840575859,
-    "wof:lastmodified":1466521465,
+    "wof:lastmodified":1510601968,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",

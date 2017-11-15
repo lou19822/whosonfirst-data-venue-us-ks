@@ -2,14 +2,20 @@
   "id": 840732083,
   "type": "Feature",
   "properties": {
+    "addr:full":"8828 W 13th St N Wichita KS 67212",
+    "addr:housenumber":"8828",
+    "addr:postcode":"67212",
+    "addr:street":"W 13Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.445775,37.708832,-97.445775,37.708832",
     "geom:latitude":37.708832,
     "geom:longitude":-97.445775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8828 W 13th St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872815
     ],
+    "wof:brand_id":1125159225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sBqvJHZcWMc9f5j0ZOUsF_37.708832_-97.445775@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046745,
-    "wof:geomhash":"d4ce3185b3a136a8e7797ede9bb58594",
+    "wof:geomhash":"99f4d27c1830fc54f8832d11d1817a01",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840732083,
-    "wof:lastmodified":1466524625,
+    "wof:lastmodified":1510699528,
     "wof:name":"Dillon Store",
     "wof:parent_id":85872815,
     "wof:placetype":"venue",

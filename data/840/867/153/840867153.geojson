@@ -2,6 +2,10 @@
   "id": 840867153,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 W Gregory Blvd Kansas City KS 64114",
+    "addr:housenumber":"222",
+    "addr:postcode":"64114",
+    "addr:street":"W Gregory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840867153,
-    "wof:lastmodified":1466527544,
+    "wof:lastmodified":1472623625,
     "wof:name":"Doyle Field Svc Inc",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

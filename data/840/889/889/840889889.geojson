@@ -2,6 +2,10 @@
   "id": 840889889,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 S 18 St Kansas City KS 66102",
+    "addr:housenumber":"155;18",
+    "addr:postcode":"66102",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840889889,
-    "wof:lastmodified":1466528263,
+    "wof:lastmodified":1472623667,
     "wof:name":"Metropolitan Internal Medicine",
     "wof:parent_id":85878487,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840779885,
   "type": "Feature",
   "properties": {
+    "addr:full":"11630 W 80th St Shawnee Mission KS 66214",
+    "addr:housenumber":"11630",
+    "addr:postcode":"66214",
+    "addr:street":"W 80Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.721362,38.983935,-94.721362,38.983935",
     "geom:latitude":38.983935,
     "geom:longitude":-94.721362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11630 W 80th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125159731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17hkVLJD5NGudcrRTDQMwL_38.983935_-94.721362@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047762,
-    "wof:geomhash":"e90236ca23944040750eca613d40eede",
+    "wof:geomhash":"1bf20b64aa77d9f925d2666bdfa7a6bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840779885,
-    "wof:lastmodified":1466525837,
+    "wof:lastmodified":1510698013,
     "wof:name":"US Food & Drug Adm",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 169626983,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 NE Sardou Ave Topeka KS 66616",
+    "addr:housenumber":"3600",
+    "addr:postcode":"66616",
+    "addr:street":"Ne Sardou Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.632697,39.06616,-95.632697,39.06616",
     "geom:latitude":39.06616,
     "geom:longitude":-95.632697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3600 NE Sardou Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102084175,
         85838959
     ],
+    "wof:brand_id":1125157981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wQCJwMNtsE2U6uIz1qh4Q_39.066160_-95.632697@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"1424ee48ea360a967534bdbb85b3ffe3",
+    "wof:geomhash":"85d02e959c270c3990b235efa1ea7675",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":169626983,
-    "wof:lastmodified":1466520083,
+    "wof:lastmodified":1510694790,
     "wof:name":"Teamsters Local Union",
     "wof:parent_id":85838959,
     "wof:placetype":"venue",

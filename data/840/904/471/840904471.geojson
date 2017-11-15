@@ -2,14 +2,20 @@
   "id": 840904471,
   "type": "Feature",
   "properties": {
+    "addr:full":"1726 SW Sims Ave Topeka KS 66604",
+    "addr:housenumber":"1726",
+    "addr:postcode":"66604",
+    "addr:street":"Sw Sims Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.738747,39.035231,-95.738747,39.035231",
     "geom:latitude":39.035231,
     "geom:longitude":-95.738747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1726 SW Sims Ave",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125157051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Olr4uX4aekuZ56LsEuqE8_39.035231_-95.738747@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050584,
-    "wof:geomhash":"8200c3243c7123b7dee5f18499f86e73",
+    "wof:geomhash":"95118e182d982ade2b10c5563661255b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840904471,
-    "wof:lastmodified":1466528421,
+    "wof:lastmodified":1510613522,
     "wof:name":"Royal Neighbors of America",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",

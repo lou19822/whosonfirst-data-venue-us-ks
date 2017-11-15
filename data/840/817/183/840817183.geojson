@@ -2,14 +2,20 @@
   "id": 840817183,
   "type": "Feature",
   "properties": {
+    "addr:full":"11771 W 95th St Overland Park KS 66214",
+    "addr:housenumber":"11771",
+    "addr:postcode":"66214",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.716803,38.956478,-94.716803,38.956478",
     "geom:latitude":38.956478,
     "geom:longitude":-94.716803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11771 W 95th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150479,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wntLDgEpiCtQahP6fFocL_38.956478_-94.716803@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048665,
-    "wof:geomhash":"ae3846aab5f0f8a5add660ab07a3f88c",
+    "wof:geomhash":"a119c37fc38b2206d4733d965648ff91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840817183,
-    "wof:lastmodified":1466526532,
+    "wof:lastmodified":1510697044,
     "wof:name":"Crabtree & Evelyn",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",

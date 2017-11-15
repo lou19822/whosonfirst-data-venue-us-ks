@@ -2,6 +2,10 @@
   "id": 856709261,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 N Broadway St Wichita KS 67214",
+    "addr:housenumber":"1001",
+    "addr:postcode":"67214",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":856709261,
-    "wof:lastmodified":1466519998,
+    "wof:lastmodified":1472623332,
     "wof:name":"Subway",
     "wof:parent_id":85872811,
     "wof:placetype":"venue",

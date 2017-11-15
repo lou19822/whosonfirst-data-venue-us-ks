@@ -2,14 +2,20 @@
   "id": 840880115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 N Rock Rd Wichita KS 67206",
+    "addr:housenumber":"1725",
+    "addr:postcode":"67206",
+    "addr:street":"N Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.244699,37.714001,-97.244699,37.714001",
     "geom:latitude":37.714001,
     "geom:longitude":-97.244699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1725 N Rock Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125155141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VaSLYipORJ1rAWlzbbwyT_37.714001_-97.244699@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050077,
-    "wof:geomhash":"1b5f2119fa5e0b01a8235d51f8a675c6",
+    "wof:geomhash":"6807a29b172abc35d34386875e314a19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840880115,
-    "wof:lastmodified":1466527821,
+    "wof:lastmodified":1510699634,
     "wof:name":"Havertys Furniture",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",

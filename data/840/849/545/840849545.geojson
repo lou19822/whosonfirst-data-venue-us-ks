@@ -2,14 +2,20 @@
   "id": 840849545,
   "type": "Feature",
   "properties": {
+    "addr:full":"1136 N Bitting Ave Wichita KS 67203",
+    "addr:housenumber":"1136",
+    "addr:postcode":"67203",
+    "addr:street":"N Bitting Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.348276,37.703816,-97.348276,37.703816",
     "geom:latitude":37.703816,
     "geom:longitude":-97.348276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1136 N Bitting Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154627,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DDXkgS6o0Dkp6C1vzqbIN_37.703816_-97.348276@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049428,
-    "wof:geomhash":"921299811a0d73543e06ea7a02475f6d",
+    "wof:geomhash":"7ef5f8733494da8ae83158151517f327",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840849545,
-    "wof:lastmodified":1466527269,
+    "wof:lastmodified":1510695410,
     "wof:name":"Curl Up & Dye",
     "wof:parent_id":85872827,
     "wof:placetype":"venue",

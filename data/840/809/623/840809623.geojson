@@ -2,6 +2,10 @@
   "id": 840809623,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Khedive St Maize KS 67101",
+    "addr:housenumber":"123",
+    "addr:postcode":"67101",
+    "addr:street":"S Khedive St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":840809623,
-    "wof:lastmodified":1466526475,
+    "wof:lastmodified":1472623578,
     "wof:name":"Maize Police Dept",
     "wof:parent_id":85872803,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169660835,
   "type": "Feature",
   "properties": {
+    "addr:full":"9921 W 86th St Shawnee Mission KS 66212",
+    "addr:housenumber":"9921",
+    "addr:postcode":"66212",
+    "addr:street":"W 86Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.701903,38.972891,-94.701903,38.972891",
     "geom:latitude":38.972891,
     "geom:longitude":-94.701903,
@@ -25,11 +30,13 @@
     "sg:province":"KS",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879599,
+        102191575,
+        404502689,
         85633793,
         85945755,
         102082673,
-        85879599
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"d27ef946d7af421559caf9634fb2de28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404502689,
             "locality_id":85945755,
             "neighbourhood_id":85879599,
             "region_id":85688555,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":169660835,
-    "wof:lastmodified":1466520450,
+    "wof:lastmodified":1491916267,
     "wof:name":"Kiddi Kollege Child Care-Lrng",
     "wof:parent_id":85879599,
     "wof:placetype":"venue",

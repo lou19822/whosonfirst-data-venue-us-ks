@@ -2,14 +2,20 @@
   "id": 840734553,
   "type": "Feature",
   "properties": {
+    "addr:full":"4818 E Lincoln St Wichita KS 67218",
+    "addr:housenumber":"4818",
+    "addr:postcode":"67218",
+    "addr:street":"E Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.278801,37.672002,-97.278801,37.672002",
     "geom:latitude":37.672002,
     "geom:longitude":-97.278801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4818 E Lincoln St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DGUaojeJCZ4zmDwPTgWny_37.672002_-97.278801@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046793,
-    "wof:geomhash":"ce39d8d2a4504fcacbfbba2f98f2ad8a",
+    "wof:geomhash":"d5266b59a563781978ea9b27fe8f0892",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840734553,
-    "wof:lastmodified":1466524834,
+    "wof:lastmodified":1510699048,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":85872829,
     "wof:placetype":"venue",

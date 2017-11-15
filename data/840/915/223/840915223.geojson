@@ -2,14 +2,20 @@
   "id": 840915223,
   "type": "Feature",
   "properties": {
+    "addr:full":"11010 Metcalf Ave Shawnee Mission KS 66210",
+    "addr:housenumber":"11010",
+    "addr:postcode":"66210",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.667799,38.927682,-94.667799,38.927682",
     "geom:latitude":38.927682,
     "geom:longitude":-94.667799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11010 Metcalf Ave",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125159663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Zj59f4KcdXQVjIYz2Hi57_38.927682_-94.667799@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050875,
-    "wof:geomhash":"32dce241ea1b4e92dd860513d403f6af",
+    "wof:geomhash":"b8dfed947384c7d81aee22163789311f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840915223,
-    "wof:lastmodified":1466528622,
+    "wof:lastmodified":1510694925,
     "wof:name":"Relax The Back Store",
     "wof:parent_id":85879547,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840887373,
   "type": "Feature",
   "properties": {
+    "addr:full":"12701 Mission Rd Shawnee Mission KS 66209",
+    "addr:housenumber":"12701",
+    "addr:postcode":"66209",
+    "addr:street":"Mission Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.630524,38.898313,-94.630524,38.898313",
     "geom:latitude":38.898313,
     "geom:longitude":-94.630524,
@@ -34,7 +39,8 @@
         85633793,
         85945793,
         102082673,
-        85688555
+        85688555,
+        420525365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,22 @@
             "neighbourhood_id":85879563,
             "region_id":85688555,
             "venue_id":840887373
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504341,
+            "locality_id":85945793,
+            "neighbourhood_id":420525365,
+            "region_id":85688555,
+            "venue_id":840887373
         }
     ],
     "wof:id":840887373,
-    "wof:lastmodified":1466528070,
+    "wof:lastmodified":1491901027,
     "wof:name":"Leawood Fire Dept",
-    "wof:parent_id":85879563,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],

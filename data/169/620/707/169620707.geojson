@@ -2,6 +2,10 @@
   "id": 169620707,
   "type": "Feature",
   "properties": {
+    "addr:full":"1110 Co Rd 290 Winona KS 67764",
+    "addr:housenumber":"1110;290",
+    "addr:postcode":"67764",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169620707,
-    "wof:lastmodified":1466519970,
+    "wof:lastmodified":1472623272,
     "wof:name":"Michael Kough",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

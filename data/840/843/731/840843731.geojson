@@ -2,6 +2,10 @@
   "id": 840843731,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 S 14 St Kansas City KS 66105",
+    "addr:housenumber":"501;14",
+    "addr:postcode":"66105",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840843731,
-    "wof:lastmodified":1466527176,
+    "wof:lastmodified":1472623611,
     "wof:name":"C F Bender Co Inc",
     "wof:parent_id":85878487,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840783889,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 N 8 St Kansas City KS 66101",
+    "addr:housenumber":"2300;8",
+    "addr:postcode":"66101",
+    "addr:street":"N;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.629016,39.132555,-94.629016,39.132555",
     "geom:latitude":39.132555,
     "geom:longitude":-94.629016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2300 N 8 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125156841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vvFpfwIsCnKCSRuW4j8Ge_39.132555_-94.629016@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047837,
-    "wof:geomhash":"850a0ecb0d1f23268f9db0f798dd0b55",
+    "wof:geomhash":"1e99072c0cd3518c885d0357476b19fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840783889,
-    "wof:lastmodified":1466526003,
+    "wof:lastmodified":1510696906,
     "wof:name":"Sisters Of Charity",
     "wof:parent_id":85878501,
     "wof:placetype":"venue",

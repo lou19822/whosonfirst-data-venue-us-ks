@@ -2,14 +2,20 @@
   "id": 169625363,
   "type": "Feature",
   "properties": {
+    "addr:full":"8113 E Kellogg Dr S Wichita KS 67207",
+    "addr:housenumber":"8113",
+    "addr:postcode":"67207",
+    "addr:street":"E Kellogg Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.241604,37.678968,-97.241604,37.678968",
     "geom:latitude":37.678968,
     "geom:longitude":-97.241604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8113 E Kellogg Dr S",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102084203,
         85806685
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IJVqZPcdEsrHxNG4cBSmd_37.678968_-97.241604@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"da3ecd6aa460d7ee14cbe02184d8ce77",
+    "wof:geomhash":"e1a91cf06ffbc86663b907e9bda48887",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":169625363,
-    "wof:lastmodified":1466520034,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",

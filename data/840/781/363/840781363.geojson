@@ -2,14 +2,20 @@
   "id": 840781363,
   "type": "Feature",
   "properties": {
+    "addr:full":"918 N Main St El Dorado KS 67042",
+    "addr:housenumber":"918",
+    "addr:postcode":"67042",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.848959,37.827346,-96.848959,37.827346",
     "geom:latitude":37.827346,
     "geom:longitude":-96.848959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"918 N Main St",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85851529,
         102082695
     ],
+    "wof:brand_id":1125151393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rbEfOWomBBY9hrJRis4m6_37.827346_-96.848959@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047789,
-    "wof:geomhash":"694ccb36f64f7071764067cf09cf0455",
+    "wof:geomhash":"8663bfd155d8c282056424f080233cf7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840781363,
-    "wof:lastmodified":1466525800,
+    "wof:lastmodified":1510613541,
     "wof:name":"Styles Unlimited",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",

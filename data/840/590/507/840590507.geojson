@@ -2,14 +2,20 @@
   "id": 840590507,
   "type": "Feature",
   "properties": {
+    "addr:full":"431 State St Augusta KS 67010",
+    "addr:housenumber":"431",
+    "addr:postcode":"67010",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.979022,37.675788,-96.979022,37.675788",
     "geom:latitude":37.675788,
     "geom:longitude":-96.979022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"431 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082695,
         85834115
     ],
+    "wof:brand_id":1125154483,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KlzBsPs3CY6opIPReF3Uy_37.675788_-96.979022@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043435,
-    "wof:geomhash":"ff4c5e866e9cdaa0cc65317d857cf095",
+    "wof:geomhash":"a63e267a643edbe83e0f8ffa969c9629",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840590507,
-    "wof:lastmodified":1466521701,
+    "wof:lastmodified":1510695956,
     "wof:name":"Shear Designs",
     "wof:parent_id":85834115,
     "wof:placetype":"venue",

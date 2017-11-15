@@ -2,14 +2,20 @@
   "id": 840557813,
   "type": "Feature",
   "properties": {
+    "addr:full":"1834 Topeka Blvd Topeka KS 66608",
+    "addr:housenumber":"1834",
+    "addr:postcode":"66608",
+    "addr:street":"Topeka Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.666041,39.08304,-95.666041,39.08304",
     "geom:latitude":39.08304,
     "geom:longitude":-95.666041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1834 Topeka Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084175,
         85881557
     ],
+    "wof:brand_id":1125152907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HLvT2k70rl16CPRdbHVK1_39.083040_-95.666041@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464042690,
-    "wof:geomhash":"5aefede5c8164ac77f78714968182536",
+    "wof:geomhash":"d54144abfc866c612e0d67d68051f342",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840557813,
-    "wof:lastmodified":1466521062,
+    "wof:lastmodified":1510695167,
     "wof:name":"Smoker Friendly",
     "wof:parent_id":85881557,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856699021,
   "type": "Feature",
   "properties": {
+    "addr:full":"6130 SW 17th St Topeka KS 66615",
+    "addr:housenumber":"6130",
+    "addr:postcode":"66615",
+    "addr:street":"Sw 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.764891,39.036444,-95.764891,39.036444",
     "geom:latitude":39.036444,
     "geom:longitude":-95.764891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6130 SW 17th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4C9FUQiFWb8NJgwp3d2oks_39.036511_-95.764129@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464052039,
-    "wof:geomhash":"91d7317be1ae45107c0693d90d42c168",
+    "wof:geomhash":"5f88663a2cc3f6d5008d33f56fc2d68c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":856699021,
-    "wof:lastmodified":1466519654,
+    "wof:lastmodified":1510604033,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

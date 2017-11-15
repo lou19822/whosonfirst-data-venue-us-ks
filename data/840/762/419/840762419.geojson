@@ -2,14 +2,20 @@
   "id": 840762419,
   "type": "Feature",
   "properties": {
+    "addr:full":"6721 Johnson Dr Shawnee Mission KS 66202",
+    "addr:housenumber":"6721",
+    "addr:postcode":"66202",
+    "addr:street":"Johnson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.662938,39.022151,-94.662938,39.022151",
     "geom:latitude":39.022151,
     "geom:longitude":-94.662938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6721 Johnson Dr",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_398nGWFqQ0TrxtuX7m5i0d_39.022151_-94.662938@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047397,
-    "wof:geomhash":"552b795b9ece4cd73d3a060afd9e6d7b",
+    "wof:geomhash":"1ea0f28d3c68b0d458096ac4a567d2d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840762419,
-    "wof:lastmodified":1466525414,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85879553,
     "wof:placetype":"venue",

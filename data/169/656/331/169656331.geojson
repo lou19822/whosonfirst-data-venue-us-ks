@@ -2,9 +2,14 @@
   "id": 169656331,
   "type": "Feature",
   "properties": {
+    "addr:full":"10130 Pawnee Ln Shawnee Mission KS 66206",
+    "addr:housenumber":"10130",
+    "addr:postcode":"66206",
+    "addr:street":"Pawnee Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.625379,38.942633,-94.625379,38.942633",
     "geom:latitude":38.942633,
     "geom:longitude":-94.625379,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"3c6f2a8c5928a059bdf2a1ae1957104e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":169656331,
-    "wof:lastmodified":1466520390,
+    "wof:lastmodified":1491901015,
     "wof:name":"Broderick Sportsgroup",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

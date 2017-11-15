@@ -2,14 +2,20 @@
   "id": 840946207,
   "type": "Feature",
   "properties": {
+    "addr:full":"3812 W 95th St Shawnee Mission KS 66206",
+    "addr:housenumber":"3812",
+    "addr:postcode":"66206",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.626977,38.956926,-94.626977,38.956926",
     "geom:latitude":38.956926,
     "geom:longitude":-94.626977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3812 W 95th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_334kzXneC5swhFyEsMckJc_38.956926_-94.626977@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051574,
-    "wof:geomhash":"af2117b5883e2e59a068d63ae7d6b307",
+    "wof:geomhash":"72e481db6c753e2cae5a4a6650fc0462",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840946207,
-    "wof:lastmodified":1466529467,
+    "wof:lastmodified":1510695742,
     "wof:name":"Wolf Camera & Video",
     "wof:parent_id":85879549,
     "wof:placetype":"venue",

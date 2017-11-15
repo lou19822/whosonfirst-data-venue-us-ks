@@ -2,6 +2,10 @@
   "id": 840545031,
   "type": "Feature",
   "properties": {
+    "addr:full":"11225 College Blvd Overland Park KS 66210",
+    "addr:housenumber":"11225",
+    "addr:postcode":"66210",
+    "addr:street":"College Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840545031,
-    "wof:lastmodified":1466520540,
+    "wof:lastmodified":1472623276,
     "wof:name":"Mortgagebyinternet",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",

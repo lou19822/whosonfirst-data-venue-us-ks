@@ -2,6 +2,10 @@
   "id": 840539845,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Washington Blvd Kansas City KS 66102",
+    "addr:housenumber":"1600",
+    "addr:postcode":"66102",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840539845,
-    "wof:lastmodified":1466520708,
+    "wof:lastmodified":1472623305,
     "wof:name":"American Red Cross",
     "wof:parent_id":85878497,
     "wof:placetype":"venue",

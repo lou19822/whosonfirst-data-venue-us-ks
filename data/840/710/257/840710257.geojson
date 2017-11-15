@@ -2,14 +2,20 @@
   "id": 840710257,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 Main St Atwood KS 67730",
+    "addr:housenumber":"514",
+    "addr:postcode":"67730",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-101.040427,39.80767,-101.040427,39.80767",
     "geom:latitude":39.80767,
     "geom:longitude":-101.040427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"514 Main St",
     "sg:city":"Atwood",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084169,
         85837215
     ],
+    "wof:brand_id":420574285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SYymS8OnLZQ7IqYMCQVxz_39.807670_-101.040427@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046309,
-    "wof:geomhash":"cdc65449ebb8ff26a24c8dcc19030dde",
+    "wof:geomhash":"6473e31324278c41f1c732910c96c6bb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840710257,
-    "wof:lastmodified":1466524203,
+    "wof:lastmodified":1510603884,
     "wof:name":"Shelter Insurance",
     "wof:parent_id":85837215,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 169639959,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 S Rock St Minneapolis KS 67467",
+    "addr:housenumber":"117",
+    "addr:postcode":"67467",
+    "addr:street":"S Rock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.705805,39.121172,-97.705805,39.121172",
     "geom:latitude":39.121172,
     "geom:longitude":-97.705805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 S Rock St",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85945183,
         102084197
     ],
+    "wof:brand_id":1125150001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AtV0Ue1HGnUkXGIEl68yf_39.121172_-97.705805@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"8aba81866349a5dbaf0ba4770d3651d8",
+    "wof:geomhash":"9adaaad48c627391c5ebad82b1976052",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169639959,
-    "wof:lastmodified":1466520279,
+    "wof:lastmodified":1510698740,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

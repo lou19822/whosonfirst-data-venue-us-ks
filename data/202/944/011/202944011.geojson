@@ -2,6 +2,10 @@
   "id": 202944011,
   "type": "Feature",
   "properties": {
+    "addr:full":"6565 Foxridge Dr Apt 235 Mission KS 66202",
+    "addr:housenumber":"6565;235",
+    "addr:postcode":"66202",
+    "addr:street":"Foxridge Dr Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":202944011,
-    "wof:lastmodified":1466529890,
+    "wof:lastmodified":1472623271,
     "wof:name":"Video Renovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

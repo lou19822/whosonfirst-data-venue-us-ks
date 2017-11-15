@@ -2,14 +2,20 @@
   "id": 840804329,
   "type": "Feature",
   "properties": {
+    "addr:full":"8600 E Kellogg Dr N Wichita KS 67207",
+    "addr:housenumber":"8600",
+    "addr:postcode":"67207",
+    "addr:street":"E Kellogg Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.236766,37.679513,-97.236766,37.679513",
     "geom:latitude":37.679513,
     "geom:longitude":-97.236766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8600 E Kellogg Dr N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125156797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VRBLVduu1qqUNkLZf5naO_37.679513_-97.236766@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048288,
-    "wof:geomhash":"ee7f7f32a8b4b1fe9b1acbd5e6b61a31",
+    "wof:geomhash":"23a32a898972a70d8d463d03984b8e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840804329,
-    "wof:lastmodified":1466526223,
+    "wof:lastmodified":1510695702,
     "wof:name":"Olan Mills Inc",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",

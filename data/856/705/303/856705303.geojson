@@ -2,14 +2,20 @@
   "id": 856705303,
   "type": "Feature",
   "properties": {
+    "addr:full":"11721 Metcalf Ave Overland Park KS 66210",
+    "addr:housenumber":"11721",
+    "addr:postcode":"66210",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.667172,38.915093,-94.667172,38.915093",
     "geom:latitude":38.915093,
     "geom:longitude":-94.667172,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11721 Metcalf Ave",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79mvtwWJ23dcFm8mJrthSS_38.915093_-94.667172@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052175,
-    "wof:geomhash":"4c7fd978d852cec5b1b480f91a3b148a",
+    "wof:geomhash":"a46584de0223bb9fff58f66d4db1df3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":856705303,
-    "wof:lastmodified":1466519888,
+    "wof:lastmodified":1510696799,
     "wof:name":"Old Chicago",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 169652759,
   "type": "Feature",
   "properties": {
+    "addr:full":"2514 S 9th St Salina KS 67401",
+    "addr:housenumber":"2514",
+    "addr:postcode":"67401",
+    "addr:street":"S 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.612844,38.795426,-97.612844,38.795426",
     "geom:latitude":38.795426,
     "geom:longitude":-97.612844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2514 S 9th St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85946183,
         102083453
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QyI4XBPdzAVOxoiqBIDqy_38.795426_-97.612844@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"32981b29ca47d2d14df9612f327da729",
+    "wof:geomhash":"48838a00e846d9fb14d0110588473827",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169652759,
-    "wof:lastmodified":1466520387,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

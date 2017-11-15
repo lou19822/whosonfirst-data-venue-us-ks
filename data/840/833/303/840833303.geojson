@@ -2,14 +2,20 @@
   "id": 840833303,
   "type": "Feature",
   "properties": {
+    "addr:full":"5325 Nieman Rd Shawnee Mission KS 66203",
+    "addr:housenumber":"5325",
+    "addr:postcode":"66203",
+    "addr:street":"Nieman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.714539,39.031983,-94.714539,39.031983",
     "geom:latitude":39.031983,
     "geom:longitude":-94.714539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5325 Nieman Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mGoSSt3GEvveFLmtclgS8_39.031983_-94.714539@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049070,
-    "wof:geomhash":"4da20e956819e315dc4ab3cc27102b60",
+    "wof:geomhash":"9fbe213d4b9529db8a82d42dd4b84757",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840833303,
-    "wof:lastmodified":1466526902,
+    "wof:lastmodified":1510694929,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":85879555,
     "wof:placetype":"venue",

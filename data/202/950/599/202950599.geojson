@@ -2,9 +2,14 @@
   "id": 202950599,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 W 110TH ST LEAWOOD KS 66211",
+    "addr:housenumber":"5401",
+    "addr:postcode":"66211",
+    "addr:street":"W 110Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.645236,38.929373,-94.645236,38.929373",
     "geom:latitude":38.929373,
     "geom:longitude":-94.645236,
@@ -30,11 +35,13 @@
     "sg:website":"http://redirect.searchignite.com/si/cm/tracking/DGTrackingRedirect.aspx?siclientid=2918&siredirect=http%3A%2F%2Fwww%2Ehomesteadhotels%2Ecom%2FOVP&sisearchengine=155&siproduct=HS+Kansas+City+%2D+Overland+Park&clearppc=1",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"2a227282f1803d8052fa68be22a2284d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":202950599,
-    "wof:lastmodified":1466520156,
+    "wof:lastmodified":1491901042,
     "wof:name":"Homestead Studio Suites Kansas City - Overland Park",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

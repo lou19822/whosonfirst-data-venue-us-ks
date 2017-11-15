@@ -2,14 +2,20 @@
   "id": 840584517,
   "type": "Feature",
   "properties": {
+    "addr:full":"9631 W 116th Ter Overland Park KS 66210",
+    "addr:housenumber":"9631",
+    "addr:postcode":"66210",
+    "addr:street":"W 116Th Ter;Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.695896,38.917215,-94.695896,38.917215",
     "geom:latitude":38.917215,
     "geom:longitude":-94.695896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9631 W 116th Ter",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125157285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XmRtRranfQcpZWZlOuRkl_38.917215_-94.695896@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043301,
-    "wof:geomhash":"d4314f6edf80dd39af1a093e2977d61e",
+    "wof:geomhash":"ead110e40e8bc290f92156740b93cabc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840584517,
-    "wof:lastmodified":1466521584,
+    "wof:lastmodified":1510696750,
     "wof:name":"Uniquely Yours",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840704297,
   "type": "Feature",
   "properties": {
+    "addr:full":"3722 State Ave Kansas City KS 66102",
+    "addr:housenumber":"3722",
+    "addr:postcode":"66102",
+    "addr:street":"State Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.673279,39.116833,-94.673279,39.116833",
     "geom:latitude":39.116833,
     "geom:longitude":-94.673279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3722 State Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125150689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48vtxHsnJ1ZreOqkihcpaL_39.116833_-94.673279@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046188,
-    "wof:geomhash":"7de11f78f7daf783eedf9c4a18838210",
+    "wof:geomhash":"8efa6434cc7b2c01a6dd458f70ac5a49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840704297,
-    "wof:lastmodified":1466524136,
+    "wof:lastmodified":1510698856,
     "wof:name":"Simply Fashions",
     "wof:parent_id":85878497,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840890769,
   "type": "Feature",
   "properties": {
+    "addr:full":"11691 W 95th St Overland Park KS 66214",
+    "addr:housenumber":"11691",
+    "addr:postcode":"66214",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.717482,38.956476,-94.717482,38.956476",
     "geom:latitude":38.956476,
     "geom:longitude":-94.717482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11691 W 95th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575869,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XRR8uzoEDsi9rJSaoOgJf_38.956476_-94.717482@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050300,
-    "wof:geomhash":"e96a12f82fb2f70e0d3e078cefa9afd6",
+    "wof:geomhash":"64b071b0ab9b8a539b76fa7f54543c70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840890769,
-    "wof:lastmodified":1466528223,
+    "wof:lastmodified":1510601953,
     "wof:name":"Wilsons Leather",
     "wof:parent_id":85879589,
     "wof:placetype":"venue",

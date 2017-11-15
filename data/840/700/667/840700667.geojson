@@ -2,14 +2,20 @@
   "id": 840700667,
   "type": "Feature",
   "properties": {
+    "addr:full":"8218 Metcalf Ave Overland Park KS 66204",
+    "addr:housenumber":"8218",
+    "addr:postcode":"66204",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.667729,38.979449,-94.667729,38.979449",
     "geom:latitude":38.979449,
     "geom:longitude":-94.667729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8218 Metcalf Ave",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125156245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BEAGreOxgQea9QEH8V2oB_38.979449_-94.667729@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046097,
-    "wof:geomhash":"bb5f1309288ab6b1d0bfa0482026b5d6",
+    "wof:geomhash":"18f87d35d635df98e96813d031935f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840700667,
-    "wof:lastmodified":1466524049,
+    "wof:lastmodified":1510695194,
     "wof:name":"Great Frame Up",
     "wof:parent_id":85879559,
     "wof:placetype":"venue",

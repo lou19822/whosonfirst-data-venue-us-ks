@@ -2,14 +2,20 @@
   "id": 840790425,
   "type": "Feature",
   "properties": {
+    "addr:full":"5320 SW 21st St Topeka KS 66604",
+    "addr:housenumber":"5320",
+    "addr:postcode":"66604",
+    "addr:street":"Sw 21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.745216,39.029324,-95.745216,39.029324",
     "geom:latitude":39.029324,
     "geom:longitude":-95.745216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5320 SW 21st St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125158979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D57kxD6b7rJgEA89BBTgW_39.029324_-95.745216@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047986,
-    "wof:geomhash":"f7e412efb0890a5832c1b364eed65d35",
+    "wof:geomhash":"757a8c2ebe8f0ccdadc42b7f3e13ecb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840790425,
-    "wof:lastmodified":1466525972,
+    "wof:lastmodified":1510696035,
     "wof:name":"Expert Tire",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

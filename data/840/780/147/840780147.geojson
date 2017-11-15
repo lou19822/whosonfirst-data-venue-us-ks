@@ -2,14 +2,20 @@
   "id": 840780147,
   "type": "Feature",
   "properties": {
+    "addr:full":"4753 Johnson Dr Mission KS 66205",
+    "addr:housenumber":"4753",
+    "addr:postcode":"66205",
+    "addr:street":"Johnson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.64047,39.024901,-94.64047,39.024901",
     "geom:latitude":39.024901,
     "geom:longitude":-94.64047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4753 Johnson Dr",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fJ6gqkTftkMXjq67QH8QT_39.024901_-94.640470@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047769,
-    "wof:geomhash":"218b37b03870c760564f8decee94712f",
+    "wof:geomhash":"8e243cca4d58c670cc4c940d531e2bbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840780147,
-    "wof:lastmodified":1466525710,
+    "wof:lastmodified":1510696836,
     "wof:name":"Pretzel Time",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",

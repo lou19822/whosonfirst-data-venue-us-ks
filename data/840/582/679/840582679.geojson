@@ -2,6 +2,10 @@
   "id": 840582679,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 S Main St Wichita KS 67202",
+    "addr:housenumber":"100",
+    "addr:postcode":"67202",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840582679,
-    "wof:lastmodified":1466521610,
+    "wof:lastmodified":1472623353,
     "wof:name":"NCRA Crude Purchasing",
     "wof:parent_id":85872835,
     "wof:placetype":"venue",

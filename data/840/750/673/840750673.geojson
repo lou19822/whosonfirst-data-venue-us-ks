@@ -2,6 +2,10 @@
   "id": 840750673,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 S 44 St Kansas City KS 66106",
+    "addr:housenumber":"3100;44",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840750673,
-    "wof:lastmodified":1466525252,
+    "wof:lastmodified":1472623526,
     "wof:name":"Control Assemblies Co",
     "wof:parent_id":85879579,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840704563,
   "type": "Feature",
   "properties": {
+    "addr:full":"10851 Mastin St Overland Park KS 66210",
+    "addr:housenumber":"10851",
+    "addr:postcode":"66210",
+    "addr:street":"Mastin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.702266,38.931445,-94.702266,38.931445",
     "geom:latitude":38.931445,
     "geom:longitude":-94.702266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10851 Mastin St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lcQ1cZ7pBTl4lPIPdkd2P_38.931445_-94.702266@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046193,
-    "wof:geomhash":"7ee69553caa9daea824e5e4c6a902a0b",
+    "wof:geomhash":"fef71e87ec3b9d32ee1aa49be78bd3c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840704563,
-    "wof:lastmodified":1466524206,
+    "wof:lastmodified":1510698653,
     "wof:name":"Nortel Networks",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",

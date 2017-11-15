@@ -2,6 +2,10 @@
   "id": 840915003,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 E 26 St Kansas City KS 64108",
+    "addr:housenumber":"625;26",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840915003,
-    "wof:lastmodified":1466529954,
+    "wof:lastmodified":1472623672,
     "wof:name":"Family Court",
     "wof:parent_id":85872029,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840742287,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 N 64 Ter Kansas City KS 66102",
+    "addr:housenumber":"1205",
+    "addr:postcode":"66102",
+    "addr:street":"N 64 Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.728144,39.117051,-94.728144,39.117051",
     "geom:latitude":39.117051,
     "geom:longitude":-94.728144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1205 N 64 Ter",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125154529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZD1mPbvZYiXhKeEeskWNd_39.117051_-94.728144@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046938,
-    "wof:geomhash":"b8821cb7cb96b61288ef96bba6b2d8ae",
+    "wof:geomhash":"101ed7d7ad7e35ae4d89bd25146142ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840742287,
-    "wof:lastmodified":1466524912,
+    "wof:lastmodified":1510695740,
     "wof:name":"Fairview Baptist Church",
     "wof:parent_id":85878491,
     "wof:placetype":"venue",

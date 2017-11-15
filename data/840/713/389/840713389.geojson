@@ -2,14 +2,20 @@
   "id": 840713389,
   "type": "Feature",
   "properties": {
+    "addr:full":"2815 SW 29th St Topeka KS 66614",
+    "addr:housenumber":"2815",
+    "addr:postcode":"66614",
+    "addr:street":"Sw 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.7132,39.014962,-95.7132,39.014962",
     "geom:latitude":39.014962,
     "geom:longitude":-95.7132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2815 SW 29th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125159225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12lTUymywfHFwqZUnMlXon_39.014962_-95.713200@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046372,
-    "wof:geomhash":"ec2ed49375f9c2afa7455b0a1081a894",
+    "wof:geomhash":"f067e4d20bb846b4316f1f5eb47ef0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840713389,
-    "wof:lastmodified":1466524368,
+    "wof:lastmodified":1510699528,
     "wof:name":"Dillon Store",
     "wof:parent_id":85881549,
     "wof:placetype":"venue",

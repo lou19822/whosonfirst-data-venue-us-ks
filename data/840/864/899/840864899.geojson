@@ -2,14 +2,20 @@
   "id": 840864899,
   "type": "Feature",
   "properties": {
+    "addr:full":"1970 S West St Wichita KS 67213",
+    "addr:housenumber":"1970",
+    "addr:postcode":"67213",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.389129,37.658005,-97.389129,37.658005",
     "geom:latitude":37.658005,
     "geom:longitude":-97.389129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1970 S West St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125152753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3omw59Xz9wFC49dx10Y4K5_37.658005_-97.389129@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049751,
-    "wof:geomhash":"e6d48723399aa75ee452ed55f90d8837",
+    "wof:geomhash":"65b5f1ba02a9a757b922d6109716bbb1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840864899,
-    "wof:lastmodified":1466527706,
+    "wof:lastmodified":1510693927,
     "wof:name":"Xpedx",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 202970507,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Garfield St Apt 12 Columbus KS 66725",
+    "addr:housenumber":"600;12",
+    "addr:postcode":"66725",
+    "addr:street":"Garfield St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":202970507,
-    "wof:lastmodified":1466520297,
+    "wof:lastmodified":1472623293,
     "wof:name":"Park Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

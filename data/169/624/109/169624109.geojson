@@ -2,14 +2,20 @@
   "id": 169624109,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 College Blvd Overland Park KS 66211",
+    "addr:housenumber":"5400",
+    "addr:postcode":"66211",
+    "addr:street":"College Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.648095,38.927571,-94.648095,38.927571",
     "geom:latitude":38.927571,
     "geom:longitude":-94.648095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5400 College Blvd",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -25,23 +31,27 @@
     "sg:province":"KS",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
+    "wof:brand_id":1125151985,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2smHXtGuB21VjaUOTx1ZkG_38.927571_-94.648095@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f820c1702fb00a087058251df405122",
+    "wof:geomhash":"edcfed066b8a6c8d9e7559a4f4e20d31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -49,7 +59,7 @@
         }
     ],
     "wof:id":169624109,
-    "wof:lastmodified":1466520006,
+    "wof:lastmodified":1510700131,
     "wof:name":"Fidelity Investments",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

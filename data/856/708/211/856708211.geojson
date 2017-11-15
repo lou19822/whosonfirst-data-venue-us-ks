@@ -2,14 +2,20 @@
   "id": 856708211,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Main St Towanda KS 67144",
+    "addr:housenumber":"311",
+    "addr:postcode":"67144",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.002856,37.795879,-97.002856,37.795879",
     "geom:latitude":37.795879,
     "geom:longitude":-97.002856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Main St",
     "sg:city":"Towanda",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85851529,
         102082695
     ],
+    "wof:brand_id":1125159871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17W19Qc0kLP3yLUPfo5svF_37.795879_-97.002856@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052233,
-    "wof:geomhash":"02b35820b8237097eee47c78ce37ffa9",
+    "wof:geomhash":"1e95c1956202bf64e2c3a4b67ca4b65d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856708211,
-    "wof:lastmodified":1466519945,
+    "wof:lastmodified":1510699915,
     "wof:name":"Gambino's Pizza",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",

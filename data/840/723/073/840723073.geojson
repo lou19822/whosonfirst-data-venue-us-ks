@@ -2,14 +2,20 @@
   "id": 840723073,
   "type": "Feature",
   "properties": {
+    "addr:full":"8738 Lackman Rd Lenexa KS 66219",
+    "addr:housenumber":"8738",
+    "addr:postcode":"66219",
+    "addr:street":"Lackman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.761054,38.970154,-94.761054,38.970154",
     "geom:latitude":38.970154,
     "geom:longitude":-94.761054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8738 Lackman Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125159897,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fs2WlCkWdb5rPJg7HS55b_38.970154_-94.761054@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046572,
-    "wof:geomhash":"812efea1bd9793a71f3167bef906c6d0",
+    "wof:geomhash":"f2b33961419eb4e190cd3ac1062fd43f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840723073,
-    "wof:lastmodified":1466524447,
+    "wof:lastmodified":1510693986,
     "wof:name":"Jack's Barber Shop",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

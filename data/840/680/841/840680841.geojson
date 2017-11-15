@@ -2,14 +2,20 @@
   "id": 840680841,
   "type": "Feature",
   "properties": {
+    "addr:full":"9415 E Harry St Wichita KS 67207",
+    "addr:housenumber":"9415",
+    "addr:postcode":"67207",
+    "addr:street":"E Harry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.22842,37.66465,-97.22842,37.66465",
     "geom:latitude":37.66465,
     "geom:longitude":-97.22842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9415 E Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125150855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CkJ4qn2z13eZk9M12OUJy_37.664650_-97.228420@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045597,
-    "wof:geomhash":"30903a4619ca54d0519c5534ed43cd1d",
+    "wof:geomhash":"0e4434adc53028d1d9efc3934f9744a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840680841,
-    "wof:lastmodified":1466523771,
+    "wof:lastmodified":1510694212,
     "wof:name":"Bankers Life & Casualty Co",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",

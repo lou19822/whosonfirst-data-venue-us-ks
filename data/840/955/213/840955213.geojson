@@ -2,14 +2,20 @@
   "id": 840955213,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 Quindaro Blvd Kansas City KS 66101",
+    "addr:housenumber":"717",
+    "addr:postcode":"66101",
+    "addr:street":"Quindaro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.627474,39.131877,-94.627474,39.131877",
     "geom:latitude":39.131877,
     "geom:longitude":-94.627474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"717 Quindaro Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125153631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RTrmH6L9MCasPgbV22qim_39.131877_-94.627474@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051748,
-    "wof:geomhash":"d67864ff0fd5b01b13b7ae05debc97c9",
+    "wof:geomhash":"b7609be3dd14941e35ea0b4982aafe1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840955213,
-    "wof:lastmodified":1466529745,
+    "wof:lastmodified":1510695778,
     "wof:name":"Metropolitan Insurance",
     "wof:parent_id":85878501,
     "wof:placetype":"venue",

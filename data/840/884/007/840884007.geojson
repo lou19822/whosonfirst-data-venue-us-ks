@@ -2,14 +2,20 @@
   "id": 840884007,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 S Fir St Olathe KS 66061",
+    "addr:housenumber":"115",
+    "addr:postcode":"66061",
+    "addr:street":"S Fir St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.79285,38.880841,-94.79285,38.880841",
     "geom:latitude":38.880841,
     "geom:longitude":-94.79285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 S Fir St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125159851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P0yXX3LZdg8zAPXVPSTVh_38.880841_-94.792850@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050156,
-    "wof:geomhash":"9b960d4a69a49d70ae1d99c680d18581",
+    "wof:geomhash":"cd41d3f3268f8d704614472cfb2e1d11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840884007,
-    "wof:lastmodified":1466527887,
+    "wof:lastmodified":1510696723,
     "wof:name":"Enterprise Car Sales",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

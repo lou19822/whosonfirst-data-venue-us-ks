@@ -2,6 +2,10 @@
   "id": 169600073,
   "type": "Feature",
   "properties": {
+    "addr:full":"5005 N 123rd St Kansas City KS 66109",
+    "addr:housenumber":"5005",
+    "addr:postcode":"66109",
+    "addr:street":"N 123Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169600073,
-    "wof:lastmodified":1466519422,
+    "wof:lastmodified":1472623254,
     "wof:name":"Dn Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

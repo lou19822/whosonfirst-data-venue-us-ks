@@ -2,14 +2,20 @@
   "id": 840752891,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 S Laura St Wichita KS 67211",
+    "addr:housenumber":"250",
+    "addr:postcode":"67211",
+    "addr:street":"S Laura St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.323619,37.683489,-97.323619,37.683489",
     "geom:latitude":37.683489,
     "geom:longitude":-97.323619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 S Laura St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZuVTnpSxDNL3kQpEfXL9F_37.683489_-97.323619@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047169,
-    "wof:geomhash":"6710f8b62e6d79cf8c3b88498e0024ff",
+    "wof:geomhash":"50f1451d854fe05394ee0d0ec73b1664",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840752891,
-    "wof:lastmodified":1466525386,
+    "wof:lastmodified":1510695918,
     "wof:name":"National Multiple Sclerosis",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

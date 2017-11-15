@@ -2,9 +2,14 @@
   "id": 169656737,
   "type": "Feature",
   "properties": {
+    "addr:full":"13700 Leavenworth Rd Kansas City KS 66109",
+    "addr:housenumber":"13700",
+    "addr:postcode":"66109",
+    "addr:street":"Leavenworth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.899729,39.143276,-94.899729,39.143276",
     "geom:latitude":39.143276,
     "geom:longitude":-94.899729,
@@ -29,11 +34,13 @@
     "sg:website":"www.wyandotteccc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85853771,
+        102191575,
+        404504875,
         85633793,
         85945801,
         102082163,
-        85853771
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"52e01a72c17a58219c40eb65f1193382",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082163,
+            "localadmin_id":404504875,
             "locality_id":85945801,
             "neighbourhood_id":85853771,
             "region_id":85688555,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":169656737,
-    "wof:lastmodified":1466520411,
+    "wof:lastmodified":1491895441,
     "wof:name":"Wyandotte County Christian Chr",
     "wof:parent_id":85853771,
     "wof:placetype":"venue",

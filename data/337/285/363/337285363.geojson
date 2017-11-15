@@ -2,14 +2,20 @@
   "id": 337285363,
   "type": "Feature",
   "properties": {
+    "addr:full":"13218 W 62nd Ter Shawnee KS 66216",
+    "addr:housenumber":"13218",
+    "addr:postcode":"66216",
+    "addr:street":"W 62Nd Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.739535,39.014921,-94.739535,39.014921",
     "geom:latitude":39.014921,
     "geom:longitude":-94.739535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13218 W 62nd Ter",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082673,
         85879561
     ],
+    "wof:brand_id":1125151187,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7coBGhPmhIHSWQ11lzk7OR_39.014921_-94.739535@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"f06887e3901912999a7ae6dfba49753b",
+    "wof:geomhash":"b1ae51b869192d288734c74bf60d5b40",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":337285363,
-    "wof:lastmodified":1466519418,
+    "wof:lastmodified":1510697189,
     "wof:name":"Nail Art",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",

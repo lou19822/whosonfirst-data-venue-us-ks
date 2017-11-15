@@ -2,9 +2,14 @@
   "id": 202948879,
   "type": "Feature",
   "properties": {
+    "addr:full":"4953 W 119th St Leawood KS 66209",
+    "addr:housenumber":"4953",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.642578,38.912842,-94.642578,38.912842",
     "geom:latitude":38.912842,
     "geom:longitude":-94.642578,
@@ -44,11 +49,13 @@
     "sg:website":"http://www.statementskc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +65,10 @@
     "wof:geomhash":"0036247669ee6f36d385b2286a728038",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -68,7 +76,7 @@
         }
     ],
     "wof:id":202948879,
-    "wof:lastmodified":1466520146,
+    "wof:lastmodified":1491901047,
     "wof:name":"Statements",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

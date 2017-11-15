@@ -2,14 +2,20 @@
   "id": 840753025,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 N Roosevelt St Wichita KS 67208",
+    "addr:housenumber":"124",
+    "addr:postcode":"67208",
+    "addr:street":"N Roosevelt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.292092,37.687835,-97.292092,37.687835",
     "geom:latitude":37.687835,
     "geom:longitude":-97.292092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"124 N Roosevelt St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125158243,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6krukK5waB4kKNunh1X0Oq_37.687835_-97.292092@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047171,
-    "wof:geomhash":"15ebe3f26e3008674c0404d894a6f960",
+    "wof:geomhash":"aa76021f2717f59a039ce24877411a4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840753025,
-    "wof:lastmodified":1466525106,
+    "wof:lastmodified":1510697793,
     "wof:name":"Blessed Sacrament Church",
     "wof:parent_id":85872829,
     "wof:placetype":"venue",

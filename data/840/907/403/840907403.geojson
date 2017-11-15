@@ -2,14 +2,20 @@
   "id": 840907403,
   "type": "Feature",
   "properties": {
+    "addr:full":"2815 W Pawnee St Wichita KS 67213",
+    "addr:housenumber":"2815",
+    "addr:postcode":"67213",
+    "addr:street":"W Pawnee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.374763,37.651268,-97.374763,37.651268",
     "geom:latitude":37.651268,
     "geom:longitude":-97.374763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2815 W Pawnee St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125159913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42PpxNTQJaU53yLNcc1uPH_37.651268_-97.374763@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050646,
-    "wof:geomhash":"8cd441f312f355e6f73cd2e86987cdfe",
+    "wof:geomhash":"4cba3d45ad9d98c2ebcc1ff472f7aad9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840907403,
-    "wof:lastmodified":1466528529,
+    "wof:lastmodified":1510693828,
     "wof:name":"Kinetic Concepts Inc",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

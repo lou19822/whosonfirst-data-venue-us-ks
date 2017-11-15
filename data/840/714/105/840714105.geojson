@@ -2,14 +2,20 @@
   "id": 840714105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 SE Monroe St Topeka KS 66612",
+    "addr:housenumber":"1515",
+    "addr:postcode":"66612",
+    "addr:street":"Se Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.676533,39.03709,-95.676533,39.03709",
     "geom:latitude":39.03709,
     "geom:longitude":-95.676533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 SE Monroe St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125155405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DfFfgYsZFfLPww9PHv6dR_39.037090_-95.676533@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046386,
-    "wof:geomhash":"40c95427870419d886fb75f1a94cdfc6",
+    "wof:geomhash":"ddc182bf1085e3fa92132e905ff5dbeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840714105,
-    "wof:lastmodified":1466524312,
+    "wof:lastmodified":1510695073,
     "wof:name":"National Park Svc",
     "wof:parent_id":85881553,
     "wof:placetype":"venue",

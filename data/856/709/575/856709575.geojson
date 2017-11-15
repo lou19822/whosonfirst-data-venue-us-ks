@@ -2,14 +2,20 @@
   "id": 856709575,
   "type": "Feature",
   "properties": {
+    "addr:full":"3213 N Toben St Wichita KS 67226",
+    "addr:housenumber":"3213",
+    "addr:postcode":"67226",
+    "addr:street":"N Toben St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.229795,37.7418,-97.229795,37.7418",
     "geom:latitude":37.7418,
     "geom:longitude":-97.229795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3213 N Toben St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125153581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sOBQ9rJgXCvZPXuXeNpNA_37.741800_-97.229795@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052258,
-    "wof:geomhash":"c3c86b619cae5d1d9aa4e5757d9cc41f",
+    "wof:geomhash":"ac1a53c73f43fac1b2a20be2dae50061",
     "wof:hierarchy":[
         {
             "campus_id":102526417,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856709575,
-    "wof:lastmodified":1466520077,
+    "wof:lastmodified":1510697327,
     "wof:name":"Carino's Italian Grill",
     "wof:parent_id":102526417,
     "wof:placetype":"venue",

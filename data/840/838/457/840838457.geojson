@@ -2,6 +2,10 @@
   "id": 840838457,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Hillside St Wichita KS 67211",
+    "addr:housenumber":"123",
+    "addr:postcode":"67211",
+    "addr:street":"S Hillside St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840838457,
-    "wof:lastmodified":1466527020,
+    "wof:lastmodified":1472623605,
     "wof:name":"Lytton's Appliance Showroom",
     "wof:parent_id":85872829,
     "wof:placetype":"venue",

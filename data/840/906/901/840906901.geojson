@@ -2,14 +2,20 @@
   "id": 840906901,
   "type": "Feature",
   "properties": {
+    "addr:full":"833 W 71 Ter Kansas City KS 64114",
+    "addr:housenumber":"833",
+    "addr:postcode":"64114",
+    "addr:street":"W 71 Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.600494,38.998906,-94.600494,38.998906",
     "geom:latitude":38.998906,
     "geom:longitude":-94.600494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"833 W 71 Ter",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125155215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H1Mj4BmDrjz59jOEiEZtT_38.998906_-94.600494@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050635,
-    "wof:geomhash":"a85aa96f6d1fd7ce904da89a0dd90de3",
+    "wof:geomhash":"8deb07e0d51211d5e639e22e29d3abb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840906901,
-    "wof:lastmodified":1466528552,
+    "wof:lastmodified":1510695367,
     "wof:name":"American Lung Assn",
     "wof:parent_id":85871973,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840871339,
   "type": "Feature",
   "properties": {
+    "addr:full":"572 Rd 390 Allen KS 66833",
+    "addr:housenumber":"572",
+    "addr:postcode":"66833",
+    "addr:street":"Rd 390",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.268059,38.724402,-96.268059,38.724402",
     "geom:latitude":38.724402,
     "geom:longitude":-96.268059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"572 Rd 390",
     "sg:city":"Allen",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082661,
         85805839
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D0nkyYxkCU3wH8vOjV2KG_38.724402_-96.268059@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049883,
-    "wof:geomhash":"b5a4bee7fc91074e72f7e294a9b68336",
+    "wof:geomhash":"3a0482eff7dfb0da771a0d9e1627a3ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840871339,
-    "wof:lastmodified":1466527695,
+    "wof:lastmodified":1510697719,
     "wof:name":"International Union-Oper Engrs",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",

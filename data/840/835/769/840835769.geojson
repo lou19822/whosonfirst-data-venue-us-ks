@@ -2,14 +2,20 @@
   "id": 840835769,
   "type": "Feature",
   "properties": {
+    "addr:full":"20129 W 151st St Olathe KS 66061",
+    "addr:housenumber":"20129",
+    "addr:postcode":"66061",
+    "addr:street":"W 151St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.822123,38.854543,-94.822123,38.854543",
     "geom:latitude":38.854543,
     "geom:longitude":-94.822123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20129 W 151st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420575549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CS1Tu7t3C669N6Q8lM2sy_38.854543_-94.822123@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049126,
-    "wof:geomhash":"7748e6d46c301e1a60ae7ff98f390d1f",
+    "wof:geomhash":"199c0843b9b079ca7a9fc763cf8a5c7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840835769,
-    "wof:lastmodified":1466527068,
+    "wof:lastmodified":1510602391,
     "wof:name":"Vitamin World",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

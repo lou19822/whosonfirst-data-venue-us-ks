@@ -2,14 +2,20 @@
   "id": 856706387,
   "type": "Feature",
   "properties": {
+    "addr:full":"5021 W 135th St Overland Park KS 66224",
+    "addr:housenumber":"5021",
+    "addr:postcode":"66224",
+    "addr:street":"W 135Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.64534,38.881939,-94.64534,38.881939",
     "geom:latitude":38.881939,
     "geom:longitude":-94.64534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5021 W 135th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rLef3YCOKMSCJ6IFluxv2_38.881939_-94.645340@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052194,
-    "wof:geomhash":"3e66f7eb9858cdf7a7fc07100d42b33a",
+    "wof:geomhash":"faf3154fc86e6ab47d6faa918aee0fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":856706387,
-    "wof:lastmodified":1466519930,
+    "wof:lastmodified":1510613437,
     "wof:name":"Bonefish Grill",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

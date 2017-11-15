@@ -2,14 +2,20 @@
   "id": 840902837,
   "type": "Feature",
   "properties": {
+    "addr:full":"12640 Shawnee Mission Pkwy Shawnee Mission KS 66216",
+    "addr:housenumber":"12640",
+    "addr:postcode":"66216",
+    "addr:street":"Shawnee Mission Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.732469,39.014866,-94.732469,39.014866",
     "geom:latitude":39.014866,
     "geom:longitude":-94.732469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12640 Shawnee Mission Pkwy",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d83LnjOBTt5YTSlfNlxMo_39.014866_-94.732469@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050555,
-    "wof:geomhash":"0070acfc6050d9ff1794adb0ffa958f3",
+    "wof:geomhash":"a45d101b60467bd22b0acdb514442d29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840902837,
-    "wof:lastmodified":1466528518,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",

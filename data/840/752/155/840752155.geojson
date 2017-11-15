@@ -2,14 +2,20 @@
   "id": 840752155,
   "type": "Feature",
   "properties": {
+    "addr:full":"10542 Lackman Rd Lenexa KS 66219",
+    "addr:housenumber":"",
+    "addr:postcode":"10542;66219",
+    "addr:street":"Lackman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.76089,38.937312,-94.76089,38.937312",
     "geom:latitude":38.937312,
     "geom:longitude":-94.76089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10542 Lackman Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125156727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZcyiakBLPWAqOlL6zamUw_38.937312_-94.760890@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047150,
-    "wof:geomhash":"ae954e8ffe5547a371ea0eb12946f4c2",
+    "wof:geomhash":"321fab45039f4ea92f227f205626d784",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840752155,
-    "wof:lastmodified":1466525121,
+    "wof:lastmodified":1510699518,
     "wof:name":"Diebold Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

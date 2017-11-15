@@ -2,6 +2,10 @@
   "id": 840609823,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Ohio St Wichita KS 67214",
+    "addr:housenumber":"345",
+    "addr:postcode":"67214",
+    "addr:street":"Ohio St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840609823,
-    "wof:lastmodified":1466522184,
+    "wof:lastmodified":1472623383,
     "wof:name":"Mc Clelland Sound Inc",
     "wof:parent_id":85872805,
     "wof:placetype":"venue",

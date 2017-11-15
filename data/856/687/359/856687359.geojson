@@ -2,14 +2,20 @@
   "id": 856687359,
   "type": "Feature",
   "properties": {
+    "addr:full":"12850 Kansas Ave Bonner Springs KS 66012",
+    "addr:housenumber":"12850",
+    "addr:postcode":"66012",
+    "addr:street":"Kansas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.876778,39.087167,-94.876778,39.087167",
     "geom:latitude":39.087167,
     "geom:longitude":-94.876778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12850 Kansas Ave",
     "sg:city":"Bonner Springs",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125156999,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CIPhqDxMgYhgPZtn5aBSF_39.087167_-94.876778@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051809,
-    "wof:geomhash":"902605f3aae01455d2d9378c720d0e73",
+    "wof:geomhash":"91985154f887382d665c1ab1a7bf0fb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856687359,
-    "wof:lastmodified":1466519441,
+    "wof:lastmodified":1510697506,
     "wof:name":"Landmark Baptist Church",
     "wof:parent_id":85878489,
     "wof:placetype":"venue",

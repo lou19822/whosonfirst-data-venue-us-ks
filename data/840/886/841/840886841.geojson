@@ -2,14 +2,20 @@
   "id": 840886841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Douglas Rd El Dorado KS 67042",
+    "addr:housenumber":"1401",
+    "addr:postcode":"67042",
+    "addr:street":"Douglas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.866706,37.801771,-96.866706,37.801771",
     "geom:latitude":37.801771,
     "geom:longitude":-96.866706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Douglas Rd",
     "sg:city":"El Dorado",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85851529,
         102082695
     ],
+    "wof:brand_id":420575521,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ULFkCYJwTSk8aPuJyJHkG_37.801771_-96.866706@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050217,
-    "wof:geomhash":"dc3b8f439aaea11ad13343bcbfeb0411",
+    "wof:geomhash":"e15c1a3a415afe90be45ebc440b55a7b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840886841,
-    "wof:lastmodified":1466528110,
+    "wof:lastmodified":1510602439,
     "wof:name":"Praxair",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840840537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 S Broadway Ave Wichita KS 67211",
+    "addr:housenumber":"1315",
+    "addr:postcode":"67211",
+    "addr:street":"S Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.335592,37.668184,-97.335592,37.668184",
     "geom:latitude":37.668184,
     "geom:longitude":-97.335592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1315 S Broadway Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125157569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5shTLAqEUmaeXsI1tt9VsR_37.668184_-97.335592@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049230,
-    "wof:geomhash":"cf31fdabae2aebe135b8233f45d368a6",
+    "wof:geomhash":"ad7b2853460f9fa7b496d3494df8c073",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840840537,
-    "wof:lastmodified":1466527081,
+    "wof:lastmodified":1510699304,
     "wof:name":"Budget Motel",
     "wof:parent_id":85872835,
     "wof:placetype":"venue",

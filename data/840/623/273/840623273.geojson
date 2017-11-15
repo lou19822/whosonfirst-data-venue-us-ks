@@ -2,14 +2,20 @@
   "id": 840623273,
   "type": "Feature",
   "properties": {
+    "addr:full":"3804 W Maple St Wichita KS 67213",
+    "addr:housenumber":"3804",
+    "addr:postcode":"67213",
+    "addr:street":"W Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.388094,37.680382,-97.388094,37.680382",
     "geom:latitude":37.680382,
     "geom:longitude":-97.388094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3804 W Maple St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g7VUWoZQKZCfPIIi4itW3_37.680382_-97.388094@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044246,
-    "wof:geomhash":"8bc94cd69537f50b35c166152e4397a7",
+    "wof:geomhash":"511bbc713e065928e6e9b6d84cbd4d98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840623273,
-    "wof:lastmodified":1466522326,
+    "wof:lastmodified":1510694980,
     "wof:name":"Shear Madness",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",

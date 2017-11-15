@@ -2,14 +2,20 @@
   "id": 856705655,
   "type": "Feature",
   "properties": {
+    "addr:full":"10428 Metcalf Ave Overland Park KS 66212",
+    "addr:housenumber":"10428",
+    "addr:postcode":"66212",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.667681,38.939094,-94.667681,38.939094",
     "geom:latitude":38.939094,
     "geom:longitude":-94.667681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10428 Metcalf Ave",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125159261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LMVyHGF95nhJ9CyO14hPR_38.939094_-94.667681@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052180,
-    "wof:geomhash":"e32cf4f833e3ca26c5f30b54750bf67d",
+    "wof:geomhash":"9faef62c92fcd78092d2fa84e2fe4b0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":856705655,
-    "wof:lastmodified":1466519980,
+    "wof:lastmodified":1510699645,
     "wof:name":"Fox and Hound",
     "wof:parent_id":85879547,
     "wof:placetype":"venue",

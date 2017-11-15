@@ -2,9 +2,14 @@
   "id": 202948561,
   "type": "Feature",
   "properties": {
+    "addr:full":"5701 W 119th St Leawood KS 66209",
+    "addr:housenumber":"5701",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.652267,38.912849,-94.652267,38.912849",
     "geom:latitude":38.912849,
     "geom:longitude":-94.652267,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +55,10 @@
     "wof:geomhash":"c23ac811a2cef4226bede7c831695c49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":202948561,
-    "wof:lastmodified":1466520136,
+    "wof:lastmodified":1491901014,
     "wof:name":"Aasha Surgical",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840868945,
   "type": "Feature",
   "properties": {
+    "addr:full":"12264 Shawnee Mission Pkwy Shawnee KS 66216",
+    "addr:housenumber":"12264",
+    "addr:postcode":"66216",
+    "addr:street":"Shawnee Mission Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.727211,39.014833,-94.727211,39.014833",
     "geom:latitude":39.014833,
     "geom:longitude":-94.727211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12264 Shawnee Mission Pkwy",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XkHUD8Ilm00idoJSJZH6G_39.014833_-94.727211@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049834,
-    "wof:geomhash":"470c99e0e767e47c3bdbd678be673002",
+    "wof:geomhash":"361062ace6f1d8ae56ec64a3f59c7321",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840868945,
-    "wof:lastmodified":1466527778,
+    "wof:lastmodified":1510699574,
     "wof:name":"Pretty Nails",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",

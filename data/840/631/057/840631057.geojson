@@ -2,6 +2,10 @@
   "id": 840631057,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 S 42 St Kansas City KS 66106",
+    "addr:housenumber":"336;42",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840631057,
-    "wof:lastmodified":1466522460,
+    "wof:lastmodified":1472623398,
     "wof:name":"Glen-Gery Brick",
     "wof:parent_id":85878507,
     "wof:placetype":"venue",

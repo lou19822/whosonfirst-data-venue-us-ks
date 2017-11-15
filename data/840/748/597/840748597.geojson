@@ -2,14 +2,20 @@
   "id": 840748597,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Lourel Dr Wichita KS 67206",
+    "addr:housenumber":"33",
+    "addr:postcode":"67206",
+    "addr:street":"Lourel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.229294,37.690345,-97.229294,37.690345",
     "geom:latitude":37.690345,
     "geom:longitude":-97.229294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33 Lourel Dr",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125156317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AUYtAAMpkHkE8itKA6QqD_37.690345_-97.229294@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047062,
-    "wof:geomhash":"5af2b8d7e5a6ca90cfec1cfea0a539fa",
+    "wof:geomhash":"48fcfdabb84e93385fb522b1f765d458",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840748597,
-    "wof:lastmodified":1466525146,
+    "wof:lastmodified":1510693711,
     "wof:name":"United American Insurance Co",
     "wof:parent_id":85819881,
     "wof:placetype":"venue",

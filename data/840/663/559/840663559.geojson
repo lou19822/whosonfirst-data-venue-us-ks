@@ -2,6 +2,10 @@
   "id": 840663559,
   "type": "Feature",
   "properties": {
+    "addr:full":"2210 N 8 St Kansas City KS 66101",
+    "addr:housenumber":"2210;8",
+    "addr:postcode":"66101",
+    "addr:street":"N;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840663559,
-    "wof:lastmodified":1466523239,
+    "wof:lastmodified":1472623433,
     "wof:name":"Evangelistic Center Office",
     "wof:parent_id":85878501,
     "wof:placetype":"venue",

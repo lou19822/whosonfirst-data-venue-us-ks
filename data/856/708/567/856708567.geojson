@@ -2,14 +2,20 @@
   "id": 856708567,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 N Rock Rd Wichita KS 67206",
+    "addr:housenumber":"306",
+    "addr:postcode":"67206",
+    "addr:street":"N Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.243713,37.690585,-97.243713,37.690585",
     "geom:latitude":37.690585,
     "geom:longitude":-97.243713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"306 N Rock Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xwOYHVaPGFvOnyDG5jE8v_37.690585_-97.243713@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052239,
-    "wof:geomhash":"fc296ab022e77d67487607f46bb8f53f",
+    "wof:geomhash":"0694da06b2acd704ef841b3e7eb6f541",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":856708567,
-    "wof:lastmodified":1466520045,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85819881,
     "wof:placetype":"venue",

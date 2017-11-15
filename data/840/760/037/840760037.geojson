@@ -2,14 +2,20 @@
   "id": 840760037,
   "type": "Feature",
   "properties": {
+    "addr:full":"5016 W 119th St Leawood KS 66209",
+    "addr:housenumber":"5016",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.64276,38.91299,-94.64276,38.91299",
     "geom:latitude":38.91299,
     "geom:longitude":-94.64276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5016 W 119th St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125153597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OlNaqov2wMofkMdva6t8C_38.912990_-94.642760@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047341,
-    "wof:geomhash":"77ad2547c873c8d50ce69293269eb2eb",
+    "wof:geomhash":"25b4bf3d8eed9c0ee0190a8c42bd07bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840760037,
-    "wof:lastmodified":1466525247,
+    "wof:lastmodified":1510695769,
     "wof:name":"Express Mens",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

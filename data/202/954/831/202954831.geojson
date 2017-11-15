@@ -2,9 +2,14 @@
   "id": 202954831,
   "type": "Feature",
   "properties": {
+    "addr:full":"4745 West 136th St. Suite 11 Leawood KS 66224",
+    "addr:housenumber":"4745;11",
+    "addr:postcode":"66224",
+    "addr:street":"West 136Th St. Suite",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.640637,38.882484,-94.640637,38.882484",
     "geom:latitude":38.882484,
     "geom:longitude":-94.640637,
@@ -35,11 +40,13 @@
     "sg:website":"http://www.murphyfencing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"b644a92a83214a3d5acd9950f84b224b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":202954831,
-    "wof:lastmodified":1466520192,
+    "wof:lastmodified":1491901040,
     "wof:name":"Murphy Fencing, LLC",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

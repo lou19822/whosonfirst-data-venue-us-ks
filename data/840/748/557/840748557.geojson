@@ -2,14 +2,20 @@
   "id": 840748557,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 W Listerscheid St Olpe KS 66865",
+    "addr:housenumber":"4",
+    "addr:postcode":"66865",
+    "addr:street":"W Listerscheid St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.167648,38.263489,-96.167648,38.263489",
     "geom:latitude":38.263489,
     "geom:longitude":-96.167648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 W Listerscheid St",
     "sg:city":"Olpe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082661,
         85818077
     ],
+    "wof:brand_id":420575587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qEi6RcX8k8vg7AL7bMobh_38.263489_-96.167648@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047061,
-    "wof:geomhash":"9ee04354f51b35a5bb2ba80d6362c8d9",
+    "wof:geomhash":"6e55bd34782a2074802e2b6e1edbb8f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840748557,
-    "wof:lastmodified":1466525125,
+    "wof:lastmodified":1510602891,
     "wof:name":"Revenue Dept",
     "wof:parent_id":85818077,
     "wof:placetype":"venue",

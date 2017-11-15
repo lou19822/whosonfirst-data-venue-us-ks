@@ -2,14 +2,20 @@
   "id": 840696755,
   "type": "Feature",
   "properties": {
+    "addr:full":"8703 Shawnee Mission Pkwy Shawnee Mission KS 66202",
+    "addr:housenumber":"8703",
+    "addr:postcode":"66202",
+    "addr:street":"Shawnee Mission Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.688013,39.014877,-94.688013,39.014877",
     "geom:latitude":39.014877,
     "geom:longitude":-94.688013,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8703 Shawnee Mission Pkwy",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nkIApS3L2PwVXzEuimGuZ_39.014877_-94.688013@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045989,
-    "wof:geomhash":"eec0c041d969e7948eae6c8902ea2472",
+    "wof:geomhash":"76d4dddf717206865fe340edba5677d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840696755,
-    "wof:lastmodified":1466524057,
+    "wof:lastmodified":1510700004,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",

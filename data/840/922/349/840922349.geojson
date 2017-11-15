@@ -2,14 +2,20 @@
   "id": 840922349,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 N Water St Olathe KS 66061",
+    "addr:housenumber":"114",
+    "addr:postcode":"66061",
+    "addr:street":"N Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.817003,38.883317,-94.817003,38.883317",
     "geom:latitude":38.883317,
     "geom:longitude":-94.817003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"114 N Water St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yQUDNzcX0GNnEBinJjsne_38.883317_-94.817003@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051069,
-    "wof:geomhash":"35f9b43b7289a06ffe3d31ec076fe923",
+    "wof:geomhash":"ef5c113a5ae628e1e496ba56805e6ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840922349,
-    "wof:lastmodified":1466528852,
+    "wof:lastmodified":1510699013,
     "wof:name":"Learning Express",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840816015,
   "type": "Feature",
   "properties": {
+    "addr:full":"3629 W 30th St S Wichita KS 67217",
+    "addr:housenumber":"3629",
+    "addr:postcode":"67217",
+    "addr:street":"W 30Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.38678,37.638898,-97.38678,37.638898",
     "geom:latitude":37.638898,
     "geom:longitude":-97.38678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3629 W 30th St S",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125157769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eh27QRrTzKAgtL6UMSyer_37.638898_-97.386780@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048637,
-    "wof:geomhash":"0fcc3917fcfa623c23746d4012700de8",
+    "wof:geomhash":"e98a85513f9cbf98ea8971648bf13777",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840816015,
-    "wof:lastmodified":1466526415,
+    "wof:lastmodified":1510698750,
     "wof:name":"Anderson News Co",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202949659,
   "type": "Feature",
   "properties": {
+    "addr:full":"5201 College Blvd Suite 280 Leawood KS 66211",
+    "addr:housenumber":"5201",
+    "addr:postcode":"66211",
+    "addr:street":"College Blvd Suite 280",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.645592,38.927415,-94.645592,38.927415",
     "geom:latitude":38.927415,
     "geom:longitude":-94.645592,
@@ -34,11 +39,13 @@
     "sg:website":"http://www.nowyouhavechoices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +55,10 @@
     "wof:geomhash":"87c95d8b0554efc0aaed780e84deb2c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":202949659,
-    "wof:lastmodified":1466520150,
+    "wof:lastmodified":1491901017,
     "wof:name":"Dental Implant Diagnostic and Treatment Center",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

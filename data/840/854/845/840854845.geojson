@@ -2,14 +2,20 @@
   "id": 840854845,
   "type": "Feature",
   "properties": {
+    "addr:full":"835 SW Fairlawn Rd Topeka KS 66606",
+    "addr:housenumber":"835",
+    "addr:postcode":"66606",
+    "addr:street":"Sw Fairlawn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.743275,39.053524,-95.743275,39.053524",
     "geom:latitude":39.053524,
     "geom:longitude":-95.743275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"835 SW Fairlawn Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125153371,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pfrw9Lmgyu2XJXNgQKRRv_39.053524_-95.743275@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049543,
-    "wof:geomhash":"041f2f37b98ad9a2f3fed4ebe8ea6c58",
+    "wof:geomhash":"9ccc6f8ca3856eaafde1e1a84bb4934e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840854845,
-    "wof:lastmodified":1466527425,
+    "wof:lastmodified":1510699525,
     "wof:name":"Crown Trophy",
     "wof:parent_id":85881539,
     "wof:placetype":"venue",

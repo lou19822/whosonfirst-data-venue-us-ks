@@ -2,6 +2,10 @@
   "id": 840640565,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 N Mead St Wichita KS 67219",
+    "addr:housenumber":"3333",
+    "addr:postcode":"67219",
+    "addr:street":"N Mead St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840640565,
-    "wof:lastmodified":1466522819,
+    "wof:lastmodified":1472623411,
     "wof:name":"Underground Vaults & Storage",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",

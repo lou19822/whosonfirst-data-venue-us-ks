@@ -2,6 +2,10 @@
   "id": 840818013,
   "type": "Feature",
   "properties": {
+    "addr:full":"2720 S 34 St Kansas City KS 66106",
+    "addr:housenumber":"2720;34",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840818013,
-    "wof:lastmodified":1466526498,
+    "wof:lastmodified":1472623578,
     "wof:name":"Pringle Auto Body & Sales Inc",
     "wof:parent_id":85803445,
     "wof:placetype":"venue",

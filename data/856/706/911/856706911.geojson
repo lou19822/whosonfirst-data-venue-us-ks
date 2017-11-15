@@ -2,14 +2,20 @@
   "id": 856706911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 SW Wanamaker Rd Topeka KS 66604",
+    "addr:housenumber":"1700",
+    "addr:postcode":"66604",
+    "addr:street":"Sw Wanamaker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.761885,39.036388,-95.761885,39.036388",
     "geom:latitude":39.036388,
     "geom:longitude":-95.761885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 SW Wanamaker Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125150837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i3CQfXYEItsfPeMKgKJ1B_39.036388_-95.761885@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052205,
-    "wof:geomhash":"4eec39d8694b1e5ef1f9aca4b6bfb70c",
+    "wof:geomhash":"70b099a53f5da261911d87725175f523",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856706911,
-    "wof:lastmodified":1466520083,
+    "wof:lastmodified":1510695416,
     "wof:name":"Maggie Moo's",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

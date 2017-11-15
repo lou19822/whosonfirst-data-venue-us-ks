@@ -2,14 +2,20 @@
   "id": 856706111,
   "type": "Feature",
   "properties": {
+    "addr:full":"9542 Lackman Rd Lenexa KS 66219",
+    "addr:housenumber":"9542",
+    "addr:postcode":"66219",
+    "addr:street":"Lackman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.760991,38.955765,-94.760991,38.955765",
     "geom:latitude":38.955765,
     "geom:longitude":-94.760991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9542 Lackman Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wlR8YZ1D9Z3Mx9F1DQjvH_38.955765_-94.760991@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052188,
-    "wof:geomhash":"a5443a6279e510ab4eb6319bd504f0dd",
+    "wof:geomhash":"b7a8dfcbd65c11b9d55f50dc154d7157",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856706111,
-    "wof:lastmodified":1466519861,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

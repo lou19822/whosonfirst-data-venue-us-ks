@@ -2,14 +2,20 @@
   "id": 840793813,
   "type": "Feature",
   "properties": {
+    "addr:full":"20140 W 151st St Olathe KS 66061",
+    "addr:housenumber":"20140",
+    "addr:postcode":"66061",
+    "addr:street":"W 151St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.822105,38.854693,-94.822105,38.854693",
     "geom:latitude":38.854693,
     "geom:longitude":-94.822105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20140 W 151st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150185,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7heA8G9edRoHZRUoVFT808_38.854693_-94.822105@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048056,
-    "wof:geomhash":"b714a8657fd60dfd0320e76f4f75888c",
+    "wof:geomhash":"ea809ee417c831ea53ea8efbba90c772",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840793813,
-    "wof:lastmodified":1466526183,
+    "wof:lastmodified":1510697299,
     "wof:name":"Claire's Accessories",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

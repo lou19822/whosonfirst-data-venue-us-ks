@@ -2,9 +2,14 @@
   "id": 202949443,
   "type": "Feature",
   "properties": {
+    "addr:full":"10977 Granada Ln Leawood KS 66211",
+    "addr:housenumber":"",
+    "addr:postcode":"10977;66211",
+    "addr:street":"Granada Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.637903,38.930114,-94.637903,38.930114",
     "geom:latitude":38.930114,
     "geom:longitude":-94.637903,
@@ -52,11 +57,13 @@
     "sg:website":"http://www.seniorcarekc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,9 +73,10 @@
     "wof:geomhash":"d24fa98636fef3800f9bda8027f5a335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -76,7 +84,7 @@
         }
     ],
     "wof:id":202949443,
-    "wof:lastmodified":1466520139,
+    "wof:lastmodified":1491901042,
     "wof:name":"Right at Home",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

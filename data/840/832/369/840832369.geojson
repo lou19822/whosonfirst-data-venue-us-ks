@@ -2,6 +2,10 @@
   "id": 840832369,
   "type": "Feature",
   "properties": {
+    "addr:full":"1615 E 18 St Kansas City KS 64108",
+    "addr:housenumber":"1615;18",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840832369,
-    "wof:lastmodified":1466526895,
+    "wof:lastmodified":1472623597,
     "wof:name":"American Jazz Music At KC",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

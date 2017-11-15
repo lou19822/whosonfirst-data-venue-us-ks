@@ -2,14 +2,20 @@
   "id": 856704363,
   "type": "Feature",
   "properties": {
+    "addr:full":"2133 E 151st St Olathe KS 66062",
+    "addr:housenumber":"2133",
+    "addr:postcode":"66062",
+    "addr:street":"E 151St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.780126,38.85376,-94.780126,38.85376",
     "geom:latitude":38.85376,
     "geom:longitude":-94.780126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2133 E 151st St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85835339
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ht4QacM3JmufAy9JYPwcV_38.853760_-94.780126@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052157,
-    "wof:geomhash":"c0d8d6f89f0f5ba531eff64a0df1eb51",
+    "wof:geomhash":"aeafb058978b8b4c552f9658608d1374",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856704363,
-    "wof:lastmodified":1466519875,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",

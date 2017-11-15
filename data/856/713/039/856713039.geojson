@@ -2,6 +2,10 @@
   "id": 856713039,
   "type": "Feature",
   "properties": {
+    "addr:full":"7500 College Blvd. Suite 500 Overland Park KS 66210",
+    "addr:housenumber":"7500",
+    "addr:postcode":"66210",
+    "addr:street":"College Blvd. Suite 500;Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":856713039,
-    "wof:lastmodified":1466520127,
+    "wof:lastmodified":1472623331,
     "wof:name":"InterWorks",
     "wof:parent_id":85879547,
     "wof:placetype":"venue",

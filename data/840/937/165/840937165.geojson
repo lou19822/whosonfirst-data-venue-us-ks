@@ -2,14 +2,20 @@
   "id": 840937165,
   "type": "Feature",
   "properties": {
+    "addr:full":"3441 E Funston St Wichita KS 67218",
+    "addr:housenumber":"3441",
+    "addr:postcode":"67218",
+    "addr:street":"E Funston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.296207,37.660461,-97.296207,37.660461",
     "geom:latitude":37.660461,
     "geom:longitude":-97.296207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3441 E Funston St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":1125150001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LwAGESeaupiEQXw9ayGtg_37.660461_-97.296207@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051394,
-    "wof:geomhash":"d91ecfc6018ba9902a31236eb0d31cbb",
+    "wof:geomhash":"b503a1d1b80e0ce70cc1e1aef0afad65",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840937165,
-    "wof:lastmodified":1466529228,
+    "wof:lastmodified":1510698740,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

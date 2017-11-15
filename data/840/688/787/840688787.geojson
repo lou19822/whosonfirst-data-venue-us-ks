@@ -2,6 +2,10 @@
   "id": 840688787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1147 S 14 St Kansas City KS 66105",
+    "addr:housenumber":"1147;14",
+    "addr:postcode":"66105",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840688787,
-    "wof:lastmodified":1466523820,
+    "wof:lastmodified":1472623465,
     "wof:name":"Kansas City Railcar Svc",
     "wof:parent_id":85878487,
     "wof:placetype":"venue",

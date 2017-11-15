@@ -2,6 +2,10 @@
   "id": 840647661,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 N Mc Lean Blvd Wichita KS 67203",
+    "addr:housenumber":"555",
+    "addr:postcode":"67203",
+    "addr:street":"N Mc Lean Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840647661,
-    "wof:lastmodified":1466523005,
+    "wof:lastmodified":1472623424,
     "wof:name":"Matt Dopps MD",
     "wof:parent_id":85872833,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840774327,
   "type": "Feature",
   "properties": {
+    "addr:full":"2658 S Exchange St Wichita KS 67217",
+    "addr:housenumber":"2658",
+    "addr:postcode":"67217",
+    "addr:street":"S Exchange St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.344583,37.646496,-97.344583,37.646496",
     "geom:latitude":37.646496,
     "geom:longitude":-97.344583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2658 S Exchange St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZdNegJwFIeavSqNrVoAdh_37.646496_-97.344583@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047655,
-    "wof:geomhash":"1088540cdf92c7af3283a68895030f20",
+    "wof:geomhash":"f8033e80b95a7e8c596da1860fc6bbb4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840774327,
-    "wof:lastmodified":1466525657,
+    "wof:lastmodified":1510694183,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

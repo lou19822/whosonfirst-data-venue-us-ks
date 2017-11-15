@@ -2,6 +2,10 @@
   "id": 840559525,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 W Kellogg Dr Wichita KS 67209",
+    "addr:housenumber":"4600",
+    "addr:postcode":"67209",
+    "addr:street":"W Kellogg Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":840559525,
-    "wof:lastmodified":1466521026,
+    "wof:lastmodified":1472623311,
     "wof:name":"Wichita Police Dept",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

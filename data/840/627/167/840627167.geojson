@@ -2,14 +2,20 @@
   "id": 840627167,
   "type": "Feature",
   "properties": {
+    "addr:full":"8740 Lackman Rd Lenexa KS 66219",
+    "addr:housenumber":"",
+    "addr:postcode":"8740;66219",
+    "addr:street":"Lackman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.761052,38.970199,-94.761052,38.970199",
     "geom:latitude":38.970199,
     "geom:longitude":-94.761052,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8740 Lackman Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125158383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37qolmuIw6c9t6Gk8mDeLj_38.970199_-94.761052@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044359,
-    "wof:geomhash":"bb376a293608864868ce7259ea1c0b1f",
+    "wof:geomhash":"2795fad0f16df7b510f61ea6e3e25d20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840627167,
-    "wof:lastmodified":1466522420,
+    "wof:lastmodified":1510699779,
     "wof:name":"Pride Stanley & Executive",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

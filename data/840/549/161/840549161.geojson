@@ -2,14 +2,20 @@
   "id": 840549161,
   "type": "Feature",
   "properties": {
+    "addr:full":"5720 SW 21st St Topeka KS 66604",
+    "addr:housenumber":"5720",
+    "addr:postcode":"66604",
+    "addr:street":"Sw 21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.752438,39.029264,-95.752438,39.029264",
     "geom:latitude":39.029264,
     "geom:longitude":-95.752438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5720 SW 21st St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125159225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gaViOSdLmIGUNSqf7YzLw_39.029264_-95.752438@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464042490,
-    "wof:geomhash":"da3f397cc60859b77aa653ec944ad95c",
+    "wof:geomhash":"b11568d4888272a35f1ffae3fc8681db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840549161,
-    "wof:lastmodified":1466520714,
+    "wof:lastmodified":1510699528,
     "wof:name":"Dillon Store",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

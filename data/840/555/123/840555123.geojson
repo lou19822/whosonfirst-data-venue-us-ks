@@ -2,6 +2,10 @@
   "id": 840555123,
   "type": "Feature",
   "properties": {
+    "addr:full":"13630 W 87th Street Pkwy Lenexa KS 66215",
+    "addr:housenumber":"13630",
+    "addr:postcode":"66215",
+    "addr:street":"W 87Th Street Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":840555123,
-    "wof:lastmodified":1466520844,
+    "wof:lastmodified":1472623292,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

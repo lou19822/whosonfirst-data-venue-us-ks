@@ -2,9 +2,14 @@
   "id": 202947987,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 W 120th Pl Leawood KS 66209",
+    "addr:housenumber":"5000",
+    "addr:postcode":"66209",
+    "addr:street":"W 120Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.64296,38.910568,-94.64296,38.910568",
     "geom:latitude":38.910568,
     "geom:longitude":-94.64296,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"4d255a1634f10f50353362a770ce02ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":202947987,
-    "wof:lastmodified":1466520128,
+    "wof:lastmodified":1491901022,
     "wof:name":"Window Dresser",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

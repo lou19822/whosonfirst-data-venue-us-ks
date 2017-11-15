@@ -2,14 +2,20 @@
   "id": 840599799,
   "type": "Feature",
   "properties": {
+    "addr:full":"532 N 8th St Towanda KS 67144",
+    "addr:housenumber":"532",
+    "addr:postcode":"67144",
+    "addr:street":"N 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.995823,37.802283,-96.995823,37.802283",
     "geom:latitude":37.802283,
     "geom:longitude":-96.995823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"532 N 8th St",
     "sg:city":"Towanda",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85851529,
         102082695
     ],
+    "wof:brand_id":1125154529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I53zeAWCnLQsjEsPgrwLf_37.802283_-96.995823@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043655,
-    "wof:geomhash":"24e19dec8e67eed801e771479d8e59e2",
+    "wof:geomhash":"dbe92d8dceef533237deae90509d10f1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840599799,
-    "wof:lastmodified":1466521923,
+    "wof:lastmodified":1510695740,
     "wof:name":"Fairview Baptist Church",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",

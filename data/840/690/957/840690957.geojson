@@ -2,14 +2,20 @@
   "id": 840690957,
   "type": "Feature",
   "properties": {
+    "addr:full":"8110 E 32nd St N Wichita KS 67226",
+    "addr:housenumber":"8110",
+    "addr:postcode":"67226",
+    "addr:street":"E 32Nd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.242342,37.742717,-97.242342,37.742717",
     "geom:latitude":37.742717,
     "geom:longitude":-97.242342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8110 E 32nd St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125154649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IBtEQCewnqAzm8ys1WMQe_37.742717_-97.242342@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045835,
-    "wof:geomhash":"0174e6d191054af73892aef621c5bd2a",
+    "wof:geomhash":"d40ac864934ee10505d4be053ee23180",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840690957,
-    "wof:lastmodified":1466523993,
+    "wof:lastmodified":1510699364,
     "wof:name":"Hewlett-Packard Co",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",

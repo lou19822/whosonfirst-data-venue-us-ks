@@ -2,6 +2,10 @@
   "id": 840558151,
   "type": "Feature",
   "properties": {
+    "addr:full":"434 S West St Wichita KS 67213",
+    "addr:housenumber":"434",
+    "addr:postcode":"west;67213",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":840558151,
-    "wof:lastmodified":1466520951,
+    "wof:lastmodified":1472623302,
     "wof:name":"Hollywood Video",
     "wof:parent_id":85872823,
     "wof:placetype":"venue",

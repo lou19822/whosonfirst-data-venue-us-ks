@@ -2,14 +2,20 @@
   "id": 840669863,
   "type": "Feature",
   "properties": {
+    "addr:full":"13815 W 78th St Shawnee Mission KS 66216",
+    "addr:housenumber":"13815",
+    "addr:postcode":"66216",
+    "addr:street":"W 78Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.745985,38.98793,-94.745985,38.98793",
     "geom:latitude":38.98793,
     "geom:longitude":-94.745985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13815 W 78th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125153949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZXRa34DfSNlY18O4X1aNc_38.987930_-94.745985@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045306,
-    "wof:geomhash":"a4fee1a863e91be4389403ab143b86d0",
+    "wof:geomhash":"127fd4305a5ae42e0204baa82b607b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840669863,
-    "wof:lastmodified":1466523479,
+    "wof:lastmodified":1510695232,
     "wof:name":"Decorating Den Interiors",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

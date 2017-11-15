@@ -2,14 +2,20 @@
   "id": 840796721,
   "type": "Feature",
   "properties": {
+    "addr:full":"2142 S Tyler Rd Wichita KS 67209",
+    "addr:housenumber":"2142",
+    "addr:postcode":"67209",
+    "addr:street":"S Tyler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.443746,37.659331,-97.443746,37.659331",
     "geom:latitude":37.659331,
     "geom:longitude":-97.443746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2142 S Tyler Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125157919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QntQ6RGRx4XhVVFWfs61O_37.659331_-97.443746@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048114,
-    "wof:geomhash":"4c7dc01aaaf8e544e0bd158b32fe09aa",
+    "wof:geomhash":"c6c7b61b1ff4db2335b4935b67276f6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840796721,
-    "wof:lastmodified":1466526220,
+    "wof:lastmodified":1510697542,
     "wof:name":"National Weather Svc",
     "wof:parent_id":85852945,
     "wof:placetype":"venue",

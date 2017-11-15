@@ -2,14 +2,20 @@
   "id": 840706205,
   "type": "Feature",
   "properties": {
+    "addr:full":"7900 Country Club Dr Shawnee Mission KS 66212",
+    "addr:housenumber":"7900",
+    "addr:postcode":"66212",
+    "addr:street":"Country Club Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.677529,38.934837,-94.677529,38.934837",
     "geom:latitude":38.934837,
     "geom:longitude":-94.677529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7900 Country Club Dr",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":420574901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jPXdIKdtMxJkPIJw2lVyh_38.934837_-94.677529@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046227,
-    "wof:geomhash":"05aad5b3e71caec6b37f3779a3b9b9de",
+    "wof:geomhash":"f6f8b41ff73ce144ca19911e3db3fad9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840706205,
-    "wof:lastmodified":1466524149,
+    "wof:lastmodified":1510604240,
     "wof:name":"Comfort Keepers",
     "wof:parent_id":85879547,
     "wof:placetype":"venue",

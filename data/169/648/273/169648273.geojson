@@ -2,14 +2,20 @@
   "id": 169648273,
   "type": "Feature",
   "properties": {
+    "addr:full":"8015 Lenexa Dr Shawnee Mission KS 66214",
+    "addr:housenumber":"8015",
+    "addr:postcode":"66214",
+    "addr:street":"Lenexa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.709669,38.979921,-94.709669,38.979921",
     "geom:latitude":38.979921,
     "geom:longitude":-94.709669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8015 Lenexa Dr",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082673,
         85879569
     ],
+    "wof:brand_id":1125152471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LhFLrmNmRwflviJvOgIpn_38.979921_-94.709669@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"88321867b6e55e795b7741a647ea1b8c",
+    "wof:geomhash":"d7fe42f05f9113088a25766b2f699841",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":169648273,
-    "wof:lastmodified":1466520353,
+    "wof:lastmodified":1510696665,
     "wof:name":"Extended Stay America",
     "wof:parent_id":85879569,
     "wof:placetype":"venue",

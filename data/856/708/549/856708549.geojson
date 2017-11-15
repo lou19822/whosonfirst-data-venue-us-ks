@@ -2,14 +2,20 @@
   "id": 856708549,
   "type": "Feature",
   "properties": {
+    "addr:full":"10250 E 13th St N Wichita KS 67206",
+    "addr:housenumber":"10250",
+    "addr:postcode":"67206",
+    "addr:street":"E 13Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.217816,37.708442,-97.217816,37.708442",
     "geom:latitude":37.708442,
     "geom:longitude":-97.217816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10250 E 13th St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125150821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a3EBFkidFA6ZE5b6EJszF_37.708442_-97.217816@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052239,
-    "wof:geomhash":"c249e694cff3ffa68f492600c4388bfd",
+    "wof:geomhash":"d1052dd373791276a715c04feb12fd78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":856708549,
-    "wof:lastmodified":1466520039,
+    "wof:lastmodified":1510613438,
     "wof:name":"Bonefish Grill",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840883397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 E Old 56 Hwy Olathe KS 66061",
+    "addr:housenumber":"1125;56",
+    "addr:postcode":"66061",
+    "addr:street":"E Old;Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":840883397,
-    "wof:lastmodified":1466527970,
+    "wof:lastmodified":1472623647,
     "wof:name":"Hooper Holmes Portamedic",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

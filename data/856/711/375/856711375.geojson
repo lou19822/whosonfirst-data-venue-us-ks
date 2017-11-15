@@ -2,14 +2,20 @@
   "id": 856711375,
   "type": "Feature",
   "properties": {
+    "addr:full":"7805 Quivira Rd Shawnee KS 66216",
+    "addr:housenumber":"7805",
+    "addr:postcode":"66216",
+    "addr:street":"Quivira Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.723072,38.986649,-94.723072,38.986649",
     "geom:latitude":38.986649,
     "geom:longitude":-94.723072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7805 Quivira Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125159393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KzEvPlSAIZqNntXoZcUy4_38.986357_-94.723596@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464052293,
-    "wof:geomhash":"2cb8f5e0233b9020c6184b78c93f9dbd",
+    "wof:geomhash":"9e377c8c646381c682fc61c1eda9fc56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":856711375,
-    "wof:lastmodified":1466520092,
+    "wof:lastmodified":1510604926,
     "wof:name":"Taste of China",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

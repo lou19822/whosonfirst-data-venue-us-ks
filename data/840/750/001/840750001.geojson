@@ -2,6 +2,10 @@
   "id": 840750001,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 NW Lyman Rd Topeka KS 66608",
+    "addr:housenumber":"111",
+    "addr:postcode":"66608",
+    "addr:street":"Nw Lyman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840750001,
-    "wof:lastmodified":1466529938,
+    "wof:lastmodified":1472623512,
     "wof:name":"Weathercraft Co Of Topeka",
     "wof:parent_id":85881557,
     "wof:placetype":"venue",

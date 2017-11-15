@@ -2,14 +2,20 @@
   "id": 840721151,
   "type": "Feature",
   "properties": {
+    "addr:full":"9120 Metcalf Ave Overland Park KS 66212",
+    "addr:housenumber":"9120",
+    "addr:postcode":"66212",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.667722,38.960714,-94.667722,38.960714",
     "geom:latitude":38.960714,
     "geom:longitude":-94.667722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9120 Metcalf Ave",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150775,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5blUYcqFFODaDuZNSrZqIX_38.960714_-94.667722@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046533,
-    "wof:geomhash":"98bb44be7dc278f7a03d16eeab262a86",
+    "wof:geomhash":"fc2031afdac4240f071ba1d4086c9ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840721151,
-    "wof:lastmodified":1466524396,
+    "wof:lastmodified":1510698788,
     "wof:name":"L A Weight Loss Ctr",
     "wof:parent_id":85879595,
     "wof:placetype":"venue",

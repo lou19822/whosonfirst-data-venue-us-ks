@@ -2,14 +2,20 @@
   "id": 840735647,
   "type": "Feature",
   "properties": {
+    "addr:full":"413 Osage Rd Derby KS 67037",
+    "addr:housenumber":"413",
+    "addr:postcode":"67037",
+    "addr:street":"Osage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.24584,37.544741,-97.24584,37.544741",
     "geom:latitude":37.544741,
     "geom:longitude":-97.24584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"413 Osage Rd",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":1125153631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nYlfDq7rv8Jk9nFdY8MQw_37.544741_-97.245840@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046812,
-    "wof:geomhash":"864faa10d22e5642b8207d507eb2942c",
+    "wof:geomhash":"8386a4fbbee3883d6e0e3f8949a24f11",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840735647,
-    "wof:lastmodified":1466524899,
+    "wof:lastmodified":1510695777,
     "wof:name":"Metropolitan Insurance",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 169670513,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 SW 29th St Topeka KS 66611",
+    "addr:housenumber":"300",
+    "addr:postcode":"66611",
+    "addr:street":"Sw 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.685564,39.015172,-95.685564,39.015172",
     "geom:latitude":39.015172,
     "geom:longitude":-95.685564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 SW 29th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85945467,
         102084175
     ],
+    "wof:brand_id":1125159225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DgYDltJ1JWEtNlAQwzRGG_39.015172_-95.685564@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"753f683ba367a84ee7783ea846ad1673",
+    "wof:geomhash":"f7291ecabbc42e85a04b12af7a434e15",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169670513,
-    "wof:lastmodified":1466520477,
+    "wof:lastmodified":1510699528,
     "wof:name":"Dillon Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

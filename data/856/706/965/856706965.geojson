@@ -2,14 +2,20 @@
   "id": 856706965,
   "type": "Feature",
   "properties": {
+    "addr:full":"1231 SW Wanamaker Rd Topeka KS 66604",
+    "addr:housenumber":"1231",
+    "addr:postcode":"66604",
+    "addr:street":"Sw Wanamaker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.761782,39.045082,-95.761782,39.045082",
     "geom:latitude":39.045082,
     "geom:longitude":-95.761782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1231 SW Wanamaker Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125152363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oifUtrq0muLh6PPajDjUo_39.045082_-95.761782@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052207,
-    "wof:geomhash":"e0d086e8eb6d1b0cf6be74385783109d",
+    "wof:geomhash":"2257c77ac82be10143a41bd32b4ff55e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":856706965,
-    "wof:lastmodified":1466520112,
+    "wof:lastmodified":1510696799,
     "wof:name":"Old Chicago",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

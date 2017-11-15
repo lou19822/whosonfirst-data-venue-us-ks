@@ -2,14 +2,20 @@
   "id": 169621895,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 W 5th St Ottawa KS 66067",
+    "addr:housenumber":"315",
+    "addr:postcode":"66067",
+    "addr:street":"W 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.271592,38.611477,-95.271592,38.611477",
     "geom:latitude":38.611477,
     "geom:longitude":-95.271592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 W 5th St",
     "sg:city":"Ottawa",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85945713,
         102082121
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iyG9X6rZ9E8nEJmay7l87_38.611477_-95.271592@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"98efa9dc14e230a60367d28e131356be",
+    "wof:geomhash":"c8e9648622256e579d47903471e80d55",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169621895,
-    "wof:lastmodified":1466519979,
+    "wof:lastmodified":1510613227,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

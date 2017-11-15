@@ -2,6 +2,10 @@
   "id": 840647195,
   "type": "Feature",
   "properties": {
+    "addr:full":"12425 W 87th Street Pkwy Lenexa KS 66215",
+    "addr:housenumber":"12425",
+    "addr:postcode":"66215",
+    "addr:street":"W 87Th Street Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840647195,
-    "wof:lastmodified":1466522844,
+    "wof:lastmodified":1472623405,
     "wof:name":"Housing Dept",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

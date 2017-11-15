@@ -2,14 +2,20 @@
   "id": 840878569,
   "type": "Feature",
   "properties": {
+    "addr:full":"11219 Shawnee Mission Pkwy Shawnee KS 66203",
+    "addr:housenumber":"11219",
+    "addr:postcode":"66203",
+    "addr:street":"Shawnee Mission Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.716202,39.014693,-94.716202,39.014693",
     "geom:latitude":39.014693,
     "geom:longitude":-94.716202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11219 Shawnee Mission Pkwy",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64kMkko4ciceEo3QeO2gc5_39.014693_-94.716202@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050049,
-    "wof:geomhash":"5f7db1cdeda9ab41a0ce8f8fe9250847",
+    "wof:geomhash":"01c318db7adabfe26617b9d8c3b7aeb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840878569,
-    "wof:lastmodified":1466527905,
+    "wof:lastmodified":1510698790,
     "wof:name":"Harbor Freight Tools USA Inc",
     "wof:parent_id":85879571,
     "wof:placetype":"venue",

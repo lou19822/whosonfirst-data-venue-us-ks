@@ -2,6 +2,10 @@
   "id": 840615611,
   "type": "Feature",
   "properties": {
+    "addr:full":"2316 S 5 St Kansas City KS 66103",
+    "addr:housenumber":"2316;5",
+    "addr:postcode":"66103",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":840615611,
-    "wof:lastmodified":1466522269,
+    "wof:lastmodified":1472623387,
     "wof:name":"Bernie Electric Wholesale Inc",
     "wof:parent_id":85866785,
     "wof:placetype":"venue",

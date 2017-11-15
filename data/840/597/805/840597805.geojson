@@ -2,14 +2,20 @@
   "id": 840597805,
   "type": "Feature",
   "properties": {
+    "addr:full":"2243 S Meridian Ave Wichita KS 67213",
+    "addr:housenumber":"2243",
+    "addr:postcode":"67213",
+    "addr:street":"S Meridian Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.371009,37.655091,-97.371009,37.655091",
     "geom:latitude":37.655091,
     "geom:longitude":-97.371009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2243 S Meridian Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125155329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CoP8QHAaxIC7KSRSDL8bq_37.655091_-97.371009@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043599,
-    "wof:geomhash":"4156e6d827e85048a91a189db93dc9d9",
+    "wof:geomhash":"92003ba84b5837d468b3ce73ba36fa99",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840597805,
-    "wof:lastmodified":1466521939,
+    "wof:lastmodified":1510697759,
     "wof:name":"Advanced Physical Therapy",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

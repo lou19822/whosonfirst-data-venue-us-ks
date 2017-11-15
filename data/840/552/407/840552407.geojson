@@ -2,14 +2,20 @@
   "id": 840552407,
   "type": "Feature",
   "properties": {
+    "addr:full":"7401 W 91st St Overland Park KS 66212",
+    "addr:housenumber":"7401",
+    "addr:postcode":"66212",
+    "addr:street":"W 91St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.671061,38.963913,-94.671061,38.963913",
     "geom:latitude":38.963913,
     "geom:longitude":-94.671061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7401 W 91st St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rBBi2Ztp7sdWseguFTxUK_38.963913_-94.671061@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464042565,
-    "wof:geomhash":"13c682db9828318885ea0abdb38f9cf6",
+    "wof:geomhash":"e21fb08e263e5860d23af9a7f253010f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840552407,
-    "wof:lastmodified":1466520874,
+    "wof:lastmodified":1510697249,
     "wof:name":"Whole Foods Market",
     "wof:parent_id":85879595,
     "wof:placetype":"venue",

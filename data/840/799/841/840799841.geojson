@@ -2,6 +2,10 @@
   "id": 840799841,
   "type": "Feature",
   "properties": {
+    "addr:full":"9401 Indian Creek Pkwy Overland Park KS 66210",
+    "addr:housenumber":"9401",
+    "addr:postcode":"66210",
+    "addr:street":"Indian Creek Pkwy;Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840799841,
-    "wof:lastmodified":1466526308,
+    "wof:lastmodified":1472623573,
     "wof:name":"AIG Claim Svc",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",

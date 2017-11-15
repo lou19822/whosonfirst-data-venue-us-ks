@@ -2,9 +2,14 @@
   "id": 169593817,
   "type": "Feature",
   "properties": {
+    "addr:full":"4356 W 131st Ter Leawood KS 66209",
+    "addr:housenumber":"4356",
+    "addr:postcode":"66209",
+    "addr:street":"W 131St Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.635467,38.890624,-94.635467,38.890624",
     "geom:latitude":38.890624,
     "geom:longitude":-94.635467,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"f340418381eda2296ab223b708253ca9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":169593817,
-    "wof:lastmodified":1466529844,
+    "wof:lastmodified":1491901014,
     "wof:name":"Envision Audio & Video",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

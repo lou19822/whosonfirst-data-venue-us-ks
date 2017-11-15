@@ -2,6 +2,10 @@
   "id": 840614663,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 S 4 St Edwardsville KS 66111",
+    "addr:housenumber":"104;4",
+    "addr:postcode":"66111",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840614663,
-    "wof:lastmodified":1466522260,
+    "wof:lastmodified":1472623386,
     "wof:name":"Pizzaville",
     "wof:parent_id":85810945,
     "wof:placetype":"venue",

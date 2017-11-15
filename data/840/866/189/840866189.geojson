@@ -2,14 +2,20 @@
   "id": 840866189,
   "type": "Feature",
   "properties": {
+    "addr:full":"8787 Lenexa Dr Overland Park KS 66214",
+    "addr:housenumber":"8787",
+    "addr:postcode":"66214",
+    "addr:street":"Lenexa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.722199,38.967102,-94.722199,38.967102",
     "geom:latitude":38.967102,
     "geom:longitude":-94.722199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8787 Lenexa Dr",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J7TiXMGnjSog446jYBTnh_38.967102_-94.722199@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049783,
-    "wof:geomhash":"d4637e874df5d4397c0c18d8db4d986c",
+    "wof:geomhash":"e3d6b6020c0ee45ab82e267588489f57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":840866189,
-    "wof:lastmodified":1466527548,
+    "wof:lastmodified":1510699751,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

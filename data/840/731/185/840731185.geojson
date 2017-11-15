@@ -2,14 +2,20 @@
   "id": 840731185,
   "type": "Feature",
   "properties": {
+    "addr:full":"1750 N Tyler Rd Wichita KS 67212",
+    "addr:housenumber":"1750",
+    "addr:postcode":"67212",
+    "addr:street":"N Tyler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.444572,37.715893,-97.444572,37.715893",
     "geom:latitude":37.715893,
     "geom:longitude":-97.444572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1750 N Tyler Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084203,
         85872815
     ],
+    "wof:brand_id":1125152861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XrnuSWzhKeS3cyJpd5dIO_37.715893_-97.444572@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046726,
-    "wof:geomhash":"dbdf7b238a24f0e2a89b33dff87c58e0",
+    "wof:geomhash":"fd9da0d29043f48f972218076fe3a2cc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840731185,
-    "wof:lastmodified":1466524649,
+    "wof:lastmodified":1510613357,
     "wof:name":"Covenant Presbyterian Church",
     "wof:parent_id":85872815,
     "wof:placetype":"venue",

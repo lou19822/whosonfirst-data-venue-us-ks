@@ -2,14 +2,20 @@
   "id": 840910937,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 S Market St Wichita KS 67211",
+    "addr:housenumber":"1700",
+    "addr:postcode":"67211",
+    "addr:street":"S Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.336777,37.660677,-97.336777,37.660677",
     "geom:latitude":37.660677,
     "geom:longitude":-97.336777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 S Market St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872813
     ],
+    "wof:brand_id":1125159859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_786UccAriohawSN0OV8d38_37.660677_-97.336777@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050763,
-    "wof:geomhash":"5a1ff8f47d5b93a529212adc1e628e60",
+    "wof:geomhash":"3ca086c93c5bceb453d2368ed4f4e0e0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840910937,
-    "wof:lastmodified":1466528687,
+    "wof:lastmodified":1510696724,
     "wof:name":"First Wesleyan Church",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",

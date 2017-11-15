@@ -2,14 +2,20 @@
   "id": 840567767,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 Grand Blvd Kansas City KS 64108",
+    "addr:housenumber":"2345",
+    "addr:postcode":"64108",
+    "addr:street":"Grand Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.581534,39.085884,-94.581534,39.085884",
     "geom:latitude":39.085884,
     "geom:longitude":-94.581534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2345 Grand Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yrEryAYPGyH0khvAJhLxC_39.085884_-94.581534@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464042923,
-    "wof:geomhash":"52855b5ac96c5d06626a04e49830cf80",
+    "wof:geomhash":"2f8478fc7320c2a16a27e1b5b64daaec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840567767,
-    "wof:lastmodified":1466521297,
+    "wof:lastmodified":1510602716,
     "wof:name":"Central Parking System",
     "wof:parent_id":85867023,
     "wof:placetype":"venue",

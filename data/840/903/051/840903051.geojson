@@ -2,6 +2,10 @@
   "id": 840903051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1320 E 19 St Kansas City KS 64108",
+    "addr:housenumber":"1320;19",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":840903051,
-    "wof:lastmodified":1466528307,
+    "wof:lastmodified":1472623650,
     "wof:name":"Malco Construction",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

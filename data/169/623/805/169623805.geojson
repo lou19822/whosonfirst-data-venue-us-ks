@@ -2,9 +2,14 @@
   "id": 169623805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1728 S 37 Ct Kansas City KS 66106",
+    "addr:housenumber":"1728",
+    "addr:postcode":"66106",
+    "addr:street":"S 37 Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.671577,39.06917,-94.671577,39.06917",
     "geom:latitude":39.06917,
     "geom:longitude":-94.671577,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85803445,
+        102191575,
+        404504875,
         85633793,
         85945801,
         102082163,
-        85803445
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"407a38cda41beeed915ad32211969a01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082163,
+            "localadmin_id":404504875,
             "locality_id":85945801,
             "neighbourhood_id":85803445,
             "region_id":85688555,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":169623805,
-    "wof:lastmodified":1466520013,
+    "wof:lastmodified":1491910589,
     "wof:name":"Stapleton Lawn & Landscape",
     "wof:parent_id":85803445,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840641937,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 E Santa Fe St Olathe KS 66061",
+    "addr:housenumber":"830",
+    "addr:postcode":"66061",
+    "addr:street":"E Santa Fe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.8088,38.88368,-94.8088,38.88368",
     "geom:latitude":38.88368,
     "geom:longitude":-94.8088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"830 E Santa Fe St",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125158387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ybt1wOhyoU51diybkZprA_38.883680_-94.808800@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044719,
-    "wof:geomhash":"7c1608e6ec8fdc4669ab98dd74e2e9c0",
+    "wof:geomhash":"8c67157883707a966f6fd87543b98638",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840641937,
-    "wof:lastmodified":1466522922,
+    "wof:lastmodified":1510699778,
     "wof:name":"Quality Auto Sales",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

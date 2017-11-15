@@ -2,6 +2,10 @@
   "id": 840677043,
   "type": "Feature",
   "properties": {
+    "addr:full":"517 S 11 St Kansas City KS 66105",
+    "addr:housenumber":"517;11",
+    "addr:postcode":"66105",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840677043,
-    "wof:lastmodified":1466523499,
+    "wof:lastmodified":1472623437,
     "wof:name":"Williams Insulation",
     "wof:parent_id":85878487,
     "wof:placetype":"venue",

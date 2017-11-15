@@ -2,6 +2,10 @@
   "id": 840876433,
   "type": "Feature",
   "properties": {
+    "addr:full":"626 S Tyler Rd Wichita KS 67209",
+    "addr:housenumber":"626",
+    "addr:postcode":"67209",
+    "addr:street":"S Tyler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840876433,
-    "wof:lastmodified":1466527838,
+    "wof:lastmodified":1472623637,
     "wof:name":"US Post Office",
     "wof:parent_id":85852945,
     "wof:placetype":"venue",

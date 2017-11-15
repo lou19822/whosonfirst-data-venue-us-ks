@@ -2,9 +2,14 @@
   "id": 840889201,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 State Line Rd Kansas City KS 66103",
+    "addr:housenumber":"4500",
+    "addr:postcode":"66103",
+    "addr:street":"State Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.607371,39.04464,-94.607371,39.04464",
     "geom:latitude":39.04464,
     "geom:longitude":-94.607371,
@@ -28,7 +33,16 @@
     ],
     "sg:website":"www.kansascityantiques.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872031,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661,
+        85871977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SpX5oNa5OcDwoSNrMAp01_39.044640_-94.607371@1294126544"
@@ -36,11 +50,32 @@
     "wof:country":"US",
     "wof:created":1464050264,
     "wof:geomhash":"0c2f6a3dacc32ff4b3c1c57881d5d998",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872031,
+            "region_id":85688661,
+            "venue_id":840889201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871977,
+            "region_id":85688661,
+            "venue_id":840889201
+        }
+    ],
     "wof:id":840889201,
-    "wof:lastmodified":1466528053,
+    "wof:lastmodified":1491908964,
     "wof:name":"Show Me Antiques & Consignment",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],

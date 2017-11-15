@@ -2,14 +2,20 @@
   "id": 840826541,
   "type": "Feature",
   "properties": {
+    "addr:full":"10460 Mastin St Shawnee Mission KS 66212",
+    "addr:housenumber":"10460",
+    "addr:postcode":"66212",
+    "addr:street":"Mastin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.702421,38.939855,-94.702421,38.939855",
     "geom:latitude":38.939855,
     "geom:longitude":-94.702421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10460 Mastin St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qiXR9MUusP0EI9tF7x7nF_38.939855_-94.702421@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048924,
-    "wof:geomhash":"34bd373d4cbe41e7db084b90d88838bc",
+    "wof:geomhash":"54e9e77cd6427f66473bcf32d83dd377",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840826541,
-    "wof:lastmodified":1466526782,
+    "wof:lastmodified":1510697760,
     "wof:name":"Advanced Physical Therapy",
     "wof:parent_id":85879601,
     "wof:placetype":"venue",

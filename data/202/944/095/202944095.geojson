@@ -2,14 +2,20 @@
   "id": 202944095,
   "type": "Feature",
   "properties": {
+    "addr:full":"6219 Johnson Dr Mission KS 66202",
+    "addr:housenumber":"6219",
+    "addr:postcode":"66202",
+    "addr:street":"Johnson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.657672,39.022179,-94.657672,39.022179",
     "geom:latitude":39.022179,
     "geom:longitude":-94.657672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6219 Johnson Dr",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -52,12 +58,13 @@
         102082673,
         85879553
     ],
+    "wof:brand_id":1125151571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53vqln28MHy2Lzb3yM5ftP_39.022179_-94.657672@1303262939"
     },
     "wof:country":"US",
-    "wof:geomhash":"e52a07c1d7300340fd2eed736b06cfef",
+    "wof:geomhash":"48fcad458a68df4d4fff4b85bc563c66",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":202944095,
-    "wof:lastmodified":1466520074,
+    "wof:lastmodified":1510697606,
     "wof:name":"Salvation Army Family Store",
     "wof:parent_id":85879553,
     "wof:placetype":"venue",

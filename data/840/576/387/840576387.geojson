@@ -2,14 +2,20 @@
   "id": 840576387,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 E 4th St Tonganoxie KS 66086",
+    "addr:housenumber":"527",
+    "addr:postcode":"66086",
+    "addr:street":"E 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.087359,39.109319,-95.087359,39.109319",
     "geom:latitude":39.109319,
     "geom:longitude":-95.087359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"527 E 4th St",
     "sg:city":"Tonganoxie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083429,
         85849437
     ],
+    "wof:brand_id":1125159977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2m0Tea7c9LDvxNSmsgYwTJ_39.109319_-95.087359@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043130,
-    "wof:geomhash":"a3a6835df0308f30cf021d6bf06227b9",
+    "wof:geomhash":"4e91a9377a58c1fdf387b68f18b55502",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840576387,
-    "wof:lastmodified":1466521392,
+    "wof:lastmodified":1510698865,
     "wof:name":"Paul's Barber Shop",
     "wof:parent_id":85849437,
     "wof:placetype":"venue",

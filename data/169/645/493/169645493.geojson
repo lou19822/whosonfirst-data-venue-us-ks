@@ -2,14 +2,20 @@
   "id": 169645493,
   "type": "Feature",
   "properties": {
+    "addr:full":"434 E 61st St N Park City KS 67219",
+    "addr:housenumber":"434",
+    "addr:postcode":"67219",
+    "addr:street":"E 61St St N Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.334727,37.796,-97.334727,37.796",
     "geom:latitude":37.796,
     "geom:longitude":-97.334727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"434 E 61st St N",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85945863,
         102084203
     ],
+    "wof:brand_id":1125154653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4c1bFtY6mUBjnH1l8nbpTZ_37.796000_-97.334727@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"f3e4603156eb3e1cab3e6d1015227a3e",
+    "wof:geomhash":"833661c470b001023655544c8e0d67a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169645493,
-    "wof:lastmodified":1466520317,
+    "wof:lastmodified":1510694718,
     "wof:name":"Jerry's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

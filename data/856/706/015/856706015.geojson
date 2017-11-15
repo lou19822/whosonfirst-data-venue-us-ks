@@ -2,14 +2,20 @@
   "id": 856706015,
   "type": "Feature",
   "properties": {
+    "addr:full":"13216 W 62nd Ter Shawnee KS 66216",
+    "addr:housenumber":"13216",
+    "addr:postcode":"66216",
+    "addr:street":"W 62Nd Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.7395,39.015883,-94.7395,39.015883",
     "geom:latitude":39.015883,
     "geom:longitude":-94.7395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13216 W 62nd Ter",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_215AHH3ZBQRVqZrH1ERU1t_39.015883_-94.739500@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052187,
-    "wof:geomhash":"3dea24898dbea953198e85f035e3e0cf",
+    "wof:geomhash":"17cf657cd469565bf1a0dc99928ceb83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856706015,
-    "wof:lastmodified":1466519833,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840929797,
   "type": "Feature",
   "properties": {
+    "addr:full":"8415 E 21st St N Wichita KS 67206",
+    "addr:housenumber":"8415",
+    "addr:postcode":"67206",
+    "addr:street":"E 21St St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.239106,37.722945,-97.239106,37.722945",
     "geom:latitude":37.722945,
     "geom:longitude":-97.239106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8415 E 21st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125152539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oH0FrywMNrpXnCWBSuOE4_37.722945_-97.239106@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051243,
-    "wof:geomhash":"f4a31f2c32d52648357d6e748bc0b173",
+    "wof:geomhash":"cc09a245cf60f1bd6b359d78d00ea6af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":840929797,
-    "wof:lastmodified":1466529218,
+    "wof:lastmodified":1510696764,
     "wof:name":"New England Financial",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840788891,
   "type": "Feature",
   "properties": {
+    "addr:full":"13219 Long St Overland Park KS 66213",
+    "addr:housenumber":"13219",
+    "addr:postcode":"66213",
+    "addr:street":"Long St;Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.728903,38.886589,-94.728903,38.886589",
     "geom:latitude":38.886589,
     "geom:longitude":-94.728903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13219 Long St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082673,
         85835339
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vvFHR8B4wsrXN27OlQrHA_38.886589_-94.728903@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047955,
-    "wof:geomhash":"e927c5421db0bfd65b9d4be0f0edae19",
+    "wof:geomhash":"2cdd538d84ede02f480292d8d2c44c89",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840788891,
-    "wof:lastmodified":1466526078,
+    "wof:lastmodified":1510698755,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85835339,
     "wof:placetype":"venue",

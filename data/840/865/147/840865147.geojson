@@ -2,14 +2,20 @@
   "id": 840865147,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 SE Monroe St Topeka KS 66603",
+    "addr:housenumber":"116",
+    "addr:postcode":"66603",
+    "addr:street":"Se Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.667436,39.057908,-95.667436,39.057908",
     "geom:latitude":39.057908,
     "geom:longitude":-95.667436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 SE Monroe St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mGziBwKqGix6WCwOWbGMV_39.057908_-95.667436@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049758,
-    "wof:geomhash":"58bf9d5d6a50c8c76a9e36e683585eb1",
+    "wof:geomhash":"35b137fe0e4029748ec64119e9c112e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840865147,
-    "wof:lastmodified":1466527505,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",

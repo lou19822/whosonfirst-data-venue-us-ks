@@ -2,14 +2,20 @@
   "id": 840804153,
   "type": "Feature",
   "properties": {
+    "addr:full":"5495 W 95th St Overland Park KS 66207",
+    "addr:housenumber":"5495",
+    "addr:postcode":"66207",
+    "addr:street":"W 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.645475,38.956715,-94.645475,38.956715",
     "geom:latitude":38.956715,
     "geom:longitude":-94.645475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5495 W 95th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1snLVIJtmLdosOrABXU8Ul_38.956715_-94.645475@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048285,
-    "wof:geomhash":"b4c459ebee41ce5c19de3a7a61176833",
+    "wof:geomhash":"60f9c65f8c6e4b260f4b009ac17fa52b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840804153,
-    "wof:lastmodified":1466526178,
+    "wof:lastmodified":1510698889,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",

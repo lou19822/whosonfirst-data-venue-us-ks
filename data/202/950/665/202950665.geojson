@@ -2,9 +2,14 @@
   "id": 202950665,
   "type": "Feature",
   "properties": {
+    "addr:full":"10965 Granada Ln Leawood KS 66211",
+    "addr:housenumber":"",
+    "addr:postcode":"10965;66211",
+    "addr:street":"Granada Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.637911,38.930128,-94.637911,38.930128",
     "geom:latitude":38.930128,
     "geom:longitude":-94.637911,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"9f81e063d35e158a81f580fc5f8a8a15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":202950665,
-    "wof:lastmodified":1466520159,
+    "wof:lastmodified":1491901042,
     "wof:name":"Peakvision",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

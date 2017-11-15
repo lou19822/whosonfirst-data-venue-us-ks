@@ -2,14 +2,20 @@
   "id": 856705471,
   "type": "Feature",
   "properties": {
+    "addr:full":"9067 Metcalf Ave Overland Park KS 66212",
+    "addr:housenumber":"9067",
+    "addr:postcode":"66212",
+    "addr:street":"Metcalf Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.665699,38.964727,-94.665699,38.964727",
     "geom:latitude":38.964727,
     "geom:longitude":-94.665699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9067 Metcalf Ave",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P8A6UW4RSDks0VHFdhDV6_38.964727_-94.665699@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052178,
-    "wof:geomhash":"cb8c9fda0b6dd9d9b4f3f43fb4a75700",
+    "wof:geomhash":"eaa04f0ef05e9a520002a87736783758",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856705471,
-    "wof:lastmodified":1466519933,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85879595,
     "wof:placetype":"venue",

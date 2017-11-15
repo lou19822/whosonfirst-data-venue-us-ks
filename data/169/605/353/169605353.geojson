@@ -2,14 +2,20 @@
   "id": 169605353,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Main St Bucklin KS 67834",
+    "addr:housenumber":"123",
+    "addr:postcode":"67834",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.634146,37.549228,-99.634146,37.549228",
     "geom:latitude":37.549228,
     "geom:longitude":-99.634146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 S Main St",
     "sg:city":"Bucklin",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85945213,
         102082141
     ],
+    "wof:brand_id":1125159523,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_149WcUuKmElQo97CuokoaR_37.549228_-99.634146@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec5fb435779d0749db4ed8eac43f31a6",
+    "wof:geomhash":"775b8828dc96fab395392325c5299880",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169605353,
-    "wof:lastmodified":1466519521,
+    "wof:lastmodified":1510696642,
     "wof:name":"Country Cupboard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

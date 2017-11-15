@@ -2,14 +2,20 @@
   "id": 840874817,
   "type": "Feature",
   "properties": {
+    "addr:full":"5990 SW 28th St Topeka KS 66614",
+    "addr:housenumber":"5990",
+    "addr:postcode":"66614",
+    "addr:street":"Sw 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.759856,39.015457,-95.759856,39.015457",
     "geom:latitude":39.015457,
     "geom:longitude":-95.759856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5990 SW 28th St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78mukc3XoWNwHX6x9Ymkuk_39.015457_-95.759856@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049947,
-    "wof:geomhash":"7c77f00a6bcf1e0f32918c53e7e47b6c",
+    "wof:geomhash":"85fce9a27a15ed8cdbc6b3b2786e7e02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840874817,
-    "wof:lastmodified":1466527868,
+    "wof:lastmodified":1510693839,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

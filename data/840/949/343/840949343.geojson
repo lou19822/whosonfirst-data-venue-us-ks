@@ -2,14 +2,20 @@
   "id": 840949343,
   "type": "Feature",
   "properties": {
+    "addr:full":"2630 N Webb Rd Wichita KS 67226",
+    "addr:housenumber":"2630",
+    "addr:postcode":"67226",
+    "addr:street":"N Webb Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.226331,37.731493,-97.226331,37.731493",
     "geom:latitude":37.731493,
     "geom:longitude":-97.226331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2630 N Webb Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85688555
     ],
+    "wof:brand_id":1125153511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mzPWfY8guEsih22sBHKQC_37.731493_-97.226331@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051637,
-    "wof:geomhash":"7f3ede1dad95ec328b3f3cc6e3be2376",
+    "wof:geomhash":"2dc25c9a5da462307024eb6b28b431df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840949343,
-    "wof:lastmodified":1466529657,
+    "wof:lastmodified":1510698962,
     "wof:name":"Da Vita Inc",
     "wof:parent_id":85834565,
     "wof:placetype":"venue",

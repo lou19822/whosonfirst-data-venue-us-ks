@@ -2,6 +2,10 @@
   "id": 840889715,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 Johnson Dr Roeland Park KS 66205",
+    "addr:housenumber":"5000",
+    "addr:postcode":"66205",
+    "addr:street":"Johnson Dr;Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":840889715,
-    "wof:lastmodified":1466528223,
+    "wof:lastmodified":1472623663,
     "wof:name":"Direct Security Svc",
     "wof:parent_id":85879597,
     "wof:placetype":"venue",

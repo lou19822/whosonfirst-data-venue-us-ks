@@ -2,6 +2,10 @@
   "id": 840745973,
   "type": "Feature",
   "properties": {
+    "addr:full":"2828 S 44 St Kansas City KS 66106",
+    "addr:housenumber":"2828;44",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840745973,
-    "wof:lastmodified":1466525140,
+    "wof:lastmodified":1472623524,
     "wof:name":"Groebner & Assoc Inc",
     "wof:parent_id":85879579,
     "wof:placetype":"venue",

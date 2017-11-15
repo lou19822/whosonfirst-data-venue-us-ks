@@ -2,14 +2,20 @@
   "id": 840884601,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 W Dennis Ave Olathe KS 66061",
+    "addr:housenumber":"129",
+    "addr:postcode":"66061",
+    "addr:street":"W Dennis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.820349,38.869062,-94.820349,38.869062",
     "geom:latitude":38.869062,
     "geom:longitude":-94.820349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 W Dennis Ave",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_558IZFFnoKNuF6NPOp6yml_38.869062_-94.820349@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050170,
-    "wof:geomhash":"c2b58b8a5d55af755ec5e0afe96d0f22",
+    "wof:geomhash":"f3ff8ba00205f1677c6a4eb3fa519258",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840884601,
-    "wof:lastmodified":1466528065,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840942717,
   "type": "Feature",
   "properties": {
+    "addr:full":"2835 SW Wanamaker Rd Topeka KS 66614",
+    "addr:housenumber":"2835",
+    "addr:postcode":"66614",
+    "addr:street":"Sw Wanamaker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.762344,39.017795,-95.762344,39.017795",
     "geom:latitude":39.017795,
     "geom:longitude":-95.762344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2835 SW Wanamaker Rd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084175,
         85688555
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FXoOUB1G7qfFRuUiTj5ac_39.017795_-95.762344@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051499,
-    "wof:geomhash":"1df42c6e263ec7a2f390ea41b4740146",
+    "wof:geomhash":"899b4e2da83944886de9cdc37d60107d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840942717,
-    "wof:lastmodified":1466529543,
+    "wof:lastmodified":1510602836,
     "wof:name":"Osco Drug",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",

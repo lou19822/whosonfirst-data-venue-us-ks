@@ -2,14 +2,20 @@
   "id": 840710143,
   "type": "Feature",
   "properties": {
+    "addr:full":"1608 Industrial Rd Emporia KS 66801",
+    "addr:housenumber":"1608",
+    "addr:postcode":"66801",
+    "addr:street":"Industrial Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.217039,38.417542,-96.217039,38.417542",
     "geom:latitude":38.417542,
     "geom:longitude":-96.217039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1608 Industrial Rd",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082661,
         85805839
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_616GMJQen2zknLXYFsJyuq_38.417542_-96.217039@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046307,
-    "wof:geomhash":"caaf317637ca38c37e67fcb469175ea8",
+    "wof:geomhash":"5657f2a7a949b1854be13cbe0d02d632",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840710143,
-    "wof:lastmodified":1466524175,
+    "wof:lastmodified":1510602526,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85805839,
     "wof:placetype":"venue",

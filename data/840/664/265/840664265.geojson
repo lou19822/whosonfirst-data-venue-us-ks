@@ -2,6 +2,10 @@
   "id": 840664265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1510 S 42 St Kansas City KS 66106",
+    "addr:housenumber":"1510;42",
+    "addr:postcode":"66106",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840664265,
-    "wof:lastmodified":1466523319,
+    "wof:lastmodified":1472623434,
     "wof:name":"Premium Waters",
     "wof:parent_id":85852833,
     "wof:placetype":"venue",

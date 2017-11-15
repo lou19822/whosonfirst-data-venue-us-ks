@@ -2,14 +2,20 @@
   "id": 840607147,
   "type": "Feature",
   "properties": {
+    "addr:full":"9201 Wornall Rd Kansas City KS 64114",
+    "addr:housenumber":"9201",
+    "addr:postcode":"64114",
+    "addr:street":"Wornall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.594722,38.960574,-94.594722,38.960574",
     "geom:latitude":38.960574,
     "geom:longitude":-94.594722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9201 Wornall Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151925,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09Kw9cjC7YPNNTuRTFc0wI_38.960574_-94.594722@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464043833,
-    "wof:geomhash":"02f1894c03d85dc2b3105bcda0cd7d01",
+    "wof:geomhash":"cf66e1158224aa1253ad341dfe013967",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840607147,
-    "wof:lastmodified":1466521988,
+    "wof:lastmodified":1510694644,
     "wof:name":"All Saints Episcopal Church",
     "wof:parent_id":85871953,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840706057,
   "type": "Feature",
   "properties": {
+    "addr:full":"6617 W 119th St Overland Park KS 66209",
+    "addr:housenumber":"6617",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.660202,38.912841,-94.660202,38.912841",
     "geom:latitude":38.912841,
     "geom:longitude":-94.660202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6617 W 119th St",
     "sg:city":"Overland Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125152453,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q6AJcfBzLxM5NLWdqHwQT_38.912841_-94.660202@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046225,
-    "wof:geomhash":"8a6a9d215ad899678ce973fdc4be89cc",
+    "wof:geomhash":"c29afe348a0508033cf6f341bc27728b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840706057,
-    "wof:lastmodified":1466524114,
+    "wof:lastmodified":1510695963,
     "wof:name":"Calico Corners",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",

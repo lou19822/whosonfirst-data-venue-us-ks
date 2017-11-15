@@ -2,14 +2,20 @@
   "id": 840881059,
   "type": "Feature",
   "properties": {
+    "addr:full":"2308 E Mount Vernon St Wichita KS 67211",
+    "addr:housenumber":"2308",
+    "addr:postcode":"67211",
+    "addr:street":"E Mount Vernon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.308067,37.65731,-97.308067,37.65731",
     "geom:latitude":37.65731,
     "geom:longitude":-97.308067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2308 E Mount Vernon St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084203,
         85872821
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HNlsWDKTcRRLpnex25eE9_37.657310_-97.308067@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050095,
-    "wof:geomhash":"f526713dd605b3d56ad733fc42670344",
+    "wof:geomhash":"4c10ee27daced430ab2180a79218f4eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840881059,
-    "wof:lastmodified":1466527807,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85872821,
     "wof:placetype":"venue",

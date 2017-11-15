@@ -2,14 +2,20 @@
   "id": 840952651,
   "type": "Feature",
   "properties": {
+    "addr:full":"11933 S Strang Line Rd Olathe KS 66062",
+    "addr:housenumber":"11933",
+    "addr:postcode":"66062",
+    "addr:street":"S Strang Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.76699,38.910965,-94.76699,38.910965",
     "geom:latitude":38.910965,
     "geom:longitude":-94.76699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11933 S Strang Line Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125158475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VrL6tIbzomFubPf8nfbX6_38.910965_-94.766990@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051699,
-    "wof:geomhash":"318d45165835e9bfda339eeb51a95df7",
+    "wof:geomhash":"4b6d541c7b03046faa3efbad8114dbf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840952651,
-    "wof:lastmodified":1466529771,
+    "wof:lastmodified":1510699305,
     "wof:name":"Children's Orchard",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

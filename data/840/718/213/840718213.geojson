@@ -2,6 +2,10 @@
   "id": 840718213,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 S Fieldcrest St Wichita KS 67209",
+    "addr:housenumber":"1314",
+    "addr:postcode":"67209",
+    "addr:street":"S Fieldcrest St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840718213,
-    "wof:lastmodified":1466524398,
+    "wof:lastmodified":1472623485,
     "wof:name":"Bob Macy Painting & Paper Inc",
     "wof:parent_id":85852015,
     "wof:placetype":"venue",

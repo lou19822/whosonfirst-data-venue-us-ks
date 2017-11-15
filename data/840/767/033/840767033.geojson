@@ -2,14 +2,20 @@
   "id": 840767033,
   "type": "Feature",
   "properties": {
+    "addr:full":"8822 Parallel Pkwy Kansas City KS 66112",
+    "addr:housenumber":"8822",
+    "addr:postcode":"66112",
+    "addr:street":"Parallel Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.785292,39.128664,-94.785292,39.128664",
     "geom:latitude":39.128664,
     "geom:longitude":-94.785292,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8822 Parallel Pkwy",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125150025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iyjVuvOHS6JVHH0qZ44lB_39.128664_-94.785292@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047503,
-    "wof:geomhash":"13d21e9b3320fb27cc3992bab9ab8716",
+    "wof:geomhash":"c45d5436d25579daca6ba4b364339759",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840767033,
-    "wof:lastmodified":1466525402,
+    "wof:lastmodified":1510695388,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":85878509,
     "wof:placetype":"venue",

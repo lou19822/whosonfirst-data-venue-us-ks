@@ -2,14 +2,20 @@
   "id": 840666013,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Military St Dodge City KS 67801",
+    "addr:housenumber":"100",
+    "addr:postcode":"67801",
+    "addr:street":"Military St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.016878,37.753803,-100.016878,37.753803",
     "geom:latitude":37.753803,
     "geom:longitude":-100.016878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Military St",
     "sg:city":"Dodge City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082141,
         85688555
     ],
+    "wof:brand_id":420574967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38gL6Z4lEfzwArTtb2Agpa_37.753803_-100.016878@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045231,
-    "wof:geomhash":"7ff14753d7e04412f0b0570369e02385",
+    "wof:geomhash":"eb84b09f0ddd25cb3ba18528caaad33c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840666013,
-    "wof:lastmodified":1466523232,
+    "wof:lastmodified":1510604329,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":85849601,
     "wof:placetype":"venue",

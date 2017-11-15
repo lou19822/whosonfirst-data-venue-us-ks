@@ -2,14 +2,20 @@
   "id": 840799101,
   "type": "Feature",
   "properties": {
+    "addr:full":"6950 Squibb Rd Mission KS 66202",
+    "addr:housenumber":"",
+    "addr:postcode":"6950;66202",
+    "addr:street":"Squibb Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.665326,39.01576,-94.665326,39.01576",
     "geom:latitude":39.01576,
     "geom:longitude":-94.665326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6950 Squibb Rd",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125157205,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F1rHv0z1U2rNnTkEDRA1j_39.015760_-94.665326@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048183,
-    "wof:geomhash":"0c6892575ccd3bc2ba6ed54e4d376a52",
+    "wof:geomhash":"c23347e64fd330ac9b3b1a08853df9f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840799101,
-    "wof:lastmodified":1466526118,
+    "wof:lastmodified":1510697241,
     "wof:name":"Maxim Healthcare Svc",
     "wof:parent_id":85879553,
     "wof:placetype":"venue",

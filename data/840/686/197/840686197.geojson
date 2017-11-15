@@ -2,14 +2,20 @@
   "id": 840686197,
   "type": "Feature",
   "properties": {
+    "addr:full":"10555 W 21st St N Wichita KS 67205",
+    "addr:housenumber":"10555",
+    "addr:postcode":"67205",
+    "addr:street":"W 21St St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.466969,37.722566,-97.466969,37.722566",
     "geom:latitude":37.722566,
     "geom:longitude":-97.466969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10555 W 21st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084203,
         85872803
     ],
+    "wof:brand_id":1125150113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hd107O8CNEacZjsutrHeg_37.722566_-97.466969@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045719,
-    "wof:geomhash":"b70c9f312deb591f35f2c53407b94c6b",
+    "wof:geomhash":"2c7033d7ef1244af59110354091c23f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840686197,
-    "wof:lastmodified":1466523667,
+    "wof:lastmodified":1510697249,
     "wof:name":"Whole Foods Market",
     "wof:parent_id":85872803,
     "wof:placetype":"venue",

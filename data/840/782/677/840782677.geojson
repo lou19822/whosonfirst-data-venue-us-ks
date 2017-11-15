@@ -2,14 +2,20 @@
   "id": 840782677,
   "type": "Feature",
   "properties": {
+    "addr:full":"4816 W 119th St Leawood KS 66209",
+    "addr:housenumber":"4816",
+    "addr:postcode":"66209",
+    "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.644434,38.912995,-94.644434,38.912995",
     "geom:latitude":38.912995,
     "geom:longitude":-94.644434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4816 W 119th St",
     "sg:city":"Leawood",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125155623,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ia1VWcjtWgrwhaEPqjovy_38.912995_-94.644434@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047813,
-    "wof:geomhash":"f46423fef9022602e2a81688ef0e3801",
+    "wof:geomhash":"84c8eb90ebf900d9e86f9d0dd84345b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840782677,
-    "wof:lastmodified":1466525902,
+    "wof:lastmodified":1510697626,
     "wof:name":"J Jill",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

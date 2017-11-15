@@ -2,14 +2,20 @@
   "id": 840696007,
   "type": "Feature",
   "properties": {
+    "addr:full":"3856 W 75th St Prairie Village KS 66208",
+    "addr:housenumber":"3856",
+    "addr:postcode":"66208",
+    "addr:street":"W 75Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.629505,38.993339,-94.629505,38.993339",
     "geom:latitude":38.993339,
     "geom:longitude":-94.629505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3856 W 75th St",
     "sg:city":"Prairie Village",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125154905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SZfmFCa71EPYQMVukN8hf_38.993339_-94.629505@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045972,
-    "wof:geomhash":"2178c1e95780cd892d237912ad5041a9",
+    "wof:geomhash":"0959ccfb4bacb056a7355b52bf093aba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840696007,
-    "wof:lastmodified":1466523832,
+    "wof:lastmodified":1510697531,
     "wof:name":"Old Republic Title Co",
     "wof:parent_id":85879583,
     "wof:placetype":"venue",

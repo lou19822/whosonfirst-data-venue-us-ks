@@ -2,9 +2,14 @@
   "id": 202949661,
   "type": "Feature",
   "properties": {
+    "addr:full":"4860 College Blvd Leawood KS 66211",
+    "addr:housenumber":"4860",
+    "addr:postcode":"66211",
+    "addr:street":"College Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.642319,38.927601,-94.642319,38.927601",
     "geom:latitude":38.927601,
     "geom:longitude":-94.642319,
@@ -36,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688555,
+        85879563,
+        102191575,
+        404504341,
         85633793,
         85945793,
         102082673,
-        85879563
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +57,10 @@
     "wof:geomhash":"0d593eb627cb835994eb40bd79fa625d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082673,
+            "localadmin_id":404504341,
             "locality_id":85945793,
             "neighbourhood_id":85879563,
             "region_id":85688555,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":202949661,
-    "wof:lastmodified":1466520151,
+    "wof:lastmodified":1491901040,
     "wof:name":"Craven Scott",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",

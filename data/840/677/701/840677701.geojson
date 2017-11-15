@@ -2,14 +2,20 @@
   "id": 840677701,
   "type": "Feature",
   "properties": {
+    "addr:full":"1036 W 103rd St Kansas City KS 64114",
+    "addr:housenumber":"1036",
+    "addr:postcode":"64114",
+    "addr:street":"W 103Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.603068,38.941898,-94.603068,38.941898",
     "geom:latitude":38.941898,
     "geom:longitude":-94.603068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1036 W 103rd St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125159069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_540pLSDjIqewCwT5pGClAx_38.941898_-94.603068@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045511,
-    "wof:geomhash":"ae5e597f5a25fe4155de61011c08e2d1",
+    "wof:geomhash":"c5525e60c6bb5537fa435d4237e35d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":840677701,
-    "wof:lastmodified":1466523683,
+    "wof:lastmodified":1510694262,
     "wof:name":"Prestige Cleaners",
     "wof:parent_id":85813397,
     "wof:placetype":"venue",

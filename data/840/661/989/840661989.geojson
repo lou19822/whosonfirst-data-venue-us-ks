@@ -2,14 +2,20 @@
   "id": 840661989,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 N 81 St Kansas City KS 66109",
+    "addr:housenumber":"2400",
+    "addr:postcode":"66109",
+    "addr:street":"N 81 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.766455,39.133008,-94.766455,39.133008",
     "geom:latitude":39.133008,
     "geom:longitude":-94.766455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2400 N 81 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082163,
         85688555
     ],
+    "wof:brand_id":1125153857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28pL9fB53MLkn43cQkZKOY_39.133008_-94.766455@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045147,
-    "wof:geomhash":"50dc17caa7b160f5c5e64efbe840b552",
+    "wof:geomhash":"3f873f650833e4f0c8f12d1537b366ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840661989,
-    "wof:lastmodified":1466523370,
+    "wof:lastmodified":1510697164,
     "wof:name":"Cornerstone Community Church",
     "wof:parent_id":85878509,
     "wof:placetype":"venue",

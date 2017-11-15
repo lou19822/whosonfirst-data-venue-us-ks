@@ -2,14 +2,20 @@
   "id": 856709115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1317 N Maize Rd Wichita KS 67212",
+    "addr:housenumber":"1317",
+    "addr:postcode":"67212",
+    "addr:street":"N Maize Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.462585,37.706055,-97.462585,37.706055",
     "geom:latitude":37.706055,
     "geom:longitude":-97.462585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1317 N Maize Rd",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084203,
         85872815
     ],
+    "wof:brand_id":1125150555,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2py05mOY8Rr7CIHJmmbQ8r_37.706055_-97.462585@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052248,
-    "wof:geomhash":"0a4e0f7061d88506356add58d4683c80",
+    "wof:geomhash":"9a2390504918dd96971d46d6ab41f307",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856709115,
-    "wof:lastmodified":1466519959,
+    "wof:lastmodified":1510699447,
     "wof:name":"Super Suppers",
     "wof:parent_id":85872815,
     "wof:placetype":"venue",

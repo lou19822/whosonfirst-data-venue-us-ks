@@ -2,14 +2,20 @@
   "id": 840842177,
   "type": "Feature",
   "properties": {
+    "addr:full":"8619 Quivira Rd Lenexa KS 66215",
+    "addr:housenumber":"8619",
+    "addr:postcode":"66215",
+    "addr:street":"Quivira Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.723574,38.97438,-94.723574,38.97438",
     "geom:latitude":38.97438,
     "geom:longitude":-94.723574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8619 Quivira Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nmvVb7THvZxJEKe2zjrKZ_38.974380_-94.723574@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464049277,
-    "wof:geomhash":"a05866b89b9d2b4518f936af41ea0277",
+    "wof:geomhash":"16a59d9f5e92adf0cfb055f336bca0c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840842177,
-    "wof:lastmodified":1466527046,
+    "wof:lastmodified":1510695390,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",

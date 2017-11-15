@@ -2,14 +2,20 @@
   "id": 840716857,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 E 1st St Tonganoxie KS 66086",
+    "addr:housenumber":"420",
+    "addr:postcode":"66086",
+    "addr:street":"E 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.088269,39.112177,-95.088269,39.112177",
     "geom:latitude":39.112177,
     "geom:longitude":-95.088269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"420 E 1st St",
     "sg:city":"Tonganoxie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083429,
         85849437
     ],
+    "wof:brand_id":1125159871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dTkXionORJP0tG9sMWOQl_39.112177_-95.088269@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046437,
-    "wof:geomhash":"e887284664aeae97910bc12e27a1b980",
+    "wof:geomhash":"adfd4c95f3f7b0f7300bb5dc0b7f9163",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840716857,
-    "wof:lastmodified":1466524541,
+    "wof:lastmodified":1510699915,
     "wof:name":"Gambino's Pizza",
     "wof:parent_id":85849437,
     "wof:placetype":"venue",

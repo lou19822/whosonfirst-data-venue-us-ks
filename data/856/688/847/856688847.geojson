@@ -2,14 +2,20 @@
   "id": 856688847,
   "type": "Feature",
   "properties": {
+    "addr:full":"7304 W 130th St Shawnee Mission KS 66213",
+    "addr:housenumber":"7304",
+    "addr:postcode":"66213",
+    "addr:street":"W 130Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.668021,38.892949,-94.668021,38.892949",
     "geom:latitude":38.892949,
     "geom:longitude":-94.668021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7304 W 130th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fZ0xVChVR9IysgfUpYPKs_38.892949_-94.668021@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051844,
-    "wof:geomhash":"8823ad85d1d35b97c783de7fd2086374",
+    "wof:geomhash":"b3a3a27d5bf5a5df3c44b7e403a1752b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856688847,
-    "wof:lastmodified":1466519610,
+    "wof:lastmodified":1510695429,
     "wof:name":"Perkins Family Restaurant",
     "wof:parent_id":85879577,
     "wof:placetype":"venue",
