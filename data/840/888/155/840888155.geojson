@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"W Gregory Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.592941,38.999643,-94.592941,38.999643",
     "geom:latitude":38.999643,
     "geom:longitude":-94.592941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"222 W Gregory Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464050242,
-    "wof:geomhash":"bbfb6db22011061fbbc96b5a42a27a87",
+    "wof:geomhash":"fc93de46b9ddde0b774bed304c2ce58e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":840888155,
-    "wof:lastmodified":1472623641,
+    "wof:lastmodified":1510943250,
     "wof:name":"Proctor Financial Insurance Co",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773084137
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"66062",
     "addr:street":"W 119Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.762512,38.912688,-94.762512,38.912688",
     "geom:latitude":38.912688,
     "geom:longitude":-94.762512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15225 W 119th St",
     "sg:city":"Olathe",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_0VD1H27CX6NQfBhLF5uXj1_38.912688_-94.762512@1303262939"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1b745e726772b47dd4774b4216ecda7",
+    "wof:geomhash":"9fd4b13de7d13c2c82ef075d4b0ead18",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":202935397,
-    "wof:lastmodified":1472623265,
+    "wof:lastmodified":1510943239,
     "wof:name":"Beauty Brands Salon Spa",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840929801
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

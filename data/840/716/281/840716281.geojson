@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"Ward Pkwy N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.599696,38.960458,-94.599696,38.960458",
     "geom:latitude":38.960458,
     "geom:longitude":-94.599696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9233 Ward Pkwy N",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464046425,
-    "wof:geomhash":"dd7622e7149f2ba87bc1e4284440dbf7",
+    "wof:geomhash":"e42e5e31f36bcc912be6b3e5fc322ef8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":840716281,
-    "wof:lastmodified":1472623486,
+    "wof:lastmodified":1510942552,
     "wof:name":"Richard L Benson PHD",
     "wof:parent_id":85871969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773159565
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"

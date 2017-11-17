@@ -7,6 +7,7 @@
     "addr:postcode":"66211",
     "addr:street":"Nall Ave Ste 140",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-94.648885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11213 Nall Ave Ste 140",
     "sg:city":"Leawood",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
         "sg:id":"SG_3fVKlC4yJGzqLAXRi4jJ9Y_38.924889_-94.648885@1303262939"
     },
     "wof:country":"US",
-    "wof:geomhash":"27a811328e643cfefcc0e59ed16333e7",
+    "wof:geomhash":"a2c9efa714e104ce4e9b092771895178",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":202950127,
-    "wof:lastmodified":1491901006,
+    "wof:lastmodified":1510943193,
     "wof:name":"Midwest Medical Aesthetics",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840835349
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"66208",
     "addr:street":"Mission Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.630406,38.991409,-94.630406,38.991409",
     "geom:latitude":38.991409,
     "geom:longitude":-94.630406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7501 Mission Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464049474,
-    "wof:geomhash":"84b59bb3acc22e53a691eac8a97f84b5",
+    "wof:geomhash":"a61a8c28d601530076599b19b4570fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":840851497,
-    "wof:lastmodified":1472623616,
+    "wof:lastmodified":1510942225,
     "wof:name":"Mark Bagby DDS",
     "wof:parent_id":85879583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773797917
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

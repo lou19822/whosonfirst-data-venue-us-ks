@@ -7,6 +7,7 @@
     "addr:postcode":"66211",
     "addr:street":"W 117Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-94.643841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5037 W 117th St",
     "sg:city":"Leawood",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
         "sg:id":"SG_2NXPz1XC409VR6mdFcJCkQ_38.916456_-94.643841@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1e37a6c3015535f22fd5bf93ea69f77",
+    "wof:geomhash":"e374941d5354ece0599abc31b23c2ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":202950699,
-    "wof:lastmodified":1491901010,
+    "wof:lastmodified":1510943370,
     "wof:name":"Xiphium",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840693251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

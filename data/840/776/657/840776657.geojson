@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"W 103Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.598819,38.941701,-94.598819,38.941701",
     "geom:latitude":38.941701,
     "geom:longitude":-94.598819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 W 103rd St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464047697,
-    "wof:geomhash":"dc3c2bdd2573101d23f22a5e0eae6ec9",
+    "wof:geomhash":"a8d0a33f88176233e548b2cb7a0d6eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":840776657,
-    "wof:lastmodified":1472623542,
+    "wof:lastmodified":1510941757,
     "wof:name":"Montage Inc Hair & More",
     "wof:parent_id":85813397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773615189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

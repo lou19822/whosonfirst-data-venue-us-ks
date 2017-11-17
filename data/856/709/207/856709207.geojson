@@ -7,13 +7,16 @@
     "addr:postcode":"67213",
     "addr:street":"W Pawnee St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.3531,37.651542,-97.3531,37.651542",
     "geom:latitude":37.651542,
     "geom:longitude":-97.3531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1138 W Pawnee St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464052250,
-    "wof:geomhash":"a863af75d86b756f9af49fafc666eb63",
+    "wof:geomhash":"a5f24efaf9b8d11ebc414a108609be19",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":856709207,
-    "wof:lastmodified":1472623330,
+    "wof:lastmodified":1510943594,
     "wof:name":"Spangles",
     "wof:parent_id":85872813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202982223
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

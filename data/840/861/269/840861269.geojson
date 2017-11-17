@@ -7,13 +7,16 @@
     "addr:postcode":"66208",
     "addr:street":"W 83Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.629417,38.978781,-94.629417,38.978781",
     "geom:latitude":38.978781,
     "geom:longitude":-94.629417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3700 W 83rd St",
     "sg:city":"Prairie Village",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464049676,
-    "wof:geomhash":"fbb06281c9a855d09d8ac4caa5efd5ce",
+    "wof:geomhash":"21f4bc3a7f1a1f06657eb13857bb86e4",
     "wof:hierarchy":[],
     "wof:id":840861269,
-    "wof:lastmodified":1472623620,
+    "wof:lastmodified":1510942835,
     "wof:name":"James F Loftus DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773670853
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

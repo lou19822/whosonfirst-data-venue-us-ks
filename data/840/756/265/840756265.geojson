@@ -7,13 +7,16 @@
     "addr:postcode":"64108",
     "addr:street":"Baltimore Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.586484,39.072996,-94.586484,39.072996",
     "geom:latitude":39.072996,
     "geom:longitude":-94.586484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2900 Baltimore Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464047245,
-    "wof:geomhash":"b9732eec225f5d491a4c7fe7769cb9fb",
+    "wof:geomhash":"9d6529cb82d9987ebc82ac196c96fd27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":840756265,
-    "wof:lastmodified":1472623524,
+    "wof:lastmodified":1510942801,
     "wof:name":"Trinity Lutheran Hospital",
     "wof:parent_id":85872013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806550735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

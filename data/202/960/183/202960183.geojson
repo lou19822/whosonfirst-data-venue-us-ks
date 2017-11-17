@@ -7,13 +7,16 @@
     "addr:postcode":"66604",
     "addr:street":"Sw 21St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.756218,39.02914,-95.756218,39.02914",
     "geom:latitude":39.02914,
     "geom:longitude":-95.756218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5820 SW 21st St",
     "sg:city":"Topeka",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_0Cgb9kWr12oRAKGV7L2EJG_39.029140_-95.756218@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"768f0b435d4a5b1ee86cf3f1a82c2ed1",
+    "wof:geomhash":"ec6674e7fbbb20305e30f42ca942dcff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":202960183,
-    "wof:lastmodified":1472623279,
+    "wof:lastmodified":1510941368,
     "wof:name":"Beauty Brands Salon Spa Super",
     "wof:parent_id":85881571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840647343
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

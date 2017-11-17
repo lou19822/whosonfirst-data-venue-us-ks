@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.732892,38.970633,-94.732892,38.970633",
     "geom:latitude":38.970633,
     "geom:longitude":-94.732892,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8725 Rosehill Rd",
     "sg:city":"Lenexa",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464047457,
-    "wof:geomhash":"aef5c36776d9400e1b38ebb4bee3ab95",
+    "wof:geomhash":"58ce6ae0abad71d072da114447efd8e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":840765161,
-    "wof:lastmodified":1472623528,
+    "wof:lastmodified":1510941621,
     "wof:name":"KCI",
     "wof:parent_id":85879551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        202951587
+    ],
     "wof:tags":[
         "agency"
     ]

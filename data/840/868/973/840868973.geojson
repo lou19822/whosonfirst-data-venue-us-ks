@@ -7,13 +7,16 @@
     "addr:postcode":"64108",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.583859,39.086985,-94.583859,39.086985",
     "geom:latitude":39.086985,
     "geom:longitude":-94.583859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2300 Main St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464049834,
-    "wof:geomhash":"a3f1301d68e5b3d2e1d926c1bb011a38",
+    "wof:geomhash":"267eeb2b0164a84bcb5bf891fd605983",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":840868973,
-    "wof:lastmodified":1472623645,
+    "wof:lastmodified":1510943214,
     "wof:name":"Blackwell Sanders Peeper",
     "wof:parent_id":85872011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773381947
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

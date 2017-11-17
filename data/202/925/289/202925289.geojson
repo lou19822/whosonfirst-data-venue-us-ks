@@ -7,13 +7,16 @@
     "addr:postcode":"66048",
     "addr:street":"Seneca St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.914504,39.319887,-94.914504,39.319887",
     "geom:latitude":39.319887,
     "geom:longitude":-94.914504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"422 Seneca St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6QJAmefoXNtIAqnyJBq67l_39.319887_-94.914504@1303262939"
     },
     "wof:country":"US",
-    "wof:geomhash":"61ac965250016845ce5b2b3330c57d8b",
+    "wof:geomhash":"9927913b65cad49e0fb6e10bda6239db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":202925289,
-    "wof:lastmodified":1472623260,
+    "wof:lastmodified":1510942334,
     "wof:name":"Leavenworth Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840937213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

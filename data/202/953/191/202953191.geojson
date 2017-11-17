@@ -7,13 +7,16 @@
     "addr:postcode":"66216",
     "addr:street":"W 62Nd Ter",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.739528,39.014921,-94.739528,39.014921",
     "geom:latitude":39.014921,
     "geom:longitude":-94.739528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13214 W 62nd Ter",
     "sg:city":"Shawnee",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_2UZukOU64qT7y2CtYooOpS_39.014921_-94.739528@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc04d6e31620d9942c59a45c31b980cf",
+    "wof:geomhash":"6ac096a5f9d7c5d6ace5415007aed389",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":202953191,
-    "wof:lastmodified":1472623271,
+    "wof:lastmodified":1510942280,
     "wof:name":"Gunter Pest Management Inc",
     "wof:parent_id":85879561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840888623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

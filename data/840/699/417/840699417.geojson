@@ -7,13 +7,16 @@
     "addr:postcode":"64108",
     "addr:street":"E;St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.56212,39.091183,-94.56212,39.091183",
     "geom:latitude":39.091183,
     "geom:longitude":-94.56212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1601 E 18 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464046074,
-    "wof:geomhash":"b063a22103c8c134f7460244ebd0fbe7",
+    "wof:geomhash":"7c07addedbe5f97fe941239952126905",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":840699417,
-    "wof:lastmodified":1472623466,
+    "wof:lastmodified":1510944168,
     "wof:name":"Black Economic Union Of KC",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773736519
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

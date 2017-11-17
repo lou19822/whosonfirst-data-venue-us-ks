@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"Carondelet Dr W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.605036,38.935354,-94.605036,38.935354",
     "geom:latitude":38.935354,
     "geom:longitude":-94.605036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"930 Carondelet Dr W",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464045225,
-    "wof:geomhash":"daff283617b215575e0d5f1bc0d5b25e",
+    "wof:geomhash":"5c1861a97a7eee023ab31c3826e48266",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":840665689,
-    "wof:lastmodified":1472623438,
+    "wof:lastmodified":1510942596,
     "wof:name":"Kansas City Ob-Gyn Physicians",
     "wof:parent_id":85813397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790423171
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

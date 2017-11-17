@@ -7,6 +7,7 @@
     "addr:postcode":"66211",
     "addr:street":"W 110Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-94.6527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5808 W 110TH ST",
     "sg:city":"LEAWOOD",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
         "sg:id":"SG_6CVnO6t9dSdngOceT3btnw_38.929330_-94.652700@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"47bb926a4d10b75e02754328b4e17710",
+    "wof:geomhash":"ca11aa00dfbdc5144dd9afbc4cda2885",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":202950347,
-    "wof:lastmodified":1491901049,
+    "wof:lastmodified":1510942251,
     "wof:name":"Children's Mercy South",
     "wof:parent_id":85879563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840609073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

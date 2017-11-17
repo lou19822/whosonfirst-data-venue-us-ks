@@ -7,13 +7,16 @@
     "addr:postcode":"64108",
     "addr:street":"Baltimore Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.586648,39.071314,-94.586648,39.071314",
     "geom:latitude":39.071314,
     "geom:longitude":-94.586648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3030 Baltimore Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464045550,
-    "wof:geomhash":"333c5554f622cb3c7dbba5bcf2351c27",
+    "wof:geomhash":"0b598dedef8b9bc2efce830a45791730",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":840679249,
-    "wof:lastmodified":1472623441,
+    "wof:lastmodified":1510942845,
     "wof:name":"Trinity Home Health",
     "wof:parent_id":85872013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806630303
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

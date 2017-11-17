@@ -7,13 +7,16 @@
     "addr:postcode":"64108",
     "addr:street":"Vine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.563408,39.088504,-94.563408,39.088504",
     "geom:latitude":39.088504,
     "geom:longitude":-94.563408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1905 Vine St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464044976,
-    "wof:geomhash":"4c7c9555c9366ad3f0581a37c74c49fb",
+    "wof:geomhash":"8d97756ca04cb78f01ab9054dda71e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":840653767,
-    "wof:lastmodified":1472623428,
+    "wof:lastmodified":1510942832,
     "wof:name":"New Dimension Beauty School",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789934669
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "academic",

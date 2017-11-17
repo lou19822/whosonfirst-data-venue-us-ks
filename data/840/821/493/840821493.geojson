@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"W 103Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.603264,38.941761,-94.603264,38.941761",
     "geom:latitude":38.941761,
     "geom:longitude":-94.603264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1011 W 103rd St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464048793,
-    "wof:geomhash":"92ddc0527a917b163c80f63894ed8ed6",
+    "wof:geomhash":"fb43a9b5917c4d6dc92762622b3e09e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":840821493,
-    "wof:lastmodified":1472623588,
+    "wof:lastmodified":1510942885,
     "wof:name":"Jay Wolfe Mercedes",
     "wof:parent_id":85813397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773774743
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car",

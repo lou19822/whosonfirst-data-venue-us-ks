@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"Carondelet Dr W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.605975,38.935378,-94.605975,38.935378",
     "geom:latitude":38.935378,
     "geom:longitude":-94.605975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1310 Carondelet Dr W",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464050948,
-    "wof:geomhash":"6d1cf200a2b76ed8ffd7e4654e4c8d86",
+    "wof:geomhash":"27e9b84536edb8b584ed2fa4aac79a96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":840917753,
-    "wof:lastmodified":1472623682,
+    "wof:lastmodified":1510943503,
     "wof:name":"Attorney At Law",
     "wof:parent_id":85813397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773242669
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

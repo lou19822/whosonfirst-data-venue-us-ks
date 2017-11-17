@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.915433,39.319844,-94.915433,39.319844",
     "geom:latitude":39.319844,
     "geom:longitude":-94.915433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"422 Seneca St",
     "sg:city":"Leavenworth",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1464051395,
-    "wof:geomhash":"52ce3f54bcd41c30de48b7fa5f835129",
+    "wof:geomhash":"46e9d15643b32f8abd13bb6d9abef9f3",
     "wof:hierarchy":[],
     "wof:id":840937213,
-    "wof:lastmodified":1472623692,
+    "wof:lastmodified":1510942334,
     "wof:name":"Leavenworth Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        202925289
+    ],
     "wof:tags":[
         "newspaper"
     ]

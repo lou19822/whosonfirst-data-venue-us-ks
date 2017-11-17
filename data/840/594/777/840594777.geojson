@@ -7,13 +7,16 @@
     "addr:postcode":"66208",
     "addr:street":"Mission Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.630408,38.996572,-94.630408,38.996572",
     "geom:latitude":38.996572,
     "geom:longitude":-94.630408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7301 Mission Rd",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464043534,
-    "wof:geomhash":"483574979733bdd55e038c1fe3181776",
+    "wof:geomhash":"390865ee4e229ed6092aa757dd4afe2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":840594777,
-    "wof:lastmodified":1472623368,
+    "wof:lastmodified":1510943803,
     "wof:name":"Wooten Appraisal Co",
     "wof:parent_id":85879583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790305879
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"

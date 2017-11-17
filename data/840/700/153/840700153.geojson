@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"Wornall Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.594648,38.98164,-94.594648,38.98164",
     "geom:latitude":38.98164,
     "geom:longitude":-94.594648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8043 Wornall Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464046088,
-    "wof:geomhash":"a65351d61fd340a727fa67ae2dc0b60d",
+    "wof:geomhash":"d500cc285666f19acf772cf0d2c5df76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":840700153,
-    "wof:lastmodified":1472623464,
+    "wof:lastmodified":1510941810,
     "wof:name":"Becky Beck Agency Inc",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790182435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.815041,38.85777,-94.815041,38.85777",
     "geom:latitude":38.85777,
     "geom:longitude":-94.815041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1600 S Hamilton Cir",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":116398414,
         "sg:id":"SG_2JPi8BMSiRv1NxpPL9eNll_38.857770_-94.815041@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052152,
-    "wof:geomhash":"0330b3224bed9552f9d6a328f3763e49",
+    "wof:geomhash":"b9b8ccb4769b48f629a0fea819c10e5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":856704081,
-    "wof:lastmodified":1472623281,
+    "wof:lastmodified":1510943051,
     "wof:name":"McDonald's",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",

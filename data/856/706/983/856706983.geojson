@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.724725,39.045708,-95.724725,39.045708",
     "geom:latitude":39.045708,
     "geom:longitude":-95.724725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1201 SW Gage Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":180129289,
         "sg:id":"SG_38lr6sZBRTFxuXHCf2UXL0_39.045708_-95.724725@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464052208,
-    "wof:geomhash":"85490a905034061ff0780a3a7a50891b",
+    "wof:geomhash":"ad5d4d47c228faa15c5c424a7c9f27ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":856706983,
-    "wof:lastmodified":1472623324,
+    "wof:lastmodified":1510941966,
     "wof:name":"McDonald's",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",

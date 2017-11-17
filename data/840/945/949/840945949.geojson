@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"Ward Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.60625,38.973097,-94.60625,38.973097",
     "geom:latitude":38.973097,
     "geom:longitude":-94.60625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8600 Ward Pkwy",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464051570,
-    "wof:geomhash":"4d62cc86c28ea740c6106edca1fd6525",
+    "wof:geomhash":"5eb337bc12c39441e6061087d3c6a064",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":840945949,
-    "wof:lastmodified":1472623713,
+    "wof:lastmodified":1510941537,
     "wof:name":"Garry Gribbles Runningsports",
     "wof:parent_id":85871969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790137617
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apparel",

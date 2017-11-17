@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"W 75 St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.59179,38.992152,-94.59179,38.992152",
     "geom:latitude":38.992152,
     "geom:longitude":-94.59179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 W 75 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464051676,
-    "wof:geomhash":"ae781dc477bdea784b710457131bbb7f",
+    "wof:geomhash":"d3f8443edaec20ecb1b2705cbfaf417c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":840951337,
-    "wof:lastmodified":1472623712,
+    "wof:lastmodified":1510943591,
     "wof:name":"Title Transfer Services Inc",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789878195
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

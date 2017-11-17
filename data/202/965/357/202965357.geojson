@@ -7,13 +7,16 @@
     "addr:postcode":"66612",
     "addr:street":"Sw Harrison St # 300",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.679552,39.048286,-95.679552,39.048286",
     "geom:latitude":39.048286,
     "geom:longitude":-95.679552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"915 SW Harrison St # 300",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0l2DbtNoCbyk0FvAOZ5VyU_39.048286_-95.679552@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"929994b324087745cf6abedc3b76b3c4",
+    "wof:geomhash":"0fbabda508da0b3f62abfb4247c0930f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":202965357,
-    "wof:lastmodified":1472623280,
+    "wof:lastmodified":1510941396,
     "wof:name":"Title & Registration Dept",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840921683
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

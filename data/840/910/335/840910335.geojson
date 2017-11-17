@@ -7,13 +7,16 @@
     "addr:postcode":"64108",
     "addr:street":"Vine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.563398,39.088834,-94.563398,39.088834",
     "geom:latitude":39.088834,
     "geom:longitude":-94.563398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1927 Vine St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464050741,
-    "wof:geomhash":"9f56b260a9b6905347daca367a9761d3",
+    "wof:geomhash":"b2f7d91ab835a2cf7843af87b4dba82a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":840910335,
-    "wof:lastmodified":1472623673,
+    "wof:lastmodified":1510944024,
     "wof:name":"Blankinship Distributors HQ",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806952297
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetic",

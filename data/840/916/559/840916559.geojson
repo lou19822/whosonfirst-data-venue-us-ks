@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.611806,39.056219,-94.611806,39.056219",
     "geom:latitude":39.056219,
     "geom:longitude":-94.611806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3901 Rainbow Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -48,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":265532361,
         "sg:id":"SG_1Dl2Ve3cynNQzcIJyWDzsl_39.056219_-94.611806@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050925,
-    "wof:geomhash":"bc95e476c065290925df17f657b11bd7",
+    "wof:geomhash":"dd03b6ee6fd763d3de394832a34cb413",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +69,15 @@
         }
     ],
     "wof:id":840916559,
-    "wof:lastmodified":1472623677,
+    "wof:lastmodified":1510943430,
     "wof:name":"University Of Kansas Med Ctr",
     "wof:parent_id":85871981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840764191
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

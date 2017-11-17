@@ -7,13 +7,16 @@
     "addr:postcode":"64114",
     "addr:street":"Ward Pkwy S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.600229,38.960092,-94.600229,38.960092",
     "geom:latitude":38.960092,
     "geom:longitude":-94.600229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9233 Ward Pkwy S",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464047579,
-    "wof:geomhash":"5dea0fa22ec7ad559827ac8766366585",
+    "wof:geomhash":"673ba244957a5588e8180e70cfcccca8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":840770375,
-    "wof:lastmodified":1472623536,
+    "wof:lastmodified":1510942070,
     "wof:name":"Messick Lloyd L",
     "wof:parent_id":85871969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773440717
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
