@@ -2,18 +2,24 @@
   "id": 840759797,
   "type": "Feature",
   "properties": {
-    "addr:full":"212 S Ninnescah St Pratt KS 67124",
+    "addr:city":"Pratt",
+    "addr:full":"212 S Ninnescah St Pratt, Ks 67124",
+    "addr:house_number":"212",
     "addr:housenumber":"212",
+    "addr:phone":"+1 620-672-7874",
     "addr:postcode":"67124",
+    "addr:road":"S Ninnescah St",
+    "addr:state":"KS",
     "addr:street":"S Ninnescah St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-98.738055,37.644826,-98.738055,37.644826",
-    "geom:latitude":37.644826,
-    "geom:longitude":-98.738055,
+    "geom:bbox":"-98.73804,37.64403,-98.73804,37.64403",
+    "geom:latitude":37.64403,
+    "geom:longitude":-98.73804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"212 S Ninnescah St",
     "sg:city":"Pratt",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 620 672 7874",
     "sg:postcode":"67124",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000029,
         "sg:id":"SG_7dM9ciOC3N2JZnqfF0DDgR_37.644826_-98.738055@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047332,
-    "wof:geomhash":"772d24493858a9d624927e8d0141c44c",
+    "wof:geomhash":"63000883e079dd82c024fee84eab7562",
     "wof:hierarchy":[],
     "wof:id":840759797,
-    "wof:lastmodified":1472623533,
+    "wof:lastmodified":1534186592,
     "wof:name":"Pratt County Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -98.738055,
-    37.644826,
-    -98.738055,
-    37.644826
+    -98.73804,
+    37.64403,
+    -98.73804,
+    37.64403
 ],
-  "geometry": {"coordinates":[-98.738055,37.644826],"type":"Point"}
+  "geometry": {"coordinates":[-98.73804,37.64403],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 840952891,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 E Kansas Ave Lansing KS 66043",
+    "addr:city":"Lansing",
+    "addr:full":"115 E Kansas Lansing, Ks 66043",
+    "addr:house_number":"115",
     "addr:housenumber":"115",
+    "addr:phone":"+1 913-250-0203",
     "addr:postcode":"66043",
+    "addr:road":"E Kansas",
+    "addr:state":"KS",
     "addr:street":"E Kansas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.899899,39.249513,-94.899899,39.249513",
-    "geom:latitude":39.249513,
-    "geom:longitude":-94.899899,
+    "geom:bbox":"-94.89957,39.24953,-94.89957,39.24953",
+    "geom:latitude":39.24953,
+    "geom:longitude":-94.89957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"115 E Kansas Ave",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 913 250 0203",
     "sg:postcode":"66043",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526801,
+        102533051
+    ],
     "wof:belongsto":[
         85844391,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000392,
         "sg:id":"SG_533keO1ZaEbPAJjxlQO7C8_39.249513_-94.899899@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051708,
-    "wof:geomhash":"6d8cd2f20a9a13cb90ffdaa13ca666a6",
+    "wof:geomhash":"2416a5da7eb19f25d0a30676c4d45d27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":840952891,
-    "wof:lastmodified":1472623718,
-    "wof:name":"Lansing Historical Museum",
+    "wof:lastmodified":1534186593,
+    "wof:name":"Lansing Historical Society",
     "wof:parent_id":85844391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.899899,
-    39.249513,
-    -94.899899,
-    39.249513
+    -94.89957,
+    39.24953,
+    -94.89957,
+    39.24953
 ],
-  "geometry": {"coordinates":[-94.899899,39.249513],"type":"Point"}
+  "geometry": {"coordinates":[-94.89957,39.24953],"type":"Point"}
 }

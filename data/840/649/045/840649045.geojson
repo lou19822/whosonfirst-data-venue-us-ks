@@ -2,18 +2,24 @@
   "id": 840649045,
   "type": "Feature",
   "properties": {
-    "addr:full":"245 NE 30 Rd Great Bend KS 67530",
+    "addr:city":"Great Bend",
+    "addr:full":"245 Ne 30 Rd Great Bend, Ks 67530",
+    "addr:house_number":"245",
     "addr:housenumber":"245",
+    "addr:phone":"+1 620-792-9342",
     "addr:postcode":"67530",
+    "addr:road":"Ne 30 Rd",
+    "addr:state":"KS",
     "addr:street":"Ne 30 Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-98.729466,38.405308,-98.729466,38.405308",
-    "geom:latitude":38.405308,
-    "geom:longitude":-98.729466,
+    "geom:bbox":"-98.72934,38.40539,-98.72934,38.40539",
+    "geom:latitude":38.40539,
+    "geom:longitude":-98.72934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"245 NE 30 Rd",
     "sg:city":"Great Bend",
     "sg:classifiers":[
@@ -32,19 +38,23 @@
         "gallery",
         "dealer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528289
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409504039,
         "sg:id":"SG_5QUVoWmQ6PFDDLlP5UwdqB_38.405308_-98.729466@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044863,
-    "wof:geomhash":"794b41f667899ef5531c173eced3d90e",
+    "wof:geomhash":"c71073007c4482a472ee4d51dcda506f",
     "wof:hierarchy":[],
     "wof:id":840649045,
-    "wof:lastmodified":1472623408,
-    "wof:name":"Shafer Memorial Gallery",
+    "wof:lastmodified":1534186592,
+    "wof:name":"Shafer Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -57,10 +67,10 @@
     ]
 },
   "bbox": [
-    -98.729466,
-    38.405308,
-    -98.729466,
-    38.405308
+    -98.72934,
+    38.40539,
+    -98.72934,
+    38.40539
 ],
-  "geometry": {"coordinates":[-98.729466,38.405308],"type":"Point"}
+  "geometry": {"coordinates":[-98.72933999999999,38.40539],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 840675401,
   "type": "Feature",
   "properties": {
-    "addr:full":"1100 W Diamond Dr Salina KS 67401",
+    "addr:city":"Salina",
+    "addr:full":"1100 W Diamond Dr Salina, Ks 67401-9542",
+    "addr:house_number":"1100",
     "addr:housenumber":"1100",
-    "addr:postcode":"67401",
+    "addr:phone":"+1 785-825-8473",
+    "addr:postcode":"67401-9542",
+    "addr:road":"W Diamond Dr",
+    "addr:state":"KS",
     "addr:street":"W Diamond Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.629237,38.878101,-97.629237,38.878101",
-    "geom:latitude":38.878101,
-    "geom:longitude":-97.629237,
+    "geom:bbox":"-97.62218,38.87795,-97.62218,38.87795",
+    "geom:latitude":38.87795,
+    "geom:longitude":-97.62218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1100 W Diamond Dr",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -31,19 +37,23 @@
         "farm",
         "machinery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527331
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000312,
         "sg:id":"SG_3Mc2GFAFH1bQjqm1Cllxcy_38.878101_-97.629237@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045453,
-    "wof:geomhash":"22321f1c0ef0dcdac4331489999df341",
+    "wof:geomhash":"fc297866aaf5d71e1cadeabba868a4b0",
     "wof:hierarchy":[],
     "wof:id":840675401,
-    "wof:lastmodified":1472623446,
-    "wof:name":"Central Kans Flywheels Museum",
+    "wof:lastmodified":1534186592,
+    "wof:name":"Central Kansas Flywheels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -55,10 +65,10 @@
     ]
 },
   "bbox": [
-    -97.629237,
-    38.878101,
-    -97.629237,
-    38.878101
+    -97.62218,
+    38.87795,
+    -97.62218,
+    38.87795
 ],
-  "geometry": {"coordinates":[-97.629237,38.878101],"type":"Point"}
+  "geometry": {"coordinates":[-97.62218,38.87795],"type":"Point"}
 }

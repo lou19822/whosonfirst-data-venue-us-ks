@@ -14,6 +14,7 @@
     "geom:longitude":-97.22842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9415 E Harry St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464050216,
-    "wof:geomhash":"30903a4619ca54d0519c5534ed43cd1d",
+    "wof:geomhash":"0e4434adc53028d1d9efc3934f9744a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":840886787,
-    "wof:lastmodified":1472623658,
+    "wof:lastmodified":1534186593,
     "wof:name":"Leiter & Co",
     "wof:parent_id":85806685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169677021
+    ],
     "wof:tags":[
         "consultant",
         "business"

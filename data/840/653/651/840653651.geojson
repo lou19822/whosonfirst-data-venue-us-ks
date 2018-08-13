@@ -2,18 +2,24 @@
   "id": 840653651,
   "type": "Feature",
   "properties": {
-    "addr:full":"815 Broadway St Larned KS 67550",
+    "addr:city":"Larned",
+    "addr:full":"815 Broadway St Larned, Ks 67550",
+    "addr:house_number":"815",
     "addr:housenumber":"815",
+    "addr:phone":"+1 620-285-6427",
     "addr:postcode":"67550",
+    "addr:road":"Broadway St",
+    "addr:state":"KS",
     "addr:street":"Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-99.09844,38.182546,-99.09844,38.182546",
-    "geom:latitude":38.182546,
-    "geom:longitude":-99.09844,
+    "geom:bbox":"-99.09845,38.18181,-99.09845,38.18181",
+    "geom:latitude":38.18181,
+    "geom:longitude":-99.09845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"815 Broadway St",
     "sg:city":"Larned",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 620 285 8938",
     "sg:postcode":"67550",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000091,
         "sg:id":"SG_5LTdQqas2CH1NAQC3O0tnf_38.182546_-99.098440@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044973,
-    "wof:geomhash":"99ffaa3b3fc77ec8210b1426e5247b48",
+    "wof:geomhash":"8d98af06dfcdc311df95388523c80802",
     "wof:hierarchy":[],
     "wof:id":840653651,
-    "wof:lastmodified":1472623428,
+    "wof:lastmodified":1534186592,
     "wof:name":"Central States Scout Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -99.09844,
-    38.182546,
-    -99.09844,
-    38.182546
+    -99.09845,
+    38.18181,
+    -99.09845,
+    38.18181
 ],
-  "geometry": {"coordinates":[-99.09844,38.182546],"type":"Point"}
+  "geometry": {"coordinates":[-99.09845,38.18181],"type":"Point"}
 }

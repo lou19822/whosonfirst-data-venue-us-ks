@@ -2,18 +2,24 @@
   "id": 840903263,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 E 6th Ave Emporia KS 66801",
+    "addr:city":"Emporia",
+    "addr:full":"225 E 6Th Ave Emporia, Ks 66801-3900",
+    "addr:house_number":"225",
     "addr:housenumber":"225",
-    "addr:postcode":"66801",
+    "addr:phone":"+1 620-340-6310",
+    "addr:postcode":"66801-3900",
+    "addr:road":"E 6Th Ave",
+    "addr:state":"KS",
     "addr:street":"E 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.176827,38.404891,-96.176827,38.404891",
-    "geom:latitude":38.404891,
-    "geom:longitude":-96.176827,
+    "geom:bbox":"-96.18164,38.40508,-96.18164,38.40508",
+    "geom:latitude":38.40508,
+    "geom:longitude":-96.18164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"225 E 6th Ave",
     "sg:city":"Emporia",
     "sg:classifiers":[
@@ -27,21 +33,23 @@
     "sg:phone":"+1 620 342 8120",
     "sg:postcode":"66801",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688555,
+        85818077,
         85633793,
         85946279,
         102082661,
-        85818077
+        85688555
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000288,
         "sg:id":"SG_4Obj8F7pgQd3R7WryeoesG_38.404891_-96.176827@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050563,
-    "wof:geomhash":"2a98fe64a664ad079b924a376387c035",
+    "wof:geomhash":"23e6162973f9b67676567ff41e841ad2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":840903263,
-    "wof:lastmodified":1472623655,
+    "wof:lastmodified":1534186593,
     "wof:name":"Lyon County Historical Society",
     "wof:parent_id":85818077,
     "wof:placetype":"venue",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.176827,
-    38.404891,
-    -96.176827,
-    38.404891
+    -96.18164,
+    38.40508,
+    -96.18164,
+    38.40508
 ],
-  "geometry": {"coordinates":[-96.176827,38.404891],"type":"Point"}
+  "geometry": {"coordinates":[-96.18164,38.40508],"type":"Point"}
 }

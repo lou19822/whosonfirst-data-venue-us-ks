@@ -2,18 +2,24 @@
   "id": 840899001,
   "type": "Feature",
   "properties": {
-    "addr:full":"624 N Pershing Ave Liberal KS 67901",
+    "addr:city":"Liberal",
+    "addr:full":"624 N Pershing Ave Liberal, Ks 67901-3115",
+    "addr:house_number":"624",
     "addr:housenumber":"624",
-    "addr:postcode":"67901",
+    "addr:phone":"+1 620-624-2810",
+    "addr:postcode":"67901-3115",
+    "addr:road":"N Pershing Ave",
+    "addr:state":"KS",
     "addr:street":"N Pershing Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-100.927463,37.044299,-100.927463,37.044299",
-    "geom:latitude":37.044299,
-    "geom:longitude":-100.927463,
+    "geom:bbox":"-100.92747,37.04449,-100.92747,37.04449",
+    "geom:latitude":37.04449,
+    "geom:longitude":-100.92747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"624 N Pershing Ave",
     "sg:city":"Liberal",
     "sg:classifiers":[
@@ -32,19 +38,23 @@
         "arts",
         "information"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529051
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000308,
         "sg:id":"SG_4S0Yo9IplBwhpwvlc2lwMJ_37.044299_-100.927463@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050470,
-    "wof:geomhash":"d8c334f13d6d3724e53c10e31d2bb202",
+    "wof:geomhash":"75099965265406dea80b10b3defb8052",
     "wof:hierarchy":[],
     "wof:id":840899001,
-    "wof:lastmodified":1472623646,
-    "wof:name":"Baker Arts Ctr",
+    "wof:lastmodified":1534186593,
+    "wof:name":"Baker Arts Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -57,10 +67,10 @@
     ]
 },
   "bbox": [
-    -100.927463,
-    37.044299,
-    -100.927463,
-    37.044299
+    -100.92747,
+    37.04449,
+    -100.92747,
+    37.04449
 ],
-  "geometry": {"coordinates":[-100.927463,37.044299],"type":"Point"}
+  "geometry": {"coordinates":[-100.92747,37.04449],"type":"Point"}
 }

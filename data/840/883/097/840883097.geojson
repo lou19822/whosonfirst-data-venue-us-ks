@@ -2,18 +2,24 @@
   "id": 840883097,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 S 10th St Atchison KS 66002",
+    "addr:city":"Atchison",
+    "addr:full":"200 S 10Th St Atchison, Ks 66002",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 913-367-6238",
     "addr:postcode":"66002",
+    "addr:road":"S 10Th St",
+    "addr:state":"KS",
     "addr:street":"S 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.127352,39.55978,-95.127352,39.55978",
-    "geom:latitude":39.55978,
-    "geom:longitude":-95.127352,
+    "geom:bbox":"-95.1348,39.55617,-95.1348,39.55617",
+    "geom:latitude":39.55617,
+    "geom:longitude":-95.1348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 S 10th St",
     "sg:city":"Atchison",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 913 367 6238",
     "sg:postcode":"66002",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000106,
         "sg:id":"SG_7Od8Kyh0mtfYtMkKLYATHg_39.559780_-95.127352@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050135,
-    "wof:geomhash":"5cf048ea4c1bb2b86035fc0740f60c65",
+    "wof:geomhash":"e314b80628779cb71884d9bbd476cbdd",
     "wof:hierarchy":[],
     "wof:id":840883097,
-    "wof:lastmodified":1472623636,
-    "wof:name":"Atchison County Historical",
+    "wof:lastmodified":1534186593,
+    "wof:name":"Atchison County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.127352,
-    39.55978,
-    -95.127352,
-    39.55978
+    -95.1348,
+    39.55617,
+    -95.1348,
+    39.55617
 ],
-  "geometry": {"coordinates":[-95.127352,39.55978],"type":"Point"}
+  "geometry": {"coordinates":[-95.1348,39.55617],"type":"Point"}
 }

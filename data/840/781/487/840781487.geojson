@@ -2,18 +2,24 @@
   "id": 840781487,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 W 26 St Kansas City KS 64108",
+    "addr:city":"Kansas City",
+    "addr:full":"100 W 26Th St Kansas City, Mo 64108-4616",
+    "addr:house_number":"100",
     "addr:housenumber":"100",
-    "addr:postcode":"64108",
+    "addr:phone":"+1 816-888-8100",
+    "addr:postcode":"64108-4616",
+    "addr:road":"W 26Th St",
+    "addr:state":"MO",
     "addr:street":"W 26 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.584417,39.079719,-94.584417,39.079719",
-    "geom:latitude":39.079719,
-    "geom:longitude":-94.584417,
+    "geom:bbox":"-94.58439,39.07973,-94.58439,39.07973",
+    "geom:latitude":39.07973,
+    "geom:longitude":-94.58439,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"100 W 26 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 816 513 7500",
     "sg:postcode":"64108",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532927
+    ],
     "wof:belongsto":[
         85872017,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900659,
         "sg:id":"SG_0NCmQipCnjYTrPIaKgX54K_39.079719_-94.584417@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464047793,
-    "wof:geomhash":"c919e920d2255989930e62fb11a1f941",
+    "wof:geomhash":"f8608343c7152a48a17824d2f638b360",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":840781487,
-    "wof:lastmodified":1472623550,
-    "wof:name":"Liberty Memorial & Museum",
+    "wof:lastmodified":1534186593,
+    "wof:name":"Liberty Memorial Association",
     "wof:parent_id":85872017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.584417,
-    39.079719,
-    -94.584417,
-    39.079719
+    -94.58439,
+    39.07973,
+    -94.58439,
+    39.07973
 ],
-  "geometry": {"coordinates":[-94.584417,39.079719],"type":"Point"}
+  "geometry": {"coordinates":[-94.58439,39.07973],"type":"Point"}
 }

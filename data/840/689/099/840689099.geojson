@@ -2,18 +2,24 @@
   "id": 840689099,
   "type": "Feature",
   "properties": {
-    "addr:full":"4601 State Ave Kansas City KS 66102",
+    "addr:city":"Kansas City",
+    "addr:full":"4601 State Ave Kansas City, Ks 66102-3603",
+    "addr:house_number":"4601",
     "addr:housenumber":"4601",
-    "addr:postcode":"66102",
+    "addr:phone":"+1 913-627-6700",
+    "addr:postcode":"66102-3603",
+    "addr:road":"State Ave",
+    "addr:state":"KS",
     "addr:street":"State Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.68603,39.116546,-94.68603,39.116546",
-    "geom:latitude":39.116546,
-    "geom:longitude":-94.68603,
+    "geom:bbox":"-94.68608,39.11661,-94.68608,39.11661",
+    "geom:latitude":39.11661,
+    "geom:longitude":-94.68608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4601 State Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"66102",
     "sg:province":"KS",
     "sg:website":"www.kidmuzm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533051,
+        102532927
+    ],
     "wof:belongsto":[
         85878491,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000346,
         "sg:id":"SG_2RAAmakDjUVgM521JIm0UA_39.116546_-94.686030@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045797,
-    "wof:geomhash":"e6d88d2fc60dfa4de58ef80943ace5e3",
+    "wof:geomhash":"f241311da24c03cba3c435444d209f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +69,8 @@
         }
     ],
     "wof:id":840689099,
-    "wof:lastmodified":1472623453,
-    "wof:name":"Children's Museum-Kansas City",
+    "wof:lastmodified":1534186592,
+    "wof:name":"Children'S Museum Of Kansas City",
     "wof:parent_id":85878491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -68,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.68603,
-    39.116546,
-    -94.68603,
-    39.116546
+    -94.68608,
+    39.11661,
+    -94.68608,
+    39.11661
 ],
-  "geometry": {"coordinates":[-94.68603,39.116546],"type":"Point"}
+  "geometry": {"coordinates":[-94.68608,39.11661],"type":"Point"}
 }

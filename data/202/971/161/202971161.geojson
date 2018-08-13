@@ -14,6 +14,7 @@
     "geom:longitude":-94.61808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 E 7th St",
     "sg:city":"Galena",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
         "sg:id":"SG_0jQO1VF75yQ3RL0bl8Sr2K_37.074881_-94.618080@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"98d67bb271fbec6a323cda7519a6a3c5",
+    "wof:geomhash":"6d26bb1f5d769f7068d1f79aa6387466",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,13 +67,15 @@
         }
     ],
     "wof:id":202971161,
-    "wof:lastmodified":1472623294,
+    "wof:lastmodified":1534186592,
     "wof:name":"Bazzano, Stephen J Do",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840622459
+    ],
     "wof:tags":[
         "physician",
         "family",

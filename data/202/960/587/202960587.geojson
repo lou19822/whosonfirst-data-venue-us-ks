@@ -7,6 +7,7 @@
     "addr:postcode":"66604",
     "addr:street":"Sw Gage Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-95.72494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2038 SW Gage Blvd",
     "sg:city":"Topeka",
     "sg:classifiers":[],
@@ -50,13 +51,17 @@
         }
     ],
     "wof:id":202960587,
-    "wof:lastmodified":1510696777,
+    "wof:lastmodified":1534186592,
     "wof:name":"Jade Garden",
     "wof:parent_id":85881551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        856706997
+    ],
+    "wof:supersedes":[
+        840741829
+    ],
     "wof:tags":[]
 },
   "bbox": [

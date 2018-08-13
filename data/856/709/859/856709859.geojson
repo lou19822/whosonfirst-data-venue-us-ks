@@ -7,6 +7,7 @@
     "addr:postcode":"67432",
     "addr:street":"W Crawford St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-97.144061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"638 W Crawford St",
     "sg:city":"Clay Center",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"93c23690f71fd05ff63226a379733b46",
     "wof:hierarchy":[],
     "wof:id":856709859,
-    "wof:lastmodified":1511321175,
+    "wof:lastmodified":1534186592,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840644057
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

@@ -14,6 +14,7 @@
     "geom:longitude":-97.431425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7570 W 21st St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464043441,
-    "wof:geomhash":"f2d4f0ec648e2558c268ffcd275d0cc1",
+    "wof:geomhash":"343cab2bd288988c803963f3bd77f795",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":840590873,
-    "wof:lastmodified":1472623369,
+    "wof:lastmodified":1534186592,
     "wof:name":"21st Dimensions",
     "wof:parent_id":85812577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840549509
+    ],
     "wof:tags":[
         "establishment"
     ]

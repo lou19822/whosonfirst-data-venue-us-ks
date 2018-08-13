@@ -2,18 +2,24 @@
   "id": 840615275,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 W 4th St Eureka KS 67045",
+    "addr:city":"Eureka",
+    "addr:full":"120 W 4Th St Eureka, Ks 67045-1445",
+    "addr:house_number":"120",
     "addr:housenumber":"120",
-    "addr:postcode":"67045",
+    "addr:phone":"+1 316-583-6682",
+    "addr:postcode":"67045-1445",
+    "addr:road":"W 4Th St",
+    "addr:state":"KS",
     "addr:street":"W 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.294424,37.822288,-96.294424,37.822288",
-    "geom:latitude":37.822288,
-    "geom:longitude":-96.294424,
+    "geom:bbox":"-96.29526,37.8223,-96.29526,37.8223",
+    "geom:latitude":37.8223,
+    "geom:longitude":-96.29526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"120 W 4th St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 620 583 6682",
     "sg:postcode":"67045",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000317,
         "sg:id":"SG_0yIafuT6RloJRFEtwPtGwF_37.822288_-96.294424@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044044,
-    "wof:geomhash":"a28d829267ef07d34deafacd5b7ed3c1",
+    "wof:geomhash":"ad7286974b1c8ad1258862a93e9b50b3",
     "wof:hierarchy":[],
     "wof:id":840615275,
-    "wof:lastmodified":1472623383,
-    "wof:name":"Greenwood County Historical",
+    "wof:lastmodified":1534186592,
+    "wof:name":"Greenwood County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.294424,
-    37.822288,
-    -96.294424,
-    37.822288
+    -96.29526,
+    37.8223,
+    -96.29526,
+    37.8223
 ],
-  "geometry": {"coordinates":[-96.29442400000001,37.822288],"type":"Point"}
+  "geometry": {"coordinates":[-96.29526,37.8223],"type":"Point"}
 }

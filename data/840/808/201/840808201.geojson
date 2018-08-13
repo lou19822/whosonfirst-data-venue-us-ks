@@ -2,18 +2,24 @@
   "id": 840808201,
   "type": "Feature",
   "properties": {
-    "addr:full":"705 E Main St Harper KS 67058",
+    "addr:city":"Harper",
+    "addr:full":"705 E Main St Harper, Ks 67058-1725",
+    "addr:house_number":"705",
     "addr:housenumber":"705",
-    "addr:postcode":"67058",
+    "addr:phone":"+1 620-896-7378",
+    "addr:postcode":"67058-1725",
+    "addr:road":"E Main St",
+    "addr:state":"KS",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-98.01895,37.286672,-98.01895,37.286672",
-    "geom:latitude":37.286672,
-    "geom:longitude":-98.01895,
+    "geom:bbox":"-98.01829,37.28665,-98.01829,37.28665",
+    "geom:latitude":37.28665,
+    "geom:longitude":-98.01829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"705 E Main St",
     "sg:city":"Harper",
     "sg:classifiers":[
@@ -31,19 +37,23 @@
         "soil",
         "conservation"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532015
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000490,
         "sg:id":"SG_4uSmLvLpQVebQFZhZaGc7C_37.286672_-98.018950@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464048363,
-    "wof:geomhash":"61aa54c9a04cb83941f8f0017da93c13",
+    "wof:geomhash":"e7252af71c9ddc12880e5bc6dceea8c2",
     "wof:hierarchy":[],
     "wof:id":840808201,
-    "wof:lastmodified":1472623569,
-    "wof:name":"Sunflower RC & D Area Inc",
+    "wof:lastmodified":1534186593,
+    "wof:name":"Sunflower Rc&D Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -55,10 +65,10 @@
     ]
 },
   "bbox": [
-    -98.01895,
-    37.286672,
-    -98.01895,
-    37.286672
+    -98.01829,
+    37.28665,
+    -98.01829,
+    37.28665
 ],
-  "geometry": {"coordinates":[-98.01895,37.286672],"type":"Point"}
+  "geometry": {"coordinates":[-98.01828999999999,37.28665],"type":"Point"}
 }

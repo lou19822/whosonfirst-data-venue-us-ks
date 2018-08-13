@@ -2,18 +2,24 @@
   "id": 840889111,
   "type": "Feature",
   "properties": {
-    "addr:full":"419 Maple St Chetopa KS 67336",
+    "addr:city":"Chetopa",
+    "addr:full":"419 Maple St Chetopa, Ks 67336",
+    "addr:house_number":"419",
     "addr:housenumber":"419",
+    "addr:phone":"+1 620-236-7121",
     "addr:postcode":"67336",
+    "addr:road":"Maple St",
+    "addr:state":"KS",
     "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.088248,37.037018,-95.088248,37.037018",
-    "geom:latitude":37.037018,
-    "geom:longitude":-95.088248,
+    "geom:bbox":"-95.08805,37.03703,-95.08805,37.03703",
+    "geom:latitude":37.03703,
+    "geom:longitude":-95.08805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"419 Maple St",
     "sg:city":"Chetopa",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 620 236 7121",
     "sg:postcode":"67336",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000093,
         "sg:id":"SG_70iR5GKHBtbk7dh0KNyXua_37.037018_-95.088248@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050261,
-    "wof:geomhash":"e9656244f07716eef752091d78b926d3",
+    "wof:geomhash":"9ed85b7f503e5b4213e36d02a0d1d244",
     "wof:hierarchy":[],
     "wof:id":840889111,
-    "wof:lastmodified":1472623641,
+    "wof:lastmodified":1534186593,
     "wof:name":"Chetopa Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.088248,
-    37.037018,
-    -95.088248,
-    37.037018
+    -95.08805,
+    37.03703,
+    -95.08805,
+    37.03703
 ],
-  "geometry": {"coordinates":[-95.08824799999999,37.037018],"type":"Point"}
+  "geometry": {"coordinates":[-95.08805,37.03703],"type":"Point"}
 }

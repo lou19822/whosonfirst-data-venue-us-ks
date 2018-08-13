@@ -2,18 +2,24 @@
   "id": 840951077,
   "type": "Feature",
   "properties": {
-    "addr:full":"1105 N Buckeye Ave Abilene KS 67410",
+    "addr:city":"Abilene",
+    "addr:full":"1105 N Buckeye Ave Abilene, Ks 67410",
+    "addr:house_number":"1105",
     "addr:housenumber":"1105",
+    "addr:phone":"+1 785-263-1084",
     "addr:postcode":"67410",
+    "addr:road":"N Buckeye Ave",
+    "addr:state":"KS",
     "addr:street":"N Buckeye Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.213871,38.927066,-97.213871,38.927066",
-    "geom:latitude":38.927066,
-    "geom:longitude":-97.213871,
+    "geom:bbox":"-97.21914,38.93312,-97.21914,38.93312",
+    "geom:latitude":38.93312,
+    "geom:longitude":-97.21914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1105 N Buckeye Ave",
     "sg:city":"Abilene",
     "sg:classifiers":[
@@ -28,18 +34,20 @@
     "sg:postcode":"67410",
     "sg:province":"KS",
     "sg:website":"www.seelyemansion.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000012,
         "sg:id":"SG_3N0e8GHZ1kq7sd592YRC0q_38.927066_-97.213871@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464051672,
-    "wof:geomhash":"80454854ee626d2c3351d4c9477c176c",
+    "wof:geomhash":"d38e9364415ccd32e805adcd421e1d2a",
     "wof:hierarchy":[],
     "wof:id":840951077,
-    "wof:lastmodified":1472623706,
+    "wof:lastmodified":1534186593,
     "wof:name":"Seelye Mansion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.213871,
-    38.927066,
-    -97.213871,
-    38.927066
+    -97.21914,
+    38.93312,
+    -97.21914,
+    38.93312
 ],
-  "geometry": {"coordinates":[-97.213871,38.927066],"type":"Point"}
+  "geometry": {"coordinates":[-97.21914,38.93312],"type":"Point"}
 }

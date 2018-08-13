@@ -2,18 +2,24 @@
   "id": 840895741,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Main St Towanda KS 67144",
+    "addr:city":"Towanda",
+    "addr:full":"401 Main Street Towanda, Ks 67144-8835",
+    "addr:house_number":"401",
     "addr:housenumber":"401",
-    "addr:postcode":"67144",
+    "addr:phone":"+1 316-536-2500",
+    "addr:postcode":"67144-8835",
+    "addr:road":"Main Street",
+    "addr:state":"KS",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.002988,37.795868,-97.002988,37.795868",
-    "geom:latitude":37.795868,
-    "geom:longitude":-97.002988,
+    "geom:bbox":"-97.01374,37.79496,-97.01374,37.79496",
+    "geom:latitude":37.79496,
+    "geom:longitude":-97.01374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"401 Main St",
     "sg:city":"Towanda",
     "sg:classifiers":[
@@ -27,20 +33,25 @@
     "sg:phone":"+1 316 536 2500",
     "sg:postcode":"67144",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530245,
+        102529553
+    ],
     "wof:belongsto":[
-        85688555,
+        102082695,
         85633793,
-        85851529,
-        102082695
+        85688555,
+        85851529
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000543,
         "sg:id":"SG_2E3XGVIkvKeaq90luVyjKe_37.795868_-97.002988@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050400,
-    "wof:geomhash":"bcdd2371109bc0a618a9ee4882d600f7",
+    "wof:geomhash":"393dd4a7883e866017a421cfdb1982a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,8 +62,8 @@
         }
     ],
     "wof:id":840895741,
-    "wof:lastmodified":1472623664,
-    "wof:name":"Towanda Area Historical Museum",
+    "wof:lastmodified":1534186593,
+    "wof:name":"Towanda Area Historical Society",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -61,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.002988,
-    37.795868,
-    -97.002988,
-    37.795868
+    -97.01374,
+    37.79496,
+    -97.01374,
+    37.79496
 ],
-  "geometry": {"coordinates":[-97.002988,37.795868],"type":"Point"}
+  "geometry": {"coordinates":[-97.01374,37.79496],"type":"Point"}
 }

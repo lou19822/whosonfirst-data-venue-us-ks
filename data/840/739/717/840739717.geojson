@@ -2,18 +2,24 @@
   "id": 840739717,
   "type": "Feature",
   "properties": {
-    "addr:full":"2121 7th St Clay Center KS 67432",
+    "addr:city":"Clay Center",
+    "addr:full":"2121 Seventh Street Clay Center, Ks 67432",
+    "addr:house_number":"2121",
     "addr:housenumber":"2121",
+    "addr:phone":"+1 785-632-3786",
     "addr:postcode":"67432",
+    "addr:road":"Seventh Street",
+    "addr:state":"KS",
     "addr:street":"7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.122731,39.390939,-97.122731,39.390939",
-    "geom:latitude":39.390939,
-    "geom:longitude":-97.122731,
+    "geom:bbox":"-97.12274,39.39083,-97.12274,39.39083",
+    "geom:latitude":39.39083,
+    "geom:longitude":-97.12274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2121 7th St",
     "sg:city":"Clay Center",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 785 632 3786",
     "sg:postcode":"67432",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000086,
         "sg:id":"SG_17xMoRhnBGzKQ3A3LeLqsR_39.390939_-97.122731@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464046891,
-    "wof:geomhash":"9239c589e1d7889d2e93e8e283de21f9",
+    "wof:geomhash":"51d0403a9328d37ce8dd0ba665f1a74a",
     "wof:hierarchy":[],
     "wof:id":840739717,
-    "wof:lastmodified":1472623509,
+    "wof:lastmodified":1534186592,
     "wof:name":"Clay County Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.122731,
-    39.390939,
-    -97.122731,
-    39.390939
+    -97.12274,
+    39.39083,
+    -97.12274,
+    39.39083
 ],
-  "geometry": {"coordinates":[-97.122731,39.390939],"type":"Point"}
+  "geometry": {"coordinates":[-97.12273999999999,39.39083],"type":"Point"}
 }

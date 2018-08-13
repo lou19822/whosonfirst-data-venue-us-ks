@@ -2,18 +2,24 @@
   "id": 840638407,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 N Lincoln Ave Chanute KS 66720",
+    "addr:city":"Chanute",
+    "addr:full":"111 N Lincoln Ave Chanute, Ks 66720-1819",
+    "addr:house_number":"111",
     "addr:housenumber":"111",
-    "addr:postcode":"66720",
+    "addr:phone":"+1 316-431-2730",
+    "addr:postcode":"66720-1819",
+    "addr:road":"N Lincoln Ave",
+    "addr:state":"KS",
     "addr:street":"N Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.451898,37.683505,-95.451898,37.683505",
-    "geom:latitude":37.683505,
-    "geom:longitude":-95.451898,
+    "geom:bbox":"-95.45187,37.68274,-95.45187,37.68274",
+    "geom:latitude":37.68274,
+    "geom:longitude":-95.45187,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"111 N Lincoln Ave",
     "sg:city":"Chanute",
     "sg:classifiers":[
@@ -28,19 +34,23 @@
     "sg:postcode":"66720",
     "sg:province":"KS",
     "sg:website":"www.safarimuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531363
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000248,
         "sg:id":"SG_3TBQ42O22GwGWctQvcg1Qr_37.683505_-95.451898@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044645,
-    "wof:geomhash":"1561f319fc7887941b644a701bfdabf1",
+    "wof:geomhash":"bbe04629e68dce113f90943f7e4f50d2",
     "wof:hierarchy":[],
     "wof:id":840638407,
-    "wof:lastmodified":1472623411,
-    "wof:name":"Martin & Osa Johnson Safari",
+    "wof:lastmodified":1534186592,
+    "wof:name":"Martin And Osa Johnson Safari Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -49,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.451898,
-    37.683505,
-    -95.451898,
-    37.683505
+    -95.45187,
+    37.68274,
+    -95.45187,
+    37.68274
 ],
-  "geometry": {"coordinates":[-95.451898,37.683505],"type":"Point"}
+  "geometry": {"coordinates":[-95.45187,37.68274],"type":"Point"}
 }

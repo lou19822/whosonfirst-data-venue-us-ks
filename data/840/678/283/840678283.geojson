@@ -2,17 +2,22 @@
   "id": 840678283,
   "type": "Feature",
   "properties": {
-    "addr:full":"601 N Water St Wichita KS 67203",
+    "addr:city":"Wichita",
+    "addr:full":"601 N Water St Wichita, Ks 67203-3833",
+    "addr:house_number":"601",
     "addr:housenumber":"601",
-    "addr:postcode":"67203",
+    "addr:phone":"+1 316-262-7651",
+    "addr:postcode":"67203-3833",
+    "addr:road":"N Water St",
+    "addr:state":"KS",
     "addr:street":"N Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.339435,37.696168,-97.339435,37.696168",
-    "geom:latitude":37.696168,
-    "geom:longitude":-97.339435,
+    "geom:bbox":"-97.33953,37.6948,-97.33953,37.6948",
+    "geom:latitude":37.6948,
+    "geom:longitude":-97.33953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,19 +34,25 @@
     "sg:phone":"+1 316 262 7651",
     "sg:postcode":"67203",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527175,
+        102529553,
+        102531803
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000309,
         "osm:node":366765969,
         "sg:id":"SG_7MSh9nu1OcYYqoVo8A4xi4_37.696168_-97.339435@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045528,
-    "wof:geomhash":"53cb542494fc3b55392d399cd817ae92",
+    "wof:geomhash":"d5a466ee14a956bfc305deda553c5232",
     "wof:hierarchy":[],
     "wof:id":840678283,
-    "wof:lastmodified":1510944184,
+    "wof:lastmodified":1534186592,
     "wof:name":"Kansas African American Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -51,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.339435,
-    37.696168,
-    -97.339435,
-    37.696168
+    -97.33953,
+    37.6948,
+    -97.33953,
+    37.6948
 ],
-  "geometry": {"coordinates":[-97.33943499999999,37.696168],"type":"Point"}
+  "geometry": {"coordinates":[-97.33953,37.6948],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 840667359,
   "type": "Feature",
   "properties": {
-    "addr:full":"6232 E 29th St N Wichita KS 67220",
+    "addr:city":"Wichita",
+    "addr:full":"6232 E 29Th St N Wichita, Ks 67220",
+    "addr:house_number":"6232",
     "addr:housenumber":"6232",
+    "addr:phone":"+1 316-683-5499",
     "addr:postcode":"67220",
+    "addr:road":"E 29Th St N",
+    "addr:state":"KS",
     "addr:street":"E 29Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.262725,37.737662,-97.262725,37.737662",
-    "geom:latitude":37.737662,
-    "geom:longitude":-97.262725,
+    "geom:bbox":"-97.2642,37.7377,-97.2642,37.7377",
+    "geom:latitude":37.7377,
+    "geom:longitude":-97.2642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6232 E 29th St N",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -31,7 +37,12 @@
         "village"
     ],
     "sg:website":"www.gpnc.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527175,
+        102529553,
+        102531803
+    ],
     "wof:belongsto":[
         85872819,
         102191575,
@@ -43,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000076,
         "sg:id":"SG_3OjtPHRmp8mrOJe3wCTX4d_37.737662_-97.262725@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464045260,
-    "wof:geomhash":"6df31cbd845c84339f948ce16c1022a4",
+    "wof:geomhash":"cd25674aacb1c8975dd0e274360735f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +73,8 @@
         }
     ],
     "wof:id":840667359,
-    "wof:lastmodified":1472623438,
-    "wof:name":"Great Plains Nature Ctr",
+    "wof:lastmodified":1534186592,
+    "wof:name":"Great Plains Nature Center",
     "wof:parent_id":85872819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -73,10 +85,10 @@
     ]
 },
   "bbox": [
-    -97.262725,
-    37.737662,
-    -97.262725,
-    37.737662
+    -97.2642,
+    37.7377,
+    -97.2642,
+    37.7377
 ],
-  "geometry": {"coordinates":[-97.262725,37.737662],"type":"Point"}
+  "geometry": {"coordinates":[-97.2642,37.7377],"type":"Point"}
 }

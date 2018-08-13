@@ -7,6 +7,7 @@
     "addr:postcode":"66205",
     "addr:street":"W 47Th Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.6083,39.042821,-94.6083,39.042821",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.6083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2000 W 47th Pl",
     "sg:city":"Mission",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
         "sg:id":"SG_0OoEqYAu0V9ULyngTxDGyV_39.042821_-94.608300@1303262939"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a32aca249ed3084216940fe380d70ec",
+    "wof:geomhash":"dc4b4dd8ac2a7ebce0ddc043961c1992",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +49,14 @@
         }
     ],
     "wof:id":202946865,
-    "wof:lastmodified":1472623282,
+    "wof:lastmodified":1534186593,
     "wof:name":"Woodside Health & Tennis Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840910251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"66112",
     "addr:street":"State Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.799279,39.116399,-94.799279,39.116399",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.799279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9400 State Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,15 +38,17 @@
     },
     "wof:country":"US",
     "wof:created":1464048795,
-    "wof:geomhash":"2ef70a538b8e4f26adbd761df8050dfb",
+    "wof:geomhash":"05f2eb78b59dfd44374a353d954f8951",
     "wof:hierarchy":[],
     "wof:id":840821563,
-    "wof:lastmodified":1472623590,
+    "wof:lastmodified":1534186593,
     "wof:name":"Wyandotte County Appraiser's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840831931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"66062",
     "addr:street":"S Mur-Len Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.779558,38.881347,-94.779558,38.881347",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.779558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13505 S Mur-Len Rd",
     "sg:city":"Olathe",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464043069,
-    "wof:geomhash":"361bb791a39e32e9609dadb763783213",
+    "wof:geomhash":"749c85d48507547e3181ba18d3fd0d78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":840573303,
-    "wof:lastmodified":1472623338,
+    "wof:lastmodified":1534186592,
     "wof:name":"Alstom Power Inc",
     "wof:parent_id":85828983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840612119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

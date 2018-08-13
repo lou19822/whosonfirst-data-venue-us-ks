@@ -7,6 +7,7 @@
     "addr:postcode":"66612",
     "addr:street":"Sw Jackson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.677219,39.046304,-95.677219,39.046304",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.677219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"900 SW Jackson St",
     "sg:city":"Topeka",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5ywBF7vupAlLkGIc5sbxYH_39.046304_-95.677219@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f0b3f55048d5140a1ef8c52ec138b54",
+    "wof:geomhash":"0bc1f9a70ad6a197e7e26438e4d8c4e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":169638913,
-    "wof:lastmodified":1472623287,
+    "wof:lastmodified":1534186593,
     "wof:name":"Personnel Services Div",
     "wof:parent_id":85881547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840872621
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "state"

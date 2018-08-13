@@ -2,18 +2,24 @@
   "id": 840914687,
   "type": "Feature",
   "properties": {
-    "addr:full":"701 Amidon St Wichita KS 67203",
+    "addr:city":"Wichita",
+    "addr:full":"701 Amidon Wichita, Ks 67203",
+    "addr:house_number":"701",
     "addr:housenumber":"701",
+    "addr:phone":"+1 316-264-0448",
     "addr:postcode":"67203",
+    "addr:road":"Amidon",
+    "addr:state":"KS",
     "addr:street":"Amidon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.363209,37.697613,-97.363209,37.697613",
-    "geom:latitude":37.697613,
-    "geom:longitude":-97.363209,
+    "geom:bbox":"-97.3641,37.69454,-97.3641,37.69454",
+    "geom:latitude":37.69454,
+    "geom:longitude":-97.3641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"701 Amidon St",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -27,7 +33,12 @@
     "sg:phone":"+1 316 264 9799",
     "sg:postcode":"67203",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527175,
+        102529553,
+        102531803
+    ],
     "wof:belongsto":[
         85812637,
         102191575,
@@ -39,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000109,
         "sg:id":"SG_5zXJwMK1oowaaIvvQGx6AJ_37.697613_-97.363209@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050866,
-    "wof:geomhash":"171ea885049044114f8b38b1bb44ca19",
+    "wof:geomhash":"456b0e9b407ef928bd19e1aa83f4918f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":840914687,
-    "wof:lastmodified":1472623707,
+    "wof:lastmodified":1534186593,
     "wof:name":"Botanica The Wichita Gardens",
     "wof:parent_id":85812637,
     "wof:placetype":"venue",
@@ -67,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.363209,
-    37.697613,
-    -97.363209,
-    37.697613
+    -97.3641,
+    37.69454,
+    -97.3641,
+    37.69454
 ],
-  "geometry": {"coordinates":[-97.363209,37.697613],"type":"Point"}
+  "geometry": {"coordinates":[-97.36409999999999,37.69454],"type":"Point"}
 }

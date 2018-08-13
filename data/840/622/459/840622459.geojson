@@ -7,6 +7,7 @@
     "addr:postcode":"66739",
     "addr:street":"E 7Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.63912,37.07499,-94.63912,37.07499",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.63912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 E 7th St",
     "sg:city":"Galena",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464044226,
-    "wof:geomhash":"f02b1451b9bde10cfff3fd1822f692a2",
+    "wof:geomhash":"47c7978b8148785aa3aeac471fc5ba4e",
     "wof:hierarchy":[],
     "wof:id":840622459,
-    "wof:lastmodified":1472623393,
+    "wof:lastmodified":1534186592,
     "wof:name":"Bazzano Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202971161
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -2,18 +2,24 @@
   "id": 840894851,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 E Main St Sedan KS 67361",
+    "addr:city":"Sedan",
+    "addr:full":"204 E Main St Sedan, Ks 67361",
+    "addr:house_number":"204",
     "addr:housenumber":"204",
+    "addr:phone":"+1 620-725-3470",
     "addr:postcode":"67361",
+    "addr:road":"E Main St",
+    "addr:state":"KS",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.185445,37.126771,-96.185445,37.126771",
-    "geom:latitude":37.126771,
-    "geom:longitude":-96.185445,
+    "geom:bbox":"-96.18426,37.12674,-96.18426,37.12674",
+    "geom:latitude":37.12674,
+    "geom:longitude":-96.18426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"204 E Main St",
     "sg:city":"Sedan",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 620 725 3470",
     "sg:postcode":"67361",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000084,
         "sg:id":"SG_5GlpijmtYLjT8gxOfOp9dI_37.126771_-96.185445@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464050381,
-    "wof:geomhash":"0f4d11176a1c052aa263044ba387ca8c",
+    "wof:geomhash":"7023a67add23642c7101ddf8872e2926",
     "wof:hierarchy":[],
     "wof:id":840894851,
-    "wof:lastmodified":1472623657,
+    "wof:lastmodified":1534186593,
     "wof:name":"Emmett Kelly Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.185445,
-    37.126771,
-    -96.185445,
-    37.126771
+    -96.18426,
+    37.12674,
+    -96.18426,
+    37.12674
 ],
-  "geometry": {"coordinates":[-96.185445,37.126771],"type":"Point"}
+  "geometry": {"coordinates":[-96.18425999999999,37.12674],"type":"Point"}
 }

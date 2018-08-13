@@ -14,6 +14,7 @@
     "geom:longitude":-97.327768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1827 N Mosley",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464049499,
-    "wof:geomhash":"4e0522eb4e2a4e2027e869fbfc636bcd",
+    "wof:geomhash":"03a34829d11ff80cf3c7afe35c87c2e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":840852467,
-    "wof:lastmodified":1472623619,
+    "wof:lastmodified":1534186593,
     "wof:name":"Sims Electric Svc Inc",
     "wof:parent_id":85872827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        202982565
+    ],
     "wof:tags":[
         "electric",
         "contractor"

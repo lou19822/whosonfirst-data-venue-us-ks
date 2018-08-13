@@ -2,18 +2,24 @@
   "id": 840648369,
   "type": "Feature",
   "properties": {
-    "addr:full":"631 N 126th St Bonner Springs KS 66109",
+    "addr:city":"Bonner Sprngs",
+    "addr:full":"631 N 126Th St Bonner Sprngs, Ks 66012-9046",
+    "addr:house_number":"631",
     "addr:housenumber":"631",
-    "addr:postcode":"66109",
+    "addr:phone":"+1 913-721-1078",
+    "addr:postcode":"66012-9046",
+    "addr:road":"N 126Th St",
+    "addr:state":"KS",
     "addr:street":"N 126Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.872373,39.113088,-94.872373,39.113088",
-    "geom:latitude":39.113088,
-    "geom:longitude":-94.872373,
+    "geom:bbox":"-94.87229,39.11031,-94.87229,39.11031",
+    "geom:latitude":39.11031,
+    "geom:longitude":-94.87229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"631 N 126th St",
     "sg:city":"Bonner Springs",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 913 721 1078",
     "sg:postcode":"66109",
     "sg:province":"KS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85878489,
         102191575,
@@ -39,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000504,
         "sg:id":"SG_3x3OcfXxMA1nv4bOtiWiO9_39.113088_-94.872373@1294126544"
     },
     "wof:country":"US",
     "wof:created":1464044845,
-    "wof:geomhash":"80683567f74520da53a261f0d4d5fa1f",
+    "wof:geomhash":"fb218b10659800c2d85b951726af9bca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +65,8 @@
         }
     ],
     "wof:id":840648369,
-    "wof:lastmodified":1472623411,
-    "wof:name":"Wyandotte County Museum",
+    "wof:lastmodified":1534186592,
+    "wof:name":"Wyandotte County Historical Society And Museum",
     "wof:parent_id":85878489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ks",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.872373,
-    39.113088,
-    -94.872373,
-    39.113088
+    -94.87229,
+    39.11031,
+    -94.87229,
+    39.11031
 ],
-  "geometry": {"coordinates":[-94.872373,39.113088],"type":"Point"}
+  "geometry": {"coordinates":[-94.87229000000001,39.11031],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 169648289,
   "type": "Feature",
   "properties": {
-    "addr:full":"9112 E Central Ave Wichita KS 67206",
+    "addr:city":"Wichita",
+    "addr:full":"9112 E Central Wichita, Ks 67206",
+    "addr:house_number":"9112",
     "addr:housenumber":"9112",
+    "addr:phone":"+1 316-634-2787",
     "addr:postcode":"67206",
+    "addr:road":"E Central",
+    "addr:state":"KS",
     "addr:street":"E Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.226295,37.694031,-97.226295,37.694031",
-    "geom:latitude":37.694031,
-    "geom:longitude":-97.226295,
+    "geom:bbox":"-97.23329,37.69394,-97.23329,37.69394",
+    "geom:latitude":37.69394,
+    "geom:longitude":-97.23329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"9112 E Central Ave",
     "sg:city":"Wichita",
     "sg:classifiers":[
@@ -33,7 +39,12 @@
         "art"
     ],
     "sg:website":"www.wcfta.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527175,
+        102529553,
+        102531803
+    ],
     "wof:belongsto":[
         85688555,
         85633793,
@@ -43,10 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402000002,
         "sg:id":"SG_3jFdkl03AGfweUD0R0smt8_37.694031_-97.226295@1294126544"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f330687d2324eb94ab877474124fa37",
+    "wof:geomhash":"5ec09c9f0c5b93ff49581cdfc613e836",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":169648289,
-    "wof:lastmodified":1472623296,
+    "wof:lastmodified":1534186592,
     "wof:name":"Wichita Center For The Arts",
     "wof:parent_id":85819881,
     "wof:placetype":"venue",
@@ -73,10 +85,10 @@
     ]
 },
   "bbox": [
-    -97.226295,
-    37.694031,
-    -97.226295,
-    37.694031
+    -97.23329,
+    37.69394,
+    -97.23329,
+    37.69394
 ],
-  "geometry": {"coordinates":[-97.22629499999999,37.694031],"type":"Point"}
+  "geometry": {"coordinates":[-97.23329,37.69394],"type":"Point"}
 }
